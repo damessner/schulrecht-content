@@ -1,1 +1,306 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §35 Abs.1",
+    "id": "B22-L3-001",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Die Abwesenheit bleibt gerechtfertigt, weil eine Nachmeldung innerhalb einer Woche immer genügt.",
+      "Die Abwesenheit gilt als nicht gerechtfertigt, weil weder unverzüglich gemeldet noch rechtfertigt wurde.",
+      "Die Abwesenheit wird automatisch zu genehmigtem Urlaub umgewertet.",
+      "Eine verspätete Meldung ist harmlos, solange die Kollegin den Unterricht irgendwie übernommen hat."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nachmeldung nach Tagen ersetzt die Pflicht zur sofortigen Meldung nicht.",
+      "Richtig: Ohne unverzügliche Meldung mit Rechtfertigung fehlt die Grundlage für gerechtfertigt.",
+      "Falsch: Eine automatische Umdeutung in Urlaub gibt es nicht.",
+      "Falsch: Improvisierte Vertretung heilt den Meldeverstoß nicht."
+    ],
+    "richtig": [1],
+    "schulart": ["MS", "AHS"],
+    "situation": "Mittelschullehrerin Falk bleibt Montag und Dienstag kommentarlos dem Unterricht fern und meldet sich erst am Mittwoch mit der Begründung, sie sei krank gewesen und die Vertretung habe ja funktioniert. Die Direktion hatte zwei Tage keine Information und konnte keine geordnete Vertretung sichern. Falk beharrt, verspätet sei gut genug.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Falks beide Tage gelten als nicht gerechtfertigt, weil die sofortige Meldung mit Rechtfertigung fehlt. Wer ohne Befreiung fernbleibt, muss den Grund unverzüglich melden und die Abwesenheit rechtfertigen. Zum Nachlesen: LDG §35 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §35 Abs.2",
+    "id": "B22-L3-002",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Die Bescheinigung ist mangelhaft und nachzubessern, weil Beginn und voraussichtliche Dauer fehlen.",
+      "Ein formloser Zettel mit einer Diagnose allein erfüllt die Anforderungen immer.",
+      "Bei einer Woche Abwesenheit braucht es grundsätzlich gar keine Bescheinigung.",
+      "Die Direktion darf eine lückenhafte Bescheinigung nicht beanstanden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese zwei Angaben sind der Pflichtinhalt für die Vertretungsplanung.",
+      "Falsch: Ohne Beginn und Dauer ist die Bescheinigung unvollständig.",
+      "Falsch: Über drei Arbeitstage hinaus ist die Bescheinigung jedenfalls geschuldet.",
+      "Falsch: Beanstandung und Nachforderung sind gerade vorgesehen."
+    ],
+    "richtig": [0],
+    "schulart": ["VS", "MS"],
+    "situation": "Berufsschullehrer Darmann fehlt eine volle Arbeitswoche und legt danach einen handschriftlichen Zettel vor, auf dem nur eine Diagnose und ein Stempel stehen, ohne Beginn und ohne voraussichtliche Dauer. Er weigert sich nachzubessern und meint, der Stempel müsse genügen. Die Direktion streitet über gerechtfertigt oder nicht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Darmanns Woche gilt ohne Nachbesserung als nicht gerechtfertigt. Die Bescheinigung muss den Beginn und nach Möglichkeit die voraussichtliche Dauer enthalten. Zum Nachlesen: LDG §35 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §36 Abs.1",
+    "id": "B22-L3-003",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Er darf die Anordnung ignorieren, weil ein privates Attest jede behördliche Anordnung schlägt.",
+      "Er muss sich der angeordneten Untersuchung unterziehen, weil berechtigte Zweifel an der Eignung bestehen.",
+      "Die Anordnung gilt nur, wenn das gesamte Kollegium vorher zugestimmt hat.",
+      "Eine Untersuchung ist erst nach einem vollen Jahr voller Ausfälle zulässig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein mitgebrachtes Attest ersetzt die angeordnete Begutachtung nicht.",
+      "Richtig: Bei berechtigten Zweifeln ordnet die Dienstbehörde an und der Lehrer hat Folge zu leisten.",
+      "Falsch: Zuständig ist die Dienstbehörde, nicht das Kollegium.",
+      "Falsch: Eine Jahressperre gibt es nicht, Anlass sind die konkreten Zweifel."
+    ],
+    "richtig": [1],
+    "schulart": ["alle"],
+    "situation": "An einer Volksschule häufen sich bei Lehrer Ortner Ausfälle, massive Konzentrationsprobleme und unsicheres Auftreten im Unterricht mit Aufsichtslücken. Die Dienstbehörde ordnet wegen berechtigter Zweifel an der gesundheitlichen Eignung eine Untersuchung an. Ortner verweigert sie und legt stattdessen ein kurzes Gefälligkeitsattest seiner Wahlärztin vor.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Ortner muss zur angeordneten Untersuchung, das private Attest genügt nicht. Bei berechtigten Zweifeln an der gesundheitlichen Eignung besteht Untersuchungspflicht auf Anordnung. Zum Nachlesen: LDG §36 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.1",
+    "id": "B22-L3-004",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Alles richtig gemacht, Schweigen aus Kollegialität geht vor.",
+      "Er hätte den Verdacht unverzüglich seinem unmittelbaren Vorgesetzten melden müssen.",
+      "Es genügt, wenn er erst nach internen Ermittlungen in einigen Wochen meldet.",
+      "Zuständig sind zuerst die Eltern der Klasse, nicht der Dienstweg."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kollegialität entschuldigt kein Verschweigen eines ernsten Verdachts.",
+      "Richtig: Schon der begründete Verdacht mit Schulbezug geht sofort an den direkten Vorgesetzten.",
+      "Falsch: Abwarten und selbst ermitteln verletzt die Unverzüglichkeit.",
+      "Falsch: Eltern sind nicht die erste Adresse für solche Verdachtsmeldungen."
+    ],
+    "richtig": [1],
+    "schulart": ["BHS", "AHS"],
+    "situation": "Professor Eder bemerkt im Dienst, dass teure Geräte aus der Physiksammlung verschwunden sind und Spuren auf eine Straftat mit Bezug zur Schule hindeuten. Aus falsch verstandener Kollegialität schweigt er wochenlang und ermittelt auf eigene Faust. Erst als die Polizei von anderer Seite kommt, wird der Vorfall bekannt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Eders Schweigen verletzt die Meldepflicht, sofortige Meldung war geschuldet. Wer im Dienst einen begründeten Verdacht auf eine von Amts wegen zu verfolgende Straftat mit Schulbezug erhält, meldet unverzüglich dem Vorgesetzten. Zum Nachlesen: LDG §37 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.3",
+    "id": "B22-L3-005",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Das ist zulässig, im Krankenstand darf man sich ohne jede Nachricht überall aufhalten.",
+      "Er verletzt seine Meldepflicht, weil er Aufenthaltsnahme und Adresse außerhalb des Wohnsitzes nicht gemeldet hat.",
+      "Es genügt, dass seine Familie weiß, wo er ist.",
+      "Eine Meldung wäre nur bei einer Auslandsreise nötig gewesen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade im Krankenstand muss Erreichbarkeit gesichert bleiben.",
+      "Richtig: Aufenthalt außerhalb des Wohnsitzes plus Adresse sind zu melden.",
+      "Falsch: Familienwissen ersetzt die Meldung an den Dienstgeber nicht.",
+      "Falsch: Schon der Inlandsaufenthalt außerhalb des Wohnsitzes löst die Pflicht aus."
+    ],
+    "richtig": [1],
+    "schulart": ["MS", "BHS"],
+    "situation": "Lehrer Gasser ist drei Wochen gerechtfertigt krankgeschrieben, verreist aber unangekündigt an einen abgelegenen Ferienort in einem anderen Bundesland und ist tagelang weder telefonisch noch per Post erreichbar. Die Direktion will den Genesungsverlauf prüfen und eine Kontrolluntersuchung zustellen, scheitert aber an der unbekannten Adresse.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Gasser verletzt die Aufenthaltsmeldepflicht und riskiert dienstrechtliche Folgen. Wer gerechtfertigt fehlt und außerhalb des Wohnsitzes Aufenthalt nimmt, meldet Aufenthaltsnahme und Adresse. Zum Nachlesen: LDG §37 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §35 Abs.2",
+    "id": "B22-L3-006",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Die Rechtfertigung bleibt bestehen, Behandlung ist reine Privatsache.",
+      "Seine Abwesenheit gilt als nicht gerechtfertigt, weil er sich zumutbarer Behandlung und Mitwirkung entzieht.",
+      "Es folgt höchstens ein Gespräch, rechtlich ändert sich nichts.",
+      "Nur ein fehlender Zettel schadet, Verhalten bei Behandlung ist egal."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Im Dienstrecht hängt die Rechtfertigung an der Mitwirkung.",
+      "Richtig: Entzug bei zumutbarer Behandlung und Verweigerung zumutbarer Mitwirkung lassen die Rechtfertigung entfallen.",
+      "Falsch: Es geht um Verlust der Rechtfertigung, nicht nur um ein Gespräch.",
+      "Falsch: Auch Entzug und Verweigerung kippen die Rechtfertigung."
+    ],
+    "richtig": [1],
+    "schulart": ["VS", "AHS"],
+    "situation": "Lehrerin Hartl ist seit Wochen krankgeschrieben, schwänzt aber die zumutbare verordnete Therapie, sagt den Termin zur angeordneten Kontrolluntersuchung kommentarlos ab und erklärt, das gehe niemanden etwas an. Sie besteht dennoch auf bezahlter gerechtfertigter Abwesenheit für die gesamte Zeit.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Hartls Abwesenheit gilt als nicht gerechtfertigt. Wer sich zumutbarer Behandlung entzieht oder zumutbare Mitwirkung an der Untersuchung verweigert, verliert die Rechtfertigung. Zum Nachlesen: LDG §35 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §35 Abs.2",
+    "id": "B22-L3-007",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Die verspätete Meldung erst am vierten Tag ohne Rechtfertigung macht die Zeit ungerechtfertigt.",
+      "Der Zettel ohne Beginn und voraussichtliche Dauer erfüllt die Bescheinigungspflicht nicht.",
+      "Die Verweigerung der zumutbaren Mitwirkung an der angeordneten Untersuchung kippt die Rechtfertigung zusätzlich.",
+      "Fünf Tage fehlen ist automatisch Urlaub, daher ist alles geheilt.",
+      "Ein Versprechen, später einmal zum Arzt zu gehen, ersetzt Bescheinigung und Untersuchung.",
+      "Weil eine Kollegin einsprang, entfallen alle Melde- und Nachweispflichten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne unverzügliche Meldung mit Rechtfertigung fehlt die Basis.",
+      "Richtig: Beginn und Dauer sind der Pflichtinhalt bei dieser Fehldauer.",
+      "Richtig: Verweigerung zumutbarer Mitwirkung lässt die Rechtfertigung entfallen.",
+      "Falsch: Eine automatische Umdeutung in Urlaub gibt es nicht.",
+      "Falsch: Ein Versprechen ersetzt weder Bescheinigung noch Untersuchung.",
+      "Falsch: Einspringen der Kollegin heilt keinen einzigen Pflichtverstoß."
+    ],
+    "richtig": [0, 1, 2],
+    "schulart": ["alle"],
+    "situation": "Lehrer Illmer fehlt eine volle Arbeitswoche, meldet sich erstmals am vierten Tag ohne klaren Grund, legt danach einen Zettel ohne Beginn und Dauer vor und verweigert die Mitwirkung an der daraufhin angeordneten Kontrolluntersuchung. Er meint, in Summe sei das schon irgendwie gerechtfertigt. Wähle alle Umstände, die die Rechtfertigung entfallen lassen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Illmers Woche gilt als nicht gerechtfertigt, alle drei Versäumnisse kippen die Rechtfertigung. Wer nicht unverzüglich meldet, die geschuldete Bescheinigung mit Inhalt nicht bringt oder Mitwirkung verweigert, verliert die Rechtfertigung. Zum Nachlesen: LDG §35 Abs.2.",
+    "zusatzquellen": ["LDG §35 Abs.1"]
+  },
+  {
+    "hauptquelle": "LDG §36 Abs.2",
+    "id": "B22-L3-008",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Die erste Untersuchung war spätestens drei Monate nach Beginn der Abwesenheit anzuordnen.",
+      "Danach ist längstens alle drei Monate erneut eine Untersuchung anzuordnen.",
+      "Sind Fachärzte für eine verlässliche Beurteilung nötig, sind sie heranzuziehen.",
+      "Ein Jahr abzuwarten und dann einmalig zu prüfen genügt.",
+      "Wiederholte Anordnungen in Abständen sind verboten, eine reicht für immer.",
+      "Anlasslos darf bei langer Krankheit niemals untersucht werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Drei Monate nach Beginn ist die späteste erste Anordnung.",
+      "Richtig: Der Rhythmus von längstens drei Monaten sichert die laufende Prüfung.",
+      "Richtig: Fachärzte sind bei Bedarf ausdrücklich heranzuziehen.",
+      "Falsch: Ein Jahr zuwarten ist deutlich zu spät.",
+      "Falsch: Wiederholte Anordnungen sind gerade vorgesehen.",
+      "Falsch: Lange Abwesenheit wegen Krankheit ist genau der Anlass."
+    ],
+    "richtig": [0, 1, 2],
+    "schulart": ["AHS", "BHS", "MS"],
+    "situation": "Eine Professorin ist seit fünf Monaten ununterbrochen wegen einer Erkrankung vom Dienst abwesend, ohne dass je eine behördliche Untersuchung ihres Gesundheitszustandes angeordnet wurde. Die Dienstbehörde meint, man warte besser noch ein Jahr ab. Die Personalvertretung prüft den Fristen-Grenzfall. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Die Anordnungen sind längst überfällig, der Drei-Monats-Rhythmus mit Facharztbeiziehung bei Bedarf gilt. Bei krankheitsbedingter Abwesenheit ist spätestens nach drei Monaten und dann längstens alle drei Monate zu untersuchen. Zum Nachlesen: LDG §36 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.1a",
+    "id": "B22-L3-009",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Die Meldung darf unterbleiben, wenn sie eine auf persönliches Vertrauen angewiesene Tätigkeit beeinträchtigen würde.",
+      "Der Schulleiter kann dennoch aus in der Person gelegenen Gründen die Meldung verfügen.",
+      "Der Schulleiter kann dennoch aus in der Tätigkeit selbst gelegenen Gründen die Meldung verfügen.",
+      "Es besteht immer eine Meldepflicht ganz ohne Ausnahme für Vertrauensarbeit.",
+      "Eine Verfügung des Leiters ist unbeachtlich, Vertrauensarbeit schlägt alles.",
+      "Statt dem Vorgesetzten sind zuerst die Medien zu informieren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Schutz der Vertrauensarbeit kann die Pflicht entfallen lassen.",
+      "Richtig: In der Person gelegene Gründe können die Verfügung tragen.",
+      "Richtig: In der Tätigkeit gelegene Gründe können die Verfügung tragen.",
+      "Falsch: Die Ausnahme für Vertrauensarbeit ist ausdrücklich vorgesehen.",
+      "Falsch: Die Leiterverfügung stellt die Meldepflicht gerade wieder her.",
+      "Falsch: Der Dienstweg über den Vorgesetzten bleibt einzuhalten."
+    ],
+    "richtig": [0, 1, 2],
+    "schulart": ["alle"],
+    "situation": "Eine Beratungslehrerin erfährt in einem streng vertraulichen Einzelgespräch von einem Vorfall mit möglichem Schulbezug und fürchtet, jede Meldung würde die Vertrauensarbeit mit der betroffenen Person dauerhaft zerstören. Der Schulleiter prüft, ob er wegen der besonderen Umstände in Person und Tätigkeit dennoch eine Meldung anordnen kann. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": ["LDG §37 Abs.1b"],
+    "aufloesung": "Grundsätzlich darf die Meldung zum Schutz der Vertrauensarbeit unterbleiben, aber die Leiterverfügung geht vor. Der Leiter kann aus Gründen in der Person oder in der Tätigkeit selbst die Meldung verfügen. Zum Nachlesen: LDG §37 Abs.1a."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.1c",
+    "id": "B22-L3-010",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Die Mitverursachung durch Dritte ist unverzüglich der Dienstbehörde zu melden.",
+      "Auf Verlangen sind alle für Ersatzansprüche nötigen Daten bekanntzugeben.",
+      "Auf Verlangen sind auch die Beweismittel für Ersatzansprüche zu liefern.",
+      "Schon eine teilweise Verursachung durch Dritte löst die Meldepflicht aus.",
+      "Die Unfallursache ist privat und muss dem Dienstgeber nie mitgeteilt werden.",
+      "Eine beiläufige Erzählung nach Genesung genügt der Pflicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sofortige Meldung an die Dienstbehörde ist verlangt.",
+      "Richtig: Daten für den Rückgriff sind auf Verlangen zu liefern.",
+      "Richtig: Auch Beweismittel gehören auf Verlangen dazu.",
+      "Richtig: Ganz oder teilweise genügt bereits für die Pflicht.",
+      "Falsch: Fremdeinwirkung bei Dienstverhinderung ist ausdrücklich meldepflichtig.",
+      "Falsch: Beiläufig und verspätet genügt nicht, unverzüglich ist verlangt."
+    ],
+    "richtig": [0, 1, 2],
+    "schulart": ["VS", "MS", "AHS"],
+    "situation": "Lehrer Jansen wird auf dem Weg zur Schule von einem Auto erfasst und ist wochenlang dienstverhindert. Der Unfall geht eindeutig zumindest teilweise auf eine andere Person zurück. Jansen meldet nur krank, verschweigt die Fremdeinwirkung und verweigert später Unfalldaten und Fotos für mögliche Ersatzansprüche des Dienstgebers. Wähle alles, was er schuldet.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Jansen muss Fremdeinwirkung sofort melden und auf Verlangen Daten plus Beweismittel liefern. Geht die Verhinderung ganz oder teilweise auf Dritte zurück, ist unverzüglich zu melden und alles für Ersatzansprüche beizubringen. Zum Nachlesen: LDG §37 Abs.1c."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.3",
+    "id": "B22-L3-011",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": [
+      "Der beurlaubte Lehrer muss für die Hauptferien seine Zustelladresse melden.",
+      "Der Schulleiter muss zusätzlich für Weihnachts-, Semester- und Osterferien seine Zustelladresse melden.",
+      "Die Adresse muss eine amtliche Verständigung auf kürzestem Weg ermöglichen.",
+      "Niemand muss in Ferien je eine Adresse bekanntgeben.",
+      "Erreichbarkeit über soziale Medien ersetzt die Zustelladresse.",
+      "Ein Umzug mit Wohnsitzwechsel während des Jahres muss nie gemeldet werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hauptferien-Adresse gilt für alle beurlaubten Lehrer.",
+      "Richtig: Leiter trifft die erweiterte Pflicht auch in den kleinen Ferien.",
+      "Richtig: Kürzeste Zustellbarkeit ist der Zweck der Meldung.",
+      "Falsch: Gerade für die Ferien braucht es eine Zustelladresse.",
+      "Falsch: Verlangt ist eine Adresse für amtliche Zustellung, kein Chat-Profil.",
+      "Falsch: Jede Wohnsitzänderung ist gesondert meldepflichtig."
+    ],
+    "richtig": [0, 1, 2],
+    "schulart": ["alle"],
+    "situation": "Vor den Sommerferien verweigern mehrere Lehrpersonen die Bekanntgabe einer Zustelladresse, ein Schulleiter meint, für ihn gelte das zu Weihnachten und in den Semesterferien erst recht nicht. Prompt scheitert eine dringende amtliche Verständigung in den Ferien. Die Behörde prüft den Ferien-Grenzfall. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": ["LDG §37 Abs.2"],
+    "aufloesung": "Alle geben für die Hauptferien eine Zustelladresse an, die Leitung auch für die kleinen Ferien. So bleiben dringende Verständigungen auf kürzestem Weg zustellbar. Zum Nachlesen: LDG §37 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §35 Abs.2",
+    "id": "B22-L3-012",
+    "level": "L3",
+    "modul_id": "B22",
+    "optionen": ["Richtig", "Falsch"],
+    "pro_option_feedback": [
+      "Falsch gedacht: Die Bescheinigung allein heilt nicht jeden Pflichtverstoß.",
+      "Richtig erkannt: Auch mit Bescheinigung kippt die Rechtfertigung bei Entzug oder Verweigerung."
+    ],
+    "richtig": [1],
+    "schulart": ["alle"],
+    "situation": "Mythen-Check im Lehrerzimmer: Eine Kollegin behauptet, wer irgendeine ärztliche Bescheinigung vorlegt, sei automatisch gerechtfertigt abwesend, selbst wenn er die zumutbare Behandlung schwänzt und die Mitwirkung an der angeordneten Untersuchung verweigert.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, die Bescheinigung heilt Entzug und Verweigerung nicht. Auch mit Zettel gilt die Abwesenheit als nicht gerechtfertigt, wenn man sich zumutbarer Behandlung entzieht oder Mitwirkung verweigert. Zum Nachlesen: LDG §35 Abs.2."
+  }
+]
