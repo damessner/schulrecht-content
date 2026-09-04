@@ -1,1 +1,427 @@
-[]
+[
+  {
+    "id": "A13-L2-001",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Du bist Klassenvorstand einer 3. Klasse Mittelschule. Am Konferenztag prüfst du für mehrere Schüler mit Jahreszeugnissen, ob sie die Stufe erfolgreich abgeschlossen haben und damit aufsteigen dürfen. Welche Prüfpunkte gehören zu dieser Grundprüfung?",
+    "optionen": [
+      "Jeder Pflichtgegenstand weist eine Beurteilung auf, kein Pflichtgegenstand ist schlechter als Befriedigend.",
+      "In keinem Pflichtgegenstand steht ein Nicht genügend.",
+      "Teilnahmevermerke in unverbindlichen Übungen ersetzen fehlende Pflichtgegenstandsnoten.",
+      "Ein erfolgreich abgelegter Nachweis über gleichwertigen Unterricht außerhalb der Schule zählt wie ein Zeugnis.",
+      "Eine fehlende Beurteilung in einem Pflichtgegenstand ist egal, solange der Schnitt stimmt."
+    ],
+    "richtig": [0, 1, 3],
+    "pro_option_feedback": [
+      "Richtig: Vollständige Beurteilung in allen Pflichtgegenständen ist die Basis des erfolgreichen Abschlusses.",
+      "Richtig: Kein Nicht genügend ist die Kernbedingung für den Normalaufstieg.",
+      "Falsch: Übungen sind keine Pflichtgegenstände und heilen fehlende Noten nicht.",
+      "Richtig: Der gleichwertige Unterricht mit Nachweis steht dem Zeugnis gleich.",
+      "Falsch: Jede fehlende Pflichtbeurteilung verhindert den erfolgreichen Abschluss."
+    ],
+    "aufloesung": "Erfolgreich abgeschlossen heißt alle Pflichtgegenstände beurteilt und keiner negativ. Gleichwertiger Unterricht mit Nachweis zählt dazu. Zum Nachlesen: SchUG §25 Abs.1.",
+    "hauptquelle": "SchUG §25 Abs.1",
+    "zusatzquellen": ["SchUG §25 Abs.7"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-002",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Du bereitest die Klassenkonferenz für einen Schüler mit genau einem Nicht genügend in Englisch vor, der trotzdem aufsteigen möchte. Die Konferenz muss alle Voraussetzungen der Aufstiegsmöglichkeit der Reihe nach abhaken. Welche Punkte gehören auf diese Checkliste?",
+    "optionen": [
+      "Im Vorjahr stand im selben Fach keine negative Note im Jahreszeugnis.",
+      "Das Fach wird in einer höheren Stufe lehrplanmäßig weitergeführt.",
+      "Die Konferenz stellt fest, dass der Schüler sonst dem Unterricht oben folgen kann.",
+      "Ein schriftliches Versprechen der Eltern auf Nachhilfe im Sommer genügt statt Konferenzbeschluss.",
+      "Bei zwei negativen Noten gilt automatisch dieselbe Aufstiegsmöglichkeit ohne weitere Prüfung.",
+      "Gute Noten in allen anderen Fächern ersetzen den Konferenzbeschluss automatisch."
+    ],
+    "richtig": [0, 1, 2],
+    "pro_option_feedback": [
+      "Richtig: Keine Wiederholung derselben negativen Note aus dem Vorjahr ist erste Sperrprüfung.",
+      "Richtig: Weiterführung des Fachs oben ist eigene Voraussetzung, damit die Lücke aufholbar bleibt.",
+      "Richtig: Die positive Gesamtprognose der Konferenz ist der Kern des Beschlusses.",
+      "Falsch: Ein Elternversprechen ersetzt weder Voraussetzung noch Beschluss.",
+      "Falsch: Diese Aufstiegsmöglichkeit gilt nur bei genau einer negativen Note.",
+      "Falsch: Auch bei lauter Einsern braucht es die ausdrückliche Feststellung der Konferenz."
+    ],
+    "aufloesung": "Einmal negativ geht nur mit drei Häkchen: nicht schon im Vorjahr dasselbe Fach negativ, Fach läuft oben weiter, Konferenz traut ihm das Mitkommen zu. Zum Nachlesen: SchUG §25 Abs.2.",
+    "hauptquelle": "SchUG §25 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-003",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Eine Schülerin hat heuer in Mathematik ein Nicht genügend, im Vorjahr stand dort ebenfalls ein Nicht genügend. Die Eltern argumentieren, die Konferenz könne sie trotzdem einfach aufsteigen lassen, weil sonst alles positiv sei. Was musst du als Klassenvorstand korrekt entgegenhalten?",
+    "optionen": [
+      "Dieselbe negative Note im selben Fach zwei Jahre hintereinander sperrt diese Aufstiegsmöglichkeit.",
+      "Die Konferenz darf diese Sperre mit Zweidrittelmehrheit überstimmen.",
+      "Als Ausweg bleibt die Wiederholungsprüfung, sofern die sonstigen Grenzen eingehalten sind.",
+      "Ein Fachwechsel im nächsten Jahr hebt die Sperre rückwirkend auf.",
+      "Auch ein Schulwechsel innerhalb der Schulart ändert nichts an dieser Sperre für den Aufstieg."
+    ],
+    "richtig": [0, 2],
+    "pro_option_feedback": [
+      "Richtig: Die Vorjahresnote im gleichen Fach ist die ausdrückliche Sperre.",
+      "Falsch: Für diese Sperre gibt es kein Überstimmen, sie ist zwingend.",
+      "Richtig: Die Herbstprüfung ist der eigene zweite Weg neben der Aufstiegsmöglichkeit.",
+      "Falsch: Künftige Stundenpläne heilen die Vorjahresnote nicht.",
+      "Falsch: Der Wechsel allein beseitigt die Sperre nicht, es gelten die Übertrittsregeln."
+    ],
+    "aufloesung": "Zweimal hintereinander im selben Fach negativ heißt kein Aufstieg über diese Klausel. Die Herbstprüfung bleibt der mögliche zweite Weg. Zum Nachlesen: SchUG §25 Abs.2 lit.a.",
+    "hauptquelle": "SchUG §25 Abs.2 lit.a",
+    "zusatzquellen": ["SchUG §23 Abs.1"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-004",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Ein Schüler hat seine einzige negative Note in einem Fach, das es laut Stundentafel in der nächsthöheren Klasse nicht mehr gibt. Er bittet die Konferenz trotzdem um den Aufstieg. Welche Gesichtspunkte musst du in der Beratung einbringen?",
+    "optionen": [
+      "Das negativ beurteilte Fach muss oben weiter unterrichtet werden, sonst greift diese Aufstiegsmöglichkeit nicht.",
+      "Der Sinn ist, dass die Lücke im weiterlaufenden Fach oben noch aufgeholt werden kann.",
+      "Mit lauter sehr guten Noten in allen anderen Fächern entfällt diese Voraussetzung.",
+      "Die Konferenz kann das Fach einfach aus dem Zeugnis streichen und dann aufsteigen lassen.",
+      "Als Alternative kann eine zulässige Wiederholungsprüfung oder das Wiederholen der Stufe in Frage kommen."
+    ],
+    "richtig": [0, 1, 4],
+    "pro_option_feedback": [
+      "Richtig: Die Fortsetzung des Fachs ist eigene Aufstiegsvoraussetzung.",
+      "Richtig: Nur im weiterlaufenden Fach kann der Rückstand schulisch aufgeholt werden.",
+      "Falsch: Auch Spitzenergebnisse heben diese Voraussetzung nicht auf.",
+      "Falsch: Fächer lassen sich nicht aus dem Zeugnis entfernen.",
+      "Richtig: Prüfung oder Wiederholen sind die getrennten Alternativwege."
+    ],
+    "aufloesung": "Ohne Weiterführung des Fachs oben gibt es keinen Aufstieg über diese Klausel. Prüfung oder Wiederholen bleiben die Alternativen. Zum Nachlesen: SchUG §25 Abs.2 lit.b.",
+    "hauptquelle": "SchUG §25 Abs.2 lit.b",
+    "zusatzquellen": ["SchUG §23 Abs.1", "SchUG §27 Abs.1"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-005",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Du musst am Schulschluss drei Fälle sortieren: Anna hat eine negative Note, Ben hat zwei, Cem hat drei. Alle fragen, ob sie im Herbst zu einer normalen Wiederholungsprüfung antreten dürfen. Wie sortierst du korrekt?",
+    "optionen": [
+      "Anna mit einer negativen Note darf in diesem einen Fach antreten.",
+      "Ben mit zwei negativen Noten darf in einem oder beiden Fächern antreten.",
+      "Cem mit drei negativen Noten darf normal in allen drei Fächern antreten.",
+      "Bei mehr als zwei negativen Noten gibt es grundsätzlich keine normale Wiederholungsprüfung.",
+      "In Grundschule und Sonderschule mit Klassenlehrersystem gilt dieselbe Herbstprüfung ohne Ausnahme.",
+      "Statt der Prüfung kann Cem automatisch verlangen, dass die Konferenz alle Noten ausbessert."
+    ],
+    "richtig": [0, 1, 3],
+    "pro_option_feedback": [
+      "Richtig: Eine negative Note ist der klassische Fall für die Herbstprüfung.",
+      "Richtig: Zwei negative Noten liegen noch innerhalb der Grenze.",
+      "Falsch: Drei sprengen die Grenze der normalen Wiederholungsprüfung.",
+      "Richtig: Darüber bleibt nur Wiederholen oder der eigene Übertrittsweg.",
+      "Falsch: Grundschule und Sonderschulen mit Klassenlehrersystem sind ausgenommen.",
+      "Falsch: Die Konferenz ändert feststehende Zeugnisnoten nicht nachträglich."
+    ],
+    "aufloesung": "Eins oder zwei negativ heißt Herbstprüfung, ab drei nicht mehr auf normalem Weg. Grundschule und Klassenlehrersonderschulen sind ausgenommen. Zum Nachlesen: SchUG §23 Abs.1.",
+    "hauptquelle": "SchUG §23 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-006",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Eltern fragen dich als Klassenvorstand, wann genau die Wiederholungsprüfung ihres Sohnes stattfindet, was bei Verhinderung gilt und ob der Termin verschoben werden kann. Was erklärst du vollständig und richtig?",
+    "optionen": [
+      "Normalfall sind die ersten beiden Unterrichtstage der ersten Woche im neuen Schuljahr.",
+      "Schulforum oder Schulgemeinschaftsausschuss können die Prüfung auf Donnerstag und Freitag der letzten Schulwoche legen.",
+      "Die Familie kann den Termin frei wählen, etwa erst zu Weihnachten.",
+      "Bei Berufsschulen im Lehrgang gelten eigene Zeitfenster rund um Lehrgangsende und Lehrgangsbeginn.",
+      "An ganzjährigen Berufsschulen darf die Prüfung auch zwischen Mittwoch und Freitag der ersten Schulwoche liegen.",
+      "Eine Prüfung aus dem Vorjahr kann beliebig oft im gleichen Verfahren wiederholt werden."
+    ],
+    "richtig": [0, 1, 3, 4],
+    "pro_option_feedback": [
+      "Richtig: Schulstart mit den ersten beiden Unterrichtstagen ist der Normaltermin.",
+      "Richtig: Die Verlegung ans Schulschluss-Wochenende braucht den Gremienbeschluss.",
+      "Falsch: Wunschtermine gibt es nicht, die Ordnung legt die Fenster fest.",
+      "Richtig: Lehrgangs- und Saisonberufsschulen haben eigene Fristen.",
+      "Richtig: Ganzjährige Berufsschulen haben das erweiterte Wochenfenster.",
+      "Falsch: Wiederholungen richten sich nach den eigenen Prüfungsregeln, nicht beliebig."
+    ],
+    "aufloesung": "Normal am Schulstart prüfen, Verlegung ans Schulende nur per Gremienbeschluss, Berufsschulen haben eigene Fenster. Zum Nachlesen: SchUG §23 Abs.1a.",
+    "hauptquelle": "SchUG §23 Abs.1a",
+    "zusatzquellen": ["SchUG §23 Abs.1b", "SchUG §23 Abs.1c"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-007",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Ein Schüler soll in Geografie zur Wiederholungsprüfung und fragt, was er lernen muss und wie geprüft wird. Seine Mutter will wissen, ob nur das letzte Kapitel kommt und ob er die Prüfungsform wählen darf. Was antwortest du?",
+    "optionen": [
+      "Geprüft wird der Lehrstoff des ganzen Jahres in diesem Fach, nicht nur ein Kapitel.",
+      "Die Prüfungsform schriftlich, mündlich oder praktisch legt die Verordnung je nach Fach fest.",
+      "Der Schüler darf sich die Lieblingskapitel als einzigen Prüfungsstoff aussuchen.",
+      "Nur Hausübungen ohne Unterrichtsstoff genügen als Vorbereitung.",
+      "Eine Note aus einer gestundeten Nachtragsprüfung darf danach noch normal wiederholt werden."
+    ],
+    "richtig": [0, 1],
+    "pro_option_feedback": [
+      "Richtig: Die Prüfung muss das Aufholen des ganzen Jahres zeigen.",
+      "Richtig: Die Form richtet sich nach der Fachverordnung, nicht nach Wunsch.",
+      "Falsch: Wunschstoff gibt es nicht, der Jahresstoff ist vorgegeben.",
+      "Falsch: Hausübungen allein decken den Jahreslehrstoff nicht ab.",
+      "Falsch: Nach einer Nachtragsprüfung ist keine Wiederholungsprüfung mehr zulässig."
+    ],
+    "aufloesung": "Ganzes Jahr lernen, Prüfungsform je nach Fach vorgegeben. Nach einer Nachtragsprüfung gibt es keine Wiederholungsprüfung mehr. Zum Nachlesen: SchUG §23 Abs.5.",
+    "hauptquelle": "SchUG §23 Abs.5",
+    "zusatzquellen": ["SchUG §23 Abs.1d"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-008",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Vor der Wiederholungsprüfung beschwert sich ein Vater, die alte Fachlehrerin entscheide alles allein und ohne Niederschrift. Du sollst die korrekte Besetzung und den Ablauf der Prüfungskommission erklären. Was gehört dazu?",
+    "optionen": [
+      "Die Fachlehrkraft der Klasse prüft gemeinsam mit einer zweiten Lehrkraft als Beisitz.",
+      "Beide sollen das Fach unterrichten oder dafür befähigt sein.",
+      "Über den Prüfungsverlauf ist eine schriftliche Aufzeichnung zu führen.",
+      "Bei Uneinigkeit über die Note entscheidet die Schulleitung.",
+      "Mitschüler dürfen als Ersatzbeisitzer beurteilen und abstimmen.",
+      "Die Prüfung gilt auch ohne jede Dokumentation als ordnungsgemäß."
+    ],
+    "richtig": [0, 1, 2, 3],
+    "pro_option_feedback": [
+      "Richtig: Vier-Augen-Prinzip mit Fachlehrkraft und Beisitz ist die Grundregel.",
+      "Richtig: Fachnähe beider sichert die fachliche Beurteilung.",
+      "Richtig: Die Niederschrift macht Verlauf und Beurteilung nachvollziehbar.",
+      "Richtig: Bei Dissens liegt die Letztentscheidung bei der Leitung.",
+      "Falsch: Mitschüler prüfen und beurteilen nicht.",
+      "Falsch: Ohne Aufzeichnung fehlt die vorgeschriebene Dokumentation."
+    ],
+    "aufloesung": "Zu zweit prüfen, Verlauf schriftlich festhalten, bei Streit entscheidet die Leitung. So ist die Prüfung fair und nachvollziehbar. Zum Nachlesen: SchUG §23 Abs.6.",
+    "hauptquelle": "SchUG §23 Abs.6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-009",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Ein Schüler ist trotz einer negativen Note per Konferenzbeschluss aufstiegsberechtigt und überlegt, ob er zusätzlich die Wiederholungsprüfung machen soll. Er fürchtet, bei negativer Prüfung den Aufstieg wieder zu verlieren. Wie berätst du ihn richtig?",
+    "optionen": [
+      "Er darf die Aufstiegsberechtigung nutzen und muss keine Prüfung machen.",
+      "Wenn er die Prüfung trotzdem macht, bleibt der Aufstieg auch bei negativer Prüfungsnote erhalten.",
+      "Eine negative Prüfungsnote zieht die bereits erteilte Aufstiegsberechtigung automatisch zurück.",
+      "Macht er von der Aufstiegsmöglichkeit Gebrauch, ist die zusätzliche Prüfung freiwillig und risikolos für den Aufstieg.",
+      "Ohne Prüfung wird der Aufstieg rückwirkend in ein Wiederholen umgewandelt."
+    ],
+    "richtig": [0, 1, 3],
+    "pro_option_feedback": [
+      "Richtig: Die erteilte Berechtigung allein trägt den Aufstieg.",
+      "Richtig: Das Gesetz sichert den Aufstieg ausdrücklich gegen das Prüfungsergebnis ab.",
+      "Falsch: Genau dieser Rückzug ist ausgeschlossen.",
+      "Richtig: Freiwillig prüfen ohne Aufstiegsrisiko ist der Sinn der Regel.",
+      "Falsch: Eine Umwandlung ohne Rechtsgrund gibt es nicht."
+    ],
+    "aufloesung": "Wer per Klausel aufsteigen darf, behält den Aufstieg auch bei misslungener Zusatzprüfung. Die Prüfung ist dann freiwillige Chance ohne Risiko. Zum Nachlesen: SchUG §23 Abs.1d.",
+    "hauptquelle": "SchUG §23 Abs.1d",
+    "zusatzquellen": ["SchUG §25 Abs.2"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-010",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Eine Schülerin hat drei negative Noten, will aber in eine andere Schulart wechseln, wo sie nur zwei davon wirklich hindern. Sie fragt, ob sie für diesen Wechsel trotzdem eine Prüfung ablegen darf. Was prüfst du mit ihr gemeinsam?",
+    "optionen": [
+      "Stehen höchstens zwei Noten dem Wechsel entgegen, darf sie genau in diesen Fächern antreten.",
+      "Die Prüfung ist mit dem Hinweis auf den beabsichtigten Wechsel im Zeugnis zu vermerken.",
+      "Sie darf alle drei Fächer prüfen, auch das für den Wechsel unwichtige.",
+      "Derselbe Weg gilt, wenn höchstens zwei Noten dem erfolgreichen Abschluss der achten Stufe entgegenstehen.",
+      "Bei mehr als zwei hindernden Noten für den Wechsel gibt es auch diesen Prüfungsweg nicht.",
+      "Der Wechsel gelingt automatisch ohne jede Prüfung, sobald sie ihn beantragt."
+    ],
+    "richtig": [0, 1, 3, 4],
+    "pro_option_feedback": [
+      "Richtig: Genau die hindernden ein oder zwei Fächer sind Prüfungsgegenstand.",
+      "Richtig: Der Wechselvermerk im Zeugnis macht Zweck und Erfolg sichtbar.",
+      "Falsch: Geprüft werden nur die dem Wechsel entgegenstehenden Fächer.",
+      "Richtig: Für den Abschluss der achten Stufe gilt die sinngemäße Parallelregel.",
+      "Richtig: Drei hindernde Noten sprengen auch diesen Sonderweg.",
+      "Falsch: Ohne erfolgreiche Prüfung bleibt das Hindernis bestehen."
+    ],
+    "aufloesung": "Für den Wechsel werden nur die höchstens zwei hindernden Fächer geprüft und vermerkt. Gleiches gilt sinngemäß für den Abschluss der achten Stufe. Zum Nachlesen: SchUG §23 Abs.2.",
+    "hauptquelle": "SchUG §23 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-011",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Eine Familie zieht im Sommer in einen anderen Bezirk und das Kind soll mit offener Wiederholungsprüfung die Schule wechseln. Die Eltern fragen, ob die Prüfung auch an der neuen Schule geht und was dafür erfüllt sein muss. Was sagst du?",
+    "optionen": [
+      "Die Prüfung darf an der neuen Schule abgelegt werden, wenn Schulart oder Schulort wechseln.",
+      "Die neue Schule muss von gleicher oder größerer Bildungshöhe sein, der Weg in die Mittelschule ausgenommen.",
+      "Der Wechsel von der allgemeinbildenden höheren Schule in die Mittelschule ist für diesen Weg ausdrücklich zugelassen.",
+      "Jeder Schulwechsel ohne Orts- oder Artwechsel trägt automatisch die Prüfung an die neue Schule.",
+      "Die erfolgreiche Prüfung an der neuen Schule ist auf dem Zeugnis zu vermerken.",
+      "Die neue Schule darf die Prüfung verweigern, obwohl alle Voraussetzungen vorliegen."
+    ],
+    "richtig": [0, 1, 2, 4],
+    "pro_option_feedback": [
+      "Richtig: Art- oder Ortswechsel öffnen den Weg zur Prüfung an der neuen Schule.",
+      "Richtig: Gleiche oder größere Bildungshöhe sichert das Niveau, Mittelschule als Ausnahme.",
+      "Richtig: Genau dieser Wechselweg ist im Gesetz genannt.",
+      "Falsch: Ohne Art- oder Ortswechsel bleibt die Prüfung an der alten Schule.",
+      "Richtig: Der Vermerk hält Erfolg und Zuordnung fest.",
+      "Falsch: Bei erfüllten Voraussetzungen besteht der Prüfungsweg."
+    ],
+    "aufloesung": "Mit Art- oder Ortswechsel darf an der neuen Schule geprüft werden, Erfolg wird im Zeugnis vermerkt. Bildungshöhe beachten. Zum Nachlesen: SchUG §23 Abs.3.",
+    "hauptquelle": "SchUG §23 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-012",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Eine Schülerin hat die Wiederholungsprüfung in einem Pflichtgegenstand bestanden und zusätzlich ein Nicht genügend in einem Freigegenstand. Die Familie fragt, was mit Freigegenständen und mit dem alten Jahreszeugnis passiert. Was erklärst du?",
+    "optionen": [
+      "Auch in einem oder zwei negativ beurteilten Freigegenständen ist eine Wiederholungsprüfung zulässig.",
+      "Nach bestandener Prüfung wird das alte Zeugnis eingezogen und neu mit der neuen Beurteilung ausgestellt.",
+      "Der alte Vermerk über die Prüfung bleibt dauerhaft stehen, auch nach dem Bestehen.",
+      "Die Familie trägt die neue Note selbst mit Stift ins alte Zeugnis ein.",
+      "Bei Nichtbestehen bleibt die alte Zeugnisnote bestehen und der Aufstieg richtet sich nach den Aufstiegsregeln.",
+      "Ein Freigegenstand mit negativer Note kann im Folgejahr nur zur Wiederholung desselben belegt werden."
+    ],
+    "richtig": [0, 1, 4, 5],
+    "pro_option_feedback": [
+      "Richtig: Freigegenstände haben einen eigenen Prüfungsweg für ein oder zwei Fächer.",
+      "Richtig: Einzug und Neuausstellung halten das Zeugnis wahr und aktuell.",
+      "Falsch: Nach dem Bestehen enthält das neue Zeugnis die neue Beurteilung.",
+      "Falsch: Selbst eintragen ist unzulässig, die Schule stellt neu aus.",
+      "Richtig: Ohne Prüfungserfolg gilt weiter das alte Zeugnis mit seinen Folgen.",
+      "Richtig: Nach negativem Freigegenstand ist nur die Wiederholung desselben zulässig."
+    ],
+    "aufloesung": "Freigegenstände sind extra prüfbar, nach Bestehen gibt es ein neues Zeugnis. Negativ belegte Freigegenstände dürfen nur wiederholt werden. Zum Nachlesen: SchUG §23 Abs.4.",
+    "hauptquelle": "SchUG §23 Abs.4",
+    "zusatzquellen": ["SchUG §22 Abs.6", "SchUG §12 Abs.4"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-013",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Eine aufstiegsberechtigte Schülerin war monatelang krank, fühlt sich für die nächste Klasse zu unsicher und beantragt freiwilliges Wiederholen. Du bereitest den Konferenzbeschluss vor und musst die Voraussetzungen sauber prüfen. Worauf kommt es an?",
+    "optionen": [
+      "Es liegt ein Antrag der Schülerin für das freiwillige Wiederholen vor.",
+      "Es geht um das Aufholen eines Rückstands etwa aus Krankheitsgründen, der tatsächlich aufholbar ist.",
+      "Die Einordnung in die neue Klassengemeinschaft ist zu erwarten.",
+      "Freiwilliges Wiederholen ist beliebig oft im Bildungsgang möglich.",
+      "Auch die letzte Stufe einer Schulart darf freiwillig wiederholt werden.",
+      "Trotz Bewilligung darf die Schülerin dennoch in die höhere Stufe aufsteigen."
+    ],
+    "richtig": [0, 1, 2, 5],
+    "pro_option_feedback": [
+      "Richtig: Ohne Antrag gibt es kein freiwilliges Wiederholen.",
+      "Richtig: Aufholbarer Rückstand aus solchen Gründen ist der Bewilligungsgrund.",
+      "Richtig: Die soziale Einordnung gehört zur Prognose dazu.",
+      "Falsch: Freiwillig geht es nur ein einziges Mal im ganzen Bildungsgang.",
+      "Falsch: Die letzte Stufe ist für freiwilliges Wiederholen grundsätzlich ausgenommen.",
+      "Richtig: Die Bewilligung ist ein Angebot, der Aufstieg bleibt möglich."
+    ],
+    "aufloesung": "Antrag plus aufholbarer Rückstand plus erwartete Einordnung, nur einmal im Bildungsgang und nicht in der letzten Stufe. Aufstieg trotz Bewilligung bleibt möglich. Zum Nachlesen: SchUG §27 Abs.2.",
+    "hauptquelle": "SchUG §27 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-014",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Ein nicht aufstiegsberechtigter Schüler will die Stufe wiederholen, ein anderer fragt nach Grenzen bei langer Schuldauer. Du musst erklären, wer grundsätzlich wiederholen darf und wann das Wiederholen verboten ist. Was gilt?",
+    "optionen": [
+      "Wer nicht aufsteigen darf, darf die Stufe grundsätzlich wiederholen.",
+      "Wer die letzte Stufe nicht erfolgreich abgeschlossen hat, darf sie grundsätzlich wiederholen.",
+      "Das Wiederholen ist verboten, wenn dadurch die zulässige Höchstdauer des Schulbesuchs überschritten würde.",
+      "Das Wiederholen ist verboten, wenn der Schulbesuch aus dem Beendigungsgrund der Erfolglosigkeit zu beenden ist.",
+      "Jeder darf unbegrenzt wiederholen, Höchstdauer und Beendigungsgründe spielen keine Rolle.",
+      "Ein Schulwechsel hebt eine bereits eingetretene Höchstdauerüberschreitung automatisch auf."
+    ],
+    "richtig": [0, 1, 2, 3],
+    "pro_option_feedback": [
+      "Richtig: Das Wiederholen sichert die zweite Chance in derselben Stufe.",
+      "Richtig: Auch die nicht geschaffte letzte Stufe darf grundsätzlich wiederholt werden.",
+      "Richtig: Die Höchstdauer ist die harte Grenze für jedes Wiederholen.",
+      "Richtig: Der Beendigungsgrund sperrt das weitere Wiederholen.",
+      "Falsch: Genau diese Grenzen verbieten das Wiederholen im Einzelfall.",
+      "Falsch: Die Höchstdauer wirkt schulartbezogen fort und verfällt nicht durch Wechsel."
+    ],
+    "aufloesung": "Grundsätzlich darf wiederholt werden, Höchstdauer und Beendigungsgründe sind aber harte Stopps. Das gilt auch für die letzte Stufe. Zum Nachlesen: SchUG §27 Abs.1.",
+    "hauptquelle": "SchUG §27 Abs.1",
+    "zusatzquellen": ["SchUG §27 Abs.3"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A13-L2-015",
+    "modul_id": "A13",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Ein Schüler mit drei negativen Noten überlegt, ob er wiederholt oder in eine andere Schulart wechselt. Die Eltern bitten dich um eine saubere Gegenüberstellung von Wiederholen und Schulartwechsel. Welche Bausteine gehören dazu?",
+    "optionen": [
+      "Für den Wechsel in eine höhere Stufe der neuen Art darf in den vorherigen Stufen dort kein hinderndes Nicht genügend ohne Prüfung offenbleiben.",
+      "Für den Wechsel in die gleiche Stufe der neuen Art muss das Zeugnis dort zum Wiederholen berechtigen.",
+      "Für den Wechsel in eine niedrigere Stufe gelten die Regeln des freiwilligen Wiederholens sinngemäß.",
+      "Fehlende Vorkenntnisse in neuen Pflichtgegenständen können eine Aufnahmsprüfung mit halbjähriger Nachholfrist je Stufe auslösen.",
+      "Wiederholen und Wechsel sind dasselbe Verfahren mit denselben Voraussetzungen.",
+      "Eine Aufnahmsprüfung für den Wechsel kann ohne Antrag und ohne Frist beliebig lange aufgeschoben werden."
+    ],
+    "richtig": [0, 1, 2, 3],
+    "pro_option_feedback": [
+      "Richtig: Höherer Wechsel braucht bereinigte Vornoten oder die Übertrittsprüfung.",
+      "Richtig: Gleicher Wechsel setzt Wiederholungsberechtigung in der Zielart voraus.",
+      "Richtig: Niedrigerer Wechsel folgt dem Maßstab des freiwilligen Wiederholens.",
+      "Richtig: Neue Fächer werden per Aufnahmsprüfung mit bemessener Frist nachgeholt.",
+      "Falsch: Das sind zwei getrennte Wege mit eigenen Voraussetzungen.",
+      "Falsch: Aufschub braucht Antrag, außerordentlichen Besuch und bemessene Frist, keine beliebige Verzögerung."
+    ],
+    "aufloesung": "Wiederholen bleibt in der Stufe, Wechsel folgt eigenen Stufenregeln plus möglicher Aufnahmsprüfung mit Nachholfrist. Wege sauber trennen. Zum Nachlesen: SchUG §29 Abs.2.",
+    "hauptquelle": "SchUG §29 Abs.2",
+    "zusatzquellen": ["SchUG §29 Abs.3", "SchUG §29 Abs.4", "SchUG §29 Abs.5"],
+    "stand": "04.09.2026"
+  }
+]
