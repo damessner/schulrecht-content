@@ -4,7 +4,11 @@
     "modul_id": "A14",
     "level": "L1",
     "typ": "single",
-    "schulart": ["MS", "AHS", "BHS"],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
     "situation": "Jonas, 2. Klasse, hat im Jahreszeugnis ein Nicht genügend in Englisch, sonst alles positiv. Am letzten Schultag fragt er dich als Klassenvorstand, ob er im Herbst noch etwas machen kann, um doch noch aufzusteigen.",
     "optionen": [
       "Nein, mit einem Nicht genügend muss er die Klasse jedenfalls wiederholen.",
@@ -12,7 +16,9 @@
       "Ja, er steigt automatisch auf, das Nicht genügend verfällt über den Sommer.",
       "Nur wenn die Klassenkonferenz nachträglich die Note ausbessert."
     ],
-    "richtig": [1],
+    "richtig": [
+      1
+    ],
     "pro_option_feedback": [
       "Falsch: Ein einzelnes Nicht genügend bedeutet nicht automatisch Wiederholen, es gibt die Prüfung auf Verlangen.",
       "Richtig: Genau dafür ist die Wiederholungsprüfung da, Anmeldung und Termin beachten.",
@@ -29,7 +35,9 @@
     "modul_id": "A14",
     "level": "L1",
     "typ": "single",
-    "schulart": ["alle"],
+    "schulart": [
+      "alle"
+    ],
     "situation": "Eine Mutter ruft an: Ihre Tochter war in der Prüfungswoche krank und fragt, ob die versäumte Wiederholungsprüfung einfach als Nicht bestanden zählt.",
     "optionen": [
       "Ja, wer fehlt, hat automatisch nicht bestanden, ohne Ausnahme.",
@@ -37,7 +45,9 @@
       "Nein, die Prüfung wird automatisch auf das nächste Schuljahr verschoben.",
       "Ja, aber nur wenn ein Spitalsaufenthalt vorliegt."
     ],
-    "richtig": [1],
+    "richtig": [
+      1
+    ],
     "pro_option_feedback": [
       "Falsch: Unentschuldigtes Fehlen und entschuldigtes Fehlen werden unterschiedlich behandelt.",
       "Richtig: Sofort melden plus Nachweis ist der entscheidende Punkt.",
@@ -46,6 +56,386 @@
     ],
     "aufloesung": "Bei Krankheit sofort melden und Bestätigung bringen, dann neuer Termin. Unentschuldigt versäumt gilt anders. Zum Nachlesen: SchUG §20 Abs.3.",
     "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-003",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lena, 4. Klasse, hat im Jahreszeugnis ein Nicht genügend in Mathematik und eines in Englisch, alle anderen Fächer sind positiv. Sie fragt, in wie vielen Fächern sie im Herbst antreten darf.",
+    "optionen": [
+      "Nur in einem der beiden Fächer, für das zweite muss sie jedenfalls wiederholen.",
+      "In beiden Fächern, sie kann zu zwei getrennten Wiederholungsprüfungen antreten.",
+      "In gar keinem Fach, bei zwei Nicht genügend ist das Schuljahr verloren.",
+      "Nur in dem Fach, das die Klassenkonferenz auswählt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Prüfung auf Verlangen ist nicht auf ein Fach beschränkt.",
+      "Richtig: Bei zwei negativen Pflichtgegenständen sind zwei Antritte möglich.",
+      "Falsch: Zwei Nicht genügend schließen die Wiederholungsprüfung nicht aus.",
+      "Falsch: Die Wahl trifft die Schülerin bzw. die Erziehungsberechtigten, nicht die Konferenz."
+    ],
+    "aufloesung": "Lena darf in beiden Fächern antreten und muss beide bestehen, um aufzusteigen. Melde beide Prüfungen an und lerne je Fach den mitgeteilten Stoff. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-004",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Moritz hat im Jahreszeugnis drei Nicht genügend in Deutsch, Mathematik und Englisch. Seine Eltern fragen dich, ob er im Herbst zu Wiederholungsprüfungen antreten kann.",
+    "optionen": [
+      "Ja, er kann in allen drei Fächern antreten, die Zahl ist egal.",
+      "Ja, aber nur in zwei Fächern, das dritte wird gestrichen.",
+      "Nein, grundsätzlich muss er die Schulstufe wiederholen, ein Antritt ist nicht vorgesehen.",
+      "Ja, wenn die Direktion eine Ausnahme genehmigt."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Zahl der negativen Fächer ist sehr wohl begrenzt.",
+      "Falsch: Ein Streichen einer Note durch Antritt in anderen Fächern ist nicht möglich.",
+      "Richtig: Mehr als zwei negative Pflichtgegenstände bedeuten grundsätzlich Wiederholen.",
+      "Falsch: Das ist keine Ermessensentscheidung der Direktion."
+    ],
+    "aufloesung": "Bei drei Nicht genügend führt der Weg grundsätzlich über das Wiederholen der Schulstufe. Erkläre das den Eltern früh und ruhig und plane das nächste Jahr. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-005",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vater spricht dich erst am Prüfungstag im Gang an: Sein Sohn wolle heute doch noch zur Wiederholungsprüfung in Mathematik antreten, angemeldet hat er ihn nie. Was gilt?",
+    "optionen": [
+      "Er darf spontan mitmachen, Anmeldungen sind nur Formsache.",
+      "Er darf nicht antreten, weil die fristgerechte Anmeldung fehlt und der Durchgang geplant ist.",
+      "Er darf antreten, wenn noch ein Sessel im Prüfungsraum frei ist.",
+      "Er darf antreten, muss aber eine Zusatzgebühr zahlen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Anmeldung ist Voraussetzung für einen geordneten Ablauf.",
+      "Richtig: Ohne fristgerechte Anmeldung kein Antritt, das ist kein Schikaneakt.",
+      "Falsch: Freie Sitzplätze ersetzen keine Anmeldung.",
+      "Falsch: Geld spielt hier überhaupt keine Rolle."
+    ],
+    "aufloesung": "Ohne fristgerechte Anmeldung kein Antritt. Weist Eltern am Schulschluss aktiv auf Frist und Form der Anmeldung hin und dokumentiere sie. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-006",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selina will für die Wiederholungsprüfung in Englisch nur den Stoff des zweiten Semesters lernen, weil sie glaubt, das erste Semester sei verjährt. Was sagst du ihr?",
+    "optionen": [
+      "Stimmt, geprüft wird nur das zweite Semester.",
+      "Nein, Grundlage ist der gesamte Jahresstoff des Faches, eingegrenzt und rechtzeitig mitgeteilt.",
+      "Sie kann frei wählen, welches Semester sie lernt.",
+      "Es kommt nur die letzte Schularbeit des Jahres."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auf ein Semester verkürzen darf man den Stoff nicht.",
+      "Richtig: Jahresstoff als Basis, Eingrenzung und Mitteilung sichern Fairness.",
+      "Falsch: Freie Wahl des Stoffs gibt es nicht.",
+      "Falsch: Eine einzelne Schularbeit ist keine Prüfungsgrundlage."
+    ],
+    "aufloesung": "Gib Selina den eingegrenzten Jahresstoff schriftlich und rechtzeitig, damit sie gezielt lernen kann. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-007",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Gruber hat für die letzte Ferienwoche einen Urlaub gebucht. Genau dort liegt der Termin der Wiederholungsprüfung ihres Sohnes. Die Eltern meinen, Urlaub sei ein ausreichender Grund für einen Extratermin.",
+    "optionen": [
+      "Ja, Urlaubswünsche haben Vorrang, die Schule muss ausweichen.",
+      "Nein, der festgesetzte Prüfungstermin ist wahrzunehmen, Urlaub ist kein Verhinderungsgrund.",
+      "Ja, aber nur bei Buchungsnachweis von vor dem Zeugnis.",
+      "Nein, dafür muss der Schüler das Jahr wiederholen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Private Urlaubsplanung schlägt keinen Prüfungstermin.",
+      "Richtig: Termine in den letzten Ferientagen sind einzuhalten, plane den Sommer danach.",
+      "Falsch: Auch eine frühe Buchung ändert daran nichts.",
+      "Falsch: So streng ist es nicht, aber ein Extratermin steht nicht zu."
+    ],
+    "aufloesung": "Der Prüfungstermin geht vor. Informiere alle Betroffenen schon am Schulschluss über die Terminlage im Herbst. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-008",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein junger Kollege will die Wiederholungsprüfung schnell allein in seinem Klassenzimmer abnehmen, damit niemand extra kommen muss. Darf er das?",
+    "optionen": [
+      "Ja, der Fachlehrer allein genügt völlig.",
+      "Nein, die Prüfung braucht die vorschriftsmäßige Kommission und ein Protokoll.",
+      "Ja, wenn der Schüler einverstanden ist.",
+      "Nein, Wiederholungsprüfungen sind überhaupt verboten."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Allein prüfen ist ein klassischer Formfehler.",
+      "Richtig: Kommission plus Protokoll sichern die Gültigkeit des Ergebnisses.",
+      "Falsch: Zustimmung des Schülers heilt den Formfehler nicht.",
+      "Falsch: Sie sind ausdrücklich vorgesehen, nur eben in der richtigen Form."
+    ],
+    "aufloesung": "Bestehe auf vollständiger Besetzung und Protokoll, auch wenn es mehr Aufwand ist. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-009",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David fragt vor seiner Wiederholungsprüfung in Mathematik, welche Leistung er bringen muss, damit die Prüfung als bestanden gilt.",
+    "optionen": [
+      "Er muss eine sehr gute Leistung zeigen, sonst zählt es nicht.",
+      "Er muss mindestens eine genügende Leistung erbringen.",
+      "Es genügt, wenn er anwesend ist und es versucht.",
+      "Die alte Zeugnisnote wird mit der Prüfungsleistung verrechnet."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Übertrieben streng ist niemandem geholfen.",
+      "Richtig: Genügend in der Prüfung heißt bestanden, das ist die Schwelle.",
+      "Falsch: Anwesenheit allein ist keine Leistung.",
+      "Falsch: Verrechnet wird nichts, die Prüfung entscheidet für sich."
+    ],
+    "aufloesung": "Sag David klar die Schwelle und den Ablauf, das nimmt Druck und schafft Fairness. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-010",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Aylin hat ihre Wiederholungsprüfung in Deutsch bestanden. Sie fragt, ob sie damit jetzt aufsteigen darf oder ob noch etwas fehlt.",
+    "optionen": [
+      "Sie steigt auf, die bestandene Prüfung ersetzt das Hindernis und das Zeugnis wird entsprechend ergänzt.",
+      "Sie muss trotzdem wiederholen, die Prüfung war nur zur Übung.",
+      "Sie steigt nur auf, wenn auch alle anderen Noten besser werden.",
+      "Sie muss zusätzlich eine Klassenkonferenz um Erlaubnis bitten."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau das ist der Sinn der Prüfung auf Verlangen.",
+      "Falsch: Zur Übung gibt es Schularbeiten, diese Prüfung zählt.",
+      "Falsch: Andere positive Noten müssen nicht besser werden.",
+      "Falsch: Eine extra Erlaubnisrunde ist nicht nötig."
+    ],
+    "aufloesung": "Gratuliere Aylin, sorge für die Zeugnisergänzung und den Aufstiegsvermerk und lege alles zum Akt. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-011",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Felix ist bei der Wiederholungsprüfung in Mathematik negativ beurteilt worden. Er fragt, was nun mit ihm passiert.",
+    "optionen": [
+      "Er kann die Prüfung nächste Woche einfach wiederholen.",
+      "Er wiederholt grundsätzlich die Schulstufe, ein weiterer Antritt im selben Durchgang ist nicht vorgesehen.",
+      "Er steigt trotzdem auf, weil er es versucht hat.",
+      "Er wechselt automatisch die Schule."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine zweite Chance im selben Durchgang gibt es nicht.",
+      "Richtig: Negativ heißt grundsätzlich Wiederholen, plane mit ihm das nächste Jahr.",
+      "Falsch: Der Versuch allein ändert an der Note nichts.",
+      "Falsch: Ein Schulwechsel löst das Problem nicht."
+    ],
+    "aufloesung": "Führe das Gespräch mit Felix ruhig und früh, erkläre das Wiederholen und zeige Perspektiven auf. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-012",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler erscheint ohne jede Entschuldigung nicht zu seiner Wiederholungsprüfung und meldet sich auch danach tagelang nicht. Wie ist das zu werten?",
+    "optionen": [
+      "Als ob nichts gewesen wäre, er kann jederzeit neu antreten.",
+      "Als nicht bestandene Prüfung, der Antritt gilt als verwirkt.",
+      "Als automatisch bestanden, weil niemand geprüft hat.",
+      "Als Krankheitsfall, das wird einfach angenommen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einfach untertauchen hat Folgen.",
+      "Richtig: Unentschuldigtes Fernbleiben verwirkt den Antritt.",
+      "Falsch: Geschenkt gibt es nichts.",
+      "Falsch: Krankheit wird nicht vermutet, sie muss gemeldet und nachgewiesen werden."
+    ],
+    "aufloesung": "Dokumentiere das Fernbleiben lückenlos und teile die Rechtsfolge schriftlich mit. Zum Nachlesen: SchUG §20 Abs.3.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-013",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einer Wiederholungsprüfung wird ein Schüler mit dem Handy beim Schummeln erwischt. Die Aufsicht nimmt ihm das Gerät ab. Was gilt für die Prüfung?",
+    "optionen": [
+      "Es passiert nichts, er darf einfach weitermachen.",
+      "Der Vorfall wird protokolliert und kann zur negativen Beurteilung führen, die Kommission entscheidet.",
+      "Er bekommt automatisch eine bessere Note als Strafe für die anderen.",
+      "Die Prüfung wird sofort als bestanden gewertet, damit Ruhe ist."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wegschauen wäre falsch und unfair.",
+      "Richtig: Dokumentieren und der Kommission zur Entscheidung vorlegen.",
+      "Falsch: Noten als Strafe für andere gibt es nicht.",
+      "Falsch: Bestehen als Beruhigungsmittel verfälscht alles."
+    ],
+    "aufloesung": "Sichere Beweise, vermerke den Vorfall im Protokoll und lass die Kommission entscheiden. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-014",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin mit einem Nicht genügend erklärt dir, sie wolle im Herbst gar nicht antreten, sondern lieber gleich wiederholen. Darf sie auf die Prüfung verzichten?",
+    "optionen": [
+      "Nein, der Antritt ist Pflicht für alle mit Nicht genügend.",
+      "Ja, die Prüfung auf Verlangen ist freiwillig, wer nicht antritt, wiederholt die Stufe.",
+      "Nein, nur die Eltern dürfen das entscheiden, sie nicht.",
+      "Ja, und dann steigt sie trotzdem automatisch auf."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Niemand wird zum Antritt gezwungen.",
+      "Richtig: Freiwilligkeit heißt: kein Antritt, dann Wiederholen.",
+      "Falsch: Auch Eltern können keinen Zwangsantritt herbeiführen.",
+      "Falsch: Ohne Prüfung bleibt das Nicht genügend bestehen."
+    ],
+    "aufloesung": "Halte den Verzicht schriftlich fest und plane mit der Schülerin das Wiederholungsjahr. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-015",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer nicht bestandenen Wiederholungsprüfung verlangen die Eltern eine zweite Prüfung noch im selben Herbst, weil der Schüler beim ersten Mal so nervös war. Was antwortest du?",
+    "optionen": [
+      "Gerne, Nervosität ist ein Grund für beliebig viele Wiederholungen.",
+      "Nein, im selben Durchgang gibt es keinen weiteren Antritt, es bleibt beim Ergebnis.",
+      "Ja, gegen eine schriftliche Entschuldigung schon.",
+      "Nur wenn der Prüfer zustimmt, sonst nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beliebig oft antreten ist nicht vorgesehen.",
+      "Richtig: Ein Durchgang, ein Antritt je Fach, das Ergebnis steht.",
+      "Falsch: Eine Entschuldigung schafft keinen neuen Antritt.",
+      "Falsch: Das ist keine Gefälligkeitsentscheidung des Prüfers."
+    ],
+    "aufloesung": "Erkläre den Eltern ruhig den Abschluss des Durchgangs und besprich das nächste Schuljahr. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
     "zusatzquellen": [],
     "stand": "04.09.2026"
   }

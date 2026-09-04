@@ -4,7 +4,10 @@
     "modul_id": "A14",
     "level": "L3",
     "typ": "multiple",
-    "schulart": ["BHS", "AHS"],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
     "situation": "Grenzfall am 24. September: Schülerin tritt zur Wiederholungsprüfung in Deutsch an. Sie kommt 20 Minuten zu spät, weil der Bus ausgefallen ist, hat kein Attest aber ein Foto vom Ersatzfahrplan. Der Prüfer will sie wegschicken, die Direktorin will sie sofort ohne Beisitz prüfen, um Zeit zu sparen. Was ist rechtsrichtig? Wähle alle richtigen Schritte.",
     "optionen": [
       "Verspätung dokumentieren und prüfen, ob ein gerechtfertigter Hinderungsgrund glaubhaft ist, statt automatisch auszuschließen.",
@@ -14,7 +17,12 @@
       "Ersatztermin anbieten, wenn die Verhinderung anerkannt wird, und alles schriftlich festhalten.",
       "Foto und Vorbringen zu den Akten nehmen und der Kommission zur Entscheidung vorlegen."
     ],
-    "richtig": [0, 1, 4, 5],
+    "richtig": [
+      0,
+      1,
+      4,
+      5
+    ],
     "pro_option_feedback": [
       "Richtig: Erst Sachverhalt klären und dokumentieren, nicht vorschnell werten.",
       "Richtig: Zeitdruck rechtfertigt keinen Formfehler.",
@@ -25,7 +33,367 @@
     ],
     "aufloesung": "Gründe prüfen, Form wahren, dokumentieren, bei Anerkennung neuer Termin. Abkürzungen rächen sich im Verfahren. Zum Nachlesen: SchUG §20 Abs.3-4.",
     "hauptquelle": "SchUG §20 Abs.3",
-    "zusatzquellen": ["SchUG §20 Abs.4"],
+    "zusatzquellen": [
+      "SchUG §20 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-002",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Kandidatin mit zwei Nicht genügend besteht die Prüfung im ersten Fach, fällt aber im zweiten Fach durch. Die Eltern argumentieren, eine bestandene Prüfung müsse für den Aufstieg reichen. Was gilt?",
+    "optionen": [
+      "Sie steigt auf, eine bestandene Prüfung genügt.",
+      "Sie steigt nicht auf, weil weiterhin ein Nicht genügend besteht, und wiederholt die Stufe.",
+      "Sie darf das zweite Fach im Oktober nochmals versuchen.",
+      "Die Konferenz kann das zweite Nicht genügend aus Mitleid streichen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Halb bestanden reicht nicht.",
+      "Richtig: Jedes Hindernis muss beseitigt sein, sonst Wiederholen.",
+      "Falsch: Einen zweiten Antritt im selben Durchgang gibt es nicht.",
+      "Falsch: Streichen aus Mitleid ist nicht vorgesehen."
+    ],
+    "aufloesung": "Beide Hürden müssen fallen, sonst bleibt es beim Wiederholen. Führe das Gespräch ehrlich und mit Perspektive. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-003",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Kandidat bleibt der Prüfung fern und behauptet eine Woche später, er sei krank gewesen, legt aber keinerlei Nachweis vor und hatte sich nie gemeldet. Wie ist vorzugehen?",
+    "optionen": [
+      "Als entschuldigte Verhinderung werten und Ersatztermin geben.",
+      "Als unentschuldigtes Fernbleiben werten, da weder Meldung noch Nachweis vorliegen.",
+      "Automatisch ein Disziplinarverfahren einleiten.",
+      "Die Prüfung als bestanden eintragen, weil Krankheit zu vermuten ist."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Meldung und Nachweis gibt es keinen Ersatzweg.",
+      "Richtig: Behauptungen ohne Beleg ersetzen keine rechtzeitige Meldung.",
+      "Falsch: Disziplinarrecht hat hier nichts verloren.",
+      "Falsch: Vermutetes Bestehen gibt es nicht."
+    ],
+    "aufloesung": "Fordere Meldung und Nachweis ein, dokumentiere das Ausbleiben und teile die Folge schriftlich mit. Zum Nachlesen: SchUG §20 Abs.3.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-004",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach Ausstellung des Nachtragszeugnisses stellt sich heraus, dass bei der Prüfung der Beisitz gefehlt hat. Das Ergebnis war positiv. Wie reagiert die Direktion rechtsrichtig?",
+    "optionen": [
+      "Nichts tun, der Fehler ist durch das Zeugnis geheilt.",
+      "Den Formfehler eingestehen, die Prüfung nach korrekter Besetzung wiederholen lassen und alles dokumentieren.",
+      "Das Zeugnis heimlich umschreiben und den Fehler verschweigen.",
+      "Den Prüfer bestrafen und das Ergebnis einfach stehen lassen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Formfehler heilen nicht von selbst.",
+      "Richtig: Offen eingestehen, korrekt wiederholen, sauber dokumentieren.",
+      "Falsch: Vertuschen verschlimmert alles.",
+      "Falsch: Bestrafung löst den Verfahrensfehler nicht."
+    ],
+    "aufloesung": "Transparenz schlägt Vertuschung: Fehler offenlegen, Prüfung korrekt wiederholen, Akt lückenlos führen. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-005",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Erst nach verkündeter positiver Beurteilung meldet ein Mitschüler, der Kandidat habe bei der schriftlichen Arbeit abgeschrieben. Die Aufsicht hat nichts bemerkt. Was ist zu tun?",
+    "optionen": [
+      "Nichts, verkündet ist verkündet.",
+      "Den Hinweis ernst nehmen, Sachverhalt prüfen, Kommission befassen und Entscheidung samt Begründung dokumentieren.",
+      "Die Note sofort ohne Prüfung des Hinweises auf Nicht genügend ändern.",
+      "Den Hinweisgeber bestrafen, damit Ruhe einkehrt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Weghören wäre falsch.",
+      "Richtig: Prüfen, Kommission entscheiden lassen, alles festhalten.",
+      "Falsch: Ohne Sachverhaltsklärung keine Notenänderung.",
+      "Falsch: Hinweisgeber einzuschüchtern ist inakzeptabel."
+    ],
+    "aufloesung": "Jedem Verdacht sachlich nachgehen und die Entscheidung der Kommission überlassen, nie im Alleingang handeln. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-006",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Kandidatin kommt mit 25 Minuten Verspätung, legt ein Foto einer behördlichen Straßensperre vor und bittet um Einlass zur noch laufenden Prüfung. Der Prüfer will sie abweisen. Was ist rechtsrichtig?",
+    "optionen": [
+      "Sie starr abweisen, Verspätung ist immer eigenes Verschulden.",
+      "Sachverhalt und Beleg würdigen, Kommission entscheiden lassen und alles protokollieren.",
+      "Sie ohne Prüfung als durchgefallen eintragen.",
+      "Sie allein ohne Kommission schnell nebenbei prüfen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Starrheit ohne Prüfung der Gründe ist falsch.",
+      "Richtig: Beleg würdigen, Gremium entscheiden lassen, dokumentieren.",
+      "Falsch: Durchgefallen ohne Prüfung der Gründe geht nicht.",
+      "Falsch: Abkürzungen bei der Besetzung machen alles angreifbar."
+    ],
+    "aufloesung": "Gründe prüfen statt reflexhaft abzuweisen, die Kommission entscheidet, das Protokoll hält es fest. Zum Nachlesen: SchUG §20 Abs.3-4.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [
+      "SchUG §20 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-007",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein durchgefallener Kandidat behauptet, ihm sei mündlich ein engerer Prüfungsstoff versprochen worden als anderen. Eine schriftliche Stoffmitteilung an ihn liegt nicht vor. Woran hält sich die Schule?",
+    "optionen": [
+      "An das mündliche Versprechen, wie der Kandidat es schildert.",
+      "An die dokumentierte, allen Kandidaten gleich übermittelte Stoffeingrenzung und zieht daraus Lehren für die Schriftlichkeit.",
+      "An das, was die Eltern für fair halten.",
+      "An gar nichts, die Prüfung wird annulliert und vergessen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Unbelegte Behauptungen ersetzen keine Akten.",
+      "Richtig: Es zählt das Dokumentierte, künftig alles schriftlich.",
+      "Falsch: Fairnessempfinden ersetzt kein Verfahren.",
+      "Falsch: Vergessen und Annullieren ohne Grundlage geht nicht."
+    ],
+    "aufloesung": "Dieser Fall zeigt, warum Stoff nur schriftlich und nachweislich mitgeteilt wird. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [
+      "SchUG §20 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-008",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Herbstwoche mit sechs Kandidaten in drei Fächern: Zwei Prüfer fallen kurzfristig aus, ein Raum ist gesperrt, Eltern rufen laufend an. Als Direktorin musst du den Durchgang retten. Wähle alle richtigen Maßnahmen.",
+    "optionen": [
+      "Ersatzprüfer bestellen, sodass jede Kommission wieder vorschriftsmäßig besetzt ist.",
+      "Geänderte Zeiten und Räume allen Kandidaten nachweislich und rechtzeitig mitteilen.",
+      "Stoffgrundlagen unberührt lassen und keine Schnellkürzungen vornehmen.",
+      "Jede Prüfung weiterhin vollständig protokollieren lassen.",
+      "Kommissionen halbiert antreten lassen, damit der Plan hält.",
+      "Kandidaten telefonisch vertrösten, ohne etwas schriftlich festzuhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne vollständige Besetzung keine gültige Prüfung.",
+      "Richtig: Änderungen gehören nachweislich an alle.",
+      "Richtig: Stoffkürzungen aus Zeitnot verfälschen den Maßstab.",
+      "Richtig: Gerade im Chaos ist das Protokoll der Anker.",
+      "Falsch: Halbe Kommissionen produzieren halbe Gültigkeit.",
+      "Falsch: Mündliche Beruhigung ersetzt keine Aktenlage."
+    ],
+    "aufloesung": "Auch unter Druck gilt: Besetzung sichern, Änderungen schriftlich, Stoff und Protokoll unangetastet. Zum Nachlesen: SchUG §20 Abs.2-4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [
+      "SchUG §20 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-009",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Wiederholungsprüfung endet knapp negativ, die Eltern drohen sofort mit Beschwerde und verlangen eine Nachverhandlung der Note im Konferenzzimmer. Wie handelst du korrekt? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Ruhe bewahren und das Zustandekommen der Note anhand von Maßstab und Protokoll erklären.",
+      "Keine Nachverhandlung der Note unter Druck führen, sondern den ordentlichen Weg einhalten.",
+      "Auf zulässige Rechtsbehelfe, Form und Frist hinweisen.",
+      "Aktenlage prüfen und gegebenenfalls eigene Verfahrensfehler ehrlich einräumen.",
+      "Die Note unter dem Druck der Situation sofort verbessern.",
+      "Den Eltern den Zutritt zur Schule verbieten, damit sie keine Beschwerde einbringen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erklären statt streiten deeskaliert.",
+      "Richtig: Noten werden nicht verhandelt wie auf einem Markt.",
+      "Richtig: Der Hinweis auf Rechtsbehelfe ist fair und vorgeschrieben sinngemäß.",
+      "Richtig: Eigene Fehler einzugestehen stärkt die Glaubwürdigkeit.",
+      "Falsch: Druckkorrekturen sind unzulässig.",
+      "Falsch: Beschwerde zu verhindern ist rechtswidrig."
+    ],
+    "aufloesung": "Erklären, Verfahren einhalten, Rechtsbehelfe nennen, Fehler ehrlich prüfen. Zum Nachlesen: SchUG §20 Abs.4-5.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-010",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Kurz vor Beginn der schriftlichen Wiederholungsprüfung werden bei einem Kandidaten unerlaubte Unterlagen gefunden, ein zweiter stört massiv den Ablauf. Welche Sofortmaßnahmen sind richtig? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Ruhe bewahren, Vorfälle getrennt dokumentieren und Beweismittel sichern.",
+      "Kommission über Fortgang, Abbruch oder Ausschluss entscheiden lassen.",
+      "Betroffene und unbeteiligte Kandidaten fair behandeln und den Ablauf für die anderen sichern.",
+      "Vorfälle und Entscheidungen vollständig protokollieren.",
+      "Beide Kandidaten sofort eigenmächtig durch die Aufsicht nach Hause schicken.",
+      "Die restlichen Kandidaten zur Strafe ebenfalls schlechter beurteilen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Getrennte Dokumentation verhindert Vermischung der Fälle.",
+      "Richtig: Solche Entscheidungen trifft das Gremium.",
+      "Richtig: Unbeteiligte dürfen nicht unter den Vorfällen leiden.",
+      "Richtig: Protokoll trägt jede Folgemaßnahme.",
+      "Falsch: Alleingänge der Aufsicht sind angreifbar.",
+      "Falsch: Kollektivstrafen sind unzulässig und ungerecht."
+    ],
+    "aufloesung": "Trennen, sichern, Gremium entscheiden lassen, Ablauf für alle anderen wahren. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-011",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Ein Kandidat mit zwei Antritten erscheint in Mathematik gesund, fehlt aber in Englisch mit ärztlichem Attest. Nach dem Durchgang ist Mathematik negativ, für Englisch steht der Ersatztermin an. Die Eltern fordern, alles zu vermischen und neu zu starten. Wähle alle rechtsrichtigen Feststellungen.",
+    "optionen": [
+      "Mathematik ist als eigenes Verfahren abgeschlossen und dokumentiert.",
+      "Englisch läuft über den Ersatzweg mit neuem Termin weiter.",
+      "Ein abgeschlossener negativer Antritt wird nicht durch Krankheit im anderen Fach aufgehoben.",
+      "Beide Fächer werden zu einem neuen Gesamtverfahren verschmolzen.",
+      "Der Ersatztermin in Englisch entfällt, weil Mathematik schon negativ ist.",
+      "Die Elternforderung nach Neustart ersetzt die getrennten Verfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgeschlossen bleibt abgeschlossen.",
+      "Richtig: Belegte Verhinderung führt zum Ersatztermin im betroffenen Fach.",
+      "Richtig: Fachübergreifende Aufhebung gibt es nicht.",
+      "Falsch: Verschmelzung zweier Verfahren ist nicht vorgesehen.",
+      "Falsch: Der Ersatzanspruch in Englisch besteht unabhängig.",
+      "Falsch: Wünsche ersetzen keine Verfahrensregeln."
+    ],
+    "aufloesung": "Verfahren trennen, Abschlüsse respektieren, Ersatzwege nur dort, wo sie entstanden sind. Zum Nachlesen: SchUG §20 Abs.3-5.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L3-012",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Lehrerkonferenz: Eine Kollegin behauptet: Wer zur Wiederholungsprüfung im Herbst nicht antritt, kann sie im Sommersemester des laufenden Schuljahres einfach nachholen und dann doch noch aufsteigen.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Einen Nachholbetrieb über das Jahr gibt es nicht.",
+      "Richtig erkannt: Kein Antritt im Durchgang heißt grundsätzlich Wiederholen, ein späterer Nachholtermin ist nicht vorgesehen."
+    ],
+    "aufloesung": "Der Durchgang im Herbst ist die Chance, danach steht das Ergebnis. Das gilt es Eltern klar zu sagen. Zum Nachlesen: SchUG §20 Abs.2 und Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
     "stand": "04.09.2026"
   }
 ]

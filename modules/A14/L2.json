@@ -4,7 +4,10 @@
     "modul_id": "A14",
     "level": "L2",
     "typ": "multiple",
-    "schulart": ["MS", "AHS"],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
     "situation": "Du bist Klassenvorstand einer 3. Klasse. Zwei Schüler mit Nicht genügend in Mathematik wollen im Herbst antreten. Die Direktorin bittet dich, alles korrekt vorzubereiten. Was musst du alles sicherstellen? Wähle alle richtigen Schritte.",
     "optionen": [
       "Anmeldefrist prüfen und beide Anmeldungen schriftlich dokumentieren.",
@@ -14,7 +17,12 @@
       "Ersatztermin und Vorgehen bei Krankheit im Vorfeld klären und kommunizieren.",
       "Den Prüfungstermin mündlich in der Klasse ausmachen, schriftlich ist nicht nötig."
     ],
-    "richtig": [0, 1, 2, 4],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
     "pro_option_feedback": [
       "Richtig: Ohne fristgerechte dokumentierte Anmeldung kein geordnetes Verfahren.",
       "Richtig: Eingegrenzter, mitgeteilter Stoff ist Pflicht für Fairness.",
@@ -25,7 +33,9 @@
     ],
     "aufloesung": "Frist, Stoff, Kommission und Protokoll plus Krankheitsregelung vorbereiten. Alles schriftlich. Zum Nachlesen: SchUG §20 Abs.2-4.",
     "hauptquelle": "SchUG §20 Abs.2",
-    "zusatzquellen": ["SchUG §20 Abs.4"],
+    "zusatzquellen": [
+      "SchUG §20 Abs.4"
+    ],
     "stand": "04.09.2026"
   },
   {
@@ -33,16 +43,504 @@
     "modul_id": "A14",
     "level": "L2",
     "typ": "tf",
-    "schulart": ["alle"],
+    "schulart": [
+      "alle"
+    ],
     "situation": "Mythen-Check zum Prüfungstag: Ein Kollege behauptet im Konferenzzimmer: Wenn bei der Wiederholungsprüfung der Beisitz fehlt, kann der Prüfer allein prüfen und das Ergebnis gilt trotzdem.",
-    "optionen": ["Richtig", "Falsch"],
-    "richtig": [1],
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
     "pro_option_feedback": [
       "Falsch gedacht: Das ist ein klassischer Formfehler.",
       "Richtig erkannt: Ohne vorschriftsmäßige Besetzung ist die Prüfung anfechtbar, unbedingt neu ansetzen und dokumentieren."
     ],
     "aufloesung": "Besetzung und Protokoll sind Gültigkeitsvoraussetzung, kein Detail. Bei Fehler abbrechen und neu ansetzen. Zum Nachlesen: SchUG §20 Abs.4.",
     "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-003",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bist Direktorin und richtest den Herbsttermin für vier Wiederholungsprüfungen ein. Welche Punkte musst du für einen rechtssicheren Durchgang sicherstellen? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Termine festsetzen und allen Beteiligten rechtzeitig und nachweislich bekannt geben.",
+      "Prüfungskommissionen vorschriftsmäßig bestellen und die Bestellung dokumentieren.",
+      "Prüfungsstoff je Fach eingrenzen lassen und den Kandidaten rechtzeitig mitteilen.",
+      "Protokollführung für jede Prüfung sicherstellen und Formulare bereitstellen.",
+      "Regelung für Verhinderung und Ersatztermine im Vorfeld festlegen.",
+      "Zusagen, dass alle Kandidaten jedenfalls bestehen werden, um Beschwerden zu vermeiden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne nachweisliche Bekanntgabe entstehen Streitigkeiten über Termine.",
+      "Richtig: Die Bestellung der Kommission gehört dokumentiert.",
+      "Richtig: Mitgeteilter Stoff ist Fairnessvoraussetzung.",
+      "Richtig: Ohne Protokoll ist das Ergebnis nicht belastbar.",
+      "Richtig: Vorher geklärte Ersatzregeln retten den Durchgang bei Krankheit.",
+      "Falsch: Erfolgszusagen sind unzulässig und untergraben die Prüfung."
+    ],
+    "aufloesung": "Plane Termine, Kommissionen, Stoff, Protokolle und Ersatzregeln schriftlich und früh. Zum Nachlesen: SchUG §20 Abs.2-4.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [
+      "SchUG §20 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-004",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Als Prüfer bereitest du eine Wiederholungsprüfung in Mathematik vor. Was gehört zu einer korrekten Vorbereitung? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Den eingegrenzten Jahresstoff nochmals mit dem Kandidaten abgleichen und Fragen vorbereiten.",
+      "Aufgaben so wählen, dass alle Stoffgebiete der Eingrenzung abgedeckt werden können.",
+      "Bewertungsmaßstab vorab festlegen und auf Genügend als Schwelle ausrichten.",
+      "Hilfsmittelregelung klären und zu Beginn der Prüfung bekannt geben.",
+      "Dem Kandidaten vorab die genauen Prüfungsfragen aushändigen.",
+      "Die Prüfung ohne Zeitrahmen spontan laufen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgleich des Stoffs verhindert Missverständnisse am Prüfungstag.",
+      "Richtig: Ausgewogene Aufgaben sichern die Aussagekraft.",
+      "Richtig: Ein vorab festgelegter Maßstab schützt vor Willkür.",
+      "Richtig: Klare Hilfsmittelregeln vermeiden Schummelstreit.",
+      "Falsch: Fragen vorab aushändigen entwertet die Prüfung.",
+      "Falsch: Ohne Zeitrahmen wird die Prüfung beliebig und angreifbar."
+    ],
+    "aufloesung": "Bereite Stoff, Aufgaben, Maßstab und Regeln vor und halte alles im Protokoll fest. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-005",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Prüfungstag in Deutsch: Ein Kandidat erscheint pünktlich, ein zweiter meldet sich krank. Welche Schritte sind für beide Fälle korrekt? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Identität und Anmeldung des erschienenen Kandidaten prüfen und dokumentieren.",
+      "Prüfungsablauf, Zeit und Hilfsmittel zu Beginn klar ansagen.",
+      "Krankmeldung des zweiten Kandidaten mit Zeitpunkt und Wortlaut festhalten.",
+      "Vom erkrankten Kandidaten zeitnah einen Nachweis verlangen und Ersatztermin prüfen.",
+      "Den erkrankten Kandidaten automatisch als durchgefallen eintragen.",
+      "Die Prüfung des erschienenen Kandidaten ohne Protokoll durchführen, um Zeit zu sparen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wer prüft, wird festgestellt und vermerkt.",
+      "Richtig: Klare Ansagen zu Beginn verhindern Einsprüche.",
+      "Richtig: Jede Meldung gehört mit Zeitpunkt in den Akt.",
+      "Richtig: Nachweis plus Ersatztermin sind der korrekte Weg bei Krankheit.",
+      "Falsch: Automatisch durchfallen ohne Prüfung der Gründe ist falsch.",
+      "Falsch: Ohne Protokoll ist das Ergebnis wertlos."
+    ],
+    "aufloesung": "Anwesende korrekt prüfen, Abwesende korrekt dokumentieren und Ersatzwege einhalten. Zum Nachlesen: SchUG §20 Abs.3-4.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [
+      "SchUG §20 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-006",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer Wiederholungsprüfung in Englisch berät die Kommission über die Note. Worauf muss sie bei Bewertung und Verkündung achten? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Nur die in der Prüfung gezeigte Leistung beurteilen, nicht das alte Zeugnis oder Sympathie.",
+      "Den vorab festgelegten Maßstab anwenden und die Note begründen.",
+      "Das Ergebnis dem Kandidaten in angemessener Form bekannt geben.",
+      "Bewertung und Begründung im Protokoll festhalten und unterschreiben.",
+      "Die Note nachträglich auf Wunsch der Eltern am Telefon verbessern.",
+      "Dem Kandidaten die Note nur mündlich auf dem Gang zuflüstern."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Es zählt die Prüfungsleistung, nichts sonst.",
+      "Richtig: Maßstab plus Begründung sichern Nachvollziehbarkeit.",
+      "Richtig: Das Ergebnis gehört ordentlich verkündet.",
+      "Richtig: Protokoll mit Unterschriften macht es belastbar.",
+      "Falsch: Telefonische Notenkorrektur auf Zuruf ist unzulässig.",
+      "Falsch: Tür-und-Angel-Mitteilungen ersetzen keine ordnungsgemäße Verkündung."
+    ],
+    "aufloesung": "Maßstab anlegen, begründen, ordentlich verkünden und protokollieren. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-007",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Kandidatin bleibt der Prüfung unentschuldigt fern, ein anderer Kandidat ist nachweislich erkrankt. Wie behandelst du die beiden Fälle richtig? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Unentschuldigtes Fernbleiben dokumentieren und als verwirkten Antritt werten.",
+      "Erkrankten Kandidaten nach Nachweis einen Ersatztermin anbieten.",
+      "Beide Fälle gleich behandeln, um niemanden zu bevorzugen.",
+      "Jeweils Zeitpunkt, Meldungen und Belege zu den Akten nehmen.",
+      "Den unentschuldigt Ferngebliebenen automatisch zum Ersatztermin laden.",
+      "Krankheit ohne jede Nachfrage als Ausrede abtun."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unentschuldigt heißt Antritt verwirkt, und das gehört dokumentiert.",
+      "Richtig: Mit Nachweis gibt es den Ersatzweg.",
+      "Falsch: Gleichbehandlung ungleicher Fälle wäre ungerecht.",
+      "Richtig: Nur was im Akt steht, lässt sich später belegen.",
+      "Falsch: Ersatztermine stehen nur bei anerkannter Verhinderung zu.",
+      "Falsch: Glaubhafte Nachweise pauschal abzutun ist falsch."
+    ],
+    "aufloesung": "Unterscheide sauber zwischen entschuldigt und unentschuldigt und lege alles schriftlich ab. Zum Nachlesen: SchUG §20 Abs.3.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-008",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor dem Herbsttermin häufen sich Fehlerquellen: knappe Besetzung, mündliche Stoffabsprachen, fehlende Protokolle. Welche Maßnahmen verhindern Formfehler wirksam? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Kommissionsbesetzung vorab prüfen und Vertretungen einteilen.",
+      "Stoffeingrenzung schriftlich an die Kandidaten übermitteln und Ablage aufbewahren.",
+      "Protokollformulare und Unterschriftenregelung vorbereiten.",
+      "Termine und Ladungen nachweislich zustellen.",
+      "Sich darauf verlassen, dass schon niemand Beschwerde einlegen wird.",
+      "Stoffabsprachen nur mündlich am Telefon treffen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vertretungen retten die Beschlussfähigkeit.",
+      "Richtig: Schriftlicher Stoff ist im Streitfall belegbar.",
+      "Richtig: Vorbereitete Formulare sichern vollständige Protokolle.",
+      "Richtig: Nachweisliche Ladung beendet Termin-Streitigkeiten.",
+      "Falsch: Auf ausbleibende Beschwerden zu hoffen ist keine Strategie.",
+      "Falsch: Mündliches ist im Ernstfall nicht beweisbar."
+    ],
+    "aufloesung": "Formfehler vermeidest du mit Schriftlichkeit: Besetzung, Stoff, Ladung, Protokoll. Zum Nachlesen: SchUG §20 Abs.2-4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [
+      "SchUG §20 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-009",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Alle Herbstprüfungen sind gelaufen: Zwei Kandidaten haben bestanden, einer ist durchgefallen. Was ist nach dem Durchgang zu erledigen? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Ergebnisse in Zeugnis und Schriftverkehr korrekt nachtragen und Aufstieg vermerken.",
+      "Prüfungsakten vollständig ablegen: Anmeldung, Stoffmitteilung, Protokolle, Belege.",
+      "Durchgefallenen Schüler und Eltern über das Wiederholen informieren und Perspektiven besprechen.",
+      "Bestandene Kandidaten über Zeugnisergänzung und Klasseneinteilung informieren.",
+      "Protokolle wegwerfen, damit niemand mehr darin blättern kann.",
+      "Den Durchgefallenen ohne Gespräch einfach in die Wiederholerliste eintragen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeugnisnachtrag und Aufstiegsvermerk schließen den Fall ab.",
+      "Richtig: Vollständige Akten schützen bei späteren Rückfragen.",
+      "Richtig: Ein ehrliches Perspektivengespräch gehört dazu.",
+      "Richtig: Auch Erfolgreiche brauchen klare Infos zum Weitergehen.",
+      "Falsch: Akten vernichten ist unzulässig und verdächtig.",
+      "Falsch: Listen ohne Gespräch sind schlechter Stil und fehleranfällig."
+    ],
+    "aufloesung": "Nach dem Durchgang: nachtragen, ablegen, informieren, Gespräche führen. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [
+      "SchUG §20 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-010",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Während einer Wiederholungsprüfung entdeckt die Aufsicht einen Spickzettel beim Kandidaten. Wie reagiert ihr korrekt? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Vorfall sofort ruhig dokumentieren und Beweismittel sicherstellen.",
+      "Kandidaten weiterarbeiten lassen oder Prüfung abbrechen, Entscheidung der Kommission einholen.",
+      "Vorfall und Entscheidung im Prüfungsprotokoll vermerken.",
+      "Bewertung unter Berücksichtigung des Vorfalls durch die Kommission treffen.",
+      "Den Spickzettel ungelesen wegwerfen und so tun, als wäre nichts gewesen.",
+      "Die Note willkürlich um zwei Stufen senken, ohne den Vorfall zu vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ruhig sichern und festhalten ist der erste Schritt.",
+      "Richtig: Über den Fortgang entscheidet die Kommission, nicht die Aufsicht allein.",
+      "Richtig: Nur was protokolliert ist, trägt die Entscheidung.",
+      "Richtig: Die Kommission bewertet unter Würdigung des Vorfalls.",
+      "Falsch: Vertuschen schadet allen und ist unfair.",
+      "Falsch: Willkürliche Abzüge ohne Vermerk sind angreifbar."
+    ],
+    "aufloesung": "Sichern, protokollieren, Kommission entscheiden lassen, alles schriftlich. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-011",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Als Klassenvorstand informierst du am Schulschluss alle gefährdeten Schüler und Eltern über die Prüfung auf Verlangen. Welche Inhalte gehören in deine Information? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Voraussetzungen und Freiwilligkeit des Antritts erklären.",
+      "Anmeldefrist und Form der Anmeldung nennen und schriftlich aushändigen.",
+      "Terminlage im Herbst und Stoffgrundlage ankündigen.",
+      "Folgen von Bestehen, Nichtbestehen und Nichtantritt erklären.",
+      "Versprechen, dass die Prüfung jedenfalls leicht und wohlwollend ausfällt.",
+      "Mitteilen, dass man sich auch noch im Oktober anmelden kann."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wer die Spielregeln kennt, kann entscheiden.",
+      "Richtig: Frist plus Form schriftlich geben verhindert Versäumnisse.",
+      "Richtig: Termin- und Stoffinfo ermöglichen Sommerlernen.",
+      "Richtig: Offene Folgenaufklärung schafft realistische Erwartungen.",
+      "Falsch: Gefälligkeitsversprechen sind unredlich und falsch.",
+      "Falsch: Falsche Fristen stiften an, die echte zu versäumen."
+    ],
+    "aufloesung": "Informiere vollständig und schriftlich: Regeln, Frist, Termine, Stoff, Folgen. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-012",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler tritt in zwei Fächern an: In Mathematik erscheint er gesund und wird negativ beurteilt, in Englisch fehlt er krank mit Attest. Was ist korrekt? Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "Beide Fächer sind getrennte Verfahren mit eigenen Protokollen und Bewertungen.",
+      "Das negative Mathematikergebnis steht für sich und wird dokumentiert.",
+      "Für Englisch ist nach Nachweis ein Ersatztermin zu prüfen.",
+      "Das Mathematik-Ergebnis kann wegen der Englisch-Krankheit nachträglich aufgehoben werden.",
+      "Beide Prüfungen zu einer Gesamtnote zusammenziehen.",
+      "Die Englisch-Krankheit automatisch auch auf Mathematik ausdehnen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jedes Fach läuft als eigenes Verfahren.",
+      "Richtig: Angetreten und negativ bleibt negativ.",
+      "Richtig: Belegte Krankheit führt zum Ersatzweg im betroffenen Fach.",
+      "Falsch: Andere Fächer werden nicht nachträglich aufgehoben.",
+      "Falsch: Zusammengezogene Gesamtprüfungen gibt es nicht.",
+      "Falsch: Krankmeldungen wirken nicht automatisch fachübergreifend."
+    ],
+    "aufloesung": "Trenne die Verfahren sauber: ein Fach abgeschlossen negativ, eines über den Ersatzweg. Zum Nachlesen: SchUG §20 Abs.3-5.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-013",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Protokoll einer Wiederholungsprüfung soll einer späteren Überprüfung standhalten. Welche Inhalte gehören hinein? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Datum, Ort, Kommission und Identität des Kandidaten.",
+      "Prüfungsstoff, Aufgabenstellung und Verlauf der Prüfung.",
+      "Erbrachte Leistungen und deren Würdigung durch die Kommission.",
+      "Beurteilung, Verkündung und Unterschriften der Kommission.",
+      "Private Mutmaßungen über Familie und Charakter des Kandidaten.",
+      "Leere Floskeln ohne Bezug zur gezeigten Leistung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kopfdaten machen das Protokoll zuordenbar.",
+      "Richtig: Stoff und Verlauf belegen die Ordnungsmäßigkeit.",
+      "Richtig: Leistungswürdigung trägt die Note.",
+      "Richtig: Beurteilung plus Unterschriften schließen das Verfahren ab.",
+      "Falsch: Privates hat im Protokoll nichts verloren.",
+      "Falsch: Floskeln ohne Leistungsbezug sind wertlos."
+    ],
+    "aufloesung": "Ein gutes Protokoll erzählt den ganzen Prüfungsverlauf sachlich und vollständig. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-014",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Ein Kandidat besteht die Prüfung, die Eltern eines durchgefallenen Kandidaten kündigen eine Beschwerde an. Wie verhältst du dich als Schule korrekt? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Verfahren und Bewertung anhand der Akten sachlich überprüfen.",
+      "Den Eltern das Zustandekommen der Entscheidung ruhig und nachvollziehbar erklären.",
+      "Auf zulässige Rechtsbehelfe und deren Form hinweisen.",
+      "Akten vollständig und geordnet für eine Überprüfung bereithalten.",
+      "Die Note rasch am Telefon nach oben korrigieren, um Ruhe zu haben.",
+      "Den Eltern mit schulischen Nachteilen drohen, falls sie Beschwerde einlegen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst selbst prüfen, dann reden.",
+      "Richtig: Transparente Erklärung deeskaliert.",
+      "Richtig: Der Hinweis auf Rechtsbehelfe gehört zum fairen Verfahren.",
+      "Richtig: Geordnete Akten bestehen jede Überprüfung.",
+      "Falsch: Gefälligkeitskorrekturen sind unzulässig.",
+      "Falsch: Drohungen sind inakzeptabel und rechtswidrig."
+    ],
+    "aufloesung": "Prüfe selbst, erkläre transparent, weise auf Rechtsbehelfe hin, halte Akten bereit. Zum Nachlesen: SchUG §20 Abs.4-5.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-015",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Anmeldung zur Wiederholungsprüfung trifft erst nach Ablauf der Frist ein, die Eltern bitten um Nachsicht. Wie gehst du korrekt vor? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Eingangsdatum der Anmeldung feststellen und dokumentieren.",
+      "Prüfen, ob die Frist tatsächlich versäumt wurde, und das Ergebnis festhalten.",
+      "Den Eltern die Rechtslage und die Folge des Fristversäumnisses schriftlich mitteilen.",
+      "Den Fall mit dem Wiederholen der Schulstufe als Regelfolge besprechen.",
+      "Die verspätete Anmeldung stillschweigend als fristgerecht behandeln.",
+      "Die Frist je nach Sympathie unterschiedlich handhaben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Eingangsdatum ist die entscheidende Tatsache.",
+      "Richtig: Fristprüfung gehört dokumentiert.",
+      "Richtig: Schriftliche Mitteilung schafft Klarheit für alle.",
+      "Richtig: Das Wiederholungsjahr als Perspektive ehrlich ansprechen.",
+      "Falsch: Zurückdatieren verfälscht das Verfahren.",
+      "Falsch: Gleiche Fristen für alle, Sympathie spielt keine Rolle."
+    ],
+    "aufloesung": "Fristversäumnis feststellen, dokumentieren, schriftlich mitteilen und das nächste Jahr planen. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
     "zusatzquellen": [],
     "stand": "04.09.2026"
   }
