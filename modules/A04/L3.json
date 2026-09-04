@@ -1,1 +1,388 @@
-[]
+[
+  {
+    "id": "A04-L3-001",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine zweite Klasse wächst nach Zuzügen im Oktober auf 31 Kinder an, der Raum ist zu klein und der Lärmpegel steigt deutlich. Die Schulleiterin unternimmt nichts, meldet nichts weiter und hofft, dass zwei Familien wieder wegziehen. Eine Mutter verlangt die Teilung der Klasse. Was gilt?",
+    "optionen": [
+      "Abwarten ist richtig, Schwankungen gleichen sich immer von selbst aus.",
+      "Die Überschreitung ist unbeachtlich, solange die Lehrerin nicht klagt.",
+      "Bei Überschreitung der vorgesehenen Höchstzahl ist die Teilung zu prüfen, das Verfahren einzuleiten und die Überschreitung zu melden statt auszusitzen.",
+      "Die Eltern müssen selbst eine zweite Lehrkraft finanzieren."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aussitzen ersetzt kein Organisationsverfahren.",
+      "Falsch: Höchstzahlen schützen alle, nicht nur bei Klage.",
+      "Richtig: Prüfen, einleiten und melden ist der vorgeschriebene Weg.",
+      "Falsch: Personalfinanzierung ist keine Elternaufgabe."
+    ],
+    "aufloesung": "Teilung prüfen, Verfahren einleiten und Überschreitung melden, nicht aussitzen. Zu große Klassen brauchen eine formale Entscheidung mit Dokumentation. Zum Nachlesen: SchUG §8 Abs.2.",
+    "hauptquelle": "SchUG §8 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-002",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Zwei Parallelklassen einer Stufe haben nur noch je 12 Schülerinnen und Schüler, Räume und Lehrfächerreserven sind knapp. Die Schulleitung verweigert die Zusammenlegung, weil sie den Eltern im Vorjahr versprochen hat, die Klassen nie zu trennen. Die Behörde verlangt eine Begründung. Wie ist zu entscheiden?",
+    "optionen": [
+      "Das Versprechen an Eltern bindet die Schule dauerhaft, Zusammenlegung ist ausgeschlossen.",
+      "Parallelklassen dürfen nie zusammengelegt werden, egal wie klein sie sind.",
+      "Bei Unterschreitung der Mindestvoraussetzungen ist die Zusammenlegung zu prüfen und sachlich zu entscheiden, ein bloßes Versprechen ersetzt die Organisationspflicht nicht.",
+      "Die Klassenlehrer stimmen ab, ob zusammengelegt wird."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zusagen ersetzen keine Organisationsentscheidung.",
+      "Falsch: Kleine Parallelklassen sind gerade der Zusammenlegungsfall.",
+      "Richtig: Sachlich prüfen und formal entscheiden statt Versprechen fortzuschreiben.",
+      "Falsch: Abstimmung ersetzt keine Leitungsentscheidung."
+    ],
+    "aufloesung": "Zusammenlegung sachlich prüfen und formal entscheiden, das alte Versprechen reicht als Begründung nicht. Ressourcenlage und pädagogische Gründe abwägen und dokumentieren. Zum Nachlesen: SchUG §8 Abs.3.",
+    "hauptquelle": "SchUG §8 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-003",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "In Werken und in einer Fremdsprache werden jahrgangsübergreifende Großgruppen mit 30 Jugendlichen gebildet, weil das den Stundenplan vereinfacht. Sicherheitseinweisung und Materialversorgung leiden, leistungsdifferenziertes Arbeiten ist kaum möglich. Eine Lehrkraft meldet Bedenken an. Was ist falsch gelaufen?",
+    "optionen": [
+      "Nichts, Gruppenbildung ist immer frei wählbar und an keine Voraussetzungen gebunden.",
+      "Großgruppen sind Pflicht, sobald der Stundenplan es verlangt.",
+      "Gruppenunterricht braucht die vorgesehenen Voraussetzungen und vertretbare Gruppengrößen, reine Stundenplanbequemlichkeit trägt die Bildung von Großgruppen nicht.",
+      "Die Lehrkraft muss die Großgruppe akzeptieren und darf keine Bedenken melden."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gruppenbildung hat Voraussetzungen und Grenzen.",
+      "Falsch: Stundenplanbequemlichkeit ist kein Bildungstatbestand.",
+      "Richtig: Voraussetzungen prüfen und Gruppengröße pädagogisch und sicherheitstechnisch begrenzen.",
+      "Falsch: Bedenken zu melden ist Dienstpflicht, nicht Ungehorsam."
+    ],
+    "aufloesung": "Gruppen neu bilden nach Voraussetzungen und vertretbarer Größe, nicht nach Stundenplanbequemlichkeit. Sicherheit und Förderbarkeit gehen vor einfacher Planbarkeit. Zum Nachlesen: SchUG §8a.",
+    "hauptquelle": "SchUG §8a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-004",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Lehrkräfte melden sich krank, für den Vormittag müssen Vertretungen eingeteilt werden. Ein Lehrer mit Freistunde verweigert die Übernahme mit dem Argument, Freistunden seien unverletzlich. Im Gang stehen zwei Klassen ohne Aufsicht. Was gilt für die Vertretungspflicht?",
+    "optionen": [
+      "Freistunden sind absolut geschützt, die Klassen bleiben ohne Aufsicht.",
+      "Nur junge Lehrkräfte müssen Vertretungen übernehmen.",
+      "Vertretungen sind im Rahmen der Dienstpflicht auch in Freistunden zumutbar, Aufsicht geht vor, Einteilung und Mehrleistung sind zu dokumentieren.",
+      "Die Schule schickt die unbeaufsichtigten Klassen nach Hause."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aufsichtspflicht schlägt Freistundenkomfort.",
+      "Falsch: Pflicht hängt nicht vom Dienstalter ab.",
+      "Richtig: Zumutbare Vertretung übernehmen, Aufsicht sichern und dokumentieren.",
+      "Falsch: Nachhause-Schicken ersetzt keine Aufsicht."
+    ],
+    "aufloesung": "Vertretung einteilen und Aufsicht sofort sichern, Einteilung dokumentieren. Freistunden schützen nicht vor zumutbarer Vertretungspflicht. Zum Nachlesen: SchUG §9 Abs.3.",
+    "hauptquelle": "SchUG §9 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-005",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrkraft ist für zwei Tage auf einer genehmigten Fortbildung, das war seit Wochen bekannt. Die Schulleitung plant keine Vertretung ein, die Klassen werden kurzfristig auf andere Räume aufgeteilt oder fallen faktisch aus. Eltern beschweren sich über ausgefallene Schularbeitsvorbereitung. Was war der Fehler?",
+    "optionen": [
+      "Dass die Fortbildung genehmigt wurde, Fortbildung ist immer zu verbieten.",
+      "Dass bei vorhersehbarer Abwesenheit keine Vertretung geplant wurde, obwohl Vertretung der Regelfall und ersatzloser Ausfall die Ausnahme ist.",
+      "Dass Eltern informiert wurden.",
+      "Dass die Lehrkraft überhaupt abwesend war."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Genehmigte Fortbildung ist legitim.",
+      "Richtig: Vorhersehbarkeit verpflichtet zur Vertretungsplanung.",
+      "Falsch: Information ist richtig, nicht der Fehler.",
+      "Falsch: Abwesenheit an sich ist kein Fehler."
+    ],
+    "aufloesung": "Bei vorhersehbarer Abwesenheit Vertretung im Voraus planen und dokumentieren. Ersparter Aufwand rechtfertigt keinen ersatzlosen Ausfall. Zum Nachlesen: SchUG §9 Abs.3.",
+    "hauptquelle": "SchUG §9 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-006",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Der Stundenplan wird mitten im Semester geändert, zwei Klassen tauschen Turnsaalzeiten, der Aushang erfolgt erst zwei Tage später. Eine Klasse steht vor verschlossener Tür, eine andere versäumt den busplanmäßig abgestimmten Unterricht. Wer trägt den Formfehler?",
+    "optionen": [
+      "Die Schüler, sie hätten täglich im Konferenzzimmer nachfragen müssen.",
+      "Niemand, Stundenpläne gelten auch ohne Bekanntmachung.",
+      "Die Schulleitung, Änderungen müssen rechtzeitig bekannt gemacht werden, damit sie für alle verbindlich und organisierbar sind.",
+      "Der Hausmeister, weil die Tür versperrt war."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Holschuld im Konferenzzimmer besteht nicht.",
+      "Falsch: Ohne Bekanntmachung keine Verbindlichkeit.",
+      "Richtig: Rechtzeitige Bekanntmachung ist Gültigkeitsvoraussetzung der Umstellung.",
+      "Falsch: Türproblem ist Folge, nicht Ursache."
+    ],
+    "aufloesung": "Änderung zurücknehmen oder unverzüglich ordnungsgemäß bekannt machen und Versäumtes nachholen. Ohne rechtzeitige Kundmachung ist die Umstellung nicht durchsetzbar. Zum Nachlesen: SchUG §10 Abs.2.",
+    "hauptquelle": "SchUG §10 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-007",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Drei Parallelklassen werden neu sortiert: Die Direktion verteilt nach Elternwünschen und Spendenbereitschaft, eine Klasse erhält 30 Kinder, die andere 16, Integrationskinder landen alle in einer Klasse ohne Stützpersonal. Die Lehrerkonferenz wurde nicht befasst. Wähle alle zutreffenden Fehler.",
+    "optionen": [
+      "Verteilung nach sachfremden Kriterien wie Wunsch und Spende verletzt Gleichbehandlung.",
+      "Krasse Ungleichverteilung ohne sachlichen Grund ist organisationswidrig.",
+      "Konzentration von Förderbedarfen in einer Klasse ohne Ressourcen ist unzulässig.",
+      "Die Einteilung wurde im Kopf entschieden, eine kurze Notiz ersetzt jede Nachvollziehbarkeit.",
+      "Die Lehrerkonferenz muss in jedem Fall abstimmen und entscheidet allein.",
+      "Elternwünsche dürfen niemals gehört werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sachfremde Kriterien verzerren die Einteilung.",
+      "Richtig: Ausgewogenheit ist Organisationsgrundsatz.",
+      "Richtig: Förderbedarfe brauchen Ressourcen, keine Konzentration ohne Deckung.",
+      "Falsch: Kopferinnerung ersetzt keine nachvollziehbare Dokumentation.",
+      "Falsch: Befassung ja, Alleinentscheidung nein, Leitung entscheidet.",
+      "Falsch: Anhören ist erlaubt, Steuern ist verboten."
+    ],
+    "aufloesung": "Einteilung nach sachlichen Kriterien wiederholen und sauber begründen. Willkür und krasse Schieflagen halten einer Überprüfung nicht stand. Zum Nachlesen: SchUG §9 Abs.1.",
+    "hauptquelle": "SchUG §9 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-008",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Vor der Mathematikschularbeit fällt die Lehrkraft aus. Die Vertretung aus einem fachfremden Bereich diktiert neuen Stoff, kündigt eine eigene Leistungsfeststellung für die Vertretungsstunde an und lässt die Klasse die halbe Stunde ohne Aufsicht. Wähle alles Richtige für einen korrekten Vertretungseinsatz.",
+    "optionen": [
+      "Fachfremde Vertretung darf neuen Stoff einführen statt zu sichern und zu wiederholen.",
+      "Eigene benotete Feststellung in der fachfremden Vertretungsstunde ist zulässig.",
+      "Klasse ohne Aufsicht zu lassen ist zulässig, wenn die Vertretung Kopien bringt.",
+      "Vertretung muss sich am laufenden Unterricht orientieren und sichern statt eigene Agenda zu verfolgen.",
+      "Aufsicht ist durchgehend zu gewährleisten.",
+      "Der Vertretungseinsatz ist zu dokumentieren und an die Fachlehrkraft rückzumelden."
+    ],
+    "richtig": [
+      3,
+      4,
+      5
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Sichern statt neuer Stoff ist der Vertretungsgrundsatz.",
+      "Falsch gedacht: Keine eigene Benotung durch fachfremde Vertretung.",
+      "Falsch gedacht: Aufsicht darf nie ausgesetzt werden.",
+      "Richtig: Orientierung am laufenden Unterricht ist Pflicht.",
+      "Richtig: Aufsicht ist durchgehend zu sichern.",
+      "Richtig: Doku und Rückmeldung sichern Kontinuität."
+    ],
+    "aufloesung": "Vertretung auf Sicherung und Aufsicht beschränken, Einsatz dokumentieren und rückmelden. Eigene Stoff- und Prüfungsagenda der Vertretung ist unzulässig. Zum Nachlesen: SchUG §9 Abs.3.",
+    "hauptquelle": "SchUG §9 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-009",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zu Schulbeginn bestellt die Leitung die Klassenvorstände: Eine beliebte Kollegin erhält zwei Klassen, eine Junglehrerin ohne Mentoring eine schwierige Abschlussklasse, Bestellungen werden nirgends festgehalten. Prompt gibt es Kompetenzstreit um Elterngespräche und Zeugnisverantwortung. Wähle alles Richtige zur Korrektur.",
+    "optionen": [
+      "Doppelbestellung einer Lehrkraft für zwei Klassen ist der Regelfall und unproblematisch.",
+      "Jede Klasse braucht eine eindeutig bestellte verantwortliche Person.",
+      "Berufsanfänger brauchen bei schwierigen Aufgaben Unterstützung und Einarbeitung.",
+      "Bestellung und Aufgabenverteilung sind festzuhalten und bekannt zu machen.",
+      "Ohne Bestellung ist automatisch die dienstälteste Lehrkraft der Klasse verantwortlich.",
+      "Elterngespräche kann führen, wer gerade Zeit hat, Zuständigkeit ist egal."
+    ],
+    "richtig": [
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine Klasse, eine Verantwortung ist der Grundsatz.",
+      "Richtig: Eindeutigkeit verhindert Kompetenzstreit.",
+      "Richtig: Überforderung ohne Mentoring ist vermeidbar.",
+      "Richtig: Festhalten und bekannt machen schafft Verbindlichkeit.",
+      "Falsch: Automatismus nach Dienstalter existiert nicht.",
+      "Falsch: Zuständigkeit schützt Eltern und Lehrkräfte."
+    ],
+    "aufloesung": "Bestellungen eindeutig treffen, dokumentieren und bekannt machen, Anfänger stützen. Klare Verantwortung verhindert Streit um Gespräche und Zeugnisse. Zum Nachlesen: SchUG §10.",
+    "hauptquelle": "SchUG §10",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-010",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Bei der Verteilung der Lehraufgaben soll eine Deutschlehrerin fachfremd Physik in Abschlussklassen übernehmen, obwohl ausgebildete Physiker unterbeschäftigt sind. Überstunden werden mündlich angeordnet, Befähigung und Zumutbarkeit nirgends geprüft. Wähle alles Zutreffende.",
+    "optionen": [
+      "Fachfremder Einsatz ohne Prüfung von Befähigung und Notwendigkeit ist rechtswidrig.",
+      "Verfügbare Fachkräfte zu übergehen verletzt sachgerechte Aufgabenverteilung.",
+      "Mündliche Überstundenanordnung ohne jede Aufzeichnung ist völlig ausreichend.",
+      "Befähigung, Zumutbarkeit und dienstrechtliche Vorgaben sind vorab zu prüfen.",
+      "Betroffene dürfen keine Fragen zur Einteilung stellen und müssen alles schweigend hinnehmen.",
+      "Physik kann von jeder Lehrkraft gleich gut unterrichtet werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Befähigung ist Einsatzvoraussetzung.",
+      "Richtig: Fachverfügbarkeit steuert die Verteilung.",
+      "Falsch: Auch mündliche Anordnungen brauchen Nachweis und Doku.",
+      "Richtig: Vorabprüfung ist Pflicht der Leitung.",
+      "Falsch: Fragen und Klärung zu verlangen ist legitim.",
+      "Falsch: Fachlichkeit ist kein Beliebigkeitsgebot."
+    ],
+    "aufloesung": "Verteilung nach Befähigung und Verfügbarkeit korrigieren und sauber verfügen. Fachfremder Einsatz braucht Rechtfertigung, Prüfung und Dokumentation. Zum Nachlesen: SchUG §11 Abs.1.",
+    "hauptquelle": "SchUG §11 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-011",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Ein Gymnasium will eigenmächtig auf verkürzte Einheiten umstellen, Freistunden streichen und Labor-Doppelstunden ohne Deckung im Lehrplan anordnen. Konferenzen und Gremien werden übergangen, Eltern erfahren es aus der Gerüchteküche. Wähle alles Richtige für eine korrekte Planung.",
+    "optionen": [
+      "Unterrichtszeit eigenmächtig zu kürzen ist zulässig.",
+      "Doppelstunden ohne Deckung anzuordnen ist zulässig.",
+      "Gremien zu übergehen beschleunigt zulässig das Verfahren.",
+      "Stundenplan muss die vorgesehene Unterrichtszeit abbilden und Deckung wahren.",
+      "Änderungen brauchen ordentliches Verfahren und rechtzeitige Bekanntmachung.",
+      "Gerüchteküche ersetzt die Kundmachung."
+    ],
+    "richtig": [
+      3,
+      4
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Kürzung ohne Deckung ist unzulässig.",
+      "Falsch gedacht: Ohne Deckung keine Doppelstunde.",
+      "Falsch gedacht: Verfahren schützt, statt zu behindern.",
+      "Richtig: Deckung und Zeitabbildung sind Pflicht.",
+      "Richtig: Verfahren plus Bekanntmachung sichern Verbindlichkeit.",
+      "Falsch gedacht: Nur ordnungsgemäße Kundmachung bindet."
+    ],
+    "aufloesung": "Planung auf vorgesehene Zeit und Deckung zurückführen und ordentlich kundmachen. Eigenmächtige Kürzung und Gerüchtekommunikation sind unwirksam. Zum Nachlesen: SchUG §10 Abs.3.",
+    "hauptquelle": "SchUG §10 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L3-012",
+    "modul_id": "A04",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Eine Kollegin behauptet, bei Ausfall einer Lehrkraft dürfe Unterricht einfach ersatzlos entfallen, eine Vertretung sei freiwillig und müsse nicht geplant werden.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Vertretung ist der Regelfall und Ausfall ohne Ersatz die begründungspflichtige Ausnahme."
+    ],
+    "aufloesung": "Vertretung planen statt Ausfall hinnehmen. Ersatzloser Entfall braucht sachlichen Grund und Dokumentation. Zum Nachlesen: SchUG §9 Abs.3.",
+    "hauptquelle": "SchUG §9 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]
