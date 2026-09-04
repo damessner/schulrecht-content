@@ -1,1 +1,270 @@
-[]
+[
+  {
+    "aufloesung": "Karims beide Tage gelten als nicht gerechtfertigt, weil die sofortige Meldung mit Rechtfertigung fehlt. Wer ohne Befreiung fernbleibt, meldet den Grund unverzüglich und ermöglicht eine geordnete Vertretung, ein nachgereichter Zettel heilt das Versäumnis nicht. Die ungesicherte Klasse verletzt zugleich die gewissenhafte Dienstausübung und ist disziplinar zu würdigen. Zum Nachlesen: LDG §35 Abs.1.",
+    "hauptquelle": "LDG §35 Abs.1",
+    "id": "B22-L4-001",
+    "level": "L4",
+    "modul_id": "B22",
+    "optionen": [
+      "Die Abwesenheit ist gerechtfertigt, weil eine nachgereichte Bestätigung jedes Versäumnis heilt.",
+      "Die Abwesenheit gilt als nicht gerechtfertigt, weil weder unverzüglich gemeldet noch die Unterrichtssicherung ermöglicht wurde.",
+      "Die Tage werden automatisch zu genehmigtem Urlaub umgewertet, daher ist alles geheilt.",
+      "Die Vertretungskollegin hätte die Klasse sichern müssen, deshalb trifft Karim keine Pflichtverletzung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nachgereichte Zettel ersetzen die Pflicht zur sofortigen Meldung nicht.",
+      "Richtig: Ohne unverzügliche Meldung mit Rechtfertigung fehlt die Grundlage für gerechtfertigt.",
+      "Falsch: Eine automatische Umdeutung in Urlaub gibt es nicht.",
+      "Falsch: Die Sicherungspflicht des Abwesenden lässt sich nicht auf andere abwälzen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Karim bleibt am Montag und Dienstag ohne jede Nachricht dem Dienst fern, seine dritte Klasse steht ungesichert vor verschlossener Tür, bis die Direktion improvisiert. Am Mittwoch legt er eine Bestätigung vor und erklärt, krank gewesen zu sein und damit sei alles erledigt. Er beruft sich darauf, der Unterricht sei eben ausgefallen und das müsse man hinnehmen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Paul verletzt seine Dienstpflicht, weil er die Weisung zur Vertretungsvorsorge missachtet. Wer einen planbaren Termin kennt, hat Vorsorge und Erreichbarkeit nach Weisung sicherzustellen, damit der Unterricht weiterläuft. Krankheit im Nachhinein heilt die verweigerte Vorsorge nicht. Zum Nachlesen: LDG §29.",
+    "hauptquelle": "LDG §29",
+    "id": "B22-L4-002",
+    "level": "L4",
+    "modul_id": "B22",
+    "optionen": [
+      "Vertretungsvorsorge ist freiwillig, Krankheit im Nachhinein entschuldigt jede fehlende Vorbereitung.",
+      "Paul verletzt seine Dienstpflicht, weil er die angeordnete Vertretungsvorsorge und Erreichbarkeit verweigert hat.",
+      "Die Vertretung muss ohnehin improvisieren, daher schuldet der Abwesende keinerlei Vorbereitung.",
+      "Vorsorge ist nur bei Abwesenheiten über einer Woche geschuldet, darunter gilt sie als entbehrlich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vorsorge nach Weisung ist Dienstpflicht, kein freiwilliger Zusatz.",
+      "Richtig: Planbarkeit plus Weisung machen Vorbereitung und Erreichbarkeit zum Pflichtprogramm.",
+      "Falsch: Improvisation der Vertretung ersetzt die Vorsorge des Abwesenden nicht.",
+      "Falsch: Eine Wochenuntergrenze für die Vorsorgepflicht gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Paul kennt seinen planbaren Operationstermin seit Wochen, ignoriert aber die schriftliche Weisung der Direktion, rechtzeitig Vertretungsunterlagen und eine Erreichbarkeit zu hinterlegen. Als er danach zwei Tage fehlt, steht seine Klasse ohne Aufgaben da und die Vertretung kann nur beaufsichtigen. Paul meint, Vorsorge sei freiwillig und Krankheit entschuldige im Nachhinein alles.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §35 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Sabine verletzt die Aufenthaltsmeldepflicht und riskiert den Verlust der Rechtfertigung. Wer gerechtfertigt fehlt und außerhalb des Wohnsitzes Aufenthalt nimmt, meldet Aufenthalt und Adresse, damit Erreichbarkeit und Überprüfung möglich bleiben. Die gescheiterte Zustellung der angeordneten Untersuchung geht zu ihren Lasten. Zum Nachlesen: LDG §37 Abs.3.",
+    "hauptquelle": "LDG §37 Abs.3",
+    "id": "B22-L4-003",
+    "level": "L4",
+    "modul_id": "B22",
+    "optionen": [
+      "Im Krankenstand darf man sich frei und ohne jede Nachricht überall aufhalten.",
+      "Sabine verletzt ihre Meldepflicht, weil sie Aufenthalt und Adresse außerhalb des Wohnsitzes nicht gemeldet hat, und die vereitelte Untersuchung schadet ihr.",
+      "Es genügt, dass ihre Verwandten wissen, wo sie sich aufhält.",
+      "Eine Meldung wäre nur bei einer Reise ins Ausland nötig gewesen, im Inland gilt sie als entbehrlich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade im Krankenstand muss die Erreichbarkeit für den Dienstgeber gesichert bleiben.",
+      "Richtig: Aufenthalt außerhalb des Wohnsitzes plus Adresse sind zu melden, sonst scheitert jede Überprüfung.",
+      "Falsch: Wissen der Familie ersetzt die Meldung an den Dienstgeber nicht.",
+      "Falsch: Schon der Inlandsaufenthalt außerhalb des Wohnsitzes löst die Pflicht aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lehrerin Sabine ist zwei Wochen krankgeschrieben, verreist aber unangekündigt zu Verwandten in ein anderes Bundesland und teilt weder Aufenthalt noch Adresse mit. Eine angeordnete Kontrolluntersuchung kann ihr deshalb nicht zugestellt werden und scheitert. Sie erklärt danach, im Krankenstand dürfe man sich frei bewegen und eine Untersuchung könne man ablehnen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §35 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Thomas verletzt die Meldepflicht und sein Fernbleiben ist ungerechtfertigt. Wer im Dienst einen begründeten Verdacht auf eine von Amts wegen zu verfolgende Straftat mit Schulbezug erhält, meldet unverzüglich dem Vorgesetzten, statt zu schweigen und fernzubleiben. Kollegialität und Unannehmlichkeit entschuldigen weder das Schweigen noch das Fernbleiben. Zum Nachlesen: LDG §37 Abs.1.",
+    "hauptquelle": "LDG §37 Abs.1",
+    "id": "B22-L4-004",
+    "level": "L4",
+    "modul_id": "B22",
+    "optionen": [
+      "Schweigen aus Kollegialität geht vor, Fernbleiben am Folgetag ist Privatsache.",
+      "Thomas hätte den Verdacht unverzüglich seinem Vorgesetzten melden müssen und sein unentschuldigtes Fernbleiben ist zusätzlich ungerechtfertigt.",
+      "Es genügt, wenn er erst nach eigenen Ermittlungen in einigen Wochen meldet.",
+      "Zuständig sind zuerst die Eltern der Klasse, der Dienstweg kann warten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kollegialität entschuldigt weder Schweigen noch Fernbleiben bei ernstem Verdacht.",
+      "Richtig: Schon der begründete Verdacht mit Schulbezug geht sofort an den direkten Vorgesetzten.",
+      "Falsch: Abwarten und selbst ermitteln verletzt die Unverzüglichkeit.",
+      "Falsch: Eltern sind nicht die erste Adresse für solche Verdachtsmeldungen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "BHS"
+    ],
+    "situation": "Professor Thomas entdeckt im Dienst, dass mehrere Laptops aus der Schulsammlung fehlen und Spuren auf eine Straftat mit Bezug zur Schule hindeuten. Statt den Verdacht unverzüglich seinem Vorgesetzten zu melden, schweigt er und bleibt am Folgetag ohne Meldung dem Dienst fern, um unangenehmen Fragen aus dem Weg zu gehen. Er meint, Schweigen sei kollegial und Fernbleiben Privatsache.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §35 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Viktors Woche gilt als nicht gerechtfertigt, alle drei Versäumnisse kippen die Rechtfertigung. Wer nicht unverzüglich meldet, die geschuldete Bescheinigung mit Inhalt nicht bringt oder die zumutbare Mitwirkung verweigert, verliert die Rechtfertigung. Die ungesicherten Ausfälle sind zusätzlich als Dienstpflichtverletzung zu würdigen. Zum Nachlesen: LDG §35 Abs.2.",
+    "hauptquelle": "LDG §35 Abs.2",
+    "id": "B22-L4-005",
+    "level": "L4",
+    "modul_id": "B22",
+    "optionen": [
+      "Die verspätete Meldung erst am vierten Tag ohne Rechtfertigung macht die Zeit ungerechtfertigt.",
+      "Der Zettel ohne Beginn und voraussichtliche Dauer erfüllt die Bescheinigungspflicht nicht.",
+      "Die Verweigerung der zumutbaren Mitwirkung an der angeordneten Untersuchung kippt die Rechtfertigung zusätzlich.",
+      "Fünf Tage Fehlen gelten automatisch als Urlaub, daher ist alles geheilt.",
+      "Ein Versprechen, später einmal zum Arzt zu gehen, ersetzt Bescheinigung und Untersuchung.",
+      "Weil eine Kollegin zweimal einsprang, entfallen alle Melde- und Nachweispflichten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne unverzügliche Meldung mit Rechtfertigung fehlt die Basis.",
+      "Richtig: Beginn und Dauer sind der Pflichtinhalt bei dieser Fehldauer.",
+      "Richtig: Verweigerung zumutbarer Mitwirkung lässt die Rechtfertigung entfallen.",
+      "Falsch: Eine automatische Umdeutung in Urlaub gibt es nicht.",
+      "Falsch: Ein Versprechen ersetzt weder Bescheinigung noch Untersuchung.",
+      "Falsch: Einspringen einer Kollegin heilt keinen einzigen Pflichtverstoß."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Viktor fehlt eine volle Arbeitswoche, meldet sich erstmals am vierten Tag ohne klaren Grund, legt danach einen Zettel ohne Beginn und Dauer vor und verweigert die Mitwirkung an der daraufhin angeordneten Kontrolluntersuchung. Seine Klasse fällt mehrfach ungesichert aus. Er meint, in Summe sei das schon irgendwie gerechtfertigt. Die Direktion prüft Meldepflichten und disziplinare Würdigung. Wähle alle Umstände, die die Rechtfertigung entfallen lassen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §35 Abs.1",
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Zur gewissenhaften Dienstausübung gehören Meldung, Weisungsbefolgung und Erreichbarkeit. Nur so bleibt der Unterricht bei Abwesenheit gesichert und die Vertretung arbeitsfähig. Eigenmächtiges Verlegen und Messenger-Blätter ersetzen weder Meldung noch Vorsorge. Zum Nachlesen: LDG §29.",
+    "hauptquelle": "LDG §29",
+    "id": "B22-L4-006",
+    "level": "L4",
+    "modul_id": "B22",
+    "optionen": [
+      "Jede Abwesenheit unverzüglich melden, damit die Direktion eine geordnete Vertretung sichern kann.",
+      "Weisungen zur Vertretungsvorsorge befolgen und vorbereitete Unterlagen sowie Erreichbarkeit hinterlegen.",
+      "Für Erreichbarkeit und Zustelladresse sorgen, solange die Abwesenheit andauert.",
+      "Den eigenen Unterricht eigenmächtig auf andere Tage verlegen und die Klasse vor vollendete Tatsachen stellen.",
+      "Die Klasse per Nachrichtendienst mit Blättern versorgen und das als Ersatz für Meldung und Vorsorge werten.",
+      "Vertretungsvorsorge als freiwillige Zusatzleistung behandeln und nur nach Lust vorbereiten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverzügliche Meldung ist die Grundlage jeder Vertretungsplanung.",
+      "Richtig: Vorbereitung nach Weisung hält den Unterricht auch ohne den Lehrer am Laufen.",
+      "Richtig: Ohne Erreichbarkeit scheitern Zustellung und Kontrolle.",
+      "Falsch: Eigenmächtiges Verlegen verletzt Weisungsbindung und Stundenplan.",
+      "Falsch: Messenger-Blätter ersetzen weder Meldung noch geordnete Vertretung.",
+      "Falsch: Vorsorge ist Dienstpflicht, keine freiwillige Gefälligkeit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor einer planbaren mehrtägigen Abwesenheit diskutiert das Kollegium, was zur Sicherung des Unterrichts geschuldet ist. Ein Kollege behauptet, jeder könne seinen Unterricht eigenmächtig verlegen, Arbeitsblätter über einen Nachrichtendienst schicken und auf Meldung und Vorsorge verzichten. Die Direktion prüft Dienstpflicht und Unterrichtssicherung. Wähle alles, was zur gewissenhaften Dienstausübung gehört.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §35 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Ottos Verhalten ist als beharrliche Dienstpflichtverletzung zu würdigen und der Dienstbehörde zu melden. Wiederholtes unentschuldigtes Fernbleiben mit ungesichertem Unterricht wiegt schwer und kann ein Disziplinarverfahren nach sich ziehen. Ignorierte Ermahnungen und die Behauptung, alles verlaufe sich, ändern daran nichts. Zum Nachlesen: LDG §29.",
+    "hauptquelle": "LDG §29",
+    "id": "B22-L4-007",
+    "level": "L4",
+    "modul_id": "B22",
+    "optionen": [
+      "Das wiederholte unentschuldigte Fernbleiben mit ungesichertem Unterricht ist als Dienstpflichtverletzung zu würdigen.",
+      "Der Sachverhalt ist der Dienstbehörde zu melden, damit sie die weiteren Schritte prüfen kann.",
+      "Beharrliches Fehlverhalten trotz Ermahnung kann ein Disziplinarverfahren nach sich ziehen.",
+      "Das Verhalten bleibt folgenlos, weil die Direktion die Ausfälle irgendwie überbrückt hat.",
+      "Die Tage gelten automatisch als Urlaub, sobald der Lehrer das im Nachhinein beantragt.",
+      "Über disziplinare Folgen entscheidet das Kollegium per Abstimmung statt der zuständigen Behörde."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ungesichertes Fernbleiben ohne Rechtfertigung trifft den Kern der Dienstpflicht.",
+      "Richtig: Die Dienstbehörde ist die zuständige Adresse für die weitere Würdigung.",
+      "Richtig: Beharrlichkeit trotz Ermahnung verschärft die disziplinare Beurteilung.",
+      "Falsch: Überbrücken durch andere heilt die Pflichtverletzung nicht.",
+      "Falsch: Eine automatische Umdeutung in Urlaub gibt es nicht.",
+      "Falsch: Zuständig ist die Dienstbehörde im vorgesehenen Verfahren, nicht das Kollegium."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS",
+      "MS"
+    ],
+    "situation": "Lehrer Otto bleibt wiederholt ohne Meldung dem Unterricht fern, Klassen fallen ungesichert aus und Ermahnungen der Direktion ignoriert er mit dem Satz, das werde sich schon verlaufen. Er beantragt im Nachhinein, alles als Urlaub zu werten, und meint, eine Abstimmung im Kollegium werde ihn schon entlasten. Die Direktion prüft die dienstrechtliche Einordnung und die nächsten Schritte. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §35 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Messenger-Blätter ersetzen weder Meldung noch Vertretung. Auch bei versorgter Klasse bleibt jede Abwesenheit unverzüglich zu melden und zu rechtfertigen, sonst gilt sie als nicht gerechtfertigt. Zum Nachlesen: LDG §35 Abs.1.",
+    "hauptquelle": "LDG §35 Abs.1",
+    "id": "B22-L4-008",
+    "level": "L4",
+    "modul_id": "B22",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Arbeitsblätter ersetzen weder Meldung noch geordnete Sicherung des Unterrichts.",
+      "Richtig erkannt: Meldepflicht und Rechtfertigung gelten unabhängig von jeder Eigenversorgung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, wer seine Klasse über einen Nachrichtendienst mit Arbeitsblättern versorgt, brauche sich nicht zu melden und gelte automatisch als gerechtfertigt abwesend.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  }
+]
