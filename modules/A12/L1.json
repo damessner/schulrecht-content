@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "id": "A12-L1-001",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Lukas, 3. Klasse Mittelschule, fragt dich vor der Notenkonferenz, aus welchen Notenstufen die Lehrerin für seine Leistungen in Mathematik überhaupt auswählen kann.",
+    "optionen": [
+      "Aus Sehr gut, Gut, Befriedigend, Genügend und Nicht genügend.",
+      "Aus Sehr zufriedenstellend, Zufriedenstellend, Wenig zufriedenstellend und Nicht zufriedenstellend.",
+      "Aus Bestanden und Nicht bestanden, Noten gibt es nur in der Oberstufe.",
+      "Aus den Punkten 0 bis 100, die Lehrerin rechnet sie danach in Worte um."
+    ],
+    "richtig": [0],
+    "pro_option_feedback": [
+      "Richtig: Das sind die fünf Beurteilungsstufen für Leistungen in allen Pflichtgegenständen.",
+      "Falsch: Das sind die Verhaltensnoten, nicht die Leistungsnoten.",
+      "Falsch: Das Notensystem mit fünf Stufen gilt ab der höheren Volksschulstufe aufwärts.",
+      "Falsch: Punkte können Grundlage sein, die Zeugnisnote ist aber eine der fünf Stufen."
+    ],
+    "aufloesung": "Für Leistungen gibt es die fünf Noten von Sehr gut bis Nicht genügend. Zum Nachlesen: SchUG §18 Abs.2.",
+    "hauptquelle": "SchUG §18 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-002",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Eine Mutter beschwert sich, dass ihr Sohn nur nach zwei Schularbeiten benotet wurde und seine mündliche Mitarbeit im ganzen Halbjahr nie gezählt habe. Sie fragt, was zur Leistungsbeurteilung gehört.",
+    "optionen": [
+      "Nur die schriftlichen Schularbeiten zählen, Mitarbeit ist freiwillig und unbenotet.",
+      "Die Lehrerin darf frei wählen, ob sie Mitarbeit oder Prüfungen zählt.",
+      "Mitarbeit im Unterricht plus besondere Leistungsfeststellungen wie mündliche, schriftliche und praktische Prüfungen bilden gemeinsam die Grundlage.",
+      "Nur die letzte Prüfung vor dem Zeugnis zählt, alles davor ist Übung."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Schularbeiten allein reichen nicht, die laufende Mitarbeit gehört dazu.",
+      "Falsch: Die Zweiteilung in Mitarbeit und besondere Feststellungen ist vorgegeben.",
+      "Richtig: Beide Säulen zusammen ergeben das Bild der Leistung über das Jahr.",
+      "Falsch: Alle Leistungen des Jahres zählen, mit größerem Gewicht für den zuletzt erreichten Stand."
+    ],
+    "aufloesung": "Mitarbeit und eingeordnete Leistungsfeststellungen ergeben gemeinsam die Note. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-003",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Herr Berger will seinem oft störenden Schüler in Mathematik statt Genügend ein Nicht genügend geben, weil er im Unterricht ständig dazwischenredet. Der Schüler rechnet richtig, stört aber häufig.",
+    "optionen": [
+      "Ja, störendes Verhalten darf die Fachnote um eine Stufe senken.",
+      "Ja, aber nur wenn die Klassenkonferenz vorher zustimmt.",
+      "Nein, das Verhalten in der Schule darf in die Leistungsbeurteilung nicht einbezogen werden.",
+      "Nur in Bewegung und Sport darf Verhalten einfließen, sonst nie."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Stören ist eine Verhaltensfrage und keine Mathematikleistung.",
+      "Falsch: Auch mit Konferenzbeschluss bleibt die Trennung bestehen.",
+      "Richtig: Fachnote misst Lehrstoffbeherrschung, Verhalten wird getrennt beurteilt.",
+      "Falsch: Auch dort zählt die Leistung, Verhalten bleibt eigene Note."
+    ],
+    "aufloesung": "Die Mathenote darf das Dazwischenreden nicht abbilden, dafür gibt es die eigene Verhaltensnote. Zum Nachlesen: SchUG §18 Abs.5.",
+    "hauptquelle": "SchUG §18 Abs.5",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-004",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "In der 2. Klasse Volksschule bekommt Lea ein Zeugnis mit Noten. Die Eltern verstehen die Ziffern nicht und fragen, was bei den Kleinen zusätzlich dabeistehen muss.",
+    "optionen": [
+      "Nichts, Ziffern allein genügen in jeder Schulart.",
+      "In der Volksschule ist der Beurteilung durch Noten eine schriftliche Erläuterung hinzuzufügen.",
+      "Nur auf Wunsch der Eltern gibt es einen Satz dazu.",
+      "Statt Noten gibt es nur ein Smiley-Blatt ohne Ziffern."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Gerade bei den Jüngsten reicht die Ziffer allein nicht.",
+      "Richtig: Die Erläuterung erklärt den Eltern, was hinter der Note steht.",
+      "Falsch: Die Erläuterung ist Pflicht, kein Wunschrecht.",
+      "Falsch: Noten plus Erläuterung sind vorgesehen, kein Ersatzsystem."
+    ],
+    "aufloesung": "In der Volksschule steht neben der Note immer eine schriftliche Erläuterung. Zum Nachlesen: SchUG §18 Abs.2.",
+    "hauptquelle": "SchUG §18 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-005",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Nina hat bei der Deutschschularbeit den Aufsatz ihrer Banknachbarin abgeschrieben und als eigene Arbeit abgegeben. Die Lehrerin entdeckt es beim Korrigieren und überlegt, wie sie vorgehen soll.",
+    "optionen": [
+      "Sie muss die abgeschriebene Arbeit trotzdem normal benoten, weil sie abgegeben wurde.",
+      "Sie zieht einen Punkt ab und benotet den Rest normal.",
+      "Vorgetäuschte Leistungen sind nicht zu beurteilen, die Täuschung darf also keine Note bekommen.",
+      "Sie gibt automatisch ein Genügend, egal wie gut die Abschrift war."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Eine erschlichene Leistung darf keine Grundlage für eine Note sein.",
+      "Falsch: Punktabzug heilt die Täuschung nicht, sie bleibt unbeurteilbar.",
+      "Richtig: Abgeschriebenes gilt als vorgetäuscht und wird nicht beurteilt.",
+      "Falsch: Pauschalnoten für Täuschungen gibt es nicht."
+    ],
+    "aufloesung": "Die abgeschriebene Arbeit wird nicht beurteilt, es braucht eine eigene ehrliche Leistungsfeststellung. Zum Nachlesen: SchUG §18 Abs.4.",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-006",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Bei einer Mathematikschularbeit in der 3. Klasse fallen 18 von 28 Schülerinnen und Schülern durch. Die Klasse fordert eine Wiederholung, die Lehrerin ist unsicher, ob sie muss.",
+    "optionen": [
+      "Nein, eine misslungene Schularbeit darf nie wiederholt werden.",
+      "Ja, sie ist mit neuer Aufgabenstellung einmal zu wiederholen, für jedes Kind zählt die bessere der beiden Leistungen.",
+      "Ja, aber es zählt nur die zweite Arbeit, auch wenn sie schlechter ist.",
+      "Nur die durchgefallenen Kinder wiederholen, die anderen behalten ihre Note."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Bei mehr als der Hälfte negativer Beurteilungen ist Wiederholung Pflicht.",
+      "Richtig: Neue Aufgaben, ein Wiederholungstermin, Günstigkeitsvergleich pro Kind.",
+      "Falsch: Es zählt jeweils die bessere Leistung, nicht automatisch die zweite.",
+      "Falsch: Die ganze Leistungsfeststellung wird wiederholt, nicht nur für Einzelne."
+    ],
+    "aufloesung": "Mehr als die Hälfte negativ bedeutet einmalige Wiederholung mit neuer Aufgabenstellung und Bestwert zählt. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-007",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Die Eltern von Tim, 4. Klasse Volksschule, erhalten Ende Jänner ein Blatt mit seinen bisherigen Noten in allen Fächern. Sie fragen, was dieses Halbjahresblatt eigentlich ist.",
+    "optionen": [
+      "Eine unverbindliche Spielerei der Lehrerin ohne rechtliche Bedeutung.",
+      "Die Schulnachricht am Ende des ersten Semesters mit den Noten in den einzelnen Gegenständen plus Verhaltensnote.",
+      "Bereits das Jahreszeugnis, das zweite Halbjahr entfällt damit.",
+      "Eine Frühwarnung, die nur bei drohendem Nicht genügend ausgestellt wird."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Die Halbjahresinfo ist für alle vorgesehen, nicht beliebig.",
+      "Richtig: Sie informiert über den Zwischenstand in Leistung und Verhalten.",
+      "Falsch: Das Jahreszeugnis kommt erst am Schuljahresende.",
+      "Falsch: Die Frühwarnung ist eine eigene zusätzliche Verständigung bei Leistungsabfall."
+    ],
+    "aufloesung": "Am Semesterende gibt es für jedes Kind eine Schulnachricht mit Fachnoten und Verhaltensnote. Zum Nachlesen: SchUG §19 Abs.2.",
+    "hauptquelle": "SchUG §19 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-008",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS", "MS", "AHS"],
+    "situation": "Mara war bisher in Englisch auf Gut, rutscht im zweiten Semester plötzlich auf tiefes Genügend mit Gefahr einer negativen Note im Zeugnis ab. Die Mutter erfährt erst aus dem Zeugnis davon und beschwert sich.",
+    "optionen": [
+      "Die Schule muss gar nichts melden, das Zeugnis reicht als Information.",
+      "Die Schule muss nur bei Verhaltensproblemen warnen, bei Leistungen nicht.",
+      "Bei drohendem Nicht genügend sind die Eltern unverzüglich zu verständigen und zu einem beratenden Gespräch mit Fördermaßnahmen einzuladen.",
+      "Es genügt, wenn die Lehrerin der Freundin von Mara Bescheid sagt."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Abwarten bis zum Zeugnis ist zu spät, Warnpflicht besteht früher.",
+      "Falsch: Gerade der Leistungsabfall löst die Warnung aus.",
+      "Richtig: Frühwarnung heißt rechtzeitig informieren, Gespräch anbieten, Förderung vereinbaren.",
+      "Falsch: Verständigt werden Eltern und Kind, keine Mitschüler."
+    ],
+    "aufloesung": "Droht ein Nicht genügend, muss sofort gewarnt und Förderung besprochen werden. Zum Nachlesen: SchUG §19 Abs.3a.",
+    "hauptquelle": "SchUG §19 Abs.3a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-009",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Paul prügelt sich am Gang, beschimpft Lehrer und schwänzt wiederholt. Seine Fachnoten sind gut. Die Klassenvorständin überlegt, wo dieses Verhalten abgebildet wird und wer entscheidet.",
+    "optionen": [
+      "Die Fachlehrer senken einfach seine Fachnoten.",
+      "Das Verhalten wird mit Sehr zufriedenstellend bis Nicht zufriedenstellend beurteilt, entschieden wird in der Klassenkonferenz auf Antrag des Klassenvorstands.",
+      "Der Direktor allein legt die Verhaltensnote ohne Konferenz fest.",
+      "Verhalten wird nur mündlich besprochen und scheint nirgends auf."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Fachnoten bleiben von Verhalten unberührt.",
+      "Richtig: Eigene vierstufige Skala, Beschluss in der Konferenz auf Antrag.",
+      "Falsch: Einzelentscheidung des Direktors ist nicht vorgesehen.",
+      "Falsch: Die Verhaltensnote steht in Schulnachricht und Zeugnis."
+    ],
+    "aufloesung": "Gutes Rechnen schützt nicht vor schlechter Verhaltensnote, die Konferenz beschließt sie auf Antrag. Zum Nachlesen: SchUG §21 Abs.2.",
+    "hauptquelle": "SchUG §21 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-010",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Familie Gruber hält am Schuljahresende das Jahreszeugnis ihres Sohnes in Händen und wundert sich, was alles darin stehen muss, etwa zu Fächern, Verhalten und Aufstieg.",
+    "optionen": [
+      "Nur die Mathenote, alles andere ist freiwillig.",
+      "Beurteilungen aller Pflichtgegenstände, die Verhaltensnote, Vermerke zu Aufstieg, Wiederholungsprüfung und Auszeichnungen sowie Ausstellungsdaten mit Unterschriften.",
+      "Nur die Durchschnittsnote ohne Einzelfächer.",
+      "Nur Lob und Tadel in freien Worten, keine Noten."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Alle Pflichtgegenstände werden einzeln ausgewiesen.",
+      "Richtig: Fachnoten, Verhalten, Berechtigungen und formale Bestandteile gehören dazu.",
+      "Falsch: Ein bloßer Durchschnitt ersetzt die Einzelbeurteilungen nicht.",
+      "Falsch: Noten und Vermerke sind Kern des Zeugnisses."
+    ],
+    "aufloesung": "Das Jahreszeugnis listet alle Fachleistungen, das Verhalten und die Berechtigungen für das nächste Jahr. Zum Nachlesen: SchUG §22 Abs.2.",
+    "hauptquelle": "SchUG §22 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-011",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Jonas fehlt nach einem Skiunfall von März bis Juni fast durchgehend. Die Lehrerin hat kaum Mitarbeit und keine einzige große Prüfung von ihm und kann keine sichere Jahresnote bilden.",
+    "optionen": [
+      "Sie muss raten und irgendeine Note eintragen.",
+      "Sie lässt ihn automatisch durchfallen, ohne Prüfung.",
+      "Sie führt eine Feststellungsprüfung durch, zu der Jonas zwei Wochen vorher zu verständigen ist.",
+      "Sie übernimmt einfach die Note aus dem Vorjahr."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Raten ist keine sichere Beurteilungsgrundlage.",
+      "Falsch: Ohne Prüfung darf nicht einfach negativ beurteilt werden.",
+      "Richtig: Die Prüfung schließt die Lücke, Frist von zwei Wochen schützt die Vorbereitung.",
+      "Falsch: Vorjahresnoten gelten nicht für das laufende Jahr."
+    ],
+    "aufloesung": "Ohne ausreichende Grundlagen prüft die Lehrerin den Stoff des Jahres in einer Feststellungsprüfung. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-012",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS", "MS"],
+    "situation": "Emir besucht die Schule als außerordentlicher Schüler, weil er dem Unterricht wegen fehlender Deutschkenntnisse noch nicht folgen kann. Die Eltern fragen, welches Papier er am Schuljahresende bekommt.",
+    "optionen": [
+      "Gar nichts, außerordentliche Schüler bekommen keine Bestätigung.",
+      "Dasselbe Jahreszeugnis wie ordentliche Schüler ohne jeden Unterschied.",
+      "Eine Schulbesuchsbestätigung über Dauer und Leistungen, wobei nicht erbringbare Leistungen wegen der Sprache entfallen können.",
+      "Nur eine mündliche Auskunft des Direktors ohne Schriftstück."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Ein schriftlicher Nachweis ist vorgesehen.",
+      "Falsch: Es gibt eine eigene Bestätigung statt des normalen Jahreszeugnisses.",
+      "Richtig: Besuchsdauer und erreichter Stand werden bestätigt, Sprachhürden werden berücksichtigt.",
+      "Falsch: Mündlich allein reicht nicht, es braucht die schriftliche Bestätigung."
+    ],
+    "aufloesung": "Außerordentliche Schulpflichtige erhalten eine Schulbesuchsbestätigung statt eines Jahreszeugnisses. Zum Nachlesen: SchUG §22 Abs.11.",
+    "hauptquelle": "SchUG §22 Abs.11",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-013",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Die Eltern von Anna fragen beim Sprechtag, wie oft sie im Jahr fix mit der Lehrerin sprechen können und ob es eigene Gespräche zu Stärken und Förderung gibt.",
+    "optionen": [
+      "Es gibt keinen Anspruch auf Gespräche, alles ist freiwillig.",
+      "An Pflichtschulen gibt es zwei Sprechtage im Jahr plus regelmäßige Gespräche zu Leistungsstärken, Leistungsstand und Förderung gemeinsam mit dem Kind.",
+      "Nur bei Problemen darf man einmal anrufen.",
+      "Gespräche gibt es nur gegen Bezahlung am Nachmittag."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Sprechtage und Aussprachen sind fest verankert.",
+      "Richtig: Zwei Termine plus Dreiergespräche zu Stärken und Förderung sind vorgesehen.",
+      "Falsch: Auch ohne Probleme gibt es die Sprechtage und Sprechstunden.",
+      "Falsch: Elterngespräche kosten nichts."
+    ],
+    "aufloesung": "Sprechtage und gemeinsame Gespräche mit Eltern und Kind sichern den Austausch über Leistung und Förderung. Zum Nachlesen: SchUG §19 Abs.1.",
+    "hauptquelle": "SchUG §19 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-014",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Frau Hofer ist unsicher, ob die tolle Mitarbeit ihrer Tochter im Herbst für die Jahresnote noch zählt oder ob nur zählt, was sie im Mai und Juni zeigt. Sie fragt die Klassenlehrerin.",
+    "optionen": [
+      "Es zählt nur die allererste Prüfung im September.",
+      "Alle Leistungen des Jahres zählen, wobei dem zuletzt erreichten Leistungsstand das größere Gewicht zuzumessen ist.",
+      "Es zählt nur der Durchschnitt aller Schularbeiten ohne Mitarbeit.",
+      "Die Lehrerin darf willkürlich eine Note aussuchen, die ihr gefällt."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Das ganze Jahr zählt, nicht nur der Anfang.",
+      "Richtig: Gesamtbild des Jahres mit stärkerem Blick auf den Endstand.",
+      "Falsch: Mitarbeit und Aufbau des Faches gehören zur Gesamtschau dazu.",
+      "Falsch: Willkür ist ausgeschlossen, Maßstab sind Lehrplan und Leistungsstand."
+    ],
+    "aufloesung": "Die Jahresnote fasst alle Leistungen zusammen und gewichtet den Endstand stärker. Zum Nachlesen: SchUG §20 Abs.1.",
+    "hauptquelle": "SchUG §20 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L1-015",
+    "modul_id": "A12",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "David bekommt im Juni ein Jahreszeugnis mit dem Vermerk, dass er eine Wiederholungsprüfung machen darf. Die Familie fragt, was nach bestandener Prüfung mit dem alten Zeugnis passiert.",
+    "optionen": [
+      "Das alte Zeugnis bleibt einfach so, die Prüfung wird extra bestätigt.",
+      "Das alte Zeugnis wird eingezogen und ein neues Zeugnis mit der durch die Prüfung gewonnenen Beurteilung ausgestellt.",
+      "Das Zeugnis wird vernichtet und es gibt nie wieder eines.",
+      "Die Familie darf die neue Note selbst ins alte Zeugnis eintragen."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Der Vermerk allein bleibt nicht stehen, das Zeugnis wird aktualisiert.",
+      "Richtig: Einzug und Neuausstellung halten das Zeugnis wahr und aktuell.",
+      "Falsch: Es gibt ein neues korrektes Zeugnis, keinen Verlust.",
+      "Falsch: Selbst eintragen ist unzulässig, die Schule stellt neu aus."
+    ],
+    "aufloesung": "Nach der Wiederholungsprüfung wird das alte Zeugnis eingezogen und neu mit der aktuellen Note ausgestellt. Zum Nachlesen: SchUG §22 Abs.6.",
+    "hauptquelle": "SchUG §22 Abs.6",
+    "stand": "04.09.2026"
+  }
+]

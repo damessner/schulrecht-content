@@ -1,1 +1,362 @@
-[]
+[
+  {
+    "id": "A08-L1-001",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["MS", "AHS"],
+    "situation": "Die 2b der Mittelschule in Linz plant eine eintägige Exkursion ins Museum ohne Übernachtung. Moritz will nicht mitfahren und die Eltern meinen, eintägige Ausflüge seien freiwillig.",
+    "optionen": [
+      "Nein, eintägige Schulveranstaltungen sind freiwillig und brauchen keine Begründung.",
+      "Ja, Moritz muss grundsätzlich teilnehmen, weil auch Veranstaltungen außerhalb der Schule verpflichtend sind.",
+      "Nur wenn die Eltern zustimmen, muss er teilnehmen.",
+      "Nur Schüler mit guten Noten müssen teilnehmen."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Ohne Nächtigung und ohne Ausschluss oder Krankheit besteht Teilnahmepflicht.",
+      "Richtig: Auch Veranstaltungen außerhalb der Schulliegenschaft sind verpflichtend.",
+      "Falsch: Die Pflicht hängt nicht von einer Zustimmung der Eltern ab.",
+      "Falsch: Die Noten spielen für die Teilnahmepflicht keine Rolle."
+    ],
+    "aufloesung": "Moritz muss grundsätzlich teilnehmen. Eintägige Schulveranstaltungen sind auch außerhalb der Schule verpflichtend, außer bei Krankheit oder Ausschluss. Zum Nachlesen: SchUG §13 Abs.3.",
+    "hauptquelle": "SchUG §13 Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-002",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["AHS", "BHS"],
+    "situation": "Die 4. Klasse eines Gymnasiums in Salzburg plant einen fünftägigen Skikurs mit Übernachtung in einem anderen Ort. Lea will nicht mitfahren, die Lehrerin sagt, sie müsse trotzdem mit.",
+    "optionen": [
+      "Ja, auch mehrtägige Veranstaltungen mit Nächtigung außerhalb des Wohnortes sind immer Pflicht.",
+      "Nein, bei einer Veranstaltung mit Nächtigung außerhalb des Wohnortes besteht keine Teilnahmepflicht.",
+      "Ja, aber nur wenn Lea Skier besitzt.",
+      "Nein, aber sie bekommt deshalb ein Nicht genügend in Sport."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Genau für Nächtigungen außerhalb des Wohnortes sieht das Gesetz eine Ausnahme vor.",
+      "Richtig: Mit Nächtigung außerhalb des Wohnortes entfällt die Pflichtteilnahme.",
+      "Falsch: Der Besitz von Ausrüstung entscheidet nicht über die Pflicht.",
+      "Falsch: Nichtteilnahme darf sich nicht negativ auf die Beurteilung auswirken."
+    ],
+    "aufloesung": "Lea muss nicht teilnehmen. Ist mit der Veranstaltung eine Nächtigung außerhalb des Wohnortes verbunden, entfällt die Teilnahmepflicht. Zum Nachlesen: SchUG §13 Abs.3 Z3.",
+    "hauptquelle": "SchUG §13 Abs.3 Z3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-003",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS", "MS"],
+    "situation": "Tim aus der 3. Klasse Volksschule in Graz fährt nicht auf die Sportwoche mit Übernachtung mit. Seine Mutter fragt, ob er in dieser Woche einfach zu Hause bleiben kann.",
+    "optionen": [
+      "Ja, er hat in dieser Woche automatisch schulfrei.",
+      "Nein, der Schulleiter muss ihn nach Möglichkeit einer anderen Klasse zu einem ersatzweisen Schulbesuch zuweisen.",
+      "Ja, aber nur wenn er krank ist.",
+      "Nein, er muss allein in seiner leeren Klasse sitzen."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Nichtteilnahme bedeutet nicht automatisch Freizeit.",
+      "Richtig: Bei Nichtteilnahme wegen Nächtigung oder Ausschluss ist Ersatzunterricht vorgesehen.",
+      "Falsch: Auch ohne Krankheit gibt es bei freiwilligen Nächtigungsveranstaltungen Ersatzunterricht.",
+      "Falsch: Die Zuweisung soll sinnvoll in einer anderen Klasse erfolgen."
+    ],
+    "aufloesung": "Tim bekommt Ersatzunterricht. Wer wegen Nächtigung oder Ausschluss nicht teilnimmt, wird nach Möglichkeit einer anderen Klasse zugewiesen. Zum Nachlesen: SchUG §13 Abs.4.",
+    "hauptquelle": "SchUG §13 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-004",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["BHS", "AHS"],
+    "situation": "Lukas aus der HTL in Innsbruck hat wiederholt andere Schüler bei Ausflügen gefährdet und bedroht. Vor der Exkursion fragt die Klassenvorständin, ob sie ihn einfach selbst ausschließen darf.",
+    "optionen": [
+      "Ja, die Lehrerin kann allein ohne weiteres Verfahren ausschließen.",
+      "Ja, bei jeder schlechten Note darf ausgeschlossen werden.",
+      "Nein, ein Ausschluss ist nur durch den Schulleiter nach Anhörung der Klassenkonferenz bei großer Wahrscheinlichkeit einer Sicherheitsgefährdung möglich.",
+      "Nein, ein Ausschluss von Schulveranstaltungen ist niemals erlaubt."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Allein darf die Lehrerin nicht ausschließen, es braucht Schulleiter und Klassenkonferenz.",
+      "Falsch: Schlechte Leistungen sind kein Ausschlussgrund, nur Sicherheitsgefährdung zählt.",
+      "Richtig: Nur bei großer Wahrscheinlichkeit einer Gefährdung und nach Anhörung der Konferenz.",
+      "Falsch: Ein Ausschluss ist möglich, aber nur unter strengen Voraussetzungen."
+    ],
+    "aufloesung": "Lukas darf nur unter strengen Voraussetzungen ausgeschlossen werden. Der Schulleiter entscheidet nach Anhörung der Klassenkonferenz, nur bei großer Wahrscheinlichkeit einer Sicherheitsgefährdung. Zum Nachlesen: SchUG §13 Abs.3 Z2.",
+    "hauptquelle": "SchUG §13 Abs.3 Z2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-005",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Selina aus der Mittelschule in Wien hat am Tag der Wandertags Fieber und eine ärztliche Bestätigung. Die Schule meint, Fehlen bei Schulveranstaltungen gelte nie als entschuldigt.",
+    "optionen": [
+      "Ja, bei Schulveranstaltungen gibt es keine Entschuldigung wegen Krankheit.",
+      "Nein, bei gerechtfertigtem Fernbleiben wegen Krankheit entfällt die Teilnahmepflicht wie im normalen Unterricht.",
+      "Nur mit Genehmigung der Bildungsdirektion gilt Krankheit als Entschuldigung.",
+      "Nur bei mehrtägigen Veranstaltungen gilt Krankheit als Entschuldigung."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Die allgemeinen Regeln über das Fernbleiben gelten auch hier.",
+      "Richtig: Krankheit entschuldigt auch bei Schulveranstaltungen.",
+      "Falsch: Dafür braucht es keine Behörde, die normale Rechtfertigung reicht.",
+      "Falsch: Die Dauer der Veranstaltung spielt dafür keine Rolle."
+    ],
+    "aufloesung": "Selina ist entschuldigt. Die Vorschriften über das Fernbleiben wegen Krankheit gelten auch für Schulveranstaltungen. Zum Nachlesen: SchUG §13 Abs.3 Z1.",
+    "hauptquelle": "SchUG §13 Abs.3 Z1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-006",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["MS", "AHS"],
+    "situation": "Jonas aus der 3. Klasse in Klagenfurt konnte aus familiären Gründen nicht an der Projektwoche ohne Nächtigung teilnehmen, obwohl er teilnahmepflichtig war. Er fürchtet nun eine schlechte Note deswegen.",
+    "optionen": [
+      "Ja, Nichtteilnahme muss automatisch negativ beurteilt werden.",
+      "Nein, die Beurteilung des Lehrziels hat ohne Rücksicht auf die Nichtteilnahme an der Schulveranstaltung zu erfolgen.",
+      "Ja, aber nur wenn er eine Nachprüfung über den Ausflug macht.",
+      "Nein, aber er muss die Klasse wiederholen."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Allein die Nichtteilnahme darf nicht zu einer schlechteren Note führen.",
+      "Richtig: Die Leistungsbeurteilung bleibt von der Nichtteilnahme unberührt.",
+      "Falsch: Eine eigene Nachprüfung über die Veranstaltung ist nicht vorgesehen.",
+      "Falsch: Wiederholen wegen einer versäumten Veranstaltung ist nicht vorgesehen."
+    ],
+    "aufloesung": "Jonas wird normal beurteilt. Das Erreichen des Lehrziels wird ohne Rücksicht auf die Nichtteilnahme an der Schulveranstaltung beurteilt. Zum Nachlesen: SchUG §13 Abs.4.",
+    "hauptquelle": "SchUG §13 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-007",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Eine 4. Klasse plant eine Sprachwoche mit sehr teurem Hotel und teuren Freizeitangeboten. Vater von Emir fragt, ob die Kosten beliebig hoch sein dürfen.",
+    "optionen": [
+      "Ja, die Schule kann beliebig teure Veranstaltungen verlangen.",
+      "Nein, die Kosten müssen dem Grundsatz der Sparsamkeit und Angemessenheit entsprechen.",
+      "Ja, wenn die Mehrheit der Eltern zustimmt, gibt es keine Grenze.",
+      "Nein, alle Schulveranstaltungen müssen völlig kostenlos sein."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Beliebige Kosten sind nicht zulässig.",
+      "Richtig: Fahrpreise und Eintritte müssen sparsam und angemessen bleiben.",
+      "Falsch: Auch mit Mehrheit darf der Grundsatz nicht missachtet werden.",
+      "Falsch: Kosten sind erlaubt, sie müssen aber maßvoll sein."
+    ],
+    "aufloesung": "Die Kosten müssen maßvoll bleiben. Verordnung und Planung müssen Sparsamkeit und Angemessenheit bei Fahrpreisen und Eintritten sichern. Zum Nachlesen: SchUG §13 Abs.2 Z3.",
+    "hauptquelle": "SchUG §13 Abs.2 Z3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-008",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["BS", "BHS"],
+    "situation": "Lehrer Berger plant mit seiner Berufsschulklasse eine Betriebsbesichtigung mit Kletteranteil. Ein Schüler fragt, wer für seine Sicherheit verantwortlich ist und ob es dazu Regeln gibt.",
+    "optionen": [
+      "Es gibt keine Sicherheitsregeln, jeder Lehrer entscheidet beliebig.",
+      "Die Schüler sind allein für ihre Sicherheit verantwortlich.",
+      "Es müssen Durchführungsrichtlinien zur Gewährleistung der Sicherheit der Schüler festgelegt werden.",
+      "Nur die Eltern müssen schriftlich auf Sicherheit verzichten."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Beliebigkeit ist nicht erlaubt, Sicherheit ist ausdrücklich vorgeschrieben.",
+      "Falsch: Die Verantwortung darf nicht auf die Schüler abgeschoben werden.",
+      "Richtig: Für Schulveranstaltungen sind Sicherheitsfestlegungen vorgesehen.",
+      "Falsch: Ein Verzicht auf Sicherheit ist nicht möglich."
+    ],
+    "aufloesung": "Die Sicherheit muss geplant werden. Im Rahmen von Durchführungsrichtlinien sind Festlegungen zur Gewährleistung der Sicherheit zu treffen. Zum Nachlesen: SchUG §13 Abs.2 Z2.",
+    "hauptquelle": "SchUG §13 Abs.2 Z2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-009",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS", "MS"],
+    "situation": "In der 3a der Volksschule in St. Pölten wird Mia mit sonderpädagogischem Förderbedarf gemeinsam mit Kindern ohne Förderbedarf unterrichtet. Vor dem Wandertag fragt ihre Mutter, ob Mia einfach daheim bleiben soll.",
+    "optionen": [
+      "Ja, Kinder mit Förderbedarf sind von Schulveranstaltungen ausgeschlossen.",
+      "Nein, Schulveranstaltungen sind so zu planen, dass Kinder mit Förderbedarf in größtmöglichem Ausmaß teilnehmen können.",
+      "Nur wenn ein eigener Bus bezahlt wird, darf Mia mit.",
+      "Nur bei guten Noten darf Mia teilnehmen."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Ein pauschaler Ausschluss wegen Förderbedarfs ist nicht vorgesehen.",
+      "Richtig: In Integrationsklassen ist größtmögliche Teilnahme einzuplanen.",
+      "Falsch: Teilnahme darf nicht von extra Zahlungen abhängen.",
+      "Falsch: Noten sind dafür kein Kriterium."
+    ],
+    "aufloesung": "Mia soll möglichst teilnehmen können. In Klassen mit gemeinsamem Unterricht sind Veranstaltungen inklusiv zu planen. Zum Nachlesen: SchUG §13 Abs.1a.",
+    "hauptquelle": "SchUG §13 Abs.1a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-010",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["AHS", "BHS"],
+    "situation": "Das Gymnasium in Dornbirn bietet einen freiwilligen Theaterworkshop am Wochenende an, der auf dem Unterricht aufbaut. Sophie will ohne Anmeldung einfach hingehen und trotzdem verpflichtet sein.",
+    "optionen": [
+      "Ja, schulbezogene Veranstaltungen sind für alle automatisch Pflicht.",
+      "Nein, die Teilnahme setzt eine vorherige Anmeldung voraus, erst dann besteht Teilnahmepflicht.",
+      "Ja, aber nur wenn sie gute Noten hat.",
+      "Nein, schulbezogene Veranstaltungen gibt es rechtlich gar nicht."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Ohne Anmeldung entsteht keine Pflicht.",
+      "Richtig: Erst Anmeldung ohne Untersagung begründet die Pflicht, außer bei Krankheit.",
+      "Falsch: Noten entscheiden nicht über Anmeldung und Pflicht.",
+      "Falsch: Schulbezogene Veranstaltungen sind ausdrücklich vorgesehen."
+    ],
+    "aufloesung": "Sophie muss sich zuerst anmelden. Wer angemeldet ist und nicht ausgeschlossen wurde, ist dann zur Teilnahme verpflichtet. Zum Nachlesen: SchUG §13a Abs.2 und Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-011",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Eine Lehrerin will mit ihrer Klasse ein zusätzliches freiwilliges Chorprojekt starten, das auf dem Musikunterricht aufbaut. Der Direktor fragt, wer das Projekt zu einer schulbezogenen Veranstaltung erklären darf.",
+    "optionen": [
+      "Allein die Lehrerin ohne weitere Zustimmung.",
+      "Das Klassen- oder Schulforum beziehungsweise der Schulgemeinschaftsausschuss, wenn Lehrer bereit sind und Finanzierung und Zustimmungen gesichert sind.",
+      "Allein die Schüler durch Abstimmung.",
+      "Niemand, das ist rechtlich unmöglich."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Allein reicht die Bereitschaft einer Lehrerin nicht für die Erklärung.",
+      "Richtig: Forum oder Ausschuss erklärt, bei Lehrerbereitschaft und gesicherter Finanzierung.",
+      "Falsch: Schüler allein können die Erklärung nicht vornehmen.",
+      "Falsch: Die Erklärung ist ausdrücklich möglich."
+    ],
+    "aufloesung": "Das Gremium entscheidet. Klassen- oder Schulforum beziehungsweise Schulgemeinschaftsausschuss erklären die Veranstaltung, wenn Durchführung und Finanzierung gesichert sind. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-012",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["BHS", "BS"],
+    "situation": "David aus der HAK in Wels hat sich für ein freiwilliges Zusatzprojekt mit Vorkenntnissen in Rechnungswesen angemeldet, die er nicht hat. Zudem ist sein Abschluss stark gefährdet. Er fragt, ob die Schule die Teilnahme ablehnen darf.",
+    "optionen": [
+      "Nein, nach Anmeldung muss jeder unbedingt teilnehmen.",
+      "Ja, die Teilnahme ist zu untersagen, wenn Voraussetzungen fehlen oder der erfolgreiche Abschluss der Schulstufe gefährdet erscheint.",
+      "Nur wenn David das will.",
+      "Nur bei schlechtem Betragen, nicht bei Leistung."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Die Anmeldung gibt keinen unbedingten Anspruch auf Teilnahme.",
+      "Richtig: Fehlende Voraussetzungen und Gefährdung des Abschlusses sind Untersagungsgründe.",
+      "Falsch: Es kommt nicht auf Davids Wunsch an, sondern auf die Voraussetzungen.",
+      "Falsch: Auch fachliche Gründe und Abschlussgefährdung zählen."
+    ],
+    "aufloesung": "Die Schule darf die Teilnahme untersagen. Fehlende Voraussetzungen und Gefährdung des erfolgreichen Abschlusses sind Gründe, der Schulleiter entscheidet nach Anhörung der Klassenkonferenz. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-013",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["MS", "AHS"],
+    "situation": "Nina aus der Mittelschule in Eisenstadt ist für eine freiwillige Sportreihe mit drei Terminen angemeldet. Nach dem ersten Termin merkt sie, dass sie keine Zeit mehr hat, der zweite Termin ist in zwei Wochen.",
+    "optionen": [
+      "Sie kann sich gar nicht mehr abmelden.",
+      "Sie darf sich erst nach der ersten Veranstaltung und spätestens vier Wochen vor einer weiteren Veranstaltung abmelden.",
+      "Sie muss bis zum Schuljahresende dabeibleiben.",
+      "Sie kann jederzeit am Tag davor per SMS absagen."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Eine Abmeldung ist bei einer Reihe ausdrücklich möglich.",
+      "Richtig: Frühestens nach der ersten und spätestens vier Wochen vor der nächsten ist die Frist.",
+      "Falsch: Ein Zwang bis Jahresende besteht nicht.",
+      "Falsch: Kurzfristige Absagen ohne Krankheitsgrund genügen nicht."
+    ],
+    "aufloesung": "Nina kann sich noch abmelden. Bei einer Reihe ist die Abmeldung frühestens nach der ersten und spätestens vier Wochen vor einer weiteren möglich. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-014",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["MS", "PTS"],
+    "situation": "Julian, 14 Jahre in der 4. Klasse Mittelschule in Villach, will drei Tage in einer Autowerkstatt schnuppern, um seinen Berufswunsch zu prüfen. Er fragt, ob er dafür vom Unterricht freigestellt werden kann.",
+    "optionen": [
+      "Nein, Freistellung für Berufsorientierung ist nie erlaubt.",
+      "Ja, ab dem achten Jahr der Schulpflicht kann der Klassenvorstand bis zu fünf Tage pro Jahr nach Interessenabwägung erlauben.",
+      "Ja, unbegrenzt viele Tage nach Belieben der Eltern.",
+      "Nur wenn Julian die Schule abbricht."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Individuelle Berufsorientierung ist ausdrücklich als Fernbleibegrund vorgesehen.",
+      "Richtig: Bis zu fünf Tage pro Jahr nach Ansuchen und Abwägung von Schule und Orientierung.",
+      "Falsch: Die Tage sind auf fünf pro Jahr begrenzt.",
+      "Falsch: Ein Abbruch ist keine Voraussetzung."
+    ],
+    "aufloesung": "Julian kann freigestellt werden. Auf Ansuchen erlaubt der Klassenvorstand bis zu fünf Tage individuelle Berufsorientierung nach Abwägung von Fortkommen und Orientierung. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L1-015",
+    "modul_id": "A08",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["BHS", "BS"],
+    "situation": "Aylin aus der Handelsschule in Innsbruck macht individuelle Berufsorientierung in einem Geschäft. Der Chef will sie voll in den Verkauf und ins Lager eingliedern und ohne Aufsicht arbeiten lassen.",
+    "optionen": [
+      "Ja, sie darf wie eine normale Arbeitskraft eingesetzt werden.",
+      "Nein, eine Eingliederung in den Arbeitsprozess ist nicht zulässig und sie muss altersgemäß beaufsichtigt werden.",
+      "Ja, wenn sie dafür bezahlt wird, ist alles erlaubt.",
+      "Nein, aber Aufsicht ist niemals nötig."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Volle Mitarbeit ist gerade ausgeschlossen, es geht um Orientierung.",
+      "Richtig: Kein Eingliedern in den Arbeitsprozess plus passende Beaufsichtigung.",
+      "Falsch: Bezahlung ändert nichts am Verbot der Eingliederung.",
+      "Falsch: Aufsicht ist ausdrücklich vorgeschrieben."
+    ],
+    "aufloesung": "Aylin darf nur orientiert, nicht eingegliedert werden. Im Betrieb ist Mitarbeit im Arbeitsprozess verboten, Aufsicht nach Alter und Reife ist Pflicht. Zum Nachlesen: SchUG §13b Abs.3 und Abs.4.",
+    "hauptquelle": "SchUG §13b Abs.3",
+    "stand": "04.09.2026"
+  }
+]

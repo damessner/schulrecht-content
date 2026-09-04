@@ -1,1 +1,387 @@
-[]
+[
+  {
+    "id": "A01-L3-001",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Einstufungsprüfung im September: Der Schulleiter hat die Aufgaben allein ohne Prüferkonferenz erstellt, ein bestellter Prüfer war bei der Prüfung nicht anwesend. Schülerin besteht knapp. Eine andere Familie ficht das Ergebnis an. Was gilt?",
+    "optionen": [
+      "Das Ergebnis gilt trotzdem, Form ist Nebensache.",
+      "Das Verfahren ist fehlerhaft, Aufgabenfestsetzung und Prüferbestellung waren nicht vorschriftsmäßig, Prüfung muss korrekt wiederholt werden.",
+      "Die Schülerin muss die Schule verlassen.",
+      "Die Anfechtung ist unzulässig, weil sie bestanden hat."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Form sichert Vergleichbarkeit und Gültigkeit.",
+      "Richtig: Konferenz und ordnungsgemäße Bestellung sind Gültigkeitsvoraussetzung.",
+      "Falsch: Verlassen ist keine Folge eines Formfehlers.",
+      "Falsch: Auch Begünstigte-Verfahren können angefochten werden."
+    ],
+    "aufloesung": "Formfehler beheben und Prüfung ordnungsgemäß wiederholen, alles protokollieren. Zum Nachlesen: SchUG §7.",
+    "hauptquelle": "SchUG §7",
+    "zusatzquellen": [
+      "SchUG §3 Abs.6"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-002",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Außerordentlicher Schüler, 14 Monate dabei: Erste 12 Monate plus Verlängerung wurden gewährt, obwohl nie geprüft wurde ob das Scheitern unverschuldet war. Bildungsdirektion prüft den Akt. Welche Fehler liegen vor und was ist zu tun? Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "Verlängerung ohne Prüfung des Verschuldens ist rechtswidrig.",
+      "Maximale Gesamtdauer von 24 Monaten wurde hier überschritten.",
+      "Nach Ablauf ist jedenfalls ordentliche Aufnahme vorzunehmen.",
+      "Der Schüler muss rückwirkend aus der Schule gestrichen werden.",
+      "Versäumnis ist zu dokumentieren und Verfahren künftig mit Nachweis zu führen.",
+      "Eltern haften strafrechtlich für die Verlängerung."
+    ],
+    "richtig": [
+      0,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverschuldetheit ist Tatbestandsmerkmal.",
+      "Falsch: 12 plus 12 sind gerade die Obergrenze, nicht überschritten.",
+      "Richtig: Danach ordentlich aufnehmen.",
+      "Falsch: Keine rückwirkende Streichung vorgesehen.",
+      "Richtig: Dokumentation und Nachweis künftig sichern.",
+      "Falsch: Keine Strafhaftung für diese Konstellation."
+    ],
+    "aufloesung": "Verlängerung braucht Nachweis der Unverschuldetheit, danach ordentlich, Fehler dokumentieren und abstellen. Zum Nachlesen: SchUG §4 Abs.3.",
+    "hauptquelle": "SchUG §4 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-003",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Kind ohne Vorschulbildung wurde ohne Orientierungsgespräch direkt in die 2. Stufe gesetzt und ist völlig überfordert. Mutter beschwert sich, die Schule hätte vorher klären müssen. Wer trägt den Verfahrensfehler?",
+    "optionen": [
+      "Niemand, ein Gespräch ist freiwillig.",
+      "Die Schule, bei fehlender Vorschulbildung und unklarem Vorbesuch ist das Gespräch Pflicht.",
+      "Nur die Eltern, sie hätten darauf bestehen müssen.",
+      "Der Kindergarten, weil er keine Daten geliefert hat."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: In dieser Konstellation ist Klärung Pflicht.",
+      "Richtig: Leitung muss Gespräch führen und Bedarf feststellen.",
+      "Falsch: Eltern trifft Sorgepflicht, aber nicht die Verfahrensführung.",
+      "Falsch: Kindergarten ist nicht Verfahrensführer."
+    ],
+    "aufloesung": "Gespräch nachholen, Bedarf feststellen, ggf. Orientierungsunterricht einplanen. Zum Nachlesen: SchUG §4 Abs.2b.",
+    "hauptquelle": "SchUG §4 Abs.2b",
+    "zusatzquellen": [
+      "SchUG §4 Abs.4a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-004",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Gymnasium ohne Sprengel: 60 Plätze, 90 Bewerber. Direktorin reiht nach Bauchgefühl, Leistungen und Wohnortnähe werden ignoriert, Geschwisterkinder benachteiligt, schulautonomes Profil nirgends dokumentiert. Eltern beschweren sich. Was ist falsch? Wähle alles Zutreffende.",
+    "optionen": [
+      "Gleiche Kriterien für alle wurden verletzt.",
+      "Leistung, Nähe und Geschwister sind jedenfalls zu bedenken.",
+      "Schulautonome Kriterien müssen vorher festgelegt und transparent sein.",
+      "Bauchgefühl ohne Maßstab ist zulässig.",
+      "Verfahren muss zügig zu Ferienbeginn abgeschlossen werden.",
+      "Beschwerde ist unzulässig, Direktorin ist frei."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gleichbehandlung ist Kern.",
+      "Richtig: Diese drei sind Mindestmaßstab.",
+      "Richtig: Profil braucht Festlegung und Transparenz.",
+      "Falsch: Willkür ist unzulässig.",
+      "Richtig: Zügiger Abschluss zu Ferienbeginn ist vorgesehen.",
+      "Falsch: Rechtsschutz bleibt bestehen."
+    ],
+    "aufloesung": "Reihung wiederholen nach gleichen, dokumentierten Kriterien. Zum Nachlesen: SchUG §5 Abs.1.",
+    "hauptquelle": "SchUG §5 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-005",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ablehnung wurde nur telefonisch mitgeteilt, ohne Gründe, Aufnahme der anderen ohne jede Kundmachung. Betroffene Familie will sich wehren. Was muss die Schule nachholen?",
+    "optionen": [
+      "Nichts, Telefon genügt und Kundmachung ist freiwillig.",
+      "Schriftliche Ablehnung mit Gründen zustellen und Aufnahme geeignet kundmachen, Entscheidung durch Schulleitung dokumentieren.",
+      "Nur auf Klage reagieren.",
+      "Die Familie auf nächstes Jahr vertrösten."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Form schützt beide Seiten.",
+      "Richtig: Schriftlich mit Gründen plus Kundmachung nachholen.",
+      "Falsch: Nicht erst auf Klage warten.",
+      "Falsch: Vertrösten löst den Formfehler nicht."
+    ],
+    "aufloesung": "Form nachholen und Akt sanieren, sonst anfechtbar. Zum Nachlesen: SchUG §5 Abs.2.",
+    "hauptquelle": "SchUG §5 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-006",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Privatschule nimmt gegen Schulgeld drei Kinder ohne Voraussetzungen auf, Verträge sind unterschrieben, Geld kassiert. Behörde prüft. Was gilt? Wähle alle richtigen Folgen.",
+    "optionen": [
+      "Aufnahme trotz fehlender Voraussetzungen macht den Vertrag rechtsunwirksam.",
+      "Geld ersetzt keine Voraussetzung.",
+      "Schule muss Verfahren künftig an Voraussetzungen ausrichten und Betroffene korrekt informieren.",
+      "Verträge werden durch Zeitablauf automatisch wirksam.",
+      "Behörde heilt den Mangel durch Schweigen.",
+      "Eltern können sich nicht auf Unwirksamkeit berufen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unwirksamkeit als Sanktion.",
+      "Richtig: Kauf löst kein Schulrecht.",
+      "Richtig: Abstellen plus transparente Information.",
+      "Falsch: Keine Heilung durch Zeit.",
+      "Falsch: Kein Schweigen als Genehmigung.",
+      "Falsch: Betroffene können sich darauf berufen."
+    ],
+    "aufloesung": "Verträge unwirksam, Geld zurückabwickeln, Verfahren sanieren. Zum Nachlesen: SchUG §5 Abs.6.",
+    "hauptquelle": "SchUG §5 Abs.6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-007",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Schüler hat Stufe ordentlich ohne Erfolg beendet. Eltern erwirken über Beziehungen eine außerordentliche Aufnahme in die höhere Stufe derselben Schulart. Klassenlehrer soll ihn führen. Was musst du tun?",
+    "optionen": [
+      "Mitführen, Beziehungen gehen vor.",
+      "Auf Sperre hinweisen und Aufnahme in höhere Stufe derselben Art verweigern, Alternativen anbieten und dokumentieren.",
+      "Schüler stillschweigend als Gast dulden.",
+      "Note nachträglich ausbessern damit es passt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beziehungen ändern keine Sperre.",
+      "Richtig: Sperre beachten, Alternativen und Doku.",
+      "Falsch: Duldung ohne Status ist rechtswidrig.",
+      "Falsch: Notenfälschung ist Dienstpflichtverletzung."
+    ],
+    "aufloesung": "Sperre durchsetzen und sauber dokumentieren. Zum Nachlesen: SchUG §4 Abs.6.",
+    "hauptquelle": "SchUG §4 Abs.6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-008",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Schulpflichtiger Außerordentlicher ohne Förderklasse soll alle Fächer besuchen, scheitert in zwei Fächern an Vorkenntnissen. Mutter stellt Ansuchen auf Befreiung. Direktor will pauschal alle Fächer streichen. Was ist richtig? Wähle alles Richtige.",
+    "optionen": [
+      "Grundsatz bleibt Vollbesuch aller Pflichtgegenstände.",
+      "Einzelbefreiung nur auf Ansuchen bei nicht folgen können wegen Vorkenntnissen.",
+      "Pauschale Totalbefreiung ohne Prüfung ist unzulässig.",
+      "Befreiung gilt automatisch auch für Leistungsbeurteilung ohne Ersatz.",
+      "Entscheidung und Umfang schriftlich festhalten.",
+      "Mündliche Absprache reicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vollbesuch ist Regel.",
+      "Richtig: Einzelbefreiung auf Ansuchen.",
+      "Richtig: Keine Pauschale ohne Prüfung.",
+      "Falsch: Beurteilung und Ersatz gesondert regeln.",
+      "Richtig: Umfang schriftlich festhalten.",
+      "Falsch: Mündlich reicht nicht."
+    ],
+    "aufloesung": "Einzeln prüfen, einzeln befreien, schriftlich festhalten. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-009",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei Eignungszweifeln aus Gesundheit hat die Schule ohne jedes Gutachten abgelehnt. Eltern legen Attest vom Hausarzt vor, das Eignung bestätigt. Behörde hebt auf. Was war der Fehler?",
+    "optionen": [
+      "Dass überhaupt geprüft wurde.",
+      "Dass im Zweifel kein Gutachten von Schul- oder Amtsarzt eingeholt wurde.",
+      "Dass Eltern angehört wurden.",
+      "Dass dokumentiert wurde."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Prüfen war richtig.",
+      "Richtig: Zweifel braucht objektive Klärung.",
+      "Falsch: Anhörung ist richtig.",
+      "Falsch: Doku ist richtig."
+    ],
+    "aufloesung": "Gutachten einholen statt Bauchentscheidung. Zum Nachlesen: SchUG §3 Abs.1.",
+    "hauptquelle": "SchUG §3 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-010",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Wiederholung der Einstufungsprüfung: Schulleiter lässt erst nach vier Monaten zu und verlangt Wiederholung aller Fächer inklusive positiver. Schüler beschwert sich. Was ist falsch? Wähle alles Falsche am Vorgehen.",
+    "optionen": [
+      "Frist von zwei Monaten wurde überschritten.",
+      "Nur negative Gebiete sind zu wiederholen, nicht alles.",
+      "Wiederholung an sich ist unzulässig.",
+      "Die Wiederholung darf erst nach einem Jahr stattfinden.",
+      "Positive Gebiete müssen nicht neu geprüft werden.",
+      "Die Frist darf beliebig überschritten werden, Gründe sind egal."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Monate sind zu wahren.",
+      "Richtig: Nur Nicht genügend wiederholen.",
+      "Falsch: Wiederholung ist gerade zulässig.",
+      "Falsch: Keine Jahressperre, Frist ist zwei Monate.",
+      "Richtig: Positive bleiben stehen.",
+      "Falsch: Fristüberschreitung braucht sachlichen Grund und Doku."
+    ],
+    "aufloesung": "Binnen zwei Monaten nur Negative wiederholen lassen. Zum Nachlesen: SchUG §3 Abs.7a.",
+    "hauptquelle": "SchUG §3 Abs.7a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-011",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet: Wenn ein Kind einmal aufgenommen ist, muss es sich jedes Jahr neu anmelden, sonst verliert es den Platz.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Aufnahme wirkt für alle Stufen derselben Schulart fort bis Beendigung."
+    ],
+    "aufloesung": "Keine jährliche Neuanmeldung nötig. Zum Nachlesen: SchUG §3 Abs.8.",
+    "hauptquelle": "SchUG §3 Abs.8",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L3-012",
+    "modul_id": "A01",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "AHS"
+    ],
+    "situation": "Überwiegend englischsprachige Schule lehnt Bewerber ab, weil Deutsch fehlt, obwohl Englisch top ist. Eltern fechten an. Wie ist die Rechtslage?",
+    "optionen": [
+      "Ablehnung ist automatisch richtig, Deutsch ist immer Pflicht.",
+      "An solchen Schulen genügt eine Unterrichtssprache, Ablehnung allein wegen Deutsch ist rechtswidrig, übrige Voraussetzungen bleiben zu prüfen.",
+      "Englisch zählt gar nicht.",
+      "Die Schule darf willkürlich entscheiden."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sonderregel beachten.",
+      "Richtig: Eine Sprache genügt dort.",
+      "Falsch: Englisch ist dort gerade relevant.",
+      "Falsch: Keine Willkür."
+    ],
+    "aufloesung": "Eine Sprache genügt dort, Entscheidung korrigieren. Zum Nachlesen: SchUG §3 Abs.4.",
+    "hauptquelle": "SchUG §3 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]
