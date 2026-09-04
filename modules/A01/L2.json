@@ -1,1 +1,563 @@
-[]
+[
+  {
+    "id": "A01-L2-001",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Du bist Schulleiterin einer Volksschule. Familie meldet im September einen 8-jährigen schulpflichtigen Sohn an, der kaum Deutsch spricht. Du sollst korrekt über ordentliche oder außerordentliche Aufnahme mit Förderung entscheiden. Was musst du alles sicherstellen?",
+    "optionen": [
+      "Standardisierte Testung zur Unterrichtssprache durchführen oder über Behörde veranlassen.",
+      "Ergebnis dokumentieren und danach über ordentlich, Förderkurs oder Förderklasse entscheiden.",
+      "Kind ohne jede Feststellung nach Bauchgefühl als ordentlich in die Regelklasse setzen.",
+      "Eltern über Förderform, Dauer und weiteren Verlauf informieren.",
+      "Bei Förderklasse automatisch zusätzlich vollen Regelunterricht verlangen.",
+      "Es reicht eine mündliche Zusage ohne Akte."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne standardisierte Testung keine tragfähige Entscheidung.",
+      "Richtig: Ergebnis steuert die drei Wege ordentlich, Kurs oder Klasse.",
+      "Falsch: Bauchgefühl ersetzt das Verfahren nicht.",
+      "Richtig: Transparenz gegenüber Eltern ist Pflicht für Mitwirkung.",
+      "Falsch: In der Förderklasse entfällt der parallele Vollbesuch.",
+      "Falsch: Ohne Akte ist die Entscheidung nicht nachvollziehbar."
+    ],
+    "aufloesung": "Testen, Ergebnis dokumentieren, Förderweg zuweisen und Eltern informieren. Alles schriftlich. Zum Nachlesen: SchUG §4 Abs.2a.",
+    "hauptquelle": "SchUG §4 Abs.2a",
+    "zusatzquellen": [
+      "SchUG §4 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-002",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Schülerin ohne berechtigendes Zeugnis will in die 2. Klasse. Du sollst als Schulleiter eine Einstufungsprüfung korrekt organisieren. Welche Schritte gehören dazu?",
+    "optionen": [
+      "Prüfen ob die Voraussetzungen für Zulassung zur Einstufungsprüfung vorliegen.",
+      "Zur Prüfung zulassen und Prüfungsgebiete nach Schulart und Lehrplan festlegen.",
+      "Prüfer bestellen und Aufgaben in Konferenz unter Vorsitz festsetzen.",
+      "Prüfungsergebnis nur mündlich mitteilen, kein Protokoll nötig.",
+      "Bei Teilerfolg im Unterricht Mitarbeit als Ersatz für einzelne Gebiete anerkennen können.",
+      "Gleiche Prüfung im selben Schuljahr an derselben Schulart beliebig oft wiederholen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst Zulassung, dann Verfahren.",
+      "Richtig: Gebiete richten sich nach Aufgabe und Lehrplan.",
+      "Richtig: Konferenzbeschluss sichert Vergleichbarkeit.",
+      "Falsch: Protokoll und Bekanntgabe sind Pflicht.",
+      "Richtig: Mitarbeit kann in einzelnen Gegenständen die Prüfung entfallen lassen, Feststellung durch Fachlehrer.",
+      "Falsch: Dieselbe Prüfung darf im selben Jahr nicht wiederholt werden."
+    ],
+    "aufloesung": "Zulassung prüfen, Prüfer und Aufgaben per Konferenz festlegen, Ergebnis feststellen und mitteilen. Details per Verordnung. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "zusatzquellen": [
+      "SchUG §6 Abs.2",
+      "SchUG §7"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-003",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Außerordentlicher Schüler wegen Sprache ist seit 11 Monaten dabei, Deutsch noch nicht ausreichend. Vater beantragt Verlängerung. Was musst du als Schulleitung prüfen und beachten?",
+    "optionen": [
+      "Ob die Voraussetzungen weiter vorliegen.",
+      "Ob das unzureichende Erlernen ohne Verschulden des Schülers nicht möglich war.",
+      "Automatisch verlängern ohne Prüfung.",
+      "Maximale weitere Dauer von zwölf Monaten einhalten.",
+      "Nach Ende jedenfalls als ordentlich aufnehmen, ungeachtet der Sprachfrage.",
+      "Bei Verlängerung eine Klassenwiederholung aussprechen."
+    ],
+    "richtig": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fortbestehen der Voraussetzungen prüfen.",
+      "Richtig: Unverschuldetes Scheitern ist Bedingung.",
+      "Falsch: Keine Automatik, braucht Feststellung.",
+      "Richtig: Weitere zwölf Monate sind Obergrenze.",
+      "Richtig: Danach jedenfalls ordentlich aufnehmen.",
+      "Falsch: Wiederholung ist kein Automatismus."
+    ],
+    "aufloesung": "Verlängerung nur bei fortbestehenden Voraussetzungen und unverschuldeter Verzögerung, max. weitere 12 Monate, danach ordentlich. Zum Nachlesen: SchUG §4 Abs.3.",
+    "hauptquelle": "SchUG §4 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-004",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zwei neu aufgenommene schulpflichtige Kinder mit Sprachförderbedarf: Kind A in Förderklasse, Kind B in Förderkurs neben Regelbesuch. Eltern fragen nach dem Unterschied beim Pflichtbesuch. Was erklärst du richtig?",
+    "optionen": [
+      "Kind in Förderklasse besucht in dieser Zeit nicht parallel alle Regel-Pflichtgegenstände.",
+      "Kind in Förderkurs besucht grundsätzlich alle Pflichtgegenstände der Stufe.",
+      "Beide müssen identisch alles besuchen, es gibt keinen Unterschied.",
+      "Befreiung von einzelnen Gegenständen bei fehlenden Vorkenntnissen ist auf Ansuchen möglich.",
+      "Förderklasse und Förderkurs sind schulrechtlich dasselbe.",
+      "Die Zuweisung erfolgt willkürlich ohne Testergebnis."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Förderklasse ersetzt den Regelbesuch in dieser Zeit.",
+      "Richtig: Förderkurs läuft neben dem Vollbesuch.",
+      "Falsch: Genau diese Unterscheidung ist der Kern.",
+      "Richtig: Einzelbefreiung auf Ansuchen bei nicht folgen können.",
+      "Falsch: Unterschiedlich geregelt.",
+      "Falsch: Testergebnis steuert die Zuweisung."
+    ],
+    "aufloesung": "Klasse statt Regelbesuch, Kurs neben Regelbesuch, Einzelbefreiung nur auf Ansuchen. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [
+      "SchUG §4 Abs.2a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-005",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Kind ohne Vorschulbildung und unklarem Vorbesuch wird nach Schuljahresende angemeldet. Du führst als Schulleitung das Orientierungsgespräch. Worauf musst du achten?",
+    "optionen": [
+      "Gespräch mit Kind und Erziehungsberechtigten führen, bei Bedarf Behörde einschalten.",
+      "Grundkompetenzen prüfen: Symbole, Motorik, Abläufe, soziale Regeln.",
+      "Bei Bedarf bis zu sechs Monate ausschließlich Orientierungsunterricht vorsehen können.",
+      "Sofort in Regelklasse ohne jede Klärung setzen.",
+      "Ergebnis und Leistungsstand bei Schulwechsel an aufnehmende Schule weitergeben.",
+      "Nur Deutsch testen, Rest ist egal."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gespräch durch Leitung, notfalls Behörde.",
+      "Richtig: Diese vier Bereiche sind Prüfmaßstab.",
+      "Richtig: Bis zu sechs Monate nur Orientierung möglich.",
+      "Falsch: Klärung ist Pflicht.",
+      "Richtig: Unverzügliche Weitergabe an aufnehmende Schule.",
+      "Falsch: Orientierung ist breiter als Sprache."
+    ],
+    "aufloesung": "Gespräch führen, Bedarf feststellen, ggf. Orientierungsunterricht, Infos bei Wechsel weitergeben. Zum Nachlesen: SchUG §4 Abs.2b.",
+    "hauptquelle": "SchUG §4 Abs.2b",
+    "zusatzquellen": [
+      "SchUG §4 Abs.4a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-006",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS",
+      "MS"
+    ],
+    "situation": "Schule ohne Sprengel hat mehr Anmeldungen als Plätze für die 1. Stufe. Du musst reihen. Was gehört zu einem korrekten Verfahren?",
+    "optionen": [
+      "Für alle Bewerber gleiche Reihungskriterien anwenden.",
+      "Bisherige Leistungen, Wohnortnähe und Geschwisterbesuch berücksichtigen.",
+      "Schulautonome Profil- und Eignungskriterien zusätzlich anwenden dürfen.",
+      "Anmeldefristen so legen, dass Verfahren möglichst zu Ferienbeginn beendet ist.",
+      "Nach Sympathie ohne Kriterien auswählen.",
+      "Aufnahmsprüfungserfolg ignorieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gleichbehandlung aller Bewerber.",
+      "Richtig: Diese drei sind jedenfalls zu bedenken.",
+      "Richtig: Schulprofil darf ergänzt werden.",
+      "Richtig: Frist soll Abschluss zu Ferienbeginn ermöglichen.",
+      "Falsch: Willkür ist unzulässig.",
+      "Falsch: Leistungen zählen."
+    ],
+    "aufloesung": "Gleiche Kriterien für alle, Leistung, Nähe, Geschwister plus Profil, Fristen einhalten. Zum Nachlesen: SchUG §5 Abs.1.",
+    "hauptquelle": "SchUG §5 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-007",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du musst als Schulleiter über 70 Aufnahmsbewerber entscheiden. Wie kommunizierst du richtig?",
+    "optionen": [
+      "Über alle Bewerber einschließlich außerordentlich Geeigneter entscheiden.",
+      "Aufnahme ortsüblich bekanntgeben, etwa Anschlag oder geeignet.",
+      "Ablehnung schriftlich mit Gründen mitteilen.",
+      "Ablehnung nur mündlich am Gang mitteilen.",
+      "Entscheidung auf unbestimmte Zeit vertagen.",
+      "Aufnahme gilt danach für alle Stufen derselben Schulart bis Beendigung weiter."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Auch Außerordentliche einbeziehen.",
+      "Richtig: Geeignete Kundmachung sichert Transparenz.",
+      "Richtig: Schriftlich mit Gründen ist Pflicht.",
+      "Falsch: Mündlich reicht nicht.",
+      "Falsch: Verfahren zügig abschließen.",
+      "Richtig: Aufnahme wirkt für alle Stufen fort."
+    ],
+    "aufloesung": "Entscheiden, bekanntgeben, Ablehnung schriftlich begründen. Aufnahme wirkt fort. Zum Nachlesen: SchUG §5 Abs.2.",
+    "hauptquelle": "SchUG §5 Abs.2",
+    "zusatzquellen": [
+      "SchUG §3 Abs.8"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-008",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Privatschule will einen Bewerber aufnehmen, der die schulrechtlichen Voraussetzungen nicht erfüllt. Der Erhalter fragt dich um Rat. Was stimmt?",
+    "optionen": [
+      "Aufnahme erfolgt dort per bürgerlich-rechtlichem Vertrag.",
+      "Trotz Vertrag darf nicht gegen zwingende Aufnahmevoraussetzungen aufgenommen werden.",
+      "Bei Verstoß ist der Vertrag rechtsunwirksam.",
+      "Gegen Geld darf jede Voraussetzung entfallen.",
+      "Schulleiter-Entscheidung nach öffentlichem Verfahren gilt dort identisch.",
+      "Voraussetzungen gelten für Privatschulen gar nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vertrag statt Bescheid.",
+      "Richtig: Vertragsfreiheit endet bei zwingendem Schulrecht.",
+      "Richtig: Rechtsunwirksamkeit als Folge.",
+      "Falsch: Kauf löst keine Voraussetzung.",
+      "Falsch: Anderes Aufnahme regime.",
+      "Falsch: Voraussetzungen gelten auch dort."
+    ],
+    "aufloesung": "Vertrag ja, aber nicht gegen zwingende Voraussetzungen, sonst unwirksam. Zum Nachlesen: SchUG §5 Abs.6.",
+    "hauptquelle": "SchUG §5 Abs.6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-009",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "BS",
+      "BHS"
+    ],
+    "situation": "Volljährige Person ohne Schulpflicht will als außerordentliche Schülerin einzelne Gegenstände besuchen. Klasse ist fast voll. Was prüfst du?",
+    "optionen": [
+      "Ob alle ordentlichen Bewerber bereits aufgenommen sind.",
+      "Ob durch sie eine Klassenteilung nötig würde.",
+      "Ob sie nach Alter und Reife geeignet ist und persönliche Gründe rechtfertigen.",
+      "Ob sie Schulpflicht hat, sonst ablehnen.",
+      "Ob sie das volle Zeugnis der Stufe braucht.",
+      "Ob Privatschulrecht gilt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ordentliche haben Vorrang.",
+      "Richtig: Keine Teilung durch Einzelbesuch.",
+      "Richtig: Eignung plus persönliche Gründe prüfen.",
+      "Falsch: Auch Nicht-Schulpflichtige können außerordentlich sein.",
+      "Falsch: Einzelbesuch braucht kein Vollzeugnis.",
+      "Falsch: Hier öffentliches Regime."
+    ],
+    "aufloesung": "Nachrang prüfen, keine Teilung, Eignung und Gründe feststellen. Zum Nachlesen: SchUG §4 Abs.1.",
+    "hauptquelle": "SchUG §4 Abs.1",
+    "zusatzquellen": [
+      "SchUG §4 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-010",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "MS"
+    ],
+    "situation": "Schüler hat Stufe als ordentlicher Schüler ohne Erfolg beendet und will nun trickreich als außerordentlicher in die höhere Stufe derselben Schulart. Eltern drohen mit Anwalt. Wie reagierst du korrekt?",
+    "optionen": [
+      "Aufnahme in höhere Stufe derselben Schulart als außerordentlich ablehnen.",
+      "Auf Wiederholung oder Schulartwechsel mit regulärer Aufnahme verweisen.",
+      "Aus Mitleid trotzdem aufnehmen.",
+      "Anwaltsschreiben als Genehmigung werten.",
+      "Sachlage und Rechtslage schriftlich dokumentieren.",
+      "Die Sperre entfällt, wenn die Eltern laut genug drohen."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sperre greift genau hier.",
+      "Richtig: Korrekte Alternativen aufzeigen.",
+      "Falsch: Mitleid ersetzt keine Grundlage.",
+      "Falsch: Schreiben ist kein Bescheid.",
+      "Richtig: Dokumentation schützt bei Beschwerde.",
+      "Falsch: Druck ändert die Rechtslage nicht."
+    ],
+    "aufloesung": "Sperre beachten, Alternativen anbieten, alles dokumentieren. Zum Nachlesen: SchUG §4 Abs.6.",
+    "hauptquelle": "SchUG §4 Abs.6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-011",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bewerber hat Einstufungsprüfung in zwei Gebieten negativ. Er will wiederholen. Was musst du zu Frist und Umfang sagen?",
+    "optionen": [
+      "Wiederholung ist zulässig.",
+      "Zulassung zur Wiederholung binnen zwei Monaten durch Schulleiter.",
+      "Nur negative Gebiete wiederholen.",
+      "Alles neu machen inklusive positiver Gebiete.",
+      "Erst nach einem Jahr wieder antreten.",
+      "Mitarbeit im Unterricht kann in einzelnen Gegenständen Prüfung entfallen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einmalige Wiederholung vorgesehen.",
+      "Richtig: Zwei Monate Frist beachten.",
+      "Richtig: Nur Nicht genügend wiederholen.",
+      "Falsch: Positive nicht wiederholen müssen.",
+      "Falsch: Keine Jahressperre.",
+      "Richtig: Mitarbeit kann Prüfung in Gegenständen ersetzen, kein Anspruch."
+    ],
+    "aufloesung": "Binnen zwei Monaten nur negative Gebiete wiederholen, Mitarbeit kann im Einzelfall ersetzen. Zum Nachlesen: SchUG §3 Abs.7a.",
+    "hauptquelle": "SchUG §3 Abs.7a",
+    "zusatzquellen": [
+      "SchUG §3 Abs.6"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-012",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Kind wechselt nach Orientierungsphase die Schule. Abgebende Schule fragt, was sie weitergeben muss. Was gehört dazu?",
+    "optionen": [
+      "Eltern müssen die neue Schule bekanntgeben.",
+      "Abgebende Schule gibt Testergebnis und Leistungsstand unverzüglich weiter.",
+      "Nichts weitergeben, Datenschutz verbietet alles.",
+      "Nur Noten, keine Förderinfos.",
+      "Infos über Kenntnisse und Fertigkeiten weitergeben.",
+      "Mündliche Gerüchte statt Feststellungen weitergeben."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Meldepflicht der Eltern sichert Kontinuität.",
+      "Richtig: Unverzügliche Weitergabe ist Pflicht.",
+      "Falsch: Weitergabe ist hier ausdrücklich vorgesehen.",
+      "Falsch: Gerade Förderinfos sind wichtig.",
+      "Richtig: Leistungsstand und Kenntnisse gehören dazu.",
+      "Falsch: Nur Feststellungen, keine Gerüchte."
+    ],
+    "aufloesung": "Eltern melden neue Schule, abgebende gibt Ergebnis und Stand unverzüglich weiter. Zum Nachlesen: SchUG §4 Abs.4a.",
+    "hauptquelle": "SchUG §4 Abs.4a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-013",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei Anmeldung zweifelst du an der Eignung für die Schulart aus gesundheitlichen Gründen. Eltern sind dagegen. Wie gehst du vor?",
+    "optionen": [
+      "Im Zweifel Gutachten von Schularzt oder Amtsarzt einholen.",
+      "Eignung als eigene Voraussetzung neben Sprache und Vorbildung prüfen.",
+      "Bei Behinderung pauschal ablehnen.",
+      "Feststellungsverfahren zu Sonderpädagogik beachten statt pauschal über Eignung zu entscheiden.",
+      "Ohne Anhaltspunkt Attest von allen verlangen.",
+      "Entscheidung und Grundlage dokumentieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      3,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gutachten klärt Zweifel.",
+      "Richtig: Eignung steht neben anderen Voraussetzungen.",
+      "Falsch: Pauschale Ablehnung unzulässig.",
+      "Richtig: Sonderpädagogik-Verfahren geht vor.",
+      "Falsch: Keine anlasslose Pflicht für alle.",
+      "Richtig: Entscheidung und Grundlage dokumentieren."
+    ],
+    "aufloesung": "Zweifel per Gutachten klären, Sonderpädagogik-Verfahren beachten, dokumentieren. Zum Nachlesen: SchUG §3 Abs.1.",
+    "hauptquelle": "SchUG §3 Abs.1",
+    "zusatzquellen": [
+      "SchUG §3 Abs.7b"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-014",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern fragen nach Aufnahme in die 1. Klasse: Müssen sie sich jedes Jahr neu anmelden, wenn das Kind an der Schule bleibt?",
+    "optionen": [
+      "Nein, Aufnahme gilt ohne Neuanmeldung für alle Stufen derselben Schulart bis Beendigung weiter.",
+      "Ja, jedes Jahr neu anmelden.",
+      "Nur bei Schulartwechsel ist Neues zu prüfen.",
+      "Bei Wiederholung erlischt alles automatisch.",
+      "Beendigung richtet sich nach den Austrittsregeln.",
+      "Jede Klasse braucht neuen Aufnahmebescheid."
+    ],
+    "richtig": [
+      0,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fortwirkung spart Bürokratie.",
+      "Falsch: Keine jährliche Neuanmeldung nötig.",
+      "Richtig: Neue Schulart bedeutet neues Verfahren.",
+      "Falsch: Wiederholung beendet nicht automatisch.",
+      "Richtig: Beendigung nach den dafür geltenden Regeln.",
+      "Falsch: Kein Bescheid pro Klasse nötig."
+    ],
+    "aufloesung": "Einmal aufgenommen wirkt die Aufnahme fort, nur Wechsel oder Beendigung ändern das. Zum Nachlesen: SchUG §3 Abs.8.",
+    "hauptquelle": "SchUG §3 Abs.8",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L2-015",
+    "modul_id": "A01",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "MS"
+    ],
+    "situation": "Schule mit Englisch als überwiegender Unterrichtssprache meldet Bewerber, der gut Englisch aber kaum Deutsch kann. Eltern fragen, ob Deutsch trotzdem Aufnahmestopper ist.",
+    "optionen": [
+      "An solchen Schulen genügt die Beherrschung einer Unterrichtssprache.",
+      "Englisch kann also für die Aufnahme ausreichen.",
+      "Deutsch ist dort trotzdem zwingend zusätzlich nötig.",
+      "Testung und Förderung entfallen dort automatisch.",
+      "Eignung und Vorbildung sind trotzdem zu prüfen.",
+      "Aufnahmsverfahren mit Reihung entfällt dort."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sonderregel für überwiegend englischsprachige Schulen.",
+      "Richtig: Eine Sprache genügt dort.",
+      "Falsch: Genau dort nicht kumulativ verlangt.",
+      "Falsch: Förderung und Verfahren bleiben relevant.",
+      "Richtig: Übrige Voraussetzungen bleiben bestehen.",
+      "Falsch: Verfahren bleibt anzuwenden."
+    ],
+    "aufloesung": "An überwiegend englischen Schulen genügt eine Unterrichtssprache, Rest bleibt zu prüfen. Zum Nachlesen: SchUG §3 Abs.4.",
+    "hauptquelle": "SchUG §3 Abs.4",
+    "zusatzquellen": [
+      "SchUG §3 Abs.1"
+    ],
+    "stand": "04.09.2026"
+  }
+]
