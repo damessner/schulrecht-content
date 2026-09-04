@@ -1,1 +1,260 @@
-[]
+[
+  {
+    "aufloesung": "Die zweite Woche gilt als unentschuldigt, weil kein zulässiger Grund sie deckt. Die korrekt gemeldete erste Woche trägt nicht automatisch die eigenmächtige Verlängerung, Urlaubswunsch ist weder Krankheit noch Notlage und eine Erlaubnis wurde nie erteilt. Zum Nachlesen: SchUG §45 Abs.1",
+    "hauptquelle": "SchUG §45 Abs.1",
+    "id": "A16-L4-001",
+    "level": "L4",
+    "modul_id": "A16",
+    "optionen": [
+      "Die Verlängerungswoche ist gerechtfertigt, weil die Familie die erste Woche korrekt gemeldet hatte.",
+      "Die zweite Woche ist unentschuldigt, weil weder Verhinderung noch Erlaubnis noch Befreiung sie trägt.",
+      "Ein günstiger Umbuchungspreis verwandelt die zweite Woche in eine gerechtfertigte Verhinderung.",
+      "Schweigen nach Rückkehr heilt das Fehlen, sobald das Kind wieder im Unterricht sitzt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die erste Woche trägt nicht automatisch die zweite.",
+      "Richtig: Ohne einen der drei zulässigen Wege fehlt jede Grundlage.",
+      "Falsch: Preisvorteile sind kein Verhinderungsgrund.",
+      "Falsch: Nachträgliches Sitzen heilt kein unentschuldigtes Fehlen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Berger meldet ihr Kind für eine Urlaubswoche im November ordnungsgemäß mit Erlaubnis ab, verlängert den Aufenthalt dann aber eigenmächtig um eine zweite Woche wegen eines günstigen Umbuchungsangebots und meldet sich erst nach der Rückkehr. Die Schule hatte der Verlängerung nie zugestimmt und prüft nun die zweite Woche.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Nur die zwei akuten Tage sind gerechtfertigt, die Verlängerung ist unentschuldigt. Die Hilfe musste unbedingt und vorübergehend nötig sein, sobald die Großmutter die Betreuung übernommen hat, endet die Rechtfertigung. Zum Nachlesen: SchUG §45 Abs.2",
+    "hauptquelle": "SchUG §45 Abs.2",
+    "id": "A16-L4-002",
+    "level": "L4",
+    "modul_id": "A16",
+    "optionen": [
+      "Alle fünf Tage sind gerechtfertigt, weil einmal Hilfe nötig war.",
+      "Nur die zwei Tage mit unbedingter Notwendigkeit sind gerechtfertigt, die Verlängerung nicht.",
+      "Kein einziger Tag ist gerechtfertigt, Hilfe für Eltern zählt grundsätzlich nie.",
+      "Die Großmutter hätte von Anfang an alles übernehmen müssen, sonst entfällt alles."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Rechtfertigung endet, sobald die Notlage endet.",
+      "Richtig: Unbedingt und vorübergehend trägt nur die akute Lücke.",
+      "Falsch: Akute Angehörigenhilfe ist ausdrücklich anerkannt.",
+      "Falsch: Auf fiktive Alternativen kommt es nicht an, sondern auf die akute Lage."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Der 13-jährige Jonas betreut zwei Tage seine fiebernde Mutter, weil der Vater auf Dienstreise ist und keine Nachbarin einspringen kann, bleibt dann aber noch drei weitere Tage zu Hause, obwohl die Großmutter längst die Betreuung übernommen hat. Die Schule erkennt die ersten Tage an und streitet über die restlichen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Das Zeugnisverlangen ist zulässig, weil Häufung und Zweifel zusammenkommen. Kurze Elternzettel und Anrufe genügen dann nicht mehr, der ärztliche Nachweis sichert ehrliche Kranke und entlarvt Gefälligkeitsmuster. Zum Nachlesen: SchUG §45 Abs.3",
+    "hauptquelle": "SchUG §45 Abs.3",
+    "id": "A16-L4-003",
+    "level": "L4",
+    "modul_id": "A16",
+    "optionen": [
+      "Der Klassenvorstand darf kein Zeugnis verlangen, weil die Mutter jedes Mal angerufen hat.",
+      "Der Klassenvorstand darf wegen der Häufung bei Zweifeln ein ärztliches Zeugnis verlangen.",
+      "Ein Zeugnis darf erst nach einem Monat Dauerfehlen verlangt werden.",
+      "Statt eines Zeugnisses muss die Schule das Kind selbst untersuchen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Anrufe schließen das Verlangen bei Zweifeln nicht aus.",
+      "Richtig: Gehäuftes kurzes Fehlen löst bei Zweifeln das Verlangen aus.",
+      "Falsch: Eine Monatsgrenze gibt es nicht, schon Häufung mit Zweifeln genügt.",
+      "Falsch: Untersucht wird niemand, verlangt wird ein ärztlicher Nachweis."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Schülerin Lea fehlt in acht Wochen sechsmal jeweils nur freitags mit kurzen Elternzetteln wegen Bauchweh, an jedem Montag ist sie kerngesund und sportlich voll aktiv. Der Klassenvorstand zweifelt an den Gründen und will ein ärztliches Zeugnis verlangen, die Mutter beruft sich auf ihre Anrufe.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "David braucht vorher zwei verschiedene Freigaben, sonst fehlt er unentschuldigt. Kurze Freistellungen trägt der Klassenvorstand, längere die Leitung, jeweils nur aus wichtigem Grund und nie nachträglich durch bloßes Erklären. Zum Nachlesen: SchUG §45 Abs.4",
+    "hauptquelle": "SchUG §45 Abs.4",
+    "id": "A16-L4-004",
+    "level": "L4",
+    "modul_id": "A16",
+    "optionen": [
+      "Beide Freistellungen darf der Fachlehrer der dritten Stunde allein erteilen.",
+      "Die zwei Stunden erteilt der Klassenvorstand, die drei Tage nur die Schulleitung.",
+      "Für beide Zeiträume ist allein die Bildungsdirektion zuständig.",
+      "Nachträgliches Bescheidgeben ersetzt beide Erlaubnisse."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der einzelne Fachlehrer trägt keine mehrtägige Freistellung.",
+      "Richtig: Kurze Zeit läuft über den Klassenvorstand, längere über die Leitung.",
+      "Falsch: Die Behörde ist dafür nicht die erste Adresse.",
+      "Falsch: Erlaubnis heißt vorher fragen, nicht hinterher melden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Maturant David braucht für ein Aufnahmeverfahren an einer Universität zwei Stunden am Vormittag frei und für ein internationales Auswahlverfahren danach drei volle Tage. Er bittet seinen Fachlehrer, ihm beides formlos freizugeben, und will notfalls einfach wegbleiben und hinterher erklären.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Nur Krankheit, Haushaltsansteckung und unzumutbarer Weg sind gerechtfertigt, der Rest nicht. Entscheidend ist die unvorhersehbare Notlage mit Gesundheitsbezug, nicht privater Wunsch, Alltagsregen oder ein versäumter Vorabantrag bei planbaren Terminen. Zum Nachlesen: SchUG §45 Abs.2",
+    "hauptquelle": "SchUG §45 Abs.2",
+    "id": "A16-L4-005",
+    "level": "L4",
+    "modul_id": "A16",
+    "optionen": [
+      "Die eigene fiebrige Erkrankung des Schülers rechtfertigt das Fernbleiben.",
+      "Die hochansteckende Erkrankung der Schwester im selben Haushalt rechtfertigt das Zuhausebleiben zum Schutz der Klasse.",
+      "Der unpassierbare vereiste Schulweg mit behördlicher Sperre rechtfertigt das Fehlen.",
+      "Leichter Nieselregen ohne jede Gefahr rechtfertigt ebenfalls das Fehlen.",
+      "Ein geplanter Familienausflug ohne vorherige Erlaubnis ist eine unvorhersehbare Verhinderung.",
+      "Bequemlichkeit am Montagmorgen zählt als außergewöhnliches Ereignis."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eigene Krankheit ist der klassische Grund.",
+      "Richtig: Ansteckungsgefahr im Haushalt schützt die ganze Klasse.",
+      "Richtig: Ungangbarkeit und Gesundheitsgefahr machen den Weg unzumutbar.",
+      "Falsch: Alltagsregen ohne Gefahr verpflichtet weiter zum Schulbesuch.",
+      "Falsch: Planbares braucht vorherige Erlaubnis statt Verhinderungsausrede.",
+      "Falsch: Unlust ist kein außergewöhnliches Ereignis."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Klassenvorstand Hofer prüft eine Sammelmappe mit sechs Fehltagen: ein Kind mit Fieber, eines mit hochansteckender Schwester im selben Zimmer, eines bei gesperrter vereister Bergstraße mit Lawinenwarnung, eines bei leichtem Nieselregen, eines wegen Familienausflug ohne jeden Antrag und eines wegen Montagmorgen-Unlust.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §45 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Meldung und Nachweise sind beide verletzt, das Fehlen droht unentschuldigt zu werden. Sofortige Meldung mit Grund an die richtige Adresse plus ärztlicher Nachweis bei Dauer, Häufung und Zweifeln sichern die Rechtfertigung, Mitschüler und Spät­zettel tun das nicht. Zum Nachlesen: SchUG §45 Abs.3",
+    "hauptquelle": "SchUG §45 Abs.3",
+    "id": "A16-L4-006",
+    "level": "L4",
+    "modul_id": "A16",
+    "optionen": [
+      "Die Mutter hätte jede Verhinderung ohne Aufschub mit Grund beim Klassenvorstand oder der Leitung melden müssen.",
+      "Die neuntägige Erkrankung hätte die Schule zum Verlangen eines ärztlichen Zeugnisses berechtigt.",
+      "Das gehäufte Freitagsfehlen hätte bei Zweifeln ein Zeugnisverlangen getragen.",
+      "Eine Nachricht an Mitschüler ersetzt die Meldung an die Schule.",
+      "Ein Zettel nach drei Wochen gilt noch als Meldung ohne Aufschub.",
+      "Ein Zeugnis darf bei Zweifeln grundsätzlich niemals verlangt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverzüglich mit Grund an die richtige Adresse ist die Kernpflicht.",
+      "Richtig: Mehr als eine Woche Dauer löst das Verlangen aus.",
+      "Richtig: Häufung kurzer Fehlzeiten löst es bei Zweifeln ebenso aus.",
+      "Falsch: Mitschüler sind keine Empfänger der Entschuldigung.",
+      "Falsch: Wochen später ist verspätet und riskiert unentschuldigt.",
+      "Falsch: Genau für Zweifel, Dauer und Häufung ist das Zeugnis da."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mutter Kral erzählt nur Mitschülern vom Fehlen ihres Sohnes, meldet der Schule erst nach drei Wochen einen Grund, darunter eine neuntägige Erkrankung ohne jeden Beleg und fünf einzelne Freitage mit Handzetteln. Der Klassenvorstand zweifelt und streitet über Meldung und Nachweispflichten.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Schüler gilt als abgemeldet und kommt nur mit Bewilligung der Leitung und gewichtiger Nachbegründung zurück. Alle Fristentatbestände plus fruchtlose Aufforderung liegen vor, die Fiktion schützt verlässliche Schulplätze statt beliebig langes Schwänzen zu dulden. Zum Nachlesen: SchUG §45 Abs.5",
+    "hauptquelle": "SchUG §45 Abs.5",
+    "id": "A16-L4-007",
+    "level": "L4",
+    "modul_id": "A16",
+    "optionen": [
+      "Länger als eine Woche ohne Grund ist die erste Grenze für die Fiktion.",
+      "Fünf einzelne Tage oder dreißig versäumte Stunden ohne Grund genügen ebenfalls.",
+      "Erst nach fruchtloser schriftlicher Aufforderung mit Wochenfrist gilt er als abgemeldet.",
+      "Die spätere Rückkehr braucht Bewilligung der Leitung plus nachträgliche Rechtfertigung aus rücksichtswürdigen Gründen.",
+      "Beliebig langes Schwänzen bleibt folgenlos und der Platz bleibt sicher.",
+      "Nach der Fiktion genügt einfaches Wiederhinsetzen ohne jede Bewilligung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Wochengrenze ist der erste Tatbestand.",
+      "Richtig: Tages- und Stundengrenze stehen gleichwertig daneben.",
+      "Richtig: Ohne das Aufforderungsverfahren gibt es keine Fiktion.",
+      "Richtig: Zurück geht es nur mit Bewilligung und gewichtiger Nachbegründung.",
+      "Falsch: Grenzenloses Fehlen beendet den Schulbesuch.",
+      "Falsch: Hinsetzen ohne Bewilligung genügt nach der Fiktion nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS",
+      "BS"
+    ],
+    "situation": "Ein 17-jähriger Oberstufenschüler fehlt vier Wochen ohne jede Nachricht, die Schule stellt 34 versäumte Stunden fest und hat ihn schriftlich mit Wochenfrist fruchtlos zur Mitteilung des Grundes aufgefordert. Nun will er mit einem verspäteten Spitalsschreiben einfach wieder in die Klasse, die Leitung prüft Fiktion und Rückkehrverfahren.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §45 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Anruf ersetzt den Nachweis bei Anlass nicht. Bei Zweifeln, über einer Woche Dauer und gehäuftem kurzem Fehlen darf das Zeugnis verlangt werden, auch die Abmeldefiktion mit Aufforderungsverfahren bleibt unberührt. Zum Nachlesen: SchUG §45 Abs.3",
+    "hauptquelle": "SchUG §45 Abs.3",
+    "id": "A16-L4-008",
+    "level": "L4",
+    "modul_id": "A16",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Anruf allein heilt weder Häufung noch Zweifel noch Dauer.",
+      "Richtig erkannt: Bei Zweifeln, langer Dauer und Häufung darf das Zeugnis verlangt werden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Eine Kollegin behauptet, ein kurzer Anruf der Eltern genüge immer und die Schule dürfe niemals ein ärztliches Zeugnis für das Fehlen verlangen, egal wie lange oder wie oft ein Kind fehlt.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "SchUG §45 Abs.5"
+    ]
+  }
+]

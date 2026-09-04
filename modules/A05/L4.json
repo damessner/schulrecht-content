@@ -1,1 +1,264 @@
-[]
+[
+  {
+    "aufloesung": "Die Zuteilung ist anzuhören, sachlich neu zu treffen und ein begründeter Wechselantrag ist zu prüfen statt formelhaft abzulehnen. Fristversäumnis kostet weder das Schuljahr noch begründet es eine kommentarlose Zwangszuteilung, und Überforderung mit Versetzungsgefahr ist ernst zu nehmen. Zum Nachlesen: SchUG §11 Abs.1",
+    "hauptquelle": "SchUG §11 Abs.1",
+    "id": "A05-L4-001",
+    "level": "L4",
+    "modul_id": "A05",
+    "optionen": [
+      "Kommentarlos zuteilen und jeden Wechsel mit gewählt sei gewählt ablehnen ist richtig.",
+      "Die Schule muss den Versäumten anhören, sachlich zuteilen und einen begründeten Wechselantrag mit Voraussetzungen prüfen und begründet bescheiden.",
+      "Wer die Frist versäumt, verliert das Schuljahr und muss die Schule wechseln.",
+      "Die Eltern entscheiden allein über Schwerpunkt und Wechsel, die Schule hat kein Wort mitzureden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Frist ersetzt keine sachliche Entscheidung und Floskeln keine Prüfung.",
+      "Richtig: Anhören, sachlich zuteilen und Wechsel begründet prüfen und dokumentieren.",
+      "Falsch: Fristversäumnis kostet kein Schuljahr und kein Schulwechsel ist nötig.",
+      "Falsch: Wahl ist Mitwirkung, keine Alleinentscheidung der Eltern."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lukas verpasst im zweiten Semester der sechsten Schulstufe die Schwerpunktwahl, die Eltern waren auf Urlaub, die Schule teilt ihn kommentarlos dem ungeliebten Schwerpunkt zu. Ein halbes Jahr später ist er dort völlig überfordert, die Versetzung wackelt, die Familie stellt ein begründetes Wechselansuchen und die Schule lehnt mit dem Satz ab, gewählt sei gewählt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §11 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Ohne erfüllte Mindestvoraussetzungen findet kein Kurs auf Kosten der Förderung statt. Das Zustandekommen hängt von den vorgesehenen Voraussetzungen ab, und Stunden vom Förderunterricht abzuziehen ist kein normaler Weg. Zum Nachlesen: SchUG §12 Abs.3",
+    "hauptquelle": "SchUG §12 Abs.3",
+    "id": "A05-L4-002",
+    "level": "L4",
+    "modul_id": "A05",
+    "optionen": [
+      "Jeder gewünschte Kurs findet mit voller Stundenzahl statt, Mindestzahlen sind unverbindlich.",
+      "Stunden vom Förderunterricht abzuziehen ist der normale Weg, um Kleinkurse zu ermöglichen.",
+      "Das Zustandekommen hängt von den vorgesehenen Mindestvoraussetzungen ab, ohne Erfüllung kein Kurs auf Kosten der Förderung.",
+      "Sechs Anmeldungen verpflichten automatisch zur Vollausstattung mit allen Stunden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mindestvoraussetzungen sichern Ressourcen für alle.",
+      "Falsch: Förderung darf nicht geplündert werden.",
+      "Richtig: Voraussetzungen prüfen, sonst Alternativen wie schulübergreifende Gruppen ehrlich prüfen.",
+      "Falsch: Anmeldung allein schafft keinen Anspruch auf Vollausstattung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Für Italienisch als Freigegenstand melden sich nur sechs Interessierte, gleichzeitig warten förderbedürftige Kinder auf Kleingruppen in Deutsch. Die Lehrkraft will den Kurs trotzdem mit voller Stundenzahl führen und dafür Stunden vom Förderunterricht abziehen, die Direktion soll das genehmigen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §12 Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Die Befreiung ist bei Vorliegen der Voraussetzungen zu erteilen und die Beurteilung entsprechend anzupassen. Atteste zu prüfen und Umfang plus Dauer schriftlich festzuhalten ersetzt Anwesenheitszwang auf der Bank und Notendruck. Zum Nachlesen: SchUG §11 Abs.6",
+    "hauptquelle": "SchUG §11 Abs.6",
+    "id": "A05-L4-003",
+    "level": "L4",
+    "modul_id": "A05",
+    "optionen": [
+      "Auf der Bank sitzen bei jedem Wetter ersetzt die Befreiung.",
+      "Drohung mit negativer Mitarbeitsnote erzwingt die Teilnahme.",
+      "Bei Vorliegen der Voraussetzungen ist die Befreiung zu erteilen und die Beurteilung entsprechend anzupassen.",
+      "Atteste von Fachärzten gelten grundsätzlich nicht und müssen ignoriert werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Anwesenheitspflicht ersetzt keine Befreiungsentscheidung.",
+      "Falsch: Notendruck ersetzt kein Verfahren.",
+      "Richtig: Befreiung erteilen und Beurteilung sauber regeln.",
+      "Falsch: Fachärztliche Nachweise sind gerade maßgeblich."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin hat nach einer Knieoperation monatelang Sportverbot, ein fachärztliches Attest liegt vor und die Mutter bittet um Befreiung von der Teilnahme. Die Schule verlangt trotzdem Anwesenheit auf der Bank bei jedem Wetter, droht mit negativer Beurteilung der Mitarbeit und erklärt das Attest für unbeachtlich.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Förderbedarf ist sachlich zu prüfen, die Zuweisung zu begründen und die Kollision mit Priorität und Kompensation zu entscheiden. Stille Abmeldung aus Platzgründen und starres Nebeneinander zweier Anwesenheitspflichten überfordern das Kind und sind verfahrensfehlerhaft. Zum Nachlesen: SchUG §12 Abs.7",
+    "hauptquelle": "SchUG §12 Abs.7",
+    "id": "A05-L4-004",
+    "level": "L4",
+    "modul_id": "A05",
+    "optionen": [
+      "Die Abmeldung vom Förderunterricht aus Platzgründen ohne Verfahren ist zulässig.",
+      "Förderbedarf verpflichtet zu sachlicher Zuweisung und Information der Erziehungsberechtigten.",
+      "Bei Kollision von Freigegenstand und dringend empfohlenem Förderunterricht gilt starr beides nebeneinander.",
+      "Bedarf und Dringlichkeit sind abzuwägen und ein abgestimmter Plan mit Priorität und Kompensation ist zu erstellen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Platzmangel braucht Verfahren, kein Schweigen.",
+      "Richtig: Bedarf sachlich prüfen, zuweisen und Eltern einbinden.",
+      "Falsch: Kollision braucht Entscheidung, kein Wegschauen der Direktion.",
+      "Richtig: Dringlichkeit steuert die Priorität, Systemkollision ist kein Fehlverhalten."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Bei zwei Kindern mit deutlichen Leseschwächen meldet die Klassenlehrerin sie kommentarlos vom Förderunterricht ab, weil die Gruppe zu groß sei, die Eltern erfahren es erst durch das Zeugnis. Gleichzeitig überschneidet sich beim älteren Kind der Freigegenstand dauerhaft mit dem dringend empfohlenen Förderunterricht, beide Leitungen bestehen starr auf Anwesenheit und die Direktion schaut zu.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §12 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Vorkenntnisse und Nachweise sind sachlich zu prüfen, Einstufung und Entlastung zu klären und alles begründet zu dokumentieren. Pauschale Jahreswiederholung ohne Prüfung und pauschale Ablehnung ohne Gleichwertigkeitsprüfung sind beide Willkür. Zum Nachlesen: SchUG §11 Abs.5",
+    "hauptquelle": "SchUG §11 Abs.5",
+    "id": "A05-L4-005",
+    "level": "L4",
+    "modul_id": "A05",
+    "optionen": [
+      "Pauschale Jahreswiederholung ohne Prüfung der Vorkenntnisse ist zulässig.",
+      "Vorkenntnisse sind zu prüfen und angemessen zu berücksichtigen statt nur zu wiederholen.",
+      "Gleichwertige Vorleistungen wie der Unikurs sind sachlich auf Gleichwertigkeit zu prüfen.",
+      "Volle Anwesenheit trotz nachgewiesener Gleichwertigkeit ist immer nötig.",
+      "Bei Gleichwertigkeit ist entsprechend zu entlasten statt zu doppeln.",
+      "Anträge dieser Art dürfen ungelesen abgelegt werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Pauschale ohne Prüfung ist Willkür.",
+      "Richtig: Vorkenntnisse prüfen und Brückenangebote vor Wiederholung stellen.",
+      "Richtig: Gleichwertigkeit ist Tatfrage und zu klären.",
+      "Falsch gedacht: Doppelung trotz Gleichwertigkeit ist Schikane.",
+      "Richtig: Entlastung statt Doppelgleisigkeit.",
+      "Falsch gedacht: Ungelesen ablegen ist Willkür."
+    ],
+    "richtig": [
+      1,
+      2,
+      4
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Jonas wechselt von einer Schule mit Spanisch an eine Schule, die nur Französisch anbietet, die neue Schule verlangt die Wiederholung des ganzen Jahres ohne Prüfung seiner Kenntnisse. Sein Bruder hat an einer Universität bereits einen Programmierkurs erfolgreich abgeschlossen und beantragt die Befreiung von einem gleichwertigen Wahlpflichtmodul, die Schule lehnt ohne jede Prüfung der Gleichwertigkeit ab.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §11 Abs.6a"
+    ]
+  },
+  {
+    "aufloesung": "Austrittswunsch und Fortsetzung nach negativem Abschluss sind je sachlich zu prüfen, zu würdigen und begründet zu entscheiden. Zeugnis als Strafinstrument, Pauschalverweigerung und kommentarloses Weitermachen ersetzen kein Verfahren. Zum Nachlesen: SchUG §12 Abs.4",
+    "hauptquelle": "SchUG §12 Abs.4",
+    "id": "A05-L4-006",
+    "level": "L4",
+    "modul_id": "A05",
+    "optionen": [
+      "Austritt aus dem Freigegenstand ist ausnahmslos bis Jahresende ausgeschlossen.",
+      "Vorzeitige Beendigung ist sachlich zu prüfen statt pauschal zu verweigern.",
+      "Zeugniseintrag als Strafe für den Austrittswunsch ist unzulässig.",
+      "Gründe, Kollision und bisherige Leistungen sind zu würdigen und zu dokumentieren.",
+      "Nach negativem Abschluss im Freigegenstand ist kommentarloser Wiedereinstieg immer richtig.",
+      "Nach negativem Abschluss sind Fortsetzung, Wiederholung und Förderbedarf zu klären und zu dokumentieren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Absolutheit ohne Prüfung ist unzulässig.",
+      "Richtig: Sachliche Prüfung statt Pauschale.",
+      "Richtig: Zeugnis ist kein Strafinstrument.",
+      "Richtig: Würdigen und dokumentieren schützt alle.",
+      "Falsch: Schweigen löst keinen Förderbedarf.",
+      "Richtig: Klären, beraten und dokumentieren vor Fortsetzung."
+    ],
+    "richtig": [
+      1,
+      2,
+      5
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler will aus dem Freigegenstand Chor mitten im Semester aussteigen, weil sich Training und Proben dauerhaft überschneiden, die Schule droht mit Zeugniseintrag als Strafe und verweigert jedes Gespräch. Seine Schwester hat den Freigegenstand Italienisch negativ abgeschlossen und soll im Herbst kommentarlos wieder einsteigen, Förderbedarf und Eignung werden nie besprochen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Bedarf erheben, Kleingruppen bilden, mit dem Regelunterricht abstimmen und alles festhalten. Förderung ohne Konzept per Aushang mit übergroßen Gruppen geht am Ziel vorbei und ist ein Formfehler. Zum Nachlesen: SchUG §12 Abs.7",
+    "hauptquelle": "SchUG §12 Abs.7",
+    "id": "A05-L4-007",
+    "level": "L4",
+    "modul_id": "A05",
+    "optionen": [
+      "Fördergruppen ohne Obergrenze sind immer zulässig.",
+      "Förderung ohne Bedarfserhebung geht am Ziel vorbei.",
+      "Förderung ohne Abstimmung mit dem Regelunterricht verpufft.",
+      "Anordnung per Aushang ohne Einbindung der Betroffenen genügt.",
+      "Bedarf, Umfang und Abstimmung sind festzuhalten.",
+      "Förderunterricht ersetzt automatisch die Hausübung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kleingruppencharakter ist Sinn der Förderung.",
+      "Richtig: Bedarfserhebung steuert Inhalt und Umfang.",
+      "Richtig: Abstimmung sichert Transfer in den Regelunterricht.",
+      "Falsch: Aushang ersetzt keine Einbindung.",
+      "Richtig: Festhalten schafft Verbindlichkeit und Prüfbarkeit.",
+      "Falsch: Hausübung wird nicht automatisch ersetzt."
+    ],
+    "richtig": [
+      1,
+      2,
+      4
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Mehrere Kinder haben Lücken in Deutsch und Mathematik, die Schule richtet Förderunterricht in Gruppen mit 18 Kindern ein, ohne Bedarfserhebung und ohne Abstimmung mit dem Regelunterricht, die Teilnahme wird per Aushang angeordnet. Gleichzeitig fehlt jede Absprache, wie Versäumtes aus Kollisionen mit Freigegenständen kompensiert wird, und Eltern beschweren sich über beide Punkte.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §12 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Förderung folgt dem Bedarf mit Verfahren und Elterneinbindung. Zuweisung und Abmeldung sind keine Formsache und schon gar keine Belohnung für brave Schüler. Zum Nachlesen: SchUG §12 Abs.7",
+    "hauptquelle": "SchUG §12 Abs.7",
+    "id": "A05-L4-008",
+    "level": "L4",
+    "modul_id": "A05",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Bedarf, Verfahren und Einbindung der Erziehungsberechtigten sichern die Wirksamkeit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, Förderunterricht sei eine unverbindliche Belohnung für brave Schüler, Zuweisung und Abmeldung seien reine Formsache ohne Elterninformation und bei Kollision mit Freigegenständen müsse die Direktion nichts entscheiden.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

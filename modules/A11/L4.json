@@ -1,1 +1,262 @@
-[]
+[
+  {
+    "aufloesung": "Schwere Formfehler machen die Wiederholung der Feststellung nötig, Form sichert Vergleichbarkeit und Fairness. Ankündigung, Dauer und ordnungsgemäße Aufsicht sind zu dokumentieren statt die Noten trotz Anfechtung gelten zu lassen. Zum Nachlesen: LBVO §3",
+    "hauptquelle": "LBVO §3",
+    "id": "A11-L4-001",
+    "level": "L4",
+    "modul_id": "A11",
+    "optionen": [
+      "Form ist Nebensache, die Noten gelten trotz allem uneingeschränkt.",
+      "Ankündigung und ordnungsgemäße Durchführung sind Gültigkeitsvoraussetzung, bei schwerem Formfehler ist die Feststellung zu wiederholen.",
+      "Die Schüler müssen beweisen, dass sie sonst besser gewesen wären.",
+      "Die Aufsicht haftet persönlich mit einer Geldstrafe, die Noten bleiben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Form sichert Vergleichbarkeit und Fairness.",
+      "Richtig: Schwere Formfehler machen Wiederholung nötig.",
+      "Falsch: Keine Beweislastumkehr auf Schüler.",
+      "Falsch: Persönliche Geldstrafe ist kein Rechtsbehelf."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Eine Mathematikschularbeit wird ohne vorherige Ankündigung geschrieben, dauert deutlich länger als vorgesehen und wird von einer fachfremden Aufsicht ohne jede Instruktion beaufsichtigt. Mehrere Eltern fechten die Beurteilung an, die Schule erklärt die Form für Nebensache und will alle Noten gelten lassen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §18 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Der Vorwurf ist sofort zu protokollieren, die Betroffenen sind anzuhören und die härteste Folge braucht einen gesicherten Nachweis. Dünner Verdacht ohne Protokoll trägt weder die schlechteste Note noch einen verewigten Zeugnisvermerk. Zum Nachlesen: SchUG §18 Abs.4",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "id": "A11-L4-002",
+    "level": "L4",
+    "modul_id": "A11",
+    "optionen": [
+      "Hinsehen war der Fehler, künftig soll niemand mehr kontrollieren.",
+      "Ohne gesicherten Nachweis und ohne Protokoll die härteste Folge zu verhängen und den Vorwurf ins Zeugnis zu schreiben war falsch.",
+      "Anhörung und Dokumentation wären falsch gewesen, entschieden wird allein nach Gefühl.",
+      "Der Schüler muss seine Unschuld beweisen, sonst bleibt alles."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Hinsehen ist Pflicht.",
+      "Richtig: Harte Folge braucht sicheren Nachweis und Protokoll.",
+      "Falsch formuliert: Anhörung und Doku wären gerade richtig gewesen.",
+      "Falsch: Keine Beweislastumkehr auf den Schüler."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Bei einer Prüfung vermutet die Lehrkraft Abschreiben vom Nachbarn, die Beweise sind dünn und ein Protokoll wird nicht angelegt. Trotzdem wird die Leistung mit der schlechtesten Note beurteilt, der Täuschungsvorwurf ins Zeugnis geschrieben und der Schüler nie angehört, obwohl er alles bestreitet.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LBVO §10"
+    ]
+  },
+  {
+    "aufloesung": "Ohne laufende und nachvollziehbare Aufzeichnungen fehlt die Grundlage für eine negative Beurteilung, die Feststellung ist zu vertagen und nachzuholen. Bauchgefühl und zwei Einträge für ein ganzes Semester tragen keine negative Mitarbeitsnote. Zum Nachlesen: LBVO §5",
+    "hauptquelle": "LBVO §5",
+    "id": "A11-L4-003",
+    "level": "L4",
+    "modul_id": "A11",
+    "optionen": [
+      "Bauchgefühl genügt, Aufzeichnungen sind freiwillige Kür.",
+      "Die Konferenz darf die Lücken schätzen, das fällt nicht auf.",
+      "Ohne laufende und nachvollziehbare Aufzeichnungen fehlt die Grundlage für eine negative Beurteilung, die Feststellung ist zu vertagen und nachzuholen.",
+      "Der Schüler muss seine Mitarbeit selbst beweisen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aufzeichnungen sind Grundlage, keine Kür.",
+      "Falsch: Schätzen ersetzt keine Feststellung.",
+      "Richtig: Grundlage schaffen, dann erst beurteilen.",
+      "Falsch: Keine Beweislast auf Schüler."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Aufzeichnungen zur Mitarbeit eines Schülers sind lückenhaft, es gibt nur zwei Einträge für das ganze Semester plus ein Bauchgefühl der Lehrkraft. In der Zeugniskonferenz soll dennoch eine negative Mitarbeitsnote beschlossen werden, die Klassenvorständin zögert und fragt nach der tragfähigen Grundlage.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §18 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die versäumte Warnung ist ein beachtlicher Formfehler und kann die negative Beurteilung im Rechtsmittelverfahren zu Fall bringen. Warnung rechtzeitig und nachweislich aussprechen plus Fördergespräch anbieten schützt vor Überraschungsnoten im Zeugnis. Zum Nachlesen: SchUG §19 Abs.3",
+    "hauptquelle": "SchUG §19 Abs.3",
+    "id": "A11-L4-004",
+    "level": "L4",
+    "modul_id": "A11",
+    "optionen": [
+      "Nichts, Warnungen sind reine Freundlichkeit ohne jede Folge.",
+      "Die versäumte Warnung macht das Zeugnis automatisch positiv.",
+      "Die versäumte Warnung ist ein beachtlicher Formfehler und kann die negative Beurteilung im Rechtsmittelverfahren zu Fall bringen.",
+      "Eltern hätten das Zeugnis auch ohne jede Information vorhersehen müssen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Warnpflicht schützt vor Überraschungen.",
+      "Falsch: Kein Automatismus zur Bestnote.",
+      "Richtig: Versäumnis ist beachtlich und gefährdet die Note.",
+      "Falsch: Hellsehen ist keine Elternpflicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern eines schwachen Schülers bitten im November um eine frühe Warnung statt einer Überraschung im Zeugnis, die Schule informiert nie und im Februar steht plötzlich ein Nicht genügend im Zeugnis. Die Eltern fechten an und berufen sich auf die versäumte Warnung, die Schule hält Warnungen für unverbindliche Freundlichkeit.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Prüfung ist anzukündigen, ausreichend zu bemessen, zu protokollieren und zeitnah zu eröffnen, sonst trägt sie keine belastbare Note. Fehlende Ankündigung, Drei-Minuten-Dauer ohne Grundlage, fehlendes Protokoll und wochenlanges Schweigen sind je für sich Formfehler. Zum Nachlesen: LBVO §6",
+    "hauptquelle": "LBVO §6",
+    "id": "A11-L4-005",
+    "level": "L4",
+    "modul_id": "A11",
+    "optionen": [
+      "Fehlende rechtzeitige Ankündigung und Vorbereitung sind unschädlich.",
+      "Unangemessen kurze Prüfungsdauer ohne tragfähige Grundlage ist ein Formfehler.",
+      "Fehlendes Protokoll über Inhalt und Verlauf ist ein Formfehler.",
+      "Verspätete Eröffnung erst nach Wochen ist immer unschädlich.",
+      "Fehlende zweite fachkundige Person wo vorgesehen ist ein Formfehler.",
+      "Prüfungen brauchen keinerlei Form, solange die Note gefühlt stimmt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ankündigung sichert Fairness.",
+      "Richtig: Dauer muss Feststellung tragen.",
+      "Richtig: Protokoll sichert Nachprüfbarkeit.",
+      "Falsch: Zeitnahe Eröffnung gehört zur Fairness.",
+      "Richtig: Beisitz wo vorgesehen schützt beide Seiten.",
+      "Falsch: Form schützt Prüfling und Prüfer."
+    ],
+    "richtig": [
+      1,
+      2,
+      4
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Mündliche Prüfungen zum Semesterende laufen schief: Ein Schüler wird ohne Ankündigung aus dem Unterricht gerissen, die Prüfung dauert nur drei Minuten, ein Protokoll gibt es nicht, eine zweite fachkundige Person fehlt und die Note wird erst Wochen später eröffnet. Die Schule hält das alles für unschädlich.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Nachtermin geben oder anderweitig tragfähig feststellen und alles dokumentieren. Entschuldigte Abwesenheit mit Attest darf nicht wie Täuschung oder Verweigerung bestraft werden, Drohung mit Wiederholung ersetzt kein Verfahren. Zum Nachlesen: LBVO §9",
+    "hauptquelle": "LBVO §9",
+    "id": "A11-L4-006",
+    "level": "L4",
+    "modul_id": "A11",
+    "optionen": [
+      "Entschuldigtes Versäumnis darf als schlechteste Note gewertet werden.",
+      "Bei entschuldigtem Fehlen ist Gelegenheit zur Nachholung zu geben.",
+      "Statt Strafe ist der Leistungsstand auf andere tragfähige Weise festzustellen.",
+      "Atteste dürfen ignoriert werden, wenn der Terminplan eng ist.",
+      "Entscheidung und Nachtermin sind zu dokumentieren.",
+      "Jahreswiederholung als Drohung ersetzt das Verfahren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Entschuldigt ist nicht verweigert.",
+      "Richtig: Nachholung ist der Regelfall.",
+      "Richtig: Alternativ feststellen statt strafen.",
+      "Falsch: Attest ist zu würdigen.",
+      "Richtig: Doku sichert Fairness und Prüfbarkeit.",
+      "Falsch: Drohung ersetzt kein Verfahren."
+    ],
+    "richtig": [
+      1,
+      2,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin fehlt bei der Schularbeit wegen Krankheit, ein Attest liegt vor, die Schule verweigert jeden Nachtermin, wertet die versäumte Arbeit als schlechteste Note und droht mit Jahreswiederholung. Gleichzeitig verlangt sie von den Eltern, die Krankheit zusätzlich durch einen zweiten Arzt zu belegen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Nur geeignete überwachte Formen werten und das Gesamtbild aus mehreren Feststellungen würdigen. Heimtest ohne Aufsicht, Chatfetzen ohne Zuordnung und eine Note aus einem einzigen Test tragen keine tragfähige Beurteilung. Zum Nachlesen: SchUG §18b Abs.1",
+    "hauptquelle": "SchUG §18b Abs.1",
+    "id": "A11-L4-007",
+    "level": "L4",
+    "modul_id": "A11",
+    "optionen": [
+      "Unbeaufsichtigte Heimleistung als Schularbeit zu werten ist unproblematisch.",
+      "Gesamtbeurteilung darf allein auf einen einzigen Test gestützt werden.",
+      "Chatfetzen ohne Zuordnung tragen eine Mitarbeitsnote.",
+      "Leistungsfeststellung braucht geeignete, überprüfbare Formen mit Aufsicht wo vorgesehen.",
+      "Gesamtbild aus mehreren Feststellungen ist zu würdigen.",
+      "Aufsicht und Eigenständigkeit sind zu sichern und zu dokumentieren."
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Aufsicht sichert Eigenständigkeit.",
+      "Falsch gedacht: Gesamtbild statt Einzelwert.",
+      "Falsch gedacht: Zuordnung und Nachweis sind nötig.",
+      "Richtig: Geeignete überprüfbare Formen wählen.",
+      "Richtig: Mehrere Feststellungen würdigen.",
+      "Richtig: Aufsicht und Doku sichern Gültigkeit."
+    ],
+    "richtig": [
+      3,
+      4,
+      5
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Eine Lehrkraft will eine Schularbeit als unbeaufsichtigten Online-Test von zu Hause zählen lassen, die Mitarbeit aus Chatnachrichten ohne klare Zuordnung benoten und die Zeugnisnote allein aus diesem einen Test ableiten. Eltern und Direktion zweifeln an Aufsicht, Eigenständigkeit und Gesamtbild.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §18 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, das Gesamtbild aller Feststellungen trägt die Note. Mitarbeit und kleinere Feststellungen dürfen nicht ignoriert werden, kein einzelner Test entscheidet allein. Zum Nachlesen: SchUG §18 Abs.1",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A11-L4-008",
+    "level": "L4",
+    "modul_id": "A11",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Das Gesamtbild aller Feststellungen trägt die Note, keine einzelne allein."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, die Schularbeitsnote allein entscheide die Zeugnisnote, Mitarbeit und kleinere Feststellungen dürften ignoriert werden und Aufzeichnungen dazu seien freiwillig.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

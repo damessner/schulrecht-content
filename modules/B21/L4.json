@@ -1,1 +1,261 @@
-[]
+[
+  {
+    "aufloesung": "Steiner muss die volle Unterrichtszeit einhalten statt früher zu schließen. Regelmäßiger Unterricht mit voller Zeit sichert Lernen und Aufsicht, die unbeaufsichtigte Gangzeit mit Raufereien zeigt gerade den Schaden der Kürzung. Zum Nachlesen: LDG §31 Abs.1",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B21-L4-001",
+    "level": "L4",
+    "modul_id": "B21",
+    "optionen": [
+      "Das ist zulässig, weil erfahrene Lehrer die Zeit selbst einteilen dürfen.",
+      "Das verletzt die Pflicht zu regelmäßigem Unterricht mit voller Zeit und Aufsicht.",
+      "Zehn Minuten gelten als vernachlässigbare Kleinigkeit ohne Folgen.",
+      "Pünktlichkeit gilt nur in Prüfungswochen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erfahrung entbindet nicht von der Zeitpflicht.",
+      "Richtig: Volle Zeit sichert Lernen und Aufsicht.",
+      "Falsch: Regelmäßige Kürzung ist keine Bagatelle.",
+      "Falsch: Die Pflicht gilt immer, nicht nur bei Prüfungen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Steiner beendet seinen Unterricht regelmäßig zehn Minuten früher für einen Kaffee, während die Klasse die unbeaufsichtigte Zeit für Raufereien am Gang nutzt. Auf Kritik erklärt er, zehn Minuten seien Kleinigkeit und seine Erfahrung rechtfertige die Einteilung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Anordnung geht über das zulässige Maß hinaus und muss reduziert werden. Mehrdienst braucht zwingende Gründe und endet bei fünf zusätzlichen Wochenstunden, Personalmangel allein hebt die doppelte Schranke nicht auf. Zum Nachlesen: LDG §31 Abs.2",
+    "hauptquelle": "LDG §31 Abs.2",
+    "id": "B21-L4-002",
+    "level": "L4",
+    "modul_id": "B21",
+    "optionen": [
+      "Sieben Stunden dauerhaft sind zulässig, weil Personalmangel jede Grenze aufhebt.",
+      "Die Anordnung ist unzulässig, weil sie ohne zwingende Gründe das Höchstmaß von fünf Stunden übersteigt.",
+      "Zehn Zusatzstunden wären ebenfalls noch zulässig.",
+      "Eine dauerhafte Anordnung braucht überhaupt keine Begründung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch bei Mangel gilt die Obergrenze.",
+      "Richtig: Zwingende Gründe plus fünf Stunden sind die doppelte Schranke.",
+      "Falsch: Zehn Stunden liegen weit darüber.",
+      "Falsch: Gerade Dauer braucht tragfähige Gründe."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Direktion ordnet Lehrer Pichler wegen einer unbesetzten Stelle dauerhaft sieben zusätzliche Wochenstunden bis auf Weiteres an, ohne die zwingende Lage näher zu begründen. Pichler prüft die Grenzen für Mehrdienst und wehrt sich gegen die Sieben.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Leiter muss den Verdacht sofort weitergeben statt zu vertuschen. Der begründete Verdacht mit Schulbezug ist unverzüglich der zuständigen Stelle zu melden, Belege zu sichern und nicht auf interne Verfahren zu warten. Zum Nachlesen: LDG §32 Abs.3",
+    "hauptquelle": "LDG §32 Abs.3",
+    "id": "B21-L4-003",
+    "level": "L4",
+    "modul_id": "B21",
+    "optionen": [
+      "Vertuschen schützt die Schule und ist daher die richtige Reaktion.",
+      "Der Leiter muss den Verdacht unverzüglich der zuständigen Stelle melden.",
+      "Beweise dürfen bei Rufgefahr vernichtet werden.",
+      "Gewartet wird bis zu einem internen Schuldspruch."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vertuschung verletzt die Pflicht und verschlimmert die Lage.",
+      "Richtig: Schulbezug plus Verdacht lösen die sofortige Meldung aus.",
+      "Falsch: Beweismittel zu vernichten ist niemals zulässig.",
+      "Falsch: Auf interne Verfahren wird nicht gewartet."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Leiter entdeckt Hinweise, dass aus der Schulkasse über Monate Geld abgezweigt wurde. Um den Ruf der Schule zu schützen, will er den Verdacht vertuschen, die Belege verschwinden lassen und erst einen internen Schuldspruch abwarten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Das ungeregelte Verlassen verletzt die Leiterpflicht zur Anwesenheit mit Vertretung. Während der Unterrichtszeit muss die Leitung anwesend oder vertreten sein, gerade damit bei Unfällen sofort entscheidungsbefugt gehandelt wird. Zum Nachlesen: LDG §32 Abs.4",
+    "hauptquelle": "LDG §32 Abs.4",
+    "id": "B21-L4-004",
+    "level": "L4",
+    "modul_id": "B21",
+    "optionen": [
+      "Private Erledigungen gehen während des Unterrichts immer vor.",
+      "Der Leiter hätte die Schule nicht ohne geregelte Vertretung verlassen dürfen.",
+      "Vertretung ist nur an Prüfungstagen nötig.",
+      "Anwesenheitspflicht gilt nur für Lehrer, nicht für die Leitung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Privates rechtfertigt kein ungeregeltes Verlassen.",
+      "Richtig: Anwesenheit plus Vertretungsvorsorge sichern Entscheidungen im Ernstfall.",
+      "Falsch: Die Vorsorge gilt grundsätzlich.",
+      "Falsch: Gerade die Leitung muss erreichbar und vertreten sein."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der Direktor verlässt während des Vormittagsunterrichts ohne jede Absprache das Schulhaus für private Erledigungen. Als ein Unfall am Gang passiert, ist niemand entscheidungsbefugt erreichbar und die Vertretung ungeregelt, die Aufsichtskette reißt genau im Ernstfall.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Kaufmann muss Konferenzen besuchen und zeitnah korrigieren statt beides als freiwillig zu sehen. Zur Lehrstellung gehören neben dem Unterricht auch die sonstigen Obliegenheiten, und die Fortbildungsplanung braucht Nachweis statt formlosem Verhallen. Zum Nachlesen: LDG §31 Abs.1",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B21-L4-005",
+    "level": "L4",
+    "modul_id": "B21",
+    "optionen": [
+      "Angesetzte Konferenzen gehören zu den sonstigen Obliegenheiten.",
+      "Schularbeiten sind zeitgerecht zu korrigieren und zurückzugeben.",
+      "Auch die sonstigen Obliegenheiten aus der Lehrstellung sind Pflicht.",
+      "Konferenzen sind freiwillig, nur die Stunde vor der Klasse zählt.",
+      "Korrekturen darf jeder nach eigenem Zeitplan über Monate zurückgeben.",
+      "Nur Klassenvorstände müssen Konferenzen besuchen und korrigieren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Konferenzen sind Teil der Dienstpflichten.",
+      "Richtig: Zeitnahe Rückgabe sichert den Lernerfolg.",
+      "Richtig: Lehrstellung heißt Unterricht plus übrige Obliegenheiten.",
+      "Falsch: Angesetzte Konferenzen sind kein Ehrenamt.",
+      "Falsch: Monate lang liegen lassen verletzt die Pflicht.",
+      "Falsch: Die Pflicht trifft alle Lehrpersonen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Kaufmann erscheint nie bei angeordneten Konferenzen und gibt Schularbeiten erst nach zwei Monaten zurück. Er hält beides für freiwillige Zusatzleistungen neben dem reinen Unterricht, die nur Klassenvorstände schulden. Parallel führt die Leitung Fortbildungsgespräche ohne jede Aufzeichnung und händigt nichts aus.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §32 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Moser muss die zwei Stunden vorübergehend übernehmen statt grundsätzlich abzulehnen. Zwingende Gründe mit Ersatzmangel tragen die Anordnung im zulässigen Maß, und die Leitung muss Dienstzeit einfordern sowie nach Leistung fördern statt nach Sympathie. Zum Nachlesen: LDG §31 Abs.2",
+    "hauptquelle": "LDG §31 Abs.2",
+    "id": "B21-L4-006",
+    "level": "L4",
+    "modul_id": "B21",
+    "optionen": [
+      "Bei zwingenden Gründen sind Mehrleistungen im zulässigen Maß zu erbringen.",
+      "Plötzliche Ausfälle ohne kurzfristigen Ersatz sind ein solcher Grund.",
+      "Zwei Stunden für einige Wochen liegen innerhalb des zulässigen Maßes.",
+      "Jede Zusatzstunde darf grundsätzlich abgelehnt werden, Freiwilligkeit ist Voraussetzung.",
+      "Zuerst müssten Pensionierte zurückgeholt werden, sonst geht nichts.",
+      "Die Leitung darf Dienstzeit und Förderung nach Sympathie statt Leistung verteilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Notlage plus Maß halten die Anordnung tragfähig.",
+      "Richtig: Genau diese plötzliche Lücke ist zwingend.",
+      "Richtig: Zwei Stunden bleiben deutlich unter der Grenze.",
+      "Falsch: Bei zwingenden Gründen besteht die Pflicht.",
+      "Falsch: Eine solche Vorrangfolge ist nicht vorgesehen.",
+      "Falsch: Dienstzeit sichern und Fortkommen nach Leistung sind Leiterpflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Nach dem plötzlichen Ausfall zweier Kolleginnen ordnet die Direktion Lehrerin Moser für einige Wochen zwei zusätzliche Stunden an. Ersatz ist kurzfristig nicht zu bekommen, Moser lehnt grundsätzlich jede Zusatzstunde ab und verlangt Freiwilligkeit. Gleichzeitig vergibt dieselbe Leitung begehrte Fortbildungen nach Sympathie statt Leistung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §32 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Leitung muss Aufsicht und Vertretung für die Veranstaltung sichern, anwesend oder vertreten erreichbar bleiben und Verdachtsfälle unverzüglich melden. Wegbleiben ohne Regelung, Aufsichtslücken im Ernstfall und Vertuschung zum Schutz des Rufs verletzen je eine eigene Leiterpflicht. Zum Nachlesen: LDG §32 Abs.4",
+    "hauptquelle": "LDG §32 Abs.4",
+    "id": "B21-L4-007",
+    "level": "L4",
+    "modul_id": "B21",
+    "optionen": [
+      "Die Leitung darf das Veranstaltungsgelände ohne jede Vertretungsregelung für private Erledigungen verlassen.",
+      "Aufsicht und Entscheidungsbefugnis müssen während der Veranstaltung lückenlos gesichert sein.",
+      "Ein Diebstahlsverdacht mit Schulbezug darf zum Schutz des Rufs vertuscht werden.",
+      "Ein begründeter Verdacht mit Schulbezug ist unverzüglich der zuständigen Stelle zu melden.",
+      "Beweismittel dürfen bei Rufgefahr verschwinden.",
+      "Fällt eine Wiedergutmachung in Kürze sicher aus, darf vorerst von der sofortigen Meldung abgesehen werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ungeregeltes Verlassen verletzt die Anwesenheitspflicht mit Vertretung.",
+      "Richtig: Lückenlose Aufsicht schützt gerade im Ernstfall.",
+      "Falsch: Vertuschung verschlimmert die Lage statt zu schützen.",
+      "Richtig: Schulbezug plus Verdacht lösen die sofortige Meldung aus.",
+      "Falsch: Beweismittel zu vernichten ist niemals zulässig.",
+      "Richtig: Genau diese Ausnahme ist für kleine wiedergutgemachte Schäden gedacht."
+    ],
+    "richtig": [
+      1,
+      3,
+      5
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Bei einer mehrtägigen Schulveranstaltung verlässt der Leiter ohne jede Absprache das Gelände, als ein Schülerunfall passiert, ist niemand entscheidungsbefugt erreichbar. Parallel entdeckt er Hinweise auf einen kleinen Diebstahl aus der Veranstaltungskasse, der noch am selben Tag vollständig wiedergutgemacht wird, und will alles vertuschen statt zu prüfen, was zu melden ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §32 Abs.3",
+      "LDG §32 Abs.3a"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Mangel hebt die Grenze nicht auf. Mehrdienst braucht zwingende Gründe und endet bei fünf zusätzlichen Wochenstunden, auch die volle Unterrichtszeit bleibt daneben bestehen. Zum Nachlesen: LDG §31 Abs.2",
+    "hauptquelle": "LDG §31 Abs.2",
+    "id": "B21-L4-008",
+    "level": "L4",
+    "modul_id": "B21",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Die Grenze bleibt auch bei Mangel bestehen.",
+      "Richtig erkannt: Zwingende Gründe und fünf Stunden sind die doppelte Schranke."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, bei Personalmangel dürfe die Leitung beliebig viele zusätzliche Wochenstunden dauerhaft anordnen, eine Obergrenze gebe es dann nicht mehr, und volle Unterrichtszeit sei ohnehin Verhandlungssache.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "LDG §31 Abs.1"
+    ]
+  }
+]

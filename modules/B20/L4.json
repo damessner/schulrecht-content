@@ -1,1 +1,251 @@
-[]
+[
+  {
+    "aufloesung": "Ortners Praxis verletzt die Kernpflicht zur eigenen treuen Aufgabenerfüllung. Unterricht, Erziehung und Korrekturen sind persönlich nach der Rechtsordnung zu besorgen, Videos und private Hilfen ersetzen das nicht. Zum Nachlesen: LDG §29 Abs.1",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B20-L4-001",
+    "level": "L4",
+    "modul_id": "B20",
+    "optionen": [
+      "Das ist zulässig, solange die Schüler leise sind und niemand sich beschwert.",
+      "Das verletzt die Pflicht, Unterricht treu und gewissenhaft aus eigenem zu besorgen und die Rechtsordnung zu beachten.",
+      "Die Korrekturen darf die Assistentin dauerhaft übernehmen, das entlastet den Lehrer.",
+      "Videos ersetzen die persönliche Unterrichtserteilung ohne Weiteres."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ruhe und fehlende Beschwerde heilen keinen Pflichtverstoß.",
+      "Richtig: Persönlich, treu und rechtskonform ist der Maßstab.",
+      "Falsch: Verwaltungsaufgaben bleiben eigene Aufgaben.",
+      "Falsch: Abspielen ist kein gewissenhafter Unterricht aus eigenem."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrer Ortner lässt seine Klassen seit Wochen mit Austauschvideos allein, korrigiert keine einzige Schularbeit selbst und überlässt die Notenliste einer privaten Assistentin. Auf Kritik antwortet er, die Ergebnisse seien doch ruhig und niemand habe sich beschwert.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Sailer darf weder die eigene Tochter prüfen noch an der Vergabe an die Firma ihrer Frau mitwirken, jeweils ist Ersatz und Enthaltung nötig. Eigene Interessen schließen die völlig unvoreingenommene Entscheidung aus, schon der Anschein fehlender Unparteilichkeit ist zu vermeiden. Zum Nachlesen: LDG §29 Abs.2",
+    "hauptquelle": "LDG §29 Abs.2",
+    "id": "B20-L4-002",
+    "level": "L4",
+    "modul_id": "B20",
+    "optionen": [
+      "Sie darf beides, weil sie sich für völlig sachlich hält und innerlich neutral ist.",
+      "Sie muss die Prüfung der Tochter abgeben und sich bei der Vergabe an die Firma der Ehefrau enthalten.",
+      "Es genügt, wenn sie die Note hinterher der Direktion zeigt und bei der Vergabe nur zuschaut.",
+      "Nur bei einer negativen Note oder hoher Auftragssumme müsste sie sich zurückziehen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das eigene Neutralitätsgefühl beseitigt weder Konflikt noch Anschein.",
+      "Richtig: Abgeben und enthalten sichert die sachliche Entscheidung.",
+      "Falsch: Nachträgliches Zeigen und Zuschauen heilen die Mitwirkung nicht.",
+      "Falsch: Der Konflikt hängt weder von der Notenrichtung noch von der Summe ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professorin Sailer soll in der Maturaklasse ihre eigene Tochter in einer knappen Grenzentscheidung mündlich prüfen und sitzt gleichzeitig in der Kommission über einen Lieferauftrag der Schule, unter den Anbietern ist die Firma ihrer Ehefrau. Sie will beides selbst übernehmen, weil sie sich für völlig sachlich hält.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Beide Einteilungen sind verbotene Benachteiligungen und müssen sofort geändert werden. Im Dienst darf niemand wegen des Geschlechts, einer Behinderung oder der Religion benachteiligt werden, Aufwand und Humor rechtfertigen nichts. Zum Nachlesen: LDG §29 Abs.4",
+    "hauptquelle": "LDG §29 Abs.4",
+    "id": "B20-L4-003",
+    "level": "L4",
+    "modul_id": "B20",
+    "optionen": [
+      "Beides ist zulässige Klassenführung nach Erfahrung und Tradition.",
+      "Beides verletzt das Verbot der Benachteiligung und muss sofort geändert werden.",
+      "Erst auf schriftliche Beschwerde der Betroffenen wird es ein Problem.",
+      "Gute Absicht, Fleiß und Humor heilen Einteilung und Spott."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erfahrung und Tradition rechtfertigen keine Diskriminierung.",
+      "Richtig: Aufgaben nach Geschlecht sortieren und Ausschluss trotz Barrierefreiheit sind verboten.",
+      "Falsch: Das Verbot gilt unabhängig von Beschwerden.",
+      "Falsch: Absicht heilt die Benachteiligung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Werklehrer Denk teilt ein ganzes Semester so ein, dass Burschen alle Maschinenzeiten erhalten und Mädchen nur aufräumen und dekorieren. Seine Kollegin Egger schließt parallel einen gehbehinderten Schüler vom Wandertag aus, obwohl die Strecke vollständig barrierefrei wäre, und verspottet einen fastenden Schüler wegen seines Glaubens. Beide berufen sich auf Bewährung, Aufwand und Humor.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Falk muss die Aufsicht wahrnehmen und Hartl muss erst remonstrieren statt zu ignorieren oder blind zu gehorchen. Die Einteilung der Leitung bindet bis zur dienstlichen Änderung, und wer eine sonstige Weisung für rechtswidrig hält, teilt Bedenken mit und verlangt die schriftliche Erteilung. Zum Nachlesen: LDG §30 Abs.1",
+    "hauptquelle": "LDG §30 Abs.1",
+    "id": "B20-L4-004",
+    "level": "L4",
+    "modul_id": "B20",
+    "optionen": [
+      "Falk darf fernbleiben und Hartl darf die Weisung einfach ignorieren.",
+      "Falk muss die eingeteilte Aufsicht übernehmen und Hartl muss vor Befolgung ihre Bedenken mitteilen und die schriftliche Erteilung verlangen.",
+      "Ein eigenmächtiger Tausch mit einem Freund ersetzt Falks Einteilung.",
+      "Über beide Weisungen stimmt das Kollegium per Mehrheit ab."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Lästig und Abwarten sind keine Verfahren.",
+      "Richtig: Einteilung bindet und Bedenken kommen vor der Befolgung.",
+      "Falsch: Tauschen geht nur über die Vorgesetzte.",
+      "Falsch: Über Weisungen wird nicht abgestimmt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Falk bleibt der ihm von der Direktorin zugeteilten Pausenaufsicht nach Rangeleien am Gang ohne triftigen Grund fern und tauscht eigenmächtig mit einem Freund. Seine Kollegin Hartl hält parallel eine mündliche Anordnung ihres Direktors zur Vergabe von Prüfungsterminen für rechtswidrig, strafbar wäre die Befolgung aber nicht, und fragt sich, wie sie korrekt vorgeht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §30 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Berger und der junge Lehrer sind beide vor entwürdigendem Verhalten zu schützen und die Leitung muss jeweils einschreiten. Kollegen schulden einander Achtung statt Ausgrenzung und Bloßstellung, und Vorgesetzte schulden sie erst recht statt Drohung und Strafarbeiten. Zum Nachlesen: LDG §29a",
+    "hauptquelle": "LDG §29a",
+    "id": "B20-L4-005",
+    "level": "L4",
+    "modul_id": "B20",
+    "optionen": [
+      "Monatelange Ausgrenzung als üblicher Einstand ist hinzunehmen.",
+      "Vorgesetzte müssen Mitarbeitern mit Achtung begegnen und Bedingungen guter Zusammenarbeit schaffen.",
+      "Regelmäßiges Anschreien vor dem Kollegium mit Drohungen verletzt dieses Gebot.",
+      "Ohne körperliche Gewalt liegt kein Fehlverhalten vor.",
+      "Die Direktion darf sich unter Gleichgestellten nicht einmischen.",
+      "Erst bei Krankmeldung liegt ein Verstoß vor."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einstand tarnt keine systematische Schikane.",
+      "Richtig: Achtung gilt gerade auch von oben nach unten.",
+      "Richtig: Entwürdigendes Verhalten ist verboten.",
+      "Falsch: Auch seelische Herabsetzung verletzt die Würde.",
+      "Falsch: Gerade dann ist Hinsehen und Einschreiten gefordert.",
+      "Falsch: Der Verstoß liegt im Verhalten, nicht erst in Folgen."
+    ],
+    "richtig": [
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Kollegen streichen die neue Kollegin Berger monatelang aus allen Verteilern, machen sie in Konferenzen lächerlich und stellen sie vor ihrer eigenen Klasse bloß. Gleichzeitig brüllt der Schulleiter einen jungen Lehrer regelmäßig vor versammeltem Kollegium an, trägt ihm sinnlose Strafarbeiten auf und droht mit Nachteilen bei Beschwerde. Beide Opfer bitten um Hilfe.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Koller hätte an der Entscheidung nicht mitwirken dürfen und muss sich enthalten, soweit das zumutbar möglich ist. Schon der Anschein, persönliche Interessen könnten die Unparteilichkeit trüben, ist zu vermeiden, bei Angehörigenaufträgen gilt das erst recht. Zum Nachlesen: LDG §29 Abs.2",
+    "hauptquelle": "LDG §29 Abs.2",
+    "id": "B20-L4-006",
+    "level": "L4",
+    "modul_id": "B20",
+    "optionen": [
+      "Schon der Anschein fehlender Unparteilichkeit ist zu vermeiden.",
+      "Die Mitwirkung an der Vergabe an die Firma der Ehefrau begründet diesen Anschein.",
+      "Der Lehrer muss sich enthalten, soweit das zumutbar möglich ist.",
+      "Innerliche Neutralität allein beseitigt den problematischen Anschein.",
+      "Erst ab einer bestimmten Auftragssumme müsste er sich enthalten.",
+      "Die Stimme dem Vorsitz zu überlassen heilt die eigene Mitwirkung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Auch vermeintliche Konflikte sind zu vermeiden.",
+      "Richtig: Angehörigenaufträge sind das Musterbeispiel dafür.",
+      "Richtig: Enthaltung sichert die Sauberkeit des Verfahrens.",
+      "Falsch: Das eigene Neutralitätsgefühl beseitigt den Anschein nicht.",
+      "Falsch: Auf eine Geldgrenze kommt es nicht an.",
+      "Falsch: Auch mittelbare Mitwirkung bleibt problematisch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Koller sitzt in der Kommission über einen Lieferauftrag der Schule, unter den Anbietern ist die Firma seiner Ehefrau. Er meint, er könne trotzdem neutral abstimmen, bleibt im Verfahren und will notfalls nur seine Stimme dem Vorsitz überlassen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Gruber darf und muss die Fälschung verweigern und Hofer darf die Anordnung des Elternvereins ablehnen. Bei Verstoß gegen strafgesetzliche Vorschriften darf die Befolgung abgelehnt werden, und nur Weisungen von Vorgesetzten binden, nicht Mehrheiten Externer. Zum Nachlesen: LDG §30 Abs.2",
+    "hauptquelle": "LDG §30 Abs.2",
+    "id": "B20-L4-007",
+    "level": "L4",
+    "modul_id": "B20",
+    "optionen": [
+      "Die Befolgung darf abgelehnt werden, wenn sie gegen strafgesetzliche Vorschriften verstieße.",
+      "Rückdatiertes Fälschen eines Protokolls mit fremder Unterschrift ist ein solcher Fall.",
+      "Befolgt werden müssen nur Weisungen von Vorgesetzten, der Elternverein ist keiner.",
+      "Die Anordnung Unzuständiger darf abgelehnt werden.",
+      "Weisungen von Vorgesetzten haben immer Vorrang, auch bei Strafbarkeit.",
+      "Ausführen und danach reumütig melden macht die Fälschung zulässig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Strafbarkeit trägt die Ablehnung.",
+      "Richtig: Fälschen und Fremdunterschrift sind strafrechtlich relevant.",
+      "Richtig: Nur Vorgesetztenweisungen binden, der Verein steht außerhalb der Kette.",
+      "Richtig: Unzuständigkeit trägt die Ablehnung.",
+      "Falsch: Kein Vorgesetzter kann zu Straftaten verpflichten.",
+      "Falsch: Auch reumütige Ausführung bleibt strafbar."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Abteilungsvorstand verlangt von Lehrer Gruber, ein Sitzungsprotokoll rückwirkend zu fälschen und eine fremde Unterschrift darunterzusetzen, damit eine Frist gewahrt scheint. Gleichzeitig ordnet der Obmann des Elternvereins mit Mehrheitsbeschluss an, dass eine Schularbeit verschoben und milder benotet wird. Beide Lehrer zweifeln, ob sie folgen müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Stillstand verletzt die Fortbildungspflicht. Lehrpersonen müssen laufend um ihre berufliche Fortbildung bestrebt sein, unabhängig von Dienstalter und Erfahrung. Zum Nachlesen: LDG §29 Abs.3",
+    "hauptquelle": "LDG §29 Abs.3",
+    "id": "B20-L4-008",
+    "level": "L4",
+    "modul_id": "B20",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Erfahrung entbindet nicht vom Dazulernen.",
+      "Richtig erkannt: Das Bemühen um Fortbildung ist laufende Pflicht für alle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, wer seit über zehn Jahren unterrichte, müsse sich um keine Fortbildung mehr bemühen, weil die damalige Ausbildung für immer reiche, und disziplinar könne das ohnehin nie relevant werden.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]
