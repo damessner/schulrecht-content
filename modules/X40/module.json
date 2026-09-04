@@ -1,0 +1,16 @@
+{
+  "id": "X40",
+  "titel": "Notfall-Assistent",
+  "saeule": "X-Transfer",
+  "status": "leer",
+  "quelle": [
+    "SchUG",
+    "LDG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json",
+    "L4.json"
+  ]
+}

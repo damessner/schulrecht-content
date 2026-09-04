@@ -1,6 +1,6 @@
 {
   "name": "schulrecht-trainer-content",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "stand": "04.09.2026",
   "base_raw": "https://raw.githubusercontent.com/damessner/schulrecht-content/main",
   "batches": [
@@ -229,6 +229,91 @@
       "titel": "Schulweg/Beförderung/Heime",
       "saeule": "C-TirolSOG",
       "path": "modules/C36"
+    },
+    {
+      "id": "A20",
+      "titel": "Schularbeiten/Tests Praxis",
+      "saeule": "A-SchUG",
+      "path": "modules/A20"
+    },
+    {
+      "id": "A21",
+      "titel": "Wiederholung im Detail",
+      "saeule": "A-SchUG",
+      "path": "modules/A21"
+    },
+    {
+      "id": "A22",
+      "titel": "Nachtrag/Semester/Feststellung",
+      "saeule": "A-SchUG",
+      "path": "modules/A22"
+    },
+    {
+      "id": "A23",
+      "titel": "Aufsicht/Unfall Brücke",
+      "saeule": "A-SchUG",
+      "path": "modules/A23"
+    },
+    {
+      "id": "A24",
+      "titel": "Krise/Gewalt-Intervention",
+      "saeule": "A-SchUG",
+      "path": "modules/A24"
+    },
+    {
+      "id": "B31",
+      "titel": "Aufsichtspflicht Haftung Dienstrecht",
+      "saeule": "B-LDG",
+      "path": "modules/B31"
+    },
+    {
+      "id": "B32",
+      "titel": "Fortbildung",
+      "saeule": "B-LDG",
+      "path": "modules/B32"
+    },
+    {
+      "id": "B33",
+      "titel": "Dienstzeit/Supplierung Praxis",
+      "saeule": "B-LDG",
+      "path": "modules/B33"
+    },
+    {
+      "id": "B34",
+      "titel": "Gleichbehandlung/Datenschutz Dienst",
+      "saeule": "B-LDG",
+      "path": "modules/B34"
+    },
+    {
+      "id": "C37",
+      "titel": "Datenschutz/Akten",
+      "saeule": "C-TirolSOG",
+      "path": "modules/C37"
+    },
+    {
+      "id": "C38",
+      "titel": "Bau/Sicherheit",
+      "saeule": "C-TirolSOG",
+      "path": "modules/C38"
+    },
+    {
+      "id": "C39",
+      "titel": "Eltern/Heime/Beförderung Praxis",
+      "saeule": "C-TirolSOG",
+      "path": "modules/C39"
+    },
+    {
+      "id": "X40",
+      "titel": "Notfall-Assistent",
+      "saeule": "X-Transfer",
+      "path": "modules/X40"
+    },
+    {
+      "id": "X41",
+      "titel": "Fristen-Master",
+      "saeule": "X-Transfer",
+      "path": "modules/X41"
     }
-  ]
+  ],
+  "target": "2500 Fragen: 50 Module x 50 (L1 15 + L2 15 + L3 12 + L4 8)"
 }

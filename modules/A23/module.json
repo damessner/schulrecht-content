@@ -1,0 +1,16 @@
+{
+  "id": "A23",
+  "titel": "Aufsicht/Unfall Brücke",
+  "saeule": "A-SchUG",
+  "status": "leer",
+  "quelle": [
+    "SchUG",
+    "LDG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json",
+    "L4.json"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "X41",
+  "titel": "Fristen-Master",
+  "saeule": "X-Transfer",
+  "status": "leer",
+  "quelle": [
+    "SchUG",
+    "LDG",
+    "TirSOG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json",
+    "L4.json"
+  ]
+}

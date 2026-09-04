@@ -1,0 +1,15 @@
+{
+  "id": "A24",
+  "titel": "Krise/Gewalt-Intervention",
+  "saeule": "A-SchUG",
+  "status": "leer",
+  "quelle": [
+    "SchUG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json",
+    "L4.json"
+  ]
+}

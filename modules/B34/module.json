@@ -1,0 +1,15 @@
+{
+  "id": "B34",
+  "titel": "Gleichbehandlung/Datenschutz Dienst",
+  "saeule": "B-LDG",
+  "status": "leer",
+  "quelle": [
+    "LDG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json",
+    "L4.json"
+  ]
+}

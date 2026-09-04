@@ -1,0 +1,15 @@
+{
+  "id": "A21",
+  "titel": "Wiederholung im Detail",
+  "saeule": "A-SchUG",
+  "status": "leer",
+  "quelle": [
+    "SchUG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json",
+    "L4.json"
+  ]
+}

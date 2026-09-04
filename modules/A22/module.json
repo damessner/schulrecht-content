@@ -1,0 +1,15 @@
+{
+  "id": "A22",
+  "titel": "Nachtrag/Semester/Feststellung",
+  "saeule": "A-SchUG",
+  "status": "leer",
+  "quelle": [
+    "SchUG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json",
+    "L4.json"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "C37",
+  "titel": "Datenschutz/Akten",
+  "saeule": "C-TirolSOG",
+  "status": "leer",
+  "quelle": [
+    "TirSOG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json",
+    "L4.json"
+  ]
+}
