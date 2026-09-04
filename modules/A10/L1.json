@@ -1,1 +1,425 @@
-[]
+[
+  {
+    "aufloesung": "Julian darf ansuchen. Ab dem achten Jahr der Schulpflicht können bis zu fünf Tage im Jahr für persönliche Berufsorientierung erlaubt werden. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L1-001",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Nein, Freistellung für Berufsorientierung ist niemals möglich.",
+      "Ja, ab dem achten Jahr der Schulpflicht sind bis zu fünf Tage pro Jahr auf Ansuchen möglich.",
+      "Ja, aber nur für Schüler mit lauter sehr guten Noten.",
+      "Nein, das gilt nur in den Sommerferien."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Freistellung ist ausdrücklich vorgesehen.",
+      "Richtig: Achtes Pflichtjahr plus Fünftagesgrenze plus Ansuchen.",
+      "Falsch: Noten spielen dafür keine Rolle.",
+      "Falsch: Es geht um Fernbleiben vom Unterricht, nicht um Ferien."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "Julian, 14 Jahre alt in der vierten Klasse Mittelschule in Villach, will drei Tage in einer Autowerkstatt verbringen, um seinen Berufswunsch zu prüfen. Er fragt, ob er dafür vom Unterricht freigestellt werden kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Jüngere Schüler fallen hinaus. Erst ab dem achten Jahr der Schulpflicht kann die Erlaubnis erteilt werden, davor nicht. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L1-002",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Ja, das Alter spielt keine Rolle.",
+      "Nein, vor dem achten Jahr der Schulpflicht ist die Erlaubnis nicht möglich.",
+      "Ja, aber nur mit Genehmigung des Ministers.",
+      "Nein, nur Volljährige dürfen schnuppern."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Altersgrenze ist eindeutig.",
+      "Richtig: Erst ab dem achten Pflichtjahr öffnet sich dieser Weg.",
+      "Falsch: Ein Ministerium braucht es dafür nicht.",
+      "Falsch: Volljährigkeit ist keine Voraussetzung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die Eltern des elfjährigen Tim, der die zweite Klasse einer Mittelschule in Graz besucht, wollen ihn eine Woche in einem Betrieb schnuppern lassen und bitten um Freistellung vom Unterricht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Fünf Tage sind die Obergrenze. Pro Unterrichtsjahr können höchstens fünf Tage erlaubt werden, mehr nicht. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L1-003",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Es gibt keine Begrenzung, die Eltern bestimmen die Dauer.",
+      "Es sind höchstens fünf Tage pro Unterrichtsjahr möglich.",
+      "Es ist genau ein Tag pro Schullaufbahn erlaubt.",
+      "Es sind zwanzig Tage pro Semester möglich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Unbegrenzt ist die Freistellung nicht.",
+      "Richtig: Fünf Tage im Jahr, das ist die Grenze.",
+      "Falsch: Ein einziger Tag wäre zu streng.",
+      "Falsch: Zwanzig Tage sprengen den Rahmen deutlich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nina hat in diesem Schuljahr bereits fünf Tage persönliche Berufsorientierung in einer Bäckerei und einem Friseursalon verbracht und will nun noch drei weitere Tage in einem Hotel dranhängen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ohne Ansuchen keine Erlaubnis. Die Freistellung setzt ein Ansuchen des Schülers voraus, automatisch passiert nichts. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L1-004",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Die Schule stellt automatisch alle frei, ein Ansuchen ist unnötig.",
+      "Die Erlaubnis setzt ein Ansuchen des Schülers voraus.",
+      "Es genügt, wenn die Freunde des Schülers ansuchen.",
+      "Ein Anruf des Betriebs ersetzt jedes Ansuchen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Automatisch passiert hier nichts.",
+      "Richtig: Erst ansuchen, dann entscheiden.",
+      "Falsch: Freunde können nicht für andere ansuchen.",
+      "Falsch: Der Betrieb ersetzt das Ansuchen des Schülers nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Felix bleibt einfach drei Tage vom Unterricht einer Polytechnischen Schule in Linz fern und erklärt danach, das sei seine persönliche Berufsorientierung in einer Schlosserei gewesen. Ein Ansuchen hat er nie gestellt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Klassenvorstand wägt ab. Er erlaubt das Fernbleiben nach Abwägung zwischen schulischem Fortkommen und dem Nutzen der Orientierung. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L1-005",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Der Klassenvorstand erlaubt nach Abwägung von schulischem Fortkommen und Orientierungsnutzen.",
+      "Jeder Lehrer einzeln darf nach Lust und Laune erlauben.",
+      "Die Mitschüler stimmen über die Erlaubnis ab.",
+      "Niemand darf erlauben, die Entscheidung trifft der Zufall."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese Abwägung trifft der Klassenvorstand.",
+      "Falsch: Einzelne Lehrer entscheiden nicht beliebig, zuständig ist der Klassenvorstand.",
+      "Falsch: Mitschüler stimmen über die Erlaubnis nicht ab.",
+      "Falsch: Zufall entscheidet hier nichts."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena, achte Schulstufe in einer Mittelschule in Salzburg, steht in Mathematik auf der Kippe und will trotzdem fünf Tage in einem Kindergarten schnuppern. Wer entscheidet darüber und wonach richtet sich die Entscheidung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Unterricht bleibt die Basis. Die Orientierung baut auf dem Unterricht auf und dient der Information über Berufswelt und Ausbildungsangebote sowie der Berufswahlreife. Zum Nachlesen: SchUG §13b Abs.2.",
+    "hauptquelle": "SchUG §13b Abs.2",
+    "id": "A10-L1-006",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Sie ersetzt den Unterricht vollständig und hat keinen Bezug dazu.",
+      "Sie baut auf dem Unterricht auf und fördert Information und Berufswahlreife.",
+      "Sie dient nur als bezahlter Ferienjob.",
+      "Sie ist reiner Urlaub ohne jedes Ziel."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ersatz für Unterricht ist sie nicht.",
+      "Richtig: Aufbauend informieren und die Wahlreife stärken.",
+      "Falsch: Als Jobmodell ist sie nicht gedacht.",
+      "Falsch: Ziellos ist sie keineswegs."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vater fragt dich als Klassenvorstand in Eisenstadt, was sein Sohn bei den Schnuppertagen in einem Elektrobetrieb eigentlich lernen soll und ob das mit der Schule überhaupt etwas zu tun hat.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Konkrete Einblicke gehören dazu. Neben Information soll die Orientierung auch sozial- und wirtschaftskundliche Einblicke in die Arbeitswelt ermöglichen. Zum Nachlesen: SchUG §13b Abs.2.",
+    "hauptquelle": "SchUG §13b Abs.2",
+    "id": "A10-L1-007",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Es reicht, Prospekte des Betriebs zu lesen.",
+      "Es sollen auch konkrete sozial- und wirtschaftskundliche Einblicke in die Arbeitswelt ermöglicht werden.",
+      "Es zählt nur die Anwesenheitsbestätigung am Ende.",
+      "Es geht nur um das Mittagessen im Betrieb."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Prospekte allein genügen dem Ziel nicht.",
+      "Richtig: Echte Einblicke ins Arbeitsleben gehören dazu.",
+      "Falsch: Eine Bestätigung allein ist kein Inhalt.",
+      "Falsch: Verpflegung ist kein Orientierungsziel."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selina verbringt ihre Schnuppertage in einem Geschäft in Klagenfurt damit, im Pausenraum zu sitzen und am Handy zu spielen. Die Chefin fragt, was inhaltlich von solchen Tagen eigentlich zu erwarten ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Mitarbeit im Betrieb ist verboten. Im Betrieb darf der Schüler nicht in den Arbeitsprozess eingegliedert werden, es geht um Zuschauen und Kennenlernen. Zum Nachlesen: SchUG §13b Abs.3.",
+    "hauptquelle": "SchUG §13b Abs.3",
+    "id": "A10-L1-008",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Ja, sie darf wie eine normale Arbeitskraft voll eingesetzt werden.",
+      "Nein, eine Eingliederung in den Arbeitsprozess ist nicht zulässig.",
+      "Ja, wenn sie dafür bezahlt wird, ist alles erlaubt.",
+      "Ja, aber nur für gefährliche Arbeiten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Volle Mitarbeit widerspricht dem Zweck der Orientierung.",
+      "Richtig: Zuschauen und Kennenlernen ja, Eingliederung nein.",
+      "Falsch: Bezahlung ändert am Verbot nichts.",
+      "Falsch: Gefährliche Arbeiten sind erst recht ausgeschlossen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Aylin macht persönliche Berufsorientierung in einem Geschäft in Innsbruck. Der Chef will sie voll im Verkauf und im Lager einsetzen und als Ersatz für eine erkrankte Mitarbeiterin verwenden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Hinweis ist Pflicht. Der Schüler ist auf die wichtigen Schutzregeln wie Jugendschutz, Arbeitnehmerschutz und Hygienevorschriften hinzuweisen. Zum Nachlesen: SchUG §13b Abs.3.",
+    "hauptquelle": "SchUG §13b Abs.3",
+    "id": "A10-L1-009",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Nein, Hinweise auf Schutzregeln sind unnötig.",
+      "Ja, der Schüler ist auf Jugendschutz, Arbeitnehmerschutz und Hygienevorschriften hinzuweisen.",
+      "Es genügt ein Hinweis auf die Kantinenpreise.",
+      "Hinweise gibt es nur für Volljährige."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Hinweise wäre der Schnuppertag fahrlässig.",
+      "Richtig: Schutzregeln erklären gehört zur Vorbereitung.",
+      "Falsch: Kantinenpreise ersetzen keine Schutzhinweise.",
+      "Falsch: Gerade Jüngere brauchen die Hinweise."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Moritz, 14 Jahre alt, schnuppert in einer Tischlerei in Dornbirn mit lauten Maschinen und Schutzkleidung. Niemand hat ihm erklärt, welche Schutzregeln für ihn gelten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Aufsicht nach Alter und Reife ist Pflicht. Während der Orientierung müssen die Schüler in einem Ausmaß beaufsichtigt werden, das Alter, Reife und Umständen entspricht. Zum Nachlesen: SchUG §13b Abs.4.",
+    "hauptquelle": "SchUG §13b Abs.4",
+    "id": "A10-L1-010",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Nein, beaufsichtigt werden muss niemand.",
+      "Ja, die Beaufsichtigung richtet sich nach Alter, Reife und den Umständen.",
+      "Ja, aber nur per Videoanruf aus der Schule.",
+      "Nein, Aufsicht brauchen nur die Betriebsinhaber."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ganz ohne Aufsicht geht es nicht.",
+      "Richtig: Passende Aufsicht je nach Alter und Reife.",
+      "Falsch: Ein Videoanruf ersetzt keine Aufsicht vor Ort.",
+      "Falsch: Um die Inhaber geht es hier nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die dreizehnjährige Emir soll im Rahmen ihrer Schnuppertage in Wels stundenlang allein in einer Filiale zurückbleiben, weil die Chefin Termine hat. Die Eltern fragen, ob das in Ordnung ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Vorschlag kommt von Eltern oder Einrichtung. Geeignete Aufsichtspersonen werden auf Vorschlag der Erziehungsberechtigten oder der besuchten Einrichtung festgelegt. Zum Nachlesen: SchUG §13b Abs.4.",
+    "hauptquelle": "SchUG §13b Abs.4",
+    "id": "A10-L1-011",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Der Schüler bestimmt seine Aufsicht allein.",
+      "Die Aufsichtspersonen werden auf Vorschlag der Erziehungsberechtigten oder der Einrichtung festgelegt.",
+      "Es gibt keine festgelegten Aufsichtspersonen.",
+      "Die Aufsicht lost der Zufall aus."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Allein bestimmt der Schüler das nicht.",
+      "Richtig: Vorschlag von Eltern oder Einrichtung, Festlegung danach.",
+      "Falsch: Ohne Festlegung geht es nicht.",
+      "Falsch: Gelost wird hier nichts."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor den Schnuppertagen ihres Sohnes in einer Werkstatt in St. Pölten fragen die Eltern, wer die Aufsichtsperson dort festlegt und ob sie jemanden vorschlagen dürfen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Auch mittlere und höhere Schulen sind dabei. Die Möglichkeit steht Schülern allgemein bildender sowie berufsbildender mittlerer und höherer Schulen offen. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L1-012",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Nein, nur Mittelschüler dürfen schnuppern.",
+      "Ja, auch Schüler mittlerer und höherer berufsbildender Schulen können die Erlaubnis bekommen.",
+      "Nein, Gymnasiasten sind grundsätzlich ausgeschlossen.",
+      "Ja, aber nur Berufsschüler im Lehrverhältnis."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auf eine Schulart beschränkt ist das nicht.",
+      "Richtig: Allgemein bildende plus mittlere und höhere berufsbildende.",
+      "Falsch: Ausgeschlossen sind Gymnasiasten nicht.",
+      "Falsch: Auf Lehrlinge beschränkt ist es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BHS",
+      "BS"
+    ],
+    "situation": "Lukas besucht die neunte Schulstufe einer Handelsakademie in Linz und will zwei Tage an einer Fachhochschule verbringen, um sich über Ausbildungswege zu informieren. Er fragt, ob das nur für Pflichtschüler gedacht ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei schwachen Leistungen kann die Erlaubnis verweigert werden. Wenn das schulische Fortkommen überwiegt, etwa bei stark gefährdetem Abschluss, fällt die Abwägung gegen das Fernbleiben aus. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L1-013",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Nein, die Erlaubnis muss immer erteilt werden.",
+      "Ja, bei stark gefährdetem Fortkommen kann die Abwägung gegen die Freistellung ausfallen.",
+      "Ja, aber nur bei schlechtem Betragen.",
+      "Nein, Noten dürfen nie eine Rolle spielen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Automatismus besteht nicht, es wird abgewogen.",
+      "Richtig: Gefährdetes Fortkommen kann die Freistellung kippen.",
+      "Falsch: Um Betragen geht es hier nicht.",
+      "Falsch: Das Fortkommen fließt ausdrücklich in die Abwägung ein."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David steht in drei Fächern auf Nicht genügend und will ausgerechnet in der Woche vor den entscheidenden Prüfungen fünf Tage schnuppern gehen. Sein Klassenvorstand in Wels zögert mit der Erlaubnis.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Krankheit entschuldigt auch hier. Wie sonst im Unterricht gelten die normalen Regeln über gerechtfertigtes Fernbleiben, etwa bei Krankheit. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L1-014",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Nein, genehmigte Schnuppertage kennen keine Entschuldigung.",
+      "Ja, bei gerechtfertigter Verhinderung wie Krankheit gelten die normalen Fernbleiberegeln.",
+      "Ja, aber nur mit Attest aus dem Krankenhaus.",
+      "Nein, der Tag gilt dann als unentschuldigt geschwänzt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schutzlos ist niemand gestellt.",
+      "Richtig: Krankheit entschuldigt wie im normalen Unterricht.",
+      "Falsch: Ein Krankenhausaufenthalt ist nicht nötig.",
+      "Falsch: Geschwänzt hat nicht, wer krank ist und sich meldet."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Jonas hat zwei bewilligte Schnuppertage in einer Bank in Salzburg, liegt aber mit Fieber im Bett. Seine Mutter fragt, ob sie ihn wie bei normalem Unterricht entschuldigen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Betrieb darf kein Ersatzarbeitsplatz sein. Orientierung heißt informieren und Einblicke gewinnen, nicht fehlendes Personal ersetzen oder voll mitarbeiten. Zum Nachlesen: SchUG §13b Abs.3.",
+    "hauptquelle": "SchUG §13b Abs.3",
+    "id": "A10-L1-015",
+    "level": "L1",
+    "modul_id": "A10",
+    "optionen": [
+      "Ja, als billige Aushilfe ist der Schüler willkommen.",
+      "Nein, der Schüler darf nicht als Ersatzarbeitskraft in den Arbeitsprozess eingegliedert werden.",
+      "Ja, wenn der Schüler einverstanden ist, ist alles erlaubt.",
+      "Nein, Betriebe dürfen Schüler gar nicht erst hereinlassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Als Aushilfe missbrauchen darf man Schnupperer nicht.",
+      "Richtig: Orientierung statt Eingliederung, das ist die Grenze.",
+      "Falsch: Zustimmung heilt den Verstoß nicht.",
+      "Falsch: Hereinlassen dürfen Betriebe sie sehr wohl."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Gastwirt in Innsbruck freut sich, dass er während der Schnupperwoche von Sophie den Abwasch und das Servieren komplett von ihr erledigen lassen kann, weil gerade Personalmangel herrscht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

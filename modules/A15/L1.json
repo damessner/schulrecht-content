@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "aufloesung": "Alle drei Punkte müssen zutreffen. Ohne berechtigendes Zeugnis, altersentsprechend und ohne Vorjahresbesuch der berechtigenden Stufe lässt die Schulleitung zur Einstufungsprüfung zu. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "id": "A15-L1-001",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Jedes Kind darf jederzeit ohne Voraussetzungen zur Einstufungsprüfung antreten.",
+      "Zur Einstufungsprüfung wird zugelassen, wer kein berechtigendes Zeugnis hat, altersentsprechend ist und im Vorjahr keine berechtigende Stufe besucht hat.",
+      "Es genügt, wenn die Eltern die Prüfung schriftlich verlangen.",
+      "Zugelassen wird nur, wer bereits ein berechtigendes Zeugnis besitzt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Voraussetzungen gibt es sehr wohl, prüfe alle drei.",
+      "Richtig: Genau diese drei Bedingungen öffnen den Weg zur Prüfung.",
+      "Falsch: Ein Elternwunsch allein ersetzt die Voraussetzungen nicht.",
+      "Falsch: Wer berechtigt ist, braucht die Einstufungsprüfung gar nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Novak zieht aus dem Ausland nach Wien. Ihr Sohn, altersentsprechend für die dritte Klasse Mittelschule, hat kein Zeugnis einer berechtigten Schule und hat im Vorjahr auch keine solche Stufe besucht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Es geht um die Vorbildung. Die Prüfung stellt fest, ob das bisher Gelernte für die angestrebte Schulstufe ausreicht. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "id": "A15-L1-002",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Sie stellt fest, ob das Kind hochbegabt ist.",
+      "Sie stellt fest, ob die Vorbildung für die angestrebte Schulstufe ausreicht.",
+      "Sie ersetzt das Betragenzeugnis der Vorstufe.",
+      "Sie prüft nur die sportliche Fitness des Kindes."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Um Hochbegabung geht es hier nicht.",
+      "Richtig: Vorbildung für die Zielstufe, das ist der Prüfzweck.",
+      "Falsch: Betragen wird hier nicht geprüft.",
+      "Falsch: Sport allein entscheidet über keine Einstufung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Mutter in Graz fragt dich als Lehrer, wozu ihr Sohn überhaupt eine Einstufungsprüfung ablegen soll, bevor er in die vierte Stufe der Grundschule aufgenommen werden kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Gute Mitarbeit kann die Prüfung ersetzen. Wer im Unterricht und bei Leistungsfeststellungen zeigt, dass er den Stoff der Vorstufen in den wesentlichen Bereichen überwiegend erfüllt, dem kann die Prüfung erlassen werden. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "id": "A15-L1-003",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Nein, die Prüfung muss immer vollständig abgelegt werden.",
+      "Ja, die Prüfung kann entfallen, wenn Mitarbeit und Leistungen zeigen, dass der Vorstufenstoff überwiegend erfüllt ist.",
+      "Ja, aber nur wenn die Eltern dafür bezahlen.",
+      "Nein, Mitarbeit zählt grundsätzlich nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Entfall ist ausdrücklich möglich.",
+      "Richtig: Überzeugende Mitarbeit plus Leistungsfeststellungen können genügen.",
+      "Falsch: Geld spielt keine Rolle.",
+      "Falsch: Mitarbeit und eingeordnete Leistungsfeststellungen zählen sehr wohl."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena besucht seit Wochen probeweise den Unterricht einer Mittelschule in Linz und arbeitet in allen Fächern stark mit. Sie fragt, ob sie die Einstufungsprüfung trotzdem vollständig ablegen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Einen Anspruch darauf gibt es nicht. Die Feststellung durch die Lehrkraft überzeugende Mitarbeit erfolgt nach deren Urteil und kann nicht erzwungen werden. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "id": "A15-L1-004",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Ja, bei guter Mitarbeit muss die Prüfung jedenfalls entfallen.",
+      "Nein, auf diese Feststellung durch die Lehrkraft besteht kein Rechtsanspruch.",
+      "Ja, aber nur mit Anwaltsschreiben an die Schule.",
+      "Nein, weil Mitarbeit nie berücksichtigt werden darf."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Muss gibt es nicht, es bleibt eine Feststellung der Lehrkraft.",
+      "Richtig: Kein Rechtsanspruch, auch bei subjektiv guter Mitarbeit.",
+      "Falsch: Anwaltsschreiben ändern daran nichts.",
+      "Falsch: Berücksichtigt werden darf sie schon, nur nicht erzwungen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Moritz fordert nach zwei Wochen guten Mitarbeits im Unterricht einer neuen Schule in Salzburg lautstark, dass ihm die Einstufungsprüfung erlassen werden müsse, und seine Eltern drohen mit einer Beschwerde.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Eine zweite Chance gibt es rasch. Innerhalb von zwei Monaten lässt die Schulleitung zur Wiederholung zu, und zwar nur in den Gebieten mit negativer Beurteilung. Zum Nachlesen: SchUG §3 Abs.7a.",
+    "hauptquelle": "SchUG §3 Abs.7a",
+    "id": "A15-L1-005",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Nein, eine nicht bestandene Einstufungsprüfung darf nie wiederholt werden.",
+      "Ja, binnen zwei Monaten dürfen die negativ beurteilten Gebiete wiederholt werden.",
+      "Ja, aber erst nach einem vollen Wartejahr mit allen Gebieten.",
+      "Nein, er muss stattdessen die Volksschule von vorn beginnen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine Wiederholung ist ausdrücklich vorgesehen.",
+      "Richtig: Zwei Monate Frist und nur die negativen Gebiete.",
+      "Falsch: Weder Wartejahr noch volle Wiederholung sind nötig.",
+      "Falsch: Von vorn beginnen muss niemand."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David ist bei der Einstufungsprüfung für die Sekundarstufe in Deutsch positiv, in Mathematik aber negativ beurteilt worden. Er fragt, ob und wie er es noch einmal versuchen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "An der Berufsschule gilt die Einstufung nur in Sonderfällen. Nur beim Einstieg in eine höhere als die erste Stufe bei Doppel-Lehre, Fachrichtungswechsel oder verkürzter Lehrzeit kommt sie zum Tragen. Zum Nachlesen: SchUG §3 Abs.7.",
+    "hauptquelle": "SchUG §3 Abs.7",
+    "id": "A15-L1-006",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Für Berufsschulen gilt die Einstufungsprüfung immer und überall.",
+      "An Berufsschulen gilt sie nur für höhere Stufen bei Doppel-Lehre, Fachrichtungswechsel oder verkürzter Lehrzeit.",
+      "Berufsschüler dürfen nie eine Einstufungsprüfung ablegen.",
+      "Es entscheidet allein der Lehrbetrieb ohne Schule."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für Berufsschulen ist der Bereich eng begrenzt.",
+      "Richtig: Nur diese Sonderfälle beim Einstieg über der ersten Stufe.",
+      "Falsch: Ganz ausgeschlossen ist sie nicht.",
+      "Falsch: Der Lehrbetrieb ersetzt das schulische Verfahren nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Jonas lernt zwei Lehrberufe gleichzeitig und soll an der Berufsschule in Innsbruck in einer höheren Stufe in neuer Fachrichtung einsteigen. Der Lehrbetrieb fragt, ob dafür eine Einstufungsprüfung möglich ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Weg über die außerordentliche Aufnahme steht offen. Wer zur Einstufungsprüfung zugelassen wird, kann einstweilen als außerordentlicher Schüler aufgenommen werden. Zum Nachlesen: SchUG §4 Abs.2.",
+    "hauptquelle": "SchUG §4 Abs.2",
+    "id": "A15-L1-007",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Nein, bis zur Prüfung darf das Kind keine Schule besuchen.",
+      "Ja, mit Zulassung zur Einstufungsprüfung ist eine Aufnahme als außerordentlicher Schüler möglich.",
+      "Ja, aber nur als zahlender Gast ohne Rechte.",
+      "Nein, das Kind muss bis zum nächsten Jahr warten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Untätig warten muss niemand.",
+      "Richtig: Außerordentliche Aufnahme überbrückt die Zeit bis zur Prüfung.",
+      "Falsch: Von zahlenden Gästen ist hier keine Rede.",
+      "Falsch: Ein Wartejahr ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Aylin, schulpflichtig und neu aus dem Ausland in Klagenfurt, ist zur Einstufungsprüfung zugelassen. Ihre Eltern fragen, ob sie bis zur Prüfung überhaupt schon eine Schule besuchen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ohne Schulbesuch geht es auch. Wer nie die Schule besucht hat, kann die Berechtigungen einer Schulstufe oder Schulart durch eine entsprechende Prüfung erwerben. Zum Nachlesen: SchUG §42 Abs.1.",
+    "hauptquelle": "SchUG §42 Abs.1",
+    "id": "A15-L1-008",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Nein, Berechtigungen gibt es nur mit jahrelangem Schulbesuch.",
+      "Ja, die Berechtigungen können auch ohne vorherigen Schulbesuch durch diese Prüfung erworben werden.",
+      "Ja, aber nur für die Volksschule.",
+      "Nein, solche Prüfungen gibt es in Österreich nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Weg ohne Schulbesuch ist ausdrücklich vorgesehen.",
+      "Richtig: Prüfung statt Schulbesuch, bei Erfolg gleiche Berechtigung.",
+      "Falsch: Auf die Volksschule beschränkt ist das nicht.",
+      "Falsch: Diese Prüfungsart gibt es sehr wohl."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Emir, 17 Jahre alt und seit Jahren ohne Schulbesuch in Wien, will den Abschluss einer Schulstufe nachholen und fragt dich, ob das ohne vorherigen Schulbesuch überhaupt möglich ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Auch einzelne Fächer gehen. Der Nachweis über die Beherrschung des Stoffes eines bestimmten Gegenstandes in einer Stufe oder Schulart kann so erbracht werden. Zum Nachlesen: SchUG §42 Abs.2.",
+    "hauptquelle": "SchUG §42 Abs.2",
+    "id": "A15-L1-009",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Nein, es müssen immer alle Fächer auf einmal geprüft werden.",
+      "Ja, der Nachweis für einen einzelnen Gegenstand in einer Stufe oder Schulart ist möglich.",
+      "Nein, einzelne Fächer sind von jeder Prüfung ausgeschlossen.",
+      "Ja, aber nur für den Turnunterricht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alles auf einmal ist nicht Pflicht.",
+      "Richtig: Auch einzelne Gegenstände sind prüffähig.",
+      "Falsch: Ausgeschlossen ist das nicht.",
+      "Falsch: Auf ein Fach beschränkt ist die Möglichkeit nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selina braucht für eine Bewerbung in Eisenstadt nur den Nachweis über Mathematik der zehnten Schulstufe einer bestimmten Schulart und fragt, ob sie dafür eine eigene Prüfung ablegen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Geprüft wird vor einer Kommission. Je nach Art der Prüfung sitzt eine eigene Prüfungskommission mit Vorsitz und Fachprüfern, die Behörde kann auch überregionale Kommissionen einrichten. Zum Nachlesen: SchUG §42 Abs.4.",
+    "hauptquelle": "SchUG §42 Abs.4",
+    "id": "A15-L1-010",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Die Prüfung nimmt ein einzelner Bekannter des Prüflings ab.",
+      "Die Prüfung wird vor einer Prüfungskommission mit Vorsitz und Fachprüfern abgelegt.",
+      "Es prüft immer nur ein Computerprogramm.",
+      "Kommissionen sind für diese Prüfungen verboten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bekannte als Einzelprüfer sind nicht vorgesehen.",
+      "Richtig: Kommission mit Vorsitz und Fachprüfern, teils überregional.",
+      "Falsch: Automaten prüfen hier niemanden.",
+      "Falsch: Verboten sind sie nicht, sie sind die Regel."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Felix will in St. Pölten eine Prüfung über einen ganzen Bildungsgang ablegen und fragt, wer ihn prüfen wird und ob das eine einzelne Lehrkraft allein entscheiden kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Vorsitz entscheidet über die Zulassung. Wer zur Prüfung antreten darf, bestimmt der Vorsitzende der Prüfungskommission. Zum Nachlesen: SchUG §42 Abs.5.",
+    "hauptquelle": "SchUG §42 Abs.5",
+    "id": "A15-L1-011",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Die Zulassung entscheidet der Prüfling selbst.",
+      "Für die Zulassung ist der Vorsitzende der Prüfungskommission zuständig.",
+      "Die Zulassung lost das Los.",
+      "Niemand prüft die Zulassung, jeder tritt einfach an."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Selbstzulassung gibt es nicht.",
+      "Richtig: Der Vorsitz prüft und lässt zu.",
+      "Falsch: Gelost wird nichts.",
+      "Falsch: Geprüft wird die Zulassung sehr wohl."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nina reicht in Villach alle Unterlagen für ihre Prüfung über eine Schulstufe ein und fragt, wer eigentlich über ihre Zulassung entscheidet und ob sie einfach zum Termin erscheinen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Alter muss passen. Zum ersten Termin darf der Prüfling nicht jünger sein, als ein Schüler ohne Wiederholen oder Überspringen in diesem Bildungsgang wäre. Zum Nachlesen: SchUG §42 Abs.6.",
+    "hauptquelle": "SchUG §42 Abs.6",
+    "id": "A15-L1-012",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Das Alter spielt überhaupt keine Rolle.",
+      "Der Prüfling darf zum ersten Termin nicht jünger sein als ein regulärer Absolvent des Bildungsgangs.",
+      "Zugelassen wird nur, wer bereits in Pension ist.",
+      "Es gibt nur eine Obergrenze von 18 Jahren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Mindestalter ist ausdrücklich geregelt.",
+      "Richtig: Der Vergleich mit dem regulären Durchlauf entscheidet.",
+      "Falsch: Pension ist keine Voraussetzung.",
+      "Falsch: Eine solche Obergrenze gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der zwölfjährige Tim will in Graz eine Prüfung über einen Bildungsgang ablegen, den reguläre Schüler erst mit etwa siebzehn Jahren abschließen. Seine Eltern fragen, ob das Alter ein Hindernis ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Nach Abbruch gilt eine Wartefrist. Wer Stufen nicht erfolgreich abgeschlossen hat, darf über die Stufe oder Schulart derselben Richtung frühestens ein Jahr nach der zuletzt nicht bestandenen Stufe antreten. Zum Nachlesen: SchUG §42 Abs.6.",
+    "hauptquelle": "SchUG §42 Abs.6",
+    "id": "A15-L1-013",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Er darf sofort in der nächsten Woche antreten.",
+      "Er darf frühestens zwölf Monate nach der zuletzt nicht bestandenen Stufe derselben Richtung antreten.",
+      "Er darf nie wieder antreten.",
+      "Er muss zuerst die Schule wechseln und dann sofort antreten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sofort geht es nach nicht bestandener Stufe nicht.",
+      "Richtig: Zwölf Monate Abstand schützen vor Umgehungen.",
+      "Falsch: Für immer ausgeschlossen ist niemand.",
+      "Falsch: Ein Schulwechsel verkürzt die Frist nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lukas hat im Vorjahr eine Schulstufe einer berufsbildenden Schule in Wels nicht erfolgreich abgeschlossen und will nun sofort über dieselbe Fachrichtung eine externe Prüfung ablegen, um Zeit zu sparen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Es gibt ein eigenes Zeugnis. Über Stufe oder Schulart wird ein eigenes Prüfungszeugnis ausgestellt, über einzelne Fächer eines mit der Fachbeurteilung. Zum Nachlesen: SchUG §42 Abs.10.",
+    "hauptquelle": "SchUG §42 Abs.10",
+    "id": "A15-L1-014",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Es gibt nur eine mündliche Mitteilung ohne Schriftstück.",
+      "Es wird ein eigenes Prüfungszeugnis über Stufe, Schulart oder das geprüfte Fach ausgestellt.",
+      "Es wird einfach das alte Schulzeugnis umgeschrieben.",
+      "Zeugnisse sind hier grundsätzlich verboten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mündlich allein genügt für einen Nachweis nicht.",
+      "Richtig: Eigenes Zeugnis je nach Prüfungsart.",
+      "Falsch: Umgeschrieben wird kein altes Zeugnis.",
+      "Falsch: Verboten sind sie nicht, sie sind vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Aylin hat ihre Prüfung über eine Schulstufe in Innsbruck erfolgreich abgelegt und fragt, welches Schriftstück sie als Nachweis für Bewerbungen erhält.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Vorwissen kann befreien. Wer über einzelne Fächer ein Zeugnis einer berechtigten Schule oder einer solchen Prüfung vorweisen kann, ist auf Ansuchen ganz oder teilweise zu befreien. Zum Nachlesen: SchUG §42 Abs.3.",
+    "hauptquelle": "SchUG §42 Abs.3",
+    "id": "A15-L1-015",
+    "level": "L1",
+    "modul_id": "A15",
+    "optionen": [
+      "Nein, alles muss immer neu geprüft werden.",
+      "Ja, mit passendem Zeugnis kann auf Ansuchen ganz oder teilweise befreit werden.",
+      "Ja, aber nur bei Bestechung der Kommission.",
+      "Nein, Befreiungen sind grundsätzlich ausgeschlossen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Doppelprüfungen trotz Nachweis sind nicht nötig.",
+      "Richtig: Nachweis vorlegen, Ansuchen stellen, Befreiung möglich.",
+      "Falsch: Solche Wege sind selbstverständlich ausgeschlossen.",
+      "Falsch: Ausgeschlossen sind Befreiungen nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David hat in Englisch bereits ein Zeugnis einer berechtigten Schule über denselben Stoff und fragt, ob er bei seiner großen Prüfung in Dornbirn dieses Fach trotzdem noch einmal ablegen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

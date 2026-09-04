@@ -1,1 +1,427 @@
-[]
+[
+  {
+    "aufloesung": "Für diese Kinder ist sie Pflicht. Wer am Stichtag eine Deutschförderklasse besucht, muss abweichend von der Freiwilligkeit am Förderunterricht im Sommer teilnehmen. Zum Nachlesen: SchUG §12 Abs.6a.",
+    "hauptquelle": "SchUG §12 Abs.6a",
+    "id": "A06-L1-001",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Nein, die Sommerschule ist für alle immer freiwillig.",
+      "Ja, für diese Kinder besteht eine Verpflichtung zur Teilnahme.",
+      "Nein, Deutschförderklassenkinder sind ausgeschlossen.",
+      "Ja, aber nur wenn sie sehr gute Noten haben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für diese Gruppe gilt ausnahmsweise eine Pflicht.",
+      "Richtig: Stichtag plus Deutschförderklasse ergibt Teilnahmepflicht.",
+      "Falsch: Ausgeschlossen sind sie nicht, sie sind die Zielgruppe.",
+      "Falsch: Noten spielen dafür keine Rolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Emir besucht am ersten Tag des zweiten Semesters eine Deutschförderklasse an einer Volksschule in Wien. Seine Eltern meinen, die Sommerschule im Sommer sei freiwillig und sie würden lieber verreisen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Auch sie müssen teilnehmen. Wer im Sommer als außerordentlicher Schüler wegen fehlender Sprachkenntnisse aufgenommen wird, ist zur Teilnahme verpflichtet. Zum Nachlesen: SchUG §12 Abs.6a.",
+    "hauptquelle": "SchUG §12 Abs.6a",
+    "id": "A06-L1-002",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Nein, neu Aufgenommene sind immer befreit.",
+      "Ja, für sie besteht die Verpflichtung zur Teilnahme.",
+      "Nein, sie dürfen erst im Herbst kommen.",
+      "Ja, aber nur an Berufsschulen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Befreit sind sie gerade nicht.",
+      "Richtig: Sommeraufnahme als außerordentlicher Schüler plus Sprachbedarf ergibt Pflicht.",
+      "Falsch: Bis Herbst warten ist nicht vorgesehen.",
+      "Falsch: Berufsschulen sind von dieser Pflicht sogar ausgenommen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Aylin wird im Laufe des Sommers als außerordentliche Schülerin wegen fehlender Deutschkenntnisse an einer Mittelschule in Graz aufgenommen. Ihre Familie fragt, ob sie zur Sommerschule muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Berufsschulen sind ausgenommen. Die Pflicht zur Sommerschule für diese Gruppen gilt ausdrücklich nicht an Berufsschulen. Zum Nachlesen: SchUG §12 Abs.6a.",
+    "hauptquelle": "SchUG §12 Abs.6a",
+    "id": "A06-L1-003",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Ja, auch an Berufsschulen gilt die Pflicht uneingeschränkt.",
+      "Nein, an Berufsschulen gilt diese Verpflichtung nicht.",
+      "Ja, aber nur für Lehrlinge im ersten Lehrjahr.",
+      "Nein, Berufsschüler dürfen nie an der Sommerschule teilnehmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Berufsschulen sind von der Pflicht ausgenommen.",
+      "Richtig: Die Ausnahme für Berufsschulen beachten.",
+      "Falsch: Eine Lehrjahrsregel gibt es hier nicht.",
+      "Falsch: Freiwillig teilnehmen dürfen sie trotzdem."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Ein Berufsschüler in Innsbruck, der im Sommer als außerordentlicher Schüler wegen fehlender Sprachkenntnisse aufgenommen wird, fragt, ob er verpflichtend zur Sommerschule muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Deutschförderung ist jedenfalls dabei. Der Sommerunterricht umfasst Pflichtgegenstände und für diese Gruppe jedenfalls Sprachförderung in Deutsch. Zum Nachlesen: SchUG §12 Abs.11.",
+    "hauptquelle": "SchUG §12 Abs.11",
+    "id": "A06-L1-004",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Es gibt nur Sport und Spiele ohne Unterricht.",
+      "Der Unterricht umfasst Pflichtgegenstände und jedenfalls Sprachförderung in Deutsch.",
+      "Es wird nur Englisch unterrichtet.",
+      "Unterrichtsinhalte sind dem Zufall überlassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Reine Spielzeit wäre keine Förderung.",
+      "Richtig: Pflichtgegenstände plus Deutschförderung sind der Kern.",
+      "Falsch: Auf Englisch verengt ist das Angebot nicht.",
+      "Falsch: Dem Zufall überlassen ist hier nichts."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Eltern von Selina, Deutschförderklasse in St. Pölten, fragen dich, was in der Sommerschule eigentlich unterrichtet wird und ob dort auch Deutsch gefördert wird.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bewegung und fächerübergreifendes Arbeiten dürfen ergänzen. Neben dem Unterricht können Bewegungs- und fächerübergreifende Einheiten dazukommen. Zum Nachlesen: SchUG §12 Abs.11.",
+    "hauptquelle": "SchUG §12 Abs.11",
+    "id": "A06-L1-005",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Nein, nur sturer Frontalunterricht ist erlaubt.",
+      "Ja, Bewegungseinheiten und fächerübergreifende Einheiten können ergänzen.",
+      "Nein, Pausen sind in der Sommerschule verboten.",
+      "Ja, aber nur bezahlte Ausflüge ins Ausland."
+    ],
+    "pro_option_feedback": [
+      "Falsch: So eng ist der Rahmen nicht.",
+      "Richtig: Ergänzung durch Bewegung und fächerübergreifendes Lernen ist möglich.",
+      "Falsch: Pausen verbieten wäre unsinnig.",
+      "Falsch: Auslandsausflüge gehören nicht zum Konzept."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin plant die Sommerschule an einer Mittelschule in Klagenfurt und will neben Deutsch und Mathematik auch Sport am Morgen und ein kleines Gartenprojekt anbieten. Sie fragt, ob das zulässig ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Studierende dürfen unter Betreuung unterrichten. Unterricht und Einheiten können von Lehrpersonen oder Lehramtsstudierenden unter Betreuung durch die Leitung durchgeführt werden. Zum Nachlesen: SchUG §12 Abs.11.",
+    "hauptquelle": "SchUG §12 Abs.11",
+    "id": "A06-L1-006",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Nein, nur pensionierte Lehrer dürfen unterrichten.",
+      "Ja, auch Lehramtsstudierende dürfen unter Betreuung durch die Leitung unterrichten.",
+      "Nein, Studierende sind grundsätzlich verboten.",
+      "Ja, aber jeder darf ohne jede Betreuung unterrichten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auf Pensionisten beschränkt ist das nicht.",
+      "Richtig: Studierende unter Betreuung sind ausdrücklich möglich.",
+      "Falsch: Verboten sind sie nicht.",
+      "Falsch: Ohne Betreuung geht es gerade nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Schulleitung einer Volksschule in Eisenstadt will für die Sommerschule zwei Lehramtsstudierende einsetzen, die von einer erfahrenen Lehrerin betreut werden. Das Kollegium zweifelt, ob Studierende unterrichten dürfen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Anmelden geht an beiden Schulen. Die Anmeldung kann an der Stammschule oder an der Schule erfolgen, die im nächsten Schuljahr besucht werden soll. Zum Nachlesen: SchUG §12 Abs.10.",
+    "hauptquelle": "SchUG §12 Abs.10",
+    "id": "A06-L1-007",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Nur an der alten Schule ist die Anmeldung möglich.",
+      "Die Anmeldung kann an der Stammschule oder an der künftigen Schule erfolgen.",
+      "Nur per Post an das Ministerium ist die Anmeldung möglich.",
+      "Eine Anmeldung ist überhaupt nicht nötig, man kommt einfach."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auf die alte Schule beschränkt ist es nicht.",
+      "Richtig: Stamm- oder Folgeschule, beide Wege stehen offen.",
+      "Falsch: Ein Ministerium braucht es dafür nicht.",
+      "Falsch: Ganz ohne Anmeldung läuft die Planung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Gruber zieht im Sommer von Linz nach Wels um. Ihr Sohn soll die Sommerschule besuchen, und die Eltern fragen, an welcher Schule sie ihn anmelden können.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei Pflicht meldet die Leitung an. Besteht die Teilnahmepflicht, erfolgt die Anmeldung amtswegig durch die Schulleitung, die Eltern werden informiert. Zum Nachlesen: SchUG §12 Abs.10.",
+    "hauptquelle": "SchUG §12 Abs.10",
+    "id": "A06-L1-008",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Die Eltern müssen alles allein organisieren, die Schule tut nichts.",
+      "Die Schulleitung meldet bei bestehender Pflicht amtswegig an und informiert die Eltern.",
+      "Die Anmeldung erfolgt durch die Mitschüler.",
+      "Niemand meldet an, die Pflicht erfüllt sich von selbst."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Allein gelassen werden die Eltern nicht.",
+      "Richtig: Amtswegige Anmeldung plus Elterninfo.",
+      "Falsch: Mitschüler melden niemanden an.",
+      "Falsch: Von selbst erfüllt sich keine Pflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Eltern von Tim, Deutschförderklasse in Salzburg, haben die Anmeldefrist für die Sommerschule versäumt und fürchten nun, dass ihr Sohn ausgeschlossen ist, obwohl er teilnahmepflichtig ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Prüfungszeit wird freigehalten. Schülern ist die nötige Zeit für Wiederholungsprüfungen zu gewähren, beides muss sich vereinbaren lassen. Zum Nachlesen: SchUG §12 Abs.10.",
+    "hauptquelle": "SchUG §12 Abs.10",
+    "id": "A06-L1-009",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Nein, wer zur Prüfung muss, fliegt aus der Sommerschule.",
+      "Ja, für Wiederholungsprüfungen ist die erforderliche Zeit zu gewähren.",
+      "Nein, Prüfungen entfallen während der Sommerschule.",
+      "Ja, aber nur wenn der Schüler dafür bezahlt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Rauswurf wegen Prüfung wäre falsch.",
+      "Richtig: Zeit für die Prüfung freihalten, beides verbinden.",
+      "Falsch: Entfallen tun Prüfungen deswegen nicht.",
+      "Falsch: Geld spielt keine Rolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Jonas besucht die Sommerschule in Dornbirn und muss in derselben Zeit zu einer Wiederholungsprüfung in Mathematik antreten. Er fürchtet, sich zwischen beiden entscheiden zu müssen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Als Buddy darf er mitmachen. Wer nicht angemeldet ist, darf auf Einladung der Leitung als unterstützender Buddy teilnehmen. Zum Nachlesen: SchUG §12 Abs.12.",
+    "hauptquelle": "SchUG §12 Abs.12",
+    "id": "A06-L1-010",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Nein, unangemeldete Schüler dürfen das Gebäude nicht betreten.",
+      "Ja, auf Einladung der Leitung dürfen sie als Buddys beim Lernen unterstützen.",
+      "Ja, aber nur wenn sie die Prüfungen der anderen mitschreiben.",
+      "Nein, Buddys sind grundsätzlich verboten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Hausverbot gibt es keines.",
+      "Richtig: Einladung plus Unterstützungsrolle, das ist der Buddy-Weg.",
+      "Falsch: Mitprüfen müssen Buddys nichts.",
+      "Falsch: Verboten sind sie nicht, sie sind willkommen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena, gute Schülerin der dritten Klasse in Wien, ist nicht zur Sommerschule angemeldet, will aber ihre Freundin aus der Deutschförderklasse beim Lernen unterstützen und fragt, ob sie einfach mitkommen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Buddys sprengen keine Gruppen. Sie werden auf die Zahl für Eröffnung und Bildung von Gruppen nicht angerechnet. Zum Nachlesen: SchUG §12 Abs.12.",
+    "hauptquelle": "SchUG §12 Abs.12",
+    "id": "A06-L1-011",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Jeder Buddy erzwingt die Teilung aller Gruppen.",
+      "Buddys werden auf die Gruppengrößen nicht angerechnet.",
+      "Buddys zählen doppelt bei der Gruppenbildung.",
+      "Gruppen gibt es in der Sommerschule gar nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Teilungen erzwingen Buddys nicht.",
+      "Richtig: Keine Anrechnung, die Planung bleibt stabil.",
+      "Falsch: Doppelt gezählt wird niemand.",
+      "Falsch: Gruppen gibt es sehr wohl."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schulleiterin in Villach sorgt sich, dass zehn freiwillige Buddys ihre sorgfältig geplanten Sommerschulgruppen rechnerisch sprengen und sie zusätzliche Gruppen eröffnen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Bestätigung stellt die Leitung aus. Buddy-Schülern ist durch die Schulleitung eine eigene Bestätigung auszustellen. Zum Nachlesen: SchUG §12 Abs.12.",
+    "hauptquelle": "SchUG §12 Abs.12",
+    "id": "A06-L1-012",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Es gibt keinerlei Nachweis für Buddys.",
+      "Die Schulleitung stellt den Buddys eine eigene Bestätigung aus.",
+      "Die Buddys schreiben sich die Bestätigung selbst.",
+      "Eine Bestätigung gibt es nur gegen Bezahlung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Leer gehen Buddys nicht aus.",
+      "Richtig: Eigene Bestätigung durch die Schulleitung.",
+      "Falsch: Selbst ausstellen gilt nicht.",
+      "Falsch: Geld spielt keine Rolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Moritz hat zwei Wochen als Buddy in der Sommerschule in Linz geholfen und will für seine Bewerbungsmappe einen Nachweis über sein Engagement vorlegen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Förderbedarf entscheidet über die Pflicht. Stellt die Klassenlehrerin oder der Fachlehrer einen Förderbedarf fest, müssen Pflichtschüler am Förderunterricht teilnehmen. Zum Nachlesen: SchUG §12 Abs.6.",
+    "hauptquelle": "SchUG §12 Abs.6",
+    "id": "A06-L1-013",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Förderunterricht ist immer für alle freiwillig.",
+      "Bei festgestelltem Bedarf müssen Pflichtschüler den Förderunterricht besuchen.",
+      "Nur Schüler mit sehr guten Noten müssen zum Förderunterricht.",
+      "Die Eltern entscheiden allein, ob Bedarf besteht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ganz freiwillig ist er bei Bedarf nicht.",
+      "Richtig: Festgestellter Bedarf löst die Pflicht aus.",
+      "Falsch: Um gute Noten geht es hier nicht.",
+      "Falsch: Festgestellt wird der Bedarf durch die Lehrkraft."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS",
+      "BS"
+    ],
+    "situation": "Die Klassenlehrerin einer Volksschule in Graz stellt bei David Lücken in Deutsch fest und ordnet Förderunterricht an. Seine Eltern meinen, Förderung sei grundsätzlich freiwillig.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Mit Zustimmung der Leitung geht das. Fällt der Bedarf weg, ist Abmeldung möglich, bei fortbestehendem Bedarf braucht es die Zustimmung der Schulleitung. Zum Nachlesen: SchUG §12 Abs.8.",
+    "hauptquelle": "SchUG §12 Abs.8",
+    "id": "A06-L1-014",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Eine Abmeldung ist niemals möglich.",
+      "Bei Wegfall des Bedarfs ist Abmeldung möglich, bei fortbestehendem Bedarf braucht es die Zustimmung der Schulleitung.",
+      "Jeder kann jederzeit ohne Grund und Kommentar fernbleiben.",
+      "Abmelden darf nur das Ministerium."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ausstieg ist nicht ausgeschlossen.",
+      "Richtig: Wegfall ohne Hürde, sonst Zustimmung der Leitung.",
+      "Falsch: Einfach fernbleiben gilt nicht.",
+      "Falsch: Ein Ministerium braucht es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nina besucht seit Monaten Förderunterricht in Mathematik in Wels, ihre Leistungen sind nun stabil gut. Sie fragt, ob sie sich einfach abmelden kann und was gilt, wenn der Lehrer den Bedarf noch sieht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Leitung darf begrenzen. Das Ausmaß der Teilnahme kann beschränkt werden, mit Blick auf Lehrplan, Belastbarkeit und Förderbedarf des Kindes. Zum Nachlesen: SchUG §12 Abs.9.",
+    "hauptquelle": "SchUG §12 Abs.9",
+    "id": "A06-L1-015",
+    "level": "L1",
+    "modul_id": "A06",
+    "optionen": [
+      "Das Ausmaß ist unbegrenzt und nie anpassbar.",
+      "Die Schulleitung kann das Ausmaß mit Blick auf Lehrplan, Belastbarkeit und Bedarf beschränken.",
+      "Nur die Eltern dürfen das Ausmaß kürzen.",
+      "Mehr Stunden als der Stundenplan sind immer Pflicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Starr und unbegrenzt ist das Ausmaß nicht.",
+      "Richtig: Maßvoll begrenzen nach Bedarf und Belastbarkeit.",
+      "Falsch: Allein entscheiden Eltern das nicht.",
+      "Falsch: Mehrarbeit als Pflicht gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Felix besucht neben dem vollen Unterricht so viele Förderstunden in Innsbruck, dass er abends völlig erschöpft ist. Seine Mutter bittet um eine Verringerung des Umfangs.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
