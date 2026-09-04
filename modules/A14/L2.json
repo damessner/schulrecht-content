@@ -1,0 +1,49 @@
+[
+  {
+    "id": "A14-L2-001",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS"],
+    "situation": "Du bist Klassenvorstand einer 3. Klasse. Zwei Schüler mit Nicht genügend in Mathematik wollen im Herbst antreten. Die Direktorin bittet dich, alles korrekt vorzubereiten. Was musst du alles sicherstellen? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Anmeldefrist prüfen und beide Anmeldungen schriftlich dokumentieren.",
+      "Prüfungsstoff auf den Lehrplan des abgelaufenen Jahres eingrenzen und den Schülern rechtzeitig mitteilen.",
+      "Prüfungskommission mit Vorsitz und Beisitz nach Vorschrift einteilen und protokollieren.",
+      "Den Schülern versprechen, dass nur der Stoff des 2. Semesters kommt, damit sie weniger lernen müssen.",
+      "Ersatztermin und Vorgehen bei Krankheit im Vorfeld klären und kommunizieren.",
+      "Den Prüfungstermin mündlich in der Klasse ausmachen, schriftlich ist nicht nötig."
+    ],
+    "richtig": [0, 1, 2, 4],
+    "pro_option_feedback": [
+      "Richtig: Ohne fristgerechte dokumentierte Anmeldung kein geordnetes Verfahren.",
+      "Richtig: Eingegrenzter, mitgeteilter Stoff ist Pflicht für Fairness.",
+      "Richtig: Korrekte Besetzung plus Protokoll sichert die Gültigkeit.",
+      "Falsch: Stoff eigenmächtig kürzen verfälscht die Prüfung.",
+      "Richtig: Krankheitsfall vorher klären verhindert Streit im Herbst.",
+      "Falsch: Mündlich reicht nicht, es braucht Nachweis und Protokoll."
+    ],
+    "aufloesung": "Frist, Stoff, Kommission und Protokoll plus Krankheitsregelung vorbereiten. Alles schriftlich. Zum Nachlesen: SchUG §20 Abs.2-4.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": ["SchUG §20 Abs.4"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L2-002",
+    "modul_id": "A14",
+    "level": "L2",
+    "typ": "tf",
+    "schulart": ["alle"],
+    "situation": "Mythen-Check zum Prüfungstag: Ein Kollege behauptet im Konferenzzimmer: Wenn bei der Wiederholungsprüfung der Beisitz fehlt, kann der Prüfer allein prüfen und das Ergebnis gilt trotzdem.",
+    "optionen": ["Richtig", "Falsch"],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch gedacht: Das ist ein klassischer Formfehler.",
+      "Richtig erkannt: Ohne vorschriftsmäßige Besetzung ist die Prüfung anfechtbar, unbedingt neu ansetzen und dokumentieren."
+    ],
+    "aufloesung": "Besetzung und Protokoll sind Gültigkeitsvoraussetzung, kein Detail. Bei Fehler abbrechen und neu ansetzen. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]

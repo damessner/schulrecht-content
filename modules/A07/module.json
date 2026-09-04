@@ -1,0 +1,14 @@
+{
+  "id": "A07",
+  "titel": "Betreuungsteil ganztägig",
+  "saeule": "A-SchUG",
+  "status": "leer",
+  "quelle": [
+    "SchUG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json"
+  ]
+}

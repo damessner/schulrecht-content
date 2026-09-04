@@ -1,0 +1,31 @@
+[
+  {
+    "id": "A14-L3-001",
+    "modul_id": "A14",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": ["BHS", "AHS"],
+    "situation": "Grenzfall am 24. September: Schülerin tritt zur Wiederholungsprüfung in Deutsch an. Sie kommt 20 Minuten zu spät, weil der Bus ausgefallen ist, hat kein Attest aber ein Foto vom Ersatzfahrplan. Der Prüfer will sie wegschicken, die Direktorin will sie sofort ohne Beisitz prüfen, um Zeit zu sparen. Was ist rechtsrichtig? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Verspätung dokumentieren und prüfen, ob ein gerechtfertigter Hinderungsgrund glaubhaft ist, statt automatisch auszuschließen.",
+      "Trotz Zeitdruck auf vollständiger Kommission und Protokoll bestehen, sonst Formfehler riskieren.",
+      "Schülerin sofort ohne Prüfung nach Hause schicken und als nicht bestanden werten.",
+      "Allein ohne Beisitz prüfen, um den Termin zu retten.",
+      "Ersatztermin anbieten, wenn die Verhinderung anerkannt wird, und alles schriftlich festhalten.",
+      "Foto und Vorbringen zu den Akten nehmen und der Kommission zur Entscheidung vorlegen."
+    ],
+    "richtig": [0, 1, 4, 5],
+    "pro_option_feedback": [
+      "Richtig: Erst Sachverhalt klären und dokumentieren, nicht vorschnell werten.",
+      "Richtig: Zeitdruck rechtfertigt keinen Formfehler.",
+      "Falsch: Automatisches Nicht-bestanden ohne Prüfung der Gründe ist falsch.",
+      "Falsch: Allein prüfen macht das Ergebnis anfechtbar.",
+      "Richtig: Bei anerkannter Verhinderung braucht es einen neuen Termin.",
+      "Richtig: Beweismittel gehören in den Akt für Nachvollziehbarkeit."
+    ],
+    "aufloesung": "Gründe prüfen, Form wahren, dokumentieren, bei Anerkennung neuer Termin. Abkürzungen rächen sich im Verfahren. Zum Nachlesen: SchUG §20 Abs.3-4.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": ["SchUG §20 Abs.4"],
+    "stand": "04.09.2026"
+  }
+]

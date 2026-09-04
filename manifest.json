@@ -1,0 +1,234 @@
+{
+  "name": "schulrecht-trainer-content",
+  "version": "0.1.0",
+  "stand": "04.09.2026",
+  "base_raw": "https://raw.githubusercontent.com/damessner/schulrecht-content/main",
+  "batches": [
+    "batch-01-mvp",
+    "batch-02-klassenalltag",
+    "batch-03-pruefungen",
+    "batch-04-ordnung-rechte",
+    "batch-05-dienstzeit",
+    "batch-06-karriere-folgen",
+    "batch-07-tirol-org",
+    "batch-08-ausbau"
+  ],
+  "modules": [
+    {
+      "id": "A01",
+      "titel": "Aufnahme ordentlich/ausserordentlich",
+      "saeule": "A-SchUG",
+      "path": "modules/A01"
+    },
+    {
+      "id": "A02",
+      "titel": "Einstufung/Sprache/Deutschförderung",
+      "saeule": "A-SchUG",
+      "path": "modules/A02"
+    },
+    {
+      "id": "A03",
+      "titel": "Aufnahms-/Eignungsprüfung",
+      "saeule": "A-SchUG",
+      "path": "modules/A03"
+    },
+    {
+      "id": "A04",
+      "titel": "Klassenbildung/Stundenplan/Supplierungen",
+      "saeule": "A-SchUG",
+      "path": "modules/A04"
+    },
+    {
+      "id": "A05",
+      "titel": "Wahlpflicht/Freigegenstände/Förderunterricht",
+      "saeule": "A-SchUG",
+      "path": "modules/A05"
+    },
+    {
+      "id": "A06",
+      "titel": "Sommerschule/Buddy",
+      "saeule": "A-SchUG",
+      "path": "modules/A06"
+    },
+    {
+      "id": "A07",
+      "titel": "Betreuungsteil ganztägig",
+      "saeule": "A-SchUG",
+      "path": "modules/A07"
+    },
+    {
+      "id": "A08",
+      "titel": "Schulveranstaltungen",
+      "saeule": "A-SchUG",
+      "path": "modules/A08"
+    },
+    {
+      "id": "A09",
+      "titel": "Schulbezogene Veranstaltungen",
+      "saeule": "A-SchUG",
+      "path": "modules/A09"
+    },
+    {
+      "id": "A10",
+      "titel": "Berufsorientierung/Schnuppern",
+      "saeule": "A-SchUG",
+      "path": "modules/A10"
+    },
+    {
+      "id": "A11",
+      "titel": "Leistungsfeststellung/Mitarbeit",
+      "saeule": "A-SchUG",
+      "path": "modules/A11"
+    },
+    {
+      "id": "A12",
+      "titel": "Leistungsbeurteilung/Zeugnis",
+      "saeule": "A-SchUG",
+      "path": "modules/A12"
+    },
+    {
+      "id": "A13",
+      "titel": "Aufsteigen/Wiederholen",
+      "saeule": "A-SchUG",
+      "path": "modules/A13"
+    },
+    {
+      "id": "A14",
+      "titel": "Prüfungen auf Verlangen",
+      "saeule": "A-SchUG",
+      "path": "modules/A14"
+    },
+    {
+      "id": "A15",
+      "titel": "Einstufung/Externisten/Abschluss",
+      "saeule": "A-SchUG",
+      "path": "modules/A15"
+    },
+    {
+      "id": "A16",
+      "titel": "Fernbleiben/Entschuldigung",
+      "saeule": "A-SchUG",
+      "path": "modules/A16"
+    },
+    {
+      "id": "A17",
+      "titel": "Erziehungsmittel/Ordnungsmaßnahmen",
+      "saeule": "A-SchUG",
+      "path": "modules/A17"
+    },
+    {
+      "id": "A18",
+      "titel": "Schülerrechte/Partnerschaft/SGA",
+      "saeule": "A-SchUG",
+      "path": "modules/A18"
+    },
+    {
+      "id": "A19",
+      "titel": "Verfahren/Fristen/Widerspruch",
+      "saeule": "A-SchUG",
+      "path": "modules/A19"
+    },
+    {
+      "id": "B20",
+      "titel": "Dienstpflichten/Weisung/Mobbing",
+      "saeule": "B-LDG",
+      "path": "modules/B20"
+    },
+    {
+      "id": "B21",
+      "titel": "Lehramt/Aufsicht",
+      "saeule": "B-LDG",
+      "path": "modules/B21"
+    },
+    {
+      "id": "B22",
+      "titel": "Abwesenheit/Krankmeldung/Arzt",
+      "saeule": "B-LDG",
+      "path": "modules/B22"
+    },
+    {
+      "id": "B23",
+      "titel": "Meldepflicht/Dienstweg",
+      "saeule": "B-LDG",
+      "path": "modules/B23"
+    },
+    {
+      "id": "B24",
+      "titel": "Nebenbeschäftigung/Geschenk/Befangenheit",
+      "saeule": "B-LDG",
+      "path": "modules/B24"
+    },
+    {
+      "id": "B25",
+      "titel": "Arbeitszeit/Jahresnorm/MDL",
+      "saeule": "B-LDG",
+      "path": "modules/B25"
+    },
+    {
+      "id": "B26",
+      "titel": "Teilzeit/Eltern/Sabbatical",
+      "saeule": "B-LDG",
+      "path": "modules/B26"
+    },
+    {
+      "id": "B27",
+      "titel": "Urlaub/Sonderurlaub/Pflege/Karenz",
+      "saeule": "B-LDG",
+      "path": "modules/B27"
+    },
+    {
+      "id": "B28",
+      "titel": "Verwendung/Versetzung/Cluster-Leitung",
+      "saeule": "B-LDG",
+      "path": "modules/B28"
+    },
+    {
+      "id": "B29",
+      "titel": "Leistungsfeststellung/Bericht",
+      "saeule": "B-LDG",
+      "path": "modules/B29"
+    },
+    {
+      "id": "B30",
+      "titel": "Disziplinar/Suspendierung",
+      "saeule": "B-LDG",
+      "path": "modules/B30"
+    },
+    {
+      "id": "C31",
+      "titel": "Schulerhalter/Erhaltung/Kosten",
+      "saeule": "C-TirolSOG",
+      "path": "modules/C31"
+    },
+    {
+      "id": "C32",
+      "titel": "Sprengel/sprengelfremd/Tagesbetreuung",
+      "saeule": "C-TirolSOG",
+      "path": "modules/C32"
+    },
+    {
+      "id": "C33",
+      "titel": "Errichtung/Stilllegung/Auflassung",
+      "saeule": "C-TirolSOG",
+      "path": "modules/C33"
+    },
+    {
+      "id": "C34",
+      "titel": "Cluster/Leitung",
+      "saeule": "C-TirolSOG",
+      "path": "modules/C34"
+    },
+    {
+      "id": "C35",
+      "titel": "Ganztägig/Freizeit/Beiträge",
+      "saeule": "C-TirolSOG",
+      "path": "modules/C35"
+    },
+    {
+      "id": "C36",
+      "titel": "Schulweg/Beförderung/Heime",
+      "saeule": "C-TirolSOG",
+      "path": "modules/C36"
+    }
+  ]
+}

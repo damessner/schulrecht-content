@@ -1,0 +1,14 @@
+{
+  "id": "B27",
+  "titel": "Urlaub/Sonderurlaub/Pflege/Karenz",
+  "saeule": "B-LDG",
+  "status": "leer",
+  "quelle": [
+    "LDG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "A08",
+  "titel": "Schulveranstaltungen",
+  "saeule": "A-SchUG",
+  "status": "in-arbeit",
+  "quelle": [
+    "SchUG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json"
+  ]
+}

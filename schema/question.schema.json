@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Schulrecht Trainer Frage",
+  "type": "object",
+  "required": ["id", "modul_id", "level", "typ", "situation", "optionen", "richtig", "aufloesung", "hauptquelle", "stand"],
+  "properties": {
+    "id": {"type": "string", "description": "z.B. A14-L2-001"},
+    "modul_id": {"type": "string", "description": "z.B. A14"},
+    "level": {"type": "string", "enum": ["L1", "L2", "L3"]},
+    "typ": {"type": "string", "enum": ["single", "multiple", "tf"]},
+    "schulart": {"type": "array", "items": {"type": "string", "enum": ["VS", "MS", "PTS", "BS", "AHS", "BHS", "alle"]}, "default": ["alle"]},
+    "situation": {"type": "string", "minLength": 40, "description": "Praxis-Fall, kein Paragraf im Text"},
+    "optionen": {"type": "array", "minItems": 2, "maxItems": 6, "items": {"type": "string"}},
+    "richtig": {"type": "array", "items": {"type": "integer"}, "description": "0-basierte Indizes. single/tf genau 1, multiple 2-3"},
+    "pro_option_feedback": {"type": "array", "items": {"type": "string"}, "description": "Je 1 Satz pro Option, gleiche Länge wie optionen"},
+    "aufloesung": {"type": "string", "description": "1 Satz Entscheidung + 2-3 Sätze Begründung Alltagssprache"},
+    "hauptquelle": {"type": "string", "description": "z.B. SchUG §20 Abs.1"},
+    "zusatzquellen": {"type": "array", "items": {"type": "string"}, "default": []},
+    "stand": {"type": "string", "pattern": "^\\d{2}\\.\\d{2}\\.\\d{4}$", "description": "z.B. 04.09.2026"}
+  },
+  "allOf": [
+    {"if": {"properties": {"typ": {"const": "single"}}}, "then": {"properties": {"optionen": {"minItems": 4, "maxItems": 4}, "richtig": {"minItems": 1, "maxItems": 1}}}},
+    {"if": {"properties": {"typ": {"const": "tf"}}}, "then": {"properties": {"optionen": {"minItems": 2, "maxItems": 2}, "richtig": {"minItems": 1, "maxItems": 1}}}}
+  ]
+}

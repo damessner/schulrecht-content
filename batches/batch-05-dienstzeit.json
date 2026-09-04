@@ -1,0 +1,10 @@
+{
+  "batch": "batch-05-dienstzeit",
+  "module": [
+    "B25",
+    "B27",
+    "B26",
+    "B23",
+    "B24"
+  ]
+}

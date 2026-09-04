@@ -1,0 +1,14 @@
+{
+  "id": "A14",
+  "titel": "Prüfungen auf Verlangen",
+  "saeule": "A-SchUG",
+  "status": "fertig",
+  "quelle": [
+    "SchUG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json"
+  ]
+}

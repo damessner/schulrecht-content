@@ -1,0 +1,14 @@
+{
+  "id": "C32",
+  "titel": "Sprengel/sprengelfremd/Tagesbetreuung",
+  "saeule": "C-TirolSOG",
+  "status": "leer",
+  "quelle": [
+    "TirSOG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json"
+  ]
+}

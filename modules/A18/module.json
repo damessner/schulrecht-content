@@ -1,0 +1,14 @@
+{
+  "id": "A18",
+  "titel": "Schülerrechte/Partnerschaft/SGA",
+  "saeule": "A-SchUG",
+  "status": "leer",
+  "quelle": [
+    "SchUG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json"
+  ]
+}

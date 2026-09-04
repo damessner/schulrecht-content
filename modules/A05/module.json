@@ -1,0 +1,14 @@
+{
+  "id": "A05",
+  "titel": "Wahlpflicht/Freigegenstände/Förderunterricht",
+  "saeule": "A-SchUG",
+  "status": "leer",
+  "quelle": [
+    "SchUG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json"
+  ]
+}

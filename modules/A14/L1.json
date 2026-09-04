@@ -1,0 +1,52 @@
+[
+  {
+    "id": "A14-L1-001",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Jonas, 2. Klasse, hat im Jahreszeugnis ein Nicht genügend in Englisch, sonst alles positiv. Am letzten Schultag fragt er dich als Klassenvorstand, ob er im Herbst noch etwas machen kann, um doch noch aufzusteigen.",
+    "optionen": [
+      "Nein, mit einem Nicht genügend muss er die Klasse jedenfalls wiederholen.",
+      "Ja, er darf im Herbst zu einer Wiederholungsprüfung antreten, wenn er sich rechtzeitig anmeldet.",
+      "Ja, er steigt automatisch auf, das Nicht genügend verfällt über den Sommer.",
+      "Nur wenn die Klassenkonferenz nachträglich die Note ausbessert."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Ein einzelnes Nicht genügend bedeutet nicht automatisch Wiederholen, es gibt die Prüfung auf Verlangen.",
+      "Richtig: Genau dafür ist die Wiederholungsprüfung da, Anmeldung und Termin beachten.",
+      "Falsch: Ohne Prüfung ändert sich an der Note nichts.",
+      "Falsch: Die Konferenz kann eine feststehende Zeugnisnote nicht nachträglich ändern."
+    ],
+    "aufloesung": "Jonas darf antreten. Du nimmst die Anmeldung entgegen, nennst ihm Stoff und Termin und dokumentierst es. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A14-L1-002",
+    "modul_id": "A14",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Eine Mutter ruft an: Ihre Tochter war in der Prüfungswoche krank und fragt, ob die versäumte Wiederholungsprüfung einfach als Nicht bestanden zählt.",
+    "optionen": [
+      "Ja, wer fehlt, hat automatisch nicht bestanden, ohne Ausnahme.",
+      "Nein, bei gerechtfertigter Verhinderung gibt es einen Ersatztermin, sie muss die Schule aber sofort verständigen und nachweisen.",
+      "Nein, die Prüfung wird automatisch auf das nächste Schuljahr verschoben.",
+      "Ja, aber nur wenn ein Spitalsaufenthalt vorliegt."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Unentschuldigtes Fehlen und entschuldigtes Fehlen werden unterschiedlich behandelt.",
+      "Richtig: Sofort melden plus Nachweis ist der entscheidende Punkt.",
+      "Falsch: Automatisch passiert nichts, es braucht einen neuen Termin.",
+      "Falsch: Auch andere ärztliche Gründe zählen, nicht nur Spital."
+    ],
+    "aufloesung": "Bei Krankheit sofort melden und Bestätigung bringen, dann neuer Termin. Unentschuldigt versäumt gilt anders. Zum Nachlesen: SchUG §20 Abs.3.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]

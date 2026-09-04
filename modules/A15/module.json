@@ -1,0 +1,14 @@
+{
+  "id": "A15",
+  "titel": "Einstufung/Externisten/Abschluss",
+  "saeule": "A-SchUG",
+  "status": "leer",
+  "quelle": [
+    "SchUG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json"
+  ]
+}

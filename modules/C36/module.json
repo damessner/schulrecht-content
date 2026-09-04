@@ -1,0 +1,14 @@
+{
+  "id": "C36",
+  "titel": "Schulweg/Beförderung/Heime",
+  "saeule": "C-TirolSOG",
+  "status": "leer",
+  "quelle": [
+    "TirSOG"
+  ],
+  "levels": [
+    "L1.json",
+    "L2.json",
+    "L3.json"
+  ]
+}
