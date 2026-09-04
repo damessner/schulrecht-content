@@ -1,1 +1,310 @@
-[]
+[
+  {
+    "id": "A12-L3-001",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "single",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Deutschschularbeit in einer 3. Klasse: Selina gibt den Aufsatz der Banknachbarin als eigene Arbeit ab. Die Lehrerin erkennt die Abschrift, benotet sie trotzdem mit Gut und verzichtet auf jede weitere Feststellung. Selinas Eltern fechten die Note an. Was gilt?",
+    "optionen": [
+      "Die Benotung ist korrekt, weil eine abgegebene Arbeit immer zu benoten ist.",
+      "Ein Punktabzug hätte genügt, dann wäre die Note haltbar gewesen.",
+      "Die Beurteilung ist fehlerhaft, die vorgetäuschte Leistung darf nicht beurteilt werden und es braucht eine eigene ehrliche Ersatzfeststellung.",
+      "Die Lehrerin darf pauschal ein Genügend eintragen, ohne neu zu prüfen."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Abgabe allein macht eine erschlichene Leistung nicht beurteilbar.",
+      "Falsch: Abzug heilt den Täuschungscharakter nicht.",
+      "Richtig: Getäuschtes fällt aus der Wertung, nur Ehrliches trägt eine Note.",
+      "Falsch: Pauschalnoten ohne ehrliche Leistung gibt es nicht."
+    ],
+    "aufloesung": "Die Note ist rechtswidrig und zu beheben, es braucht eine ehrliche Ersatzfeststellung als neue Grundlage. Abgeschriebenes ist keine Leistung des Kindes, deshalb darf es keine Note tragen. Zum Nachlesen: SchUG §18 Abs.4.",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-002",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": ["AHS", "BHS"],
+    "situation": "Ein Lehrer lässt die einzige Englischprüfung des Semesters als unbeaufsichtigte Videoarbeit von zu Hause schreiben, offene Bücher und Chats sind möglich, der Nahbereich der Kinder bleibt ungeklärt. Zwei Arbeiten sind offensichtlich aus dem Netz kopiert, er benotet sie trotzdem. Die Direktion prüft den Vorgang. Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "Die Form war unzulässig, weil sie keine sichere Beurteilung in gesicherter Umgebung erlaubt.",
+      "Die Lehrperson muss durch Gestaltung, Technik und Ort praktisch ausschließen können, dass Vortäuschen möglich ist.",
+      "Jedes Kind muss zu seinem unmittelbaren Nahbereich glaubhaft machen, dass Vortäuschen unmöglich ist.",
+      "Jede ungesicherte Heimarbeit ist automatisch eine vollwertige Prüfungsnote.",
+      "Fremde Netztexte dürfen als eigene Leistung benotet werden, wenn sie abgegeben wurden.",
+      "Bei Zweifeln an der Echtheit genügt Raten statt einer neuen Feststellung."
+    ],
+    "richtig": [0, 1, 2],
+    "pro_option_feedback": [
+      "Richtig: Nur prüfungsgeeignete Formate mit Sicherung tragen eine Note.",
+      "Richtig: Design plus Technik und Ort müssen Täuschung praktisch ausschließen.",
+      "Richtig: Auch der Prüfling muss seinen Nahbereich transparent und täuschungsfrei darlegen.",
+      "Falsch: Ohne Sicherung fehlt die verlässliche Grundlage.",
+      "Falsch: Fremde Leistung bleibt vorgetäuscht und unbeurteilbar.",
+      "Falsch: Raten ersetzt keine Feststellung mit sicherer Grundlage."
+    ],
+    "aufloesung": "Beide Noten sind mangels gesicherter Umgebung nicht haltbar, die Feststellung ist in sicherer Form zu wiederholen. Distanz braucht Design, Technik und glaubhaften Nahbereich, sonst fehlt die tragfähige Grundlage. Zum Nachlesen: SchUG §18b Abs.2.",
+    "hauptquelle": "SchUG §18b Abs.2",
+    "zusatzquellen": ["SchUG §18 Abs.4"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-003",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "single",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Englischschularbeit mit 28 Arbeiten, 17 sind negativ zu beurteilen. Die Lehrerin trägt alle Noten ins Klassenbuch ein, verweigert die Wiederholung und meint, Mitleid sei keine Pflicht. Die Klasse beschwert sich bei der Direktion. Was muss die Schule tun?",
+    "optionen": [
+      "Die Noten bleiben, Wiederholung ist reine Ermessenssache der Lehrerin.",
+      "Die Feststellung ist einmal mit neuer Aufgabenstellung für alle zu wiederholen, je Kind zählt die bessere Leistung.",
+      "Nur die durchgefallenen Kinder wiederholen, die positiven behalten still ihre Note.",
+      "Es zählt automatisch die zweite Arbeit, auch wenn sie schlechter ausfällt."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Bei echtem Überhang negativer Noten ist Wiederholung Pflicht.",
+      "Richtig: Neue Aufgaben für alle plus Günstigkeitsvergleich pro Kind.",
+      "Falsch: Die ganze Feststellung wird wiederholt, keine Teilgruppe.",
+      "Falsch: Schlechterstellen durch die Wiederholung ist ausgeschlossen."
+    ],
+    "aufloesung": "Die Verweigerung ist ein Formfehler, die Wiederholung ist nachzuholen und zu dokumentieren. Mehr als die Hälfte negativ löst genau eine Wiederholung mit neuen Aufgaben aus, Bestwert zählt. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-004",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Drei Fälle im Konferenzzimmer: In Zeichnen sind 15 von 26 graphischen Arbeiten negativ, in Geschichte fallen 16 von 28 bei rein mündlichen Prüfungen durch, in einer Parallelklasse sind genau 14 von 28 schriftlich negativ. Die Lehrkräfte wiederholen alle drei mit identischer Aufgabenstellung und werten die schlechtere Leistung. Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "Graphische Feststellungen fallen unter die Wiederholungsregel wie schriftliche.",
+      "Erst der echte Überhang über die Hälfte löst die Pflicht aus, genau die Hälfte genügt nicht.",
+      "Rein mündliche Prüfungen lösen diese Wiederholungspflicht nicht aus.",
+      "Die Wiederholung mit identischer Aufgabenstellung als Kopie ist zulässig.",
+      "Nach der Wiederholung darf die schlechtere Leistung als Grundlage genommen werden.",
+      "Die Regel erlaubt beliebig viele Wiederholungen bis alle positiv sind."
+    ],
+    "richtig": [0, 1, 2],
+    "pro_option_feedback": [
+      "Richtig: Schriftlich oder graphisch sind die erfassten Formate.",
+      "Richtig: Hälfte ist nicht mehr als die Hälfte.",
+      "Richtig: Mündliche Feststellungen sind von dieser Regel nicht erfasst.",
+      "Falsch: Neue Aufgabenstellung ist ausdrücklich verlangt.",
+      "Falsch: Es gilt der Günstigkeitsvergleich zugunsten des Kindes.",
+      "Falsch: Es gibt genau eine Wiederholung, keine Endlosschleife."
+    ],
+    "aufloesung": "Nur der Zeichnen-Fall war wiederholungspflichtig, die anderen beiden Verfahren waren fehlerhaft anzuwenden. Die korrekte Wiederholung braucht neue Aufgaben, einen Termin und Bestwert je Kind. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-005",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "single",
+    "schulart": ["VS", "MS", "AHS"],
+    "situation": "Lena steht in Mathematik nach allen bisherigen Leistungen auf drohendem Nicht genügend zum Semesterende. Die Klassenvorständin wartet ab, informiert niemanden und die Eltern erfahren alles erst aus dem Zeugnis. Dort fehlt auch jedes Gesprächsangebot über Förderung. Die Eltern beschweren sich. Was war falsch?",
+    "optionen": [
+      "Nichts, das Zeugnis als solche Nachricht genügt völlig.",
+      "Die Warnung gilt nur für Verhalten, bei Leistungen muss nicht gewarnt werden.",
+      "Die Schule hat die sofortige Verständigung, das beratende Gespräch mit Kind und Eltern und die Vereinbarung von Fördermaßnahmen versäumt.",
+      "Es hätte genügt, einer Mitschülerin Bescheid zu sagen."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Abwarten bis zum Zeugnis verletzt die rechtzeitige Warnpflicht.",
+      "Falsch: Gerade der Leistungsabfall löst diese Warnung aus.",
+      "Richtig: Sofort warnen, beraten und Förderung vereinbaren statt schweigen.",
+      "Falsch: Adressaten sind Eltern und Kind, keine Unbeteiligten."
+    ],
+    "aufloesung": "Der Ablauf ist als versäumte Frühwarnung zu beanstanden und künftig mit Nachweis zu führen. Droht ein Nicht genügend, muss sofort verständigt, beraten und Förderung vereinbart werden. Zum Nachlesen: SchUG §19 Abs.3a.",
+    "hauptquelle": "SchUG §19 Abs.3a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-006",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": ["BS", "BHS", "AHS"],
+    "situation": "Zwei Pannen: Ein Lehrling droht im Lehrgang negativ zu werden, die Berufsschule warnt nur das Kind und bindet den Lehrbetrieb nicht ein. Ein 16-Jähriger in der 11. Stufe einer höheren Schule droht in zwei Fächern zu scheitern, das Gespräch findet ohne jedes Wort über Lernbegleitung statt. Die Direktion prüft beide Akte. Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "An Berufsschulen ist die Warnung zusätzlich an die Lehrberechtigten zu richten.",
+      "An lehrgangsmäßigen Berufsschulen ist sofort zu warnen, wenn zum Lehrgangsende ein Negativ droht.",
+      "Ab der 10. Stufe zumindest dreijähriger mittlerer und höherer Schulen ist im Gespräch auch die individuelle Lernbegleitung zu erörtern.",
+      "An Berufsschulen genügt immer die Nachricht ans Kind ohne Lehrbetrieb.",
+      "Alle diese Verständigungen haben Entscheidungscharakter und ersetzen das Zeugnis.",
+      "Fördermaßnahmen dürfen im Warn­gespräch nicht angesprochen werden."
+    ],
+    "richtig": [0, 1, 2],
+    "pro_option_feedback": [
+      "Richtig: Der Lehrbetrieb ist dort eigener Adressat der Warnung.",
+      "Richtig: Im Lehrgang zählt der Lehrgangsabschluss als Stichtag für sofortiges Warnen.",
+      "Richtig: Lernbegleitung als Unterstützung ist dort eigenes Gesprächsthema.",
+      "Falsch: Der Lehrbetrieb gehört dort ausdrücklich dazu.",
+      "Falsch: Alle diese Verständigungen haben nur Informationscharakter.",
+      "Falsch: Förderwege zu erarbeiten ist gerade der Kern des Gesprächs."
+    ],
+    "aufloesung": "Beide Warnungen sind zu wiederholen und vollständig zu dokumentieren, einmal mit Lehrbetrieb und einmal mit Lernbegleitung. Ohne diese Schritte bleibt das Verfahren anfechtbar unvollständig. Zum Nachlesen: SchUG §19 Abs.3a.",
+    "hauptquelle": "SchUG §19 Abs.3a",
+    "zusatzquellen": ["SchUG §19 Abs.7", "SchUG §19a Abs.1"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-007",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Jonas fehlt nach einem Unfall von März bis Juni fast durchgehend, Mitarbeit und belastbare Prüfungen fehlen. Die Lehrerin führt eine Feststellungsprüfung durch, verständigt ihn aber erst am Vortag mündlich am Gang und schreibt keinerlei Aufzeichnung. Jonas scheitert, die Eltern fechten an. Was gilt?",
+    "optionen": [
+      "Das Vorgehen ist korrekt, Frist und Protokoll sind freiwillig.",
+      "Raten oder Übernehmen der Vorjahresnote wäre die korrekte Lösung gewesen.",
+      "Die Prüfung ist formfehlerhaft, sie verlangt zwei Wochen Vorverständigung und eine schriftliche Aufzeichnung über den Verlauf.",
+      "Ohne Prüfung hätte Jonas automatisch durchfallen müssen."
+    ],
+    "richtig": [2],
+    "pro_option_feedback": [
+      "Falsch: Frist und Doku sind Gültigkeits­voraussetzung, keine Kür.",
+      "Falsch: Weder Raten noch alte Noten sind sichere Grundlagen.",
+      "Richtig: Frist schützt Vorbereitung, Protokoll sichert Nachvollziehbarkeit.",
+      "Falsch: Ohne Prüfung darf nicht einfach negativ geschlossen werden."
+    ],
+    "aufloesung": "Die Prüfung ist wegen Frist- und Protokollmangels zu wiederholen, diesmal mit Nachweis und Fristwahrung. Nur so entsteht eine sichere Grundlage statt Willkür. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": ["SchUG §20 Abs.5"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-008",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Aylin versäumt ohne eigenes Verschulden durch lange Krankheit so viel Unterricht, dass die Feststellungsprüfung nicht zu schaffen ist. Die Direktion verweigert jede Stundung, will sofort negativ beurteilen und meint, Anträge seien formlos jederzeit möglich. Der Akt landet zur Prüfung am Tisch. Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "Der Schulleiter kann die Prüfung auf mindestens acht bis höchstens zwölf Wochen stunden.",
+      "An lehrgangsmäßigen Berufsschulen reicht die Stundung höchstens bis zum nächsten passenden Lehrgang im nächsten Schuljahr.",
+      "Nach nicht bestandener gestundeter Prüfung ist auf Antrag innert zwei Wochen eine Wiederholung zuzulassen.",
+      "Der Wiederholungsantrag ist spätestens am dritten Tag nach der Prüfung zu stellen.",
+      "Eine Stundung ist ausgeschlossen, es muss sofort negativ beurteilt werden.",
+      "Das gestundete Fach erscheint kommentarlos als normale Note im Zeugnis."
+    ],
+    "richtig": [0, 1, 2, 3],
+    "pro_option_feedback": [
+      "Richtig: Die Zeitspanne gibt echte Erholungs- und Lernchance.",
+      "Richtig: Im Lehrgang bindet der nächste passende Lehrgang die Frist.",
+      "Richtig: Eine zweite Chance auf Antrag ist ausdrücklich vorgesehen.",
+      "Richtig: Die kurze Antragsfrist sichert rasche Klärung.",
+      "Falsch: Genau für unverschuldetes Versäumnis gibt es die Stundung.",
+      "Falsch: Bei Stundung gibt es auf Verlangen ein vorläufiges Zeugnis mit Stundungsvermerk."
+    ],
+    "aufloesung": "Die Verweigerung ist rechtswidrig, die Stundung ist zu verfügen und sauber zu verurkunden. Unverschuldetes Fehlen führt zu Frist durch die Leitung plus einmaliger Wiederholungschance auf raschen Antrag. Zum Nachlesen: SchUG §20 Abs.3.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": ["SchUG §22 Abs.5"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-009",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "single",
+    "schulart": ["BHS"],
+    "situation": "Ein Schüler einer berufsbildenden höheren Schule fehlt im praktischen Werkstättenunterricht mehr als das Achtfache der Wochenstunden, holt die Inhalte aber durch facheinschlägige praktische Tätigkeit nach. Die Lehrerin trägt ohne jede Prüfung ein Nicht genügend ein und führt keine Aufzeichnung. Der Schüler beschwert sich. Was gilt?",
+    "optionen": [
+      "Die Note ist korrekt, jedes Fehlen darf direkt negativ benotet werden.",
+      "Es war eine Nachweisprüfung nach Nachholen anzubieten und schriftlich aufzuzeichnen, ohne Prüfung keine Beurteilung.",
+      "Ein Handschlag statt Aufzeichnung genügt völlig.",
+      "Das Fach darf willkürlich aus dem Zeugnis gestrichen werden."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Erst die hohe Schwelle plus Nachholen löst das Verfahren aus.",
+      "Richtig: Schwelle, Nachholen, Prüfung und Protokoll sichern die Note.",
+      "Falsch: Verlauf und Inhalt sind schriftlich festzuhalten.",
+      "Falsch: Ohne Prüfung bleibt das Fach unbeurteilt, wird aber nicht gestrichen."
+    ],
+    "aufloesung": "Der Eintrag ist zu streichen und die Nachweisprüfung mit Protokoll nachzuholen. Hohe Praxisfehlzeit mit nachgeholter Tätigkeit führt zur Prüfung, sonst fehlt die Grundlage. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": ["SchUG §20 Abs.5"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-010",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Herr Berger will seinem rechnerisch guten, aber ständig störenden Schüler in Mathematik ein schlechteres Zeugnis geben. Der Direktor legt die Verhaltensnote im Alleingang fest, ohne Antrag und ohne Konferenz. Der Schüler ficht beide Noten an. Was gilt?",
+    "optionen": [
+      "Beides ist korrekt, Stören darf die Mathenote senken und der Direktor darf allein entscheiden.",
+      "Die Mathenote muss vom Verhalten freigehalten werden, Verhalten wird auf eigener Skala durch die Klassenkonferenz auf Antrag des Klassenvorstandes beschlossen.",
+      "Die Klassenkonferenz darf die Mathenote nach Benehmen würfeln.",
+      "Verhalten scheint nirgends auf und wird nur mündlich besprochen."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Fachnote misst Stoffbeherrschung, Allein­entscheidung ist unzulässig.",
+      "Richtig: Trennung plus Team­beschluss auf Antrag sichert Fairness.",
+      "Falsch: Willkür ist ausgeschlossen, Maßstab sind Lehrplan und Leistung.",
+      "Falsch: Die Verhaltensnote steht in Schulnachricht und Zeugnis."
+    ],
+    "aufloesung": "Beide Entscheidungen sind formfehlerhaft und neu zu fassen, Fachleistung und Verhalten strikt getrennt. Gutes Rechnen bleibt gut trotz Störens, Benehmen steht auf eigener Skala. Zum Nachlesen: SchUG §21 Abs.2.",
+    "hauptquelle": "SchUG §21 Abs.2",
+    "zusatzquellen": ["SchUG §18 Abs.5", "SchUG §21 Abs.4"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-011",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "David besteht im Herbst die Wiederholungsprüfung, die Schule lässt aber das alte Jahreszeugnis mit dem Negativ daneben gültig und stellt nichts neu aus. Seine Schwester bekommt bei gestundeter Prüfung kein vorläufiges Blatt, die Familie trägt die neue Note handschriftlich ins alte Zeugnis ein. Die Direktion prüft die Akte. Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "Die Zulässigkeit einer Wiederholungsprüfung ist auf dem Jahreszeugnis zu vermerken.",
+      "Nach der Wiederholungsprüfung ist das alte Zeugnis einzuziehen und neu mit der neuen Beurteilung auszustellen.",
+      "Bei gestundeter Prüfung gibt es auf Verlangen ein vorläufiges Zeugnis mit Stundungsvermerk statt Fachnote.",
+      "Nach der nachgeholten gestundeten Prüfung ist das vorläufige Blatt einzuziehen und endgültig auszustellen.",
+      "Das alte Zeugnis mit falschem Stand bleibt einfach neben dem neuen gültig.",
+      "Die Familie darf die neue Note selbst handschriftlich ins alte Zeugnis eintragen."
+    ],
+    "richtig": [0, 1, 2, 3],
+    "pro_option_feedback": [
+      "Richtig: Der Vermerk macht die zweite Chance amtlich sichtbar.",
+      "Richtig: Einzug und Neu­ausstellung halten das Zeugnis wahr und aktuell.",
+      "Richtig: Stundung wird transparent vermerkt statt zu raten.",
+      "Richtig: Auch dort sichert Einzug plus Neu­ausstellung die Richtigkeit.",
+      "Falsch: Doppelgültigkeit widerspricht der Zeugniswahrheit.",
+      "Falsch: Änderungen stellt nur die Schule durch Neu­ausstellung aus."
+    ],
+    "aufloesung": "Beide Vorgänge sind als Zeugnisfehler zu sanieren, Alt­papiere einziehen und korrekt neu ausstellen. Nur so bleibt das Zeugnis wahr, eindeutig und aktuell. Zum Nachlesen: SchUG §22 Abs.6.",
+    "hauptquelle": "SchUG §22 Abs.6",
+    "zusatzquellen": ["SchUG §22 Abs.5"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A12-L3-012",
+    "modul_id": "A12",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": ["alle"],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, wenn bei einer schriftlichen Arbeit mehr als die Hälfte der Kinder negativ ist, darf die Lehrerin frei wählen, ob sie wiederholt oder die schlechten Noten einfach stehen lässt.",
+    "optionen": ["Richtig", "Falsch"],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Bei echtem Überhang ist einmal mit neuer Aufgabenstellung zu wiederholen, Bestwert zählt."
+    ],
+    "aufloesung": "Kein Wahlrecht, sondern einmalige Wiederholungspflicht mit Günstigkeitsvergleich. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "stand": "04.09.2026"
+  }
+]
