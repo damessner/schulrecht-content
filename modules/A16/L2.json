@@ -1,1 +1,527 @@
-[]
+[
+  {
+    "id": "A16-L2-001",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Demir will im November zwei Wochen günstiger verreisen und meldet die Kinder einfach als verhindert ab. Der Klassenvorstand prüft mit einer Checkliste, in welchen Fällen ein Fernbleiben vom Unterricht überhaupt zulässig ist.",
+    "optionen": [
+      "Bei einer gerechtfertigten Verhinderung darf das Kind dem Unterricht fernbleiben.",
+      "Mit einer Erlaubnis zum Fernbleiben aus wichtigen Gründen darf das Kind fehlen.",
+      "Bei einer Befreiung von einzelnen Gegenständen entfällt dort die Anwesenheitspflicht.",
+      "Ein günstiger Urlaubspreis allein ist bereits eine gerechtfertigte Verhinderung.",
+      "Schönes Wetter oder Familientradition genügt als Freigrund ohne Verfahren.",
+      "An einem selbst gewählten Wochentag darf man ohne Grund zu Hause bleiben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die gerechtfertigte Verhinderung ist der erste zulässige Weg.",
+      "Richtig: Die Erlaubnis aus wichtigem Grund ist der zweite zulässige Weg.",
+      "Richtig: Die Befreiung von einzelnen Gegenständen ist der dritte zulässige Weg.",
+      "Falsch: Preisvorteile machen aus Urlaub keine Verhinderung.",
+      "Falsch: Ohne Verhinderung oder Erlaubnis reicht privater Wunsch nicht.",
+      "Falsch: Einen freien Tag nach Wahl gibt es nicht."
+    ],
+    "aufloesung": "Der Urlaub ist kein zulässiges Fernbleiben, nur die drei Wege Verhinderung, Erlaubnis oder Befreiung zählen. Ein privater Reisewunsch ist weder Krankheit noch Notlage und ersetzt kein Verfahren. Wer ohne einen dieser Gründe fehlt, fehlt unentschuldigt. Zum Nachlesen: SchUG §45 Abs.1.",
+    "hauptquelle": "SchUG §45 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-002",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Klassenlehrerin Maier erhält an einem Montag drei Nachrichten: ein Kind mit Fieber, eines mit ansteckendem Bruder im selben Zimmer und eines, das die kranke Mutter versorgen musste. Sie prüft, welche dieser Lagen als gerechtfertigte Verhinderung anerkannt sind.",
+    "optionen": [
+      "Die eigene Krankheit des Schülers rechtfertigt das Fernbleiben.",
+      "Eine mit Ansteckungsgefahr verbundene Krankheit von Hausangehörigen rechtfertigt das Fernbleiben.",
+      "Krankheit von Angehörigen mit unbedingtem Hilfebedarf rechtfertigt vorübergehend das Fernbleiben.",
+      "Leichte Unlust am Montagmorgen rechtfertigt das Fernbleiben genauso.",
+      "Ein verschlafener Bus ohne jede Gefahr rechtfertigt automatisch das Fernbleiben.",
+      "Ein geplanter Einkaufstag mit den Eltern ist eine Verhinderung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eigene Krankheit ist der klassische Rechtfertigungsgrund.",
+      "Richtig: Ansteckungsgefahr im Haushalt schützt die ganze Klasse.",
+      "Richtig: Unbedingte vorübergehende Hilfe zu Hause ist anerkannt.",
+      "Falsch: Unlust ist keine Verhinderung im rechtlichen Sinn.",
+      "Falsch: Alltagsverspätungen ohne Gefahrenlage sind keine Verhinderung.",
+      "Falsch: Einkäufe sind planbar und keine unvorhersehbare Verhinderung."
+    ],
+    "aufloesung": "Alle drei gemeldeten Fälle sind gerechtfertigte Verhinderungen, Unlust und Planbares nicht. Krankheit, Ansteckungsgefahr und unbedingte Hilfe sind ausdrücklich als Gründe vorgesehen. Entscheidend ist immer die unvorhersehbare Notlage, nicht der private Wunsch. Zum Nachlesen: SchUG §45 Abs.2.",
+    "hauptquelle": "SchUG §45 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-003",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lenas Bruder liegt mit einer hochansteckenden Krankheit zu Hause, Lena selbst ist noch gesund und will in die Schule. Die Eltern fragen, ob sie Lena zum Schutz der Klasse zu Hause behalten dürfen und was dabei gilt.",
+    "optionen": [
+      "Eine mit Ansteckungsgefahr verbundene Krankheit von Hausangehörigen ist eine Verhinderung.",
+      "Eigene Symptome sind dafür nicht nötig, die Übertragungsgefahr genügt.",
+      "Die Verhinderung ist unverzüglich mit Grund der Schule zu melden.",
+      "Gesunde Geschwister müssen trotz Ansteckungsgefahr immer in die Schule.",
+      "Es reicht, nach einer Woche beiläufig Bescheid zu geben.",
+      "Nur ein Krankenhausaufenthalt des Bruders würde das Fehlen erlauben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese Haushaltsgefahr ist als Grund vorgesehen.",
+      "Richtig: Die drohende Übertragung zählt, nicht erst eigene Symptome.",
+      "Richtig: Auch hier gilt sofort melden mit Grund.",
+      "Falsch: Der Schutz der Klasse geht vor der Anwesenheitspflicht.",
+      "Falsch: Beiläufig und verspätet ist keine unverzügliche Meldung.",
+      "Falsch: Auf einen Spitalaufenthalt kommt es nicht an."
+    ],
+    "aufloesung": "Lena darf zum Schutz der Klasse zu Hause bleiben und die Eltern melden das sofort. Die Ansteckungsgefahr im gemeinsamen Haushalt ist ein anerkannter Grund. So werden Mitschüler und Lehrkräfte vor einer vermeidbaren Übertragung geschützt. Zum Nachlesen: SchUG §45 Abs.2.",
+    "hauptquelle": "SchUG §45 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-004",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Selmas Mutter liegt nach einer Operation flach, der Vater ist beruflich verreist und die 15-jährige Selma soll zwei Tage die kleinen Geschwister betreuen. Die Schule prüft, ob das als Verhinderung wegen Angehörigenhilfe durchgeht.",
+    "optionen": [
+      "Krankheit von Angehörigen mit unbedingtem Hilfebedarf kann das Fehlen rechtfertigen.",
+      "Die Hilfe muss vorübergehend und unbedingt nötig sein, nicht dauerhaft planbar.",
+      "Je schneller die Lage endet, desto eher bleibt es bei einer kurzen Verhinderung.",
+      "Jede Haushaltshilfe bei Eltern rechtfertigt wochenlanges Fernbleiben ohne Grenze.",
+      "Bequemlichkeit oder ein voller Terminkalender der Eltern genügt als Grund.",
+      "Auf die Unbedingtheit der Hilfe kommt es dabei gar nicht an."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Akute Hilfsbedürftigkeit bei Angehörigen ist ein anerkannter Grund.",
+      "Richtig: Unbedingt und vorübergehend sind die beiden Schlüsselwörter.",
+      "Richtig: Kurz und überbrückend gedacht, keine Dauerlösung.",
+      "Falsch: Dauerlösungen brauchen andere Wege als die Verhinderung.",
+      "Falsch: Bequemlichkeit ersetzt die unbedingte Notwendigkeit nicht.",
+      "Falsch: Gerade die Unbedingtheit entscheidet über die Rechtfertigung."
+    ],
+    "aufloesung": "Selmas zwei Tage sind als vorübergehende unbedingte Hilfe gerechtfertigt, eine Dauerlösung nicht. Die Mutter ist auf die Tochter angewiesen und es gibt kurzfristig keine andere Betreuung. Für längere Zeit braucht die Familie eine andere Organisation statt Schulversäumnis. Zum Nachlesen: SchUG §45 Abs.2.",
+    "hauptquelle": "SchUG §45 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-005",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Davids Großvater stirbt unerwartet, das Begräbnis findet an einem Schultag in einem anderen Bundesland statt. Daneben fragt eine andere Familie, ob ein Musikwettbewerb am Wochenende auch als solches Ereignis zählt.",
+    "optionen": [
+      "Außergewöhnliche Ereignisse im Leben oder in der Familie sind eine Verhinderung.",
+      "Ein unerwarteter Todesfall mit Begräbnis an einem Schultag ist ein klassischer Fall.",
+      "Die Verhinderung ist unverzüglich mit Grund der Schule zu melden.",
+      "Jeder planbare Freizeittermin ist automatisch ein außergewöhnliches Ereignis.",
+      "Ein Wochenendwettbewerb ohne Schulüberschneidung braucht diese Verhinderung nicht.",
+      "Trauerfälle müssen immer erst nachträglich am Zeugnistag gemeldet werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schwere unvorhersehbare Familienereignisse sind ausdrücklich genannt.",
+      "Richtig: Tod und Begräbnis sind das Musterbeispiel dafür.",
+      "Richtig: Sofortige Meldung mit Grund sichert die Rechtfertigung.",
+      "Falsch: Planbares und Alltägliches ist nicht außergewöhnlich.",
+      "Richtig: Ohne Versäumnis von Unterricht greift die Verhinderung ins Leere.",
+      "Falsch: Gewartet wird nicht, gemeldet wird ohne Aufschub."
+    ],
+    "aufloesung": "Davids Fehlen ist durch das außergewöhnliche Familienereignis gerechtfertigt, der Wochenendtermin nicht. Tod und Begräbnis sind unvorhersehbar und zwingen zur Abwesenheit. Planbare Freizeit lässt sich dagegen rund um die Schule organisieren. Zum Nachlesen: SchUG §45 Abs.2.",
+    "hauptquelle": "SchUG §45 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-006",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Nach starkem Schneefall ist die Bergstraße zu Tariks Schule gesperrt, der Schulbus fällt aus und der Fußweg wäre wegen Eis und Lawinengefahr lebensgefährlich. Ein Mitschüler aus dem Ort will bei leichtem Nieselregen ebenfalls zu Hause bleiben.",
+    "optionen": [
+      "Die Ungangbarkeit des Schulweges rechtfertigt das Fernbleiben.",
+      "Schlechte Witterung rechtfertigt das Fehlen, wenn sie die Gesundheit gefährdet.",
+      "Bei echter Gefahr verlangt niemand den Marsch zur Schule.",
+      "Jeder leichte Regen ohne jede Gefahr rechtfertigt das Zuhausebleiben.",
+      "Auf das gewählte Verkehrsmittel kommt es entscheidend an, nicht auf die Gefahr.",
+      "Trotz gesperrter Straße muss das Kind es zu Fuß versuchen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein unpassierbarer Weg macht den Schulbesuch unmöglich.",
+      "Richtig: Gefährliches Wetter mit Gesundheitsrisiko ist ausdrücklich genannt.",
+      "Richtig: Der Schutz der Gesundheit geht vor der Anwesenheit.",
+      "Falsch: Alltagsregen ohne Gefahr ist keine Rechtfertigung.",
+      "Falsch: Entscheidend ist die Gefahrenlage, nicht Auto oder Bus.",
+      "Falsch: Bei Lebensgefahr darf das Kind zu Hause bleiben."
+    ],
+    "aufloesung": "Tarik darf bei gesperrter Straße und Lebensgefahr zu Hause bleiben, der Mitschüler bei Nieselregen nicht. Ungangbarkeit und gesundheitsgefährdendes Wetter sind anerkannte Gründe. Normales Winterwetter ohne Gefahr verpflichtet weiter zum Schulbesuch. Zum Nachlesen: SchUG §45 Abs.2.",
+    "hauptquelle": "SchUG §45 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-007",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "BS",
+      "BHS"
+    ],
+    "situation": "Eine schwangere Berufsschülerin erhält ein ärztlich bestätigtes Verbot für schwere praktische Arbeiten in der Werkstatt und im Betrieb. Sie fragt, ob sie für diese Zeit auch der Schule fernbleiben darf und was sie beachten muss.",
+    "optionen": [
+      "Die Dauer von Verboten nach den Schutzbestimmungen für werdende Mütter ist eine Verhinderung.",
+      "Während des Verbotes darf sie nicht in die betroffenen Arbeiten geschickt werden.",
+      "Die Verhinderung ist der Schule unverzüglich mit Grund zu melden.",
+      "Die Schule geht immer vor, ein Verbot ist dafür unbeachtlich.",
+      "Nur die Zeit nach der Geburt zählt, Verbote in der Schwangerschaft zählen nicht.",
+      "Melden muss man solche Verbote grundsätzlich nie."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese Schutzzeiten sind als Verhinderung vorgesehen.",
+      "Richtig: Das Verbot schlägt die Anwesenheitspflicht in diesem Bereich.",
+      "Richtig: Auch hier braucht es die sofortige Meldung mit Grund.",
+      "Falsch: Ein gesetzliches Verbot geht der Anwesenheit vor.",
+      "Falsch: Auch Verbote vor der Geburt sind erfasst.",
+      "Falsch: Ohne Meldung fehlt der Schule die Grundlage für die Rechtfertigung."
+    ],
+    "aufloesung": "Die Schülerin darf für die Dauer des Verbotes fernbleiben und meldet das sofort. Die Schutzzeiten für werdende Mütter sind eine anerkannte Verhinderung. So werden Mutter und Kind geschützt, ohne dass ein unentschuldigtes Fehlen entsteht. Zum Nachlesen: SchUG §45 Abs.2.",
+    "hauptquelle": "SchUG §45 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-008",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Noah fehlt am Montag wegen Erkrankung, die Eltern wollen erst am Freitag anrufen und es lieber den Mitschülern erzählen. Der Klassenvorstand erklärt, wie eine Verhinderung korrekt zu melden ist.",
+    "optionen": [
+      "Jede Verhinderung ist ohne Aufschub mit Grund zu melden.",
+      "Zu melden ist an den Klassenvorstand oder die Schulleitung.",
+      "Auf Verlangen der Schule ist die Meldung jedenfalls schriftlich nachzureichen.",
+      "Es genügt, es den Mitschülern zu erzählen und abzuwarten.",
+      "Eine Meldung erst Wochen später ist ebenfalls ohne Aufschub.",
+      "Gar keine Meldung ist nötig, die Schule merkt das Fehlen von selbst."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverzüglich mit Grund, das ist die Kernpflicht.",
+      "Richtig: Genau diese beiden sind die richtigen Empfänger.",
+      "Richtig: Schriftlich auf Verlangen sichert den Nachweis.",
+      "Falsch: Mitschüler sind keine Empfänger der Entschuldigung.",
+      "Falsch: Wochen später ist verspätet und riskiert unentschuldigt.",
+      "Falsch: Schweigen gilt nie als Entschuldigung."
+    ],
+    "aufloesung": "Die Eltern müssen sofort mit Grund beim Klassenvorstand oder der Leitung melden, schriftlich wenn verlangt. Nur die unverzügliche Meldung sichert die Rechtfertigung. Wer wartet oder nur Mitschüler informiert, riskiert eine unentschuldigte Abwesenheit. Zum Nachlesen: SchUG §45 Abs.3.",
+    "hauptquelle": "SchUG §45 Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-009",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mia fehlt seit Wochen fast jeden Montag mit kurzen handschriftlichen Zetteln, dazu war sie einmal neun Tage am Stück krank. Der Klassenvorstand zweifelt an den Gründen und prüft, wann er einen ärztlichen Nachweis verlangen darf.",
+    "optionen": [
+      "Bei Zweifeln an der Verhinderung kann ein ärztliches Zeugnis verlangt werden.",
+      "Bei mehr als einer Woche Dauer kann das Zeugnis verlangt werden.",
+      "Bei gehäuftem kurzem Fehlen kann das Zeugnis bei Zweifeln verlangt werden.",
+      "Ein Zeugnis darf grundsätzlich niemals verlangt werden.",
+      "Die Schule darf Kranke stattdessen selbst untersuchen.",
+      "Nach einem Zeugnis darf nur am Schuljahresende gefragt werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zweifel sind die Voraussetzung für das Verlangen.",
+      "Richtig: Lange Dauer über eine Woche löst das Verlangen aus.",
+      "Richtig: Auch gehäuftes kurzes Fehlen löst es bei Zweifeln aus.",
+      "Falsch: Genau für diese Fälle ist das Zeugnis vorgesehen.",
+      "Falsch: Untersucht wird niemand, verlangt wird ein ärztlicher Nachweis.",
+      "Falsch: Gefragt wird bei Anlass, nicht nur im Juni."
+    ],
+    "aufloesung": "Der Klassenvorstand darf hier wegen Dauer, Häufung und Zweifeln ein ärztliches Zeugnis verlangen. So schützt die Schule ehrliche Kranke und verhindert Gefälligkeitszettel. Ohne Zweifel bleibt es beim Elternzettel mit unverzüglicher Meldung. Zum Nachlesen: SchUG §45 Abs.3.",
+    "hauptquelle": "SchUG §45 Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-010",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Felix braucht für einen Behandlungsvormittag drei Stunden frei und im nächsten Monat für eine Familienfeier zwei Tage. Er fragt, wen er jeweils um Erlaubnis bitten muss und was dafür nötig ist.",
+    "optionen": [
+      "Für einzelne Stunden bis zu einem Tag ist der Klassenvorstand zuständig.",
+      "Für mehr als einen Tag ist die Schulleitung zuständig.",
+      "Eine Erlaubnis gibt es nur aus wichtigen Gründen.",
+      "Jeder Fachlehrer darf beliebig lange Zeiträume freigeben.",
+      "Für drei Stunden muss immer die Schulleitung entscheiden.",
+      "Erlaubnisse gibt es grundsätzlich nie, egal wie wichtig der Grund."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kurze Freistellung läuft über den Klassenvorstand.",
+      "Richtig: Längere Freistellung läuft über die Leitung.",
+      "Richtig: Ohne wichtigen Grund gibt es keine Erlaubnis.",
+      "Falsch: Beliebig lange darf kein einzelner Fachlehrer freigeben.",
+      "Falsch: Kurze Zeit ist gerade die Zuständigkeit des Klassenvorstands.",
+      "Falsch: Erlaubnisse aus wichtigem Grund sind ausdrücklich vorgesehen."
+    ],
+    "aufloesung": "Felix fragt für die drei Stunden den Klassenvorstand und für die zwei Tage die Leitung, jeweils mit wichtigem Grund. Die Zuständigkeit richtet sich nach der Dauer der Freistellung. Ohne wichtigen Grund darf keine der beiden Stellen freigeben. Zum Nachlesen: SchUG §45 Abs.4.",
+    "hauptquelle": "SchUG §45 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-011",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS",
+      "BS"
+    ],
+    "situation": "Der Schulsprecher soll an einem Vormittag an einer Sitzung des Schulgemeinschaftsausschusses teilnehmen und versäumt zwei eigene Stunden. Eine Mitschülerin will für ein Probetraining in einer höheren Stufe ebenfalls freigestellt werden.",
+    "optionen": [
+      "Tätigkeiten in Schülervertretungen sind jedenfalls wichtige Gründe für eine Erlaubnis.",
+      "Auch die Teilnahme am Unterricht einer anderen Schulstufe kann ein wichtiger Grund sein.",
+      "Die Erlaubnis ist vorher bei der zuständigen Stelle einzuholen.",
+      "Gremienarbeit ist nie ein Grund, man muss immer im eigenen Unterricht sitzen.",
+      "Nur Sportwettkämpfe zählen, Vertretungsarbeit zählt grundsätzlich nicht.",
+      "Eine nachträgliche Genehmigung ist genauso gut wie eine vorherige Erlaubnis."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vertretungsarbeit ist ausdrücklich als wichtiger Grund genannt.",
+      "Richtig: Unterricht in einer anderen Stufe kann ebenfalls dazugehören.",
+      "Richtig: Vorher fragen, nicht hinterher entschuldigen.",
+      "Falsch: Eigener Unterricht pausiert für solche Aufgaben zulässigerweise.",
+      "Falsch: Die Aufzählung ist breiter als nur Sport.",
+      "Falsch: Erlaubnis heißt vorher, Verhinderung heißt melden."
+    ],
+    "aufloesung": "Beide Anliegen können als wichtige Gründe erlaubt werden, aber nur vorher beantragt. Gremienarbeit und Unterricht in einer anderen Stufe sind ausdrücklich als Beispiele genannt. Wer einfach wegbleibt und erst hinterher erklärt, hat keine Erlaubnis. Zum Nachlesen: SchUG §45 Abs.4.",
+    "hauptquelle": "SchUG §45 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-012",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS",
+      "BS"
+    ],
+    "situation": "Ein 17-jähriger Schüler einer höheren Schule fehlt drei Wochen ohne jede Nachricht. Die Schule hat ihn bereits schriftlich aufgefordert, den Grund binnen einer Woche mitzuteilen, doch auch darauf kommt keine Antwort.",
+    "optionen": [
+      "Bei Fernbleiben ohne Grund über eine Woche hinaus greift die Abmeldefiktion.",
+      "Auch fünf einzelne Tage oder dreißig versäumte Stunden ohne Grund genügen dafür.",
+      "Voraussetzung ist eine fruchtlose schriftliche Aufforderung mit Wochenfrist.",
+      "Unentschuldigtes Fehlen ist folgenlos, man kann beliebig lange wegbleiben.",
+      "Eine mündliche Nachricht über Freunde ersetzt die Aufforderung der Schule.",
+      "Die Abmeldung gilt sofort am ersten Fehltag ohne jedes Verfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Länger als eine Woche ohne Grund ist die erste Frist.",
+      "Richtig: Fünf Tage oder dreißig Stunden sind die alternativen Grenzen.",
+      "Richtig: Erst nach fruchtloser Aufforderung mit Wochenfrist gilt er als abgemeldet.",
+      "Falsch: Grenzenloses Schwänzen beendet den Schulbesuch.",
+      "Falsch: Verlangt ist die schriftliche Aufforderung mit Frist.",
+      "Falsch: Ohne Fristen und Aufforderung gibt es keine Fiktion."
+    ],
+    "aufloesung": "Der Schüler gilt nach fruchtloser Aufforderung als vom Schulbesuch abgemeldet. Drei Wochen ohne Grund überschreiten die Wochengrenze deutlich. Das Verfahren mit schriftlicher Aufforderung und Wochenfrist schützt vor übereilten Entscheidungen. Zum Nachlesen: SchUG §45 Abs.5.",
+    "hauptquelle": "SchUG §45 Abs.5",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-013",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS",
+      "BS"
+    ],
+    "situation": "Ein als abgemeldet geltender Schüler will nach längerer unentschuldigter Abwesenheit wieder in seine Klasse zurückkehren. Er bringt nun ein Spitalsschreiben und bittet um Wiederaufnahme des Schulbesuchs.",
+    "optionen": [
+      "Die Wiederaufnahme braucht eine Bewilligung der Schulleitung.",
+      "Die versäumte Zeit muss nachträglich aus rücksichtswürdigen Gründen gerechtfertigt werden.",
+      "Ohne Bewilligung und nachträgliche Rechtfertigung gibt es keine Rückkehr.",
+      "Man kann nach Abmeldung einfach wieder in der Klasse Platz nehmen.",
+      "Die Bewilligung ist Formsache und muss immer erteilt werden.",
+      "Rücksichtswürdige Gründe spielen für die Rückkehr keine Rolle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zurück geht es nur mit Bewilligung der Leitung.",
+      "Richtig: Nachträgliche Rechtfertigung aus rücksichtswürdigen Gründen ist nötig.",
+      "Richtig: Beide Hürden zusammen sichern den Ernst des Schulbesuchs.",
+      "Falsch: Einfach Hinsetzen genügt nach der Fiktion nicht.",
+      "Falsch: Geprüft wird, ob die Gründe die Rückkehr tragen.",
+      "Falsch: Gerade diese Gründe entscheiden über die Bewilligung."
+    ],
+    "aufloesung": "Die Rückkehr gelingt nur mit Bewilligung und nachträglicher Rechtfertigung aus rücksichtswürdigen Gründen. Die Abmeldefiktion beendet den Schulbesuch, sie ist kein kurzer Urlaub. So bleibt der Schulplatz für verlässliche Schüler gesichert. Zum Nachlesen: SchUG §45 Abs.5.",
+    "hauptquelle": "SchUG §45 Abs.5",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-014",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Ein angemeldeter Ganztagsschüler will die letzte Freizeiteinheit am Freitag regelmäßig früher verlassen, ein anderer fehlt im Betreuungsteil wegen Krankheit. Die Eltern fragen, wann ein Fehlen im Betreuungsteil überhaupt zulässig ist.",
+    "optionen": [
+      "Bei einer Verhinderung darf das Kind auch im Betreuungsteil fehlen.",
+      "Mit Erlaubnis aus vertretbaren Gründen darf das Kind im Betreuungsteil fehlen.",
+      "Auf Wunsch der Eltern bei Randstunden mit überwiegendem Freizeitanteil darf es fehlen.",
+      "Im Betreuungsteil darf man kommen und gehen wie man will.",
+      "Krankheit rechtfertigt im Betreuungsteil grundsätzlich kein Fehlen.",
+      "Ein Elternwunsch wirkt zu jeder Kernlernzeit ohne jede Grenze."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verhinderung gilt auch für den Betreuungsteil.",
+      "Richtig: Vertretbare Gründe tragen eine Erlaubnis dort.",
+      "Richtig: Randstunden mit Freizeit sind für den Elternwunsch geöffnet.",
+      "Falsch: Beliebiges Kommen und Gehen ist nicht vorgesehen.",
+      "Falsch: Krankheit rechtfertigt auch dort das Fehlen.",
+      "Falsch: Der Wunsch greift nur bei Randstunden mit Freizeit."
+    ],
+    "aufloesung": "Im Betreuungsteil zählen Verhinderung, Erlaubnis aus vertretbaren Gründen oder Elternwunsch bei Randstunden mit Freizeit. Einfach wegbleiben ohne Wort geht auch dort nicht. So bleibt die Betreuung planbar und die Aufsicht gesichert. Zum Nachlesen: SchUG §45 Abs.7.",
+    "hauptquelle": "SchUG §45 Abs.7",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A16-L2-015",
+    "modul_id": "A16",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "PTS",
+      "AHS"
+    ],
+    "situation": "Eine Schülerin der achten Schulstufe will an drei Tagen in einer Tischlerei schnuppern und einen Infotag einer weiterführenden Schule besuchen. Dafür müsste sie dem eigenen Unterricht fernbleiben und fragt nach der Freigabe.",
+    "optionen": [
+      "Bis zu fünf Tage pro Schuljahr können für individuelle Berufsorientierung freigegeben werden.",
+      "Zuständig für die Freigabe ist der Klassenvorstand nach Abwägung der Interessen.",
+      "Das Schnuppern baut auf dem Unterricht auf und ersetzt ihn nicht beliebig.",
+      "Schnuppern an Schultagen ist grundsätzlich verboten und nie freigabefähig.",
+      "Unbegrenzt viele Tage ohne Antrag und ohne Abwägung sind möglich.",
+      "Jeder Fachlehrer darf die fünf Tage je einzeln neu vergeben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fünf Tage im Jahr sind die Obergrenze für diese Freigabe.",
+      "Richtig: Antrag plus Interessenabwägung durch den Klassenvorstand.",
+      "Richtig: Berufswahl ergänzt den Unterricht, sie hebelt ihn nicht aus.",
+      "Falsch: Verboten ist es nicht, es braucht nur die Freigabe.",
+      "Falsch: Ohne Antrag und Grenze geht es nicht.",
+      "Falsch: Zuständig ist der Klassenvorstand, nicht jeder einzeln."
+    ],
+    "aufloesung": "Die vier Tage können vom Klassenvorstand nach Interessenabwägung freigegeben werden, mehr als fünf nicht. Individuelle Berufsorientierung ist ein anerkannter Freigabegrund innerhalb der Jahresgrenze. So lassen sich Berufswahl und Unterrichtsbesuch vernünftig verbinden. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "stand": "04.09.2026"
+  }
+]

@@ -1,1 +1,519 @@
-[]
+[
+  {
+    "id": "B20-L2-001",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Volksschullehrer Gruber lässt die Klasse regelmäßig Videos schauen, erledigt Privates am Handy und überlässt die Heftkontrolle einer Mutter. Die Direktion prüft mit einer Checkliste, was zu den persönlich zu erbringenden Aufgaben gehört.",
+    "optionen": [
+      "Unterrichtsaufgaben sind persönlich und treu aus eigenem zu besorgen.",
+      "Erziehungsaufgaben sind gewissenhaft wahrzunehmen statt sie abzuschieben.",
+      "Verwaltungsaufgaben wie Korrekturen gehören zu den eigenen Pflichten.",
+      "Private Erledigungen während des Unterrichts sind mit Videos vereinbar.",
+      "Eltern dürfen die Aufgaben dauerhaft übernehmen, dann entfällt die Pflicht.",
+      "Solange die Kinder ruhig sind, ist die eigene Anwesenheit entbehrlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unterricht ist persönlich und treu aus eigenem zu leisten.",
+      "Richtig: Erziehung lässt sich nicht an Videos oder Eltern delegieren.",
+      "Richtig: Auch Korrekturen und Verwaltung sind eigene Aufgaben.",
+      "Falsch: Privates während des Unterrichts verletzt die Gewissenhaftigkeit.",
+      "Falsch: Die Aufgaben bleiben seine eigenen und wandern nicht ab.",
+      "Falsch: Ruhe ersetzt nicht die treue Aufgabenerfüllung."
+    ],
+    "aufloesung": "Gruber muss Unterricht und Korrekturen wieder selbst treu und gewissenhaft übernehmen. Lehrpersonen besorgen ihre Unterrichts-, Erziehungs- und Verwaltungsaufgaben aus eigenem. Bequemlichkeit und ruhige Kinder ändern daran nichts. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-002",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Mittelschullehrerin Berger hält die geltende Benotungsregelung für zu streng und wendet ein eigenes milderes Punkteschema an. Sie meint, ihr pädagogisches Ermessen stehe über jeder Vorschrift.",
+    "optionen": [
+      "Bei allen Aufgaben ist die geltende Rechtsordnung zu beachten.",
+      "Eigenmächtige Parallelregeln neben der geltenden Regelung sind pflichtwidrig.",
+      "Pädagogisches Ermessen bewegt sich nur innerhalb der Vorschriften.",
+      "Ermessen steht über jeder Vorschrift und hebt sie im Einzelfall auf.",
+      "Solange der Schnitt stimmt, ist ein eigenes Schema zulässig.",
+      "Erst auf Elternbeschwerde muss wieder die geltende Regelung gelten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rechtsordnung beachten gilt für alle Aufgaben.",
+      "Richtig: Eigene Schemata daneben sind unzulässig.",
+      "Richtig: Ermessen füllt Vorschriften aus, es bricht sie nicht.",
+      "Falsch: Keine Ermessensfreiheit gegen die geltende Regelung.",
+      "Falsch: Ein guter Schnitt heilt den Verstoß nicht.",
+      "Falsch: Die Pflicht hängt nicht von Beschwerden ab."
+    ],
+    "aufloesung": "Berger muss wieder das geltende Schema anwenden und darf es nicht eigenmächtig ersetzen. Die Rechtsordnung ist bei allen Aufgaben einzuhalten, auch bei Kritik daran. Wer eine Regel für falsch hält, ändert sie über den Dienstweg statt sie zu ignorieren. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-003",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner verteilt mündliche Mitarbeitspunkte erkennbar nach Sympathie: Lieblingsschüler erhalten Bestnoten für Schweigen, unbeliebte für gute Beiträge wenig. Die Direktion prüft die Pflicht zur unparteiischen Aufgabenerfüllung.",
+    "optionen": [
+      "Aufgaben sind unparteiisch wahrzunehmen, ohne Ansehen der Person.",
+      "Sympathie oder Antipathie darf die Beurteilung nicht steuern.",
+      "Alle Schüler haben Anspruch auf gleiche Maßstäbe bei gleicher Leistung.",
+      "Nach Sympathie zu benoten ist zulässiges pädagogisches Ermessen.",
+      "Solange der Schnitt passt, ist Parteilichkeit bedeutungslos.",
+      "Nur auf Beschwerde der Eltern muss unparteiisch benotet werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unparteilichkeit gehört zu den Grundpflichten.",
+      "Richtig: Persönliche Nähe verzerrt die sachliche Beurteilung.",
+      "Richtig: Gleiche Leistung verdient gleiche Maßstäbe.",
+      "Falsch: Parteilichkeit ist kein Ermessen, sondern Pflichtverstoß.",
+      "Falsch: Der Schnitt heilt die Ungleichbehandlung nicht.",
+      "Falsch: Die Pflicht gilt immer, nicht erst auf Beschwerde."
+    ],
+    "aufloesung": "Brunner muss wieder nach gleichen sachlichen Maßstäben beurteilen statt nach Sympathie. Aufgaben sind unparteiisch zu besorgen, gerade bei Noten. Parteilichkeit zerstört das Vertrauen in die Schule. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-004",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Steiner postet unter vollem Namen wütende Beiträge über seine Schule, beschimpft Kolleginnen als unfähig und breitet interne Konflikte öffentlich aus. Am Montag staunt er über die Empörung im Kollegium.",
+    "optionen": [
+      "Das Gesamtverhalten muss das Vertrauen in die sachliche Aufgabenerfüllung wahren.",
+      "Öffentliche Beschimpfungen von Kollegium und Schule schaden diesem Vertrauen.",
+      "Auch Verhalten außerhalb des Unterrichts kann das Vertrauen erschüttern.",
+      "Private Beiträge im Netz sind dienstrechtlich immer völlig egal.",
+      "Solange alles der Wahrheit entspricht, ist Bloßstellen unbedenklich.",
+      "Erst wenn die Direktion zufällig mitliest, wird es ein Problem."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vertrauenswahrung ist ausdrückliche Pflicht.",
+      "Richtig: Bloßstellung untergräbt das Vertrauen in sachliches Arbeiten.",
+      "Richtig: Gesamtverhalten umfasst auch das Auftreten außerhalb.",
+      "Falsch: Wirkung zählt, nicht der private Rahmen.",
+      "Falsch: Auch wahre Interna gehören nicht an den öffentlichen Pranger.",
+      "Falsch: Entscheidend ist die Wirkung, nicht die zufällige Kenntnis."
+    ],
+    "aufloesung": "Steiner muss die Beiträge löschen und sein Auftreten ändern, weil das Vertrauen leidet. Das Gesamtverhalten muss die sachliche Aufgabenerfüllung stützen statt sie zu beschädigen. Kritik gehört in den Dienstweg, nicht als Beschimpfung ins Netz. Zum Nachlesen: LDG §29 Abs.2.",
+    "hauptquelle": "LDG §29 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-005",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professorin Hofer prüft in der Maturaklasse ihren eigenen Sohn und gibt ihm in einer knappen Grenzentscheidung die bessere Note. Sie betont, sie habe völlig sachlich entschieden und sieht keinen Handlungsbedarf.",
+    "optionen": [
+      "Wer durch eigene Interessen nicht mehr unvoreingenommen entscheiden kann, steckt in einem Interessenkonflikt.",
+      "Die Prüfung des eigenen Kindes ist wegen Befangenheit zu vermeiden.",
+      "Stattdessen ist für Ersatz bei der Prüfung zu sorgen.",
+      "Mütter können eigene Kinder am besten prüfen, daher ist das unproblematisch.",
+      "In knappen Fällen darf man dem eigenen Kind immer die bessere Note geben.",
+      "Solange niemand protestiert, ist die Prüfung durch die Mutter zulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Persönliche Nähe schließt Unvoreingenommenheit hier aus.",
+      "Richtig: Tatsächliche Befangenheit ist zu vermeiden.",
+      "Richtig: Ersatz sichert die sachliche Prüfung.",
+      "Falsch: Gerade bei eigenen Kindern fehlt die nötige Distanz.",
+      "Falsch: Eine Besserstellungsregel für Grenzfälle gibt es nicht.",
+      "Falsch: Fehlender Protest heilt den Konflikt nicht."
+    ],
+    "aufloesung": "Hofer hätte die Prüfung ihres Sohnes nicht selbst durchführen dürfen und muss sich ersetzen lassen. Eigene Interessen schließen die völlig unvoreingenommene Prüfung aus. Gute Absicht ersetzt die nötige Distanz nicht. Zum Nachlesen: LDG §29 Abs.2.",
+    "hauptquelle": "LDG §29 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-006",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Pichler sitzt in der Kommission über einen Lieferauftrag der Schule, unter den Anbietern ist die Firma seiner Ehefrau. Er meint, er könne trotzdem neutral abstimmen, und bleibt im Verfahren.",
+    "optionen": [
+      "Schon der Anschein fehlender Unparteilichkeit ist zu vermeiden.",
+      "Die Mitwirkung an der Vergabe an Angehörige begründet diesen Anschein.",
+      "Pichler muss sich enthalten, soweit das zumutbar möglich ist.",
+      "Innerliche Neutralität genügt, der Anschein ist dabei egal.",
+      "Erst ab einer bestimmten Auftragssumme müsste er sich enthalten.",
+      "Die Stimme dem Vorsitz zu überlassen heilt die Mitwirkung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Auch vermeintliche Konflikte sind zu vermeiden.",
+      "Richtig: Angehörigenaufträge sind das Musterbeispiel dafür.",
+      "Richtig: Enthaltung sichert die Sauberkeit des Verfahrens.",
+      "Falsch: Das eigene Neutralitätsgefühl beseitigt den Anschein nicht.",
+      "Falsch: Auf eine Geldgrenze kommt es nicht an.",
+      "Falsch: Auch mittelbare Mitwirkung bleibt problematisch."
+    ],
+    "aufloesung": "Pichler hätte an der Entscheidung nicht mitwirken dürfen und muss sich enthalten. Schon der Anschein, persönliche Interessen könnten die Unparteilichkeit beeinträchtigen, ist zu vermeiden. Sauberkeit des Verfahrens geht vor Bequemlichkeit. Zum Nachlesen: LDG §29 Abs.2.",
+    "hauptquelle": "LDG §29 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-007",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Moser unterrichtet seit zwölf Jahren unverändert nach alten Unterlagen, besucht keine Fortbildung und lehnt neue Methoden ab. Sie findet, ihre damalige Ausbildung reiche für immer.",
+    "optionen": [
+      "Lehrpersonen müssen um ihre berufliche Fortbildung bestrebt sein.",
+      "Stillstand auf dem Ausbildungsstand verletzt diese Pflicht.",
+      "Auch erfahrene Lehrkräfte müssen dazulernen und sich weiterentwickeln.",
+      "Fortbildung ist freiwillig und erst nach zwanzig Jahren ein Thema.",
+      "Gute Prüfungsergebnisse entbinden vom Dazulernen.",
+      "Die Pflicht trifft nur junge Lehrkräfte in den ersten Dienstjahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Bemühen um Fortbildung ist ausdrückliche Pflicht.",
+      "Richtig: Wer stehen bleibt, verletzt genau diese Pflicht.",
+      "Richtig: Die Pflicht gilt für alle, unabhängig von Erfahrung.",
+      "Falsch: Freiwillig ist das Bemühen gerade nicht.",
+      "Falsch: Auch gute Ergebnisse entbinden nicht.",
+      "Falsch: Erfahrene trifft es genauso wie junge."
+    ],
+    "aufloesung": "Moser muss sich wieder um ihre Weiterbildung kümmern statt auf alten Unterlagen zu beharren. Das Bemühen um berufliche Fortbildung ist eine laufende Dienstpflicht. Schule und Lehrpläne entwickeln sich weiter, der Unterricht muss mitwachsen. Zum Nachlesen: LDG §29 Abs.3.",
+    "hauptquelle": "LDG §29 Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-008",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "In der Werkstunde teilt Lehrer Kaufmann ein: Die Burschen arbeiten an den Maschinen, die Mädchen räumen auf und dekorieren. Auf Nachfrage sagt er, das habe sich eben bewährt.",
+    "optionen": [
+      "Im dienstlichen Umgang ist Benachteiligung wegen des Geschlechts verboten.",
+      "Die Zuteilung von Aufgaben nach Geschlecht ist eine solche Benachteiligung.",
+      "Die Aufgaben sind gerecht und ohne Ansehen des Geschlechts zu verteilen.",
+      "Bewährte Tradition rechtfertigt die unterschiedliche Zuteilung.",
+      "Erst auf schriftliche Beschwerde der Mädchen wird es ein Problem.",
+      "Klassenkenntnis des Lehrers heilt die Benachteiligung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Geschlechtsdiskriminierung ist ausdrücklich verboten.",
+      "Richtig: Genau diese Aufgabenzuteilung fällt darunter.",
+      "Richtig: Gerecht verteilen statt nach Geschlecht sortieren.",
+      "Falsch: Tradition ist keine Rechtfertigung für Diskriminierung.",
+      "Falsch: Das Verbot gilt unabhängig von Beschwerden.",
+      "Falsch: Kenntnis der Klasse rechtfertigt keine Benachteiligung."
+    ],
+    "aufloesung": "Kaufmann muss die Einteilung sofort ändern und die Aufgaben gerecht verteilen. Die Benachteiligung wegen des Geschlechts ist im dienstlichen Umgang verboten. Bewährung und Tradition ändern daran nichts. Zum Nachlesen: LDG §29 Abs.4.",
+    "hauptquelle": "LDG §29 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-009",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger schließt einen Schüler mit Gehbehinderung vom Wandertag aus, obwohl die Strecke barrierefrei wäre, und Professor Wieser verspottet einen fastenden Schüler wegen seines Glaubens. Die Direktion prüft das Benachteiligungsverbot.",
+    "optionen": [
+      "Benachteiligung wegen einer Behinderung ist im Dienst verboten.",
+      "Benachteiligung wegen Religion oder Weltanschauung ist im Dienst verboten.",
+      "Bequemer Planungsaufwand oder Spott rechtfertigen die Benachteiligung nicht.",
+      "Ausschluss trotz barrierefreier Strecke ist eine verbotene Benachteiligung.",
+      "Ausflüge sind freiwillig, daher greift das Verbot dort nicht.",
+      "Über einen Ausschluss darf die Klasse demokratisch abstimmen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Behinderung ist ein ausdrücklich geschütztes Merkmal.",
+      "Richtig: Religion und Weltanschauung sind ebenfalls geschützt.",
+      "Richtig: Bequemlichkeit und Humor sind keine Rechtfertigung.",
+      "Richtig: Genau dieser Ausschluss fällt unter das Verbot.",
+      "Falsch: Das Verbot gilt auch bei Ausflügen und im Unterricht.",
+      "Falsch: Über Diskriminierung lässt sich nicht abstimmen."
+    ],
+    "aufloesung": "Beide müssen ihr Verhalten sofort beenden und alle gleich behandeln. Niemand darf wegen Behinderung oder Religion benachteiligt oder herabgesetzt werden. Das Verbot gilt im Unterricht wie bei Schulveranstaltungen. Zum Nachlesen: LDG §29 Abs.4.",
+    "hauptquelle": "LDG §29 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-010",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Seit Monaten lassen Kolleginnen und Kollegen die neue Lehrerin Aigner demonstrativ auflaufen: Sie wird aus Verteilern gestrichen, in Konferenzen lächerlich gemacht und vor der Klasse bloßgestellt. Aigner traut sich kaum mehr ins Konferenzzimmer.",
+    "optionen": [
+      "Kollegen müssen einander mit Achtung begegnen.",
+      "Würdeverletzendes und ausgrenzendes Verhalten ist verboten.",
+      "Systematisches Bloßstellen und Ausgrenzen verletzt genau diese Pflicht.",
+      "Als Einstand ist solche Schikane üblich und hinzunehmen.",
+      "Ohne körperliche Gewalt liegt kein Fehlverhalten vor.",
+      "Die Direktion darf sich unter Gleichgestellten nicht einmischen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Achtungsvoller Umgang ist ausdrücklich geboten.",
+      "Richtig: Würdeverletzung und Ausgrenzung sind verboten.",
+      "Richtig: Dauer und Systematik machen es hier eindeutig.",
+      "Falsch: Einstand tarnt keine Schikane.",
+      "Falsch: Auch seelische Herabsetzung verletzt die Würde.",
+      "Falsch: Gerade dann ist Hinsehen und Einschreiten gefordert."
+    ],
+    "aufloesung": "Das Verhalten gegenüber Aigner muss sofort aufhören, weil es ihre Würde verletzt. Kolleginnen und Kollegen schulden einander Achtung statt Ausgrenzung und Bloßstellung. Auch ohne körperliche Gewalt liegt ein klarer Verstoß vor. Zum Nachlesen: LDG §29a.",
+    "hauptquelle": "LDG §29a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-011",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schulleiter brüllt einen jungen Lehrer regelmäßig vor versammeltem Kollegium an, trägt ihm sinnlose Strafarbeiten auf und droht mit Nachteilen bei Beschwerde. Der Lehrer fragt, was für Vorgesetzte gilt.",
+    "optionen": [
+      "Vorgesetzte müssen Mitarbeitern mit Achtung begegnen.",
+      "Sie müssen Bedingungen schaffen, in denen gut zusammengearbeitet werden kann.",
+      "Anschreien und Bloßstellen verletzt dieses Gebot achtungsvollen Umgangs.",
+      "Anschreien gehört zum Führungsstil und ist bedeutungslos.",
+      "Als Vorgesetzter darf er Druck ausüben, wie er will.",
+      "Erst bei Krankmeldung des Lehrers liegt ein Verstoß vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Achtung gilt gerade auch von oben nach unten.",
+      "Richtig: Gute Zusammenarbeit ist Leitungsaufgabe.",
+      "Richtig: Entwürdigendes Verhalten ist verboten.",
+      "Falsch: Führung rechtfertigt keine Schikane.",
+      "Falsch: Leitungsfunktion erlaubt keine Willkür.",
+      "Falsch: Der Verstoß liegt im Verhalten, nicht erst in Folgen."
+    ],
+    "aufloesung": "Der Schulleiter muss sein Verhalten sofort einstellen und wieder achtungsvoll führen. Vorgesetzte schulden Achtung und gute Zusammenarbeit statt Bloßstellung und Drohung. Führung erlaubt Anleitung und Kritik, aber keine Entwürdigung. Zum Nachlesen: LDG §29a.",
+    "hauptquelle": "LDG §29a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-012",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die Direktorin teilt Lehrer Brunner eine Aufsicht beim Schulfest zu. Brunner bleibt ohne triftigen Grund fern, weil ihm die Aufgabe lästig ist, und will lieber eine selbst gewählte Aufgabe übernehmen.",
+    "optionen": [
+      "Lehrpersonen haben die Weisungen ihrer Vorgesetzten zu befolgen.",
+      "Die Aufsichtseinteilung durch die Direktorin ist eine solche Weisung.",
+      "Lästig oder unpassend allein befreit nicht von der Befolgung.",
+      "Jeder Lehrer darf selbst wählen, welche Aufgaben er übernimmt.",
+      "Ein eigenmächtiger Tausch ersetzt die erteilte Weisung.",
+      "Weisungen gelten nur bei persönlicher Einsicht des Lehrers."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Weisungsbindung ist die Grundregel.",
+      "Richtig: Einteilungen der Leitung sind zu befolgen.",
+      "Richtig: Bequemlichkeit ist kein Befreiungsgrund.",
+      "Falsch: Die Auswahl liegt nicht beim Einzelnen.",
+      "Falsch: Tauschen geht nur über die Vorgesetzte.",
+      "Falsch: Auf Einsicht kommt es nicht an."
+    ],
+    "aufloesung": "Brunner muss die eingeteilte Aufsicht übernehmen statt eigenmächtig zu tauschen. Weisungen von Vorgesetzten sind grundsätzlich zu befolgen. Wer eine Aufgabe für lästig hält, klärt das über den Dienstweg statt fernzubleiben. Zum Nachlesen: LDG §30 Abs.1.",
+    "hauptquelle": "LDG §30 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-013",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Obmann des Elternvereins ordnet an, dass eine bevorstehende Schularbeit verschoben und milder benotet wird. Lehrerin Hofer soll das sofort umsetzen und fragt, ob sie folgen muss.",
+    "optionen": [
+      "Befolgt werden müssen nur Weisungen von Vorgesetzten.",
+      "Der Elternverein ist kein weisungsbefugter Vorgesetzter der Lehrerin.",
+      "Die Anordnung Unzuständiger darf abgelehnt werden.",
+      "Jede Anordnung ist zu befolgen, egal von wem sie kommt.",
+      "Elternmehrheiten ersetzen bei Schularbeiten die Direktion.",
+      "Für die Ablehnung braucht es vorher eine Genehmigung der Behörde."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur Vorgesetztenweisungen binden.",
+      "Richtig: Elternverein steht außerhalb der Weisungskette.",
+      "Richtig: Unzuständigkeit trägt die Ablehnung.",
+      "Falsch: Herkunft entscheidet über die Bindung.",
+      "Falsch: Keine Mehrheit macht Externe zu Vorgesetzten.",
+      "Falsch: Ablehnung braucht keine Vorabgenehmigung."
+    ],
+    "aufloesung": "Hofer darf diese Anordnung ablehnen, weil sie von einer unzuständigen Stelle kommt. Nur Weisungen von Vorgesetzten sind zu befolgen, der Elternverein gehört nicht dazu. Anliegen der Eltern laufen über Gespräch und Dienstweg, nicht über Anordnung. Zum Nachlesen: LDG §30 Abs.2.",
+    "hauptquelle": "LDG §30 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-014",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vorgesetzter verlangt von Lehrer Gruber, ein Sitzungsprotokoll rückwirkend zu fälschen und eine fremde Unterschrift darunterzusetzen, damit eine Frist gewahrt scheint. Gruber fragt, wie er sich korrekt verhält.",
+    "optionen": [
+      "Die Befolgung darf abgelehnt werden, wenn sie gegen strafgesetzliche Vorschriften verstieße.",
+      "Eine Urkundenfälschung mit fremder Unterschrift ist ein solcher Fall.",
+      "Keine Weisung verpflichtet zu strafbarem Handeln.",
+      "Weisungen von Vorgesetzten haben immer Vorrang, auch bei Strafbarkeit.",
+      "Ausführen und danach reumütig melden macht die Fälschung zulässig.",
+      "Solange niemand den Betrug bemerkt, ist die Ausführung in Ordnung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Strafbarkeit trägt die Ablehnung.",
+      "Richtig: Fälschen und Fremdunterschrift sind strafrechtlich relevant.",
+      "Richtig: Gehorsam endet vor strafbarem Tun.",
+      "Falsch: Kein Vorgesetzter kann zu Straftaten verpflichten.",
+      "Falsch: Auch reumütige Ausführung bleibt strafbar.",
+      "Falsch: Unentdeckt heißt nicht erlaubt."
+    ],
+    "aufloesung": "Gruber darf und muss die Fälschung verweigern statt sie auszuführen. Bei Verstoß gegen strafgesetzliche Vorschriften darf die Befolgung abgelehnt werden. Fristprobleme löst man offen über den Dienstweg, nicht mit gefälschten Belegen. Zum Nachlesen: LDG §30 Abs.2.",
+    "hauptquelle": "LDG §30 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "B20-L2-015",
+    "modul_id": "B20",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lehrerin Berger hält eine mündliche Anordnung ihres Direktors für rechtswidrig, strafbar wäre die Befolgung aber nicht. Es eilt nicht und sie fragt sich, wie sie korrekt vorgeht, bevor sie folgt.",
+    "optionen": [
+      "Wer eine Weisung aus anderen Gründen für rechtswidrig hält, muss Bedenken mitteilen.",
+      "Die schriftliche Erteilung der Weisung ist zu verlangen, wenn es nicht eilt.",
+      "Erteilt der Vorgesetzte sie dann nicht schriftlich, gilt sie als zurückgezogen.",
+      "Einfach ignorieren und abwarten ist das vorgesehene Vorgehen.",
+      "Sofort gehorchen und erst danach beschweren ist hier die Reihenfolge.",
+      "Das Kollegium lässt über Weisungen per Mehrheit abstimmen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Remonstration heißt Bedenken vor Befolgung mitteilen.",
+      "Richtig: Schriftlichkeit verlangen sichert die Klärung.",
+      "Richtig: Ohne Schriftlichkeit gilt sie als zurückgezogen.",
+      "Falsch: Ignorieren ist kein Verfahren.",
+      "Falsch: Erst Bedenken, dann befolgen, so ist die Reihenfolge.",
+      "Falsch: Über Weisungen wird nicht abgestimmt."
+    ],
+    "aufloesung": "Berger muss vor der Befolgung ihre Bedenken mitteilen und die schriftliche Erteilung verlangen. Wer eine Weisung sonst für rechtswidrig hält, remonstriert statt zu ignorieren oder blind zu gehorchen. Bleibt die Schriftlichkeit aus, gilt die Weisung als zurückgezogen. Zum Nachlesen: LDG §30 Abs.3.",
+    "hauptquelle": "LDG §30 Abs.3",
+    "stand": "04.09.2026"
+  }
+]
