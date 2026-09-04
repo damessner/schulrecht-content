@@ -1,1 +1,429 @@
-[]
+[
+  {
+    "aufloesung": "Steiner muss die volle Unterrichtszeit einhalten. Lehrpersonen sind zur Erteilung regelmäßigen Unterrichts verpflichtet und haben die vorgeschriebene Unterrichtszeit einzuhalten. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B21-L1-001",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Das ist zulässig, weil erfahrene Lehrer die Zeit selbst einteilen dürfen.",
+      "Steiner verletzt seine lehramtlichen Pflichten, die Unterrichtszeit ist voll einzuhalten.",
+      "Zehn Minuten sind eine vernachlässigbare Kleinigkeit ohne jede Bedeutung.",
+      "Nur in Prüfungswochen müsste er pünktlich bis zum Läuten bleiben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erfahrung entbindet nicht von der vorgeschriebenen Unterrichtszeit.",
+      "Richtig: Regelmäßiger Unterricht und Einhaltung der Unterrichtszeit sind Pflicht.",
+      "Falsch: Regelmäßiges Verkürzen gefährdet Aufsicht und Unterrichtserfolg.",
+      "Falsch: Die Pflicht gilt immer, nicht nur in Prüfungswochen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Steiner beendet seinen Unterricht regelmäßig zehn Minuten früher, um noch in Ruhe einen Kaffee zu trinken. Die Klasse nutzt die Zeit für Raufereien am Gang.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Wieser muss auch die schwierige Klasse übernehmen. Lehrpersonen sind zur Erteilung regelmäßigen Unterrichts verpflichtet, dazu gehört auch der Unterricht in zugewiesenen schwierigen Klassen. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B21-L1-002",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Wieser darf schwierige Klassen ablehnen und nur Lieblingsklassen unterrichten.",
+      "Die Direktion muss ihr die Klasse wegnehmen, sobald sie sich beschwert.",
+      "Das ist nur ein Problem, wenn die Eltern der Klasse protestieren.",
+      "Wieser ist zum regelmäßigen Unterricht verpflichtet und muss die zugewiesene Klasse übernehmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Unterrichtsverpflichtung gilt auch für schwierige Klassen.",
+      "Falsch: Eine Beschwerde allein beseitigt die Unterrichtspflicht nicht.",
+      "Falsch: Die Pflicht hängt nicht von Elternprotesten ab.",
+      "Richtig: Regelmäßiger Unterricht nach Zuweisung ist zu erteilen."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "MS",
+      "VS"
+    ],
+    "situation": "Lehrerin Wieser weigert sich, die ihr zugewiesene 4. Klasse zu unterrichten, weil die Klasse als schwierig gilt. Sie unterrichtet nur ihre Lieblingsklassen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Kaufmann muss Konferenzen besuchen und zeitnah korrigieren. Zur lehramtlichen Stellung gehören neben dem Unterricht auch die sonstigen Obliegenheiten wie Konferenzen und ordnungsgemäße Korrekturen. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B21-L1-003",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Konferenzen sind freiwillig, nur der Unterricht zählt.",
+      "Korrekturen darf jeder Lehrer nach eigenem Zeitplan zurückgeben.",
+      "Kaufmann verletzt seine Pflichten, Konferenzen und Korrekturen gehören zu seinen Obliegenheiten.",
+      "Nur Klassenvorstände müssen Konferenzen besuchen und korrigieren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Angesetzte Konferenzen sind Teil der Dienstpflichten.",
+      "Falsch: Schularbeiten sind zeitgerecht zu korrigieren und zurückzugeben.",
+      "Richtig: Auch die sonstigen Obliegenheiten aus der lehramtlichen Stellung sind Pflicht.",
+      "Falsch: Die Pflicht trifft alle Lehrpersonen, nicht nur Klassenvorstände."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Kaufmann erscheint nie bei den angeordneten Konferenzen und gibt korrigierte Schularbeiten erst nach zwei Monaten zurück. Konferenzen und Korrekturen hält er für freiwillige Zusatzleistungen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Anordnung geht über das zulässige Maß hinaus. Zu Mehrdienstleistungen über die normale Verpflichtung hinaus darf man nur aus zwingenden Gründen und höchstens im Ausmaß von fünf Wochenstunden verhalten werden. Zum Nachlesen: LDG §31 Abs.2.",
+    "hauptquelle": "LDG §31 Abs.2",
+    "id": "B21-L1-004",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Sieben Zusatzstunden sind zulässig, weil Personalmangel immer zwingend ist.",
+      "Die Grenze liegt bei zehn Zusatzstunden pro Woche.",
+      "Eine dauerhafte Anordnung braucht keine Begründung.",
+      "Pichler muss höchstens fünf zusätzliche Wochenstunden und nur aus zwingenden Gründen übernehmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch bei Personalmangel gilt die Höchstgrenze von fünf Wochenstunden.",
+      "Falsch: Zehn Stunden liegen weit über dem zulässigen Höchstmaß.",
+      "Falsch: Ohne zwingende Gründe darf gar keine Mehrleistung angeordnet werden.",
+      "Richtig: Zwingende Gründe plus höchstens fünf Wochenstunden, mehr geht nicht."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Direktion ordnet Lehrer Pichler dauerhaft sieben zusätzliche Wochenstunden an, weil eine Stelle unbesetzt ist. Pichler soll das bis auf Weiteres übernehmen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Moser muss die zwei Stunden vorübergehend übernehmen. Bei zwingenden Gründen, etwa wenn nach plötzlichen Ausfällen kurzfristig kein Ersatz zu bekommen ist, sind Mehrdienstleistungen im zulässigen Ausmaß zu erbringen. Zum Nachlesen: LDG §31 Abs.2.",
+    "hauptquelle": "LDG §31 Abs.2",
+    "id": "B21-L1-005",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Moser darf grundsätzlich jede Zusatzstunde ablehnen.",
+      "Moser muss die zwei Stunden übernehmen, weil ein zwingender Grund vorliegt und das Maß zulässig ist.",
+      "Zusatzstunden darf nur leisten, wer sich freiwillig meldet.",
+      "Die Direktion müsste zuerst pensionierte Lehrer zurückholen, bevor sie anordnet."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei zwingenden Gründen besteht die Pflicht im zulässigen Ausmaß.",
+      "Richtig: Notlage plus zwei Stunden, das liegt innerhalb der zulässigen Mehrleistung.",
+      "Falsch: Freiwilligkeit ist keine Voraussetzung für die Anordnung.",
+      "Falsch: Eine solche Vorrangfolge ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Nach dem plötzlichen Ausfall zweier Kolleginnen ordnet die Direktion Lehrerin Moser für einige Wochen zwei zusätzliche Stunden an. Ersatz ist kurzfristig nicht zu bekommen. Moser lehnt grundsätzlich ab.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Direktor muss eingreifen und den Mangel abstellen. Die Leitung hat darauf zu achten, dass alle Lehrer ihre Aufgaben gesetzmäßig und zweckmäßig erfüllen, sie anzuleiten und Fehler abzustellen. Zum Nachlesen: LDG §32 Abs.2.",
+    "hauptquelle": "LDG §32 Abs.2",
+    "id": "B21-L1-006",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Der Direktor erfüllt seine Leiterpflichten, wenn er eingreift, anleitet und den Mangel abstellt.",
+      "Streitvermeidung entbindet den Leiter von seiner Aufsichtspflicht.",
+      "Für Prüfungstermine ist allein das Kollegium zuständig, nicht die Leitung.",
+      "Der Direktor darf erst nach einer Elternbeschwerde tätig werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Aufsicht, Anleitung und Abstellen von Mängeln sind Kernaufgaben der Leitung.",
+      "Falsch: Bequemlichkeit hebt die Aufsichtspflicht nicht auf.",
+      "Falsch: Gerade die Einhaltung der Vorgaben zu überwachen ist Leitungsaufgabe.",
+      "Falsch: Der Leiter muss von sich aus einschreiten, nicht erst auf Beschwerde."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Direktor bemerkt, dass an seiner Schule Prüfungstermine systematisch gegen geltende Vorgaben vergeben werden. Er unternimmt nichts, weil er keinen Streit mit dem Kollegium will.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Egger muss Anwesenheit und Pünktlichkeit einfordern und Leistung fördern. Die Leitung hat für die Einhaltung der Dienstzeit zu sorgen und das dienstliche Fortkommen nach Maßgabe der Leistungen zu fördern. Zum Nachlesen: LDG §32 Abs.2.",
+    "hauptquelle": "LDG §32 Abs.2",
+    "id": "B21-L1-007",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Anwesenheitskontrolle ist Vertrauenssache und entfällt bei erfahrenem Kollegium.",
+      "Fortbildungswünsche darf die Leitung nach Sympathie vergeben.",
+      "Egger verletzt ihre Leiterpflichten, Dienstzeit sichern und Fortkommen nach Leistung fördern ist ihre Aufgabe.",
+      "Leistung darf bei Beförderungen keine Rolle spielen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für die Einhaltung der Dienstzeit zu sorgen ist ausdrückliche Leiteraufgabe.",
+      "Falsch: Gefördert wird nach Leistung, nicht nach Sympathie.",
+      "Richtig: Dienstzeit sichern und leistungsgerechte Förderung gehören zu den Leiterpflichten.",
+      "Falsch: Die Leistung ist gerade der Maßstab für die Förderung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Egger kontrolliert nie, ob das Kollegium pünktlich und vollständig anwesend ist, und blockiert Fortbildungswünsche engagierter Lehrerinnen. Leistung spielt bei ihr keine Rolle.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Leiter muss den Verdacht sofort der zuständigen Stelle melden. Wird der Leitung im Dienst der begründete Verdacht einer gerichtlich strafbaren Handlung mit Schulbezug bekannt, hat sie unverzüglich Meldung zu erstatten. Zum Nachlesen: LDG §32 Abs.3.",
+    "hauptquelle": "LDG §32 Abs.3",
+    "id": "B21-L1-008",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Vertuschen schützt die Schule und ist daher die richtige Reaktion.",
+      "Der Leiter muss den Verdacht unverzüglich der zur Anzeige berufenen Stelle melden.",
+      "Beweise darf der Leiter vernichten, wenn sie dem Ruf schaden.",
+      "Eine Meldung ist erst nach einem internen Schuldspruch nötig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vertuschung verletzt die Meldepflicht und verschlimmert die Lage.",
+      "Richtig: Begründeter Verdacht mit Schulbezug ist sofort zu melden.",
+      "Falsch: Beweismittel zu vernichten ist niemals zulässig.",
+      "Falsch: Gewartet wird auf nichts, gemeldet wird unverzüglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Leiter entdeckt Hinweise, dass aus der Schulkasse über Monate Geld abgezweigt wurde. Um den Ruf der Schule zu schützen, will er den Verdacht vertuschen und die Belege verschwinden lassen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Leiter darf hier vorerst von der sofortigen Meldung absehen. Keine Meldepflicht besteht, wenn und solange hinreichende Gründe für die Annahme vorliegen, dass die Strafbarkeit durch Schadenswiedergutmachung in Kürze entfällt. Zum Nachlesen: LDG §32 Abs.3a.",
+    "hauptquelle": "LDG §32 Abs.3a",
+    "id": "B21-L1-009",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Er muss trotzdem sofort Anzeige erstatten, Ausnahmen gibt es nie.",
+      "Er muss zuerst die Eltern der ganzen Klasse informieren.",
+      "Er muss den Vorfall in der Zeitung richtigstellen lassen.",
+      "Er darf vorerst absehen, weil der Schaden sofort vollständig wiedergutgemacht wurde und die Strafbarkeit daher in Kürze entfällt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für solche Fälle sieht das Gesetz eine Ausnahme vor.",
+      "Falsch: Elterninformation ersetzt nicht die rechtliche Beurteilung der Meldepflicht.",
+      "Falsch: Öffentlichkeitsarbeit hat mit der Meldepflicht nichts zu tun.",
+      "Richtig: Bei bald entfallender Strafbarkeit durch Wiedergutmachung darf vorerst abgesehen werden."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "An einer Schule entsteht durch eine Schülerin ein kleiner Sachschaden, der noch am selben Tag vollständig wiedergutgemacht wird. Es spricht alles dafür, dass damit auch die Strafbarkeit in Kürze entfällt. Der Leiter fragt sich, ob er trotzdem sofort Anzeige erstatten muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Direktor hätte die Schule nicht ohne Vertretung verlassen dürfen. Die Leitung hat in der Regel während der Unterrichtszeit anwesend zu sein und bei Abwesenheit für ihre Vertretung vorzusorgen. Zum Nachlesen: LDG §32 Abs.4.",
+    "hauptquelle": "LDG §32 Abs.4",
+    "id": "B21-L1-010",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Der Direktor hat seine Anwesenheits- und Vertretungspflicht verletzt.",
+      "Private Erledigungen gehen während des Unterrichts immer vor.",
+      "Eine Vertretung ist nur an Prüfungstagen nötig.",
+      "Anwesenheitspflicht gilt nur für Lehrer, nicht für die Leitung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anwesenheit während der Unterrichtszeit plus Vertretungsvorsorge sind Leiterpflicht.",
+      "Falsch: Private Erledigungen rechtfertigen kein ungeregeltes Verlassen der Schule.",
+      "Falsch: Die Vorsorge gilt grundsätzlich, nicht nur an Prüfungstagen.",
+      "Falsch: Gerade die Leitung muss erreichbar und vertreten sein."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der Direktor verlässt während des Vormittagsunterrichts ohne jede Absprache das Schulhaus für private Erledigungen. Als ein Unfall am Gang passiert, ist niemand entscheidungsbefugt erreichbar.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Direktorin hat sehr wohl ein Mitspracherecht. Die Leitung erstellt die Personalbedarfs- und Personalentwicklungsplanung und darf zu Bewerbungen Stellung nehmen und Vorschläge übermitteln. Zum Nachlesen: LDG §32 Abs.5.",
+    "hauptquelle": "LDG §32 Abs.5",
+    "id": "B21-L1-011",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Die Leitung hat bei Besetzungen keinerlei Rechte.",
+      "Stellungnahmen zu Bewerbungen darf nur die Personalvertretung abgeben.",
+      "Die Direktorin darf zu Bewerbungen Stellung nehmen und Vorschläge übermitteln.",
+      "Mitsprache gibt es nur, wenn die Stelle länger als ein Jahr frei war."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Gesetz räumt der Leitung ausdrücklich Mitwirkungsrechte ein.",
+      "Falsch: Das Stellungnahmerecht steht der Schulleitung zu.",
+      "Richtig: Personalplanung plus Stellungnahme- und Vorschlagsrecht bei Besetzungen.",
+      "Falsch: Eine solche Jahresfrist gibt es nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Volksschule wird eine Stelle frei. Die Bildungsdirektion entscheidet, ohne die Direktorin zu hören. Die Direktorin meint, sie habe ohnehin kein Recht auf eine Stellungnahme.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Gespräch muss ordentlich dokumentiert werden. Die Schulleitung führt mit jeder Lehrperson regelmäßig Gespräche zur Fort- und Weiterbildungsplanung für die kommenden drei Schuljahre, fasst die Ergebnisse schriftlich zusammen und beide unterschreiben, eine Ausfertigung bleibt bei der Lehrperson. Zum Nachlesen: LDG §32 Abs.6.",
+    "hauptquelle": "LDG §32 Abs.6",
+    "id": "B21-L1-012",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Ein formloses Gespräch ohne jede Aufzeichnung genügt.",
+      "Das Gesprächsergebnis ist schriftlich zusammenzufassen, von beiden zu unterschreiben und eine Ausfertigung bleibt beim Lehrer.",
+      "Nur bei Problemen braucht es eine schriftliche Zusammenfassung.",
+      "Die Zusammenfassung verbleibt ausschließlich im Safe der Direktion."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne schriftliche, unterfertigte Zusammenfassung fehlt der Nachweis.",
+      "Richtig: Schriftlich, beidseitig unterschrieben, Ausfertigung für die Lehrperson.",
+      "Falsch: Die Dokumentation ist der Regelfall, nicht nur für Problemfälle.",
+      "Falsch: Eine Ausfertigung verbleibt ausdrücklich bei der Lehrperson."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Schulleiterin führt mit Lehrer Hofer ein kurzes Gespräch über dessen Fortbildung, notiert nichts und händigt nichts aus. Hofer weiß später nicht, was vereinbart war.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Anordnung der Leiterin ist zulässig. Die Schulleitung beurteilt bei den Lehrpersonen die digitalen Kompetenzen und ordnet bei Bedarf die Absolvierung passender Fortbildungen an. Zum Nachlesen: LDG §32 Abs.8.",
+    "hauptquelle": "LDG §32 Abs.8",
+    "id": "B21-L1-013",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Die Leiterin darf keine Fortbildungen anordnen.",
+      "Digitale Kompetenzen gehen die Schulleitung nichts an.",
+      "Brunner darf selbst entscheiden, ob er das Klassenbuch digital führt.",
+      "Die Leiterin darf die digitalen Kompetenzen beurteilen und die passende Fortbildung anordnen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Anordnung einschlägiger Fortbildungen ist ausdrücklich vorgesehen.",
+      "Falsch: Die Beurteilung der digitalen Kompetenzen ist Leitungsaufgabe.",
+      "Falsch: Dienstliche Vorgaben zur Führung gelten für alle.",
+      "Richtig: Beurteilen und bei Bedarf Fortbildung anordnen, so ist es vorgesehen."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner scheitert regelmäßig an der digitalen Klassenbuchführung und verweigert jede Schulung. Die Leiterin ordnet ihm eine passende Fortbildung an.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Gruber muss seine eingeteilte Pausenaufsicht wahrnehmen. Die Leitung hat den Lehrerinnen und Lehrern erforderlichenfalls Weisungen zu erteilen und für geordnete Abläufe zu sorgen, etwa bei der Aufsichtseinteilung. Zum Nachlesen: LDG §32 Abs.2.",
+    "hauptquelle": "LDG §32 Abs.2",
+    "id": "B21-L1-014",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Gruber muss die eingeteilte Pausenaufsicht übernehmen.",
+      "Pausenaufsichten sind freiwillige Zusatzleistungen.",
+      "Die Einteilung gilt nur, wenn Gruber ihr schriftlich zustimmt.",
+      "Bei Personalmangel entfallen alle Aufsichten automatisch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Aufsichtseinteilung per Weisung der Leitung ist zu befolgen.",
+      "Falsch: Eingeteilte Aufsichten sind Dienst, kein Ehrenamt.",
+      "Falsch: Eine Zustimmung ist für die Weisung nicht erforderlich.",
+      "Falsch: Gerade bei Gefährdungen braucht es verlässliche Aufsichten."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die Direktorin teilt die Pausenaufsichten neu ein, weil es in den Gängen wiederholt zu gefährlichen Rangeleien kam. Lehrer Gruber ignoriert seine Einteilung, weil er die Pause lieber im Konferenzzimmer verbringt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Vergabe muss nach Leistung erfolgen. Die Leitung hat das dienstliche Fortkommen der Lehrer nach Maßgabe ihrer Leistungen zu fördern, nicht nach Freundschaft. Zum Nachlesen: LDG §32 Abs.2.",
+    "hauptquelle": "LDG §32 Abs.2",
+    "id": "B21-L1-015",
+    "level": "L1",
+    "modul_id": "B21",
+    "optionen": [
+      "Freundschaft ist ein zulässiges Vergabekriterium.",
+      "Schwache Leistungen dürfen durch gute Kontakte ausgeglichen werden.",
+      "Die Aufgabe ist nach Leistung zu vergeben, die Übergehung der leistungsstarken Kollegin war pflichtwidrig.",
+      "Die Vergabe ist allein Geschmackssache des Leiters."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Persönliche Nähe ersetzt die Leistung nicht.",
+      "Falsch: Kontakte heilen schwache Leistungen nicht.",
+      "Richtig: Maßstab für die Förderung ist die Leistung.",
+      "Falsch: Die Vergabe folgt dem Leistungsgrundsatz, nicht dem Belieben."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Der Leiter vergibt eine begehrte Projektbetreuung mit Zulage an einen befreundeten Lehrer, obwohl dessen Leistungen schwach sind. Eine leistungsstarke Kollegin geht leer aus.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
