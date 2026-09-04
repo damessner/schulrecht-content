@@ -1,1 +1,377 @@
-[]
+[
+  {
+    "id": "A01-L1-001",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS", "MS", "AHS"],
+    "situation": "Familie Yilmaz zieht im Oktober nach Innsbruck. Sohn Emir, 8 Jahre, spricht kaum Deutsch, war bisher zwei Jahre in der Türkei in der Schule. Die Mutter meldet ihn an der Volksschule an und will, dass er sofort als ordentlicher Schüler in die 3. Klasse geht.",
+    "optionen": [
+      "Ja, jedes schulpflichtige Kind hat sofort Anspruch auf ordentliche Aufnahme in die altersgemäße Klasse.",
+      "Nein, bei mangelnder Unterrichtssprache ist zuerst eine Testung nötig, bei Bedarf erfolgt die Aufnahme als außerordentlicher Schüler mit Sprachförderung.",
+      "Ja, aber nur wenn die Mutter schriftlich verspricht, zu Hause Deutsch zu üben.",
+      "Nein, er muss ein Jahr warten bis er Deutsch kann."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Die Unterrichtssprache muss so beherrscht werden, dass dem Unterricht gefolgt werden kann.",
+      "Richtig: Testung entscheidet über ordentlich plus Förderung oder außerordentlich mit Deutschförderung.",
+      "Falsch: Ein Versprechen ersetzt die Feststellung der Sprachkenntnisse nicht.",
+      "Falsch: Warten ist nicht vorgesehen, Förderung startet sofort."
+    ],
+    "aufloesung": "Erst standardisierte Testung durch Schulleitung, dann ordentlich oder außerordentlich mit Deutschförderklasse/kurs. Zum Nachlesen: SchUG §4 Abs.2-2a.",
+    "hauptquelle": "SchUG §4 Abs.2a",
+    "zusatzquellen": ["SchUG §3 Abs.1"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-002",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["MS", "AHS", "BHS"],
+    "situation": "Lena kommt aus einer Privatschule ohne Öffentlichkeitsrecht, ohne Zeugnis für die 4. Stufe. Sie will in die 1. Klasse Mittelschule. Die Schulleiterin überlegt, wie sie feststellen kann, ob die Vorbildung reicht.",
+    "optionen": [
+      "Sie muss Lena ohne Prüfung aufnehmen, weil Schulpflicht besteht.",
+      "Sie lässt Lena eine Einstufungsprüfung machen, um zu prüfen ob die Vorbildung für die angestrebte Stufe reicht.",
+      "Sie nimmt Lena nur als außerordentliche Schülerin auf, eine Prüfung ist verboten.",
+      "Sie schickt Lena zuerst ein Jahr in die Volksschule zurück."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Ohne Berechtigungszeugnis braucht es eine Feststellung der Vorbildung.",
+      "Richtig: Genau dafür ist die Einstufungsprüfung da.",
+      "Falsch: Außerordentlich ist hier nur bei Sprache oder Einstufungsfall für Schulpflichtige möglich, die Prüfung selbst ist erlaubt.",
+      "Falsch: Zurückstufen ohne Verfahren ist nicht vorgesehen."
+    ],
+    "aufloesung": "Bei fehlender Berechtigung durch Zeugnis lässt der Schulleiter zur Einstufungsprüfung zu. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-003",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "David hat die Einstufungsprüfung für die angestrebte Schulstufe in Mathematik mit Nicht genügend abgeschlossen, in Deutsch war er positiv. Er fragt, ob er die Prüfung wiederholen darf und was er wiederholen muss.",
+    "optionen": [
+      "Nein, eine nicht bestandene Einstufungsprüfung darf im selben Verfahren nicht wiederholt werden.",
+      "Ja, er darf innerhalb von zwei Monaten einmal zur Wiederholung antreten, nur das negativ beurteilte Gebiet muss er wiederholen.",
+      "Ja, er muss aber die gesamte Prüfung in allen Fächern neu machen und ein Jahr warten.",
+      "Nur wenn die Schulbehörde zustimmt."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Das Wiederholungsrecht ist ausdrücklich vorgesehen.",
+      "Richtig: Zwei Monate Frist, nur negative Gebiete wiederholen.",
+      "Falsch: Weder Komplettwiederholung aller Fächer noch Wartejahr sind verlangt.",
+      "Falsch: Zuständig ist der Schulleiter, keine Behörde."
+    ],
+    "aufloesung": "Einmalige Wiederholung binnen zwei Monaten, nur negative Gebiete. Schulleiter lässt zu. Zum Nachlesen: SchUG §3 Abs.7a.",
+    "hauptquelle": "SchUG §3 Abs.7a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-004",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS", "MS"],
+    "situation": "Sara ist seit September als außerordentliche Schülerin wegen mangelnder Deutschkenntnisse aufgenommen. Im Juni fragt der Vater, wie lange dieser Status höchstens dauern darf und was danach passiert.",
+    "optionen": [
+      "Unbegrenzt, bis sie perfekt Deutsch kann.",
+      "Höchstens zwölf Monate, bei Bedarf einmalig um weitere zwölf Monate verlängerbar, danach jedenfalls ordentlich aufnehmen.",
+      "Nur bis Weihnachten, dann muss sie die Schule wechseln.",
+      "Drei Jahre, dann automatische Rückstufung."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Der Status ist bewusst befristet.",
+      "Richtig: 12 plus bei Bedarf 12 Monate, danach ordentlich auch ohne perfektes Deutsch.",
+      "Falsch: Kein Halbjahres-Limit und kein Zwangswechsel.",
+      "Falsch: Keine Dreijahresfrist vorgesehen."
+    ],
+    "aufloesung": "Maximal 12 Monate, einmalig verlängerbar um 12 bei unverschuldeter Verzögerung, danach ordentlich. Zum Nachlesen: SchUG §4 Abs.3.",
+    "hauptquelle": "SchUG §4 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-005",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS", "MS"],
+    "situation": "Bilal besucht als außerordentlicher Schüler eine Deutschförderklasse. Seine Eltern wollen, dass er zusätzlich alle Fächer der Regelklasse besucht, weil sie Angst vor Stofflücken haben.",
+    "optionen": [
+      "Ja, er muss während der Deutschförderklasse trotzdem alle Pflichtgegenstände der Regelklasse besuchen.",
+      "Nein, während der Deutschförderklasse entfällt der Besuch der Regel-Pflichtgegenstände, der Fokus liegt auf Spracherwerb.",
+      "Nur wenn die Klasse weniger als 20 Kinder hat.",
+      "Nur mit Genehmigung der Bildungsdirektion."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Genau für die Förderklasse gibt es eine Ausnahme vom Regelbesuch.",
+      "Richtig: Förderklasse ersetzt in dieser Zeit den Regelbesuch.",
+      "Falsch: Klassengröße spielt hier keine Rolle.",
+      "Falsch: Das entscheidet die Schulorganisation, keine Einzelfallgenehmigung nötig."
+    ],
+    "aufloesung": "In der Deutschförderklasse kein paralleler Vollbesuch aller Regelpflichtgegenstände. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-006",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS"],
+    "situation": "Im August meldet sich Familie Haddad neu an. Tochter, 7 Jahre, hatte keine institutionelle Vorschulbildung, der bisherige Schulbesuch ist nicht nachvollziehbar. Die Schulleiterin überlegt, was vor der Aufnahme noch zu klären ist.",
+    "optionen": [
+      "Nichts, sie kann direkt in die Regelklasse ohne Gespräch aufgenommen werden.",
+      "Es ist ein Orientierungsgespräch mit Kind und Erziehungsberechtigten zu führen, um Bedarf an Orientierungsunterricht zu klären.",
+      "Es reicht eine schriftliche Selbsteinschätzung der Eltern.",
+      "Das Kind muss zuerst einen IQ-Test bei einer privaten Stelle bringen."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Bei fehlender Vorschulbildung und unklarem Vorbesuch ist Klärung Pflicht.",
+      "Richtig: Orientierungsgespräch durch Schulleitung prüft Symbole, Motorik, Abläufe, soziale Regeln.",
+      "Falsch: Selbsteinschätzung ersetzt das Gespräch nicht.",
+      "Falsch: Kein externer Test verlangt."
+    ],
+    "aufloesung": "Orientierungsgespräch klärt Förderbedarf in Orientierung und Vorläuferfertigkeiten, bei Bedarf bis zu sechs Monate nur Orientierungsunterricht. Zum Nachlesen: SchUG §4 Abs.2b-4a.",
+    "hauptquelle": "SchUG §4 Abs.2b",
+    "zusatzquellen": ["SchUG §4 Abs.4a"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-007",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["AHS", "BHS"],
+    "situation": "Tom hat die 1. Klasse als ordentlicher Schüler ohne Erfolg abgeschlossen. Er will nun die 2. Klasse derselben Schulart als außerordentlicher Schüler besuchen, um das Nichtbestehen zu umgehen.",
+    "optionen": [
+      "Ja, als außerordentlicher Schüler darf er in die höhere Stufe aufsteigen.",
+      "Nein, wer eine Stufe als ordentlicher Schüler ohne Erfolg besucht hat, darf in die höhere Stufe derselben Schulart nicht als außerordentlicher aufgenommen werden.",
+      "Ja, aber nur wenn er Schulgeld zahlt.",
+      "Nur mit Empfehlung des Klassenvorstands."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Der Umweg über außerordentlich ist genau dafür gesperrt.",
+      "Richtig: Diese Sperre verhindert Umgehung des Wiederholens.",
+      "Falsch: Geld spielt keine Rolle.",
+      "Falsch: Auch mit Empfehlung nicht zulässig."
+    ],
+    "aufloesung": "Kein Aufstieg als außerordentlich nach erfolglosem ordentlichem Besuch derselben Schulart. Zum Nachlesen: SchUG §4 Abs.6.",
+    "hauptquelle": "SchUG §4 Abs.6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-008",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["BS"],
+    "situation": "Eine 19-jährige Bürokauffrau ohne Schulpflicht will als außerordentliche Schülerin einzelne Gegenstände der Berufsschule besuchen. Die Klasse ist voll, eine Teilung wäre nötig.",
+    "optionen": [
+      "Sie muss trotzdem aufgenommen werden, Anspruch besteht immer.",
+      "Sie darf nur aufgenommen werden, wenn alle ordentlichen Bewerber aufgenommen sind und keine Klassenteilung nötig wird.",
+      "Sie darf nie als außerordentliche aufgenommen werden.",
+      "Nur mit Lehrvertrag in einem anderen Beruf."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Für nicht Schulpflichtige gibt es einen Nachrang.",
+      "Richtig: Ordentliche zuerst, keine Teilung durch Außerordentliche.",
+      "Falsch: Grundsätzlich möglich, aber nachrangig.",
+      "Falsch: Lehrvertrag in anderem Beruf ist hier irrelevant."
+    ],
+    "aufloesung": "Nicht Schulpflichtige nur nachrangig und ohne Klassenteilung aufnehmen. Zum Nachlesen: SchUG §4 Abs.5.",
+    "hauptquelle": "SchUG §4 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-009",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["AHS", "BHS", "MS"],
+    "situation": "An einem Gymnasium ohne Sprengel bewerben sich 90 Kinder für 60 Plätze in der 1. Klasse. Eltern fragen, nach welchen Kriterien gereiht wird.",
+    "optionen": [
+      "Ausschließlich nach Alphabet.",
+      "Nach bisherigen Leistungen, Wohnortnähe und Geschwisterbesuch, plus schulautonome Eignungskriterien je nach Profil.",
+      "Nur nach Einkommen der Eltern.",
+      "Der Direktor lost ohne Kriterien."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Alphabet ist kein Reihungskriterium.",
+      "Richtig: Verordnung plus schulautonome Kriterien sichern faire Reihung.",
+      "Falsch: Einkommen spielt keine Rolle.",
+      "Falsch: Willkürliche Losung ohne Kriterien ist nicht zulässig."
+    ],
+    "aufloesung": "Reihung nach Leistung, Nähe, Geschwistern plus Schulprofil, Verfahren bis Ferienbeginn abschließen. Zum Nachlesen: SchUG §5 Abs.1.",
+    "hauptquelle": "SchUG §5 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-010",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Vater erhält einen Brief: Aufnahme abgelehnt wegen Platzmangels. Es steht nur ein Satz drin, ohne Begründung. Er fragt dich, was eine Ablehnung enthalten muss.",
+    "optionen": [
+      "Nichts, eine Ablehnung muss nicht begründet werden.",
+      "Sie muss schriftlich unter Angabe der Gründe erfolgen, die Aufnahme selbst wird ortsüblich bekanntgegeben.",
+      "Ein Anruf des Direktors reicht.",
+      "Nur auf Verlangen gibt es Gründe."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Begründungspflicht schützt vor Willkür.",
+      "Richtig: Schriftlich mit Gründen, Aufnahme per Anschlag oder geeignet bekanntgeben.",
+      "Falsch: Anruf ist nicht schriftlich.",
+      "Falsch: Gründe sind von sich aus anzugeben."
+    ],
+    "aufloesung": "Ablehnung schriftlich mit Gründen mitteilen, Entscheidung trifft der Schulleiter. Zum Nachlesen: SchUG §5 Abs.2.",
+    "hauptquelle": "SchUG §5 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-011",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Eltern melden ihr Kind an einer Privatschule an und unterschreiben einen Schulvertrag, obwohl das Kind die schulrechtlichen Aufnahmevoraussetzungen eindeutig nicht erfüllt. Die Schule nimmt es trotzdem.",
+    "optionen": [
+      "Der Vertrag gilt trotzdem, Privatschulen sind frei.",
+      "Der Aufnahmevertrag ist rechtsunwirksam, wenn trotz Nichterfüllung der Voraussetzungen aufgenommen wird.",
+      "Der Vertrag wird erst nach einem Jahr wirksam.",
+      "Die Bildungsdirektion heilt den Mangel automatisch."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Auch Privatschulen sind an die Voraussetzungen gebunden.",
+      "Richtig: Rechtsunwirksamkeit schützt das System.",
+      "Falsch: Kein Hinausschieben der Wirksamkeit.",
+      "Falsch: Keine automatische Heilung."
+    ],
+    "aufloesung": "An Privatschulen per Vertrag, aber bei fehlenden Voraussetzungen rechtsunwirksam. Zum Nachlesen: SchUG §5 Abs.6.",
+    "hauptquelle": "SchUG §5 Abs.6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-012",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS", "MS"],
+    "situation": "Amina ist schulpflichtig, als außerordentliche Schülerin wegen Sprache aufgenommen, aber nicht in Förderklasse oder Kurs. Die Mutter bittet, sie von Turnen und Werken zu befreien, weil sie überfordert sei.",
+    "optionen": [
+      "Ja, sie kann formlos von allen Pflichtgegenständen befreit werden.",
+      "Nein, sie muss grundsätzlich alle Pflichtgegenstände besuchen, Befreiung von einzelnen nur auf Ansuchen bei fehlenden Vorkenntnissen.",
+      "Nur wenn sie ein Attest bringt.",
+      "Sie muss gar nichts besuchen."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Kein pauschales Fernbleiben.",
+      "Richtig: Vollbesuch ist Regel, Einzelbefreiung bei nicht folgen können auf Ansuchen.",
+      "Falsch: Attest ist hier nicht der Maßstab, sondern Vorkenntnisse.",
+      "Falsch: Schulpflicht bleibt bestehen."
+    ],
+    "aufloesung": "Schulpflichtige Außerordentliche besuchen alle Pflichtgegenstände, Einzelbefreiung nur auf Ansuchen bei mangelnden Vorkenntnissen. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-013",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["MS", "AHS"],
+    "situation": "Felix ist 13, geistig reif, will als außerordentlicher Schüler am Physikunterricht der 4. Klasse teilnehmen, weil ihn sein Vater, ein Physiker, fördert. Es liegen wichtige persönliche Gründe vor.",
+    "optionen": [
+      "Unmöglich, außerordentlich gibt es nur für Schulpflichtige mit Sprachproblemen.",
+      "Möglich, wenn Alter und geistige Reife passen und wichtige persönliche Gründe die Aufnahme rechtfertigen.",
+      "Nur wenn er die Klasse wiederholt.",
+      "Nur als ordentlicher Schüler."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Außerordentlich gibt es auch für Nicht-Schulpflichtige und einzelne Gegenstände.",
+      "Richtig: Eignung nach Alter/Reife plus persönliche Gründe genügen.",
+      "Falsch: Wiederholen ist keine Voraussetzung.",
+      "Falsch: Ordentlich ist nicht zwingend."
+    ],
+    "aufloesung": "Aufnahme als außerordentlich bei Eignung und gerechtfertigten persönlichen Gründen möglich. Zum Nachlesen: SchUG §4 Abs.1.",
+    "hauptquelle": "SchUG §4 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-014",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["alle"],
+    "situation": "Ein schulpflichtiges Kind soll als außerordentlicher Schüler aufgenommen werden, weil es dem Unterricht sprachlich nicht folgen kann. Die Schule hat kein standardisiertes Testverfahren verwendet, sondern nur nach Gefühl entschieden.",
+    "optionen": [
+      "Das reicht, Gefühl des Direktors genügt.",
+      "Nein, es sind standardisierte Testverfahren zu verwenden, vom Schulleiter oder über Anordnung von der Behörde durchzuführen.",
+      "Nur die Eltern dürfen testen.",
+      "Test ist nur in Wien nötig."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Bauchgefühl reicht für diese Rechtsfolge nicht.",
+      "Richtig: Standardisierte Verfahren sichern Vergleichbarkeit und Förderentscheidung.",
+      "Falsch: Eltern testen nicht.",
+      "Falsch: Gilt überall."
+    ],
+    "aufloesung": "Testung standardisiert durch Schulleitung oder Behörde, Ergebnis steuert ordentlich, Förderkurs oder Förderklasse. Zum Nachlesen: SchUG §4 Abs.2a.",
+    "hauptquelle": "SchUG §4 Abs.2a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A01-L1-015",
+    "modul_id": "A01",
+    "level": "L1",
+    "typ": "single",
+    "schulart": ["VS", "MS", "PTS"],
+    "situation": "Mutter fragt bei Anmeldung: Muss sie sich darum kümmern, dass ihr Kind bei Schuleintritt dem Unterricht sprachlich folgen kann, oder ist das allein Aufgabe der Schule?",
+    "optionen": [
+      "Allein Aufgabe der Schule, Eltern haben keine Pflicht.",
+      "Erziehungsberechtigte haben dafür Sorge zu tragen, dass ihre Kinder bei Einschreibung die Unterrichtssprache so beherrschen, dass sie folgen können.",
+      "Nur bei Privatschulen müssen Eltern vorsorgen.",
+      "Erst ab der 5. Schulstufe relevant."
+    ],
+    "richtig": [1],
+    "pro_option_feedback": [
+      "Falsch: Mitverantwortung der Eltern ist ausdrücklich normiert.",
+      "Richtig: Sorgepflicht der Erziehungsberechtigten bei Einschreibung.",
+      "Falsch: Gilt für alle Schulen im Geltungsbereich.",
+      "Falsch: Ab Schuleintritt relevant."
+    ],
+    "aufloesung": "Eltern müssen für ausreichende Sprachkenntnisse zum Eintritt sorgen, Schule fördert danach. Zum Nachlesen: SchUG §3 Abs.3.",
+    "hauptquelle": "SchUG §3 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]
