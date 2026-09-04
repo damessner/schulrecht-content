@@ -1,1 +1,262 @@
-[]
+[
+  {
+    "aufloesung": "Zulassung und Aufnahme sind aufzuheben und neu zu prüfen. Die drei Voraussetzungen müssen kumulativ vorliegen, und bis zur Prüfung trägt nur die außerordentliche Aufnahme. Pauschalzulassungen ohne Prüfung aller Punkte sind anfechtbar. Zum Nachlesen: SchUG §3 Abs.6",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "id": "A15-L4-001",
+    "level": "L4",
+    "modul_id": "A15",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil jeder Zuzug automatisch zur Prüfung und zur ordentlichen Aufnahme führt.",
+      "Das Vorgehen ist nur beim Zeugnis falsch, die ordentliche Aufnahme daneben ist immer richtig.",
+      "Das Vorgehen ist rechtswidrig, weil weder die Zulassungsvoraussetzungen geprüft wurden noch die ordentliche Aufnahme neben der Einstufung zulässig ist.",
+      "Das Vorgehen ist korrekt, wenn die Eltern die Prüfung schriftlich verlangen und Schulgeld überweisen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zuzug allein ersetzt die dreifache Voraussetzungsprüfung nicht.",
+      "Falsch: Auch die Aufnahmeart ist hier verfehlt, nur außerordentlich überbrückt.",
+      "Richtig: Vorjahresbesuch und fehlende Prüfung aller Punkte machen Zulassung und Aufnahme fehlerhaft.",
+      "Falsch: Elternwunsch und Geld heilen fehlende Voraussetzungen nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Demir zieht aus dem Ausland nach Linz. Die Tochter, altersentsprechend für die zweite Klasse Mittelschule, legt ein Zeugnis einer nicht berechtigten Privatschule vor und hat im Vorjahr eine berechtigende Stufe besucht. Die Schule lässt sie ohne jede Prüfung der drei Voraussetzungen zur Einstufungsprüfung zu und nimmt sie gleichzeitig als ordentliche Schülerin auf, weil das einfacher zu verwalten sei.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §4 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Schule muss die Mitarbeit würdigen statt sie zu ignorieren, darf den Entfall aber nach eigenem Urteil verweigern. Ein Anspruch auf die Feststellung überzeugender Mitarbeit besteht nicht, Drohungen und Beschwerden ändern daran nichts. Beide Entscheidungen sind zu begründen. Zum Nachlesen: SchUG §3 Abs.6",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "id": "A15-L4-002",
+    "level": "L4",
+    "modul_id": "A15",
+    "optionen": [
+      "Die Schule handelt korrekt, weil Mitarbeit nie berücksichtigt werden darf und immer voll geprüft werden muss.",
+      "Die Eltern können den Entfall der Prüfung per Beschwerde und Anwaltsschreiben erzwingen.",
+      "Korrekt wäre die Würdigung von Mitarbeit und Leistungsfeststellungen, ohne dass darauf ein Rechtsanspruch besteht.",
+      "Die Prüfung muss gegen Bezahlung entfallen, sonst ist sie ungültig und diskriminierend."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Würdigung der Mitarbeit ist ausdrücklich vorgesehen.",
+      "Falsch: Erzwingen lässt sich die Feststellung gerade nicht.",
+      "Richtig: Prüfen ja, Anspruch nein, das ist die Rechtslage.",
+      "Falsch: Geld spielt für den Entfall keine Rolle."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena arbeitet seit Wochen im Probeunterricht einer Mittelschule in Linz stark mit, die Lehrkräfte sind uneins über den Stoffstand der Vorstufen. Die Schule verweigert jede Würdigung der Mitarbeit, verlangt die volle Prüfung in allen Gebieten und erklärt gleichzeitig wahrheitswidrig, auf die Feststellung überzeugender Mitarbeit bestehe ohnehin ein einklagbarer Anspruch, wenn die Eltern nur laut genug drohten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Wiederholung ist neu anzusetzen: nur die negativen Gebiete, binnen zwei Monaten, zugelassen durch die Schulleitung und schriftlich mitgeteilt. Positive Gebiete bleiben stehen, Bekanntenprüfungen und mündliche Gangmitteilungen gelten nicht. Zum Nachlesen: SchUG §3 Abs.7a",
+    "hauptquelle": "SchUG §3 Abs.7a",
+    "id": "A15-L4-003",
+    "level": "L4",
+    "modul_id": "A15",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil immer alle Gebiete inklusive positiver wiederholt werden müssen.",
+      "Das Vorgehen ist korrekt, weil Bekannte der Familie als Prüfer genügen und Fristen mündlich laufen.",
+      "Das Vorgehen ist rechtswidrig, weil nur negative Gebiete binnen zwei Monaten unter Zulassung der Schulleitung zu wiederholen sind.",
+      "Das Vorgehen ist nur bei der Frist falsch, Umfang und Prüferwahl sind sonst richtig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Positive Gebiete werden nicht erneut geprüft.",
+      "Falsch: Bekannte ersetzen kein ordentliches Verfahren.",
+      "Richtig: Frist, Gebietsumfang und Zuständigkeit wurden missachtet.",
+      "Falsch: Auch Umfang und Zuständigkeit sind hier fehlerhaft."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David ist bei der Einstufungsprüfung in Mathematik negativ, in Deutsch und Englisch positiv. Die Schule verlangt nach drei Monaten die Wiederholung aller drei Gebiete, lässt ohne Beteiligung der Schulleitung einen Bekannten der Familie als Prüfer zu und teilt die Frist nur mündlich am Gang mit. Die Eltern sollen das alles schriftlich als korrekt bestätigen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Prüfung darf so nicht stattfinden und eine Zulassung ist zu verweigern. Mindestalter, Kommission mit Vorsitz und Fachprüfern sowie Zulassung durch den Vorsitz sind zwingend, Selbstzulassung und Bekanntenprüfung sind unwirksam. Nach nicht bestandener Stufe derselben Richtung sperrt zusätzlich die Zwölfmonatsfrist. Zum Nachlesen: SchUG §42 Abs.6",
+    "hauptquelle": "SchUG §42 Abs.6",
+    "id": "A15-L4-004",
+    "level": "L4",
+    "modul_id": "A15",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil Alter und Kommission keine Rolle spielen und jeder antreten darf.",
+      "Das Vorgehen ist nur bei der Kommission falsch, Alter und Wartefrist sind egal.",
+      "Das Vorgehen ist rechtswidrig, weil Mindestalter, Kommissionsprinzip, Vorsitz-Zulassung und Wartefrist nach nicht bestandener Stufe missachtet wurden.",
+      "Das Vorgehen ist korrekt, wenn der Prüfling besonders begabt ist und die Eltern zustimmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alle Sicherungen gelten unabhängig voneinander.",
+      "Falsch: Auch Alter und Frist sind eigene Zulassungshürden.",
+      "Richtig: Vierfacher Formfehler in einem Verfahren.",
+      "Falsch: Begabung und Zustimmung ersetzen die Hürden nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der zwölfjährige Lukas soll in Graz eine Prüfung über einen Bildungsgang ablegen, den reguläre Schüler erst mit etwa siebzehn Jahren abschließen, nachdem er im Vorjahr eine Stufe derselben Fachrichtung nicht erfolgreich abgeschlossen hat. Gleichzeitig soll ein Bekannter der Familie als Einzelprüfer ohne Kommission antreten, die Zulassung nimmt der Prüfling selbst vor. Die Schule winkt alles durch.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §42 Abs.4",
+      "SchUG §42 Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Nur der erste Fall wird zugelassen und bis zur Prüfung außerordentlich aufgenommen. Zeugnisinhaber und Vorjahresbesucher scheiden aus, jeder Fall wird einzeln mit Alter, Zeugnis und Vorjahresbesuch dokumentiert. Pauschalzulassungen ohne Triple-Prüfung sind anfechtbar. Zum Nachlesen: SchUG §3 Abs.6",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "id": "A15-L4-005",
+    "level": "L4",
+    "modul_id": "A15",
+    "optionen": [
+      "Nur Fall eins erfüllt das Zulassungs-Triple aus fehlendem Zeugnis, Alter und fehlendem Vorjahresbesuch.",
+      "Wer ein berechtigendes Zeugnis hat oder im Vorjahr die Stufe besucht hat, scheidet für diese Prüfung aus.",
+      "Fall eins bis zur Prüfung als außerordentlichen Schüler aufnehmen und jeden Fall einzeln dokumentieren.",
+      "Alle drei Fälle ohne jede Prüfung zuzulassen, weil die Eltern es verlangen.",
+      "Alle drei Fälle sofort als ordentliche Schüler aufnehmen.",
+      "Bei Fall zwei und drei die Prüfung gegen Gebühr entfallen lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur kumulativ erfüllte Voraussetzungen öffnen den Weg.",
+      "Richtig: Zeugnisinhaber und Vorjahresbesucher brauchen bzw. erhalten diesen Weg nicht.",
+      "Richtig: Außerordentliche Brücke nur für Zugelassene plus Akt.",
+      "Falsch: Elternwunsch ersetzt die Voraussetzungen nicht.",
+      "Falsch: Ordentlich trägt neben der Einstufung nicht, nur außerordentlich überbrückt.",
+      "Falsch: Geld spielt für Zulassung und Entfall keine Rolle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schulleitung in Wien prüft drei Zuzugsfälle für die Einstufung: Fall eins ohne Zeugnis und ohne Vorjahresbesuch bei passendem Alter, Fall zwei mit berechtigendem Zeugnis, Fall drei mit Vorjahresbesuch der Stufe. Die Eltern aller drei fordern Zulassung plus sofortige ordentliche Aufnahme. Was ist korrekt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §4 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Englisch wird auf Ansuchen mit Nachweis befreit, Mathematik läuft als Einzelnachweis, alles vor der Kommission mit Vorsitz-Zulassung. Bekanntenprüfungen gelten nicht, Nachweise dürfen nicht ignoriert werden. Ohne Ansuchen gibt es keine Befreiung. Zum Nachlesen: SchUG §42 Abs.3",
+    "hauptquelle": "SchUG §42 Abs.3",
+    "id": "A15-L4-006",
+    "level": "L4",
+    "modul_id": "A15",
+    "optionen": [
+      "Für Englisch auf Ansuchen ganz oder teilweise Befreiung bei passendem Zeugnis prüfen.",
+      "Den Einzelnachweis für Mathematik als eigene Prüfungsart zulassen.",
+      "Vor Kommission mit Vorsitz und Fachprüfern prüfen und Zulassung durch den Vorsitz aussprechen lassen.",
+      "Bekannten-Einzelprüfung ohne Kommission als ausreichend akzeptieren.",
+      "Alles ohne Ansuchen und Nachweise pauschal neu prüfen.",
+      "Die Zulassung vom Prüfling selbst vornehmen lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachweis plus Ansuchen ermöglichen Befreiung.",
+      "Richtig: Einzelgegenstände sind eigens prüffähig.",
+      "Richtig: Kommission statt Bekannter, Vorsitz lässt zu.",
+      "Falsch: Bekanntenprüfungen sind unwirksam.",
+      "Falsch: Nachweise dürfen nicht ignoriert werden.",
+      "Falsch: Selbstzulassung gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In St. Pölten meldet sich ein Prüfling für eine große Prüfung über einen Bildungsgang: Er bringt für Englisch ein Zeugnis einer berechtigten Schule mit, will Mathematik als Einzelgegenstand nachweisen und verlangt die Prüfung vor einem Bekannten als Einzelprüfer ohne Ansuchen und ohne Zulassung. Was ist korrekt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §42 Abs.2",
+      "SchUG §42 Abs.4",
+      "SchUG §42 Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Beide Erfolge erhalten eigene Zeugnisse, Mündliches und Umschreiben genügen nicht. Der Durchgefallene wartet die Zwölfmonatsfrist in derselben Richtung ab, Schulwechsel verkürzen sie nicht. Alter und Frist sind vor jeder Zulassung zu belegen. Zum Nachlesen: SchUG §42 Abs.10",
+    "hauptquelle": "SchUG §42 Abs.10",
+    "id": "A15-L4-007",
+    "level": "L4",
+    "modul_id": "A15",
+    "optionen": [
+      "Über die Stufe ein eigenes Prüfungszeugnis ausstellen.",
+      "Über das einzelne Fach ein Zeugnis mit der Fachbeurteilung ausstellen.",
+      "Zwölfmonatsfrist in derselben Richtung nach nicht bestandener Stufe prüfen und dokumentieren.",
+      "Mündliche Mitteilung ohne Schriftstück als Nachweis akzeptieren.",
+      "Alte Zeugnisse einfach umschreiben statt neue auszustellen.",
+      "Die Wartefrist per Schulwechsel löschen und sofort neu zulassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Stufenzeugnis bei Erfolg über die Stufe.",
+      "Richtig: Fachzeugnis bei Erfolg im Einzelgegenstand.",
+      "Richtig: Fristprüfung schützt vor Umgehung.",
+      "Falsch: Mündlich allein genügt als Nachweis nicht.",
+      "Falsch: Umgeschrieben wird kein altes Zeugnis.",
+      "Falsch: Schulwechsel verkürzen die Frist nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer großen Prüfung in Innsbruck sind die Ergebnisse da: Eine Kandidatin besteht die Stufe, ein Kandidat nur das Fach Mathematik, ein dritter fällt durch und will nächste Woche über dieselbe Fachrichtung neu antreten. Die Schule will nur mündlich mitteilen und alte Zeugnisse umschreiben. Was ist bei Zeugnissen und Fristen korrekt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §42 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist dreifach falsch und hielte keiner Überprüfung stand. Es besteht kein Anspruch auf den Entfall, wiederholt wird binnen zwei Monaten nur Negatives, und Berufsschulen prüfen nur höhere Einstiege in Sonderfällen bei Doppel-Lehre, Wechsel oder Verkürzung. Zum Nachlesen: SchUG §3 Abs.6",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "id": "A15-L4-008",
+    "level": "L4",
+    "modul_id": "A15",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Kein Anspruch, zwei Monate nur negativ, Berufsschule nur in Sonderfällen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer im September: Ein Kollege behauptet, auf den Entfall der Einstufungsprüfung bei guter Mitarbeit bestehe ein Rechtsanspruch, die Wiederholung negativer Gebiete sei erst nach einem Wartejahr mit allen Fächern möglich und Berufsschulen stufen in jeder Stufe und ohne besonderen Anlass ein.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "SchUG §3 Abs.7",
+      "SchUG §3 Abs.7a"
+    ]
+  }
+]

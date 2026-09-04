@@ -1,1 +1,258 @@
-[]
+[
+  {
+    "aufloesung": "Die Freigabe ist unwirksam und muss neu geprüft werden. Erst Ansuchen, dann Prüfung von Schwelle und Fünf-Tage-Grenze, dann Abwägung von Fortkommen und Nutzen durch den Klassenvorstand. Pauschalfreigaben ohne Verfahren sind anfechtbar. Zum Nachlesen: SchUG §13b Abs.1",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L4-001",
+    "level": "L4",
+    "modul_id": "A10",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil Orientierung ohne Grenze und Verfahren frei gegeben werden kann.",
+      "Das Vorgehen ist nur bei der Tageszahl falsch, sonst ist alles richtig.",
+      "Das Vorgehen ist rechtswidrig, weil Ansuchen, Fünf-Tage-Grenze und Abwägung durch den Klassenvorstand ab dem achten Pflichtjahr Pflicht sind.",
+      "Das Vorgehen ist korrekt, wenn die Eltern dem Betrieb vertrauen und der Schüler motiviert ist."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Grenze, Ansuchen und Abwägung sind zwingend.",
+      "Falsch: Auch Ansuchen und Abwägung fehlen hier vollständig.",
+      "Richtig: Alle drei Verfahrenssicherungen wurden übergangen.",
+      "Falsch: Vertrauen und Motivation ersetzen kein Verfahren."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "Ein Klassenvorstand in Graz gibt einem Schüler im achten Jahr der Schulpflicht ohne jedes Ansuchen pauschal zehn Tage Orientierung frei, prüft weder die Fünf-Tage-Grenze noch das schulische Fortkommen und erklärt, Abwägung sei Schikane und das achte Jahr gelte ohnehin erst ab dem Geburtstag im Sommer.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Julian darf nur orientiert und nicht als Arbeitskraft eingegliedert werden. Volleinteilung, Überstunden und Alleinarbeit sind zu stoppen, Schutzhinweise zu geben und eine passende Aufsicht festzulegen. Geld und angebliche Praxis heilen den Verstoß nicht. Zum Nachlesen: SchUG §13b Abs.3",
+    "hauptquelle": "SchUG §13b Abs.3",
+    "id": "A10-L4-002",
+    "level": "L4",
+    "modul_id": "A10",
+    "optionen": [
+      "Das Vorgehen ist zulässig, weil Orientierung volle Mitarbeit samt Überstunden bedeutet.",
+      "Das Vorgehen ist zulässig, wenn Julian dafür Geld erhält und die Eltern zustimmen.",
+      "Das Vorgehen ist rechtswidrig, weil Eingliederung verboten ist und passende Aufsicht plus Schutzhinweise Pflicht sind.",
+      "Das Vorgehen ist nur bei der Hebebühne falsch, Volleinteilung und fehlende Aufsicht sind sonst richtig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Orientierung bedeutet Einblick, nicht Arbeitsleistung.",
+      "Falsch: Geld und Zustimmung ändern nichts am Verbot der Eingliederung.",
+      "Richtig: Beide Schutzpflichten wurden verletzt.",
+      "Falsch: Auch Volleinteilung und fehlende Aufsicht sind eigenständige Verstöße."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "Julian im achten Pflichtjahr verbringt drei genehmigte Tage in einer Autowerkstatt in Villach. Der Chef teilt ihn voll in Kundenaufträge und Lager ein, lässt Überstunden und Alleinarbeit an der Hebebühne zu, ohne festgelegte Aufsichtsperson und ohne Hinweise zu Schutzregeln. Die Schule meint, das sei gelebte Praxis und Geld vom Chef heile alles.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §13b Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Die Freistellung ist aufzuheben. Vor dem achten Jahr der Schulpflicht scheidet die Erlaubnis aus, und ohne Ansuchen sowie ohne Abwägung durch den Klassenvorstand darf nicht freigegeben werden. Streit scheuen ersetzt kein Verfahren. Zum Nachlesen: SchUG §13b Abs.1",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L4-003",
+    "level": "L4",
+    "modul_id": "A10",
+    "optionen": [
+      "Die Freistellung ist korrekt, weil Elternwunsch jede Altersgrenze heilt.",
+      "Die Freistellung ist korrekt, wenn der Betrieb zustimmt und der Schüler motiviert ist.",
+      "Die Freistellung ist rechtswidrig, weil vor dem achten Jahr der Schulpflicht keine Erlaubnis möglich ist und Abwägung plus Ansuchen fehlen.",
+      "Die Freistellung ist nur dann falsch, wenn Tim schlechte Noten hat, sonst heilt Motivation alles."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Elternwunsch ersetzt die Altersschwelle nicht.",
+      "Falsch: Betriebszustimmung schafft keine Schulfreistellung.",
+      "Richtig: Schwelle, Ansuchen und Abwägung wurden missachtet.",
+      "Falsch: Die Schwelle gilt unabhängig von Noten und Motivation."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die Eltern des elfjährigen Tim aus der zweiten Mittelschule in Graz bestehen auf einer Woche Betriebsschnuppern mit Freistellung und drohen mit Beschwerde. Der Klassenvorstand gibt nach und stellt frei, weil er Streit scheut, obwohl Tim weit vor dem achten Jahr der Schulpflicht steht und kein besonderer Nutzen gegen das versäumte Lernen abgewogen wurde.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Tage müssen neu ausgerichtet werden. Sie bauen auf dem Unterricht auf und schulden Information über Berufswelt und Ausbildung, Berufswahlreife und echte sozial- und wirtschaftskundliche Einblicke. Herumsitzen mit Bestätigung genügt nicht. Zum Nachlesen: SchUG §13b Abs.2",
+    "hauptquelle": "SchUG §13b Abs.2",
+    "id": "A10-L4-004",
+    "level": "L4",
+    "modul_id": "A10",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil Inhalte Privatsache des Betriebs sind und Bestätigungen alles heilen.",
+      "Das Vorgehen ist korrekt, wenn eine Anwesenheitsbestätigung ausgestellt wird und die Eltern zufrieden sind.",
+      "Das Vorgehen verfehlt den Zweck, weil die Tage auf dem Unterricht aufbauen und Information, Berufswahlreife sowie echte Einblicke schulden.",
+      "Das Vorgehen ist nur dann falsch, wenn Selina minderjährig ist, bei Älteren genügt Herumsitzen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zweck und Inhalte sind vorgegeben, nicht beliebig.",
+      "Falsch: Bestätigungen ersetzen keine Inhalte.",
+      "Richtig: Aufbau, Information, Reife und Einblicke wurden missachtet.",
+      "Falsch: Der Zweck gilt altersunabhängig."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selina sitzt ihre fünf genehmigten Schnuppertage in Klagenfurt im Pausenraum am Handy, der Betrieb bietet keinerlei Einblicke und erklärt, Prospekte und Anwesenheitsbestätigung genügten. Die Schule nickt ab und meint, Inhalte seien Privatsache des Betriebs und mit Unterricht habe das alles nichts zu tun.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Jonas wird nach Abwägung erlaubt, David kann wegen Gefährdung verweigert, Tim muss wegen des Alters verweigert werden. Alle Entscheidungen werden mit der Abwägung begründet und dokumentiert, Beschwerden vermeiden ersetzt kein Verfahren. Zum Nachlesen: SchUG §13b Abs.1",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L4-005",
+    "level": "L4",
+    "modul_id": "A10",
+    "optionen": [
+      "Bei Jonas Schwelle, Grenze und Ansuchen bejahen und Nutzen gegen Fortkommen abwägen.",
+      "Bei David das stark gefährdete Fortkommen gegen den Nutzen halten und verweigern können.",
+      "Bei Tim wegen Nichterreichens des achten Jahres der Schulpflicht verweigern.",
+      "Alle drei ohne Prüfung freistellen, um Beschwerden zu vermeiden.",
+      "Beliebig viele Tage über fünf hinaus als Ausnahme für Motivierte gewähren.",
+      "Die Abwägung durch Los oder Abstimmung der Mitschüler ersetzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vollständige Prüfung plus Abwägung trägt die Erlaubnis.",
+      "Richtig: Gefährdetes Fortkommen kann die Freistellung kippen.",
+      "Richtig: Die Schwelle gilt ausnahmslos.",
+      "Falsch: Beschwerden vermeiden ersetzt kein Verfahren.",
+      "Falsch: Über fünf Tage gibt es keinen Rahmen.",
+      "Falsch: Los und Abstimmung sind keine Entscheidungsformen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "Ein Klassenvorstand in Salzburg erhält drei Ansuchen: Jonas im achten Jahr für drei Tage mit gutem Nutzen und stabilem Fortkommen, David mit drei Nicht genügend für fünf Tage ausgerechnet in der Prüfungswoche, Tim mit elf Jahren für eine volle Woche. Die Eltern aller drei drohen mit Beschwerde und ein Kollege rät zu pauschaler Freigabe. Was ist korrekt?",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Betrieb wird auf Einblicksgebot, Hinweis- und Aufsichtspflichten verpflichtet. Volleinteilung, Alleinarbeit und fehlende Hinweise werden untersagt, Aufsichtspersonen auf Vorschlag festgelegt, alles wird dokumentiert. Praxis und Geld heilen Verstöße nicht. Zum Nachlesen: SchUG §13b Abs.3",
+    "hauptquelle": "SchUG §13b Abs.3",
+    "id": "A10-L4-006",
+    "level": "L4",
+    "modul_id": "A10",
+    "optionen": [
+      "Eingliederung in den Arbeitsprozess untersagen, es geht um Einblick statt Arbeitsleistung.",
+      "Hinweise auf Jugendschutz, Arbeitnehmerschutz und Hygienevorschriften einfordern.",
+      "Aufsicht nach Alter, Reife und Umständen mit festgelegten Personen auf Vorschlag von Eltern oder Einrichtung verlangen.",
+      "Volleinteilung mit Überstunden und Alleinarbeit als gelebte Praxis akzeptieren.",
+      "Bezahlung als Rechtfertigung für alle Verstöße anerkennen.",
+      "Aufsicht per Videoanruf aus der Schule als Ersatz akzeptieren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Orientierung statt Eingliederung, das ist die Grenze.",
+      "Richtig: Schutzhinweise gehören zur Vorbereitung.",
+      "Richtig: Maß, Festlegung und Vorschlagsrecht beachten.",
+      "Falsch: Praxis heilt Verstöße nicht.",
+      "Falsch: Bezahlung ändert an den Verboten nichts.",
+      "Falsch: Video ersetzt keine Aufsicht vor Ort."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Werkstatt in Dornbirn will Schnupperer als feste Arbeitskräfte einteilen: Kundenaufträge, Lager, Überstunden, Alleinarbeit an Maschinen, ohne Hinweise und ohne festgelegte Aufsicht. Der Chef bietet Geld für die Schüler und Videoanrufe als Aufsicht an. Du belehrst den Betrieb vor Ort. Welche Punkte nennst du zu Recht?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §13b Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Lukas darf ansuchen, Jonas wird krankgemeldet entschuldigt, Sophies Aushilfseinsatz wird untersagt. Schulartvorurteile, Schwänzereinträge und Zustimmungsdeals sind rechtswidrig, alles wird dokumentiert. Zum Nachlesen: SchUG §13b Abs.1",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L4-007",
+    "level": "L4",
+    "modul_id": "A10",
+    "optionen": [
+      "Lukas als Schüler einer höheren berufsbildenden Schule ansuchen lassen und normal abwägen.",
+      "Jonas nach den normalen Fernbleiberegeln bei Krankheit entschuldigen.",
+      "Sophies Volleinteilung als Ersatzarbeitskraft untersagen.",
+      "Lukas als Pflichtschulfremder grundsätzlich ablehnen.",
+      "Jonas trotz Fiebers und Meldung als Schwänzer eintragen.",
+      "Sophies Zustimmung als Rechtfertigung für die Eingliederung werten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Höhere berufsbildende Schulen sind einbezogen.",
+      "Richtig: Krankheit entschuldigt wie im Unterricht.",
+      "Richtig: Ersatz als Arbeitskraft bleibt verboten.",
+      "Falsch: Auf Pflichtschüler beschränkt ist das nicht.",
+      "Falsch: Krank mit Meldung ist nicht geschwänzt.",
+      "Falsch: Zustimmung heilt den Verstoß nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "BHS",
+      "BS"
+    ],
+    "situation": "Lukas von der Handelsakademie in Linz will zwei Tage an einer Fachhochschule schnuppern, Jonas liegt mit Fieber im Bett statt auf seinen bewilligten Schnuppertagen in der Bank in Salzburg, ein Gastwirt in Innsbruck will Sophie wegen Personalmangels voll als Ersatz servieren und abwaschen lassen. Du löst alle drei Fälle. Was ist korrekt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §13b Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist doppelt falsch und hielte keiner Überprüfung stand. Erlaubt sind höchstens fünf Tage nach Abwägung durch den Klassenvorstand, und die Eingliederung in den Arbeitsprozess ist verboten. Ohne Ansuchen gibt es keine erlaubte Orientierung. Zum Nachlesen: SchUG §13b Abs.1",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "id": "A10-L4-008",
+    "level": "L4",
+    "modul_id": "A10",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Höchstens fünf Tage mit Abwägung auf Ansuchen, Eingliederung ist verboten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, der Klassenvorstand könne auf Ansuchen für individuelle Orientierung ab dem achten Jahr der Schulpflicht bis zu zehn Tage pro Jahr ohne jede Abwägung freigeben, und Betriebe dürften Schnupperer voll als Arbeitskräfte in den Arbeitsprozess eingliedern.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "SchUG §13b Abs.3"
+    ]
+  }
+]
