@@ -1,1 +1,444 @@
-[]
+[
+  {
+    "aufloesung": "Zwischen alternativen Pflichtgegenständen wählen die Schüler bei Aufnahme oder in einer Frist zu Beginn des zweiten Semesters der Vorstufe von drei Tagen bis einer Woche. Die Wahl gilt für alle Stufen, in denen der Gegenstand geführt wird. Zum Nachlesen: SchUG §11 Abs.1.",
+    "hauptquelle": "SchUG §11 Abs.1",
+    "id": "A05-L1-001",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Die Schüler wählen bei Aufnahme oder in einer Frist von mindestens drei Tagen bis längstens einer Woche zu Beginn des zweiten Semesters der Vorstufe.",
+      "Die Wahl ist jederzeit formlos möglich und gilt nur eine Woche.",
+      "Nur die Elternkonferenz wählt, die Schüler haben kein Wahlrecht.",
+      "Es gibt keine Frist, gewählt wird erst in der letzten Schulwoche."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese beiden Zeitpunkte und diese Fristenlänge sind vorgesehen.",
+      "Falsch: Formlose Dauerwahl ohne Geltungsdauer ist nicht vorgesehen.",
+      "Falsch: Das Wahlrecht liegt bei den Schülern.",
+      "Falsch: Die letzte Schulwoche ist kein vorgesehener Zeitpunkt."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "In einer Mittelschule in Leoben stehen im zweiten Semester der 6. Schulstufe zwei Schwerpunkte zur Wahl. Die Klassenvorständin kündigt eine einwöchige Wahlfrist an, ein Vater meint, man könne auch noch im Herbst formlos wechseln.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Wer in der Frist nicht wählt, dem weist der Schulleiter nach Anhörung einen Gegenstand zu. So bleibt kein Kind ohne Zuordnung zurück. Zum Nachlesen: SchUG §11 Abs.1.",
+    "hauptquelle": "SchUG §11 Abs.1",
+    "id": "A05-L1-002",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Die Mitschüler stimmen ab, wohin das Kind muss.",
+      "Der Gegenstand entfällt für dieses Kind ersatzlos.",
+      "Das Kind bleibt ohne Gegenstand, bis es sich irgendwann meldet.",
+      "Der Schulleiter weist dem Schüler nach Anhörung einen der Gegenstände zu."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Klassenabstimmungen ersetzen die Leitungsentscheidung nicht.",
+      "Falsch: Ersatzloser Entfall ist nicht vorgesehen.",
+      "Falsch: Ohne Zuordnung darf niemand bleiben.",
+      "Richtig: Zuweisung durch die Leitung nach Anhörung des Schülers."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lukas aus einer Mittelschule in Amstetten verpasst die Wahlfrist zwischen zwei Schwerpunkten, weil er krank war. Seine Mutter fragt, was nun gilt und wer entscheidet, in welchen Schwerpunkt er kommt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "An der Polytechnischen Schule liegt die Wahlfrist in den ersten zehn Wochen, davor steht eine Orientierungsphase von vier bis acht Wochen. Danach kann noch eine Schwerpunktphase bis längstens Semesterende folgen. Zum Nachlesen: SchUG §11 Abs.1.",
+    "hauptquelle": "SchUG §11 Abs.1",
+    "id": "A05-L1-003",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Es gilt die normale Wochenfrist wie überall, Besonderheiten gibt es keine.",
+      "Die Wahlfrist liegt in den ersten zehn Wochen, nach einer Orientierungsphase von mindestens vier bis längstens acht Wochen.",
+      "Gewählt wird erst am Schulschluss.",
+      "Die Lehrer wählen für die Schüler."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für die Polytechnische Schule gibt es eine Sonderregel.",
+      "Richtig: Zehn-Wochen-Frist plus vorgeschaltete Orientierungsphase.",
+      "Falsch: Schulschluss ist viel zu spät.",
+      "Falsch: Das Wahlrecht bleibt bei den Schülern."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "PTS"
+    ],
+    "situation": "Eine Polytechnische Schule in Wiener Neustadt startet mit Schnupperwochen in Holz, Metall und Handel. Ein Schüler fragt, wann er sich endgültig für einen Schwerpunkt entscheiden muss und wozu die ersten Wochen dienen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Wechsel ist auf Ansuchen möglich, wenn der Schulleiter ihn bewilligt. Voraussetzung ist, dass die Leistungen einen positiven Abschluss im neuen Gegenstand erwarten lassen. Zum Nachlesen: SchUG §11 Abs.3.",
+    "hauptquelle": "SchUG §11 Abs.3",
+    "id": "A05-L1-004",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Nur bei Schulwechsel ist ein Wechsel erlaubt.",
+      "Ein Wechsel ist grundsätzlich ausgeschlossen.",
+      "Der Schulleiter kann den Wechsel auf Ansuchen bewilligen, wenn die Leistungen einen positiven Abschluss erwarten lassen.",
+      "Man wechselt formlos durch Erscheinen im anderen Unterricht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch ohne Schulwechsel ist ein Wechsel möglich.",
+      "Falsch: Ausgeschlossen ist der Wechsel nicht.",
+      "Richtig: Ansuchen plus Bewilligung bei positiver Prognose.",
+      "Falsch: Einfaches Erscheinen ersetzt Antrag und Prüfung nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Sophie besucht seit einem Jahr den Schwerpunkt Italienisch an einem Gymnasium in Innsbruck und will nach guten Leistungen im Wahlkurs auf Französisch wechseln. Ihre Eltern fragen, ob und unter welcher Voraussetzung das geht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "An mittleren und höheren Schulen kann der Einstieg in Wahlpflichtgegenstände auch in einer höheren Stufe erfolgen. Die Leitung kann ein Kurssystem mit Wahl für das Schuljahr oder das Semester festlegen. Zum Nachlesen: SchUG §11 Abs.3a.",
+    "hauptquelle": "SchUG §11 Abs.3a",
+    "id": "A05-L1-005",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Der Einstieg kann auch in einer höheren Stufe erfolgen, die Leitung kann ein Kursmodell mit Wahl pro Schuljahr oder Semester festlegen.",
+      "Wahlpflichtgegenstände gibt es nur in der Volksschule.",
+      "Die Wahl gilt lebenslang und kann nie erneuert werden.",
+      "Der Einstieg ist nur in der ersten Angebotsstufe möglich, später nie mehr."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Späteinstieg plus mögliches Kurssystem je Schuljahr oder Semester.",
+      "Falsch: Diese Regel betrifft mittlere und höhere Schulen.",
+      "Falsch: Gerade das Kursmodell sieht Erneuerung vor.",
+      "Falsch: Späterer Einstieg ist ausdrücklich möglich."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Ein Schüler einer Handelsakademie in Linz hat in der 10. Schulstufe keinen Wahlpflichtkurs gewählt und will in der 11. Schulstufe in einen Informatikkurs einsteigen, der seit einem Jahr läuft. Der Abteilungsvorstand prüft das Kursmodell der Schule.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Besteht die Wahl zwischen Sprachen oder Instrumenten, gelten die Wahlregeln sinngemäß. Das umfasst Frist, Zuweisung bei Nichtwahl und Wechselvoraussetzungen. Zum Nachlesen: SchUG §11 Abs.4.",
+    "hauptquelle": "SchUG §11 Abs.4",
+    "id": "A05-L1-006",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Die Musikschule entscheidet allein.",
+      "Nur Begabte dürfen wählen.",
+      "Jeder nimmt automatisch die erste Sprache, Wahl gibt es keine.",
+      "Wie bei alternativen Pflichtgegenständen gelten Frist, Zuweisung und Wechsel sinngemäß auch für die Sprachen- und Instrumentenwahl."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Schule organisiert, entscheidet aber nicht allein gegen das Wahlrecht.",
+      "Falsch: Eine Begabtenbeschränkung gibt es hier nicht.",
+      "Falsch: Automatik ohne Wahl ist nicht vorgesehen.",
+      "Richtig: Sinngemäße Anwendung der Wahlregeln auf Sprachen und Instrumente."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "AHS",
+      "MS"
+    ],
+    "situation": "An einem Gymnasium in Salzburg können die Kinder zwischen Französisch und Spanisch sowie zwischen Klavier und Gitarre wählen. Ein Vater fragt, ob dafür dieselben Wahl- und Wechselfristen gelten wie für Schwerpunktgegenstände.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Wird der bisherige Gegenstand nicht geführt, kann er als Freigegenstand oder über Externistenprüfungen weitergeführt werden. Sonst muss gewechselt und der versäumte Stoff in angemessener Frist nachgewiesen werden. Zum Nachlesen: SchUG §11 Abs.5.",
+    "hauptquelle": "SchUG §11 Abs.5",
+    "id": "A05-L1-007",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Der Schüler muss die Schule sofort wieder verlassen.",
+      "Er kann den Gegenstand als Freigegenstand oder über Externistenprüfungen weiterführen, oder wechseln und den versäumten Stoff in angemessener Frist nachweisen.",
+      "Er ist automatisch von allem befreit.",
+      "Er muss zwei Klassen wiederholen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schulverlassen ist keine vorgesehene Folge.",
+      "Richtig: Weiterführung als Freigegenstand oder Prüfung, sonst Wechsel mit Nachlernen.",
+      "Falsch: Automatische Befreiung gibt es nicht.",
+      "Falsch: Zwangswiederholung ist nicht die Regel."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS",
+      "MS"
+    ],
+    "situation": "Jonas wechselt von einer Schule mit Spanisch an eine Schule in Feldkirch, die nur Französisch und Italienisch anbietet. Seine Eltern fragen, wie er mit der bisherigen Sprache weitermachen oder umsteigen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei gesundheitlichen Gründen befreit die Leitung von einzelnen Pflichtgegenständen oder Übungen, ohne oder mit Prüfungsauflage. Im Zweifel kann ein ärztliches Zeugnis verlangt werden. Zum Nachlesen: SchUG §11 Abs.6.",
+    "hauptquelle": "SchUG §11 Abs.6",
+    "id": "A05-L1-008",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Die Befreiung gilt immer für alle Fächer zugleich.",
+      "Eine Befreiung ist nie möglich, alle müssen immer alles mitmachen.",
+      "Der Schulleiter befreit auf Ansuchen oder von Amts wegen bei gesundheitlichen Gründen, ohne oder mit Prüfungsauflage, im Zweifel gegen ärztliches Zeugnis.",
+      "Nur ein Anwalt kann die Befreiung aussprechen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Befreit wird von einzelnen Gegenständen, nicht pauschal von allem.",
+      "Falsch: Gesundheitliche Befreiung ist ausdrücklich vorgesehen.",
+      "Richtig: Befreiung von einzelnen Gegenständen mit oder ohne Auflage, Attest im Zweifel.",
+      "Falsch: Zuständig ist die Schulleitung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin in Graz hat nach einer Knieoperation monatelang Sportverbot. Ihre Mutter bittet die Schule um Befreiung vom Turnen und fragt, ob dafür ein ärztlicher Nachweis nötig ist und ob eine Prüfung droht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Wer das Ziel einer Veranstaltung durch ein höherwertiges Zeugnis einer öffentlichen Schule, einer Hochschuleinrichtung oder eine Externistenprüfung nachweist, ist auf Antrag zu befreien. Das vermeidet doppeltes Lernen. Zum Nachlesen: SchUG §11 Abs.6a.",
+    "hauptquelle": "SchUG §11 Abs.6a",
+    "id": "A05-L1-009",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Auf Antrag befreit der Schulleiter, wenn ein Zeugnis oder Externistenprüfungszeugnis das höherwertige Erreichen des Bildungsziels nachweist.",
+      "Ein formloser Zuruf in der Pause genügt.",
+      "Nur bei Krankheit wird befreit.",
+      "Doppelt lernen ist Pflicht, Befreiung gibt es nie."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Antrag plus Nachweis durch Zeugnis oder Prüfung.",
+      "Falsch: Es braucht einen Antrag mit Nachweis.",
+      "Falsch: Hier geht es um bereits erbrachte Leistung, nicht um Krankheit.",
+      "Falsch: Bereits höherwertig Erreichtes muss nicht wiederholt werden."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Ein Schüler einer höheren Schule in Wien hat an einer Universität bereits einen Programmierkurs mit Zeugnis abgeschlossen, der deutlich über den Pflichtgegenstand Informatik hinausgeht. Er fragt, ob er den Schulgegenstand trotzdem besuchen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Zur Begabungsförderung kann die Leitung den Besuch anderer, höherer oder niedrigerer Unterrichtsangebote genehmigen. Dafür wird vom stundenplanmäßigen Unterricht ganz oder teilweise befreit. Zum Nachlesen: SchUG §11 Abs.6b.",
+    "hauptquelle": "SchUG §11 Abs.6b",
+    "id": "A05-L1-010",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Nur Sitzenbleiber dürfen in andere Klassen.",
+      "Nur die Eltern genehmigen das allein.",
+      "Das ist verboten, jeder muss stur den eigenen Plan einhalten.",
+      "Die Leitung kann zur Begabungsförderung die Teilnahme an anderem oder höherem Unterricht genehmigen und dafür teilweise vom eigenen Unterricht befreien."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Umgekehrt geht es um Begabte, nicht um Wiederholer.",
+      "Falsch: Es braucht ein Ansuchen und die Genehmigung der Leitung.",
+      "Falsch: Durchlässigkeit zur Förderung ist gewollt.",
+      "Richtig: Genehmigung plus Teilbefreiung nach organisatorischen und pädagogischen Möglichkeiten."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Eine hochbegabte Mathematikschülerin in Klagenfurt soll den Matheunterricht einer höheren Klasse besuchen dürfen, während sie in anderen Fächern in ihrer Klasse bleibt. Die Eltern fragen, ob die Schule das genehmigen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Anmeldung erfolgt bei Aufnahme oder in einer Frist von drei Tagen bis einer Woche zu Beginn des zweiten Semesters der Vorstufe. Sie gilt nur für das nächste Jahr, später nur ohne Teilung der Veranstaltung. Zum Nachlesen: SchUG §12 Abs.1.",
+    "hauptquelle": "SchUG §12 Abs.1",
+    "id": "A05-L1-011",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Man steigt jederzeit unangemeldet ein und bleibt für immer dabei.",
+      "Die Anmeldung erfolgt bei Aufnahme oder in der Wochenfrist im zweiten Semester der Vorstufe, gilt nur für das nächste Jahr und ist später nur ohne Teilung möglich.",
+      "Freigegenstände gibt es nur an Universitäten.",
+      "Die Anmeldung gilt automatisch für die ganze Schullaufbahn."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Unangemeldetes Kommen genügt nicht.",
+      "Richtig: Fester Anmeldezeitpunkt, Jahresgeltung, Nachmeldung nur ohne Teilung.",
+      "Falsch: Auch Schulen führen Freigegenstände.",
+      "Falsch: Jährliche Neuanmeldung ist nötig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "An einer Mittelschule in Steyr will sich Mia im Frühjahr für den Freigegenstand Schulband im nächsten Schuljahr anmelden. Im Herbst will ein Freund noch nachträglich dazustoßen, obwohl die Gruppe bereits voll ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Wer einen Freigegenstand anstelle eines Pflichtgegenstandes besucht, unterliegt dafür den Pflichtgegenstandsregeln. Das betrifft etwa Anwesenheit, Leistungsfeststellung und Beurteilung. Zum Nachlesen: SchUG §12 Abs.2.",
+    "hauptquelle": "SchUG §12 Abs.2",
+    "id": "A05-L1-012",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Dann darf man nie fehlen und nie geprüft werden.",
+      "Dann gilt gar keine Regel, alles ist freiwillig.",
+      "Dann gelten für diesen Freigegenstand die Bestimmungen über Pflichtgegenstände.",
+      "Dann entfällt jede Beurteilung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Umgekehrt gelten Anwesenheit und Prüfung erst recht.",
+      "Falsch: Regelfreiheit besteht gerade nicht.",
+      "Richtig: Pflichtgegenstandsrecht gilt für diesen Ersatz-Freigegenstand.",
+      "Falsch: Beurteilt wird wie ein Pflichtgegenstand."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "An einer höheren Schule in Dornbirn ersetzt ein Schüler einen vorgesehenen Pflichtgegenstand durch einen Freigegenstand. Er meint, dort könne er beliebig fehlen, weil es ja frei heiße. Der Klassenvorstand klärt ihn auf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Nach nicht oder negativ beurteiltem Freigegenstand ist im Folgejahr in diesem Gegenstand nur die Wiederholung derselben Stufe möglich. Ein Aufstieg trotz negativer Beurteilung ist ausgeschlossen. Zum Nachlesen: SchUG §12 Abs.4.",
+    "hauptquelle": "SchUG §12 Abs.4",
+    "id": "A05-L1-013",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Er darf sich im Folgejahr in diesem Freigegenstand nur zur Wiederholung derselben Stufe anmelden.",
+      "Er ist für immer von allen Freigegenständen ausgeschlossen.",
+      "Er muss die Schule wechseln.",
+      "Er steigt automatisch in die nächste Stufe auf."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur Wiederholung derselben Stufe im Folgejahr.",
+      "Falsch: Ein Totalausschluss ist nicht vorgesehen.",
+      "Falsch: Schulwechsel ist keine Folge.",
+      "Falsch: Automatik trotz negativer Leistung gibt es nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Noah hat den Freigegenstand Italienisch im Jahreszeugnis negativ abgeschlossen und will im nächsten Schuljahr gleich den Fortgeschrittenenkurs besuchen. Die Lehrerin erklärt ihm, welche Anmeldung zulässig ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "An Volksschulen, Mittelschulen, Polytechnischen Schulen und Berufsschulen ist der Förderunterricht bei festgestelltem Bedarf Pflicht. Die Feststellung trifft die Klassen- oder Fachlehrkraft. Zum Nachlesen: SchUG §12 Abs.6.",
+    "hauptquelle": "SchUG §12 Abs.6",
+    "id": "A05-L1-014",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Nur auf Wunsch der Mitschüler wird gefördert.",
+      "Förderunterricht gibt es an diesen Schulen gar nicht.",
+      "Förderunterricht ist dort immer freiwillig.",
+      "Bei festgestelltem Bedarf ist der Besuch des Förderunterrichts an diesen Schularten verpflichtend."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mitschüler entscheiden das nicht.",
+      "Falsch: Förderunterricht ist dort fest verankert.",
+      "Falsch: Freiwilligkeit gilt nur ohne Pflichtfall.",
+      "Richtig: Festgestellter Bedarf löst Teilnahmepflicht aus."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS",
+      "BS"
+    ],
+    "situation": "Die Klassenlehrerin einer Volksschule in Villach stellt bei zwei Kindern deutliche Leseschwächen fest und meldet sie zum Förderunterricht in Deutsch. Die Eltern meinen, das sei freiwillig und sie könnten einfach fernbleiben.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei Wegfall der Förderbedürftigkeit kann man sich vom Förderunterricht abmelden. Besteht sie nach Feststellung der Lehrkraft noch, braucht die Abmeldung die Zustimmung der Leitung. Zum Nachlesen: SchUG §12 Abs.8.",
+    "hauptquelle": "SchUG §12 Abs.8",
+    "id": "A05-L1-015",
+    "level": "L1",
+    "modul_id": "A05",
+    "optionen": [
+      "Nur die Schulbehörde darf abmelden.",
+      "Abmelden ist niemals möglich.",
+      "Bei Wegfall der Bedürftigkeit ist Abmelden möglich, bei fortbestehender Bedürftigkeit nur mit Zustimmung der Schulleitung.",
+      "Jeder darf jederzeit kommentarlos wegbleiben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zuständig ist die Schulleitung, nicht die Behörde.",
+      "Falsch: Abmeldung ist bei Wegfall ausdrücklich möglich.",
+      "Richtig: Wegfall genügt, sonst braucht es die Leitungszustimmung.",
+      "Falsch: Kommentarloses Fernbleiben ersetzt die Abmeldung nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS",
+      "BS"
+    ],
+    "situation": "Ein Schüler in St. Pölten besucht seit Monaten den Förderunterricht in Mathematik und hat sich stark verbessert. Seine Eltern wollen ihn abmelden, die Lehrerin sieht aber noch Lücken. Es stellt sich die Frage, wer über die Abmeldung entscheidet.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

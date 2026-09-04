@@ -1,1 +1,435 @@
-[]
+[
+  {
+    "aufloesung": "Die Einteilung trifft der Schulleiter, er teilt alle Schülerinnen und Schüler in Klassen ein. Dabei gelten die Vorgaben der Schulorganisation, in der Berufsschule zusätzlich die Lehrgangseinteilung. Zum Nachlesen: SchUG §9 Abs.1.",
+    "hauptquelle": "SchUG §9 Abs.1",
+    "id": "A04-L1-001",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Ja, die Klassenlehrerin teilt ihre Klasse selbst ein, die Schulleitung bestätigt nur.",
+      "Nein, die Bildungsdirektion teilt die Klassen ein, die Schule darf nur vorschlagen.",
+      "Ja, der Schulleiter teilt die Schülerinnen und Schüler in Klassen ein und beachtet dabei die Schulorganisationsvorschriften.",
+      "Nein, die Eltern stimmen über die Klasseneinteilung ab."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Einteilung ist Leitungsaufgabe, nicht Entscheidung der einzelnen Lehrkraft.",
+      "Falsch: Die Behörde erhält nur Meldungen, die Einteilung macht die Schule selbst.",
+      "Richtig: Klassenbildung ist Aufgabe des Schulleiters im Rahmen der Schulorganisation.",
+      "Falsch: Eltern haben hier kein Abstimmungsrecht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "An einer Volksschule in Linz sind 52 Taferlklassler angemeldet. Zwei Lehrerinnen streiten, wer welche Kinder bekommt, und eine Mutter meint, die Einteilung müsse die Behörde machen. Die Schulleiterin klärt, wer für die Einteilung in Klassen zuständig ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "In der lehrgangsmäßigen Berufsschule teilt der Schulleiter zusätzlich in Lehrgänge ein. Er verteilt möglichst gleichmäßig und nimmt Rücksicht auf soziale und betriebliche Umstände. Zum Nachlesen: SchUG §9 Abs.1.",
+    "hauptquelle": "SchUG §9 Abs.1",
+    "id": "A04-L1-002",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Er verteilt nach Möglichkeit gleichmäßig auf die Lehrgänge und berücksichtigt soziale und betriebliche Umstände.",
+      "Er füllt einen Lehrgang nach dem anderen auf, Rücksichten sind verboten.",
+      "Er lost ohne jede Rücksicht, weil nur das Los fair ist.",
+      "Die Lehrbetriebe teilen die Lehrlinge selbst in Lehrgänge ein."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gleichmäßige Verteilung plus Rücksicht auf rücksichtswürdige Umstände ist der Maßstab.",
+      "Falsch: Reines Auffüllen widerspricht dem Gebot der gleichmäßigen Verteilung.",
+      "Falsch: Los ohne Rücksicht ignoriert die vorgeschriebene Bedachtnahme auf Umstände.",
+      "Falsch: Die Einteilung bleibt Leitungsaufgabe der Schule."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "An einer Berufsschule in Graz müssen 90 Lehrlinge auf drei Lehrgänge verteilt werden. Zwei Brüder aus einem kleinen Betrieb bitten um denselben Lehrgang, weil sie gemeinsam anreisen. Der Schulleiter überlegt, wie er einteilen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Schulleiter darf zeitweise stufen- oder schulartübergreifend unterrichten lassen. Das ist als Ausnahme gedacht, etwa für Projekte, nicht als dauerhafte Auflösung der Klassen. Zum Nachlesen: SchUG §9 Abs.1a.",
+    "hauptquelle": "SchUG §9 Abs.1a",
+    "id": "A04-L1-003",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Nein, jede Klasse muss immer strikt getrennt unterrichtet werden.",
+      "Ja, zeitweise darf stufen- oder sogar schulartübergreifend unterrichtet werden.",
+      "Nur mit einstimmigem Elternbeschluss ist das erlaubt.",
+      "Nur an Privatschulen ist das möglich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Strikte Trennung ohne Ausnahme ist nicht vorgeschrieben.",
+      "Richtig: Zeitweises Übergreifen über Stufen oder Schularten ist ausdrücklich erlaubt.",
+      "Falsch: Ein Elternbeschluss ist dafür nicht vorgesehen.",
+      "Falsch: Die Möglichkeit gilt allgemein, nicht nur privat."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Mittelschule in Salzburg plant eine zweiwöchige Projektphase, in der Erst- und Zweitklässler gemeinsam in altersgemischten Gruppen an einem Umweltthema arbeiten. Eine Lehrerin zweifelt, ob Klassen dafür überhaupt gemischt werden dürfen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Deutschförderklassen sollen in Gegenständen, die nicht primär dem Spracherwerb dienen, gemeinsam mit der Regelklasse geführt werden. Das gilt nach organisatorischen Möglichkeiten und pädagogischer Zweckmäßigkeit. Zum Nachlesen: SchUG §9 Abs.1b.",
+    "hauptquelle": "SchUG §9 Abs.1b",
+    "id": "A04-L1-004",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Nur wenn die Eltern das schriftlich verlangen.",
+      "Nur in Deutsch darf gemeinsam unterrichtet werden.",
+      "Nein, Förderklasse und Regelklasse dürfen nie gemeinsam unterrichtet werden.",
+      "Ja, in Gegenständen wie Werken oder Bewegung und Sport soll die Förderklasse nach Möglichkeit gemeinsam mit der Regelklasse geführt werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Es braucht keinen Elternantrag, sondern eine Organisationsentscheidung.",
+      "Falsch: Umgekehrt gilt es für die nicht-sprachlichen Gegenstände.",
+      "Falsch: Gemeinsame Führung ist gerade erwünscht.",
+      "Richtig: Nicht primär sprachliche Gegenstände eignen sich für gemeinsame Führung."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An einer Volksschule in Wien besuchen mehrere Kinder eine Deutschförderklasse. Der Schulleiter überlegt, ob sie in Werken und im Turnen gemeinsam mit ihrer Regelklasse unterrichtet werden können, statt immer getrennt zu bleiben.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Für den Orientierungsunterricht dürfen eigene klassen-, stufen-, standort- und schulartübergreifende Gruppen gebildet werden. Diese Orientierungsklassen sind keine Klassen im schulrechtlichen Sinn. Zum Nachlesen: SchUG §9 Abs.1b.",
+    "hauptquelle": "SchUG §9 Abs.1b",
+    "id": "A04-L1-005",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Nein, jede Schule darf nur ihre eigenen Kinder in eigenen Klassen fördern.",
+      "Ja, es dürfen eigene übergreifende Orientierungsgruppen gebildet werden, sie gelten nicht als Klassen im schulrechtlichen Sinn.",
+      "Nur innerhalb einer einzigen Klasse darf gefördert werden.",
+      "Nur die Behörde darf solche Gruppen bilden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Übergreifende Gruppen sind gerade vorgesehen.",
+      "Richtig: Klassen-, stufen-, standort- und schulartübergreifende Orientierungsgruppen sind möglich.",
+      "Falsch: Die Beschränkung auf eine Klasse besteht nicht.",
+      "Falsch: Die Gruppenbildung bleibt Leitungsaufgabe."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Drei kleine Volksschulen in einem Tal haben je nur zwei Kinder mit Bedarf an Orientierungsunterricht. Die Schulleiterinnen überlegen, sie standortübergreifend in einer gemeinsamen Gruppe zu fördern, statt an jedem Standort einzeln.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Im Klassenlehrersystem weist der Schulleiter jede Klasse für jedes Unterrichtsjahr einem Klassenlehrer zu. Einzelne Gegenstände an andere Lehrer laufen sinngemäß wie die Lehrfächerverteilung. Zum Nachlesen: SchUG §9 Abs.2.",
+    "hauptquelle": "SchUG §9 Abs.2",
+    "id": "A04-L1-006",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Das Los entscheidet jedes Monat neu.",
+      "Die dienstälteste Lehrkraft nimmt sich die Klasse, die sie will.",
+      "Der Schulleiter weist für jedes Unterrichtsjahr jede Klasse einem Klassenlehrer zu.",
+      "Die Klassensprecher wählen ihre Klassenlehrerin."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Monatliches Losen gibt es nicht.",
+      "Falsch: Selbstwahl nach Dienstalter ist nicht vorgesehen.",
+      "Richtig: Jährliche Klassenzuweisung durch den Schulleiter.",
+      "Falsch: Schüler wählen keine Lehrkräfte."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "An einer Volksschule in Innsbruck streiten zwei Lehrerinnen um die 3a, beide wollen sie übernehmen. Der Schulleiter erklärt, wer die Entscheidung über die Zuweisung der Klassen trifft und für welchen Zeitraum sie gilt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Im Fachlehrersystem verteilt der Schulleiter die Stunden nach Beratung der allgemeinen Gesichtspunkte in der Schulkonferenz. Er beachtet Pädagogik, Lehrverpflichtung, Lehrbefähigung und vereinbare Lehrerwünsche. Zum Nachlesen: SchUG §9 Abs.3.",
+    "hauptquelle": "SchUG §9 Abs.3",
+    "id": "A04-L1-007",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Er verteilt nach Beratung der allgemeinen Gesichtspunkte in der Schulkonferenz und beachtet dabei Eignung, Verpflichtung, Befähigung und vereinbare Wünsche.",
+      "Die Lehrer teilen sich die Fächer selbst zu, die Leitung hat nichts zu sagen.",
+      "Die Schülerkonferenz beschließt die Verteilung.",
+      "Er verteilt frei nach Sympathie, ganz ohne Regeln."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beratung in der Schulkonferenz plus pädagogische, dienstrechtliche und Befähigungskriterien.",
+      "Falsch: Selbstzuteilung ersetzt die Leitungsentscheidung nicht.",
+      "Falsch: Schüler beschließen keine Lehrfächerverteilung.",
+      "Falsch: Willkür ist ausgeschlossen, es gibt klare Maßstäbe."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "AHS",
+      "BHS",
+      "MS"
+    ],
+    "situation": "An einem Gymnasium in Klagenfurt wollen drei Lehrkräfte unbedingt dieselbe Oberstufenklasse in Englisch. Der Schulleiter erklärt im Konferenzzimmer, nach welchen Grundsätzen er die Fächer für das kommende Unterrichtsjahr verteilen wird.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Klassenzuweisung und Lehrfächerverteilung sind der zuständigen Schulbehörde schriftlich zur Kenntnis zu bringen. Das ist eine Meldepflicht, keine Genehmigung im Einzelfall. Zum Nachlesen: SchUG §9 Abs.4.",
+    "hauptquelle": "SchUG §9 Abs.4",
+    "id": "A04-L1-008",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Ein mündlicher Anruf bei der Behörde genügt.",
+      "Er braucht vorher eine Genehmigung der Eltern.",
+      "Er muss gar nichts melden, das bleibt schulintern.",
+      "Er muss Klassenzuweisung und Lehrfächerverteilung der Schulbehörde schriftlich zur Kenntnis bringen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mündlich reicht nicht, es muss schriftlich sein.",
+      "Falsch: Eltern genehmigen keine Lehrerzuweisung.",
+      "Falsch: Schweigen genügt nicht, es gibt eine Meldepflicht.",
+      "Richtig: Schriftliche Kenntnisbringung an die Behörde."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein neuer Schulleiter in St. Pölten hat Zuweisung und Fächerverteilung fertig. Er fragt die Administration, ob und wie er die Schulbehörde darüber informieren muss, oder ob ein Aushang im Lehrerzimmer reicht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei Schülergruppen und im Betreuungsteil ganztägiger Schulen teilt der Schulleiter die Kinder in Gruppen ein. Er weist Lehrer beziehungsweise Lern- und Freizeitpersonal zu und meldet das schriftlich der Behörde. Zum Nachlesen: SchUG §9 Abs.5.",
+    "hauptquelle": "SchUG §9 Abs.5",
+    "id": "A04-L1-009",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Die Kinder teilen sich selbst in Gruppen ein, Personal wird nicht zugewiesen.",
+      "Der Schulleiter teilt die Kinder in Gruppen ein und weist Lehrer sowie Betreuungspersonal zu, die Zuweisung meldet er schriftlich der Behörde.",
+      "Die Gemeinde entscheidet allein über Gruppen und Personal.",
+      "Gruppen im Betreuungsteil brauchen kein Personal."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Selbstorganisation ersetzt die Leitungsentscheidung nicht.",
+      "Richtig: Gruppeneinteilung plus Personalzuweisung mit schriftlicher Meldung.",
+      "Falsch: Die Gemeinde trifft diese pädagogische Einteilung nicht.",
+      "Falsch: Auch Betreuungsgruppen brauchen zugewiesenes Personal."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine ganztägige Volksschule in Villach richtet im Betreuungsteil drei Nachmittagsgruppen ein. Eltern fragen, wer die Kinder einteilt und wer für Lernzeiten und Freizeit zuständig ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Schulleiter macht für jede Klasse innerhalb der ersten beiden Tage des Schuljahres den Stundenplan kund. An Berufsschulen gilt die Frist ab den ersten beiden Schultagen der Klasse. Zum Nachlesen: SchUG §10 Abs.1.",
+    "hauptquelle": "SchUG §10 Abs.1",
+    "id": "A04-L1-010",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Erst zu Semesterende braucht es einen Plan.",
+      "Erst nach einem Monat muss ein Plan hängen.",
+      "Der Schulleiter macht für jede Klasse innerhalb der ersten beiden Tage des Schuljahres den Stundenplan in geeigneter Weise kund.",
+      "Der Stundenplan ist freiwillig, ein mündlicher Hinweis reicht das ganze Jahr."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Semesterende ist viel zu spät.",
+      "Falsch: Einen Monat warten ist zu spät.",
+      "Richtig: Kundmachung innerhalb der ersten beiden Tage.",
+      "Falsch: Freiwilligkeit besteht nicht, Kundmachung ist Pflicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am ersten Schultag in einer Mittelschule in Wels hängen noch keine Stundenpläne aus, die Kinder irren durchs Haus. Eltern beschweren sich und fragen, bis wann jede Klasse ihren Plan erhalten muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei Verhinderung oder aus pädagogischen Gründen ordnet der Schulleiter vorübergehende Änderungen an. Dazu zählen Tausch, Blockung, Fachsupplierung, Supplierung oder Entfall. Zum Nachlesen: SchUG §10 Abs.2.",
+    "hauptquelle": "SchUG §10 Abs.2",
+    "id": "A04-L1-011",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Der Schulleiter ordnet vorübergehend Tausch, Blockung, Fachsupplierung, Supplierung oder Entfall an.",
+      "Nur die erkrankte Lehrkraft selbst darf Vertretung organisieren.",
+      "Die Schüler entscheiden, ob sie vertreten werden wollen.",
+      "Der Unterricht fällt ersatzlos aus, niemand darf vertreten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorübergehende Änderung durch Leitungsanordnung.",
+      "Falsch: Zuständig ist die Leitung, nicht die erkrankte Kraft allein.",
+      "Falsch: Schüler entscheiden nicht über Vertretungen.",
+      "Falsch: Ersatzloser Ausfall ohne Anordnung ist nicht das Konzept."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einem Gymnasium in Dornbirn sind am Montag drei Lehrerinnen krank. Der Schulleiter baut den Tag um: Eine Stunde wird getauscht, eine Klasse wird von einer Fachkollegin suppliert. Eine Mutter fragt, ob er das überhaupt darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Entfall ist nur als vorübergehende Änderung zulässig, die Schüler sind rechtzeitig zu informieren. Bei Gefährdung durch frühes Ende muss die Beaufsichtigung bis zum planmäßigen Unterrichtsende gesichert sein. Zum Nachlesen: SchUG §10 Abs.2.",
+    "hauptquelle": "SchUG §10 Abs.2",
+    "id": "A04-L1-012",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Beaufsichtigung ist nie nötig, Kinder sind immer selbst verantwortlich.",
+      "Nur die Polizei darf beaufsichtigen.",
+      "Die Kinder werden kommentarlos heimgeschickt.",
+      "Bei angeordnetem Entfall sorgt der Schulleiter bei Gefährdung für Beaufsichtigung bis zum planmäßigen Unterrichtsende."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade jüngere Kinder brauchen gesicherte Aufsicht.",
+      "Falsch: Zuständig bleibt die Schule, nicht die Polizei.",
+      "Falsch: Kommentarloses Heimschicken verletzt Informations- und Schutzpflicht.",
+      "Richtig: Beaufsichtigung bis zum planmäßigen Ende bei Gefährdung."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An einer Volksschule in Eisenstadt muss die letzte Stunde am Freitag entfallen, weil die Heizung ausfällt. Mehrere siebenjährige Kinder wären eine Stunde früher allein vor verschlossener Tür. Der Schulleiter plant die Aufsicht für diese Stunde.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Jede Änderung des Stundenplans ist den Schülern rechtzeitig bekannt zu geben. Ob Tausch, Blockung oder Supplierung, Überraschungen ohne Info sind nicht vorgesehen. Zum Nachlesen: SchUG §10 Abs.2.",
+    "hauptquelle": "SchUG §10 Abs.2",
+    "id": "A04-L1-013",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Nur die Lehrer müssen Bescheid wissen.",
+      "Änderungen gelten geheim, niemand muss informiert werden.",
+      "Die Schüler sind von jeder Änderung des Stundenplans rechtzeitig in Kenntnis zu setzen.",
+      "Es genügt, wenn es irgendwer irgendwann erfährt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch die Schüler müssen informiert werden.",
+      "Falsch: Geheimhaltung ist ausgeschlossen.",
+      "Richtig: Rechtzeitige Information der Schüler ist Pflicht.",
+      "Falsch: Zufällige Kenntnis genügt nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine 2. Klasse in Krems kommt am Dienstag in die falsche Stunde, weil der getauschte Turnsaal nur im Lehrerzimmer ausgehängt war. Die Schüler beschweren sich, dass ihnen niemand rechtzeitig Bescheid gegeben hat.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "In Integrationsklassen soll der Anteil von Kindern mit Förderbedarf nur so hoch sein, wie die nötige Förderung bei Art und Schwere der Behinderung noch möglich ist. Es geht um Förderbarkeit, nicht um starre Quoten. Zum Nachlesen: SchUG §9 Abs.1.",
+    "hauptquelle": "SchUG §9 Abs.1",
+    "id": "A04-L1-014",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Es gibt gar keine Grenze, beliebig viele Kinder mit Förderbedarf in eine Klasse.",
+      "Der Anteil soll nur so hoch sein, dass die erforderliche Förderung bei Art und Schwere der Behinderung noch möglich ist.",
+      "Kinder mit Förderbedarf dürfen nie gemeinsam unterrichtet werden.",
+      "Nur Kinder ohne Förderbedarf dürfen in eine Klasse."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Grenzenloses Auffüllen gefährdet die Förderung.",
+      "Richtig: Maßstab ist die noch mögliche sonderpädagogische Förderung.",
+      "Falsch: Gemeinsamer Unterricht ist ausdrücklich vorgesehen.",
+      "Falsch: Ausschluss ist nicht das Ziel der Regel."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Volksschule in Bregenz führt eine Integrationsklasse. Die Schulleiterin überlegt, wie viele Kinder mit Förderbedarf sie dieser Klasse zuteilen kann, damit jedes Kind noch gut gefördert wird.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Stundenplan muss so gebaut sein, dass die Jahresstunden rechnerisch nachvollziehbar erfüllt werden. Kürzere oder längere Einheiten dürfen die Zahl der Einheiten pro Woche für Schüler und Lehrer nicht erhöhen. Zum Nachlesen: SchUG §10 Abs.3.",
+    "hauptquelle": "SchUG §10 Abs.3",
+    "id": "A04-L1-015",
+    "level": "L1",
+    "modul_id": "A04",
+    "optionen": [
+      "Der Plan muss die Erfüllung der Jahresstunden rechnerisch nachvollziehbar sichern, ohne die Wocheneinheiten durch kürzere oder längere Einheiten zu erhöhen.",
+      "Rechnerische Nachvollziehbarkeit ist nicht nötig.",
+      "Blockungen über die Woche hinaus sind immer verboten.",
+      "Die Schule darf beliebig viele Kurzeinheiten pro Woche verlangen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachvollziehbarkeit der Jahresstunden ohne Erhöhung der Wocheneinheiten.",
+      "Falsch: Genau diese Nachvollziehbarkeit wird verlangt.",
+      "Falsch: Wochenübergreifende Blockungen bleiben unberührt zulässig.",
+      "Falsch: Beliebige Vermehrung der Einheiten ist ausgeschlossen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "AHS",
+      "BHS",
+      "MS"
+    ],
+    "situation": "Ein Gymnasium in Wien will auf 45-Minuten-Einheiten umstellen und überlegt, dafür einfach mehr Einheiten pro Woche anzusetzen. Der Personalvertreter warnt, dass dann alle mehr Stunden hätten, und bittet um Klärung der Grenzen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
