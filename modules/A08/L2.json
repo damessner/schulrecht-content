@@ -1,1 +1,425 @@
-[]
+[
+  {
+    "id": "A08-L2-001",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["AHS", "BHS", "MS"],
+    "situation": "Du organisierst als Klassenvorständin einen fünftägigen Skikurs mit 28 Jugendlichen in einem fremden Skigebiet inklusive Busfahrt und Liftbetrieb. Vor der Buchung musst du die Sicherheitsplanung absichern. Welche Punkte gehören zu einer korrekten Sicherheits-Checkliste?",
+    "optionen": [
+      "Festlegen, welche Sicherheitsvorkehrungen für Anreise, Piste und Unterkunft gelten und wer wofür zuständig ist.",
+      "Prüfen, ob Begleitpersonen, Gruppengrößen und Treffpunkte für den Ernstfall ausreichen.",
+      "Sicherheitsfragen allein den Jugendlichen überlassen und nichts schriftlich festhalten.",
+      "Risikoreiche Programmpunkte ohne Prüfung der Eignung und Sicherheitslage übernehmen.",
+      "Vorab klären, wie bei Verletzung, Erkrankung oder Wetterumschwung reagiert und kommuniziert wird.",
+      "Nur den günstigsten Preis vergleichen und Sicherheit als Nebensache behandeln."
+    ],
+    "richtig": [0, 1, 4],
+    "pro_option_feedback": [
+      "Richtig: Sicherheitsfestlegungen im Rahmen der Durchführungsrichtlinien sind Pflicht.",
+      "Richtig: Ausreichende Begleitung und Organisation gehören zur Gewährleistung der Sicherheit.",
+      "Falsch: Sicherheit darf nicht auf die Schüler abgewälzt und muss festgelegt werden.",
+      "Falsch: Riskante Inhalte brauchen vorherige Sicherheitsprüfung statt blinder Übernahme.",
+      "Richtig: Notfallwege bei Verletzung, Krankheit und Wetter gehören zur Planung.",
+      "Falsch: Der Preis ersetzt niemals die Sicherheitsverantwortung."
+    ],
+    "aufloesung": "Die Sicherheitsplanung muss vor der Buchung stehen. Zuständigkeiten, Begleitung, Gruppengröße und Notfallwege werden festgelegt, denn die Sicherheit der Schüler ist ausdrücklich zu gewährleisten. Zum Nachlesen: SchUG §13 Abs.2 Z2.",
+    "hauptquelle": "SchUG §13 Abs.2 Z2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-002",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Deine Klasse plant eine dreitägige Projektwoche mit Busfahrt, Übernachtungen und mehreren kostenpflichtigen Eintritten. Einige Familien haben wenig Einkommen und fragen nach den Kosten. Was musst du bei der Kostenprüfung beachten?",
+    "optionen": [
+      "Fahrpreise und Eintritte so wählen, dass sie sparsam und angemessen bleiben.",
+      "Teure Zusatzangebote streichen oder durch günstige gleichwertige Alternativen ersetzen.",
+      "Beliebig luxuriöse Optionen buchen, weil nur das Beste gut genug sei.",
+      "Kostenaufstellung offenlegen und Familien früh über die zu erwartenden Beträge informieren.",
+      "Familien mit Geldsorgen ignorieren, weil Kosten keine Rolle spielen.",
+      "Finanzierung so planen, dass kein Kind aus Geldgründen faktisch ausgeschlossen wird."
+    ],
+    "richtig": [0, 1, 3, 5],
+    "pro_option_feedback": [
+      "Richtig: Sparsamkeit und Angemessenheit sind der Maßstab für die Kosten.",
+      "Richtig: Maßvolle Alternativen sichern den Zweck bei vertretbaren Kosten.",
+      "Falsch: Luxus ohne Rücksicht auf die Familien verstößt gegen das Kostenprinzip.",
+      "Richtig: Transparenz ermöglicht Planung und sozialen Ausgleich.",
+      "Falsch: Soziale Rücksicht gehört zur verantwortlichen Veranstaltungsplanung.",
+      "Richtig: Faktische Ausschlüsse über den Preis sind zu vermeiden."
+    ],
+    "aufloesung": "Die Kosten müssen sparsam und angemessen bleiben. Teure Extras werden gestrichen, Beträge offengelegt und so geplant, dass einkommensschwache Familien nicht ausgeschlossen werden. Zum Nachlesen: SchUG §13 Abs.2 Z3.",
+    "hauptquelle": "SchUG §13 Abs.2 Z3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-003",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS"],
+    "situation": "Schüler Felix hat bei den letzten beiden Ausflügen Mitschüler geschlagen, Sicherheitshinweise missachtet und mit gefährlichen Gegenständen hantiert. Vor der Wienwoche überlegst du einen Ausschluss. Welche Verfahrensschritte sind korrekt?",
+    "optionen": [
+      "Konkrete Vorfälle aus dem bisherigen Verhalten dokumentieren und bewerten.",
+      "Klassenkonferenz anhören, bevor über einen Ausschluss entschieden wird.",
+      "Entscheidung durch den Schulleiter treffen lassen statt allein als Begleitlehrerin.",
+      "Ausschluss sofort allein am Gang mündlich verhängen ohne jede Beteiligung.",
+      "Prüfen, ob mit großer Wahrscheinlichkeit eine Sicherheitsgefährdung zu erwarten ist.",
+      "Wegen einer einzigen schlechten Schularbeit ohne Sicherheitsbezug ausschließen."
+    ],
+    "richtig": [0, 1, 2, 4],
+    "pro_option_feedback": [
+      "Richtig: Das bisherige Verhalten ist die Grundlage jeder Prognose.",
+      "Richtig: Die Anhörung der Klassenkonferenz ist Verfahrensvoraussetzung.",
+      "Richtig: Zuständig ist der Schulleiter, nicht die einzelne Lehrperson.",
+      "Falsch: Alleingänge ohne Konferenz und Schulleitung sind unzulässig.",
+      "Richtig: Nur große Wahrscheinlichkeit einer Gefährdung rechtfertigt den Ausschluss.",
+      "Falsch: Leistungen ohne Sicherheitsbezug sind kein Ausschlussgrund."
+    ],
+    "aufloesung": "Felix darf nur nach korrektem Verfahren ausgeschlossen werden. Vorfälle dokumentieren, Klassenkonferenz anhören und durch den Schulleiter entscheiden, nur bei großer Wahrscheinlichkeit einer Sicherheitsgefährdung. Zum Nachlesen: SchUG §13 Abs.3 Z2.",
+    "hauptquelle": "SchUG §13 Abs.3 Z2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-004",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["VS", "MS"],
+    "situation": "Zwei Kinder deiner Klasse fahren nicht auf die Sportwoche mit Übernachtung mit: Jonas wurde nach Vorfällen ausgeschlossen, Aylin nimmt wegen der auswärtigen Nächtigung nicht teil. Du musst ihren Schulbesuch in dieser Woche regeln. Was ist richtig?",
+    "optionen": [
+      "Beide nach Möglichkeit einer anderen Klasse zu einem ersatzweisen Schulbesuch zuweisen.",
+      "Mit dem Schulleiter die Zuweisung organisieren statt die Kinder sich selbst zu überlassen.",
+      "Beide die ganze Woche unbetreut zu Hause lassen ohne jede Zuweisung.",
+      "Jonas wegen des Ausschlusses automatisch schlechter beurteilen als Strafe.",
+      "Sicherstellen, dass die Beurteilung des Lehrziels ohne Rücksicht auf die Nichtteilnahme erfolgt.",
+      "Aylin eine Nachprüfung über den Inhalt der Sportwoche aufzwingen."
+    ],
+    "richtig": [0, 1, 4],
+    "pro_option_feedback": [
+      "Richtig: Bei Ausschluss und auswärtiger Nächtigung ist Ersatzunterricht vorgesehen.",
+      "Richtig: Die Zuweisung trifft der Schulleiter nach Möglichkeit.",
+      "Falsch: Wegschicken ohne Zuweisung verletzt die Betreuungsverantwortung.",
+      "Falsch: Die Nichtteilnahme darf nicht in die Beurteilung einfließen.",
+      "Richtig: Das Lehrziel wird ohne Rücksicht auf die Nichtteilnahme beurteilt.",
+      "Falsch: Eine Sonderprüfung über die Veranstaltung ist nicht vorgesehen."
+    ],
+    "aufloesung": "Beide Kinder erhalten Ersatzunterricht in einer anderen Klasse. Der Schulleiter weist sie nach Möglichkeit zu, und ihre Beurteilung bleibt von der Nichtteilnahme unberührt. Zum Nachlesen: SchUG §13 Abs.4.",
+    "hauptquelle": "SchUG §13 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-005",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["BHS", "BS"],
+    "situation": "Für ein freiwilliges Zusatzprojekt mit Vorkenntnissen in Laborarbeit liegen zehn Anmeldungen vor. Drei Angemeldete haben die nötigen Vorkenntnisse nicht, einer war bei Ausflügen massiv sicherheitsgefährdend, eine Schülerin würde durch die Termine ihren Abschluss gefährden. Was musst du prüfen?",
+    "optionen": [
+      "Ob die fachlichen Voraussetzungen für die Teilnahme jeweils erbracht sind.",
+      "Ob vom bisherigen Verhalten eine große Wahrscheinlichkeit einer Sicherheitsgefährdung ausgeht.",
+      "Ob durch die Teilnahme der erfolgreiche Abschluss der Schulstufe infrage gestellt erscheint.",
+      "Alle Anmeldungen unbesehen annehmen, weil jede Prüfung verboten sei.",
+      "Nur nach Sympathie entscheiden ohne sachliche Gründe.",
+      "Bei fehlenden Voraussetzungen oder Gefährdungen die Teilnahme untersagen."
+    ],
+    "richtig": [0, 1, 2, 5],
+    "pro_option_feedback": [
+      "Richtig: Fehlende Voraussetzungen sind ein Untersagungsgrund.",
+      "Richtig: Sicherheitsgefährdung mit großer Wahrscheinlichkeit zählt ebenfalls.",
+      "Richtig: Gefährdung des Abschlusses rechtfertigt die Untersagung.",
+      "Falsch: Die Prüfung der Gründe ist gerade vorgeschrieben.",
+      "Falsch: Willkür ersetzt keine sachliche Prüfung.",
+      "Richtig: Bei Vorliegen der Gründe ist die Teilnahme zu untersagen."
+    ],
+    "aufloesung": "Die Anmeldungen werden einzeln geprüft und problematische Teilnahmen untersagt. Fehlende Voraussetzungen, Sicherheitsgefährdung und Gefährdung des Abschlusses sind die drei Untersagungsgründe. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-006",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["AHS", "BHS"],
+    "situation": "Du sollst als Schulleiter die Untersagung einer Teilnahme an einem freiwilligen Zusatzprojekt aussprechen, weil ein Schüler die Voraussetzungen nicht erfüllt. Die Eltern verlangen ein korrektes Verfahren. Wie gehst du vor?",
+    "optionen": [
+      "Klassenkonferenz vor der Entscheidung anhören.",
+      "Untersagung mit konkretem Grund aussprechen und dokumentieren.",
+      "Entscheidung selbst oder über eine beauftragte Lehrperson treffen.",
+      "Mündliche Andeutung am Gang ohne Grund als ausreichend betrachten.",
+      "Den Schüler ohne jede Anhörung stillschweigend von der Liste streichen.",
+      "Nach der Untersagung die Teilnahmepflicht für diesen Schüler trotzdem einfordern."
+    ],
+    "richtig": [0, 1, 2],
+    "pro_option_feedback": [
+      "Richtig: Die Anhörung der Klassenkonferenz ist vorgeschrieben.",
+      "Richtig: Der Grund muss angegeben und festgehalten werden.",
+      "Richtig: Zuständig sind Schulleitung oder beauftragte Lehrperson.",
+      "Falsch: Ohne Grundangabe ist die Untersagung fehlerhaft.",
+      "Falsch: Heimliches Streichen ersetzt kein Verfahren.",
+      "Falsch: Wer ausgeschlossen ist, ist nicht teilnahmepflichtig."
+    ],
+    "aufloesung": "Die Untersagung erfolgt begründet und nach Anhörung der Klassenkonferenz. Zuständig sind Schulleitung oder beauftragte Lehrperson, der Grund wird angegeben und dokumentiert. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-007",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "AHS"],
+    "situation": "Schülerin Lena ist für eine freiwillige Sportreihe mit vier Terminen über das Halbjahr angemeldet und will nach dem zweiten Termin aus Zeitgründen aussteigen. Der nächste Termin ist in fünf Wochen, der übernächste in neun Wochen. Was gilt für ihre Abmeldung?",
+    "optionen": [
+      "Bei einer Reihe von Veranstaltungen ist eine Abmeldung grundsätzlich möglich.",
+      "Die Abmeldung darf frühestens nach der ersten Veranstaltung erfolgen.",
+      "Die Abmeldung muss spätestens vier Wochen vor einer weiteren Veranstaltung erfolgen.",
+      "Ein Ausstieg ist niemals möglich, sie muss alle Termine besuchen.",
+      "Eine Abmeldung per Zuruf am Vorabend genügt für jeden beliebigen Termin.",
+      "Krankheit als Fernbleibegrund bleibt daneben unberührt bestehen."
+    ],
+    "richtig": [0, 1, 2, 5],
+    "pro_option_feedback": [
+      "Richtig: Das Gesetz sieht die Abmeldung bei einer Reihe vor.",
+      "Richtig: Vor der ersten Veranstaltung ist kein Ausstieg vorgesehen.",
+      "Richtig: Die Vier-Wochen-Frist vor der weiteren Veranstaltung ist einzuhalten.",
+      "Falsch: Die Reihe bindet nicht bis zum Jahresende.",
+      "Falsch: Fristen und Krankheitstatbestände gelten daneben weiter.",
+      "Richtig: Krankheitsbedingtes Fernbleiben bleibt ein eigener Entschuldigungsgrund."
+    ],
+    "aufloesung": "Lena kann sich aus der Reihe abmelden, wenn die Fristen eingehalten sind. Frühestens nach der ersten und spätestens vier Wochen vor einer weiteren Veranstaltung ist der Ausstieg möglich. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-008",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Eine engagierte Lehrerin will ein freiwilliges Chorprojekt, das auf dem Musikunterricht aufbaut, als schulbezogene Veranstaltung anerkennen lassen. Das Gremium berät. Welche Voraussetzungen müssen für die Erklärung erfüllt sein?",
+    "optionen": [
+      "Das Projekt baut auf dem lehrplanmäßigen Unterricht auf und dient der Schulaufgabe.",
+      "Die erforderlichen Lehrer erklären sich zur Durchführung bereit.",
+      "Die Finanzierung ist sichergestellt und nötige Zustimmungen anderer Stellen liegen vor.",
+      "Die Erklärung erfolgt durch Klassen- oder Schulforum beziehungsweise Schulgemeinschaftsausschuss.",
+      "Die Lehrerin erklärt das Projekt allein ohne Gremium und ohne Finanzierung.",
+      "Bei schulübergreifenden Projekten entscheidet stattdessen die Behörde oder das Ministerium."
+    ],
+    "richtig": [0, 1, 2, 3],
+    "pro_option_feedback": [
+      "Richtig: Aufbau auf Unterricht und Schulaufgabe sind Grundbedingung.",
+      "Richtig: Ohne bereite Lehrer keine Erklärung.",
+      "Richtig: Finanzierung und fremde Zustimmungen müssen gesichert sein.",
+      "Richtig: Zuständig sind Forum beziehungsweise Schulgemeinschaftsausschuss.",
+      "Falsch: Alleingänge ohne Gremium und Mittel genügen nicht.",
+      "Richtig: Bei mehreren Schulen greift die Behörden- oder Ministerzuständigkeit."
+    ],
+    "aufloesung": "Das Gremium erklärt das Projekt nur bei erfüllten Voraussetzungen. Aufbau auf Unterricht, bereite Lehrer, gesicherte Finanzierung und Zustimmungen müssen vorliegen, bei mehreren Schulen entscheidet die übergeordnete Stelle. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-009",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["VS", "MS"],
+    "situation": "In deiner Integrationsklasse werden Kinder mit und ohne besonderen Förderbedarf gemeinsam unterrichtet. Du planst einen Wandertag mit längerer Wegstrecke und einem steilen Abschnitt. Die Eltern eines Kindes mit Förderbedarf fragen, ob ihr Kind mitkann. Wie planst du korrekt?",
+    "optionen": [
+      "Route und Programm so wählen, dass das Kind in größtmöglichem Ausmaß teilnehmen kann.",
+      "Bedarf des Kindes vorab mit Eltern und Begleitpersonen klären und einplanen.",
+      "Das Kind pauschal zu Hause lassen, weil Förderung und Ausflug nicht zusammenpassen.",
+      "Begleitung, Pausen und barrierearme Alternativen für schwierige Abschnitte vorsehen.",
+      "Nur Kinder ohne Förderbedarf mitnehmen und das Kind ohne Begründung ausschließen.",
+      "Notwendige Hilfen und Aufsicht für die Teilnahme organisieren."
+    ],
+    "richtig": [0, 1, 3, 5],
+    "pro_option_feedback": [
+      "Richtig: Größtmögliche Teilnahme ist der Planungsmaßstab.",
+      "Richtig: Vorabklärung sichert passende Vorkehrungen.",
+      "Falsch: Pauschales Zu-Hause-Lassen widerspricht dem Inklusionsauftrag.",
+      "Richtig: Angepasste Route und Begleitung ermöglichen Teilnahme.",
+      "Falsch: Ausschluss ohne Sicherheitsverfahren ist unzulässig.",
+      "Richtig: Hilfen und Aufsicht gehören zur inklusiven Planung."
+    ],
+    "aufloesung": "Der Wandertag wird so geplant, dass das Kind möglichst voll teilnehmen kann. Route, Pausen, Begleitung und Hilfen werden angepasst statt das Kind pauschal auszuschließen. Zum Nachlesen: SchUG §13 Abs.1a.",
+    "hauptquelle": "SchUG §13 Abs.1a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-010",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["MS", "PTS"],
+    "situation": "Schüler Jonas, im achten Jahr der Schulpflicht, will drei Tage in einer Autowerkstatt verbringen, um seinen Berufswunsch zu prüfen. Er stellt ein Ansuchen an dich als Klassenvorstand und hat in diesem Jahr noch keine solchen Tage verbraucht. Wie entscheidest du?",
+    "optionen": [
+      "Prüfen, ob er sich zumindest im achten Jahr der Schulpflicht befindet.",
+      "Prüfen, ob die Fünf-Tage-Grenze pro Unterrichtsjahr eingehalten bleibt.",
+      "Ansuchen des Schülers als Grundlage nehmen und Interessen abwägen.",
+      "Schulisches Fortkommen gegen Nutzen der beruflichen Orientierung abwägen.",
+      "Ohne Ansuchen und ohne Abwägung beliebig viele Wochen freigeben.",
+      "Freistellung ablehnen, weil Orientierung außerhalb der Schule nie erlaubt sei."
+    ],
+    "richtig": [0, 1, 2, 3],
+    "pro_option_feedback": [
+      "Richtig: Das achte Jahr der Schulpflicht ist die Eintrittsschwelle.",
+      "Richtig: Höchstens fünf Tage pro Unterrichtsjahr sind möglich.",
+      "Richtig: Ein Ansuchen löst das Verfahren aus.",
+      "Richtig: Die Interessenabwägung trifft der Klassenvorstand.",
+      "Falsch: Beliebige Freigaben ohne Grenze und Verfahren sind unzulässig.",
+      "Falsch: Individuelle Orientierung ist ausdrücklich vorgesehen."
+    ],
+    "aufloesung": "Jonas erhält die Erlaubnis nach Ansuchen und Interessenabwägung. Schwelle, Fünf-Tage-Grenze und Abwägung von Fortkommen und Orientierung durch den Klassenvorstand werden geprüft. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-011",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["PTS", "BS", "BHS"],
+    "situation": "Schülerin Aylin verbringt genehmigte Orientierungstage in einem Handelsbetrieb. Der Chef will sie fest in Verkauf und Lager einteilen, Überstunden machen lassen und ohne Aufsichtsperson arbeiten lassen. Du klärst den Betrieb auf. Was gilt?",
+    "optionen": [
+      "Eine Eingliederung in den Arbeitsprozess ist nicht zulässig.",
+      "Die Tage dienen der Information und Berufswahlreife, nicht der Arbeitsleistung.",
+      "Auf jugendschutzrechtliche Bestimmungen, Arbeitnehmerschutz und Hygiene hinzuweisen.",
+      "Aylin wie eine normale Arbeitskraft voll einteilen und unbeaufsichtigt lassen.",
+      "Aufsicht in einem Alter, Reife und Umständen entsprechenden Ausmaß sicherstellen.",
+      "Die Aufsicht formlos dem Betrieb überlassen, ohne Aufsichtspersonen festzulegen."
+    ],
+    "richtig": [0, 1, 2, 4],
+    "pro_option_feedback": [
+      "Richtig: Eingliederung in den Arbeitsprozess ist verboten.",
+      "Richtig: Orientierung bedeutet Einblick, nicht Mitarbeit als Arbeitskraft.",
+      "Richtig: Der Hinweis auf Schutzvorschriften ist vorgeschrieben.",
+      "Falsch: Volleinteilung und fehlende Aufsicht verstoßen gegen beide Schutzpflichten.",
+      "Richtig: Aufsicht nach Alter, Reife und Umständen ist Pflicht.",
+      "Falsch: Aufsichtspersonen sind nach den Aufsichtsregeln auf Vorschlag von Eltern oder Einrichtung festzulegen."
+    ],
+    "aufloesung": "Aylin darf nur orientiert, nicht als Arbeitskraft eingegliedert werden. Schutzhinweise werden gegeben und eine passende Aufsicht auf Vorschlag von Eltern oder Betrieb festgelegt. Zum Nachlesen: SchUG §13b Abs.3.",
+    "hauptquelle": "SchUG §13b Abs.3",
+    "zusatzquellen": ["SchUG §13b Abs.4", "SchUG §44a"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-012",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Für eine Exkursion mit Kletteranteil reichen die verfügbaren Lehrer nicht für alle Kleingruppen. Du willst eine qualifizierte Trainerin aus dem Sportverein und zwei Eltern zur Beaufsichtigung einsetzen. Was musst du dabei beachten?",
+    "optionen": [
+      "Prüfen, ob der Einsatz zur Gewährleistung der Sicherheit erforderlich oder organisatorisch zweckmäßig ist.",
+      "Sicherstellen, dass die Sicherheit der Schüler trotz externer Aufsicht gewährleistet bleibt.",
+      "Nur geeignete Personen wie qualifizierte Trainer oder verlässliche Eltern einsetzen.",
+      "Externe ohne Eignung und ohne Sicherheitsgewähr allein losschicken.",
+      "Festhalten, dass Externe dabei funktionell als Bundesorgane tätig werden.",
+      "Annehmen, für Externe gälten keinerlei Haftungs- oder Organisationsregeln."
+    ],
+    "richtig": [0, 1, 2, 4],
+    "pro_option_feedback": [
+      "Richtig: Erforderlichkeit oder Zweckmäßigkeit sind die Einsatzgründe.",
+      "Richtig: Sicherheit muss in jedem Fall gewährleistet bleiben.",
+      "Richtig: Nur geeignete Personen dürfen beaufsichtigen.",
+      "Falsch: Ungeeignete Aufsicht ohne Sicherheitsgewähr ist unzulässig.",
+      "Richtig: Externe handeln funktionell als Bundesorgane.",
+      "Falsch: Organisations- und Haftungsregeln gelten auch für sie."
+    ],
+    "aufloesung": "Externe dürfen bei Bedarf oder Zweckmäßigkeit zur Aufsicht eingesetzt werden. Nur geeignete Personen, Gewährleistung der Sicherheit und Handeln als Bundesorgane gehören zur Checkliste. Zum Nachlesen: SchUG §44a Abs.1.",
+    "hauptquelle": "SchUG §44a Abs.1",
+    "zusatzquellen": ["SchUG §44a Abs.2"],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-013",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Deine Schule plant auffällig viele mehrtägige Veranstaltungen, sodass ganze Unterrichtswochen ausfallen würden. Eltern fragen, wer die Zahl begrenzt und wer über die Veranstaltungen entscheidet. Was erklärst du?",
+    "optionen": [
+      "Die Höchstzahl ist so zu bestimmen, dass die Erfüllung des Lehrplans nicht beeinträchtigt wird.",
+      "Der Lehrplan darf nicht durch zu viele Veranstaltungen ausgehöhlt werden.",
+      "Die Entscheidung ist an Organe der Schule unter Beachtung von Pädagogik, Sicherheit und Kosten zu übertragen.",
+      "Jede Lehrperson darf beliebig viele Veranstaltungen ohne jede Grenze ansetzen.",
+      "Unterrichtszeit spielt keine Rolle, Veranstaltungen gehen immer vor.",
+      "Sicherheits- und Kostenregeln gelten daneben weiter."
+    ],
+    "richtig": [0, 1, 2, 5],
+    "pro_option_feedback": [
+      "Richtig: Die Höchstzahl schützt die Unterrichtszeit für den Lehrplan.",
+      "Richtig: Lehrplanerfüllung bleibt der Maßstab der Planung.",
+      "Richtig: Schulorgane entscheiden unter pädagogischen und organisatorischen Vorgaben.",
+      "Falsch: Beliebigkeit ohne Grenzen ist gerade ausgeschlossen.",
+      "Falsch: Veranstaltungen ergänzen den Unterricht, ersetzen ihn aber nicht.",
+      "Richtig: Sicherheit und Sparsamkeit begrenzen jede Entscheidung mit."
+    ],
+    "aufloesung": "Die Zahl der Veranstaltungen wird begrenzt, damit der Lehrplan erfüllbar bleibt. Schulorgane entscheiden unter pädagogischen Gesichtspunkten sowie Sicherheits- und Kostenregeln. Zum Nachlesen: SchUG §13 Abs.2.",
+    "hauptquelle": "SchUG §13 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-014",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["alle"],
+    "situation": "Vor einer Exkursion melden sich drei Schüler ab: Selina ist krank mit Bestätigung, Karim wurde nach gefährlichen Vorfällen korrekt ausgeschlossen, Lea verweigert die auswärtige Nächtigung der Folgetage. Du prüfst die Teilnahmepflicht für jeden Fall. Was gilt?",
+    "optionen": [
+      "Grundsätzlich sind Schüler auch außerhalb der Schulliegenschaften zur Teilnahme verpflichtet.",
+      "Gerechtfertigtes Fernbleiben wie Krankheit hebt die Pflicht auf.",
+      "Korrekter Ausschluss nach Vorfällen hebt die Teilnahmepflicht auf.",
+      "Eine mit der Veranstaltung verbundene Nächtigung außerhalb des Wohnortes hebt die Pflicht auf.",
+      "Krankheit zählt bei Veranstaltungen niemals als Entschuldigung.",
+      "Gute Noten befreien automatisch von jeder Veranstaltung."
+    ],
+    "richtig": [0, 1, 2, 3],
+    "pro_option_feedback": [
+      "Richtig: Der Ort außerhalb der Schule befreit nicht für sich.",
+      "Richtig: Die Fernbleiberegeln gelten auch für Veranstaltungen.",
+      "Richtig: Der Ausschluss entbindet von der Teilnahme.",
+      "Richtig: Auswärtige Nächtigung ist ein eigener Ausnahmetatbestand.",
+      "Falsch: Krankheit entschuldigt auch hier.",
+      "Falsch: Noten haben mit der Pflicht nichts zu tun."
+    ],
+    "aufloesung": "Die Pflicht besteht grundsätzlich auch außerhalb der Schule. Krankheit, korrekter Ausschluss und auswärtige Nächtigung sind die drei Ausnahmen, die jeweils einen der drei Fälle lösen. Zum Nachlesen: SchUG §13 Abs.3.",
+    "hauptquelle": "SchUG §13 Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A08-L2-015",
+    "modul_id": "A08",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": ["AHS", "BHS"],
+    "situation": "Das Gymnasium bietet eine freiwillige Theaterreihe mit drei Aufführungsterminen an, die auf dem Deutschunterricht aufbaut. Sophie hat sich angemeldet, überlegt aber vor dem zweiten Termin abzusagen, und Tom will ohne Anmeldung einfach mitfahren. Du klärst beide über Pflichten auf. Was stimmt?",
+    "optionen": [
+      "Die Teilnahme an der freiwilligen Reihe setzt eine vorherige Anmeldung voraus.",
+      "Wer angemeldet ist und nicht ausgeschlossen wurde, ist grundsätzlich teilnahmepflichtig.",
+      "Ohne Anmeldung entsteht keine Teilnahmepflicht für Tom.",
+      "Angemeldet bedeutet Pflicht ohne jede Ausnahme, auch bei Krankheit.",
+      "Krankheit zählt bei dieser freiwilligen Reihe niemals als Entschuldigung.",
+      "Bei einer Reihe ist unter Fristen auch eine Abmeldung möglich."
+    ],
+    "richtig": [0, 1, 2, 5],
+    "pro_option_feedback": [
+      "Richtig: Erst die Anmeldung begründet die Bindung.",
+      "Richtig: Nach Anmeldung ohne Untersagung besteht Pflicht.",
+      "Richtig: Tom muss sich erst anmelden, vorher keine Pflicht.",
+      "Falsch: Krankheit und Reihen-Abmeldung sind anerkannte Ausnahmen.",
+      "Falsch: Die Fernbleiberegeln gelten auch für schulbezogene Veranstaltungen.",
+      "Richtig: Reihen-Abmeldung nach der ersten und vier Wochen vor der weiteren."
+    ],
+    "aufloesung": "Sophie ist durch ihre Anmeldung grundsätzlich gebunden, Tom ohne Anmeldung nicht. Krankheit entschuldigt, und bei einer Reihe ist zusätzlich die fristgerechte Abmeldung möglich. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "zusatzquellen": ["SchUG §13a Abs.2"],
+    "stand": "04.09.2026"
+  }
+]
