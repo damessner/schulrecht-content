@@ -1,1 +1,424 @@
-[]
+[
+  {
+    "aufloesung": "Die Note setzt sich aus beiden Säulen zusammen, Mitarbeit und eingeordnete Prüfungen zählen gemeinsam. Die Mitarbeit zeigt die laufende Leistung im Unterricht, die besonderen Feststellungen prüfen mündlich, schriftlich oder praktisch. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A11-L1-001",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Nur die Schularbeiten zählen, die mündliche Mitarbeit ist freiwillig und fließt nicht ein.",
+      "Die Mitarbeit im Unterricht plus besondere eingeordnete mündliche, schriftliche und praktische Leistungsfeststellungen bilden gemeinsam die Grundlage.",
+      "Nur die Mitarbeit im Unterricht zählt, eigene Prüfungen sind verboten.",
+      "Nur die Hausübungen zählen, alles andere ist nur Übung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schriftliche Arbeiten allein reichen nicht, die laufende Mitarbeit gehört dazu.",
+      "Richtig: Beide Säulen zusammen ergeben das Bild der Leistung im Fach.",
+      "Falsch: Ohne eigene eingeordnete Feststellungen fehlt die zweite Säule der Beurteilung.",
+      "Falsch: Hausübungen ergänzen den Unterricht, ersetzen aber keine Leistungsfeststellung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Frau Berger fragt in der Sprechstunde, woraus sich die Englischnote ihrer Tochter im Zeugnis eigentlich zusammensetzt, weil die Tochter mündlich stark mitarbeitet, aber bei der Schularbeit sehr nervös war.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Geprüft wird der Lehrplanstoff so weit, wie er im Unterricht behandelt wurde. Was noch gar nicht durchgenommen wurde, darf nicht Maßstab der Note sein. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A11-L1-002",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Die Wünsche der Eltern, was ihr Kind schon vorausgelernt hat.",
+      "Die Forderungen des Lehrplans unter Bedachtnahme auf den jeweiligen Stand des Unterrichts.",
+      "Der Stoff der nächsthöheren Schulstufe, damit die Kinder gefordert werden.",
+      "Das Belieben der Lehrerin, sie darf prüfen, was sie will."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vorausgelerntes ist schön, Maßstab bleibt der behandelte Lehrplanstoff.",
+      "Richtig: Lehrplan plus behandelter Unterricht bestimmen, was verlangt werden darf.",
+      "Falsch: Ungehandelter Stoff der nächsten Stufe ist keine faire Grundlage.",
+      "Falsch: Willkür ist ausgeschlossen, Lehrplan und Unterrichtsstand binden die Beurteilung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Herr Demir beschwert sich, dass im Test kein Stoff aus dem nächsten Kapitel vorkam, obwohl sein Sohn zu Hause schon weiter gelernt hat, und fragt, wonach sich Prüfung und Note richten müssen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Note beschreibt, wie selbständig und sicher das Kind den Stoff erfasst, anwendet und Aufgaben löst. Genau diese vier Blickwinkel machen die Bewertung nachvollziehbar. Zum Nachlesen: SchUG §18 Abs.3.",
+    "hauptquelle": "SchUG §18 Abs.3",
+    "id": "A11-L1-003",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Ob das Kind beliebt ist und oft aufzeigt.",
+      "Selbständigkeit der Arbeit, Erfassung und Anwendung des Lehrstoffes, Durchführung der Aufgaben und Eigenständigkeit.",
+      "Nur die Schönheit der Schrift und die Ordnung im Heft.",
+      "Nur die Anzahl der besuchten Nachhilfestunden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beliebtheit und Meldehäufigkeit sind keine Leistungskriterien.",
+      "Richtig: Diese vier Punkte beschreiben, was hinter einer Fachnote steht.",
+      "Falsch: Die äußere Form ist nur ausnahmsweise ein eigener Maßstab.",
+      "Falsch: Nachhilfe sagt nichts über die im Unterricht gezeigte Leistung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Beim Elternabend fragt ein Vater, worauf die Lehrerin eigentlich genau schaut, wenn sie eine Leistung in Deutsch mit Gut oder Befriedigend bewertet.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die abgeschriebene Arbeit wird nicht beurteilt, weil sie keine eigene Leistung zeigt. Die Lehrerin braucht eine ehrliche Feststellung, etwa eine Wiederholung oder mündliche Prüfung. Zum Nachlesen: SchUG §18 Abs.4.",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "id": "A11-L1-004",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Sie muss die abgeschriebene Arbeit normal benoten, weil sie abgegeben wurde.",
+      "Sie zieht einen Punkt ab und benotet den Rest ganz normal.",
+      "Vorgetäuschte Leistungen werden nicht beurteilt, die Täuschung bekommt also keine Note.",
+      "Sie trägt automatisch ein Gut ein, weil der Text ja richtig war."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine erschlichene Leistung darf keine Notengrundlage sein.",
+      "Falsch: Punktabzug heilt die Täuschung nicht, sie bleibt unbeurteilbar.",
+      "Richtig: Abgeschriebenes gilt als vorgetäuscht und fällt aus der Beurteilung heraus.",
+      "Falsch: Pauschalnoten für Täuschungen gibt es nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Jonas fotografiert bei der Wiederholung in Biologie heimlich den Spickzettel am Handy und schreibt fast wörtlich ab, die Lehrerin entdeckt es beim Vergleichen der Arbeiten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Mathenote misst nur die Rechenleistung, nicht das Benehmen. Für Stören und Vergessen gibt es die eigene Verhaltensnote. Zum Nachlesen: SchUG §18 Abs.5.",
+    "hauptquelle": "SchUG §18 Abs.5",
+    "id": "A11-L1-005",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Ja, schlechtes Benehmen darf die Mathenote um eine Stufe senken.",
+      "Ja, aber nur wenn die Eltern vorher zustimmen.",
+      "Nein, das Verhalten in der Schule darf in die Leistungsbeurteilung nicht einbezogen werden.",
+      "Nur bei vergessener Hausübung schon, bei Reden im Unterricht nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Benehmen ist eine Verhaltensfrage und keine Rechenleistung.",
+      "Falsch: Auch mit Zustimmung bleibt die Trennung von Leistung und Verhalten bestehen.",
+      "Richtig: Die Fachnote misst den Stoff, Verhalten wird getrennt beurteilt.",
+      "Falsch: Auch vergessene Hausübungen als Benehmen senken die Fachnote nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena rechnet in Mathematik alles richtig, vergisst aber ständig die Hausübung und redet im Unterricht dazwischen, der Lehrer überlegt, ihr deshalb ein schlechteres Mathezeugnis zu geben.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Sie wird nach dem beurteilt, was sie trotz Schiene erreichen kann, solange die Aufgabe des Faches grundsätzlich noch erfüllt wird. Die Behinderung darf nicht wie Faulheit gewertet werden. Zum Nachlesen: SchUG §18 Abs.6.",
+    "hauptquelle": "SchUG §18 Abs.6",
+    "id": "A11-L1-006",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Sie bekommt automatisch ein Nicht genügend, weil sie nicht alles mitmachen kann.",
+      "Sie wird nach dem erreichbaren Stand beurteilt, soweit die Bildungsaufgabe des Faches grundsätzlich erreicht wird.",
+      "Sie ist vom ganzen Fach befreit und bekommt gar keine Note.",
+      "Sie muss dieselbe Leistung wie unverletzte Kinder bringen, sonst ist sie negativ."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Automatisch negativ wegen einer Verletzung ist nicht vorgesehen.",
+      "Richtig: Maßstab ist der trotz Behinderung erreichbare Unterrichtserfolg.",
+      "Falsch: Befreiung ist etwas anderes als eine angepasste Beurteilung.",
+      "Falsch: Gleiche Anforderungen trotz Verletzung würden die Behinderung bestrafen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Paula trägt nach einer Operation wochenlang eine Armschiene und kann im Werkunterricht bestimmte Arbeiten mit der Hand nicht ausführen, obwohl sie motiviert mitmacht und alles Theoretische beherrscht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Schrift darf die Note nur dann mitbestimmen, wenn das für dieses Fach eigens so festgelegt ist. Sonst zählt der Inhalt der Arbeit, nicht das Schriftbild. Zum Nachlesen: SchUG §18 Abs.7.",
+    "hauptquelle": "SchUG §18 Abs.7",
+    "id": "A11-L1-007",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Ja, ordentliche Schrift zählt in jedem Fach automatisch zur Note dazu.",
+      "Die äußere Form zählt nur dort mit, wo eigens bestimmt ist, dass sie wesentlicher Bestandteil der Leistung ist.",
+      "Nein, die Schrift darf überhaupt nie eine Rolle spielen, auch nicht in Schönschrift.",
+      "Nur in Mathematik zählt die Form, in Sprachen nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Automatisch in jedem Fach gilt das nicht.",
+      "Richtig: Die Form braucht eine eigene Festlegung als wesentlicher Bestandteil.",
+      "Falsch: Ganz ausgeschlossen ist sie nicht, sie braucht nur eine Grundlage.",
+      "Falsch: Auf einzelne Fächer pauschal lässt sich das nicht festlegen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Deutschlehrer will eine inhaltlich gute Erörterung wegen krakeliger Schrift um eine Note abwerten, obwohl für Deutsch keine besondere Rolle der äußeren Form festgelegt ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei echtem Bemühen werden schwache Anlagen in diesen Fächern zugunsten des Kindes berücksichtigt. Die Note soll den Einsatz ehren und nicht den Körperbau bestrafen. Zum Nachlesen: SchUG §18 Abs.8.",
+    "hauptquelle": "SchUG §18 Abs.8",
+    "id": "A11-L1-008",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Nein, im Sport zählen nur Sekunden und Weiten, Einsatz ist egal.",
+      "Ja, mangelnde Anlagen und körperliche Fähigkeiten sind bei erwiesenem Leistungswillen zugunsten des Schülers zu berücksichtigen.",
+      "Nur wer im Verein spielt, bekommt eine gute Note.",
+      "Nur Mädchen bekommen einen Bonus, Buben nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Reine Messwerte ohne Blick auf Einsatz sind nicht vorgesehen.",
+      "Richtig: Echter Wille mildert schwache Anlagen in diesen Fächern.",
+      "Falsch: Vereinszugehörigkeit ist kein Notenkriterium.",
+      "Falsch: Einen Bonus nach Geschlecht gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Moritz trainiert in Bewegung und Sport eifrig mit und gibt nie auf, bleibt aber wegen seiner körperlichen Voraussetzungen beim Laufen und Springen deutlich hinter der Klasse zurück.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Lehrerin beurteilt sie unter Berücksichtigung ihrer Sprachschwierigkeiten. Entscheidend ist, was sie fachlich kann, nicht wie perfekt ihr Deutsch schon klingt. Zum Nachlesen: SchUG §18 Abs.9.",
+    "hauptquelle": "SchUG §18 Abs.9",
+    "id": "A11-L1-009",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Sie wird genau gleich beurteilt wie Kinder mit deutscher Muttersprache, Sprache spielt keine Rolle.",
+      "Ihre Leistungen werden unter Berücksichtigung ihrer Sprachschwierigkeiten beurteilt.",
+      "Sie bekommt automatisch in jedem Fach ein Sehr gut aus Mitleid.",
+      "Sie bekommt ein Jahr lang gar keine Noten, egal was sie leistet."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Startnachteile wegen der Sprache müssen bedacht werden.",
+      "Richtig: Sprachhürden werden bei der Beurteilung berücksichtigt.",
+      "Falsch: Automatische Bestnoten ohne Leistung gibt es nicht.",
+      "Falsch: Pauschal notenfrei ist nicht vorgesehen, beurteilt wird mit Rücksicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Alina lebt seit drei Monaten in Österreich, versteht im Sachunterricht noch wenig Deutsch, strengt sich aber sichtlich an und zeigt im Rechnen und Zeichnen gute Leistungen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Schulleiter kann bestimmen, dass die Muttersprache an die Stelle der Fremdsprache tritt, wenn dort eine lebende Fremdsprache vorgesehen ist. Das Zeugnis bekommt dann einen entsprechenden Vermerk. Zum Nachlesen: SchUG §18 Abs.12.",
+    "hauptquelle": "SchUG §18 Abs.12",
+    "id": "A11-L1-010",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Nein, das ist grundsätzlich ausgeschlossen, jeder muss dieselbe Fremdsprache nehmen.",
+      "Ja, auf Antrag kann der Schulleiter bestimmen, dass die Muttersprache an die Stelle der lebenden Fremdsprache tritt, das Zeugnis erhält einen Vermerk.",
+      "Ja, die Eltern tragen das einfach selbst ins Zeugnis ein.",
+      "Nur wenn das Kind zusätzlich Nachhilfe in der Fremdsprache nimmt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Wechsel zur Muttersprache ist auf Antrag möglich.",
+      "Richtig: Antrag, Entscheidung der Leitung und Vermerk im Zeugnis sind der Weg.",
+      "Falsch: Selbst eintragen ist unzulässig, die Schule entscheidet und vermerkt.",
+      "Falsch: Nachhilfe ist keine Voraussetzung für diesen Wechsel."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Eltern einer Schülerin mit ukrainischer Muttersprache bitten darum, dass ihre Tochter statt der vorgesehenen zweiten lebenden Fremdsprache in ihrer Muttersprache Leistungen nachweisen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Für die Übung gibt es keinen Notendruck, sondern nur eine Bestätigung der Teilnahme. Noten sind den Pflichtgegenständen und echten Prüfungsfächern vorbehalten. Zum Nachlesen: SchUG §18 Abs.13.",
+    "hauptquelle": "SchUG §18 Abs.13",
+    "id": "A11-L1-011",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Er bekommt eine Fachnote von Sehr gut bis Nicht genügend wie in Mathematik.",
+      "Pflichtpraktika außerhalb der Schule, Übungen sowie therapeutische Übungen sind nicht zu beurteilen, es gibt nur Teilnahmevermerke.",
+      "Er bekommt automatisch ein Nicht genügend, weil er keine Prüfung gemacht hat.",
+      "Die Übung wird doppelt so stark benotet wie ein Pflichtfach."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Übungen bekommen keine Fachnoten wie Pflichtgegenstände.",
+      "Richtig: Diese Angebote bleiben ohne Note, die Teilnahme wird vermerkt.",
+      "Falsch: Negativ ohne Prüfung ist hier nicht vorgesehen.",
+      "Falsch: Eine doppelte Gewichtung gibt es für Übungen nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vater erwartet für seinen Sohn eine Note in der unverbindlichen Übung Schach im Zeugnis und wundert sich, dass dort nur dabeisteht, dass der Sohn teilgenommen hat.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Test vom Sofa aus darf nicht als Prüfung zählen, weil Täuschung dabei leicht möglich ist. Elektronisch geht nur in gesicherter Umgebung, wo Vortäuschen praktisch ausgeschlossen ist. Zum Nachlesen: SchUG §18b Abs.1.",
+    "hauptquelle": "SchUG §18b Abs.1",
+    "id": "A11-L1-012",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Ja, jeder Online-Test von zu Hause zählt automatisch als vollwertige Prüfung.",
+      "Ja, wenn die Eltern daneben sitzen und helfen, ist es sogar besser.",
+      "Nein, elektronisch geht nur in gesicherter Prüfungsumgebung, in der Vortäuschen praktisch ausgeschlossen werden kann.",
+      "Nur mündliche Prüfungen dürfen elektronisch sein, schriftliche nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Aufsicht und Sicherung fehlt die Verlässlichkeit.",
+      "Falsch: Elternhilfe macht aus fremder Leistung keine eigene.",
+      "Richtig: Sichere Gestaltung und Umgebung sind Voraussetzung für E-Prüfungen.",
+      "Falsch: Auf mündlich ist das nicht beschränkt, entscheidend ist die Sicherung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer will eine Schularbeit als unbeaufsichtigten Online-Test von zu Hause aus zählen lassen, bei dem alle nebenbei im Chat nachschauen können und niemand die Umgebung kontrolliert.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Check dient der Förderung und der Qualitätsentwicklung, nicht der Benotung. Die Eltern bekommen eine Rückmeldung zum Lernstand, aber keine schlechtere Deutschnote daraus. Zum Nachlesen: SchUG §17 Abs.1a.",
+    "hauptquelle": "SchUG §17 Abs.1a",
+    "id": "A11-L1-013",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Ja, das Ergebnis wird wie eine Schularbeit benotet.",
+      "Ja, wer schlecht abschneidet, wiederholt automatisch die Schulstufe.",
+      "Nein, Kompetenzerhebungen fließen als Informationsfeststellungen nicht in die Leistungsbeurteilung ein.",
+      "Nur die besten Ergebnisse zählen, die schlechten werden gestrichen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wie eine Schularbeit zählt der Check gerade nicht.",
+      "Falsch: Wiederholen wegen eines Checks ist nicht vorgesehen.",
+      "Richtig: Der Check informiert über den Stand und hilft beim Fördern.",
+      "Falsch: Rosinenpicken gibt es nicht, alles bleibt ohne Notenwirkung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Nach einer bundesweiten Kompetenzerhebung in Deutsch fürchten Eltern, dass das schwache Ergebnis ihres Sohnes seine Deutschnote im Zeugnis nach unten zieht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Ferien sind zur Erholung da, Hausübungen über die Feiertage sind nicht erlaubt. Zulässig sind nur Aufgaben, die das Kind allein ohne fremde Hilfe schaffen kann und die es nicht überlasten. Zum Nachlesen: SchUG §17 Abs.2.",
+    "hauptquelle": "SchUG §17 Abs.2",
+    "id": "A11-L1-014",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Ja, über Ferien darf beliebig viel aufgetragen werden.",
+      "Ja, wenn die Eltern beim Lösen helfen, ist jede Menge erlaubt.",
+      "Nein, Aufgaben für Samstage, Sonntage, Feiertage oder Ferien dürfen nicht aufgetragen werden, und sie müssen ohne fremde Hilfe machbar und belastbar dosiert sein.",
+      "Nur Rechnen ist in den Ferien verboten, Schreiben ist erlaubt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ferien sind geschützt, nicht zusätzliche Übungszeit.",
+      "Falsch: Hilfe von anderen macht eine Überlastung nicht zulässig.",
+      "Richtig: Machbarkeit allein, Belastbarkeit und Ferienverbot begrenzen die Hausübung.",
+      "Falsch: Nach Fächern unterscheiden lässt sich das Verbot nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin trägt kurz vor Weihnachten ein dickes Arbeitspaket auf, das die Kinder über die Feiertage zu Hause mit Hilfe der Eltern erarbeiten müssen, mehrere Familien beschweren sich über die Belastung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Tim muss den Unterricht regelmäßig und pünktlich besuchen, seine Sachen dabeihaben und die Arbeit der Klasse fördern. Mitarbeit und Einordnung sind keine Freiwilligkeit, sondern Pflicht. Zum Nachlesen: SchUG §43 Abs.1.",
+    "hauptquelle": "SchUG §43 Abs.1",
+    "id": "A11-L1-015",
+    "level": "L1",
+    "modul_id": "A11",
+    "optionen": [
+      "Nein, Anwesenheit und Material sind freiwillig, jeder lernt wie er will.",
+      "Nur vor Schularbeiten muss man kommen, sonst kann man frei entscheiden.",
+      "Ja, Schüler müssen durch Mitarbeit und Einordnung mitwirken, den Unterricht regelmäßig und pünktlich besuchen und die Unterrichtsmittel mitbringen.",
+      "Nur gute Schüler müssen mitarbeiten, schwache sind davon befreit."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Freiwilligkeit gilt hier nicht, die Pflichten stehen fest.",
+      "Falsch: Auch ohne Prüfung ist der tägliche Besuch Pflicht.",
+      "Richtig: Mitwirken, Fördern des Unterrichts, Pünktlichkeit und Material gehören dazu.",
+      "Falsch: Befreiung für Schwächere gibt es nicht, alle wirken mit."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tim kommt ständig zu spät, hat seine Bücher oft nicht mit und stört die Klasse, auf Ermahnung meint er, Mitarbeit sei seine Privatsache und gehe die Schule nichts an.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
