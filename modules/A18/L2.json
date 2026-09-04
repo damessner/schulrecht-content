@@ -1,1 +1,524 @@
-[]
+[
+  {
+    "aufloesung": "Anhören, informieren und beteiligen prägen die Vertretung. Ausgenommen bleiben Einzelbeurteilungen, Ordnungsverfahren und Dienstrecht, sensible Rechte erst ab der neunten Stufe. Zum Nachlesen: SchUG §58 Abs.2.",
+    "hauptquelle": "SchUG §58 Abs.2",
+    "id": "A18-L2-001",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Recht auf Anhörung sowie auf Vorschläge und Stellungnahmen",
+      "Recht auf Information über allgemeine Schülerangelegenheiten und auf Mitsprache bei Unterricht und Unterrichtsmitteln",
+      "Recht auf Teilnahme an Lehrerkonferenzen und auf Anhörung beim Ausschluss, aber erst ab der 9. Schulstufe",
+      "Mitentscheidung bei Versetzung in Parallelklasse und bei Unterrichtsmitteln ab der 9. Schulstufe",
+      "Recht auf Festsetzung der eigenen Noten ohne Lehrer",
+      "Recht auf Teilnahme an Einzelbeurteilungs- und Dienstrechtsberatungen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das ist der Kern der Mitwirkung.",
+      "Richtig: Information und Unterrichtsbezug gehören dazu.",
+      "Richtig: Sensible Teilnahme erst später.",
+      "Richtig: Mitbestimmung ist stufenabhängig.",
+      "Falsch: Beurteilung bleibt Lehreraufgabe.",
+      "Falsch: Genau diese Beratungen sind ausgenommen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du sollst als Klassenvorstand einer Oberstufenklasse erklären, welche Mitwirkungs- und Mitbestimmungsrechte die Schülervertretung gegenüber Lehrern, Leitung und Behörden überhaupt hat.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Klasse, Abteilung und Schule haben eigene Sprecher. Klassensprecher wirken für die Klasse, Abteilungs- und Schulsprecher für größere Einheiten, die Gesamtheit bildet die Versammlung. Zum Nachlesen: SchUG §59 Abs.2.",
+    "hauptquelle": "SchUG §59 Abs.2",
+    "id": "A18-L2-002",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Klassensprecher beziehungsweise Jahrgangssprecher für die einzelne Klasse",
+      "Abteilungssprecher an Schulen mit Fachabteilungen",
+      "Schulsprecher an mittleren, höheren, polytechnischen und Berufsschulen sowie Vertreter der Klassensprecher in der Unterstufe",
+      "Tagessprecher an ganzjährigen Berufsschulen für Schultage",
+      "Bürgermeister als geborener Schülervertreter",
+      "Schularzt als geborener Schülervertreter"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Basisvertretung ist die Klasse.",
+      "Richtig: Abteilungen haben eigene Sprecher.",
+      "Richtig: Schulebene ist besonders geregelt.",
+      "Richtig: Berufsschultage sind abgebildet.",
+      "Falsch: Kommunale Ämter vertreten nicht.",
+      "Falsch: Medizinisches Personal vertritt nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule mit mehreren Fachabteilungen fragen Schüler, welche Arten von Schülervertretern es überhaupt gibt und wer wofür zuständig ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Gleich, unmittelbar, geheim und persönlich wird gewählt. Klasse wählt Klasse, Abteilung wählt Abteilung, Oberstufe wählt Schulsprecher an allgemein bildenden höheren Schulen. Zum Nachlesen: SchUG §59a Abs.1.",
+    "hauptquelle": "SchUG §59a Abs.1",
+    "id": "A18-L2-003",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Wahl in gleicher, unmittelbarer, geheimer und persönlicher Form",
+      "Klassensprecher durch die Schüler der eigenen Klasse ab der 5. Schulstufe wählbar",
+      "Schulsprecher an allgemein bildenden höheren Schulen nur durch und aus der Oberstufe",
+      "Leitung oder beauftragte Lehrkraft leitet die Wahl möglichst in den ersten fünf Wochen",
+      "Ernennung durch den Direktor ohne Wahl",
+      "Wahl durch die Eltern statt durch die Schüler"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Wahlgrundsätze sichern Legitimität.",
+      "Richtig: Klasse und Stufe sind verknüpft.",
+      "Richtig: Oberstufenregel ist eine Ausnahme.",
+      "Richtig: Frist und Leitung sind vorgegeben.",
+      "Falsch: Ernennung ersetzt keine Wahl.",
+      "Falsch: Aktiv wahlberechtigt sind die Schüler."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du organisierst zu Schulbeginn die Schülervertreterwahlen und musst dem Kollegium die Grundsätze, Wahlberechtigungen und den Zeitrahmen korrekt darlegen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Pattregeln und Mehrheiten sichern Entscheidungen. Stichwahl der zwei Erststimmenstärksten, Stellvertreter nach Wahlpunkten und Abwahl nur mit unbedingter Mehrheit auf Drittelantrag. Zum Nachlesen: SchUG §59a Abs.8.",
+    "hauptquelle": "SchUG §59a Abs.8",
+    "id": "A18-L2-004",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Stichwahl zwischen den zwei erststimmenstärksten Kandidaten bei Fehlen der absoluten Mehrheit",
+      "Stellvertreter nach höchster Wahlpunktzahl im ersten Wahlgang, beim Schulsprecher die zwei Besten danach",
+      "Abwahl nur mit unbedingter Mehrheit der Wahlberechtigten auf Antrag eines Drittels",
+      "Sofortige Neuwahl bei Ausscheiden eines Klassensprechers ohne verfügbaren Stellvertreter",
+      "Stichwahl immer unter allen Kandidaten gleichzeitig",
+      "Abwahl durch Zuruf einer Minderheit ohne Antrag"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verengung auf zwei sichert Mehrheit.",
+      "Richtig: Punkte entscheiden die Vertretung.",
+      "Richtig: Hohe Hürde schützt die Amtszeit.",
+      "Richtig: Vakanz wird rasch geschlossen.",
+      "Falsch: Verengt wird auf zwei.",
+      "Falsch: Quoren sind einzuhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer zersplitterten Klassensprecherwahl mit vier Kandidaten ohne absolute Mehrheit musst du erklären, wie Stichwahl, Stellvertreter und eine mögliche spätere Abwahl ablaufen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Anzeige, Kontingent und Sicherheit begrenzen das Recht. Drei Stunden je Semester in der Unterrichtszeit, Versammlungspflicht der Klasse und Untersagung bei Unterrichts- oder Sicherheitsgefahr. Zum Nachlesen: SchUG §59b Abs.2.",
+    "hauptquelle": "SchUG §59b Abs.2",
+    "id": "A18-L2-005",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Zeitgerechte Anzeige mit Ort, Teilnehmerzahl und Tagesordnung beim Schulleiter",
+      "Höchstens drei Unterrichtsstunden je Semester in der Unterrichtszeit",
+      "Teilnahmepflicht der Schüler der betreffenden Klasse während dieser Zeit",
+      "Untersagung bei fehlender Unterrichtsgewähr oder Sicherheitsgefährdung",
+      "Unbegrenzte Stunden ohne Anzeige während Schularbeiten",
+      "Aufsichtspflicht des Lehrers auch bei außerschulischen Treffen ohne Schule"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anzeige sichert Planbarkeit.",
+      "Richtig: Das Kontingent schützt den Unterricht.",
+      "Richtig: Die Klasse nimmt geschlossen teil.",
+      "Richtig: Schutz geht vor Versammlung.",
+      "Falsch: Kontingent und Prüfungen beachten.",
+      "Falsch: Außerhalb entfällt die Aufsicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Schulsprecher will mehrere Klassenstunden für Versammlungen nutzen. Du prüfst als Schulleiter Anzeige, Stundenkontingent und mögliche Untersagungsgründe.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Anhörung, Beratung und Unterstützung verbinden beide Seiten. Einzelgespräche und Klassenberatungen, bei Bedarf mit Foren, sowie enge Zusammenarbeit auch im Betreuungsteil. Zum Nachlesen: SchUG §62 Abs.1.",
+    "hauptquelle": "SchUG §62 Abs.1",
+    "id": "A18-L2-006",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Enge Zusammenarbeit von Lehrern und Eltern in Erziehung und Unterricht",
+      "Einzelaussprachen und gemeinsame Beratungen über Erziehung, Leistung, Bildungsweg, Gesundheit und Integration",
+      "Klassenelternberatung jedenfalls in der 1. Stufe jeder Schulart außer Berufsschulen sowie auf Verlangen eines Drittels",
+      "Zusammenarbeit von Erziehern und Freizeitpädagogen mit Eltern im Betreuungsteil",
+      "Generelles Kontaktverbot zwischen Schule und Eltern",
+      "Beratung nur gegen Gebühr"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kooperation ist Grundprinzip.",
+      "Richtig: Themen sind breit gefächert.",
+      "Richtig: Mindesttermine und Quorum sichern Beteiligung.",
+      "Richtig: Betreuungsteil ist einbezogen.",
+      "Falsch: Kontakt ist erwünscht.",
+      "Falsch: Kosten spielen keine Rolle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zu Schulbeginn beschweren sich Eltern über mangelnde Kommunikation. Du legst als Schulleiter dar, welche Beratungsformate zwischen Lehrkräften, Betreuungspersonal und Eltern vorgesehen sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Vorschläge einbringen und Antwort erhalten prägen den Verein. Förderung durch die Leitung, Prüfung und Besprechung des Vorbringens, Begrenzung auf schulbezogene Vereine. Zum Nachlesen: SchUG §63 Abs.2.",
+    "hauptquelle": "SchUG §63 Abs.2",
+    "id": "A18-L2-007",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Schulleiter fördern Errichtung und Tätigkeit schulbezogener Elternvereine",
+      "Organe können Vorschläge, Wünsche und Beschwerden an Leitung und Klassenvorstand richten",
+      "Schulleiter prüft das Vorbringen und bespricht es mit den Organen",
+      "Rechte nur bei im Wesentlichen schulbezogenem Wirkungskreis des Vereins",
+      "Verein darf einseitig den Stundenplan festsetzen",
+      "Verein entscheidet allein über Noten"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Förderung ist Pflicht.",
+      "Richtig: Einbringen ist das Kernrecht.",
+      "Richtig: Prüfung plus Dialog sichern Ernsthaftigkeit.",
+      "Richtig: Fremde Vereine sind ausgenommen.",
+      "Falsch: Stundenplan bleibt Leitungsaufgabe.",
+      "Falsch: Beurteilung bleibt Lehreraufgabe."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Elternverein deiner Schule bringt Wünsche zur Pausengestaltung und Beschwerden über Informationsflüsse ein. Du klärst, was der Verein darf und was du damit tun musst.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Lehrer plus Eltern entscheiden, Schüler beraten. Klassenforum aus Klassenlehrer und Eltern, Schulforum aus Leitung, allen Klassenlehrern und allen Elternvertretern, Einladungen mit beratender Stimme. Zum Nachlesen: SchUG §63a Abs.3.",
+    "hauptquelle": "SchUG §63a Abs.3",
+    "id": "A18-L2-008",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Klassenforum aus Klassenlehrer oder Klassenvorstand und Eltern der Klasse",
+      "Schulforum aus Schulleiter, allen Klassenlehrern und allen Klassenelternvertretern",
+      "Möglichkeit eines Ausschusses je ein Lehrer- und Elternvertreter pro Schulstufe",
+      "Einladung von Klassensprechern, Elternvereinsobmann und Fachleuten mit beratender Stimme",
+      "Alleinstimmung des Direktors ohne Gremium",
+      "Stimmrecht betriebsfremder Personen ohne Einladung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Klasse ist die kleine Einheit.",
+      "Richtig: Schule ist die große Einheit.",
+      "Richtig: Ausschuss verschlankt die Arbeit.",
+      "Richtig: Beratung ergänzt die Entscheidung.",
+      "Falsch: Gremien entscheiden mit.",
+      "Falsch: Einladung ist nötig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An deiner Volksschule streiten Eltern und Lehrer über Zuständigkeiten. Du erklärst Zusammensetzung von Klassenforum, Schulforum und möglichem Ausschuss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Mehrtägiges, Hausordnung, Sammlungen und Autonomie gehören dazu. Klassenforum für die Klasse, Schulforum jedenfalls für schulweite Themen und bei Lehrer-Eltern-Patt im Klassenforum. Zum Nachlesen: SchUG §63a Abs.2.",
+    "hauptquelle": "SchUG §63a Abs.2",
+    "id": "A18-L2-009",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Durchführung mehrtägiger Schulveranstaltungen und Erklärung zu schulbezogenen Veranstaltungen",
+      "Hausordnung sowie Sammlungen und Teilnahme an schulfremden Veranstaltungen",
+      "Schulautonome Lehrpläne, Schulzeitregeln und Kooperationen mit Einrichtungen",
+      "Beratung aller Schulangelegenheiten wie Unterricht, Budgetverwendung und Bau",
+      "Festsetzung der Lehrergehälter",
+      "Erteilung von Baubewilligungen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Veranstaltungen sind Kernkompetenz.",
+      "Richtig: Ordnung und Sammlungen liegen dort.",
+      "Richtig: Autonomie wird partnerschaftlich getragen.",
+      "Richtig: Beratung ist breit angelegt.",
+      "Falsch: Dienstrecht liegt woanders.",
+      "Falsch: Baurecht liegt woanders."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Das Schulforum soll über Skikurs, Hausordnung und eine schulautonome Regelung entscheiden. Du listest auf, wofür Klassen- und Schulforum überhaupt zuständig sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Quoren, Mehrheiten und Dirimierung sichern Beschlüsse. Zweidrittel-Anwesenheit, unbedingte Mehrheit, bei Patt Entscheidung durch Lehrer- beziehungsweise Leiterseite in Entscheidungsfällen. Zum Nachlesen: SchUG §63a Abs.7.",
+    "hauptquelle": "SchUG §63a Abs.7",
+    "id": "A18-L2-010",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Beschlussfähigkeit bei Anwesenheit von Lehrer plus Eltern von zwei Dritteln der Schüler",
+      "Nach halber Stunde Wartezeit bei Ordnungsladung auch in kleiner Besetzung beschlussfähig",
+      "Unbedingte Mehrheit der Stimmen, bei Patt in Entscheidungsfällen Stimme des Lehrers beziehungsweise Leiters",
+      "Keine Stimmübertragung und keine Stimmenthaltung",
+      "Beschlüsse ohne jede Anwesenheit per Zuruf",
+      "Mehrheit der Abwesenden entscheidet"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Regelquorum schützt beide Seiten.",
+      "Richtig: Wartezeit heilt geringe Teilnahme.",
+      "Richtig: Dirimierung verhindert Blockade.",
+      "Richtig: Persönlichkeit der Stimme ist Prinzip.",
+      "Falsch: Anwesenheit ist nötig.",
+      "Falsch: Abwesende stimmen nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Vor einer strittigen Abstimmung im Klassenforum über eine Projektreihe musst du Beschlussfähigkeit, Mehrheiten und das Vorgehen bei Stimmengleichheit erklären.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Wahl, Entsendung und Verhältniswahl legitimieren das Gremium. Lehrer über Schulkonferenz, Schüler über Sprecherfunktionen, Eltern über Wahl oder Elternverein, dazu Einladungen mit Beratung. Zum Nachlesen: SchUG §64 Abs.4.",
+    "hauptquelle": "SchUG §64 Abs.4",
+    "id": "A18-L2-011",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Lehrervertreter durch die Schulkonferenz aus dem Lehrkörper",
+      "Schülervertreter als Schulsprecher mit zwei Stellvertretern",
+      "Elternvertreter durch Elternwahl oder Entsendung über den Elternverein",
+      "Geheime Verhältniswahl mit Wahlpunkten und Los bei Gleichstand",
+      "Ernennung aller Mitglieder durch die Gemeinde",
+      "Verlosung ohne jede Wahl"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kollegium wählt seine Vertreter.",
+      "Richtig: Sprecheramt trägt die Schülerseite.",
+      "Richtig: Elternweg ist zweigleisig.",
+      "Richtig: Verfahren sichert Fairness.",
+      "Falsch: Keine Fremdernennung.",
+      "Falsch: Wahl ist Grundprinzip."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "PTS",
+      "BS",
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Zu Schulbeginn musst du die Bestellung des Schulgemeinschaftsausschusses organisieren und allen drei Gruppen ihren jeweiligen Weg ins Gremium erklären.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Alle drei Säulen plus Umgang mit Blockaden sichern Arbeit. Hausordnung und Veranstaltungen entscheiden, beraten in Unterricht und Budget, Aussetzung bei Rechtswidrigkeit. Zum Nachlesen: SchUG §64 Abs.2.",
+    "hauptquelle": "SchUG §64 Abs.2",
+    "id": "A18-L2-012",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Entscheidung über mehrtägige Veranstaltungen, schulbezogene Veranstaltungen, Hausordnung, Sammlungen und schulfremde Teilnahmen",
+      "Entscheidung über Sprechtage, Wiederholungsprüfungstermine, Autonomie und Schulzeit sowie Beratung in Unterricht und Budget",
+      "Durchführung der Beschlüsse durch die Leitung, bei Rechtswidrigkeit oder Undurchführbarkeit Aussetzung und Weisungseinholung",
+      "Neusitzung bei Beschlussunfähigkeit mit erleichterter Beschlussfähigkeit nach halber Stunde",
+      "Alleinentscheidung über Dienstverträge der Lehrer",
+      "Festsetzung von Steuern und Abgaben"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ordnung und Veranstaltungen sind Kern.",
+      "Richtig: Termine und Autonomie kommen dazu.",
+      "Richtig: Kontrolle sichert Rechtmäßigkeit.",
+      "Richtig: Handlungsfähigkeit bleibt erhalten.",
+      "Falsch: Dienstrecht liegt woanders.",
+      "Falsch: Steuerrecht liegt woanders."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "PTS",
+      "BS",
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Der Schulgemeinschaftsausschuss deiner HAK soll Hausordnung, Skikurs und Sprechtage beschließen. Du fasst zusammen, was er entscheiden und beraten darf und was bei Blockaden gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Drittelantrag, Tagesordnung und Mindesttermine sichern Arbeit. Einberufung auf Verlangen binnen Woche, Ladung zwei Wochen vorher und mindestens zwei Sitzungen im Jahr. Zum Nachlesen: SchUG §64 Abs.8.",
+    "hauptquelle": "SchUG §64 Abs.8",
+    "id": "A18-L2-013",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Einberufung auf Verlangen eines Drittels mit Antrag binnen einer Woche",
+      "Einberufung bei Entscheidungsbedarf oder zweckmäßiger Beratung auch ohne Verlangen",
+      "Ladung mit Tagesordnung spätestens zwei Wochen vorher",
+      "Mindestens zwei Sitzungen im Jahr, erste binnen zwei Wochen nach Bestellung, an Berufsschulen mindestens eine",
+      "Gar keine Sitzungen im ganzen Jahr",
+      "Ladung ohne Tagesordnung erst in der Sitzung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Minderheit kann Beratung erzwingen.",
+      "Richtig: Leitung handelt auch von Amts wegen.",
+      "Richtig: Vorbereitung braucht Vorlauf.",
+      "Richtig: Mindestfrequenz sichert Kontinuität.",
+      "Falsch: Mindestzahl ist Pflicht.",
+      "Falsch: Tagesordnung gehört zur Ladung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "PTS",
+      "BS",
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Mitglieder verlangen eine Sondersitzung des Schulgemeinschaftsausschusses zu einer geplanten Kooperation. Du prüfst Einberufungsquorum, Fristen und Sitzungsfrequenz.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Karte, Hologramm und Digitalweg stehen nebeneinander. Scheckkarte mit Schutzmerkmal und freiwilligen Verknüpfungen, digitales Zertifikat per E-ID über das Bildungsportal kostenlos. Zum Nachlesen: SchUG §57b Abs.2.",
+    "hauptquelle": "SchUG §57b Abs.2",
+    "id": "A18-L2-014",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Schülerkarte mit Schule, Namen, Wohnort, Lichtbild, Geburtsdatum und Gültigkeit",
+      "Scheckkartenform mit Hologramm und nur freiwilligen elektronischen Verknüpfungen mit Widerruf",
+      "Digitaler Nachweis per QR-Zertifikat über das Bildungsportal nach E-ID-Antrag, kostenlos für ein Schuljahr",
+      "Speicherung schulfremder Dienstleisterdaten durch die Schule",
+      "Verknüpfungen ohne jede Einwilligung",
+      "Kostenpflichtige Pflichtkarte ohne Antrag"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Datenkranz ist festgelegt.",
+      "Richtig: Sicherheit plus Freiwilligkeit prägen die Karte.",
+      "Richtig: Digitalweg ist geregelt und gratis.",
+      "Falsch: Fremddaten dürfen nicht gespeichert werden.",
+      "Falsch: Einwilligung ist nötig.",
+      "Falsch: Antrag und Kostenersatz gelten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schüler fragen nach klassischer Schülerkarte, Scheckkartenform und digitalem Nachweis am Handy. Du erklärst die drei Varianten mit Datenschutz und Kosten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Clusterleitung, Sprecher, Lehrer, Eltern und Region arbeiten zusammen. Übertragung von Forums- und Ausschussaufgaben sowie Beratung aller Clusterthemen mit eigenem Quorum. Zum Nachlesen: SchUG §64a Abs.2.",
+    "hauptquelle": "SchUG §64a Abs.2",
+    "id": "A18-L2-015",
+    "level": "L2",
+    "modul_id": "A18",
+    "optionen": [
+      "Leitung des Schulclusters als Vorsitz ohne beschließende Stimme",
+      "Schulsprecher der beteiligten Schulen sowie je ein Lehrer- und Elternvertreter je Schule",
+      "Drei bis acht regionale Partner aus Jugend, Kultur, Sport, Sozialarbeit, Erhaltern und Wirtschaft für zwei Jahre",
+      "Entscheidung übertragener Forums- und Ausschussangelegenheiten plus Beratung aller Clusterthemen",
+      "Alleinentscheidung der Leitung ohne Gremium",
+      "Vertretung der Schüler durch schulfremde Personen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorsitz ohne Stimme sichert Neutralität.",
+      "Richtig: Jede Schule bringt alle Gruppen ein.",
+      "Richtig: Region öffnet den Cluster.",
+      "Richtig: Delegation plus Beratung sind die Aufgaben.",
+      "Falsch: Das Gremium entscheidet mit.",
+      "Falsch: Sprecher vertreten die Schüler."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Deine Schule tritt einem Schulcluster bei. Du erklärst dem Kollegium, wer im Schulclusterbeirat sitzt und welche Aufgaben er von den bisherigen Gremien übernehmen kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

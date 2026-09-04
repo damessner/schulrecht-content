@@ -1,1 +1,424 @@
-[]
+[
+  {
+    "aufloesung": "Die Lehrerin handelt richtig. Anerkennung, Aufforderung oder Zurechtweisung sind die angemessenen persönlichkeits- und gemeinschaftsbildenden Mittel im Unterrichtsalltag. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A17-L1-001",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Nein, Erziehungsmittel darf nur die Schulbehörde aussprechen.",
+      "Ja, Anerkennung, Aufforderung oder Zurechtweisung sind die vorgesehenen Erziehungsmittel der Lehrkraft.",
+      "Ja, aber nur wenn die Eltern vorher schriftlich zugestimmt haben.",
+      "Nein, Erziehungsmittel sind im Unterricht grundsätzlich verboten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch Lehrer, Klassenvorstand und Schulleiter dürfen diese Mittel anwenden.",
+      "Richtig: Genau diese drei Mittel nennt das Gesetz für die Erziehungssituation.",
+      "Falsch: Eine vorherige Elternzustimmung ist dafür nicht nötig.",
+      "Falsch: Die Mitwirkung an der Erziehung gehört ausdrücklich zum Schulauftrag."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Huber ermahnt in der Mittelschule in Graz einen Schüler, der wiederholt den Unterricht stört, mit einer deutlichen Zurechtweisung und lobt ihn danach für gutes Mitarbeiten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Ohrfeige ist verboten. Körperliche Züchtigung ist ausnahmslos unzulässig, egal wie schwer das Fehlverhalten war. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L1-002",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Ja, bei grobem Fehlverhalten ist eine leichte körperliche Strafe erlaubt.",
+      "Nein, körperliche Züchtigung ist ausnahmslos verboten.",
+      "Ja, aber nur in der Volksschule.",
+      "Nein, aber nur weil kein Zeuge dabei war."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch grobes Fehlverhalten rechtfertigt keine körperliche Strafe.",
+      "Richtig: Das Verbot gilt ausnahmslos für alle.",
+      "Falsch: Die Schulart spielt keine Rolle.",
+      "Falsch: Es kommt nicht auf Zeugen an, sondern auf das Verbot an sich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer in einer Linzer Volksschule gibt einem Kind, das einen Mitschüler geschlagen hat, zur Strafe eine Ohrfeige und meint, das sei als Erziehungsmittel gerechtfertigt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Solche Äußerungen sind verboten. Beleidigende Äußerungen dürfen als Erziehungsmittel nicht verwendet werden, Kritik muss sachlich bleiben. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L1-003",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Ja, beschämende Äußerungen sind ein wirksames Erziehungsmittel.",
+      "Nein, beleidigende Äußerungen sind als Erziehungsmittel verboten.",
+      "Ja, aber nur vor der ganzen Klasse.",
+      "Nein, aber nur an höheren Schulen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beschämung ist kein zulässiges Mittel.",
+      "Richtig: Das Gesetz verbietet beleidigende Äußerungen ausdrücklich.",
+      "Falsch: Auch vor der Klasse bleibt es verboten.",
+      "Falsch: Das Verbot gilt für alle Schularten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer beschimpft in der Handelsschule in Innsbruck einen Schüler vor der Klasse als faul und dumm, weil dieser die Hausübung vergessen hat.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Kollektivstrafe ist unzulässig. Kollektivstrafen sind verboten, weil Maßnahmen nur an das eigene Verhalten des einzelnen Schülers anknüpfen dürfen. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L1-004",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Ja, wenn der Schuldige nicht gefunden wird, darf die ganze Klasse bestraft werden.",
+      "Nein, Kollektivstrafen sind ausdrücklich verboten.",
+      "Ja, aber nur mit Zustimmung des Klassensprechers.",
+      "Nein, aber nur in der Unterstufe."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch bei unbekanntem Täter bleibt die Kollektivstrafe verboten.",
+      "Richtig: Das Verbot gilt ohne Ausnahme.",
+      "Falsch: Zustimmung heilt das Verbot nicht.",
+      "Falsch: Die Stufe spielt keine Rolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer beschmierten Tafel in der Mittelschule in Klagenfurt lässt der Lehrer die gesamte Klasse nachsitzen, obwohl nur ein Schüler verdächtigt wird und nichts bewiesen ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Versetzung ist möglich. Wenn es aus erzieherischen Gründen oder zur Aufrechterhaltung der Ordnung nötig ist, kann der Schulleiter in eine Parallelklasse versetzen. Zum Nachlesen: SchUG §47 Abs.2.",
+    "hauptquelle": "SchUG §47 Abs.2",
+    "id": "A17-L1-005",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Nein, eine Versetzung in eine Parallelklasse ist niemals zulässig.",
+      "Ja, der Schulleiter kann bei erzieherischer Notwendigkeit in eine Parallelklasse versetzen.",
+      "Ja, aber nur auf Wunsch der Eltern der anderen Klasse.",
+      "Nein, dafür braucht es immer ein Gerichtsurteil."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Versetzung ist ausdrücklich als Ordnungsmaßnahme vorgesehen.",
+      "Richtig: Erzieherische Gründe oder Ordnungserfordernisse genügen.",
+      "Falsch: Auf Elternwünsche anderer kommt es nicht an.",
+      "Falsch: Es ist eine schulische Maßnahme, kein Gerichtsverfahren."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Schüler der 3a in einer Wiener Mittelschule streiten ständig und stören den Unterricht massiv. Die Schulleiterin will einen der beiden in die Parallelklasse 3b versetzen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Wechsel des Lehrgangs ist zulässig. An lehrgangsmäßigen Berufsschulen kann der Schulleiter auch in einen anderen Lehrgang versetzen, wenn die Erziehungssituation es erfordert. Zum Nachlesen: SchUG §47 Abs.2.",
+    "hauptquelle": "SchUG §47 Abs.2",
+    "id": "A17-L1-006",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Nein, an Berufsschulen ist jeder Wechsel ausgeschlossen.",
+      "Ja, an lehrgangsmäßigen Berufsschulen ist auch die Versetzung in einen anderen Lehrgang möglich.",
+      "Ja, aber nur der Lehrherr darf das anordnen.",
+      "Nein, nur die Schulbehörde darf Klassen einteilen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade dort ist der Lehrgangswechsel vorgesehen.",
+      "Richtig: Parallelklasse oder anderer Lehrgang stehen zur Verfügung.",
+      "Falsch: Es ist eine Entscheidung des Schulleiters.",
+      "Falsch: Die Zuständigkeit liegt beim Schulleiter."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Ein Berufsschüler in einer lehrgangsmäßigen Berufsschule in Wels gefährdet ständig die Ordnung im Lehrgang und soll auf Anordnung der Schulleitung in einen anderen Lehrgang versetzt werden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Eine Schulstrafe dafür ist unzulässig. Für Verhalten außerhalb der Schule dürfen nur Maßnahmen wie Anerkennung, Aufforderung oder Zurechtweisung und Verständigungspflichten gesetzt werden. Zum Nachlesen: SchUG §47 Abs.4.",
+    "hauptquelle": "SchUG §47 Abs.4",
+    "id": "A17-L1-007",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Ja, jedes außerschulische Verhalten darf mit allen Schulstrafen belegt werden.",
+      "Nein, außerhalb der Schule sind nur Maßnahmen wie Zurechtweisung und Verständigung der Eltern zulässig.",
+      "Ja, aber nur am Wochenende.",
+      "Nein, außerschulisches Verhalten darf nie berücksichtigt werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Maßnahmenkatalog ist außerhalb der Schule eingeschränkt.",
+      "Richtig: Nur milde Erziehungsmittel und Verständigung kommen in Frage.",
+      "Falsch: Auf den Wochentag kommt es nicht an.",
+      "Falsch: Berücksichtigt werden darf es, nur die Mittel sind begrenzt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler einer AHS in Salzburg benimmt sich am Freitagnachmittag in einem Park daneben. Die Schule überlegt, sein außerschulisches Verhalten in der Erziehungsarbeit zu berücksichtigen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Eine zusätzliche Schulstrafe ist unzulässig. Wer wegen desselben Verhaltens bereits von Eltern, Jugendhilfe, Behörden oder Gerichten belangt wird, darf dafür von der Schule nicht nochmals bestraft werden. Zum Nachlesen: SchUG §47 Abs.4.",
+    "hauptquelle": "SchUG §47 Abs.4",
+    "id": "A17-L1-008",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Ja, die Schule darf immer zusätzlich bestrafen.",
+      "Nein, eine Bestrafung für Verhalten, das schon Anlass für Behörden oder Gerichte war, ist unzulässig.",
+      "Ja, aber nur wenn das Gericht mild geurteilt hat.",
+      "Nein, aber nur an Pflichtschulen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Doppelbestrafung ist ausdrücklich ausgeschlossen.",
+      "Richtig: Das Verbot schützt vor doppelter Sanktion für dasselbe Verhalten.",
+      "Falsch: Auf die Milde des Urteils kommt es nicht an.",
+      "Falsch: Das Verbot gilt schulartenübergreifend."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler wurde wegen einer Sachbeschädigung außerhalb der Schule bereits gerichtlich verurteilt. Die Schule will ihn für dieselbe Tat nun zusätzlich mit einer Ordnungsstrafe belegen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Gespräch ist der richtige Weg. Wenn es die Erziehungssituation erfordert, haben Klassenvorstand oder Schulleitung das Einvernehmen mit den Erziehungsberechtigten zu pflegen. Zum Nachlesen: SchUG §48 Abs.1.",
+    "hauptquelle": "SchUG §48 Abs.1",
+    "id": "A17-L1-009",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Nein, die Schule darf die Eltern nie kontaktieren.",
+      "Ja, Klassenvorstand oder Schulleitung pflegen bei Bedarf das Einvernehmen mit den Erziehungsberechtigten.",
+      "Ja, aber erst nach dem Ausschluss.",
+      "Nein, nur die Polizei darf Eltern verständigen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zusammenarbeit mit den Eltern ist ausdrücklich vorgesehen.",
+      "Richtig: Das Einvernehmen bei Erziehungsbedarf ist Pflicht.",
+      "Falsch: Gerade vorher soll das Gespräch stattfinden.",
+      "Falsch: Die Schule hat eine eigene Verständigungspflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin der Mittelschule in Eisenstadt fehlt häufig und zeigt auffälliges Verhalten. Der Klassenvorstand lädt die Eltern zu einem Erziehungsgespräch, um gemeinsam gegenzusteuern.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Meldung ist vorgeschrieben. Wenn Eltern ihre Pflichten offenbar nicht erfüllen oder in wichtigen Fragen uneinig sind, muss die Schulleitung den Kinder- und Jugendhilfeträger verständigen. Zum Nachlesen: SchUG §48 Abs.2.",
+    "hauptquelle": "SchUG §48 Abs.2",
+    "id": "A17-L1-010",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Nein, das ist reine Familiensache ohne Meldepflicht.",
+      "Ja, die Schulleitung muss dies dem Kinder- und Jugendhilfeträger mitteilen.",
+      "Ja, aber nur mit Zustimmung des Schülers.",
+      "Nein, erst nach Volljährigkeit."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei offensichtlicher Pflichtverletzung besteht Mitteilungspflicht.",
+      "Richtig: Die Meldung an die Jugendhilfe ist vorgeschrieben.",
+      "Falsch: Auf die Zustimmung kommt es nicht an.",
+      "Falsch: Gerade bei Minderjährigen greift die Pflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Trotz mehrerer Gespräche kümmern sich die Eltern eines Volksschülers in St. Pölten offenkundig nicht um Schulbesuch und Hausübungen und widersprechen einander in wichtigen Erziehungsfragen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ein Ausschluss kommt in Frage. Wer seine Pflichten schwerwiegend verletzt und Erziehungsmittel sowie Hausordnung wirkungslos bleiben, oder wer dauerhaft Sicherheit, Sittlichkeit oder Eigentum gefährdet, ist auszuschließen. Zum Nachlesen: SchUG §49 Abs.1.",
+    "hauptquelle": "SchUG §49 Abs.1",
+    "id": "A17-L1-011",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Nein, ein Ausschluss ist niemals möglich.",
+      "Ja, bei schwerwiegender Pflichtverletzung trotz erfolgloser Erziehungsmittel oder dauernder Gefährdung ist auszuschließen.",
+      "Ja, aber schon bei der ersten vergessenen Hausübung.",
+      "Nein, nur bei schlechten Noten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Ausschluss ist als letztes Mittel vorgesehen.",
+      "Richtig: Beide Tatbestände stehen nebeneinander im Gesetz.",
+      "Falsch: Bagatellen genügen nicht.",
+      "Falsch: Leistungsschwäche ist kein Ausschlussgrund."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler einer BHS in Dornbirn bedroht trotz vieler Ermahnungen und Maßnahmen nach der Hausordnung weiter Mitschüler und beschädigt deren Eigentum.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "An der Pflichtschule ist der Ausschluss enger begrenzt. Dort ist er nur bei dauernder Gefährdung zulässig und zusätzlich nur, wenn die Erfüllung der Schulpflicht gesichert bleibt. Zum Nachlesen: SchUG §49 Abs.1.",
+    "hauptquelle": "SchUG §49 Abs.1",
+    "id": "A17-L1-012",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Nein, an Pflichtschulen darf nie ausgeschlossen werden.",
+      "Ja, aber nur bei dauernder Gefährdung und wenn die Erfüllung der Schulpflicht gesichert ist.",
+      "Ja, schon bei jeder schweren Pflichtverletzung ohne weitere Bedingung.",
+      "Nein, nur an höheren Schulen gibt es einen Ausschluss."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Ausschluss ist möglich, aber strenger begrenzt.",
+      "Richtig: Beide Zusatzbedingungen gelten an allgemein bildenden Pflichtschulen.",
+      "Falsch: Die erste Fallgruppe genügt dort gerade nicht.",
+      "Falsch: Auch dort gibt es ihn, nur mit Hürden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Ein Schüler einer Mittelschule in Villach verletzt wiederholt seine Pflichten. Die Schule prüft einen Ausschluss und fragt, welche strengeren Grenzen an allgemein bildenden Pflichtschulen gelten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Beide Anhörungen sind Pflicht. Vor dem Ausschlussantrag muss der Schüler Gelegenheit zur Rechtfertigung und müssen die Eltern Gelegenheit zur Stellungnahme erhalten, eine Zweitschrift geht an den Schüler. Zum Nachlesen: SchUG §49 Abs.2.",
+    "hauptquelle": "SchUG §49 Abs.2",
+    "id": "A17-L1-013",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Nein, die Schulleitung kann sofort ohne Anhörung ausschließen.",
+      "Ja, Schüler und Eltern müssen vorher gehört werden und der Schüler erhält eine Zweitschrift des Antrags.",
+      "Ja, aber nur der Schüler, die Eltern gehen das nichts an.",
+      "Nein, angehört wird nur die Polizei."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Anhörung ist der Antrag fehlerhaft.",
+      "Richtig: Rechtfertigung plus Elternstellungnahme plus Zweitschrift sind vorgeschrieben.",
+      "Falsch: Auch die Eltern sind anzuhören.",
+      "Falsch: Die Polizei ersetzt die Anhörung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Schulleitung einer HTL in Innsbruck stellt wegen dauernder Gefährdung einen begründeten Ausschlussantrag an die Schulbehörde und will wissen, wen sie vorher anhören und informieren muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Aufnahme bleibt gesperrt, die Prüfung bleibt offen. An ausgeschlossenen Schulen ist keine Aufnahme als ordentlicher oder außerordentlicher Schüler zulässig, die Zulassung zu einer Externistenprüfung bleibt unberührt. Zum Nachlesen: SchUG §49 Abs.4.",
+    "hauptquelle": "SchUG §49 Abs.4",
+    "id": "A17-L1-014",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Ja, er kann sich dort sofort wieder als ordentlicher Schüler anmelden.",
+      "Nein, an den betroffenen Schulen ist keine Aufnahme zulässig, eine Externistenprüfung bleibt aber möglich.",
+      "Ja, aber nur als außerordentlicher Schüler.",
+      "Nein, und auch jede Externistenprüfung ist für immer verboten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Genau diese Wiederaufnahme ist gesperrt.",
+      "Richtig: Aufnahmesperre plus offener Prüfungsweg stehen nebeneinander.",
+      "Falsch: Auch außerordentlich ist die Aufnahme dort unzulässig.",
+      "Falsch: Der Prüfungsweg wird ausdrücklich offengelassen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein von einer Schule in Linz rechtskräftig ausgeschlossener Schüler will sich an derselben Schule wieder anmelden und fragt zusätzlich nach einer Externistenprüfung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Suspendierung ist das richtige Eilmittel. Bei Gefahr im Verzug durch tätlichen Angriff, Drohung, beharrliche Verfolgung oder Eigentumsschädigung mit weiter drohender Gefährdung suspendiert die Behörde auf Antrag der Schulleitung. Zum Nachlesen: SchUG §44 Abs.5.",
+    "hauptquelle": "SchUG §44 Abs.5",
+    "id": "A17-L1-015",
+    "level": "L1",
+    "modul_id": "A17",
+    "optionen": [
+      "Nein, die Schule muss bei Gewalt immer nur abwarten.",
+      "Ja, bei Gefahr im Verzug suspendiert die Schulbehörde auf Antrag der Schulleitung sofort vom Schulbesuch.",
+      "Ja, aber das darf nur der Klassensprecher entscheiden.",
+      "Nein, eine Suspendierung gibt es rechtlich nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Abwarten wäre bei akuter Gefahr falsch.",
+      "Richtig: Eilantrag plus Behördenbescheid sichern den Schutz.",
+      "Falsch: Schülervertreter entscheiden nicht über Suspendierungen.",
+      "Falsch: Die Suspendierung ist ausdrücklich geregelt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler einer Berufsschule in Graz greift einen Mitschüler vorsätzlich tätlich an und kündigt weitere Angriffe an. Die Schulleitung will ihn sofort vom weiteren Schulbesuch fernhalten lassen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

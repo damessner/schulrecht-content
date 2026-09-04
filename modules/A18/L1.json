@@ -1,1 +1,430 @@
-[]
+[
+  {
+    "aufloesung": "Das Recht besteht. Schüler dürfen sich nach ihren Fähigkeiten an Unterrichtsgestaltung und Wahl der Unterrichtsmittel beteiligen und haben Anspruch auf Anhörung sowie Vorschläge und Stellungnahmen. Zum Nachlesen: SchUG §57a.",
+    "hauptquelle": "SchUG §57a",
+    "id": "A18-L1-001",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, Schüler haben keinerlei Mitgestaltungsrechte.",
+      "Ja, Beteiligung an Unterrichtsgestaltung und Unterrichtsmitteln sowie Anhörung und Vorschläge stehen zu.",
+      "Ja, aber nur bei der Wahl des Schularztes.",
+      "Nein, nur Eltern dürfen Vorschläge machen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Gesetz räumt eigene Schülerrechte ein.",
+      "Richtig: Beteiligung plus Anhörung sind ausdrücklich genannt.",
+      "Falsch: Der Schularzt gehört nicht zu diesem Recht.",
+      "Falsch: Auch Schüler haben eigene Rechte."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin der 7. Schulstufe in Graz möchte im Unterricht Vorschläge zur Gestaltung und zu den verwendeten Lernmaterialien einbringen und fragt, ob sie das darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Vertretung ist vorgesehen. Ab der 5. Schulstufe kann zum Klassensprecher gewählt werden, zur Schulsprecherwahl an allgemein bildenden höheren Schulen sind aber nur Schüler der Oberstufe wählbar. Zum Nachlesen: SchUG §59a Abs.3.",
+    "hauptquelle": "SchUG §59a Abs.3",
+    "id": "A18-L1-002",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, Unterstufenschüler dürfen nie gewählt werden.",
+      "Ja, zum Klassensprecher ist jeder Schüler ab der 5. Schulstufe wählbar.",
+      "Ja, jeder Volksschüler der Grundschule darf Schulsprecher werden.",
+      "Nein, Wahlen gibt es an Schulen gar nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ab der fünften Stufe ist die Wählbarkeit gegeben.",
+      "Richtig: Die Altersgrenze steht ausdrücklich im Gesetz.",
+      "Falsch: In der Grundschule gibt es keine Schülervertreter.",
+      "Falsch: Wahlen sind genau geregelt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "In einer ersten Klasse eines Gymnasiums in Salzburg will sich ein Schüler der 5. Schulstufe als Klassensprecher aufstellen lassen, andere meinen, er sei zu jung dafür.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Wahl braucht die absolute Mehrheit. Gewählt ist, wer auf mehr als der Hälfte der Stimmzettel an erster Stelle gereiht wurde, sonst folgt eine Stichwahl der zwei Besten. Zum Nachlesen: SchUG §59a Abs.7.",
+    "hauptquelle": "SchUG §59a Abs.7",
+    "id": "A18-L1-003",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Ja, die einfache relative Mehrheit im ersten Durchgang genügt immer.",
+      "Nein, gewählt ist nur, wer auf mehr als der Hälfte der Stimmzettel an erster Stelle steht.",
+      "Ja, der Lehrer bestimmt den Sprecher ohne Wahl.",
+      "Nein, gelost wird immer sofort."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Verlangt ist mehr als die Hälfte der Erststimmen.",
+      "Richtig: Erst diese Schwelle führt direkt zur Wahl.",
+      "Falsch: Die Wahl erfolgt durch die Schüler selbst.",
+      "Falsch: Das Los kommt nur bei Gleichstand spezieller Fälle vor."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei der Klassensprecherwahl in einer Mittelschule in Linz erhält die beste Kandidatin 40 Prozent der Erststimmen und erklärt sich für gewählt, die Wahlleiterin zweifelt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Abwahl ist möglich. Ein Schülervertreter ist abgewählt, wenn die unbedingte Mehrheit der jeweils Wahlberechtigten dies beschließt, beantragt von einem Drittel. Zum Nachlesen: SchUG §59a Abs.10.",
+    "hauptquelle": "SchUG §59a Abs.10",
+    "id": "A18-L1-004",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, einmal gewählt bleibt man unabsetzbar.",
+      "Ja, die unbedingte Mehrheit der Wahlberechtigten kann auf Antrag eines Drittels abwählen.",
+      "Ja, aber allein der Direktor kann abwählen.",
+      "Nein, nur das Gericht kann abwählen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Gesetz sieht die Abwahl ausdrücklich vor.",
+      "Richtig: Mehrheit plus Antragsquorum sichern Legitimität.",
+      "Falsch: Allein entscheidet der Direktor nicht.",
+      "Falsch: Es ist ein schulisches Verfahren."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer BHS in Innsbruck ist die Klasse mit ihrem Schulsprecher unzufrieden und will wissen, ob und mit welcher Mehrheit sie ihn wieder abwählen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Stunde ist zulässig. Schulsprecher und Abteilungssprecher dürfen Schüler im Haus zu Schülerangelegenheiten versammeln, in der Unterrichtszeit höchstens drei Stunden je Semester nach Anzeige. Zum Nachlesen: SchUG §59b Abs.1.",
+    "hauptquelle": "SchUG §59b Abs.1",
+    "id": "A18-L1-005",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, solche Versammlungen sind verboten.",
+      "Ja, bis zu drei Unterrichtsstunden je Semester nach zeitgerechter Anzeige beim Schulleiter.",
+      "Ja, unbegrenzt auch während jeder Schularbeit.",
+      "Nein, nur außerhalb Österreichs."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Versammlung ist ein eigenes Recht.",
+      "Richtig: Stundenkontingent plus Anzeige sichern Ordnung.",
+      "Falsch: Prüfungen dürfen nicht gesprengt werden.",
+      "Falsch: Es gilt im Inland."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Schulsprecher einer HAK in Wels will die Schüler einer Klasse im Schulhaus versammeln, um über ein geplantes Schulprojekt zu informieren, und meldet dies beim Schulleiter an.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Versammlung muss weichen. Der Schulleiter hat die Schülervertreterstunde zu untersagen, wenn der ordnungsgemäße Unterricht nicht gewährleistet wäre oder die Sicherheit gefährdet wäre. Zum Nachlesen: SchUG §59b Abs.2.",
+    "hauptquelle": "SchUG §59b Abs.2",
+    "id": "A18-L1-006",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, der Schulleiter muss jede Versammlung immer erlauben.",
+      "Ja, bei Gefährdung von Unterricht oder Sicherheit muss er die Stunde untersagen.",
+      "Ja, aber nur aus persönlicher Abneigung.",
+      "Nein, zuständig ist allein die Polizei."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei Gefahr besteht Untersagungspflicht.",
+      "Richtig: Unterrichtssicherung und Sicherheit sind die Schranken.",
+      "Falsch: Persönliche Motive tragen keine Entscheidung.",
+      "Falsch: Es ist eine Leitungsentscheidung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine angemeldete Schülervertreterstunde würde eine wichtige Sicherheitsaufsicht sprengen und den Unterricht mehrerer Klassen lahmlegen, der Schulleiter überlegt ein Verbot.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Teilnahme ist das vorgesehene Mittel. Das Recht auf Teilnahme an Lehrerkonferenzen wird von den Schülervertretern im Schulgemeinschaftsausschuss ausgeübt, ausgenommen Beurteilung, Ordnungs- und Dienstrechtsthemen. Zum Nachlesen: SchUG §58 Abs.2.",
+    "hauptquelle": "SchUG §58 Abs.2",
+    "id": "A18-L1-007",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, Schüler dürfen nie an Konferenzen teilnehmen.",
+      "Ja, über ihre Vertreter im Schulgemeinschaftsausschuss, ausgenommen Beurteilung und dienstrechtliche Themen.",
+      "Ja, auch bei der Notenkonferenz über einzelne Schüler.",
+      "Nein, nur Lehrer dürfen konferieren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Teilnahme ist ein eigenes Mitwirkungsrecht.",
+      "Richtig: Vertretung plus Ausnahmen sichern Datenschutz und Dienstrecht.",
+      "Falsch: Einzelbeurteilungen sind ausdrücklich ausgenommen.",
+      "Falsch: Beteiligung ist vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schülervertreter einer HTL in Dornbirn wollen an einer Lehrerkonferenz über allgemeine Unterrichtsgestaltung teilnehmen und fragen, wer für sie teilnehmen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Erst ab der 9. Schulstufe gelten diese Rechte. Teilnahme an Konferenzen, Anhörung beim Ausschluss und Mitentscheidung bei Versetzung und Unterrichtsmitteln stehen erst ab dieser Stufe zu. Zum Nachlesen: SchUG §58 Abs.2.",
+    "hauptquelle": "SchUG §58 Abs.2",
+    "id": "A18-L1-008",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Ja, alle Mitwirkungsrechte gelten ab der ersten Klasse gleich.",
+      "Nein, Konferenzteilnahme, Ausschlussanhörung und Mitentscheidung gelten erst ab der 9. Schulstufe.",
+      "Ja, aber nur in der Volksschule.",
+      "Nein, diese Rechte gibt es gar nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für sensible Rechte gibt es eine Stufengrenze.",
+      "Richtig: Genau diese sensiblen Rechte sind erst später eröffnet.",
+      "Falsch: In der Grundschule gibt es nicht einmal Vertreter.",
+      "Falsch: Die Rechte sind ausdrücklich geregelt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Klassensprecher der 6. Schulstufe einer Mittelschule in Villach verlangen Mitentscheidung bei einer Versetzung in eine Parallelklasse und Teilnahme an einer Notenkonferenz.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Beide Elternteile sind je für den anderen handlungsbefugt. Steht das Erziehungsrecht mehreren Personen zu, kann jeder mit Wirkung auch für den anderen handeln. Zum Nachlesen: SchUG §60 Abs.2.",
+    "hauptquelle": "SchUG §60 Abs.2",
+    "id": "A18-L1-009",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, immer müssen beide gemeinsam unterschreiben.",
+      "Ja, jeder Berechtigte ist mit Wirkung auch für den anderen handlungsbefugt.",
+      "Ja, aber nur die Mutter darf handeln.",
+      "Nein, nur das Gericht darf für Eltern handeln."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gemeinsamkeit ist nicht zwingend verlangt.",
+      "Richtig: Wechselseitige Handlungsbefugnis vereinfacht den Alltag.",
+      "Falsch: Auf das Geschlecht kommt es nicht an.",
+      "Falsch: Eltern handeln selbst."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Getrennt lebende Eltern eines Volksschülers in Klagenfurt streiten, ob eine schulische Zustimmungserklärung nur mit beiden Unterschriften gültig ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Anhörung steht zu. Erziehungsberechtigte haben Recht auf Anhörung sowie auf Vorschläge und Stellungnahmen und müssen Kinder ausstatten und zur Pflichterfüllung anhalten. Zum Nachlesen: SchUG §61 Abs.1.",
+    "hauptquelle": "SchUG §61 Abs.1",
+    "id": "A18-L1-010",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, Eltern haben in der Schule keine Rechte.",
+      "Ja, Anhörung, Vorschläge und Stellungnahmen stehen ihnen zu, dazu kommen Ausstattungs- und Unterstützungspflichten.",
+      "Ja, aber nur gegen Bezahlung.",
+      "Nein, nur Schüler dürfen sprechen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eigene Elternrechte sind normiert.",
+      "Richtig: Rechte und Pflichten stehen nebeneinander.",
+      "Falsch: Geld spielt keine Rolle.",
+      "Falsch: Auch Eltern sind Beteiligte."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern einer Schülerin in Eisenstadt wollen der Schule Vorschläge zur Unterrichtsarbeit übermitteln und fragen, ob sie überhaupt ein Recht auf Anhörung haben.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Verein ist zu fördern. Schulleiter haben Errichtung und Tätigkeit von Elternvereinen zu fördern, deren Organe Vorschläge, Wünsche und Beschwerden einbringen können. Zum Nachlesen: SchUG §63 Abs.1.",
+    "hauptquelle": "SchUG §63 Abs.1",
+    "id": "A18-L1-011",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, Elternvereine sind verboten.",
+      "Ja, Schulleiter haben sie zu fördern und ihr Vorbringen zu prüfen und zu besprechen.",
+      "Ja, aber nur wenn sie Geld an die Schule zahlen.",
+      "Nein, nur Lehrer dürfen Vereine gründen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Förderung ist ausdrücklich aufgetragen.",
+      "Richtig: Zugang plus Prüf- und Besprechungspflicht prägen das Verhältnis.",
+      "Falsch: Zahlungen sind keine Bedingung.",
+      "Falsch: Eltern dürfen sich organisieren."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Engagierte Eltern wollen an einer Volksschule in St. Pölten einen Elternverein gründen, der allen Erziehungsberechtigten offensteht, und bitten die Schulleitung um Unterstützung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Klassenlehrer und Eltern entscheiden gemeinsam. Dem Klassenforum gehören Klassenlehrer oder Klassenvorstand und die Eltern der Klasse an, Beschlussfähigkeit braucht sie plus Eltern von zwei Dritteln der Schüler. Zum Nachlesen: SchUG §63a Abs.3.",
+    "hauptquelle": "SchUG §63a Abs.3",
+    "id": "A18-L1-012",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, Foren gibt es nur an Universitäten.",
+      "Ja, Klassenlehrer und Eltern der Klasse bilden das Klassenforum mit gestaffelter Beschlussfähigkeit.",
+      "Ja, aber nur Schüler entscheiden dort.",
+      "Nein, der Bürgermeister entscheidet allein."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Klassenforen sind Pflichtschulgremien.",
+      "Richtig: Lehrer plus Eltern plus Quorum sichern Legitimität.",
+      "Falsch: Schüler sind dort nur beratend geladen.",
+      "Falsch: Kommunalpolitik entscheidet nicht mit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An einer Volksschule in Linz soll über eine mehrtägige Schulveranstaltung entschieden werden und Eltern fragen, wer im Klassenforum überhaupt stimmberechtigt ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Drei Gruppen plus Leitung bilden das Gremium. Schulleiter sowie je drei Vertreter von Lehrern, Schülern und Eltern gehören ihm an, gewählt beziehungsweise entsandt nach eigenen Regeln. Zum Nachlesen: SchUG §64 Abs.3.",
+    "hauptquelle": "SchUG §64 Abs.3",
+    "id": "A18-L1-013",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, der Direktor entscheidet alles allein.",
+      "Ja, Leiter plus je drei Vertreter von Lehrern, Schülern und Eltern bilden den Ausschuss.",
+      "Ja, aber nur Lehrer sind Mitglieder.",
+      "Nein, Eltern sind ausgeschlossen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Partnerschaft ist institutionalisiert.",
+      "Richtig: Drei mal drei plus Vorsitz sichern Ausgewogenheit.",
+      "Falsch: Alle drei Gruppen sind vertreten.",
+      "Falsch: Eltern sind eigene Säule."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "PTS",
+      "BS",
+      "BHS",
+      "AHS"
+    ],
+    "situation": "An einer HAK in Innsbruck soll der Schulgemeinschaftsausschuss über die Hausordnung beraten und neue Mitglieder fragen nach der Zusammensetzung des Gremiums.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Antrag gilt als abgelehnt. In Beratungsangelegenheiten bedeutet Stimmengleichheit Ablehnung, nur bei erforderlichen Entscheidungen gibt der Leiter den Ausschlag. Zum Nachlesen: SchUG §64 Abs.11.",
+    "hauptquelle": "SchUG §64 Abs.11",
+    "id": "A18-L1-014",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Ja, der Antrag gilt automatisch als angenommen.",
+      "Nein, in Beratungsangelegenheiten gilt der Antrag bei Stimmengleichheit als abgelehnt.",
+      "Ja, das Los entscheidet immer.",
+      "Nein, abgestimmt wird dort nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Annahme braucht eine Mehrheit.",
+      "Richtig: Patt bedeutet in der Beratung Ablehnung.",
+      "Falsch: Los gibt es nur bei Wahlen mit Gleichstand.",
+      "Falsch: Beschlüsse brauchen Abstimmungen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "PTS",
+      "BS",
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Im Schulgemeinschaftsausschuss eines Gymnasiums in Wien steht eine reine Beratungsfrage mit sechs zu sechs Stimmen patt und die Mitglieder streiten über die Folge.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Karte dient als Nachweis. Auf Verlangen und Einwilligung ist gegen Kostenersatz eine Schülerkarte mit Schule, Namen, Wohnort, Lichtbild, Geburtsdatum und Gültigkeit auszustellen. Zum Nachlesen: SchUG §57b Abs.1.",
+    "hauptquelle": "SchUG §57b Abs.1",
+    "id": "A18-L1-015",
+    "level": "L1",
+    "modul_id": "A18",
+    "optionen": [
+      "Nein, einen Schülerausweis gibt es nicht.",
+      "Ja, auf Verlangen und Einwilligung gegen Kostenersatz mit den vorgesehenen Daten und Lichtbild.",
+      "Ja, aber nur für Lehrer.",
+      "Nein, nur Reisepässe gelten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Karte ist ausdrücklich vorgesehen.",
+      "Richtig: Antrag plus Einwilligung plus Daten plus Bild prägen das Verfahren.",
+      "Falsch: Sie dient gerade den Schülern.",
+      "Falsch: Der schulische Nachweis steht daneben."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler einer Berufsschule in Graz braucht für Ermäßigungen einen Nachweis seiner Schülereigenschaft und beantragt bei der Schule eine Schülerkarte.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

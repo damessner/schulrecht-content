@@ -1,1 +1,512 @@
-[]
+[
+  {
+    "aufloesung": "Aufbau, Zweck und Abgrenzung tragen die Erklärung. Nur Unterrichtsbezug plus Schulaufgabe öffnen sie, reine Freizeit ohne Bezug scheidet aus. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L2-001",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Aufbau auf einem lehrplanmäßigen Unterricht als erste Säule",
+      "Dienst an der Schulaufgabe als zweite Säule",
+      "Keine Schulveranstaltung im engeren Sinn, sondern freiwilliges Zusatzangebot",
+      "Reine private Freizeit ohne jeden Unterrichtsbezug",
+      "Beliebige Party ohne Bildungsziel",
+      "Kommerzielle Werbung ohne Schulbezug"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bezug sichert Ernsthaftigkeit.",
+      "Richtig: Zweck bindet an den Auftrag.",
+      "Richtig: Abgrenzung klärt die Kategorie.",
+      "Falsch: Ohne Bezug keine Erklärung.",
+      "Falsch: Bildung fehlt dort.",
+      "Falsch: Werbung ist schulfremd."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du sollst als Schulleiter prüfen, ob ein geplanter freiwilliger Fotokurs, der auf dem Unterricht in Bildnerischer Erziehung aufbaut, überhaupt zur schulbezogenen Veranstaltung erklärt werden kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Gremium plus drei Sicherungen legitimieren den Akt. Lehrerbereitschaft, Geld und Fremdzustimmungen sind kumulativ nötig, sonst keine wirksame Erklärung. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L2-002",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Erklärung durch Klassen- oder Schulforum beziehungsweise Schulgemeinschaftsausschuss",
+      "Bereitschaft der erforderlichen Lehrer zur Durchführung",
+      "Sicherstellung der Finanzierung des Vorhabens",
+      "Einholung allenfalls erforderlicher Zustimmungen anderer Stellen",
+      "Erklärung allein durch einzelne Schüler",
+      "Erklärung ohne jede Lehrerbeteiligung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gremium ist zuständig.",
+      "Richtig: Personal sichert Durchführung.",
+      "Richtig: Geld sichert Machbarkeit.",
+      "Richtig: Fremdrechte bleiben gewahrt.",
+      "Falsch: Schüler erklären nicht allein.",
+      "Falsch: Lehrer sind unverzichtbar."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Das Schulforum deiner Schule will ein freiwilliges Orchesterprojekt erklären. Du legst dar, welches Gremium zuständig ist und welche drei Sicherungen vorher vorliegen müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Reichweite bestimmt die Ebene. Einzelschule über Gremium, mehrere Schulen über Behörde, mehrere Länder über den Minister. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L2-003",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Einzelschulische Veranstaltung über das eigene Forum oder den eigenen Ausschuss",
+      "Mehrere Schulen über die zuständige Schulbehörde",
+      "Schulen in mehreren Bundesländern über den zuständigen Bundesminister",
+      "Schulübergreifende Erklärung durch einen einzelnen Klassensprecher",
+      "Erklärung durch den Hausmeister",
+      "Erklärung durch betriebsfremde Werbefirma"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nahbereich bleibt schulintern.",
+      "Richtig: Mittelbereich steigt auf.",
+      "Richtig: Fernbereich steigt höchst auf.",
+      "Falsch: Einzelne entscheiden nicht übergreifend.",
+      "Falsch: Keine Zuständigkeit.",
+      "Falsch: Keine Zuständigkeit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Mittelschulen und eine HAK planen eine gemeinsame freiwillige Roboterreihe über ein Bundesland hinaus. Du klärst die richtige Erklärungsebene.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Anmeldung bindet, Ausnahmen befreien. Ohne Anmeldung keine Pflicht, nach Anmeldung Pflicht, Krankheit und Untersagung lösen sie. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L2-004",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Teilnahme nur nach vorheriger Anmeldung durch den Schüler",
+      "Nach Anmeldung ohne Untersagung grundsätzlich Teilnahmepflicht",
+      "Befreiung bei gerechtfertigtem Fernbleiben wie Krankheit",
+      "Automatische Pflicht für alle ohne Anmeldung",
+      "Pflicht trotz wirksamer Untersagung",
+      "Pflicht trotz schwerer Krankheit"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anmeldung ist Tor zur Pflicht.",
+      "Richtig: Bindung sichert Planung.",
+      "Richtig: Fehlregeln gelten auch hier.",
+      "Falsch: Automatismus fehlt.",
+      "Falsch: Untersagung löst.",
+      "Falsch: Krankheit entschuldigt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schüler fragen, ob sie nach bloßem Schnuppern ohne Anmeldung schon dabeibleiben müssen und was bei Krankheit oder Untersagung gilt. Du stellst das Pflichtdreieck klar.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Eignung, Sicherheit und Abschluss schützen alle. Alle drei Gründe verpflichten zur Untersagung, unabhängig von Wunsch oder Leistung daneben. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L2-005",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Fehlende erforderliche Voraussetzungen für die Teilnahme",
+      "Große Wahrscheinlichkeit einer Sicherheitsgefährdung aus bisherigem Verhalten",
+      "Fraglichwerden des erfolgreichen Schulstufenabschlusses durch die Teilnahme",
+      "Sympathie des Lehrers als einziger Grund",
+      "Gute Noten als automatischer Freibrief trotz Gefahr",
+      "Losentscheid ohne Sachgrund"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eignung schützt vor Scheitern.",
+      "Richtig: Prognose schützt Personen.",
+      "Richtig: Abschluss schützt die Laufbahn.",
+      "Falsch: Willkür trägt nicht.",
+      "Falsch: Noten heilen Gefahr nicht.",
+      "Falsch: Sachgrund ist nötig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Anmeldungen liegen vor: ohne Vorkenntnisse, mit gefährlichem Vorverhalten und mit hoch gefährdetem Jahreserfolg. Du prüfst die drei Untersagungsgründe im Vergleich.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Leitung entscheidet, Konferenz berät, Grund wird genannt. Annahme über Leiter oder Beauftragte, Untersagung nur nach Anhörung mit Begründung. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L2-006",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Annahme der Anmeldung durch Schulleiter oder beauftragten Lehrer",
+      "Untersagung nur nach Anhörung der Klassenkonferenz",
+      "Untersagung nur unter Angabe des Grundes",
+      "Untersagung allein durch Mitschüler ohne Verfahren",
+      "Untersagung ohne jede Begründung",
+      "Entscheidung durch schulfremde Personen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zuständigkeit ist klar.",
+      "Richtig: Kollegiale Beratung sichert Fairness.",
+      "Richtig: Transparenz ermöglicht Rechtsschutz.",
+      "Falsch: Mitschüler entscheiden nicht.",
+      "Falsch: Grund ist Pflicht.",
+      "Falsch: Schulorgane entscheiden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bereitest als Schulleiterin zwei Untersagungen vor und musst Zuständigkeit, Konferenzanhörung und Begründungspflicht sauber einhalten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Fenster und Frist sichern Planung. Frühestens nach der ersten, spätestens vier Wochen vor der nächsten ist Schluss, Einzeltermine bleiben bindend. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L2-007",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Abmeldung bei einer Reihe frühestens nach der ersten Veranstaltung",
+      "Abmeldung spätestens vier Wochen vor einer weiteren Veranstaltung",
+      "Danach fortbestehende Teilnahmepflicht für die Folgetermine",
+      "Abmeldung schon vor der ersten als Regelfall",
+      "Abmeldung noch am Vortag als Regelfall",
+      "Abmeldung ohne jede Frist jederzeit"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erste Bindung bleibt.",
+      "Richtig: Vorlauf schützt Organisation.",
+      "Richtig: Fristversäumnis bindet.",
+      "Falsch: Vorab gibt es kein Fenster.",
+      "Falsch: Vortag genügt nicht.",
+      "Falsch: Frist ist fix."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine freiwillige Sportreihe mit vier Terminen läuft, zwei Schüler wollen zu verschiedenen Zeitpunkten aussteigen. Du erklärst das Abmeldefenster für Reihen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Fehlregeln gelten auch hier. Krankheit und andere gerechtfertigte Gründe entschuldigen, Schwänzen ohne Grund bleibt pflichtwidrig. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L2-008",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Gerechtfertigte Verhinderung wie Krankheit entschuldigt",
+      "Allgemeine Fehlregeln sind auch auf schulbezogene Veranstaltungen anzuwenden",
+      "Unentschuldigtes Fernbleiben bleibt Pflichtverletzung",
+      "Krankheit zählt hier niemals",
+      "Jedes Schwänzen ist automatisch entschuldigt",
+      "Attestpflicht für jede Minute ohne Ausnahme"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Klassiker greift auch hier.",
+      "Richtig: Verweis sichert Gleichklang.",
+      "Richtig: Bindung bleibt ernst.",
+      "Falsch: Gegenteil gilt.",
+      "Falsch: Grund ist nötig.",
+      "Falsch: Verlangen braucht Anlass."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Angemeldete Schüler fehlen bei einer freiwilligen Sprachreihe teils krank, teils ohne Grund. Du grenzt entschuldigtes von pflichtwidrigem Fehlen ab.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Anschlag trägt, Allkenntnis erübrigt. Kundmachung in den betroffenen Schulen, Entfall nur bei nachweislicher Kenntnis aller Betroffenen. Zum Nachlesen: SchUG §79 Abs.3.",
+    "hauptquelle": "SchUG §79 Abs.3",
+    "id": "A09-L2-009",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Kundmachung durch Anschlag in den betroffenen Schulen",
+      "Entfall nur bei Kenntnis aller in Betracht kommenden Schüler und Eltern",
+      "Abweichung von allgemeinen Kundmachungsregeln für diese Erklärungen",
+      "Zwingende Kundmachung im Bundesgesetzblatt in jedem Fall",
+      "Mündliche Gerüchte statt Anschlag als Regelfall",
+      "Gar keine Bekanntmachung trotz Erklärung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hausweg sichert Sichtbarkeit.",
+      "Richtig: Kenntnis ersetzt den Zettel.",
+      "Richtig: Sonderweg ist normiert.",
+      "Falsch: Blattzwang besteht nicht.",
+      "Falsch: Gerüchte genügen nicht.",
+      "Falsch: Bekanntgabe ist nötig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Erklärung einer schulbezogenen Veranstaltung streiten Leitung und Forum über die richtige Bekanntmachung und mögliche Entbehrlichkeit des Anschlags.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Freiwilligkeit plus Bindung prägen den Charakter. Kein Zwang zur Anmeldung, aber Ernsthaftigkeit danach, mit Eignungs-, Sicherheits- und Abschlussvorbehalt. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L2-010",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Freiwilligkeit der Anmeldung als Ausgangspunkt",
+      "Bindungswirkung nach Anmeldung ohne Untersagung",
+      "Schutz vor Überforderung, Gefahr und Abschlussverlust durch Untersagung",
+      "Zwangsanmeldung aller Schüler einer Schule",
+      "Bindung auch ohne Anmeldung",
+      "Teilnahme trotz Gefahr als Regelfall"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Niemand muss sich anmelden.",
+      "Richtig: Wer sich bindet, bleibt dabei.",
+      "Richtig: Hürden schützen alle.",
+      "Falsch: Zwang fehlt.",
+      "Falsch: Anmeldung ist Tor.",
+      "Falsch: Gefahr stoppt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Elternabend: Eltern fürchten Zwangsverpflichtung zu Zusatzangeboten, Lehrer fürchten Beliebigkeit nach Anmeldung. Du erklärst den Mittelweg aus Freiheit und Bindung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Alle drei Beispiele tragen die Erklärung. Aufbau auf Musik, Sport oder Sprache mit Bildungszweck erfüllt beide Säulen. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L2-011",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Freiwilliger Choraufbau auf dem Musikunterricht",
+      "Freiwilliges Trainingsmodul aufbauend auf Bewegung und Sport",
+      "Freiwillige Theatergruppe aufbauend auf Deutsch und darstellendem Spiel",
+      "Reine Konsumparty ohne Unterrichtsbezug",
+      "Reine Werbeaktion eines Unternehmens",
+      "Privater Nachhilfekurs ohne Schulbezug"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Musikbezug trägt.",
+      "Richtig: Sportbezug trägt.",
+      "Richtig: Sprachbezug trägt.",
+      "Falsch: Bezug fehlt.",
+      "Falsch: Zweck fehlt.",
+      "Falsch: Einbindung fehlt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Projekte stehen zur Wahl: Chor, Lauftreff und Theater, alle bauen auf Fächern auf. Du prüfst, ob sie als schulbezogene Veranstaltungen in Frage kommen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Fehler bei Gremium, Geld oder Anhörung kippen den Akt. Zuständigkeit, Sicherungen und Gehör sind Wirksamkeitsbedingungen, nicht bloße Förmelei. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L2-012",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Erklärung ohne zuständiges Gremium",
+      "Erklärung ohne Lehrerbereitschaft oder ohne Finanzierung",
+      "Untersagung ohne Konferenzanhörung und ohne Grund",
+      "Ordnungsgemäße Erklärung mit allen Sicherungen",
+      "Untersagung mit Anhörung und Begründung",
+      "Kundmachung per Anschlag"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unzuständigkeit macht angreifbar.",
+      "Richtig: Fehlende Sicherungen höhlen aus.",
+      "Richtig: Gehörmangel verletzt Fairness.",
+      "Falsch: Das ist gerade wirksam.",
+      "Falsch: Das ist gerade korrekt.",
+      "Falsch: Das ist gerade korrekt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach Beschwerden über ein Zusatzprojekt musst du als Leiter prüfen, welche Fehler bei Erklärung und Untersagung den Akt überhaupt angreifbar machen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Einzelbindung und Reihenfenster stehen nebeneinander. Einzeltermin bindet nach Anmeldung, Reihe öffnet das Fenster nach der ersten mit Vorlauffrist. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L2-013",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Einzelveranstaltung bindet nach Anmeldung bis zum Termin",
+      "Reihe bindet jedenfalls bis nach der ersten Veranstaltung",
+      "Reihe öffnet danach Abmeldung bis vier Wochen vor dem nächsten Termin",
+      "Reihe erlaubt Ausstieg schon vor der ersten als Regelfall",
+      "Reihe erlaubt Ausstieg noch am Veranstaltungstag",
+      "Einzeltermin erlaubt Beliebigkeit ohne Grund"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zusage gilt.",
+      "Richtig: Erstbindung bleibt.",
+      "Richtig: Frist sichert Planung.",
+      "Falsch: Fenster öffnet später.",
+      "Falsch: Taggenügt nicht.",
+      "Falsch: Bindung bleibt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler ist für einen Einzelworkshop und parallel für eine dreiteilige Musikreihe angemeldet und will beide Varianten unterschiedlich behandeln. Du vergleichst die Bindung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Sicherheit trägt beide, Verfahren trennt sie. Große Wahrscheinlichkeit aus Vorverhalten ist jeweils Maßstab, entschieden wird aber über verschiedene Organe und Wege. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L2-014",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Große Wahrscheinlichkeit einer Gefährdung als Maßstab in beiden Fällen",
+      "Bisheriges Verhalten als Prognosegrundlage in beiden Fällen",
+      "Unterschiedliche Entscheidungswege für Ausschluss von Pflichtveranstaltung und Untersagung bei freiwilliger",
+      "Automatischer Gleichlauf ohne eigenes Verfahren",
+      "Gefahr als unbeachtlich in beiden Fällen",
+      "Zufallsentscheid ohne Prognose"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schwelle ist gleich formuliert.",
+      "Richtig: Vergangenheit begründet Prognose.",
+      "Richtig: Verfahren wahren Eigenständigkeit.",
+      "Falsch: Verfahren bleibt nötig.",
+      "Falsch: Gefahr ist zentral.",
+      "Falsch: Prognose ist Pflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein gefährdender Schüler ist von einer Pflichtveranstaltung ausgeschlossen worden und meldet sich nun für eine freiwillige Zusatzreihe an. Du vergleichst die Sicherheitsmaßstäbe.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Forum, Ausschuss und Behörde teilen sich die Arbeit. Schulform bestimmt das Gremium, Reichweite die Ebene, Inhalt bleibt Veranstaltung, Hausfragen und Kooperation. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L2-015",
+    "level": "L2",
+    "modul_id": "A09",
+    "optionen": [
+      "Klassen- und Schulforum an Volks-, Mittel- und Sonderschulen für diese Erklärungen",
+      "Schulgemeinschaftsausschuss an höheren, mittleren, poly- und Berufsschulen für diese Erklärungen",
+      "Schulbehörde oder Bundesminister bei schul- oder länderübergreifenden Vorhaben",
+      "Erklärung als Teil der partnerschaftlichen Schulgestaltung neben Hausordnung und Kooperationen",
+      "Erklärung durch Einzelpersonen ohne Gremium",
+      "Erklärung ohne jeden Bildungsbezug"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Pflichtschulen nutzen Foren.",
+      "Richtig: Sekundar nutzt Ausschuss.",
+      "Richtig: Weite hebt die Ebene.",
+      "Richtig: Partnerschaft trägt das Ganze.",
+      "Falsch: Gremium bleibt nötig.",
+      "Falsch: Bezug bleibt nötig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Als Clusterleiterin betreust du Volks-, Mittel- und höhere Schulen mit gemeinsamen Zusatzvorhaben. Du ordnest zu, welches Gremium wo erklärt und wann höhere Ebenen greifen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

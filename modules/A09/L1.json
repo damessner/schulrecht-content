@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "aufloesung": "Die Erklärung ist möglich. Veranstaltungen mit Aufbau auf dem Unterricht, die der Schulaufgabe dienen, können zu schulbezogenen Veranstaltungen erklärt werden. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L1-001",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Nein, solche Veranstaltungen gibt es rechtlich nicht.",
+      "Ja, bei Aufbau auf dem Unterricht und Dienst an der Schulaufgabe ist die Erklärung möglich.",
+      "Ja, aber nur ohne jeden Unterrichtsbezug.",
+      "Nein, nur Schulveranstaltungen sind erlaubt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Kategorie ist ausdrücklich vorgesehen.",
+      "Richtig: Beide Merkmale zusammen öffnen die Erklärung.",
+      "Falsch: Bezug zum Unterricht ist gerade nötig.",
+      "Falsch: Beide Kategorien stehen nebeneinander."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin will mit ihrer Klasse ein freiwilliges Chorprojekt starten, das auf dem Musikunterricht aufbaut und dem schulischen Bildungsauftrag dient.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Gremium entscheidet. Klassen- oder Schulforum beziehungsweise Schulgemeinschaftsausschuss erklären die Veranstaltung, wenn Lehrer, Geld und Zustimmungen gesichert sind. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L1-002",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Allein die Lehrerin ohne Gremium.",
+      "Das Klassen- oder Schulforum beziehungsweise der Schulgemeinschaftsausschuss bei gesicherten Voraussetzungen.",
+      "Allein die Schüler durch Zuruf.",
+      "Niemand, das ist unmöglich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Allein genügt nicht.",
+      "Richtig: Gremium plus Sicherungen sind nötig.",
+      "Falsch: Schüler allein erklären nicht.",
+      "Falsch: Die Erklärung ist möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einem Gymnasium in Salzburg soll ein freiwilliger Theaterworkshop am Wochenende zur schulbezogenen Veranstaltung erklärt werden, das Kollegium fragt nach der Zuständigkeit.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ohne Bereitschaft keine Erklärung. Die Erklärung darf nur erfolgen, wenn sich die erforderlichen Lehrer zur Durchführung bereit erklären. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L1-003",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Ja, Lehrerbereitschaft ist egal.",
+      "Nein, ohne Bereitschaft der erforderlichen Lehrer darf nicht erklärt werden.",
+      "Ja, aber nur bei Zwang gegen Lehrer.",
+      "Nein, Lehrer spielen keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bereitschaft ist Bedingung.",
+      "Richtig: Freiwilligkeit der Durchführung sichert Qualität.",
+      "Falsch: Zwang ist nicht vorgesehen.",
+      "Falsch: Lehrer tragen die Veranstaltung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Das Forum einer Mittelschule in Graz will ein Zusatzprojekt beschließen, obwohl sich keine Lehrkraft zur Durchführung bereit erklärt hat.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ohne Geld keine Erklärung. Die Finanzierung muss sichergestellt sein und allenfalls nötige Zustimmungen anderer Stellen müssen vorliegen. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L1-004",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Ja, Finanzierung ist egal.",
+      "Nein, gesicherte Finanzierung und nötige Fremdzustimmungen sind Voraussetzung.",
+      "Ja, aber nur bei Bargeld.",
+      "Nein, Kosten spielen nie eine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Geld muss gesichert sein.",
+      "Richtig: Beide Sicherungen schützen vor Bauruinen.",
+      "Falsch: Auf die Zahlungsart kommt es nicht an.",
+      "Falsch: Kosten sind eigene Hürde."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine HAK in Wels plant eine teure freiwillige Projektreihe ohne geklärte Finanzierung und ohne Zustimmung des außerschulischen Partners.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Höhere Stellen erklären schulübergreifend. Bei mehreren Schulen entscheidet die Schulbehörde, bei Schulen in mehreren Bundesländern der Bundesminister. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L1-005",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Nein, schulübergreifend geht nie.",
+      "Ja, Schulbehörde bei mehreren Schulen, Bundesminister bei mehreren Bundesländern.",
+      "Ja, aber nur der Bürgermeister.",
+      "Nein, nur Einzelklassen dürfen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Übergreifung ist vorgesehen.",
+      "Richtig: Zuständigkeit wächst mit der Reichweite.",
+      "Falsch: Kommunale Stellen erklären nicht.",
+      "Falsch: Größere Kreise sind möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Schulen in zwei Bundesländern wollen eine gemeinsame freiwillige Wissenschaftsreihe als schulbezogene Veranstaltung durchführen und fragen nach der Zuständigkeit.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ohne Anmeldung keine Pflicht. Die Teilnahme setzt eine vorherige Anmeldung voraus, erst danach besteht Teilnahmepflicht. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L1-006",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Ja, alle sind automatisch verpflichtet.",
+      "Nein, erst die vorherige Anmeldung begründet die Pflicht.",
+      "Ja, aber nur mit guten Noten.",
+      "Nein, Pflicht gibt es nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Automatismus besteht nicht.",
+      "Richtig: Anmeldung ist der Schlüssel.",
+      "Falsch: Noten spielen keine Rolle.",
+      "Falsch: Nach Anmeldung besteht Pflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sophie will an einem freiwilligen Zusatzangebot in Dornbirn einfach ohne Anmeldung teilnehmen und gleichzeitig verbindlich dabei sein.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Untersagung ist zulässig. Fehlen die erforderlichen Voraussetzungen, ist die Teilnahme zu untersagen. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L1-007",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Nein, nach Anmeldung muss jeder teilnehmen.",
+      "Ja, bei fehlenden Voraussetzungen ist die Teilnahme zu untersagen.",
+      "Ja, aber nur auf Wunsch des Schülers.",
+      "Nein, Voraussetzungen gibt es keine."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Anmeldung gibt keinen unbedingten Anspruch.",
+      "Richtig: Eignung schützt vor Überforderung.",
+      "Falsch: Es kommt auf die Sache an.",
+      "Falsch: Voraussetzungen sind eigene Hürde."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David hat sich für ein freiwilliges Zusatzprojekt in Rechnungswesen angemeldet, bringt aber die nötigen Vorkenntnisse nicht mit.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Untersagung ist geboten. Bei großer Wahrscheinlichkeit einer Sicherheitsgefährdung aus bisherigem Verhalten ist die Teilnahme zu untersagen. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L1-008",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Nein, Sicherheit spielt keine Rolle.",
+      "Ja, bei großer Wahrscheinlichkeit einer Gefährdung ist zu untersagen.",
+      "Ja, aber erst nach einem Unfall.",
+      "Nein, nur Noten zählen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sicherheit ist eigene Hürde.",
+      "Richtig: Prognose aus Vorverhalten trägt das Verbot.",
+      "Falsch: Abwarten wäre falsch.",
+      "Falsch: Leistung ersetzt keine Sicherheit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler mit wiederholten gefährlichen Aktionen bei Ausgängen meldet sich für eine freiwillige Kletterprojektgruppe in Innsbruck an.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Untersagung ist zulässig. Erscheint durch die Teilnahme der erfolgreiche Abschluss der Schulstufe fraglich, ist die Teilnahme zu untersagen. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L1-009",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Nein, der Abschluss spielt keine Rolle.",
+      "Ja, bei Gefährdung des erfolgreichen Abschlusses ist zu untersagen.",
+      "Ja, aber nur bei guten Schülern.",
+      "Nein, jeder darf immer alles besuchen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Abschluss ist eigene Hürde.",
+      "Richtig: Schutz des Stufenabschlusses geht vor Zusatz.",
+      "Falsch: Gerade Schwächere sind geschützt.",
+      "Falsch: Schranken bestehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin in Klagenfurt mit stark gefährdetem Jahreserfolg meldet sich für drei zeitintensive freiwillige Zusatzreihen parallel zum Unterricht an.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Anhörung und Begründung sind Pflicht. Zuständig ist der Schulleiter oder ein Beauftragter, die Untersagung erfolgt nach Anhörung der Klassenkonferenz unter Angabe des Grundes. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L1-010",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Ja, jeder Lehrer allein ohne Verfahren.",
+      "Nein, Schulleiter oder Beauftragter nach Anhörung der Klassenkonferenz mit Grundangabe.",
+      "Ja, aber nur mündlich ohne Grund.",
+      "Nein, untersagt wird nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleingang genügt nicht.",
+      "Richtig: Zuständigkeit plus Anhörung plus Grund sichern Fairness.",
+      "Falsch: Grund ist zu nennen.",
+      "Falsch: Untersagung ist vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Klassenkonferenz einer BHS in Linz soll zur geplanten Untersagung einer Teilnahme gehört werden, der Schüler verlangt eine Begründung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Pflicht besteht. Angemeldete ohne Untersagung sind zur Teilnahme verpflichtet, außer es liegt ein Grund für Fernbleiben nach den Fehlregeln vor. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L1-011",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Nein, Angemeldete können beliebig fernbleiben.",
+      "Ja, Angemeldete ohne Untersagung sind verpflichtet, außer bei Fehlgrund wie Krankheit.",
+      "Ja, aber nur bei Schönwetter.",
+      "Nein, Pflicht gibt es nur im Pflichtunterricht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Anmeldung bindet.",
+      "Richtig: Pflicht plus Krankheitsausnahme sichern Ernsthaftigkeit.",
+      "Falsch: Wetter spielt keine Rolle.",
+      "Falsch: Auch hier bindet die Anmeldung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Jonas ist für einen freiwilligen Robotikworkshop in Wien angemeldet und nicht ausgeschlossen worden, will aber ohne Grund einfach nicht hingehen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Krankheit entschuldigt. Die Vorschriften über das Fernbleiben gelten auch hier, gerechtfertigte Verhinderung wie Krankheit hebt die Pflicht auf. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L1-012",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Ja, Krankheit zählt hier nie.",
+      "Nein, gerechtfertigtes Fernbleiben wie Krankheit entschuldigt auch hier.",
+      "Ja, aber nur mit Behördenattest.",
+      "Nein, nur Schwänzen ist erlaubt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fehlregeln gelten auch hier.",
+      "Richtig: Krankheit ist klassischer Entschuldiger.",
+      "Falsch: Normale Rechtfertigung genügt.",
+      "Falsch: Schwänzen bleibt pflichtwidrig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selina aus Eisenstadt ist für eine freiwillige Sportreihe angemeldet und liegt am zweiten Termin mit Fieber im Bett, die Schule zweifelt an der Entschuldigung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Vorher geht es nicht. Bei einer Reihe ist die Abmeldung frühestens nach der ersten Veranstaltung möglich. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L1-013",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Ja, schon vor der ersten Veranstaltung jederzeit.",
+      "Nein, frühestens nach der ersten Veranstaltung ist die Abmeldung möglich.",
+      "Ja, aber nur mit Strafe.",
+      "Nein, abmelden geht nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erste Teilnahme ist Pflicht.",
+      "Richtig: Erst danach öffnet sich das Fenster.",
+      "Falsch: Strafe ist nicht vorgesehen.",
+      "Falsch: Abmeldung ist möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nina ist für eine freiwillige Theaterreihe mit drei Terminen angemeldet und will schon vor dem ersten Termin wieder aussteigen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Frist ist versäumt. Spätestens vier Wochen vor einer weiteren Veranstaltung muss die Abmeldung erfolgen, danach bleibt die Pflicht. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L1-014",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Ja, noch am Vortag per Nachricht.",
+      "Nein, spätestens vier Wochen vor der weiteren Veranstaltung muss abgemeldet sein.",
+      "Ja, aber nur mit doppelter Gebühr.",
+      "Nein, Fristen gibt es keine."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kurzfristig genügt nicht.",
+      "Richtig: Vierwochenfrist sichert Planung.",
+      "Falsch: Geld spielt keine Rolle.",
+      "Falsch: Die Frist ist ausdrücklich geregelt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler in Villach will sich zwei Wochen vor dem zweiten Termin einer freiwilligen Musikreihe wieder abmelden, die Organisation ist schon fixiert.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Anschlag genügt. Die Erklärung ist durch Anschlag in den betroffenen Schulen kundzumachen, bei Kenntnis aller Betroffenen kann die Kundmachung entfallen. Zum Nachlesen: SchUG §79 Abs.3.",
+    "hauptquelle": "SchUG §79 Abs.3",
+    "id": "A09-L1-015",
+    "level": "L1",
+    "modul_id": "A09",
+    "optionen": [
+      "Ja, es braucht immer eine Verordnungsblattausgabe.",
+      "Nein, Anschlag in den Schulen genügt, bei Allkenntnis kann er entfallen.",
+      "Ja, aber nur per Post an alle.",
+      "Nein, kundgemacht wird nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schulanschlag ist der vorgesehene Weg.",
+      "Richtig: Anschlag plus Entfall bei Kenntnis sichern Praxis.",
+      "Falsch: Postzwang besteht nicht.",
+      "Falsch: Kundmachung ist geregelt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schule in St. Pölten hat ein freiwilliges Zusatzangebot zur schulbezogenen Veranstaltung erklärt und fragt, wie sie dies wirksam bekannt machen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

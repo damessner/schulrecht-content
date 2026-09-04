@@ -1,1 +1,512 @@
-[]
+[
+  {
+    "aufloesung": "Lehrer, Klassenvorstand, Schulleiter und in besonderen Fällen die Behörde dürfen sie aussprechen. Erzieher und Freizeitpädagogen stehen ihnen im Betreuungsteil gleich. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A17-L2-001",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Lehrer im Unterrichts- und Erziehungsalltag",
+      "Klassenvorstand und Schulleiter beziehungsweise Abteilungsvorstand",
+      "Zuständige Schulbehörde in besonderen Fällen",
+      "Erzieher und Freizeitpädagogen im Betreuungsteil ganztägiger Schulen",
+      "Klassensprecher als eigene Ordnungsinstanz",
+      "Hausmeister ohne pädagogischen Auftrag"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Lehrkraft ist erste Trägerin der Erziehungsmittel.",
+      "Richtig: Auch Leitungsorgane dürfen sie aussprechen.",
+      "Richtig: In besonderen Fällen greift die Behörde ein.",
+      "Richtig: Im Betreuungsteil gilt die Gleichstellung.",
+      "Falsch: Schülervertreter haben keine eigene Strafbefugnis.",
+      "Falsch: Ohne pädagogischen Auftrag keine Erziehungsmittel."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bist Schulleiter einer Mittelschule und sollst im Kollegium klarstellen, wer in der Schule überhaupt Erziehungsmittel wie Anerkennung, Aufforderung oder Zurechtweisung aussprechen darf.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Alle drei sind verboten. Körperliche Züchtigung, beleidigende Äußerungen und Kollektivstrafen dürfen nie als Erziehungsmittel eingesetzt werden. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L2-002",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Körperliche Züchtigung wie Ohrfeigen oder Schläge",
+      "Beleidigende Äußerungen gegenüber einzelnen Schülern",
+      "Kollektivstrafen gegen die ganze Klasse für Einzelne",
+      "Sachliche Zurechtweisung eines störenden Schülers",
+      "Anerkennung für gutes Verhalten",
+      "Ruhiges Auffordern zur Mitarbeit"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jede körperliche Strafe ist ausnahmslos verboten.",
+      "Richtig: Beschämung und Beleidigung sind unzulässig.",
+      "Richtig: Gruppenhaftung für Einzelverhalten ist verboten.",
+      "Falsch: Sachliche Zurechtweisung ist gerade erlaubt.",
+      "Falsch: Anerkennung ist ein vorgesehenes Mittel.",
+      "Falsch: Aufforderung ist ein vorgesehenes Mittel."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Rahmen einer Fortbildung sollst du drei Kolleginnen erklären, welche Maßnahmen an deiner Schule jedenfalls verboten sind, egal wie schwierig die Erziehungssituation ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Erzieherische Notwendigkeit oder Ordnungssicherung tragen die Maßnahme. Zuständig ist der Schulleiter, an Berufsschulen mit Lehrgängen auch der Lehrgangswechsel. Zum Nachlesen: SchUG §47 Abs.2.",
+    "hauptquelle": "SchUG §47 Abs.2",
+    "id": "A17-L2-003",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Erzieherische Gründe im Einzelfall",
+      "Notwendigkeit zur Aufrechterhaltung der Ordnung",
+      "Entscheidung durch den Schulleiter",
+      "An lehrgangsmäßigen Berufsschulen auch Versetzung in anderen Lehrgang",
+      "Automatismus bei jeder schlechten Note",
+      "Wunsch einzelner Eltern ohne pädagogischen Grund"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erziehungsgründe sind eine eigene Säule.",
+      "Richtig: Ordnungssicherung ist die zweite Säule.",
+      "Richtig: Die Anordnung trifft die Schulleitung.",
+      "Richtig: Dort tritt der Lehrgang neben die Parallelklasse.",
+      "Falsch: Noten allein tragen keine Versetzung.",
+      "Falsch: Ohne pädagogischen Grund keine Maßnahme."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du leitest eine Schule mit Parallelklassen und sollst prüfen, unter welchen Voraussetzungen du einen Schüler zur Beruhigung der Lage in eine Parallelklasse versetzen darfst.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Berücksichtigen ja, hart strafen nein. Außerschulisches Verhalten darf einfließen, aber nur milde Mittel und Verständigung sind erlaubt und eine Doppelbestrafung nach Behörden- oder Gerichtsverfahren ist ausgeschlossen. Zum Nachlesen: SchUG §47 Abs.4.",
+    "hauptquelle": "SchUG §47 Abs.4",
+    "id": "A17-L2-004",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Verhalten außerhalb der Schule darf in der Erziehung berücksichtigt werden",
+      "Als Mittel kommen nur Anerkennung, Aufforderung, Zurechtweisung und Verständigung nach der Mitteilungsregel in Frage",
+      "Keine zusätzliche Schulstrafe, wenn dasselbe Verhalten schon Anlass für Eltern, Jugendhilfe, Behörden oder Gerichte war",
+      "Jede harte Ordnungsstrafe auch für außerschulisches Verhalten verhängen",
+      "Ausschluss allein wegen eines außerschulischen Bagatellverhaltens ohne Schulbezug",
+      "Doppelt bestrafen trotz bereits erfolgter gerichtlicher Sanktion"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Berücksichtigung ist grundsätzlich möglich.",
+      "Richtig: Der Katalog ist außerhalb der Schule verengt.",
+      "Richtig: Das Doppelbestrafungsverbot schützt den Schüler.",
+      "Falsch: Harte Sanktionen scheiden dort aus.",
+      "Falsch: Bagatellen ohne Bezug tragen keinen Ausschluss.",
+      "Falsch: Genau das verbietet das Gesetz."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Oberstufenschüler fällt außerhalb der Schule negativ auf. Du sollst als Abteilungsvorstand klären, was die Schule davon überhaupt aufgreifen und mit welchen Mitteln sie reagieren darf.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Alle drei Stellen sind zu informieren. Bei Ausschluss eines Schulpflichtigen meldet die Schulbehörde Jugendhilfe, Polizei und gegebenenfalls Aufenthaltsbehörden mit Bescheid und den nötigen Personendaten. Zum Nachlesen: SchUG §48 Abs.3.",
+    "hauptquelle": "SchUG §48 Abs.3",
+    "id": "A17-L2-005",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Kinder- und Jugendhilfeträger mit rechtskräftigem Bescheid zur Prüfung von Handlungsbedarf",
+      "Örtlich zuständige Landespolizeidirektion mit Bescheid für einzelfallbezogene Maßnahmen",
+      "Gegebenenfalls Aufenthalts- und Niederlassungsbehörden zur Miteinbeziehung in deren Verfahren",
+      "Niemanden informieren, alles bleibt schulintern",
+      "Nur mündlich ohne Bescheid und ohne Daten weitergeben",
+      "Nur die Klassenkameraden informieren"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Jugendhilfe prüft weiteren Bedarf.",
+      "Richtig: Die Polizei kann etwa Normverdeutlichung einleiten.",
+      "Richtig: Aufenthaltsverfahren sollen die Info einbeziehen können.",
+      "Falsch: Unverzügliche Information ist Pflicht.",
+      "Falsch: Der Bescheid ist anzuschließen.",
+      "Falsch: Mitschüler sind keine Meldeadresse."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem rechtskräftigen Ausschluss eines schulpflichtigen Schülers wegen dauernder Gefährdung musst du als Schulbehörde die gesetzlich vorgeschriebenen Verständigungen veranlassen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Sittlichkeit, Sicherheit und Eigentum sind geschützt. Dauerhafte Gefährdung dieser Güter durch das Schülerverhalten trägt den Ausschluss, an Pflichtschulen sogar ausschließlich. Zum Nachlesen: SchUG §49 Abs.1.",
+    "hauptquelle": "SchUG §49 Abs.1",
+    "id": "A17-L2-006",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Dauernde Gefährdung der Sittlichkeit",
+      "Dauernde Gefährdung der physischen oder psychischen Sicherheit von Mitschülern oder Personal",
+      "Dauernde Gefährdung des Eigentums anderer",
+      "Einmaliges Vergessen der Turnsachen",
+      "Ein einzelner Rechtschreibfehler in der Schularbeit",
+      "Gute Mitarbeit im Unterricht"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sittlichkeit ist ein eigenes Schutzgut.",
+      "Richtig: Sicherheit von Personen steht im Kern.",
+      "Richtig: Auch Eigentum ist ausdrücklich genannt.",
+      "Falsch: Bagatellen tragen keinen Ausschluss.",
+      "Falsch: Fehler sind kein Gefährden.",
+      "Falsch: Mitarbeit spricht gegen Maßnahmen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bereitest einen Ausschlussantrag vor und musst prüfen, ob das dokumentierte Verhalten überhaupt unter die dauernde Gefährdung fällt, die einen Ausschluss tragen kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Antrag mit Anhörung und Zweitschrift sichern das Verfahren. Die Schulleitung stellt begründet den Antrag, hört Schüler und Eltern an und stellt dem Schüler eine Zweitschrift zu. Zum Nachlesen: SchUG §49 Abs.2.",
+    "hauptquelle": "SchUG §49 Abs.2",
+    "id": "A17-L2-007",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Begründeten Ausschlussantrag der Schulleitung an die Schulbehörde stellen",
+      "Dem Schüler vor Antragstellung Gelegenheit zur Rechtfertigung geben",
+      "Den Erziehungsberechtigten Gelegenheit zur Stellungnahme geben und dem Schüler eine Zweitschrift zustellen",
+      "Ohne Begründung und ohne Anhörung sofort ausschließen",
+      "Nur telefonisch ohne Aktenlage entscheiden",
+      "Eltern und Schüler bewusst nicht informieren"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne begründeten Antrag kein Verfahren.",
+      "Richtig: Rechtliches Gehör des Schülers ist Pflicht.",
+      "Richtig: Elternanhörung plus Zweitschrift sichern Fairness.",
+      "Falsch: Das wäre ein schwerer Verfahrensfehler.",
+      "Falsch: Aktenmäßigkeit ist unverzichtbar.",
+      "Falsch: Geheimverfahren sind unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Als Schulleiterin einer HAK musst du einen Ausschluss wegen dauernder Gefährdung formell korrekt auf den Weg bringen und alle Verfahrensschritte einhalten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Einstellen, rügen oder mildere Maßnahme kommen zuerst. Liegen die Ausschlussgründe nicht vor, stellt die Behörde das Verfahren ein, kann aber Rüge oder Versetzung nach der Ordnungsregel anordnen, sonst ergeht ein Bescheid. Zum Nachlesen: SchUG §49 Abs.3.",
+    "hauptquelle": "SchUG §49 Abs.3",
+    "id": "A17-L2-008",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Beendigung des Ausschlussverfahrens feststellen, wenn die Voraussetzungen nicht vorliegen",
+      "Trotzdem Rüge erteilen oder Versetzung in Parallelklasse anordnen können",
+      "Bei Vorliegen der Gründe den Ausschluss mit Bescheid aussprechen",
+      "Ohne Ermittlungsverfahren sofort verurteilen",
+      "Mündliche Verwarnung ohne jede Dokumentation als einzige Option",
+      "Verfahren jahrelang unentschieden liegen lassen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einstellung bei fehlenden Voraussetzungen ist Pflicht.",
+      "Richtig: Mildere Reaktion auf die Pflichtverletzung bleibt möglich.",
+      "Richtig: Der Ausschluss selbst braucht einen Bescheid.",
+      "Falsch: Ermittlungen sind vorgeschrieben.",
+      "Falsch: Dokumentation ist unverzichtbar.",
+      "Falsch: Zügige Entscheidung ist geboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Schulbehörde hat nach deinem Antrag ermittelt und zweifelt, ob die Schwelle für einen Ausschluss wirklich erreicht ist. Du erklärst dem Team die möglichen Ausgänge.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Mildeste wirksame Form wählen, Sperre beachten, Wegfall prüfen. Der Ausschluss reicht so weit wie nötig, sperrt die Aufnahme an betroffenen Schulen und kann bei Wegfall der Gründe eingeschränkt oder aufgehoben werden. Zum Nachlesen: SchUG §49 Abs.4.",
+    "hauptquelle": "SchUG §49 Abs.4",
+    "id": "A17-L2-009",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Nur die Form wählen, mit der der Sicherungszweck bereits erreicht wird, etwa einzelne Schule oder bestimmter Umkreis",
+      "Aufnahmesperre als ordentlicher und außerordentlicher Schüler an betroffenen Schulen beachten",
+      "Bei Wegfall der Gründe Einschränkung oder Aufhebung auf Antrag prüfen lassen",
+      "Trotz Sperre sofort wieder aufnehmen",
+      "Externistenprüfung pauschal für immer verbieten",
+      "Ausschluss ohne Antrag automatisch verschärfen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verhältnismäßigkeit bestimmt die Reichweite.",
+      "Richtig: Die Sperre sichert den Schutzzweck.",
+      "Richtig: Besserung oder andere Sicherung öffnen den Weg zurück.",
+      "Falsch: Das würde den Bescheid unterlaufen.",
+      "Falsch: Der Prüfungsweg bleibt ausdrücklich offen.",
+      "Falsch: Verschärfung braucht Gründe und Verfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem rechtskräftigen Ausschluss fragen Eltern, wie weit die Sperre reicht und ob ihr Kind jemals wieder zurückkehren oder wenigstens eine Externistenprüfung ablegen kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Angriff, Drohung, Verfolgung oder Sachschaden mit Fortgefahr tragen den Eilantrag. Dazu kommt vorsätzliche Beschädigung von Schuleigentum, jeweils mit weiter bestehender unmittelbarer Gefährdung. Zum Nachlesen: SchUG §44 Abs.5.",
+    "hauptquelle": "SchUG §44 Abs.5",
+    "id": "A17-L2-010",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Vorsätzlicher tätlicher Angriff auf Personen in der Schule",
+      "Geeignete Drohung, die andere in Furcht und Unruhe versetzt, sowie beharrliche Verfolgung oder Herabwürdigung",
+      "Vorsätzliche Schädigung fremden Eigentums oder vorsätzliche Beschädigung von Schuleigentum",
+      "Weiterhin ausgehende unmittelbare Gefährdung als zusätzliche Bedingung",
+      "Einmaliges Zuspätkommen ohne jede Gefahr",
+      "Schlechte Note in Mathematik"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Tätlichkeit ist der klassische Eilfall.",
+      "Richtig: Drohung und Stalking-ähnliches Verhalten zählen dazu.",
+      "Richtig: Eigentumsangriffe beider Arten sind erfasst.",
+      "Richtig: Ohne Fortgefahr keine Suspendierung.",
+      "Falsch: Bagatellen ohne Gefahr genügen nicht.",
+      "Falsch: Leistung hat mit Gefahr nichts zu tun."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du musst als Schulleiter sofort entscheiden, ob du einen Antrag auf Suspendierung stellst, und prüfst, ob der Vorfall überhaupt unter die Eiltatbestände mit fortbestehender Gefährdung fällt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Bescheid, kurze Dauer und Reintegration prägen das Eilverfahren. Höchstens vier Wochen, bei Ausschlussantrag einmalig plus zwei, sofortige Aufhebung bei Wegfall und kein Aufschub für Rechtsmittel. Zum Nachlesen: SchUG §44 Abs.6.",
+    "hauptquelle": "SchUG §44 Abs.6",
+    "id": "A17-L2-011",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Suspendierung nur mit Bescheid der Schulbehörde samt Reintegrationspflichten der Eltern",
+      "Höchstens vier Wochen, bei gestelltem Ausschlussantrag einmalig um bis zu zwei Wochen verlängerbar",
+      "Unverzügliche Aufhebung, sobald keine Gefährdung mehr ausgeht",
+      "Kein Aufschub durch Rechtsmittel gegen die Suspendierung",
+      "Mündliche Suspendierung für ein halbes Jahr ohne Bescheid",
+      "Automatische Verlängerung ohne Antrag und ohne Prüfung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bescheid plus Pflichten sichern das Verfahren.",
+      "Richtig: Die Fristen sind eng begrenzt.",
+      "Richtig: Wegfall beendet die Maßnahme sofort.",
+      "Richtig: Eilschutz geht vor Verfahrensdauer.",
+      "Falsch: Ohne Bescheid und mit der Dauer unzulässig.",
+      "Falsch: Verlängerung braucht Antragslage."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Schulbehörde hat auf deinen Eilantrag suspendiert. Du erklärst Eltern und Kollegium, in welcher Form, wie lange und mit welchen Rechtsfolgen die Suspendierung wirkt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Förderplan mit Betreuung und Unterricht füllt die Zeit. Binnen vier Schultagen sind Ort und ein Plan mit 8 bis 20 Wochenstunden aus psychosozialen Maßnahmen und höchstens gleich viel Unterricht ohne Beurteilung bekanntzugeben. Zum Nachlesen: SchUG §44 Abs.8.",
+    "hauptquelle": "SchUG §44 Abs.8",
+    "id": "A17-L2-012",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Mitteilung von Ort der Reintegrationsmaßnahme binnen vier Schultagen ab Zustellung",
+      "Förderplan mit insgesamt 8 bis 20 Stunden je ganzer Suspendierungswoche",
+      "Psychosoziale Maßnahmen plus höchstens gleich viel nicht zu beurteilende Unterrichtseinheiten",
+      "Recht auf regelmäßige Info über den durchgenommenen Lehrstoff und notfalls Feststellungsprüfung am Jahresende",
+      "Suspendierung ohne jeden Plan und ohne Kontakt zur Schule",
+      "Beurteilung der Reintegrationsstunden mit Nicht genügend"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Ort muss rasch feststehen.",
+      "Richtig: Der Stundenrahmen ist gedeckelt.",
+      "Richtig: Betreuung und Unterricht stehen in Balance.",
+      "Richtig: Anschluss ans Lernen bleibt gewahrt.",
+      "Falsch: Planlosigkeit widerspricht dem Gesetz.",
+      "Falsch: Die Einheiten sind gerade nicht zu beurteilen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein suspendierter Schüler soll nicht einfach zu Hause sitzen. Du organisierst mit der Behörde die Suspendierungsbegleitung und erklärst, was der Förderplan enthalten muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Mitarbeit, Besuch, Mittel und Ordnung sind die Kernpflichten. Sie stützen die Unterrichtsarbeit und sind Maßstab dafür, ob überhaupt eine schwere Pflichtverletzung vorliegt. Zum Nachlesen: SchUG §43 Abs.1.",
+    "hauptquelle": "SchUG §43 Abs.1",
+    "id": "A17-L2-013",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Durch Mitarbeit und Einordnung in Klassen- und Schulgemeinschaft die Schulaufgabe und Unterrichtsarbeit fördern",
+      "Unterricht und angemeldeten Betreuungsteil regelmäßig und pünktlich besuchen",
+      "Erforderliche Unterrichtsmittel mitbringen und Schul- beziehungsweise Hausordnung einhalten",
+      "Frühwarnvereinbarungen und Aufträge der Lernbegleitung befolgen",
+      "Beliebig fernbleiben ohne Entschuldigung",
+      "Unterrichtsmittel grundsätzlich verweigern"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mitarbeit ist die Grundpflicht.",
+      "Richtig: Regelmäßigkeit und Pünktlichkeit gehören dazu.",
+      "Richtig: Ausstattung und Ordnung sichern den Betrieb.",
+      "Richtig: Vereinbarungen sind einzuhalten.",
+      "Falsch: Unentschuldigtes Fehlen verletzt die Pflicht.",
+      "Falsch: Verweigerung verletzt die Pflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor einem möglichen Ausschlussverfahren musst du sauber dokumentieren, gegen welche Schülerpflichten überhaupt verstoßen wurde und was das Gesetz von den Schülern verlangt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Sinngemäß gelten sie auch dort. Die Pflichten- und Ordnungsregeln sind auf nicht schulpflichtige außerordentliche Schüler sinngemäß anzuwenden. Zum Nachlesen: SchUG §50.",
+    "hauptquelle": "SchUG §50",
+    "id": "A17-L2-014",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Pflichten zur Mitarbeit und Ordnung gelten sinngemäß auch für sie",
+      "Erziehungsmittel und Ordnungsmaßnahmen sind sinngemäß anwendbar",
+      "Ausschlussregeln sind dem Sinn nach heranzuziehen",
+      "Für sie gilt überhaupt kein Schulrecht",
+      "Sie dürfen unbegrenzt stören ohne Folgen",
+      "Ihre Anwesenheit ist jeder Kontrolle entzogen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Auch Gaststatus entbindet nicht von Pflichten.",
+      "Richtig: Erziehungsreaktionen bleiben möglich.",
+      "Richtig: Schwere Fälle können zum Ausschluss führen.",
+      "Falsch: Sinngemäße Anwendung ist angeordnet.",
+      "Falsch: Störungen bleiben sanktionierbar.",
+      "Falsch: Kontrolle bleibt bestehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein volljähriger außerordentlicher Schüler besucht nur einzelne Gegenstände und meint, Pflichten und Ordnungsregeln gälten für ihn gar nicht, weil er nicht schulpflichtig sei.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Lehrer ermahnt, Leiter versetzt, Behörde schließt aus. Die Stufen bauen aufeinander auf und sichern Verhältnismäßigkeit vom milden Mittel bis zum Bescheid. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A17-L2-015",
+    "level": "L2",
+    "modul_id": "A17",
+    "optionen": [
+      "Lehrer mit Anerkennung, Aufforderung oder Zurechtweisung im Alltag einwirken",
+      "Schulleiter bei Bedarf in Parallelklasse oder anderen Lehrgang versetzen",
+      "Schulbehörde nach Anhörung und Ermittlung den Ausschluss mit Bescheid aussprechen",
+      "Sofort mit Ausschluss ohne jede Vorstufe beginnen",
+      "Kollektivstrafe als erste Reaktion wählen",
+      "Beleidigung als Standardmittel einsetzen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Stufe eins ist die pädagogische Einwirkung.",
+      "Richtig: Stufe zwei ist die organisatorische Maßnahme.",
+      "Richtig: Stufe drei ist das förmliche Verfahren.",
+      "Falsch: Vorstufen und Verhältnismäßigkeit beachten.",
+      "Falsch: Kollektivstrafen sind verboten.",
+      "Falsch: Beleidigungen sind verboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du schulst neue Lehrer im Eskalationsaufbau und sollst zeigen, wie milde Erziehungsmittel, Versetzung und förmlicher Ausschluss als gestuftes System zusammenwirken.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

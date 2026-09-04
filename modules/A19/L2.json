@@ -1,1 +1,512 @@
-[]
+[
+  {
+    "aufloesung": "Aufnahme, Prüfungszulassung, Unterrichtsteilnahme, Fernbleiben und Versetzung sind erfasst. In diesen Fällen gelten statt dem AVG die schulischen Verfahrensregeln mit Sachverhalt, Gehör und Form. Zum Nachlesen: SchUG §70 Abs.1.",
+    "hauptquelle": "SchUG §70 Abs.1",
+    "id": "A19-L2-001",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Aufnahme in die Schule und Übertritt in andere Schulart, Form oder Fachrichtung",
+      "Zulassung zu Aufnahms- und Eignungsprüfungen sowie Besuch von Pflicht- und Freigegenständen, Förderunterricht und Betreuungsteil",
+      "Fernbleiben von der Schule sowie Versetzung in Parallelklasse oder anderen Lehrgang",
+      "Reine private Wochenendplanung der Familie ohne Schulbezug",
+      "Fußballergebnisse der Bundesliga",
+      "Private Urlaubsbuchung der Eltern"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Aufnahme und Übertritt sind Kernfälle.",
+      "Richtig: Zulassung und Unterrichtsteilnahme sind erfasst.",
+      "Richtig: Fehlen und Versetzung gehören dazu.",
+      "Falsch: Ohne Schulbezug kein Verfahren.",
+      "Falsch: Sport liegt außerhalb.",
+      "Falsch: Urlaub ist kein Verfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du sollst als Schulleiter dem Team erklären, in welchen typischen Alltagsfällen überhaupt das schulische Sonderverfahren mit eigenem Widerspruchsrecht statt dem allgemeinen Verwaltungsverfahren gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Beweise sichern, Gehör gewähren, Barrieren abbauen. Alles Taugliche ist Beweismittel, bei unklarem oder abweisendem Stand ist Stellungnahme zu geben und bei Behinderung anzupassen. Zum Nachlesen: SchUG §70 Abs.2.",
+    "hauptquelle": "SchUG §70 Abs.2",
+    "id": "A19-L2-002",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Maßgebenden Sachverhalt vor Entscheidung durch Beweise feststellen, soweit nicht von vornherein klar",
+      "Als Beweismittel alles heranziehen, was geeignet und zweckdienlich ist",
+      "Bei unklarem Sachverhalt oder drohender Abweisung Gelegenheit zur Stellungnahme geben",
+      "Verfahrensgestaltung bei Bedarf an Behinderung Beteiligter anpassen",
+      "Ohne jede Feststellung nach Bauchgefühl entscheiden",
+      "Betroffene grundsätzlich nie anhören"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Feststellung vor Entscheidung ist Prinzip.",
+      "Richtig: Offener Beweisbegriff hilft der Wahrheit.",
+      "Richtig: Gehör sichert Fairness.",
+      "Richtig: Barrierefreiheit gilt auch hier.",
+      "Falsch: Bauchgefühl ersetzt keine Beweise.",
+      "Falsch: Anhörung ist Pflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor einer strittigen Entscheidung über eine Befreiung vom Unterricht musst du als Abteilungsvorstand Sachverhaltsermittlung, Beweismittel und Anhörung korrekt handhaben.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Mündlich oder schriftlich ergehen sie, schriftlich auf Verlangen. Bei Teilabweisung kann binnen einer Woche eine schriftliche Ausfertigung verlangt werden. Zum Nachlesen: SchUG §70 Abs.3.",
+    "hauptquelle": "SchUG §70 Abs.3",
+    "id": "A19-L2-003",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Entscheidungen können mündlich oder schriftlich erlassen werden",
+      "Bei nicht vollinhaltlicher Stattgabe kann binnen einer Woche schriftliche Ausfertigung verlangt werden",
+      "Elektronische Kommunikation für Aussprachen, Konferenzen, Gremien und Zustellungen ist möglich",
+      "Jede Entscheidung braucht zwingend einen Notariatsakt",
+      "Mündliche Entscheidungen sind ausnahmslos verboten",
+      "Schriftform darf nie verlangt werden"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Formwahl erleichtert den Alltag.",
+      "Richtig: Wochenfrist sichert Nachweis.",
+      "Richtig: Digitale Wege sind eröffnet.",
+      "Falsch: Notar ist nicht nötig.",
+      "Falsch: Mündlich ist zulässig.",
+      "Falsch: Verlangen ist vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Familie erhält eine mündliche Abweisung ihres Ansuchens und verlangt eine schriftliche Ausfertigung. Du klärst Formwahl, Verlangensrecht und elektronische Wege.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Vollständigkeit schafft Vertrauen. Die sechs Bausteine von Kopf über Inhalt und Begründung bis zur Belehrung machen die Entscheidung überprüfbar. Zum Nachlesen: SchUG §70 Abs.4.",
+    "hauptquelle": "SchUG §70 Abs.4",
+    "id": "A19-L2-004",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Bezeichnung und Standort der Schule sowie entscheidendes Organ",
+      "Inhalt mit Gesetzesstellen und bei Abweichung vom Standpunkt auch Begründung",
+      "Datum, Unterschrift oder Amtssignatur sowie Widerspruchsbelehrung bei Teilabweisung",
+      "Zettel ohne Inhalt, Stellen, Datum und Unterschrift",
+      "Entscheidung ohne jede Begründung trotz Abweisung",
+      "Belehrung bewusst weglassen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kopf identifiziert Verfahren und Organ.",
+      "Richtig: Inhalt und Begründung tragen die Nachprüfung.",
+      "Richtig: Abschluss sichert Wirksamkeit und Rechtsschutz.",
+      "Falsch: Leere Zettel sind unwirksam.",
+      "Falsch: Begründung ist dann Pflicht.",
+      "Falsch: Belehrung ist dann Pflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du schulst Administratoren im Verfassen von Entscheidungen und zeigst, welche sechs Angaben eine schriftliche Ausfertigung enthalten muss, damit sie hält.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Fünf Tage schriftlich bei der Schule sichern den Zugang. Ausgenommen ist E-Mail, Friststart ist Verkündung oder Zustellung, danach legt die Leitung mit Stellungnahme vor. Zum Nachlesen: SchUG §71 Abs.1.",
+    "hauptquelle": "SchUG §71 Abs.1",
+    "id": "A19-L2-005",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Widerspruch schriftlich in jeder technisch möglichen Form außer E-Mail einbringen",
+      "Frist von fünf Tagen ab mündlicher Verkündung oder ab Zustellung der Ausfertigung",
+      "Einbringung bei der Schule, bei Externisten bei der Prüfungskommission",
+      "Sofortige Vorlage an die Behörde durch die Leitung mit Stellungnahme und Beweismitteln",
+      "Einbringung nur per E-Mail",
+      "Frist von einem Jahr ab Entscheidung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Form ist weit, aber E-Mail ausgenommen.",
+      "Richtig: Start hängt vom Verkündungsweg ab.",
+      "Richtig: Adressat ist die Schule, nicht gleich die Behörde.",
+      "Richtig: Rasche Vorlage sichert Zügigkeit.",
+      "Falsch: Genau das ist ausgenommen.",
+      "Falsch: Fünf Tage sind die Regel."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Familie will gegen eine Aufnahmeentscheidung vorgehen. Du erklärst Form, Frist, Einbringungsstelle und den weiteren Weg des Widerspruchs an die Schulbehörde.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Prüfungsergebnisse, Aufstieg und Abschlüsse sind anfechtbar. Von Einstufung über Nichtaufstieg bis zur nicht bestandenen Reifeprüfung reicht der Katalog, jeweils mit Fünftagesfrist. Zum Nachlesen: SchUG §71 Abs.2.",
+    "hauptquelle": "SchUG §71 Abs.2",
+    "id": "A19-L2-006",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Nichtbestehen von Einstufungs-, Aufnahms- oder Eignungsprüfungen",
+      "Nichtberechtigung zum Aufsteigen oder zum erfolgreichen Abschluss der letzten Stufe nach Wiederholungs- oder Ausgleichsprüfungen",
+      "Nichtbestehen von Reife-, Diplom-, Abschluss-, Zusatz- oder Externistenprüfungen",
+      "Private Meinungsverschiedenheit ohne Entscheidung",
+      "Benotung eines einzelnen Hausübungszettels ohne Stufenfolge",
+      "Wetter am Wandertag"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eingangsprüfungen sind erfasst.",
+      "Richtig: Aufstiegsfolgen sind Kernfälle.",
+      "Richtig: Abschlüsse sind anfechtbar.",
+      "Falsch: Ohne Entscheidung kein Widerspruch.",
+      "Falsch: Alltagsnoten ohne Stufenfolge scheiden aus.",
+      "Falsch: Wetter ist kein Verfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern fragen nach einem negativen Prüfungsergebnis, ob sich der Weg zur Schulbehörde überhaupt lohnt. Du grenzt die anfechtbaren Prüfungs- und Aufstiegsfälle von Alltagsärger ab.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Außerkrafttreten plus Bescheid sichern Rechtsschutz. Das Provisorium weicht, die Behörde ermittelt und entscheidet hoheitlich, bei Aufstieg und Externisten mit Besuchserlaubnis. Zum Nachlesen: SchUG §71 Abs.2a.",
+    "hauptquelle": "SchUG §71 Abs.2a",
+    "id": "A19-L2-007",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Provisoriale Entscheidung tritt mit Widerspruch außer Kraft",
+      "Schulbehörde leitet das Verwaltungsverfahren ein und entscheidet mit Bescheid",
+      "Bis zur Entscheidung im Aufstiegs- und Externistenfall Besuch der nächsten Stufe erlaubt",
+      "Provisorium bleibt trotz Widerspruch voll wirksam",
+      "Behörde darf gar nicht entscheiden",
+      "Schüler muss zu Hause bleiben trotz Besuchserlaubnis"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wirkung entfällt sofort.",
+      "Richtig: Bescheid ersetzt Provisorium.",
+      "Richtig: Besuch sichert kein verlorenes Jahr.",
+      "Falsch: Gegenteil ist angeordnet.",
+      "Falsch: Behörde ist zuständig.",
+      "Falsch: Besuch ist erlaubt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach Widerspruch gegen eine Nichtaufstiegsentscheidung herrscht Unsicherheit über die vorläufige Lage. Du erklärst Wirkung, Behördenweg und vorläufigen Schulbesuch.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Unterlagen oder Prüfung klären die Note. Behörde prüft behauptete Fehlbeurteilungen, bei Lücken folgt kommissionelle Prüfung auch ohne Erfolgsaussicht für die Endentscheidung. Zum Nachlesen: SchUG §71 Abs.4.",
+    "hauptquelle": "SchUG §71 Abs.4",
+    "id": "A19-L2-008",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Behördliche Überprüfung behaupteter falscher Nicht genügend-Beurteilungen",
+      "Unterbrechung und Zulassung zur kommissionellen Prüfung bei unzureichenden Unterlagen",
+      "Prüfung auch dann, wenn sie die Endentscheidung voraussichtlich nicht ändert",
+      "Ignorieren jeder Rüge ohne Prüfung",
+      "Prüfung nur bei Bestechung des Lehrers",
+      "Entscheidung per Münzwurf"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rüge löst Prüfungspflicht aus.",
+      "Richtig: Lücken führen zur Prüfung.",
+      "Richtig: Auch ergebnislose Prüfung findet statt.",
+      "Falsch: Ignorieren wäre pflichtwidrig.",
+      "Falsch: Jede qualifizierte Rüge zählt.",
+      "Falsch: Fachlich wird entschieden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Widerspruchsverfahren bestreitet eine Familie zwei Nicht genügend-Beurteilungen. Du legst dar, wann die Behörde nur Akten prüft und wann sie eine kommissionelle Prüfung ansetzen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Nachweis, Übergabe und Selbständigkeit bestimmen den Weg. Minderjährige über Eltern, Übergabe über Schüler mit Bestätigung, Selbständige direkt mit Elternwahlrecht. Zum Nachlesen: SchUG §72 Abs.2.",
+    "hauptquelle": "SchUG §72 Abs.2",
+    "id": "A19-L2-009",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Nachweisliche Zustellung an Schüler oder bei Minderjährigen grundsätzlich an Eltern",
+      "Zustellung an Eltern auch über den Schüler mit schriftlicher Empfangsbestätigung möglich",
+      "Bei selbständig Handlungsbefugten Zustellung direkt an sie, Eltern können Doppelzustellung verlangen",
+      "Zustellung nur durch Zuruf am Gang ohne Nachweis",
+      "Bestätigung grundsätzlich verweigern und trotzdem als zugestellt werten",
+      "Eltern nie informieren"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Adressat und Nachweis sind Grundregeln.",
+      "Richtig: Schulweg mit Bestätigung ist zulässig.",
+      "Richtig: Selbständigkeit verschiebt den Empfänger.",
+      "Falsch: Nachweis fehlt dann.",
+      "Falsch: Bestätigung sichert Nachweis.",
+      "Falsch: Elternrechte beachten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Dein Sekretariat fragt, an wen Entscheidungen zuzustellen sind und ob der Weg über die Schüler mit Bestätigung wirklich als Elternzustellung gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Portal, Konto und Hinweis tragen die digitale Post. Nicht nachweisliche Stücke über das Bildungsportal nach Kontaktivierung, Info per Hinterlegungsadresse, nachweisliche über Zustelldienst. Zum Nachlesen: SchUG §72a Abs.1.",
+    "hauptquelle": "SchUG §72a Abs.1",
+    "id": "A19-L2-010",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Elektronische nicht nachweisliche Zustellung über das Bildungsportal nach Kontaktivierung",
+      "Hinweis über hinterlegte E-Mail oder andere geeignete Technik, falsche Adresse schadet der Wirksamkeit nicht",
+      "Nachweisliche elektronische Zustellung nur über zugelassenen Zustelldienst",
+      "Urkundenprüfung per Code im Archiv und erneute Übermittlung eigener Urkunden",
+      "Zustellung ausschließlich per Fax ohne Alternative",
+      "Wirksamkeit hängt von der Richtigkeit der Hinterlegungsadresse ab"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Portalweg ist eröffnet.",
+      "Richtig: Hinweis plus Unschädlichkeit sichern Praxis.",
+      "Richtig: Nachweis braucht Dienstweg.",
+      "Richtig: Archiv sichert Echtheit.",
+      "Falsch: Faxzwang besteht nicht.",
+      "Falsch: Gegenteil ist geregelt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern wünschen digitale Post von der Schule. Du erklärst Voraussetzungen, Hinweiswege und den Unterschied zwischen einfacher und nachweislicher elektronischer Zustellung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Vier Wochen, Devolution und Hemmung sichern Tempo. Bei Säumnis mit Alleinverschulden geht es auf Verlangen zur Behörde, Ferien hemmen den Lauf. Zum Nachlesen: SchUG §73 Abs.1.",
+    "hauptquelle": "SchUG §73 Abs.1",
+    "id": "A19-L2-011",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Entscheidung über Ansuchen spätestens vier Wochen nach Einlangen",
+      "Bei Aufnahme spätestens zwei Wochen nach Vollständigkeit aller Voraussetzungen",
+      "Devolution auf Verlangen bei alleinigem Verschulden des Schulorgans",
+      "Hemmung der Fristen während der großen Ferienblöcke",
+      "Unbegrenztes Liegenlassen ohne Folgen",
+      "Hemmung nur an einem einzigen Schultag"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Regelfrist schützt Antragsteller.",
+      "Richtig: Aufnahme ist beschleunigt.",
+      "Richtig: Säumnis verlagert Zuständigkeit.",
+      "Richtig: Ferien stoppen den Lauf.",
+      "Falsch: Säumnis hat Folgen.",
+      "Falsch: Alle Blöcke sind erfasst."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Ansuchen liegt seit zwei Monaten unbearbeitet. Du prüfst Regelfrist, Sonderfrist für Aufnahme, Voraussetzungen der Devolution und die Ferienhemmung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Wochen statt Monate sichern das Aufstiegsjahr. Behörde binnen drei beziehungsweise zwei Wochen mit Bescheid, Beschwerde kurz, Gericht rasch, Besuchserlaubnis bis dahin. Zum Nachlesen: SchUG §73 Abs.4.",
+    "hauptquelle": "SchUG §73 Abs.4",
+    "id": "A19-L2-012",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Behördenentscheidung über Widersprüche im Aufstiegsfall binnen zwei Wochen mit Bescheid",
+      "Vorläufiger Besuch der nächsten Stufe bis zur Behördenentscheidung",
+      "Kurze Beschwerdefristen von grundsätzlich zwei Wochen, bei Wiederholungsprüfungen fünf Tagen",
+      "Rasche Gerichtsentscheidung binnen vier beziehungsweise drei Wochen mit Besuchserlaubnis",
+      "Verfahren ohne jede Frist über Jahre",
+      "Besuchsverbot trotz Erlaubnis"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eiltempo schützt das Schuljahr.",
+      "Richtig: Kein verlorenes Jahr im Schwebezustand.",
+      "Richtig: Kürze sichert Klärung.",
+      "Richtig: Auch Gerichte sind befristet.",
+      "Falsch: Fristen sind eng.",
+      "Falsch: Besuch ist erlaubt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach nicht bestandenen Wiederholungsprüfungen droht ein verlorenes Schuljahr. Du erklärst der Familie Eilfristen bei Behörde und Gericht sowie den vorläufigen Weiterbesuch.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Start, Ende und Post schützen die Frist. Tagesfristen ohne Starttag, Wochen- und Monatsfristen per Entsprechung, Stillstand an Wochenenden und Posttage herausgerechnet. Zum Nachlesen: SchUG §74 Abs.1.",
+    "hauptquelle": "SchUG §74 Abs.1",
+    "id": "A19-L2-013",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Starttag bei Tagesfristen nicht mitzählen",
+      "Wochen- und Monatsfristen enden am entsprechenden Wochentag oder Monatstag, sonst am Monatsletzten",
+      "Sonn- und Feiertage hindern Beginn und Lauf nicht, bei Endfall auf Wochenende oder Feiertag nächster Werktag",
+      "Postlauftage nicht einrechnen und Fristen grundsätzlich unabänderlich",
+      "Starttag immer doppelt zählen",
+      "Postlauf voll anrechnen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Start bleibt außen vor.",
+      "Richtig: Entsprechung sichert Berechenbarkeit.",
+      "Richtig: Kalender federt das Ende ab.",
+      "Richtig: Post und Starrheit schützen.",
+      "Falsch: Einfach zählt.",
+      "Falsch: Herausgerechnet wird."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Familie rechnet ihre Widerspruchsfrist falsch und zählt Start- und Posttage mit. Du zeigst die korrekte Berechnung von Beginn, Ende und Postlauf.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Elektronik braucht Anwesenheit und Protokoll. Gleichzeitige virtuelle Präsenz wie physisch, Beschluss mit Protokoll und Umlaufzeichnung sichern Gültigkeit. Zum Nachlesen: SchUG §70a Abs.2.",
+    "hauptquelle": "SchUG §70a Abs.2",
+    "id": "A19-L2-014",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Aussprachen, Ladungen, Konferenzen, Gremien und Zustellungen auch elektronisch möglich",
+      "Beschlussfähigkeit bei gleichzeitiger virtueller Anwesenheit der physisch nötigen Zahl",
+      "Beschlüsse in der E-Konferenz mit Protokoll und anschließender auch elektronischer Zeichnung im Umlauf",
+      "Beschlüsse ohne jede Anwesenheit per Einzelchat",
+      "Protokoll grundsätzlich verboten",
+      "Umlaufzeichnung ausnahmslos unzulässig"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Digital ist gleichwertig eröffnet.",
+      "Richtig: Präsenz bleibt Maßstab.",
+      "Richtig: Form sichert Nachweis.",
+      "Falsch: Anwesenheit bleibt nötig.",
+      "Falsch: Protokoll ist Pflicht.",
+      "Falsch: Umlauf ist erlaubt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Deine Konferenz soll als Videokonferenz mit Beschlussfassung stattfinden. Du klärst, unter welchen Bedingungen elektronische Sitzungen und Beschlüsse wirksam sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Kataloge begrenzen, Form sichert den Rest. Nur gelistete Fälle sind mit Widerspruch angreifbar, alles andere bleibt verwaltungsintern ohne Behördenzug. Zum Nachlesen: SchUG §71 Abs.9.",
+    "hauptquelle": "SchUG §71 Abs.9",
+    "id": "A19-L2-015",
+    "level": "L2",
+    "modul_id": "A19",
+    "optionen": [
+      "Widerspruch nur in den beiden Katalogen für Verfahren und für Prüfungs- und Aufstiegsfolgen",
+      "Außerhalb kein Widerspruch an die Schulbehörde zulässig",
+      "Alltägliche Organisationsmaßnahmen ohne Entscheidungscharakter bleiben widerspruchsfrei",
+      "Jede Unmutsäußerung als Widerspruch behandeln",
+      "Widerspruch gegen nicht existierende Entscheidungen erfinden",
+      "Fristlose Allzuständigkeit der Behörde annehmen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Katalog begrenzt den Zugang.",
+      "Richtig: Ausschluss sichert Klarheit.",
+      "Richtig: Alltag bleibt führbar.",
+      "Falsch: Entscheidung braucht es.",
+      "Falsch: Gegenstand braucht es.",
+      "Falsch: Zuständigkeit ist begrenzt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern wollen gegen jede Maßnahme von der Pauseneinteilung bis zur Sitzordnung Widerspruch erheben. Du grenzt die wirklich anfechtbaren Entscheidungen von bloßem Alltagsunmut ab.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

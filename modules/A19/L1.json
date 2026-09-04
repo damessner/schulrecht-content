@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "aufloesung": "Der Widerspruch ist zulässig. Gegen Entscheidungen wie die Aufnahme kann innerhalb von fünf Tagen schriftlich bei der Schule Widerspruch an die Schulbehörde erhoben werden. Zum Nachlesen: SchUG §71 Abs.1.",
+    "hauptquelle": "SchUG §71 Abs.1",
+    "id": "A19-L1-001",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Nein, gegen Schulentscheidungen gibt es kein Rechtsmittel.",
+      "Ja, schriftlich binnen fünf Tagen bei der Schule an die Schulbehörde.",
+      "Ja, aber nur mündlich am Gang.",
+      "Nein, nur Gerichte entscheiden von Anfang an."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Widerspruch ist ausdrücklich vorgesehen.",
+      "Richtig: Form, Frist und Weg sind genau geregelt.",
+      "Falsch: Mündlich genügt nicht.",
+      "Falsch: Zuerst entscheidet die Schulbehörde."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern eines Aufnahmsbewerbers in Graz erhalten eine ablehnende Aufnahmeentscheidung und fragen, ob und wie sie dagegen vorgehen können.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Nachricht per E-Mail genügt nicht. Der Widerspruch ist schriftlich in jeder technisch möglichen Form, jedoch nicht mit E-Mail einzubringen. Zum Nachlesen: SchUG §71 Abs.1.",
+    "hauptquelle": "SchUG §71 Abs.1",
+    "id": "A19-L1-002",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Ja, E-Mail ist ausdrücklich zugelassen.",
+      "Nein, E-Mail ist für den Widerspruch ausdrücklich ausgenommen.",
+      "Ja, aber nur nachts.",
+      "Nein, Widersprüche gibt es gar nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Gesetz nimmt E-Mail gerade aus.",
+      "Richtig: Jede andere technisch mögliche Schriftform, nur kein E-Mail.",
+      "Falsch: Auf die Uhrzeit kommt es nicht an.",
+      "Falsch: Der Widerspruch ist normiert."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vater in Linz will gegen eine Entscheidung über den Förderunterricht Widerspruch einlegen und fragt, ob eine einfache Nachricht per E-Mail ausreicht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die mündliche Verkündung startet die Frist. Bei mündlicher Verkündung läuft die Fünftagesfrist ab dieser, bei schriftlicher Ausfertigung erst ab Zustellung. Zum Nachlesen: SchUG §71 Abs.3.",
+    "hauptquelle": "SchUG §71 Abs.3",
+    "id": "A19-L1-003",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Ja, immer erst ab Zustellung per Post.",
+      "Nein, bei mündlicher Verkündung beginnt die Frist mit dieser.",
+      "Ja, aber erst nach einem Monat.",
+      "Nein, Fristen gibt es keine."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mündlich verkündet läuft sofort.",
+      "Richtig: Verkündung oder Zustellung bestimmen den Start.",
+      "Falsch: Ein Monat gilt nicht.",
+      "Falsch: Fünf Tage sind die Regel."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin in Wien erfährt ihre negative Prüfungsentscheidung mündlich in der Schule und will wissen, ab wann die fünftägige Widerspruchsfrist zu laufen beginnt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Entscheidung tritt außer Kraft. Mit Einbringen des Widerspruchs wird die provisoriale Entscheidung wirkungslos und die Schulbehörde führt ein Verwaltungsverfahren mit Bescheid durch. Zum Nachlesen: SchUG §71 Abs.2a.",
+    "hauptquelle": "SchUG §71 Abs.2a",
+    "id": "A19-L1-004",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Nein, alles bleibt wie es ist.",
+      "Ja, die provisoriale Entscheidung tritt außer Kraft und die Behörde entscheidet mit Bescheid.",
+      "Ja, aber nur wenn die Schule zustimmt.",
+      "Nein, der Widerspruch hat keine Wirkung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Gesetz ordnet Außerkrafttreten an.",
+      "Richtig: Provisorium weicht dem Behördenbescheid.",
+      "Falsch: Zustimmung ist nicht nötig.",
+      "Falsch: Die Wirkung ist ausdrücklich geregelt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Widerspruch gegen eine Nichtaufstiegsentscheidung fragt eine Familie in Klagenfurt, was mit der bisherigen schulischen Entscheidung passiert, solange die Behörde prüft.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Prüfung ist das vorgesehene Mittel. Reichen die Unterlagen zur Klärung der strittigen Beurteilung nicht aus, wird das Verfahren unterbrochen und zur kommissionellen Prüfung zugelassen. Zum Nachlesen: SchUG §71 Abs.4.",
+    "hauptquelle": "SchUG §71 Abs.4",
+    "id": "A19-L1-005",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Nein, behauptete Fehlbeurteilungen werden nie geprüft.",
+      "Ja, bei unzureichenden Unterlagen folgt Unterbrechung und kommissionelle Prüfung.",
+      "Ja, aber nur wenn der Lehrer zustimmt.",
+      "Nein, es entscheidet allein das Los."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Prüfungspflicht ist normiert.",
+      "Richtig: Unterlagen oder Prüfung klären die Frage.",
+      "Falsch: Zustimmung ist keine Bedingung.",
+      "Falsch: Fachlich wird geprüft."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern in Innsbruck behaupten, die Beurteilung mit Nicht genügend in Mathematik sei falsch, die Unterlagen allein geben aber kein klares Bild her.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Behörde und Vorsitz sichern Fairness. Die Prüfung findet unter Vorsitz einer Aufsichtsperson mit Fachprüfer und Beisitzer statt, bei Nichteinigung entscheidet der Vorsitz. Zum Nachlesen: SchUG §71 Abs.5.",
+    "hauptquelle": "SchUG §71 Abs.5",
+    "id": "A19-L1-006",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Ja, der bisherige Lehrer prüft allein ohne Vorsitz.",
+      "Nein, Vorsitz einer Aufsichtsperson plus Fachprüfer und Beisitzer, bei Patt entscheidet der Vorsitz.",
+      "Ja, Mitschüler prüfen den Kandidaten.",
+      "Nein, Prüfungen gibt es keine."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleinprüfung ist nicht vorgesehen.",
+      "Richtig: Dreierbesetzung plus Dirimierung sichern Objektivität.",
+      "Falsch: Mitschüler sind keine Prüfer.",
+      "Falsch: Die Prüfung ist genau geregelt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler in Salzburg wurde zur kommissionellen Prüfung im Widerspruchsverfahren zugelassen und fragt, wer ihn prüft und was bei Uneinigkeit der Prüfer gilt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Zustellung muss nachweislich erfolgen. Schriftliche Entscheidungen in diesen Verfahren sind den Schülern, bei Minderjährigen ohne Selbständigkeit den Eltern nachweislich zuzustellen. Zum Nachlesen: SchUG §72 Abs.1.",
+    "hauptquelle": "SchUG §72 Abs.1",
+    "id": "A19-L1-007",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Ja, ein Aushang am Gang genügt immer.",
+      "Nein, nachweisliche Zustellung an Schüler oder bei Minderjährigen an die Eltern ist nötig.",
+      "Ja, aber nur per Telefon.",
+      "Nein, zugestellt wird nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nachweis ist verlangt.",
+      "Richtig: Adressat und Nachweis sind geregelt.",
+      "Falsch: Telefon genügt nicht.",
+      "Falsch: Zustellung ist Pflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schule in St. Pölten will eine ablehnende Entscheidung über den Schulwechsel nur mündlich ausrichten und fragt, ob das für das Verfahren ausreicht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Weg ist zulässig. Die Aushändigung an den Schüler zur Weitergabe mit schriftlicher Empfangsbestätigung der Eltern gilt als Zustellung an die Eltern. Zum Nachlesen: SchUG §72 Abs.2.",
+    "hauptquelle": "SchUG §72 Abs.2",
+    "id": "A19-L1-008",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Nein, dieser Weg ist verboten.",
+      "Ja, Übergabe über den Schüler mit schriftlicher Empfangsbestätigung der Eltern ist zulässig.",
+      "Ja, aber ganz ohne Bestätigung.",
+      "Nein, nur der Postweg zählt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Schulweg ist vorgesehen.",
+      "Richtig: Übergabe plus Bestätigung sichern Nachweis.",
+      "Falsch: Bestätigung ist nötig.",
+      "Falsch: Auch dieser Weg ist zulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Mittelschule in Eisenstadt händigt eine Entscheidung dem Schüler zur Übergabe an die Mutter aus und lässt sich die Empfangnahme schriftlich bestätigen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Vier Wochen sind die Regel. Über Ansuchen ist spätestens vier Wochen nach Einlangen zu entscheiden, bei Aufnahme spätestens zwei Wochen nach Vorliegen aller Voraussetzungen. Zum Nachlesen: SchUG §73 Abs.1.",
+    "hauptquelle": "SchUG §73 Abs.1",
+    "id": "A19-L1-009",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Nein, Fristen gibt es keine.",
+      "Ja, spätestens vier Wochen nach Einlangen, bei Aufnahme zwei Wochen nach Vollständigkeit.",
+      "Ja, aber erst nach einem Jahr.",
+      "Nein, entschieden wird nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Entscheidungspflicht ist befristet.",
+      "Richtig: Zwei Fristen stehen nebeneinander.",
+      "Falsch: Ein Jahr wäre viel zu lang.",
+      "Falsch: Untätigkeit ist nicht erlaubt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Aufnahmsbewerber in Dornbirn wartet seit Wochen auf die Aufnahmeentscheidung und fragt, bis wann die Schule überhaupt entscheiden muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Zuständigkeit wandert. Auf schriftliches Verlangen bei der Behörde geht die Entscheidung auf diese über, wenn die Verzögerung allein der Schule anzulasten ist. Zum Nachlesen: SchUG §73 Abs.1.",
+    "hauptquelle": "SchUG §73 Abs.1",
+    "id": "A19-L1-010",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Nein, man muss ewig warten.",
+      "Ja, Devolution an die Schulbehörde auf schriftliches Verlangen bei alleinigem Schulverschulden.",
+      "Ja, aber nur telefonisch.",
+      "Nein, zuständig bleibt immer die Schule."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schutz vor Untätigkeit ist vorgesehen.",
+      "Richtig: Verlangen plus Verschulden lösen den Übergang aus.",
+      "Falsch: Schriftlich bei der Behörde ist nötig.",
+      "Falsch: Die Behörde übernimmt dann."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schule in Wels entscheidet monatelang nicht über ein Ansuchen um Befreiung von einem Pflichtgegenstand, die Familie will die Entscheidung an die Behörde ziehen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Ferien hemmen die Frist. Für Haupt-, Weihnachts-, Semester-, Oster- und Pfingstferien steht der Fristenlauf still. Zum Nachlesen: SchUG §73 Abs.2.",
+    "hauptquelle": "SchUG §73 Abs.2",
+    "id": "A19-L1-011",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Nein, Ferien spielen keine Rolle.",
+      "Ja, für die genannten Ferien ist der Fristenlauf gehemmt.",
+      "Ja, aber nur für einen einzelnen Fenstertag.",
+      "Nein, Fristen laufen immer weiter."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Hemmung ist ausdrücklich angeordnet.",
+      "Richtig: Alle großen Ferienblöcke sind erfasst.",
+      "Falsch: Einzelne Tage genügen nicht.",
+      "Falsch: Stillstand ist die Regel."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Entscheidungsfrist läuft in die Weihnachtsferien hinein und Eltern in Wien fragen, ob die Ferienzeit den Fristenlauf anhält.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Samstag verlängert. Fällt das Fristende auf Samstag, Sonntag oder Feiertag, ist der nächste Werktag der letzte Tag. Zum Nachlesen: SchUG §74 Abs.4.",
+    "hauptquelle": "SchUG §74 Abs.4",
+    "id": "A19-L1-012",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Ja, am Samstag um Mitternacht ist endgültig Schluss.",
+      "Nein, bei Fristende an Samstag, Sonntag oder Feiertag zählt der nächste Werktag.",
+      "Ja, aber nur bei gutem Wetter.",
+      "Nein, Wochenenden gibt es nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Wochenende verlängert.",
+      "Richtig: Nächster Werktag sichert die Frist.",
+      "Falsch: Wetter spielt keine Rolle.",
+      "Falsch: Kalender gilt auch hier."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Widerspruchsfrist einer Familie in Villach würde an einem Samstag enden und sie fragen, ob sie noch am Montag einbringen können.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Postweg zählt nicht mit. Die Tage des Postlaufes werden in die Frist nicht eingerechnet. Zum Nachlesen: SchUG §74 Abs.5.",
+    "hauptquelle": "SchUG §74 Abs.5",
+    "id": "A19-L1-013",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Ja, Postlauf geht zulasten des Absenders.",
+      "Nein, Postlaufzeiten werden in die Frist nicht eingerechnet.",
+      "Ja, aber nur bei Eilbriefen.",
+      "Nein, Fristen sind egal."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Lauf schadet nicht.",
+      "Richtig: Posttage bleiben außer Betracht.",
+      "Falsch: Die Versandart spielt keine Rolle.",
+      "Falsch: Fristen bleiben wichtig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Widerspruch aus Bregenz ist rechtzeitig aufgegeben, aber wegen langsamer Post erst später bei der Schule, die Familie sorgt sich um die Frist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Andere Entscheidungen sind ausgenommen. Gegen Entscheidungen außerhalb der beiden Widerspruchskataloge ist kein Widerspruch an die Schulbehörde zulässig. Zum Nachlesen: SchUG §71 Abs.9.",
+    "hauptquelle": "SchUG §71 Abs.9",
+    "id": "A19-L1-014",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Ja, gegen jede Kleinigkeit gibt es Widerspruch.",
+      "Nein, außerhalb der beiden Kataloge ist kein Widerspruch zulässig.",
+      "Ja, aber nur mit Anwaltszwang.",
+      "Nein, Widersprüche sind abgeschafft."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Katalog ist abschließend.",
+      "Richtig: Nur gelistete Fälle sind anfechtbar.",
+      "Falsch: Anwaltszwang besteht nicht.",
+      "Falsch: Der Widerspruch besteht fort."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern in Klagenfurt wollen gegen eine reine Organisationsmaßnahme ohne Entscheidungscharakter Widerspruch erheben, die nicht zu den anfechtbaren Fällen gehört.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Ausfertigung muss vollständig sein. Schule, Organ, Inhalt mit Gesetzesstellen, Begründung bei Abweichung, Datum, Unterschrift und Rechtsbelehrung bei Teilabweisung gehören dazu. Zum Nachlesen: SchUG §70 Abs.4.",
+    "hauptquelle": "SchUG §70 Abs.4",
+    "id": "A19-L1-015",
+    "level": "L1",
+    "modul_id": "A19",
+    "optionen": [
+      "Ja, ein formloser Zettel ohne alles genügt.",
+      "Nein, Bezeichnung, Inhalt mit Stellen, Begründung, Datum, Unterschrift und Belehrung sind nötig.",
+      "Ja, aber nur mit Stempel ohne Text.",
+      "Nein, Schriftlichkeit ist verboten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mindestinhalte sind vorgeschrieben.",
+      "Richtig: Sechs Bausteine sichern Nachvollzug.",
+      "Falsch: Stempel allein genügt nicht.",
+      "Falsch: Schriftlichkeit ist der Standard."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schule in Linz stellt eine ablehnende Entscheidung nur als kurzen Zettel ohne Begründung und ohne Hinweis auf den Widerspruch aus und die Familie rügt die Form.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
