@@ -1,1 +1,279 @@
-[]
+[
+  {
+    "aufloesung": "Paul braucht die Nachtragsprüfung und keine Wiederholungsprüfung. Fehlende Beurteilung wegen Versäumnis wird auf Verlangen nachgeholt, und nach einer solchen Prüfung ist der normale Herbstweg versperrt. Mit der neuen Note wird dann Aufstieg oder Wiederholen neu beurteilt. Zum Nachlesen: SchUG §20 Abs.3",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "id": "A14-L4-001",
+    "level": "L4",
+    "modul_id": "A14",
+    "optionen": [
+      "Ja, er tritt im Herbst normal zur Wiederholungsprüfung in Physik an wie bei einem Minus.",
+      "Nein, der Weg ist die Nachtragsprüfung auf Verlangen in Physik, danach gibt es in diesem Fach keine Wiederholungsprüfung mehr.",
+      "Ja, die fehlende Note verfällt über den Sommer automatisch zu einem Befriedigend.",
+      "Nein, er muss die Stufe fix wiederholen und darf keine Prüfung mehr machen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Wiederholungsprüfung setzt eine negative Note voraus, nicht ein Fehlen.",
+      "Richtig: Nachtrag holt die versäumte Beurteilung nach und sperrt danach die Wiederholung.",
+      "Falsch: Automatisch bessert sich keine fehlende Beurteilung auf.",
+      "Falsch: Wiederholen ist nicht zwingend, der Nachtrag bleibt der erste Weg."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Paul war im zweiten Halbjahr monatelang krank und hat deshalb in Physik keine Jahresnote erhalten, alle anderen Pflichtgegenstände sind positiv beurteilt. Er meldet sich für den Herbst und fragt, ob er einfach zur Wiederholungsprüfung in Physik antreten kann. Die Schule überlegt zusätzlich, was nach dieser Prüfung noch möglich wäre.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §23 Abs.1d",
+      "SchUG §20 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Lena holt das Semester per Semesterprüfung auf und sichert damit den Aufstieg. Die Prüfung deckt den Stoff des betroffenen Semesters ab und ersetzt bei Erfolg dessen Beurteilung für die Aufstiegsfrage. Ohne sie bliebe das Minus für den Abschluss bestehen. Zum Nachlesen: SchUG §23a Abs.2",
+    "hauptquelle": "SchUG §23a Abs.2",
+    "id": "A14-L4-002",
+    "level": "L4",
+    "modul_id": "A14",
+    "optionen": [
+      "Ja, sie darf auf Verlangen die Semesterprüfung im negativen Semesterfach ablegen und bei Erfolg gilt das Semester als positiv für den Aufstieg.",
+      "Nein, ein negatives Semester ist endgültig und kann nie mehr ausgebessert werden.",
+      "Ja, sie steigt automatisch auf, weil das zweite Semester die erste Note löscht.",
+      "Nein, sie muss die ganze Stufe wiederholen und darf keine Teilprüfung machen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Semesterprüfung ist genau der Aufholweg für das betroffene Semester.",
+      "Falsch: Endgültig ist das Minus erst ohne Nutzung des Prüfungswegs.",
+      "Falsch: Automatisch verrechnet sich nichts, es braucht die Prüfung.",
+      "Falsch: Wiederholen ist nicht zwingend vor der Semesterprüfung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Lena besucht eine semestergegliederte höhere Schule und schließt das Wintersemester in Rechnungswesen negativ ab, das Sommersemester ist positiv und sonst ist alles positiv. Sie fragt vor den Ferien, ob sie das negative Semester noch ausbessern kann, um regulär aufzusteigen, oder ob sie fix wiederholen muss.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §25 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Sara braucht die Feststellungsprüfung als Externistin über den fehlenden Abschluss. Die Prüfung stellt die Gleichwertigkeit fest und ersetzt bei Erfolg das Zeugnis für Aufnahme und Aufstieg in die angestrebte Stufe. Ohne sie fehlt die Zugangsberechtigung. Zum Nachlesen: SchUG §23b Abs.1",
+    "hauptquelle": "SchUG §23b Abs.1",
+    "id": "A14-L4-003",
+    "level": "L4",
+    "modul_id": "A14",
+    "optionen": [
+      "Ja, sie darf auf Verlangen zur Feststellungsprüfung über die achte Stufe antreten und bei Erfolg in die angestrebte Stufe aufgenommen werden.",
+      "Nein, ohne reguläres Zeugnis ist jede Aufnahme für immer ausgeschlossen.",
+      "Ja, ein Aufnahmevertrag allein ersetzt die Feststellung und sichert den Platz.",
+      "Nein, sie muss zuerst zwei Jahre warten, bevor sie überhaupt prüfen darf."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Feststellung ersetzt das fehlende Zeugnis für die Berechtigung.",
+      "Falsch: Genau dafür gibt es den Externistenweg mit Prüfung.",
+      "Falsch: Ein Vertrag heilt fehlende schulrechtliche Voraussetzungen nicht.",
+      "Falsch: Eine Wartepflicht als Voraussetzung gibt es nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Sara, 15 Jahre, wurde jahrelang zu Hause unterrichtet und hat kein gültiges Abschlusszeugnis der achten Stufe. Sie will im Herbst in die erste Stufe einer höheren Schule aufgenommen werden und fragt, ob sie ihre Kenntnisse über eine Prüfung feststellen lassen kann oder ob ein unterschriebener Aufnahmevertrag genügt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §5 Abs.2",
+      "SchUG §3 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Mia bekommt bei anerkannter Verhinderung einen Ersatztermin, die Form muss aber vollständig bleiben. Alleinprüfung ohne Beisitz und ohne Protokoll macht das Ergebnis anfechtbar, Zeitdruck heilt den Formfehler nicht. Alles ist schriftlich zu dokumentieren. Zum Nachlesen: SchUG §20 Abs.4",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "id": "A14-L4-004",
+    "level": "L4",
+    "modul_id": "A14",
+    "optionen": [
+      "Ja, bei glaubhaft belegter Verhinderung gibt es einen Ersatztermin, geprüft wird aber zu zweit mit Protokoll.",
+      "Nein, sie ist sofort ohne Prüfung als nicht bestanden zu werten und wird heimgeschickt.",
+      "Ja, die Direktorin darf sie allein ohne Beisitz und ohne Aufzeichnung prüfen, um Zeit zu sparen.",
+      "Ja, ein Foto und das Vorbringen werden ignoriert und die Verspätung automatisch als Schummeln gewertet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ersatztermin bei Anerkennung plus volle Form mit Protokoll ist der saubere Weg.",
+      "Falsch: Automatisches Nicht-bestanden ohne Prüfung der Gründe ist falsch.",
+      "Falsch: Allein ohne Beisitz und Akte wird das Ergebnis anfechtbar.",
+      "Falsch: Beweismittel gehören in den Akt und zur Entscheidung der Kommission."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Mia kommt zur Herbstprüfung in Deutsch zwanzig Minuten zu spät, weil der Bus ausgefallen ist. Sie hat kein ärztliches Attest, aber ein Foto vom Ersatzfahrplan und eine glaubhafte Schilderung. Der Prüfer will sie wegschicken und als negativ werten, die Direktorin will sie sofort allein ohne zweite Lehrkraft prüfen, um Zeit zu sparen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §23 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Der Nachtrag ist der Sonderweg für das Fehlen und folgt festen Regeln. Nur versäumte Beurteilung ohne eigenes Verschulden mit Verlangen löst ihn aus, Termin und Form sind vorgegeben und danach ist die Wiederholung versperrt. Wunschtermine und formlose Prüfungen sind Fehler. Zum Nachlesen: SchUG §20 Abs.3",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "id": "A14-L4-005",
+    "level": "L4",
+    "modul_id": "A14",
+    "optionen": [
+      "Voraussetzung ist eine fehlende Jahresbeurteilung wegen versäumten Unterrichts mit rechtzeitigem Verlangen.",
+      "Termin und Stoff sind vorgegeben, geprüft wird der Jahresstoff des Fachs zu zweit mit Aufzeichnung.",
+      "Nach einer Nachtragsprüfung ist in diesem Fach keine Wiederholungsprüfung mehr zulässig.",
+      "Jedes Nicht genügend darf frei als Nachtragsprüfung neu geprüft werden.",
+      "Die Familie darf den Termin frei wählen, etwa erst zu Weihnachten.",
+      "Eine Prüfung ohne Beisitz und ohne Protokoll ist ordnungsgemäß, wenn es schnell gehen muss."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur das unverschuldete Fehlen mit Verlangen öffnet diesen Sonderweg.",
+      "Richtig: Feste Prüfung mit Jahresstoff, Zweierteam und Akte sichert die Form.",
+      "Richtig: Der Nachtrag schließt die spätere Wiederholung im selben Fach aus.",
+      "Falsch: Negative Noten gehören zur Wiederholung, nicht zum Nachtrag.",
+      "Falsch: Wunschtermine gibt es nicht, die Ordnung legt die Fenster fest.",
+      "Falsch: Zeitdruck rechtfertigt keinen Formfehler ohne Protokoll."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Nach vielen Krankheitsfällen im zweiten Halbjahr liegen drei Anträge auf Nachtragsprüfungen vor, zugleich wollen Eltern negative Noten als Nachtrag neu prüfen, Wunschtermine im Winter und Schnellprüfungen ohne Protokoll. Du sollst dem Kollegium die korrekten Bausteine der Nachtragsprüfung sortieren. Wähle alles, was zutrifft.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §20 Abs.4",
+      "SchUG §23 Abs.1d",
+      "SchUG §23 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Tim nutzt die Semesterprüfung gezielt für den Aufstieg und kombiniert sie richtig mit der Klausel. Jedes Semester wird getrennt betrachtet, die bestandene Prüfung heilt dessen Minus und das Rest-Minus läuft über die Konferenzklausel. Automatismus und Beliebigkeit sind ausgeschlossen. Zum Nachlesen: SchUG §23a Abs.3",
+    "hauptquelle": "SchUG §23a Abs.3",
+    "id": "A14-L4-006",
+    "level": "L4",
+    "modul_id": "A14",
+    "optionen": [
+      "Die Semesterprüfung wird auf Verlangen über den Stoff des betroffenen Semesters abgelegt.",
+      "Bei Erfolg gilt das geprüfte Semesterfach für die Aufstiegsbeurteilung als positiv.",
+      "Bleibt danach nur ein negatives Pflichtfach mit erfüllten Klauselvoraussetzungen, kann die Konferenz den Aufstieg beschließen.",
+      "Ein gutes zweites Semester löscht automatisch jedes negative erste Semester ohne Prüfung.",
+      "Die Semesterprüfung darf beliebig oft im gleichen Semester wiederholt werden.",
+      "Eine Klausel ist nach Semesterprüfungen grundsätzlich ausgeschlossen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Geprüft wird genau das offene Semester, nicht das ganze Jahr.",
+      "Richtig: Der Erfolg trägt die Aufstiegsfrage für dieses Semester.",
+      "Richtig: Rest-Minus plus Klauselbeschluss ergeben den kombinierten Aufstiegsweg.",
+      "Falsch: Ohne Prüfung verrechnet sich kein Semester automatisch.",
+      "Falsch: Wiederholungen folgen den eigenen Prüfungsregeln, nicht beliebig.",
+      "Falsch: Klausel und Semesterprüfung lassen sich bei Rest-Minus kombinieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Tim hat in einer semestergegliederten Schule zwei offene Baustellen: ein negatives Wintersemester in Englisch und ein negatives Sommersemester in Mathematik, sonst ist alles positiv. Im Vorjahr war er in beiden Fächern positiv und beide laufen weiter. Wähle alles, was für Semesterprüfung und Aufstieg zutrifft.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §25 Abs.2",
+      "SchUG §23a Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Feststellung öffnet Aufnahme und Wechsel, wenn Zeugnis oder Einstufung fehlen. Geprüft wird gezielt über die fehlende Stufe oder das neue Fach, bei Erfolg gilt die Berechtigung als erbracht. Verfahren mit Antrag, Kommission und Protokoll sichern die Entscheidung ab. Zum Nachlesen: SchUG §23b Abs.2",
+    "hauptquelle": "SchUG §23b Abs.2",
+    "id": "A14-L4-007",
+    "level": "L4",
+    "modul_id": "A14",
+    "optionen": [
+      "Die Feststellungsprüfung stellt auf Verlangen Kenntnisse ohne vorliegendes Zeugnis für Aufnahme oder Übertritt fest.",
+      "Bei Schulwechsel in eine Stufe mit neuem Pflichtfach kann die Feststellung die fehlenden Vorkenntnisse mit Nachholfrist regeln.",
+      "Geprüft wird durch eine Kommission mit Protokoll auf Basis eines Antrags, das Ergebnis wird schriftlich festgehalten.",
+      "Ein unterschriebener Privatschulvertrag ersetzt die Feststellung und sichert die Aufnahme allein.",
+      "Die Feststellung gelingt automatisch per Anmeldung ganz ohne Prüfung.",
+      "Nach Feststellung braucht es keine Dokumentation, eine mündliche Zusage genügt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau das Fehlen des Nachweises ist der Anlass dieser Prüfung.",
+      "Richtig: Neue Fächer werden gezielt festgestellt und notfalls mit Frist nachgeholt.",
+      "Richtig: Antrag, Kommission und Akte machen das Ergebnis haltbar.",
+      "Falsch: Ein Vertrag heilt fehlende schulrechtliche Voraussetzungen nicht.",
+      "Falsch: Ohne bestandene Prüfung ändert sich an der Berechtigung nichts.",
+      "Falsch: Ohne Akte ist die Entscheidung nicht nachvollziehbar."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Fälle liegen am Tisch: ein Externist ohne Zeugnis will in die höhere Schule, eine Wechslerin braucht ein neues Pflichtfach, das sie nie hatte, und eine Privatschülerin ohne berechtigendes Zeugnis legt nur einen unterschriebenen Vertrag vor. Wähle alles, was für die korrekte Feststellungsprüfung gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §3 Abs.6",
+      "SchUG §29 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, nach dem Nachtrag ist die Wiederholung in diesem Fach versperrt. Der Nachtrag holt die versäumte Beurteilung nach, danach gelten nur noch dessen Ergebnis und die Aufstiegsregeln. Ein doppelter Prüfungsweg ist ausgeschlossen. Zum Nachlesen: SchUG §23 Abs.1d",
+    "hauptquelle": "SchUG §23 Abs.1d",
+    "id": "A14-L4-008",
+    "level": "L4",
+    "modul_id": "A14",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Nachtrag und Wiederholung sind kein stapelbarer Doppelweg.",
+      "Richtig erkannt: Nach dem Nachtrag trägt dessen Ergebnis, keine Zusatzwiederholung folgt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer im September: Eine Kollegin behauptet, nach einer nicht bestandenen Nachtragsprüfung dürfe man im Herbst desselben Jahres ganz normal zur Wiederholungsprüfung im selben Fach antreten.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "SchUG §20 Abs.3"
+    ]
+  }
+]
