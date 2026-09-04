@@ -1,1 +1,547 @@
-[]
+[
+  {
+    "id": "A05-L2-001",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "In der dritten Klasse müssen Schüler zwischen zwei Wahlpflichtangeboten wählen, Eltern sind unsicher über Verbindlichkeit. Du berätst als Klassenvorstand. Was gilt?",
+    "optionen": [
+      "Wahlpflichtgegenstände sind nach Wahl verbindlich zu besuchen.",
+      "Wahl muss fristgerecht und in vorgesehener Form erklärt werden.",
+      "Beratung über Inhalte und Folgen der Wahl anbieten.",
+      "Wahlpflicht beliebig wöchentlich wechseln ohne Meldung.",
+      "Anmeldung nur mündlich am Gang als ausreichend werten.",
+      "Leistung in Wahlpflicht bleibt für Zeugnis bedeutungslos."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gewählt heißt Pflicht für die festgelegte Zeit.",
+      "Richtig: Frist und Form sichern Planbarkeit.",
+      "Richtig: Beratung verhindert Fehlwahlen.",
+      "Falsch: Beliebiger Wechsel sprengt Gruppen und Pläne.",
+      "Falsch: Formlose Zuruf-Anmeldung genügt nicht.",
+      "Falsch: Leistungen zählen wie in Pflichtgegenständen."
+    ],
+    "aufloesung": "Fristgerecht wählen, dann verbindlich besuchen, Beratung nutzen. Wechsel nur geregelt. Zum Nachlesen: SchUG §12 Abs.1.",
+    "hauptquelle": "SchUG §12 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-002",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Eine Schülerin will nach einem Semester das Wahlpflichtfach wechseln, weil sie sich etwas anderes vorgestellt hat. Die Gruppe ist voll. Wie entscheidest du?",
+    "optionen": [
+      "Prüfen ob ein Wechsel zum vorgesehenen Zeitpunkt zulässig ist.",
+      "Kapazität der aufnehmenden Gruppe und Stundenplan prüfen.",
+      "Wechsel mit Begründung schriftlich festhalten.",
+      "Jederzeit ohne Prüfung mitten im Stoff wechseln lassen.",
+      "Aufnehmende Gruppe trotz Überfüllung sprengen.",
+      "Wechsel nur nach Notenhöhe erlauben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeitpunkte für Wechsel sind geregelt.",
+      "Richtig: Kapazität begrenzt die Freiheit.",
+      "Richtig: Schriftlichkeit schafft Klarheit für alle.",
+      "Falsch: Mitten drin ohne Regel geht nicht.",
+      "Falsch: Überfüllung schadet allen.",
+      "Falsch: Noten sind kein Wechselkriterium."
+    ],
+    "aufloesung": "Zeitpunkt und Platz prüfen, Wechsel dokumentieren. Kein Anspruch gegen Kapazität. Zum Nachlesen: SchUG §12 Abs.2.",
+    "hauptquelle": "SchUG §12 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-003",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für Italienisch als Freigegenstand melden sich nur sechs Schüler an. Du prüfst ob der Kurs zustande kommt. Was gilt für Freigegenstände?",
+    "optionen": [
+      "Freigegenstände setzen eine Anmeldung voraus.",
+      "Zustandekommen hängt von Mindestzahl und Ressourcen ab.",
+      "Bei zu wenigen Anmeldungen Kurs begründet nicht eröffnen.",
+      "Kurs ohne jede Anmeldung zwangsweise für alle einführen.",
+      "Mindestzahlen ignorieren und immer eröffnen.",
+      "Anmeldungen nach Lust und Laune ignorieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Anmeldung kein Freigegenstand.",
+      "Richtig: Zahlen und Ressourcen entscheiden mit.",
+      "Richtig: Absage bei zu wenig Interesse ist sachlich.",
+      "Falsch: Zwang widerspricht dem Wesen des Freigegenstands.",
+      "Falsch: Rahmen bleibt zu beachten.",
+      "Falsch: Anmeldungen sind verbindliche Grundlage."
+    ],
+    "aufloesung": "Anmeldung sammeln, Mindestzahl und Ressourcen prüfen, begründet entscheiden. Kein Zwang. Zum Nachlesen: SchUG §12 Abs.3.",
+    "hauptquelle": "SchUG §12 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-004",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler will aus dem Freigegenstand Chor mitten im Semester aussteigen, weil Training kollidiert. Der Leiter will ihn halten. Was erklärst du beiden?",
+    "optionen": [
+      "Abmeldung ist nur zu geregelten Zeitpunkten möglich.",
+      "Bis zum Wirksamwerden bleibt Teilnahme verpflichtend.",
+      "Abmeldung in vorgesehener Form an die Schule richten.",
+      "Einfach fernbleiben ohne Meldung genügt.",
+      "Leiter darf Austritt dauerhaft willkürlich verweigern.",
+      "Regeln gelten nur für manche Schüler."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeitpunkte schützen Planung und Gruppe.",
+      "Richtig: Bis dahin bleibt Anwesenheitspflicht.",
+      "Richtig: Form wahrt Nachweis.",
+      "Falsch: Schwänzen ist keine Abmeldung.",
+      "Falsch: Willkür ist unzulässig, Regeln gelten.",
+      "Falsch: Gleiche Regeln für alle."
+    ],
+    "aufloesung": "Zu den Zeitpunkten und in Form abmelden, bis dahin teilnehmen. Schwänzen ersetzt nichts. Zum Nachlesen: SchUG §12 Abs.4.",
+    "hauptquelle": "SchUG §12 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-005",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Mehrere Kinder haben Lücken in Deutsch und Mathematik, du willst Förderunterricht einrichten. Kollegium fragt nach Voraussetzungen. Was prüfst du?",
+    "optionen": [
+      "Ob ein Förderbedarf bei den Schülern tatsächlich besteht.",
+      "Ob die organisatorischen und personellen Ressourcen reichen.",
+      "Ob die Einrichtung im Rahmen der Vorschriften erfolgt.",
+      "Förderunterricht für alle Schüler pauschal verordnen.",
+      "Ohne Bedarf Gruppen bilden um Stunden zu füllen.",
+      "Förderung ohne Absprache mit Klassenlehrkräften starten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bedarf ist Ausgangspunkt jeder Förderung.",
+      "Richtig: Ressourcen begrenzen das Angebot.",
+      "Richtig: Rahmen einhalten sichert Finanzierung.",
+      "Falsch: Pauschal ohne Bedarf geht nicht.",
+      "Falsch: Stundenfüllerei ist sachwidrig.",
+      "Falsch: Abstimmung mit Klasse ist Pflicht."
+    ],
+    "aufloesung": "Bedarf feststellen, Ressourcen klären, abgestimmt einrichten. Kein Gießkannenprinzip. Zum Nachlesen: SchUG §12 Abs.7.",
+    "hauptquelle": "SchUG §12 Abs.7",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-006",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Eine Mutter lehnt den empfohlenen Förderunterricht für ihren Sohn ab, obwohl die Leistungen abrutschen. Die Klassenlehrerin fragt nach Pflicht. Was gilt?",
+    "optionen": [
+      "Förderunterricht kann bei Bedarf verbindlich vorgesehen werden.",
+      "Erziehungsberechtigte über Gründe und Ziele der Förderung informieren.",
+      "Bei Verweigerung Folgen für Leistungsbeurteilung sachlich erklären.",
+      "Empfehlung ohne Gespräch einfach in den Akt legen.",
+      "Kind gegen jede Regel zum Bleiben zwingen ohne Grundlage.",
+      "Förderung als Strafe für schlechte Noten darstellen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verbindlichkeit schützt das Kind vor Lücken.",
+      "Richtig: Info schafft Mitwirkung der Eltern.",
+      "Richtig: Sachliche Folgenaufklärung ist fair.",
+      "Falsch: Ohne Gespräch keine Akzeptanz.",
+      "Falsch: Zwang braucht Grundlage.",
+      "Falsch: Förderung ist Hilfe, keine Strafe."
+    ],
+    "aufloesung": "Bedarf feststellen, Eltern informieren, Verbindlichkeit klarmachen. Förderung als Hilfe vermitteln. Zum Nachlesen: SchUG §12 Abs.7.",
+    "hauptquelle": "SchUG §12 Abs.7",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-007",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du planst unverbindliche Übungen am Nachmittag: Schach, Volleyball, Darstellendes Spiel. Anmeldungen schwanken stark. Wie organisierst du korrekt?",
+    "optionen": [
+      "Angebot nach Interesse und verfügbaren Lehrkräften festlegen.",
+      "Anmeldungen vorab einsammeln und Gruppen danach bilden.",
+      "Teilnehmer über Verbindlichkeit nach Anmeldung informieren.",
+      "Alle Übungen gleichzeitig in denselben Saal legen.",
+      "Ohne Anmeldung ins Blaue planen.",
+      "Nach Anmeldung Beliebigkeit ohne Regeln versprechen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Interesse plus Ressourcen steuern das Angebot.",
+      "Richtig: Anmeldestand entscheidet über Gruppen.",
+      "Richtig: Klarheit über Verbindlichkeit verhindert Schwänzen.",
+      "Falsch: Doppelbelegung sprengt Räume.",
+      "Falsch: Planung braucht Zahlen.",
+      "Falsch: Beliebigkeit zerstört Verlässlichkeit."
+    ],
+    "aufloesung": "Interesse erheben, Gruppen nach Ressourcen bilden, Verbindlichkeit klarstellen. Räume abstimmen. Zum Nachlesen: SchUG §12 Abs.5.",
+    "hauptquelle": "SchUG §12 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-008",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Schüler fragen ob Freigegenstände am Zeugnis aufscheinen und für Aufstieg zählen. Du informierst die Klasse. Was stimmt?",
+    "optionen": [
+      "Teilnahme an Freigegenständen im Zeugnis ausweisen.",
+      "Beurteilung nach den allgemeinen Beurteilungsgrundsätzen vornehmen.",
+      "Für Aufstieg zählen grundsätzlich die Pflichtgegenstände.",
+      "Freigegenstände frei erfinden und ohne Maßstab beurteilen.",
+      "Teilnahme verschweigen und nirgends vermerken.",
+      "Negative Note im Freigegenstand automatisch als Aufstiegshürde werten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Leistung sichtbar machen motiviert.",
+      "Richtig: Gleiche Maßstäbe sichern Fairness.",
+      "Richtig: Aufstieg hängt an den Pflichtfächern.",
+      "Falsch: Ohne Maßstab keine faire Note.",
+      "Falsch: Verschweigen entwertet die Leistung.",
+      "Falsch: Automatik gibt es hier nicht."
+    ],
+    "aufloesung": "Ausweisen und fair beurteilen, Aufstieg nach Pflichtfächern. Keine Automatik aus Freifächern. Zum Nachlesen: SchUG §12 Abs.3.",
+    "hauptquelle": "SchUG §12 Abs.3",
+    "zusatzquellen": [
+      "SchUG §20"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-009",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Ein Legastheniker soll gezielte Förderung in Kleingruppe erhalten, parallel läuft der Regelunterricht. Eltern sorgen sich um Versäumtes. Wie löst du das?",
+    "optionen": [
+      "Förderzeiten möglichst ohne Kollision mit Kernunterricht legen.",
+      "Förderlehrkraft und Klassenlehrkraft stimmen Inhalte ab.",
+      "Eltern über Ziele, Dauer und Erfolgskontrolle informieren.",
+      "Förderung kommentarlos in Kernfächer legen ohne Abstimmung.",
+      "Versäumten Stoff einfach unter den Tisch fallen lassen.",
+      "Fördergruppe ohne Ziel und Dauer laufen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kollisionen vermeiden schützt den Anschluss.",
+      "Richtig: Abstimmung macht Förderung wirksam.",
+      "Richtig: Transparenz sichert häusliche Unterstützung.",
+      "Falsch: Kommentarloses Herausnehmen schadet.",
+      "Falsch: Anschluss sichern ist Pflicht.",
+      "Falsch: Ohne Ziel keine sinnvolle Förderung."
+    ],
+    "aufloesung": "Schonend terminieren, Inhalte abstimmen, Eltern einbinden. Anschluss sichern. Zum Nachlesen: SchUG §12 Abs.7.",
+    "hauptquelle": "SchUG §12 Abs.7",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-010",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Für die Oberstufe bietet die Schule Italienisch und Informatik als Wahlpflicht an, ein Kurs droht wegen Abmeldungen zu kippen. Was beachtest du?",
+    "optionen": [
+      "Mindestteilnehmerzahl für die Weiterführung im Blick behalten.",
+      "Betroffene Schüler rechtzeitig über drohenden Entfall informieren.",
+      "Zumutbare Alternativen innerhalb des Angebots anbieten.",
+      "Kurs mit zwei Schülern ohne Prüfung ewig weiterführen.",
+      "Schüler ohne Info vor vollendete Tatsachen stellen.",
+      "Ersatzlose Streichung ohne Dokumentation vornehmen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mindestzahlen sichern sinnvolle Gruppen.",
+      "Richtig: Frühe Info ermöglicht Umwahl.",
+      "Richtig: Alternativen federn Härten ab.",
+      "Falsch: Zwerggruppen binden Ressourcen sachwidrig.",
+      "Falsch: Überraschungen zerstören Vertrauen.",
+      "Falsch: Entscheidungen gehören in die Akte."
+    ],
+    "aufloesung": "Zahlen prüfen, rechtzeitig informieren, Alternativen anbieten. Alles dokumentieren. Zum Nachlesen: SchUG §12 Abs.2.",
+    "hauptquelle": "SchUG §12 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-011",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Freigegenstand überschneidet sich mit Förderunterricht desselben Schülers, beide Leiter bestehen auf Teilnahme. Du musst vermitteln. Was gilt?",
+    "optionen": [
+      "Verbindlichen Förderbedarf vorrangig absichern.",
+      "Mit beiden Lehrkräften einen verträglichen Stundenplan suchen.",
+      "Entscheidung mit Begründung den Eltern mitteilen.",
+      "Beide Termine stur parallel verlangen.",
+      "Per Los ohne Begründung entscheiden.",
+      "Eine Maßnahme ohne Gespräch einfach streichen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Pflicht und Förderbedarf gehen vor Neigung.",
+      "Richtig: Abstimmung löst die meisten Kollisionen.",
+      "Richtig: Begründung schafft Akzeptanz.",
+      "Falsch: Doppeltes Verlangen ist unmöglich.",
+      "Falsch: Los ohne Gründe ist willkürlich.",
+      "Falsch: Ohne Gespräch keine gute Lösung."
+    ],
+    "aufloesung": "Förderbedarf sichern, verträgliche Lösung suchen, begründet entscheiden. Alle anhören. Zum Nachlesen: SchUG §12 Abs.7.",
+    "hauptquelle": "SchUG §12 Abs.7",
+    "zusatzquellen": [
+      "SchUG §12 Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-012",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Eltern beschweren sich dass ihr Kind ohne ihre Zustimmung in einen Förderkurs eingeteilt wurde. Die Klassenlehrerin beruft sich auf Dringlichkeit. Wie stellst du das Verfahren sauber?",
+    "optionen": [
+      "Anlass und Förderbedarf schriftlich festhalten.",
+      "Erziehungsberechtigte nachweislich informieren und anhören.",
+      "Teilnahme, Dauer und Überprüfung der Maßnahme klar festlegen.",
+      "Ohne jede Info vollendete Tatsachen schaffen.",
+      "Förderbedarf nur mündlich im Vorbeigehen behaupten.",
+      "Dauer und Ziel offenlassen bis zum Schulschluss."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anlass gehört in die Akte.",
+      "Richtig: Anhörung sichert Mitwirkung.",
+      "Richtig: Klarheit schützt vor Dauerförderung ohne Ziel.",
+      "Falsch: Überraschungen provozieren Beschwerden.",
+      "Falsch: Behauptung ersetzt Feststellung nicht.",
+      "Falsch: Offenes Ende ist keine Förderung."
+    ],
+    "aufloesung": "Bedarf festhalten, Eltern anhören, Maßnahme klar befristen. Alles nachweislich. Zum Nachlesen: SchUG §12 Abs.7.",
+    "hauptquelle": "SchUG §12 Abs.7",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-013",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "BHS",
+      "BS"
+    ],
+    "situation": "An deiner Schule soll Förderunterricht vor der Wiederholungsprüfung in den Ferien angeboten werden. Schüler fragen ob das Pflicht ist. Was antwortest du?",
+    "optionen": [
+      "Angebot und Termine rechtzeitig bekanntgeben.",
+      "Freiwilligkeit bzw. Verbindlichkeit des Angebots klarstellen.",
+      "Inhalte gezielt auf die bevorstehende Prüfung ausrichten.",
+      "Termine erst am Vorabend per Zuruf bekanntgeben.",
+      "Beliebigen Stoff ohne Prüfungsbezug behandeln.",
+      "Teilnahmelisten wegwerfen und nichts festhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rechtzeitige Info ermöglicht Teilnahme.",
+      "Richtig: Klarheit über Pflicht verhindert Streit.",
+      "Richtig: Zielorientierung erhöht Erfolgschancen.",
+      "Falsch: Vorabend-Zuruf erreicht niemanden.",
+      "Falsch: Ohne Bezug verpufft die Zeit.",
+      "Falsch: Nachweis gehört dazu."
+    ],
+    "aufloesung": "Rechtzeitig ausschreiben, Verbindlichkeit klären, gezielt vorbereiten. Teilnahme festhalten. Zum Nachlesen: SchUG §12 Abs.7.",
+    "hauptquelle": "SchUG §12 Abs.7",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-014",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Lehrkräfte wollen denselben Nachmittag für Chor und Fußballtraining, der Turnsaal und der Musikraum sind knapp. Du musst das Angebot koordinieren. Wie?",
+    "optionen": [
+      "Raum- und Personalressourcen als Rahmen prüfen.",
+      "Angebote zeitlich oder räumlich entzerren.",
+      "Entscheidung nach sachlichen Kriterien transparent machen.",
+      "Beide Angebote gleichzeitig in denselben Raum pressen.",
+      "Nach Sympathie entscheiden ohne Begründung.",
+      "Ein Angebot ohne Gespräch einfach absagen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rahmen begrenzt Wünsche.",
+      "Richtig: Entzerrung rettet beide Angebote.",
+      "Richtig: Transparenz sichert Frieden im Haus.",
+      "Falsch: Doppelbelegung funktioniert nicht.",
+      "Falsch: Sympathie ist kein Kriterium.",
+      "Falsch: Ohne Gespräch keine Akzeptanz."
+    ],
+    "aufloesung": "Ressourcen prüfen, entzerren, sachlich begründet entscheiden. Alle anhören. Zum Nachlesen: SchUG §12 Abs.5.",
+    "hauptquelle": "SchUG §12 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A05-L2-015",
+    "modul_id": "A05",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Ein Schüler glänzt im Freigegenstand Robotik, schwächelt aber in Mathematik. Eltern fragen ob die gute Leistung das Pflichtfach ausgleicht. Was erklärst du?",
+    "optionen": [
+      "Freigegenstand und Pflichtgegenstand werden getrennt beurteilt.",
+      "Aufstieg richtet sich nach den Leistungen in Pflichtgegenständen.",
+      "Gute Freileistung als Motivation im Elterngespräch würdigen.",
+      "Freinote automatisch mit Pflichtnote verrechnen.",
+      "Schwäche in Pflicht einfach ignorieren wegen Robotik.",
+      "Beurteilung ohne Maßstab frei schätzen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Getrennte Maßstäbe für getrennte Fächer.",
+      "Richtig: Pflichtfächer tragen den Aufstieg.",
+      "Richtig: Würdigung motiviert ohne zu vermischen.",
+      "Falsch: Verrechnung ist unzulässig.",
+      "Falsch: Pflichtschwäche braucht Förderung.",
+      "Falsch: Schätzen ersetzt Kriterien nicht."
+    ],
+    "aufloesung": "Getrennt beurteilen, Aufstieg nach Pflichtfächern, Freileistung motivierend nutzen. Förderung anbieten. Zum Nachlesen: SchUG §20 Abs.1.",
+    "hauptquelle": "SchUG §20 Abs.1",
+    "zusatzquellen": [
+      "SchUG §12 Abs.3"
+    ],
+    "stand": "04.09.2026"
+  }
+]

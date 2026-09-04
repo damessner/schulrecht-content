@@ -1,1 +1,548 @@
-[]
+[
+  {
+    "id": "A11-L2-001",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zu Schulbeginn fragen Eltern was zur Leistungsfeststellung alles zählt und wie oft geprüft wird. Du informierst als Klassenlehrerin. Was gehört zu einer korrekten Information?",
+    "optionen": [
+      "Formen der Feststellung wie Mitarbeit, Schularbeiten und Tests erklären.",
+      "Anzahl und zeitliche Verteilung über das Semester offenlegen.",
+      "Beurteilungsmaßstäbe in verständlicher Sprache darstellen.",
+      "Nur sagen es wird schon irgendwie benotet.",
+      "Termine grundsätzlich bis zum Zeugnis geheim halten.",
+      "Unterschiedliche Maßstäbe je nach Sympathie ankündigen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Formen transparent machen schafft Vertrauen.",
+      "Richtig: Planbarkeit hilft beim Lernen.",
+      "Richtig: Verständliche Maßstäbe sind Grundlage fairer Noten.",
+      "Falsch: Vage Aussagen verunsichern.",
+      "Falsch: Geheimhaltung widerspricht Transparenz.",
+      "Falsch: Gleiche Maßstäbe für alle sind Pflicht."
+    ],
+    "aufloesung": "Formen, Anzahl und Maßstäbe zu Beginn offenlegen. Verständlich und für alle gleich. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-002",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler glänzt bei Prüfungen aber meldet sich nie, Hausübungen fehlen oft. Du musst die Mitarbeit fair einordnen. Was zählt zur Mitarbeit?",
+    "optionen": [
+      "Mündliche Beteiligung im Unterricht beobachten und festhalten.",
+      "Schriftliche und praktische Beiträge im laufenden Unterricht einbeziehen.",
+      "Hausübungen als Teil der Mitarbeit berücksichtigen.",
+      "Nur die Schularbeitsnote als Mitarbeit werten.",
+      "Einmaligen Eindruck ohne Aufzeichnung hochrechnen.",
+      "Stille Schüler pauschal negativ beurteilen ohne Belege."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mündliches zählt zur Mitarbeit.",
+      "Richtig: Laufende Beiträge gehören dazu.",
+      "Richtig: Hausübungen fließen in die Mitarbeit ein.",
+      "Falsch: Schularbeit ist eigene Säule.",
+      "Falsch: Ohne Belege keine faire Note.",
+      "Falsch: Pauschalurteile sind unzulässig."
+    ],
+    "aufloesung": "Mitarbeit aus mündlichen, schriftlichen und häuslichen Beiträgen belegen. Laufend aufzeichnen. Zum Nachlesen: SchUG §18 Abs.2.",
+    "hauptquelle": "SchUG §18 Abs.2",
+    "zusatzquellen": [
+      "LBVO §4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-003",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Du planst Schularbeiten in Deutsch und Mathematik für das Semester. Direktor fragt nach zulässiger Zahl und Ankündigung. Was beachtest du?",
+    "optionen": [
+      "Vorgesehene Zahl je Gegenstand und Stufe einhalten.",
+      "Termine rechtzeitig vorher bekanntgeben.",
+      "Dauer und Stoffgebiet im Rahmen der Vorgaben festlegen.",
+      "Beliebig viele Schularbeiten pro Woche häufen.",
+      "Schularbeit unangekündigt als Überraschung schreiben lassen.",
+      "Zwei Schularbeiten am selben Tag ohne Rücksicht ansetzen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zahl ist begrenzt und planbar.",
+      "Richtig: Ankündigung sichert faire Vorbereitung.",
+      "Richtig: Dauer und Stoff brauchen Rahmen.",
+      "Falsch: Häufung überfordert und ist unzulässig.",
+      "Falsch: Überraschung widerspricht Fairness.",
+      "Falsch: Ballung am Tag vermeiden."
+    ],
+    "aufloesung": "Zahl einhalten, rechtzeitig ankündigen, Dauer und Stoff sauber festlegen. Ballungen vermeiden. Zum Nachlesen: SchUG §18 Abs.3.",
+    "hauptquelle": "SchUG §18 Abs.3",
+    "zusatzquellen": [
+      "LBVO §7"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-004",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor der Schularbeit fehlen mehrere Schüler längere Zeit krank, Eltern bitten um Rücksicht beim Stoff. Wie gehst du mit versäumtem Stoff um?",
+    "optionen": [
+      "Nur Stoff prüfen der ausreichend behandelt und geübt wurde.",
+      "Bei längerer Abwesenheit individuelle Zumutbarkeit bedenken.",
+      "Versäumtes durch Förderangebote nachholen lassen.",
+      "Stoff prüfen der nie unterrichtet wurde.",
+      "Kranke ohne Nachholen ins kalte Wasser werfen.",
+      "Stoffauswahl nach Tageslaune treffen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Prüfen nur was gelehrt wurde.",
+      "Richtig: Einzelfall fair würdigen.",
+      "Richtig: Nachholen hilft statt zu strafen.",
+      "Falsch: Ungelehrtes darf nicht geprüft werden.",
+      "Falsch: Krankheit ist kein Verschulden.",
+      "Falsch: Willkür verletzt Gleichbehandlung."
+    ],
+    "aufloesung": "Nur Behandeltes prüfen, Kranke fair würdigen, Nachholen ermöglichen. Willkür vermeiden. Zum Nachlesen: LBVO §3.",
+    "hauptquelle": "LBVO §3",
+    "zusatzquellen": [
+      "SchUG §18 Abs.1"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-005",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Du willst kurze Tests zur Festigung einsetzen, Kollegen warnen vor zu vielen Prüfungen. Was gilt für Tests und Diktate im Alltag?",
+    "optionen": [
+      "Tests nur über begrenzten, zuletzt behandelten Stoff einsetzen.",
+      "Zeitlichen Abstand zu Schularbeiten beachten.",
+      "Ergebnisse zeitnah rückmelden und besprechen.",
+      "Jede Stunde unangekündigt Vollstoff prüfen.",
+      "Test als Ersatz für alle Schularbeiten verwenden.",
+      "Ergebnisse monatelang zurückhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Begrenzter Stoff schützt vor Überforderung.",
+      "Richtig: Abstand wahrt Belastungsgrenzen.",
+      "Richtig: Rasche Rückmeldung fördert Lernen.",
+      "Falsch: Dauerprüfung ist unzulässig.",
+      "Falsch: Test ersetzt Schularbeit nicht.",
+      "Falsch: Verzögerung entwertet die Rückmeldung."
+    ],
+    "aufloesung": "Kurz und begrenzt prüfen, Abstände wahren, rasch rückmelden. Keine Dauerprüfung. Zum Nachlesen: LBVO §8.",
+    "hauptquelle": "LBVO §8",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-006",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Eine Schülerin fehlt bei der Schularbeit wegen Krankheit, Attest liegt vor. Eltern fragen nach Nachtrag. Wie handelst du korrekt?",
+    "optionen": [
+      "Versäumnisgrund prüfen und dokumentieren.",
+      "Bei gerechtfertigter Verhinderung Nachtrag ermöglichen.",
+      "Nachtragstermin zumutbar und rechtzeitig ansetzen.",
+      "Ohne Prüfung pauschal die schlechteste Note eintragen.",
+      "Attest ignorieren und Nachtrag verweigern.",
+      "Nachtrag ohne Info an die Klasse willkürlich ansetzen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Grund klären und festhalten.",
+      "Richtig: Gerechtfertigt heißt nachholen lassen.",
+      "Richtig: Zumutbarer Termin sichert Fairness.",
+      "Falsch: Strafnote ohne Prüfung ist unzulässig.",
+      "Falsch: Attest ernst nehmen.",
+      "Falsch: Transparenz auch beim Nachtrag."
+    ],
+    "aufloesung": "Grund prüfen, bei Rechtfertigung Nachtrag anbieten, Termin fair setzen. Alles dokumentieren. Zum Nachlesen: LBVO §9.",
+    "hauptquelle": "LBVO §9",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-007",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einer Prüfung vermutest du Abschreiben vom Nachbarn, Beweise sind dünn. Du musst ruhig und rechtssicher reagieren. Was ist richtig?",
+    "optionen": [
+      "Beobachtungen sachlich und zeitnah festhalten.",
+      "Betroffenen Schüler zum Vorfall anhören.",
+      "Leistung nur soweit werten wie sie eigenständig erbracht wurde.",
+      "Ohne Beleg sofort die schlechteste Note verhängen.",
+      "Vor der Klasse bloßstellen und beschimpfen.",
+      "Vorfall nirgends vermerken und Gerüchte streuen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sachliche Festhaltung sichert Nachweis.",
+      "Richtig: Anhörung wahrt Fairness.",
+      "Richtig: Nur Eigenständiges darf zählen.",
+      "Falsch: Strafe ohne Beleg ist willkürlich.",
+      "Falsch: Bloßstellung verletzt Würde.",
+      "Falsch: Gerüchte ersetzen Dokumentation nicht."
+    ],
+    "aufloesung": "Festhalten, anhören, nur Eigenleistung werten. Würde wahren, alles dokumentieren. Zum Nachlesen: LBVO §10.",
+    "hauptquelle": "LBVO §10",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-008",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern verlangen Einsicht in Schularbeitsheft und Bewertungskriterien nach einer schwachen Note. Du führst das Gespräch. Was schulden sie dir, was schuldest du ihnen?",
+    "optionen": [
+      "Korrigierte Arbeiten zur Einsicht vorlegen.",
+      "Bewertungsmaßstab verständlich erläutern.",
+      "Gespräch und Ergebnis kurz festhalten.",
+      "Einsicht grundsätzlich verweigern.",
+      "Arbeit verschwinden lassen und mauern.",
+      "Bewertung als reine Gefühlssache darstellen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einsicht schafft Nachvollziehbarkeit.",
+      "Richtig: Maßstab erklären statt zu verordnen.",
+      "Richtig: Notiz schützt bei Folgegesprächen.",
+      "Falsch: Verweigerung schürt Misstrauen.",
+      "Falsch: Verschwindenlassen ist pflichtwidrig.",
+      "Falsch: Gefühl ersetzt Kriterien nicht."
+    ],
+    "aufloesung": "Arbeit zeigen, Maßstab erklären, Gespräch festhalten. Transparenz statt Mauern. Zum Nachlesen: SchUG §19 Abs.1.",
+    "hauptquelle": "SchUG §19 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-009",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Deine Aufzeichnungen zur Mitarbeit sind lückenhaft, Zeugniskonferenz naht. Du willst die Beurteilung absichern. Wie dokumentierst du richtig?",
+    "optionen": [
+      "Leistungen laufend und datiert aufzeichnen.",
+      "Stärken und Schwächen durch mehrere Belege stützen.",
+      "Aufzeichnungen bis zur Einspruchsfrist aufbewahren.",
+      "Noten erst in der Konferenz aus dem Bauch schätzen.",
+      "Nur positive oder nur negative Vorfälle notieren.",
+      "Zettel nach der Konferenz sofort wegwerfen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Laufende Notizen sichern Erinnerung.",
+      "Richtig: Mehrere Belege stützen das Urteil.",
+      "Richtig: Aufbewahrung ermöglicht Überprüfung.",
+      "Falsch: Bauchschätzung ist angreifbar.",
+      "Falsch: Einseitigkeit verzerrt das Bild.",
+      "Falsch: Wegwerfen vernichtet Nachweise."
+    ],
+    "aufloesung": "Laufend, beidseitig und datiert aufzeichnen, aufbewahren. Keine Bauchnoten. Zum Nachlesen: LBVO §5.",
+    "hauptquelle": "LBVO §5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-010",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Ein Schüler mit attestierter Leseschwäche schreibt Diktate regelmäßig negativ. Eltern bitten um faire Berücksichtigung. Was kannst du tun?",
+    "optionen": [
+      "Nachteilsausgleich nach schulischen Vorgaben prüfen.",
+      "Schwerpunkt der Beurteilung auf andere aussagekräftige Leistungen legen.",
+      "Fördermaßnahmen und Verlauf dokumentieren.",
+      "Schwäche ignorieren und stur gleich prüfen.",
+      "Ohne Verfahren einfach bessere Noten schenken.",
+      "Kind vom Unterricht einfach freistellen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ausgleich schafft faire Chancen.",
+      "Richtig: Breitere Basis zeigt wahres Können.",
+      "Richtig: Doku belegt Förderung und Fairness.",
+      "Falsch: Ignoranz verstärkt Benachteiligung.",
+      "Falsch: Schenken ohne Grundlage ist pflichtwidrig.",
+      "Falsch: Freistellen löst nichts."
+    ],
+    "aufloesung": "Ausgleich prüfen, breiter beurteilen, Förderung dokumentieren. Fair statt stur. Zum Nachlesen: LBVO §3.",
+    "hauptquelle": "LBVO §3",
+    "zusatzquellen": [
+      "SchUG §18 Abs.1"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-011",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Du hältst mündliche Prüfungen zum Semesterende, ein Schüler ist nervös und blockiert. Kollegen hospitieren. Wie prüfst du fair?",
+    "optionen": [
+      "Fragen aus dem behandelten Stoff in angemessenem Umfang stellen.",
+      "Ausreichend Zeit zum Nachdenken und Antworten geben.",
+      "Leistung nachvollziehbar protokollieren.",
+      "Stoff aus höheren Stufen als Fangfrage einbauen.",
+      "Bei Blockade sofort abbrechen und negativ werten.",
+      "Ergebnis ohne Begründung verkünden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Behandelter Stoff ist Prüfungsgrenze.",
+      "Richtig: Zeitdruck verfälscht das Bild.",
+      "Richtig: Protokoll sichert Nachvollziehbarkeit.",
+      "Falsch: Fangfragen sind unfair.",
+      "Falsch: Blockade braucht Hilfestellung, keine Strafe.",
+      "Falsch: Begründung gehört dazu."
+    ],
+    "aufloesung": "Fair fragen, Zeit geben, sauber protokollieren. Hilfestellung statt Fangfragen. Zum Nachlesen: LBVO §6.",
+    "hauptquelle": "LBVO §6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-012",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "BHS",
+      "BS",
+      "AHS"
+    ],
+    "situation": "In Werkstätte und Labor musst du praktische Leistungen bewerten, ein Schüler arbeitet sicher aber langsam. Wie beurteilst du sachgerecht?",
+    "optionen": [
+      "Arbeitsplanung und sachgerechte Ausführung einbeziehen.",
+      "Sicherheitsbewusstsein und Ordnung am Arbeitsplatz werten.",
+      "Arbeitsergebnis nach fachlichen Kriterien beurteilen.",
+      "Nur die Geschwindigkeit als Maßstab nehmen.",
+      "Ohne Beobachtung Endnote schätzen.",
+      "Sicherheit als nebensächlich abtun."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Planung gehört zur Praxisnote.",
+      "Richtig: Sicherheit ist Kern beruflicher Arbeit.",
+      "Richtig: Ergebnis zählt mit fachlichem Maß.",
+      "Falsch: Tempo allein verzerrt.",
+      "Falsch: Ohne Beobachtung keine Praxisnote.",
+      "Falsch: Sicherheit geht vor."
+    ],
+    "aufloesung": "Planung, Sicherheit und Ergebnis gemeinsam werten. Beobachtet und kriteriengeleitet. Zum Nachlesen: LBVO §11.",
+    "hauptquelle": "LBVO §11",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-013",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwischen zwei Lehrkräften droht Notenstreit in geteilt geführtem Unterricht, Zeugniskonferenz steht an. Wie findest du eine tragfähige Note?",
+    "optionen": [
+      "Alle vorliegenden Teilleistungen gemeinsam sichten.",
+      "Bei Dissens Einigung unter Vorsitz der Schulleitung suchen.",
+      "Zustandekommen der Note nachvollziehbar begründen.",
+      "Einfach die lautere Lehrkraft entscheiden lassen.",
+      "Los ziehen ohne Blick auf Leistungen.",
+      "Teilleistungen einer Lehrkraft unterschlagen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vollständiger Blick verhindert Schieflage.",
+      "Richtig: Vorsitz sichert Verfahren bei Streit.",
+      "Richtig: Begründung schützt vor Anfechtung.",
+      "Falsch: Lautstärke ist kein Kriterium.",
+      "Falsch: Los ersetzt Beurteilung nicht.",
+      "Falsch: Unterschlagung verfälscht das Bild."
+    ],
+    "aufloesung": "Alles sichten, unter Vorsitz einigen, begründet entscheiden. Kein Los, keine Willkür. Zum Nachlesen: SchUG §20 Abs.6.",
+    "hauptquelle": "SchUG §20 Abs.6",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-014",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern eines schwachen Schülers bitten um Frühwarnung statt Überraschung im Zeugnis. Du organisierst Information und Förderung. Was gehört dazu?",
+    "optionen": [
+      "Leistungsabfall rechtzeitig an Erziehungsberechtigte melden.",
+      "Fördermöglichkeiten und Beratungsangebote aufzeigen.",
+      "Gespräche und Vereinbarungen schriftlich festhalten.",
+      "Bis zum Zeugnis schweigen und dann überraschen.",
+      "Förderung als aussichtslos darstellen und aufgeben.",
+      "Warnung nur per Flurfunk an Mitschüler geben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Frühe Warnung ermöglicht Handeln.",
+      "Richtig: Wege aufzeigen statt nur zu melden.",
+      "Richtig: Festhalten sichert Verbindlichkeit.",
+      "Falsch: Schweigen verspielt Chancen.",
+      "Falsch: Aufgeben ist keine Pädagogik.",
+      "Falsch: Flurfunk verletzt Diskretion."
+    ],
+    "aufloesung": "Rechtzeitig warnen, Förderung anbieten, Vereinbartes festhalten. Diskret und schriftlich. Zum Nachlesen: SchUG §19 Abs.3.",
+    "hauptquelle": "SchUG §19 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A11-L2-015",
+    "modul_id": "A11",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach Rückgabe hagelt es Beschwerden über zu strenge Korrektur, du willst die Schularbeit selbstkritisch prüfen. Woran erkennst du eine faire Leistungsfeststellung?",
+    "optionen": [
+      "Aufgaben entsprechen dem behandelten Stoff und dem Niveau.",
+      "Bewertungsschlüssel ist schlüssig und gleich angewendet.",
+      "Korrektur ist lesbar, begründet und rückgabefähig.",
+      "Aufgaben weit über Stoff und Niveau hinaus stellen.",
+      "Schlüssel nach Sympathie unterschiedlich anwenden.",
+      "Fehler ohne Erklärung nur anstreichen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Passung zu Stoff und Niveau ist Kern.",
+      "Richtig: Gleicher Schlüssel sichert Gleichbehandlung.",
+      "Richtig: Nachvollziehbarkeit ermöglicht Lernen aus Fehlern.",
+      "Falsch: Überniveau verzerrt das Ergebnis.",
+      "Falsch: Zweierlei Maß ist unzulässig.",
+      "Falsch: Ohne Erklärung kein Lerneffekt."
+    ],
+    "aufloesung": "Passende Aufgaben, gleicher Schlüssel, lesbare Korrektur. Selbstkritisch prüfen, Fehler besprechen. Zum Nachlesen: LBVO §3.",
+    "hauptquelle": "LBVO §3",
+    "zusatzquellen": [
+      "SchUG §18 Abs.1"
+    ],
+    "stand": "04.09.2026"
+  }
+]

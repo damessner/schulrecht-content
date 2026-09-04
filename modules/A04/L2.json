@@ -1,1 +1,536 @@
-[]
+[
+  {
+    "id": "A04-L2-001",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bist neue Schulleiterin und teilst im September die ersten Klassen ein. Zwei Parallelklassen sind ungleich groß und Eltern wünschen sich bestimmte Zuordnungen. Wie bildest du die Klassen rechtlich korrekt?",
+    "optionen": [
+      "Alle Anfänger einer Stufe ausgewogen auf Parallelklassen aufteilen.",
+      "Pädagogische Gesichtspunkte wie Alter, Geschlecht und Förderbedarf berücksichtigen.",
+      "Wünsche einzelner Eltern als alleiniges Kriterium für die Einteilung nehmen.",
+      "Vorgesehene Richtwerte für die Klassenschülerzahl im Blick behalten.",
+      "Klassenbildung ohne jede Dokumentation rein mündlich festlegen.",
+      "Die Einteilung allein nach Alphabet ohne pädagogischen Blick vornehmen."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ausgewogenheit zwischen Parallelklassen ist Grundprinzip.",
+      "Richtig: Pädagogische Ausgewogenheit steuert die Zuordnung.",
+      "Falsch: Einzelwünsche dürfen einfließen, entscheiden aber nicht allein.",
+      "Richtig: Richtwerte geben den Rahmen für die Größe vor.",
+      "Falsch: Nachvollziehbare Festlegung braucht eine Akte.",
+      "Falsch: Reines Alphabet ersetzt die pädagogische Abwägung nicht."
+    ],
+    "aufloesung": "Parallelklassen ausgewogen bilden und pädagogisch abwägen. Richtwerte einhalten, Wünsche nur ergänzend hören. Zum Nachlesen: SchUG §8 Abs.1.",
+    "hauptquelle": "SchUG §8 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-002",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine zweite Klasse wächst durch Zuzüge auf über 30 Kinder an, der Raum ist eng und der Lärm steigt. Eltern fordern eine Teilung. Was prüfst du als Schulleitung?",
+    "optionen": [
+      "Ob die maßgebliche Höchstzahl für die Klassenschülerzahl überschritten ist.",
+      "Ob eine Teilung nach den Teilungsvorschriften zulässig und organisatorisch möglich ist.",
+      "Bei Bedarf Antrag an die Schulbehörde auf Teilung oder Überschreitung stellen.",
+      "Einfach ohne Verfahren eine neue Klasse aufmachen und Lehrer abziehen.",
+      "Die Klasse dauerhaft überbelegen und nichts dokumentieren.",
+      "Elternwunsch allein genügt, Rechtsrahmen ist egal."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst die Höchstzahl als Auslöser prüfen.",
+      "Richtig: Teilungsregeln und Ressourcen entscheiden über das Ob und Wie.",
+      "Richtig: Förmlicher Weg über die Behörde sichert Personal und Planstellen.",
+      "Falsch: Eigenmächtige Teilung ohne Deckung ist unzulässig.",
+      "Falsch: Dauerhafte Überbelegung ohne Verfahren geht nicht.",
+      "Falsch: Wunsch ersetzt das Verfahren nicht."
+    ],
+    "aufloesung": "Höchstzahl prüfen, Teilungsmöglichkeit klären, förmlich beantragen. Keine Eigenmacht ohne Deckung. Zum Nachlesen: SchUG §8 Abs.2.",
+    "hauptquelle": "SchUG §8 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-003",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An deinem Standort sinken die Anmeldezahlen, zwei kleine Parallelklassen einer Stufe haben je nur 12 Kinder. Die Behörde schlägt eine Zusammenlegung vor. Worauf achtest du?",
+    "optionen": [
+      "Prüfen ob die Mindestzahl für getrennte Klassenführung unterschritten ist.",
+      "Pädagogische Zumutbarkeit des gemeinsamen Unterrichts bedenken.",
+      "Wegzeiten und Betreuung bei Zusammenlegung am Standort mitdenken.",
+      "Ohne Prüfung beide Klassen bis Jahresende unverändert weiterführen.",
+      "Zusammenlegung mündlich am Gang verkünden ohne schriftliche Verfügung.",
+      "Einfach würfeln welche Kinder gehen müssen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mindestzahlen entscheiden über getrennte Führung.",
+      "Richtig: Pädagogik bleibt auch beim Sparen Maßstab.",
+      "Richtig: Organisation und Betreuung müssen gesichert sein.",
+      "Falsch: Wegschauen ersetzt die Entscheidung nicht.",
+      "Falsch: Zusammenlegung braucht klare schriftliche Anordnung.",
+      "Falsch: Willkür ist unzulässig."
+    ],
+    "aufloesung": "Mindestzahl und Pädagogik prüfen, Organisation sichern, schriftlich verfügen. Willkür ist tabu. Zum Nachlesen: SchUG §8 Abs.3.",
+    "hauptquelle": "SchUG §8 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-004",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "In Werken und in einer Fremdsprache soll in Gruppen statt im Klassenverband unterrichtet werden. Kollegium fragt, wann geteilt werden darf. Was erklärst du?",
+    "optionen": [
+      "Gruppenbildung ist dort vorgesehen wo Lehrplan oder Sicherheit sie verlangt.",
+      "Räumliche Ausstattung wie Werkräume begrenzt die Gruppengröße sinnvoll.",
+      "Sicherheitsgründe rechtfertigen kleinere Gruppen in Werkstätten.",
+      "Beliebig jedes Fach ohne Grundlage in Kleingruppen zerteilen.",
+      "Gruppen nur nach Sympathie der Lehrkräfte einteilen.",
+      "Gruppeneinteilung ohne Abstimmung mit Stundenplan vornehmen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lehrplan und Vorschriften geben den Anlass.",
+      "Richtig: Raumgröße steuert die sinnvolle Teilung mit.",
+      "Richtig: Sicherheit geht vor Bequemlichkeit.",
+      "Falsch: Ohne Grundlage keine beliebige Teilung.",
+      "Falsch: Sympathie ist kein Kriterium.",
+      "Falsch: Gruppen und Stundenplan gehören zusammen."
+    ],
+    "aufloesung": "Nur mit sachlichem Grund in Gruppen teilen, Raum und Sicherheit beachten. Stundenplan abstimmen. Zum Nachlesen: SchUG §8a.",
+    "hauptquelle": "SchUG §8a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-005",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du erstellst als Schulleiter den Stundenplan für das neue Schuljahr. Kollegium meldet Teilzeitwünsche, Turnsaal ist knapp. Wie gehst du korrekt vor?",
+    "optionen": [
+      "Stundenplan unter Beachtung von Lehrplan und lehramtlicher Befähigung erstellen.",
+      "Lehrerkonferenz bzw. betroffene Lehrkräfte vorher anhören.",
+      "Räumliche und organisatorische Gegebenheiten wie Säle einplanen.",
+      "Den Plan allein nach privaten Wünschen einzelner bauen.",
+      "Lehrbefähigung ignorieren und fachfremd ohne Prüfung einsetzen.",
+      "Plan nie bekanntgeben und täglich improvisieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lehrplan und Befähigung sind das Gerüst.",
+      "Richtig: Anhörung sichert Akzeptanz und Fehlercheck.",
+      "Richtig: Räume und Zeiten begrenzen die Freiheit.",
+      "Falsch: Privatwünsche ordnen sich dem Ganzen unter.",
+      "Falsch: Fachfremder Einsatz braucht Grundlage.",
+      "Falsch: Ohne Kundmachung herrscht Chaos."
+    ],
+    "aufloesung": "Lehrplan und Befähigung beachten, Kollegium anhören, Räume einplanen. Dann verbindlich kundmachen. Zum Nachlesen: SchUG §9 Abs.1.",
+    "hauptquelle": "SchUG §9 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-006",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mitten im Semester fällt der Turnsaal wegen Sanierung aus, du musst den Stundenplan ändern. Lehrkräfte und Eltern sind verunsichert. Was ist zu tun?",
+    "optionen": [
+      "Änderung nur bei sachlichem Grund wie Raummangel vornehmen.",
+      "Betroffene Klassen und Lehrkräfte rechtzeitig über die Änderung informieren.",
+      "Geänderten Plan wieder in geeigneter Weise bekanntgeben.",
+      "Stunden stillschweigend ausfallen lassen ohne Ersatz.",
+      "Änderung dauerhaft nur mündlich zwischen Tür und Angel regeln.",
+      "Betreuungslücken am Vormittag einfach hinnehmen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sachgrund ist Voraussetzung jeder Änderung.",
+      "Richtig: Rechtzeitige Info ermöglicht Planung.",
+      "Richtig: Kundmachung macht den Plan verbindlich.",
+      "Falsch: Ausfall ohne Ersatz ist keine Planänderung.",
+      "Falsch: Mündliches Zurufen ersetzt die Kundmachung nicht.",
+      "Falsch: Aufsicht und Betreuung müssen gesichert bleiben."
+    ],
+    "aufloesung": "Nur mit Sachgrund ändern, rechtzeitig informieren und neu kundmachen. Betreuung sichern. Zum Nachlesen: SchUG §9 Abs.2.",
+    "hauptquelle": "SchUG §9 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-007",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Lehrkräfte melden sich krank, du musst für den Vormittag Supplierungen einteilen. Im Konferenzzimmer warten mehrere freie Kollegen. Wen ziehst du heran?",
+    "optionen": [
+      "Zuerst fachkundige Lehrkräfte derselben Klasse heranziehen.",
+      "Auf ausgeglichene Belastung über das Schuljahr achten.",
+      "Mehrdienstleistungs- und Überstundenregeln im Blick behalten.",
+      "Immer dieselbe bequeme Person einteilen, egal ob fachfremd.",
+      "Klassen unbeaufsichtigt in den Hof schicken.",
+      "Supplierplan geheim halten und niemanden informieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fachnähe und Klassenbezug gehen vor.",
+      "Richtig: Faire Verteilung verhindert Dauerüberlastung.",
+      "Richtig: Rechtlicher Rahmen für Mehrleistung gilt auch hier.",
+      "Falsch: Bequemlichkeit ersetzt Fachlichkeit nicht.",
+      "Falsch: Unbeaufsichtigt geht gar nicht.",
+      "Falsch: Ohne Info funktioniert keine Vertretung."
+    ],
+    "aufloesung": "Fachkundige aus der Klasse zuerst, Belastung fair verteilen, Rechtsrahmen einhalten. Alles rechtzeitig bekanntgeben. Zum Nachlesen: SchUG §9 Abs.3.",
+    "hauptquelle": "SchUG §9 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-008",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Eine Mathematikstunde in der vierten Klasse muss suppliert werden, Schularbeit steht bevor. Der Supplierlehrer will nur beaufsichtigen lassen. Was verlangst du?",
+    "optionen": [
+      "Supplierstunde möglichst für sinnvolles Weiterarbeiten nutzen.",
+      "Vom verhinderten Lehrer hinterlassene Arbeitsaufträge einsetzen.",
+      "Fachfremde Supplierlehrkraft auf Üben und Wiederholen ausrichten.",
+      "Schüler eine Stunde lang nur still sitzen lassen ohne Aufgabe.",
+      "Supplierung als Freistunde mit Handynutzung definieren.",
+      "Klassenbuch ohne Eintrag zur Supplierung lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sinnvolle Nutzung ist der Anspruch.",
+      "Richtig: Hinterlassene Aufträge sichern Kontinuität.",
+      "Richtig: Auch fachfremd lässt sich üben und festigen.",
+      "Falsch: Bloßes Absitzen verfehlt den Zweck.",
+      "Falsch: Freistunde ist keine Supplierung.",
+      "Falsch: Dokumentation gehört dazu."
+    ],
+    "aufloesung": "Arbeitsaufträge nutzen und sinnvoll üben lassen. Supplierung dokumentieren. Zum Nachlesen: SchUG §9 Abs.4.",
+    "hauptquelle": "SchUG §9 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-009",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Wegen eines Wasserrohrbruchs ist ein Trakt nicht benutzbar, du überlegst Unterricht entfallen zu lassen. Eltern fragen nach Betreuung. Wie entscheidest du?",
+    "optionen": [
+      "Unterricht nur aus zwingenden Gründen entfallen lassen.",
+      "Betreuung der anwesenden Schüler jedenfalls sicherstellen.",
+      "Entfall und Betreuungsangebot rasch und klar kommunizieren.",
+      "Bei Hitze oder Bequemlichkeit vorsorglich freigeben.",
+      "Kinder ohne Info nach Hause schicken.",
+      "Den Ausfall nirgends vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwingender Grund ist die Schwelle.",
+      "Richtig: Betreuung bleibt Pflicht trotz Ausfall.",
+      "Richtig: Klare Info verhindert Chaos und Aufsichtslücken.",
+      "Falsch: Bequemlichkeit ist kein zwingender Grund.",
+      "Falsch: Wegschicken ohne Info gefährdet Aufsicht.",
+      "Falsch: Ausfälle gehören dokumentiert."
+    ],
+    "aufloesung": "Nur bei Zwang entfallen lassen, Betreuung sichern und klar informieren. Alles festhalten. Zum Nachlesen: SchUG §9 Abs.5.",
+    "hauptquelle": "SchUG §9 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-010",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zu Schulbeginn bestellst du die Klassenvorstände. Eine erfahrene Kollegin will zwei Klassen übernehmen, ein Berufseinsteiger zögert. Was beachtest du?",
+    "optionen": [
+      "Für jede Klasse einen Klassenvorstand bestellen.",
+      "Auf Eignung und ausgewogene Belastung bei der Bestellung achten.",
+      "Klassenvorstand als erste Ansprechperson für Schüler und Eltern kommunizieren.",
+      "Eine Person mit zwei vollen Vorstandsaufgaben überfrachten.",
+      "Die Funktion geheim halten und nirgends ausweisen.",
+      "Aufgaben wie Klassenbuch und Elternkontakt einfach entfallen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jede Klasse braucht eine verantwortliche Person.",
+      "Richtig: Eignung und Belastbarkeit steuern die Auswahl.",
+      "Richtig: Transparenz schafft erreichbare Ansprechpartner.",
+      "Falsch: Doppelbelastung schadet beiden Klassen.",
+      "Falsch: Geheimhaltung verhindert Zusammenarbeit.",
+      "Falsch: Kernaufgaben bleiben bestehen."
+    ],
+    "aufloesung": "Jede Klasse bekommt einen geeigneten Vorstand, fair verteilt und klar kommuniziert. Überlastung vermeiden. Zum Nachlesen: SchUG §10.",
+    "hauptquelle": "SchUG §10",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-011",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du verteilst die Lehraufgaben: Eine Lehrkraft soll fachfremd Physik übernehmen, obwohl ausgebildete Kräfte frei wären. Personalvertretung fragt nach. Wie verteilst du korrekt?",
+    "optionen": [
+      "Lehraufgaben nach Lehrbefähigung und Eignung verteilen.",
+      "Ausgewogenheit der Belastung über das Kollegium anstreben.",
+      "Dienstrechtliche Vorgaben zu Beschäftigungsausmaß einhalten.",
+      "Systematisch fachfremd besetzen trotz vorhandener Befähigung.",
+      "Beliebte Klassen nur an Wunschkollegen vergeben.",
+      "Verteilung ohne jeden Nachweis und Gespräche festlegen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Befähigung ist erstes Kriterium.",
+      "Richtig: Faire Lastverteilung erhält Qualität.",
+      "Richtig: Beschäftigungsrahmen begrenzt die Freiheit.",
+      "Falsch: Fachfremd trotz Befähigung ist sachwidrig.",
+      "Falsch: Günstlingswirtschaft ist unzulässig.",
+      "Falsch: Nachvollziehbarkeit braucht Gespräche und Akte."
+    ],
+    "aufloesung": "Nach Befähigung verteilen, Belastung fair ausgleichen, Rechtsrahmen einhalten. Gespräche dokumentieren. Zum Nachlesen: SchUG §11 Abs.1.",
+    "hauptquelle": "SchUG §11 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-012",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "In Deutsch soll zeitweise zu zweit unterrichtet werden, um schwächere Schüler zu fördern. Zwei Lehrkräfte streiten über Zuständigkeit. Was klärst du?",
+    "optionen": [
+      "Teamteaching dort einsetzen wo es pädagogisch und rechtlich vorgesehen ist.",
+      "Zuständigkeiten und Rollen der beiden Lehrkräfte vorab klar festlegen.",
+      "Förderziele und betroffene Schülergruppen transparent machen.",
+      "Doppelbesetzung als Belohnung ohne Förderzweck vergeben.",
+      "Beide machen parallel dasselbe ohne Absprache.",
+      "Förderstunden ohne jede Abstimmung mit dem Klassenunterricht laufen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zweckbindung rechtfertigt den Mehreinsatz.",
+      "Richtig: Klare Rollen verhindern Reibung.",
+      "Richtig: Transparenz sichert Akzeptanz bei Eltern.",
+      "Falsch: Ohne Zweck keine Doppelbesetzung.",
+      "Falsch: Ohne Absprache verpufft der Effekt.",
+      "Falsch: Anbindung an den Klassenunterricht ist Pflicht."
+    ],
+    "aufloesung": "Nur mit Förderzweck doppelt besetzen, Rollen klären und Ziele offenlegen. Absprache sichern. Zum Nachlesen: SchUG §11 Abs.2.",
+    "hauptquelle": "SchUG §11 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-013",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Supplierplan hängt immer zu spät aus, Schüler irren durchs Haus und Lehrer erfahren es zuletzt. Du willst das System reparieren. Was gehört dazu?",
+    "optionen": [
+      "Vertretungen so früh wie möglich festlegen und bekanntgeben.",
+      "Plan an gewohnter Stelle und zusätzlich digital zugänglich machen.",
+      "Betroffene Lehrkräfte gezielt und direkt verständigen.",
+      "Plan erst nach Unterrichtsbeginn aushängen.",
+      "Änderungen nur per Flurfunk verbreiten.",
+      "Auf Lesbarkeit und Eindeutigkeit von Klasse, Raum und Stunde verzichten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Frühe Festlegung schafft Planbarkeit.",
+      "Richtig: Gewohnter Ort plus digital erreicht alle.",
+      "Richtig: Direkte Verständigung verhindert Lücken.",
+      "Falsch: Verspätung erzeugt Aufsichtslücken.",
+      "Falsch: Flurfunk ist keine Kundmachung.",
+      "Falsch: Eindeutigkeit ist Kern eines Plans."
+    ],
+    "aufloesung": "Früh festlegen, klar aushängen und Betroffene direkt verständigen. Lesbarkeit sichern. Zum Nachlesen: SchUG §9 Abs.3.",
+    "hauptquelle": "SchUG §9 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-014",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Fachgruppen wünschen Doppelstunden für Labor und Schularbeitenfächer, Nachmittagsunterricht soll begrenzt bleiben. Du bastelst am Stundenplan. Was ist sachgerecht?",
+    "optionen": [
+      "Doppelstunden dort bündeln wo Fachdidaktik sie erfordert.",
+      "Auf ausgewogene Tages- und Wochenbelastung der Schüler achten.",
+      "Freistunden und Randstunden für Fahrschüler mitbedenken.",
+      "Alle schweren Fächer auf einen Vormittag pressen.",
+      "Sieben Stunden desselben Fachs hintereinander legen.",
+      "Pausen und Mittagszeiten ersatzlos streichen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fachgrund rechtfertigt Blockung.",
+      "Richtig: Belastungsausgleich schützt Lernfähigkeit.",
+      "Richtig: Erreichbarkeit gehört zur Planung.",
+      "Falsch: Ballung überfordert alle.",
+      "Falsch: Monotonie ohne Pause ist unsachlich.",
+      "Falsch: Pausen sind unverzichtbar."
+    ],
+    "aufloesung": "Sinnvoll blocken, Belastung ausgleichen, Wege mitdenken. Extreme Ballung vermeiden. Zum Nachlesen: SchUG §9 Abs.1.",
+    "hauptquelle": "SchUG §9 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A04-L2-015",
+    "modul_id": "A04",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Parallelklassen in der ersten Stufe müssen neu sortiert werden, weil eine Lehrerin langfristig ausfällt. Eltern wittern Willkür. Wie sicherst du ein sauberes Vorgehen?",
+    "optionen": [
+      "Neuzuteilung nach denselben sachlichen Kriterien wie die Erstbildung vornehmen.",
+      "Betroffene Eltern und Schüler rechtzeitig über die Änderung informieren.",
+      "Entscheidung und Gründe schriftlich festhalten.",
+      "Kinder nach Lautstärke der Elternwünsche sortieren.",
+      "Freundeskreise als einziges Kriterium versprechen.",
+      "Umschichtung ohne Info an Klassenbuch und Administration durchführen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gleiche Maßstäbe sichern Fairness.",
+      "Richtig: Rechtzeitige Info schafft Vertrauen.",
+      "Richtig: Dokumentation schützt bei Beschwerden.",
+      "Falsch: Lautstärke ist kein Kriterium.",
+      "Falsch: Einzelversprechen verzerren das Ganze.",
+      "Falsch: Ohne Administration herrscht Datenchaos."
+    ],
+    "aufloesung": "Nach Sachkriterien neu zuteilen, rechtzeitig informieren und Gründe festhalten. Keine Bevorzugung. Zum Nachlesen: SchUG §8 Abs.1.",
+    "hauptquelle": "SchUG §8 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]
