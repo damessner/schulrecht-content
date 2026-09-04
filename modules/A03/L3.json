@@ -1,1 +1,387 @@
-[]
+[
+  {
+    "id": "A03-L3-001",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Moritz fällt im März bei der Eignungsprüfung für eine Sportmittelschule in Linz durch. Im Mai will er dieselbe Prüfung für dieselbe Schulart an einer Sportschule in Wels erneut ablegen. Der dortige Leiter stellt einen Alleingang in Aussicht und verspricht, den zweiten Versuch als Erstversuch zu werten, weil ein Schulwechsel alles heile.",
+    "optionen": [
+      "Der zweite Versuch ist zulässig, weil jede Schule eigene Antritte zählt.",
+      "Der zweite Versuch ist unzulässig, weil dieselbe Prüfung für dieselbe Schulart im selben Schuljahr nicht wiederholt werden darf.",
+      "Der zweite Versuch ist zulässig, wenn die Eltern eine Ausnahmegenehmigung unterschreiben.",
+      "Der zweite Versuch ist zulässig, weil durchgefallene Prüflinge immer sofort neu antreten dürfen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Antritte zählen schulart- und jahrbezogen, nicht pro Schule.",
+      "Richtig: Das Wiederholungsverbot greift trotz Schulwechsel im selben Jahr.",
+      "Falsch: Elternunterschriften schaffen keinen neuen Antritt.",
+      "Falsch: Sofortiges Neuantreten nach Durchfallen ist gerade ausgeschlossen."
+    ],
+    "aufloesung": "Der zweite Versuch ist rechtswidrig und darf nicht gewertet werden. Dieselbe Prüfung für dieselbe Schulart steht pro Schuljahr nur einmal zu, ein Schulwechsel oder eine Umdeutung als Erstversuch ändert daran nichts. Erst im nächsten Schuljahr ist ein neuer Antritt möglich. Zum Nachlesen: SchUG §6 Abs.2.",
+    "hauptquelle": "SchUG §6 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-002",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Handelsakademie in Wien stellt ein Prüfer für sein Gebiet allein im stillen Kämmerlein besonders schwere Sonderaufgaben zusammen, um die Bewerberzahl zu drücken. Die Schulleitung winkt ab und meint, jeder Prüfer dürfe seine Aufgaben allein festlegen, eine gemeinsame Konferenz sei reine Formsache und könne entfallen.",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil Prüfer ihre Aufgaben allein bestimmen dürfen.",
+      "Das Vorgehen ist formfehlerhaft, weil die Aufgaben in einer Konferenz aller Prüfer unter Vorsitz der Schulleitung festzusetzen sind.",
+      "Das Vorgehen ist korrekt, wenn die Aufgaben besonders schwer und damit aussagekräftig sind.",
+      "Das Vorgehen ist nur dann falsch, wenn sich Eltern beschweren."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleingänge einzelner Prüfer sind nicht vorgesehen.",
+      "Richtig: Konferenz aller Prüfer plus Vorsitz wurden hier übergangen.",
+      "Falsch: Schwierigkeit heilt den Formfehler nicht, sie verschärft ihn.",
+      "Falsch: Der Fehler besteht unabhängig von Beschwerden."
+    ],
+    "aufloesung": "Die Aufgaben sind unwirksam zustande gekommen und müssen neu festgesetzt werden. Zuständig ist die Konferenz aller Prüfer unter Vorsitz der Schulleitung, Alleingänge mit Selektionsabsicht sind unzulässig. Ohne korrekte Festsetzung ist die ganze Prüfung angreifbar. Zum Nachlesen: SchUG §7 Abs.3.",
+    "hauptquelle": "SchUG §7 Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-003",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Nach der Eignungsprüfung für eine Musikmittelschule in Innsbruck erklärt der Prüfer für Gehörbildung den versammelten Eltern, er habe allein über das Gesamtergebnis entschieden, weil sein Gebiet das wichtigste sei. Die bisherigen Schulnoten von Tim und die Ergebnisse der anderen Gebiete hat er für unbeachtlich erklärt und nicht in die Entscheidung einbezogen.",
+    "optionen": [
+      "Die Entscheidung ist wirksam, weil das wichtigste Gebiet allein entscheiden darf.",
+      "Die Entscheidung ist wirksam, wenn der Prüfer besonders erfahren ist.",
+      "Die Entscheidung ist rechtswidrig, weil die Prüferkonferenz mit unbedingter Mehrheit aus Einzelergebnissen und bisherigen Schulleistungen entscheidet.",
+      "Die Entscheidung ist entbehrlich, weil Eignungsprüfungen kein Gesamtergebnis brauchen."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kein Einzelgebiet dominiert die Gesamtentscheidung allein.",
+      "Falsch: Erfahrung ersetzt das vorgeschriebene Gremium nicht.",
+      "Richtig: Konferenz, Mehrheit und Gesamtschau wurden missachtet.",
+      "Falsch: Eine Gesamtbeurteilung ist gerade vorgeschrieben."
+    ],
+    "aufloesung": "Die Alleinentscheidung ist aufzuheben und durch einen korrekten Konferenzbeschluss zu ersetzen. Die Prüferkonferenz entscheidet mit unbedingter Mehrheit auf Basis aller Einzelergebnisse und der bisherigen Schulleistungen. Einzelgänge verzerren das Verfahren und machen es anfechtbar. Zum Nachlesen: SchUG §8 Abs.2.",
+    "hauptquelle": "SchUG §8 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-004",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In der Prüferkonferenz einer Aufnahmsprüfung in Klagenfurt stehen drei Stimmen für bestanden und drei für nicht bestanden. Die Konferenz will den Gleichstand per Münzwurf auflösen, ersatzweise sollen die Eltern per Stichwahl entscheiden. Die Stimme der Schulleitung soll unberücksichtigt bleiben, weil man neutral bleiben wolle.",
+    "optionen": [
+      "Der Münzwurf ist eine zulässige neutrale Auflösung des Gleichstands.",
+      "Die Elternstichwahl ist das demokratischste Mittel zur Auflösung.",
+      "Bei Stimmengleichheit entscheidet die Stimme der Schulleitung, Los und Elternwahl sind unzulässig.",
+      "Bei Gleichstand gilt die Prüfung automatisch als bestanden ohne weitere Entscheidung."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Losentscheide sind im Prüfungsverfahren nicht vorgesehen.",
+      "Falsch: Eltern gehören der Prüferkonferenz nicht an.",
+      "Richtig: Die Auflösungsregel mit der Schulleitungsstimme wurde missachtet.",
+      "Falsch: Automatisch bestanden gibt es bei Gleichstand nicht."
+    ],
+    "aufloesung": "Der Gleichstand darf nur durch die Stimme der Schulleitung aufgelöst werden. Münzwurf und Elternwahl sind rechtswidrig und machen den Beschluss anfechtbar, der Beschluss ist mit korrekter Auszählung neu zu fassen und zu protokollieren. Zum Nachlesen: SchUG §8 Abs.2.",
+    "hauptquelle": "SchUG §8 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-005",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "BHS"
+    ],
+    "situation": "Familie Gruber meldet den Sohn zwei Jahre nach bestandener Aufnahmsprüfung für eine höhere technische Schule in Linz an einer anderen technischen Schule derselben Schulart an, alle sonstigen Voraussetzungen sind erfüllt. Die neue Schule lehnt ab und verlangt eine hauseigene Prüfung, weil fremde Prüfungen nichts zählten und alte Ergebnisse nach den Ferien verfielen.",
+    "optionen": [
+      "Die Ablehnung ist korrekt, weil jede Schule nur eigene Prüfungen anerkennt.",
+      "Die Ablehnung ist korrekt, weil Prüfungen nach den Sommerferien verfallen.",
+      "Die Ablehnung ist rechtswidrig, weil die bestandene Prüfung im laufenden und den beiden folgenden Jahren schulartweit zur Aufnahme berechtigt.",
+      "Die Ablehnung ist korrekt, wenn die Schule gerade viele Bewerbungen hat."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Berechtigung gilt schulartweit, nicht nur hausintern.",
+      "Falsch: Nach den Ferien verfällt hier nichts, es gelten drei Jahre.",
+      "Richtig: Geltungsdauer und schulartweite Wirkung wurden missachtet.",
+      "Falsch: Bewerberandrang ändert nichts an der bestehenden Berechtigung."
+    ],
+    "aufloesung": "Der Sohn ist bei erfüllten sonstigen Voraussetzungen aufzunehmen. Die bestandene Prüfung berechtigt drei Jahre lang schulartweit, hauseigene Neuprüfungen dürfen nicht verlangt und alte Ergebnisse nicht für verfallen erklärt werden. Zum Nachlesen: SchUG §8 Abs.4.",
+    "hauptquelle": "SchUG §8 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-006",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "BHS"
+    ],
+    "situation": "Nina hat die allgemeine Aufnahmsprüfung für eine höhere Schule in Graz bestanden und bewirbt sich für eine Fachrichtung, für die eine eigene zusätzliche Eignungsüberprüfung vorgesehen ist. Sie und ihre Eltern bestehen darauf, die allgemeine Prüfung müsse für jede Fachrichtung genügen, die Zusatzüberprüfung sei Schikane und könne ignoriert werden.",
+    "optionen": [
+      "Die allgemeine Prüfung genügt immer für jede Fachrichtung ohne Zusatz.",
+      "Zusatzüberprüfungen für Fachrichtungen sind grundsätzlich unzulässig.",
+      "Für Fachrichtungen mit eigener zusätzlicher Überprüfung reicht die allgemeine Prüfung allein nicht aus.",
+      "Es genügt, wenn die Eltern die Zusatzüberprüfung schriftlich ablehnen."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Ausnahme für Fachrichtungen mit Zusatzprüfung wird übersehen.",
+      "Falsch: Solche zusätzlichen Überprüfungen sind ausdrücklich möglich.",
+      "Richtig: Ohne die fachbezogene Überprüfung kein Einstieg in diese Richtung.",
+      "Falsch: Elternwiderspruch ersetzt die fehlende Überprüfung nicht."
+    ],
+    "aufloesung": "Nina darf ohne die Zusatzüberprüfung nicht in diese Fachrichtung aufgenommen werden. Wo eine eigene Überprüfung für die Fachrichtung vorgesehen ist, trägt die allgemeine Prüfung allein nicht. Sie ist gezielt zur Zusatzüberprüfung anzumelden. Zum Nachlesen: SchUG §8 Abs.4.",
+    "hauptquelle": "SchUG §8 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-007",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Eine Direktorin in Graz bereitet den Prüfungstermin für vierzig Bewerbungen vor. Die Eltern drohen mit Beschwerden und verlangen ein wasserdichtes Zulassungs- und Prüferverfahren. Welche Checkliste ist korrekt?",
+    "optionen": [
+      "Bei jeder Bewerbung prüfen, ob alle Voraussetzungen bis auf den allenfalls noch offenen Vorstufenabschluss erfüllt sind.",
+      "Festhalten, wer die Prüfer sind, und die Bestellung durch die Schulleitung dokumentieren.",
+      "Aufgaben in der Prüferkonferenz unter Vorsitz der Schulleitung festsetzen lassen.",
+      "Ermessens-Ausnahmen und Alleingänge einzelner Prüfer als Normalfall akzeptieren.",
+      "Antritte aus dem laufenden Schuljahr für dieselbe Schulart als verbraucht behandeln.",
+      "Zusagen, dass alle Bewerber jedenfalls bestehen werden, um Beschwerden zu vermeiden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur der Vorstufenabschluss darf noch offen sein.",
+      "Richtig: Bestellung und Bedarf gehören dokumentiert.",
+      "Richtig: Gemeinsame Festsetzung mit Vorsitz sichert faire Aufgaben.",
+      "Falsch: Ausnahmen und Alleingänge untergraben das Verfahren.",
+      "Richtig: Das Wiederholungsverbot im selben Jahr beachten.",
+      "Falsch: Erfolgszusagen sind unzulässig und entwerten die Prüfung."
+    ],
+    "aufloesung": "Zulassung, Prüferbestellung, Aufgabenkonferenz und Wiederholungsverbot werden vorab sauber geprüft und dokumentiert. Alleingänge und Erfolgszusagen machen den Durchgang anfechtbar. Zum Nachlesen: SchUG §6 Abs.1.",
+    "hauptquelle": "SchUG §6 Abs.1",
+    "zusatzquellen": [
+      "SchUG §7 Abs.2",
+      "SchUG §7 Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-008",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Als Prüfer in Salzburg beurteilst du eine Aufnahmsprüfung mit drei Gebieten. Die Konferenz steht bevor, ein Kollege will alles in einer Gesamtnote ohne Einzelnoten erledigen. Worauf bestehst du zu Recht?",
+    "optionen": [
+      "Jedes Gebiet einzeln nach den üblichen Beurteilungsregeln beurteilen.",
+      "Einzelbeurteilungen als Grundlage für die Gesamtschau in die Konferenz mitbringen.",
+      "Bisherige Schulleistungen als zweite Säule der Gesamtentscheidung einbeziehen.",
+      "Gesamtbeurteilung mit unbedingter Mehrheit in der Prüferkonferenz fällen.",
+      "Eine einzige Gesamtnote ohne Einzelnoten als ausreichend akzeptieren.",
+      "Den Prüfling seine Wunsch-Gesamtnote selbst vorschlagen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Einzelnoten keine tragfähige Gesamtschau.",
+      "Richtig: Die Konferenz braucht die Einzelbasis vorgelegt.",
+      "Richtig: Vorleistungen gehören ausdrücklich in die Abwägung.",
+      "Richtig: Mehrheit im Gremium, kein Einzelentscheid.",
+      "Falsch: Pauschalnoten ohne Basis sind angreifbar.",
+      "Falsch: Wunschnoten ersetzen kein Verfahren."
+    ],
+    "aufloesung": "Erst Einzelbeurteilung je Gebiet, dann Gesamtschau aus Einzelergebnissen und Vorleistungen mit Mehrheitsbeschluss. Pauschalnoten ohne Basis halten keiner Überprüfung stand. Zum Nachlesen: SchUG §8 Abs.1.",
+    "hauptquelle": "SchUG §8 Abs.1",
+    "zusatzquellen": [
+      "SchUG §8 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-009",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach dem Prüfungstermin in Dornbirn sind die Ergebnisse da: Einige haben bestanden, einer scheitert, zwei Bestehende finden wegen Platzmangels keinen Platz. Was ist bei Bekanntgabe und Zeugnissen korrekt?",
+    "optionen": [
+      "Jedem Prüfling seine Gesamtbeurteilung bekannt geben und die Mitteilung vermerken.",
+      "Bei Gleichstand in der Konferenz die Stimme der Schulleitung als Ausschlag heranziehen.",
+      "Wegen Platzmangels Abgewiesenen auf deren Verlangen ein Zeugnis über Einzel- und Gesamtbeurteilung ausstellen.",
+      "Ergebnisse nur anonym am Gang aushängen und sonst schweigen.",
+      "Allen Prüflingen automatisch ausführliche Zeugnisse zuschicken.",
+      "Gleichstände per Los oder Elternwahl auflösen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bekanntgabe plus Vermerk schließen das Verfahren ab.",
+      "Richtig: Die Auflösungsregel sichert mehrheitsfähige Beschlüsse.",
+      "Richtig: Verlangen plus Platzmangel ergibt den Zeugnisanspruch.",
+      "Falsch: Anonyme Aushänge ersetzen die persönliche Mitteilung nicht.",
+      "Falsch: Automatismus für alle besteht nicht.",
+      "Falsch: Los und Elternwahl sind keine Entscheidungsformen."
+    ],
+    "aufloesung": "Bekanntgabe an alle, Gleichstand über die Schulleitungsstimme lösen, Zeugnisse nur auf Verlangen bei Platzmangel. Anonyme Aushänge und Automatismen genügen nicht. Zum Nachlesen: SchUG §8 Abs.3.",
+    "hauptquelle": "SchUG §8 Abs.3",
+    "zusatzquellen": [
+      "SchUG §8 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-010",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Felix hat vor zwei Jahren knapp bestanden und will sich heuer erneut verbessern, gleichzeitig meldet sich ein Umsteiger mit vier Jahre alter Prüfung an. Die Schule ist unsicher, was noch gilt. Welche Feststellungen treffen zu?",
+    "optionen": [
+      "Die Prüfung berechtigt im laufenden und den beiden folgenden Schuljahren schulartweit.",
+      "Ein erneuter Antritt in den beiden Folgejahren ist zulässig.",
+      "Bei erneutem Antritt zählt jeweils das bessere Ergebnis.",
+      "Eine vier Jahre alte Prüfung trägt keine Aufnahmeberechtigung mehr.",
+      "Jede Prüfung darf nur einmal im Leben abgelegt werden.",
+      "Das schlechtere neue Ergebnis verdrängt automatisch das bessere alte."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Drei Jahre Geltung ab dem Prüfungsjahr.",
+      "Richtig: Wiederantritt in den Folgejahren ist erlaubt.",
+      "Richtig: Das bessere Ergebnis gewinnt.",
+      "Richtig: Nach Ablauf der drei Jahre ist die Berechtigung erloschen.",
+      "Falsch: Auf einen Versuch beschränkt ist niemand.",
+      "Falsch: Schlechter verdrängt besser nicht."
+    ],
+    "aufloesung": "Drei Jahre gelten, Wiederantritt in den Folgejahren ist erlaubt und das bessere Ergebnis zählt. Die vier Jahre alte Prüfung ist erloschen und trägt nichts mehr. Zum Nachlesen: SchUG §8 Abs.4.",
+    "hauptquelle": "SchUG §8 Abs.4",
+    "zusatzquellen": [
+      "SchUG §8 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-011",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Emir glänzt mit sehr guten Volksschulnoten, versagt aber in allen Prüfungsteilen der Sporteignung deutlich. Die Eltern fordern das Bestehen wegen der Noten, ein Prüfer will die Vornoten ignorieren und nur die Tagesleistung werten. Was ist verfahrenskorrekt?",
+    "optionen": [
+      "Beide Säulen wägen: Einzelergebnisse der Prüfung und bisherige Schulleistungen.",
+      "Trotz guter Noten kann wegen mangelnder Eignung auf nicht bestanden erkannt werden.",
+      "Gute Noten führen automatisch zum Bestehen ohne Eignungsblick.",
+      "Vornoten dürfen überhaupt nicht einbezogen werden.",
+      "Abwägung, Mehrheit und Begründung sauber protokollieren.",
+      "Den Eltern die Gesamtschau aus Prüfung und Vorleistungen nachvollziehbar erklären."
+    ],
+    "richtig": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gesamtschau aus beiden Säulen ist vorgeschrieben.",
+      "Richtig: Eignungsmangel schlägt gute Noten im Ergebnis.",
+      "Falsch: Automatismus über Noten besteht nicht.",
+      "Falsch: Ignorieren der Vorleistungen verstößt gegen die Abwägungspflicht.",
+      "Richtig: Nur ein begründetes Protokoll trägt den Beschluss.",
+      "Richtig: Transparenz gegenüber den Eltern deeskaliert."
+    ],
+    "aufloesung": "Die Konferenz wägt Prüfung und Vorleistungen ab und kann trotz guter Noten wegen Eignungsmangels auf nicht bestehen erkennen. Beide Extreme, Notenautomatik und Notenignoranz, sind rechtswidrig. Zum Nachlesen: SchUG §8 Abs.2.",
+    "hauptquelle": "SchUG §8 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L3-012",
+    "modul_id": "A03",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Eine Kollegin behauptet, eine einmal bestandene Aufnahmsprüfung gelte lebenslang und für jede beliebige Schulart, und jeder durchgefallene Prüfling dürfe noch im selben Schuljahr an einer anderen Schule derselben Schulart erneut antreten.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Es gelten drei Jahre schulartweit und ein Wiederholungsverbot im selben Jahr."
+    ],
+    "aufloesung": "Die Behauptung ist doppelt falsch und hielte keiner Überprüfung stand. Die bestandene Prüfung berechtigt nur drei Jahre und nur schulartweit, und dieselbe Prüfung darf im selben Schuljahr nicht wiederholt werden. Zum Nachlesen: SchUG §8 Abs.4.",
+    "hauptquelle": "SchUG §8 Abs.4",
+    "zusatzquellen": [
+      "SchUG §6 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  }
+]

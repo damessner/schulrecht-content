@@ -1,1 +1,389 @@
-[]
+[
+  {
+    "id": "A06-L3-001",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Emir besucht am Stichtag die Deutschförderklasse in Wien. Die Eltern verweigern die Sommerschule wegen einer gebuchten Urlaubsreise, die Schule nickt ab und meint, alles sei freiwillig und eine Anmeldung sei ohnehin nicht nötig. Eine amtswegige Anmeldung unterbleibt, informiert wird niemand.",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil Urlaub immer vorgeht und alles freiwillig ist.",
+      "Das Vorgehen ist korrekt, wenn die Eltern eine Reisebuchung vorlegen.",
+      "Das Vorgehen ist rechtswidrig, weil Teilnahmepflicht besteht und die Leitung amtswegig anzumelden und zu informieren hat.",
+      "Das Vorgehen ist nur bei der Anmeldung falsch, die Freiwilligkeit stimmt."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Urlaub schlägt die Pflicht nicht, freiwillig ist hier nichts.",
+      "Falsch: Buchungen ersetzen keine Rechtsprüfung.",
+      "Richtig: Pflicht, Amtswegigkeit und Info wurden missachtet.",
+      "Falsch: Auch die Freiwilligkeitsannahme ist hier falsch."
+    ],
+    "aufloesung": "Emir muss teilnehmen und ist amtswegig anzumelden. Die Schule holt Anmeldung und Elterninfo nach und besteht auf der Teilnahme, Urlaubsplanungen stehen dem nicht entgegen. Zum Nachlesen: SchUG §12 Abs.6a.",
+    "hauptquelle": "SchUG §12 Abs.6a",
+    "zusatzquellen": [
+      "SchUG §12 Abs.10"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-002",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Ein Berufsschüler in Innsbruck wird im Sommer wegen Sprache außerordentlich aufgenommen. Die Berufsschule verhängt eine Teilnahmepflicht für die Sommerschule, droht mit Sanktionen bei Urlaub und lehnt jeden Hinweis auf die Sonderstellung der Berufsschulen als Ausrede ab.",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil Pflicht überall gleich gilt.",
+      "Das Vorgehen ist korrekt, wenn der Schüler im Sommer aufgenommen wurde.",
+      "Das Vorgehen ist rechtswidrig, weil die Pflicht an Berufsschulen ausdrücklich nicht gilt.",
+      "Das Vorgehen ist nur bei den Sanktionen falsch, die Pflicht stimmt."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gleich gilt sie gerade nicht, Berufsschulen sind ausgenommen.",
+      "Falsch: Sommeraufnahme ändert an der Ausnahme nichts.",
+      "Richtig: Die Bereichsausnahme wurde missachtet.",
+      "Falsch: Auch die Pflichtannahme selbst ist hier falsch."
+    ],
+    "aufloesung": "Die Pflichtverhängung ist aufzuheben. An Berufsschulen gilt diese Verpflichtung nicht, Sanktionen entfallen. Freiwillige Teilnahme darf angeboten, aber nicht erzwungen werden. Zum Nachlesen: SchUG §12 Abs.6a.",
+    "hauptquelle": "SchUG §12 Abs.6a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-003",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Sommerschule in St. Pölten bietet statt Pflichtgegenständen und Deutschförderung nur unverbindliche Spielnachmittage ohne Plan. Die Leitung lehnt Studierende als ungeeignet ab, lässt Unterricht ohne jede Betreuung durch Zufallspersonen halten und erklärt Bewegung sowie fächerübergreifende Einheiten für verboten.",
+    "optionen": [
+      "Das Konzept ist korrekt, weil Spielnachmittage genügen.",
+      "Das Konzept ist korrekt, wenn die Kinder Spaß haben.",
+      "Das Konzept ist rechtswidrig, weil Kerninhalte, Betreuungserfordernis und zulässige Ergänzungen missachtet wurden.",
+      "Das Konzept ist nur bei den Studierenden falsch, sonst stimmt alles."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Spiel ohne Unterricht ist keine Förderung.",
+      "Falsch: Spaß ersetzt keinen Stundenplan.",
+      "Richtig: Dreifacher Konzeptfehler in einem Angebot.",
+      "Falsch: Auch Inhalte und Betreuung sind hier fehlerhaft."
+    ],
+    "aufloesung": "Das Konzept muss neu aufgesetzt werden: Pflichtgegenstände plus Deutschförderung als Kern, Studierende nur unter Betreuung, Bewegung und fächerübergreifende Einheiten als zulässige Ergänzung. Zufallspersonal ohne Betreuung endet sofort. Zum Nachlesen: SchUG §12 Abs.11.",
+    "hauptquelle": "SchUG §12 Abs.11",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-004",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Gruber zieht von Linz nach Wels und will den Sohn zur Sommerschule anmelden. Beide Schulen weisen sich gegenseitig die Zuständigkeit zu, verlangen eine Ministeriumseingabe und erklären, ohne Anmeldung laufe die Planung ohnehin. Der pflichtige Sohn steht ohne Platz da.",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil nur das Ministerium anmelden kann.",
+      "Das Vorgehen ist korrekt, wenn beide Schulen ablehnen und niemand plant.",
+      "Das Vorgehen ist rechtswidrig, weil Stamm- oder Folgeschule anzumelden haben und bei Pflicht amtswegig anzumelden ist.",
+      "Das Vorgehen ist nur bei der Planung falsch, die Ablehnung stimmt."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Ministerium braucht es für die Anmeldung nicht.",
+      "Falsch: Gegenseitiges Abwälzen löst keine Planung aus.",
+      "Richtig: Beide Anmeldewege plus Amtswegigkeit wurden missachtet.",
+      "Falsch: Auch die Ablehnung ist hier rechtswidrig."
+    ],
+    "aufloesung": "Eine der beiden Schulen nimmt die Anmeldung entgegen, bei Pflicht meldet die Leitung amtswegig an und informiert die Eltern. Pingpong und Ministeriumserfordernisse sind unzulässig. Zum Nachlesen: SchUG §12 Abs.10.",
+    "hauptquelle": "SchUG §12 Abs.10",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-005",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Jonas besucht die Sommerschule in Dornbirn und soll parallel zur Wiederholungsprüfung in Mathematik. Die Leitung stellt ihn vor die Wahl und droht mit Ausschluss aus der Sommerschule, wenn er zur Prüfung geht, ersatzweise soll die Prüfung entfallen. Koordination lehnt sie als zu aufwendig ab.",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil man sich entscheiden muss.",
+      "Das Vorgehen ist korrekt, wenn die Sommerschule gerade voll ist.",
+      "Das Vorgehen ist rechtswidrig, weil für die Prüfung die nötige Zeit zu gewähren und beides zu vereinbaren ist.",
+      "Das Vorgehen ist nur bei der Drohung falsch, die Wahl stimmt."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wählen muss Jonas sich gerade nicht.",
+      "Falsch: Auslastung ändert nichts an der Freistellungspflicht.",
+      "Richtig: Vereinbarkeitsgebot und Zeitanspruch wurden missachtet.",
+      "Falsch: Auch die Alternativstellung ist hier falsch."
+    ],
+    "aufloesung": "Jonas erhält die nötige Prüfungszeit und kehrt danach in die Sommerschule zurück. Ausschlussdrohung und Entfallansinnen sind aufzuheben, Termine werden koordiniert. Zum Nachlesen: SchUG §12 Abs.10.",
+    "hauptquelle": "SchUG §12 Abs.10",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-006",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zehn Buddys helfen in Villach beim Lernen. Die Leitung rechnet sie auf die Gruppen an, löst zwei Gruppen auf, verlangt von den Buddys das Mitschreiben aller Prüfungen und stellt Bestätigungen nur gegen Gebühr in Aussicht. Selbstausstellung per Vorlage soll genügen.",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil Buddys wie Angemeldete zählen.",
+      "Das Vorgehen ist korrekt, wenn das Geld der Bestätigung dient.",
+      "Das Vorgehen ist rechtswidrig, weil Buddys nicht angerechnet werden, nicht mitprüfen und eine Leitungsbestätigung ohne Gebühr erhalten.",
+      "Das Vorgehen ist nur bei der Gebühr falsch, sonst stimmt alles."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Anrechnung und Auflösung widersprechen der Sonderstellung.",
+      "Falsch: Geld spielt für Bestätigungen keine Rolle.",
+      "Richtig: Dreifacher Buddy-Fehler in einem Akt.",
+      "Falsch: Auch Anrechnung und Mitprüfen sind hier falsch."
+    ],
+    "aufloesung": "Die Gruppenauflösung ist rückgängig zu machen, Mitprüfpflicht und Gebühren entfallen. Buddys zählen nicht mit und erhalten eine eigene Bestätigung der Leitung. Selbstausstellungen gelten nicht. Zum Nachlesen: SchUG §12 Abs.12.",
+    "hauptquelle": "SchUG §12 Abs.12",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-007",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zum Sommer melden sich drei Fälle in Graz: Emir mit Deutschförderklasse am Stichtag, Aylin mit Sommer-Aufnahme als Außerordentliche wegen Sprache, ein Berufsschüler mit Sommer-Aufnahme wegen Sprache. Alle drei fragen nach Pflicht und Anmeldung. Was ist korrekt?",
+    "optionen": [
+      "Bei Emir die Teilnahmepflicht bejahen und amtswegig anmelden.",
+      "Bei Aylin die Teilnahmepflicht bejahen und amtswegig anmelden.",
+      "Beim Berufsschüler die Pflicht verneinen und freiwillige Teilnahme anbieten.",
+      "Alle drei ohne Anmeldung einfach kommen lassen.",
+      "Alle drei der Pflicht unterwerfen inklusive Berufsschüler.",
+      "Jeden Fall mit Stichtag, Aufnahmeart und Schulart dokumentieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Stichtag plus Förderklasse ergibt Pflicht.",
+      "Richtig: Sommer-Aufnahme plus Sprachbedarf ergibt Pflicht.",
+      "Richtig: Bereichsausnahme für Berufsschulen beachten.",
+      "Falsch: Ohne Anmeldung läuft die Planung nicht.",
+      "Falsch: Gleichmacherei über die Ausnahme hinweg ist falsch.",
+      "Richtig: Einzelfalldoku schützt vor Verwechslung."
+    ],
+    "aufloesung": "Emir und Aylin werden pflichtig amtswegig angemeldet, der Berufsschüler erhält ein freiwilliges Angebot ohne Pflicht. Jeder Fall wird einzeln mit Stichtag und Aufnahmeart belegt. Zum Nachlesen: SchUG §12 Abs.6a.",
+    "hauptquelle": "SchUG §12 Abs.6a",
+    "zusatzquellen": [
+      "SchUG §12 Abs.10"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-008",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Sommerschule in Klagenfurt soll saniert werden: Bisher nur Spielnachmittage, Zufallspersonal ohne Betreuung, keine Deutschförderung, verbotene Ergänzungen. Eltern verlangen ein korrektes Konzept. Welche Bausteine gehören hinein?",
+    "optionen": [
+      "Pflichtgegenstände plus jedenfalls Deutschförderung als Kern einplanen.",
+      "Bewegungs- und fächerübergreifende Einheiten als Ergänzung zulassen.",
+      "Lehrpersonen oder betreute Studierende unter Leitungsbetreuung einsetzen.",
+      "Betreuungsverhältnis und Stundenplan schriftlich festlegen.",
+      "Reine Spielnachmittage ohne Unterricht als Konzept beibehalten.",
+      "Unbetreutes Zufallspersonal als Normalfall fortführen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kern aus Pflicht plus Deutsch sichert Förderung.",
+      "Richtig: Zulässige Ergänzungen bereichern statt zu ersetzen.",
+      "Richtig: Betreuung ist zwingende Einsatzbedingung.",
+      "Richtig: Schriftlichkeit schafft Verbindlichkeit.",
+      "Falsch: Spiel ohne Unterricht trägt keine Förderung.",
+      "Falsch: Ohne Betreuung geht es gerade nicht."
+    ],
+    "aufloesung": "Das Konzept wird neu aufgesetzt: Kern, Ergänzung, betreutes Personal und schriftlicher Plan. Spielersatz und Zufallspersonal enden sofort. Zum Nachlesen: SchUG §12 Abs.11.",
+    "hauptquelle": "SchUG §12 Abs.11",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-009",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In Villach eskaliert der Buddy-Einsatz: Anrechnung auf Gruppen, Auflösung von Gruppen, Mitprüfpflicht, Gebühren für Bestätigungen, Selbstausstellung. Die Buddys drohen mit Rückzug. Wie sanierst du als Leitung korrekt?",
+    "optionen": [
+      "Buddys auf Einladung als Unterstützung einsetzen ohne Anrechnung.",
+      "Gruppenauflösung rückgängig machen und Planung stabil halten.",
+      "Mitprüfpflicht streichen, Helfen ist die Rolle.",
+      "Eigene Bestätigung der Leitung ohne Gebühr ausstellen.",
+      "Anrechnung, Gebühren und Selbstausstellung als Konzept beibehalten.",
+      "Einladungen und Bestätigungen im Akt vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einladung plus Helfensrolle, das ist der Weg.",
+      "Richtig: Stabilität der Gruppen wiederherstellen.",
+      "Richtig: Mitprüfen schulden Buddys nicht.",
+      "Richtig: Leitungsbestätigung ohne Geld.",
+      "Falsch: Die Missstände dürfen nicht fortgeführt werden.",
+      "Richtig: Vermerke belegen den korrekten Einsatz."
+    ],
+    "aufloesung": "Der Einsatz wird vollständig saniert: keine Anrechnung, keine Mitprüfpflicht, keine Gebühren, dafür Einladung und Leitungsbestätigung. Alles wird dokumentiert. Zum Nachlesen: SchUG §12 Abs.12.",
+    "hauptquelle": "SchUG §12 Abs.12",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-010",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS",
+      "BS"
+    ],
+    "situation": "In Graz laufen drei Förderfälle parallel: David mit frischem Bedarf in Deutsch, Nina mit weggefallenem Bedarf in Mathematik, Felix mit Überlastung durch zu viele Förderstunden. Die Eltern verlangen klare Entscheidungen. Was ist korrekt?",
+    "optionen": [
+      "Bei David den festgestellten Bedarf als Pflicht anordnen.",
+      "Bei Nina die Abmeldung wegen Wegfalls ermöglichen.",
+      "Bei Felix das Ausmaß nach Lehrplan, Belastbarkeit und Bedarf begrenzen.",
+      "Förderung in allen Fällen als immer freiwillig erklären.",
+      "Fernbleiben ohne Verfahren in allen Fällen akzeptieren.",
+      "Jede Entscheidung mit Bedarfslage begründen und dokumentieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Festgestellter Bedarf löst die Pflicht aus.",
+      "Richtig: Wegfall öffnet den Ausstieg.",
+      "Richtig: Überlastung wird maßvoll begrenzt.",
+      "Falsch: Ganz freiwillig ist er bei Bedarf nicht.",
+      "Falsch: Einfach fernbleiben gilt nicht.",
+      "Richtig: Nur Begründetes hält Rückfragen stand."
+    ],
+    "aufloesung": "David wird verpflichtet, Nina darf sich abmelden, Felix erhält ein begrenztes Maß. Jede Entscheidung stützt sich auf Bedarf, Belastbarkeit und Lehrplan und wird dokumentiert. Zum Nachlesen: SchUG §12 Abs.6.",
+    "hauptquelle": "SchUG §12 Abs.6",
+    "zusatzquellen": [
+      "SchUG §12 Abs.8",
+      "SchUG §12 Abs.9"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-011",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schule will Anmeldung und Prüfungskoordination sanieren: Bisher Pingpong zwischen Stamm- und Folgeschule, keine Amtswegigkeit bei Pflicht, keine Zeit für Wiederholungsprüfungen, keine Infos an Eltern. Welche Sanierung ist korrekt?",
+    "optionen": [
+      "Anmeldung an Stamm- oder Folgeschule entgegennehmen.",
+      "Bei Pflicht amtswegig anmelden und Eltern informieren.",
+      "Für Wiederholungsprüfungen die nötige Zeit gewähren und koordinieren.",
+      "Anmeldefristen und Freistellungen schriftlich mitteilen.",
+      "Pingpong und Ministeriumserfordernisse als Verfahren beibehalten.",
+      "Ausschluss aus der Sommerschule wegen Prüfung als Regel einführen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beide Anmeldewege stehen offen.",
+      "Richtig: Amtswegigkeit plus Info sichert Pflichtige.",
+      "Richtig: Vereinbarkeit statt Entweder-oder.",
+      "Richtig: Schriftlichkeit verhindert Streit.",
+      "Falsch: Abwälzen löst keine Planung aus.",
+      "Falsch: Rauswurf wegen Prüfung wäre falsch."
+    ],
+    "aufloesung": "Anmeldung und Koordination werden neu aufgesetzt: beide Wege offen, Pflichtige amtswegig, Prüfungszeit gewährt, alles schriftlich. Pingpong und Rauswurf enden. Zum Nachlesen: SchUG §12 Abs.10.",
+    "hauptquelle": "SchUG §12 Abs.10",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A06-L3-012",
+    "modul_id": "A06",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Eine Kollegin behauptet, die Sommerschule sei auch für Deutschförderklassenkinder am Stichtag immer freiwillig, Buddys würden auf die Gruppen angerechnet und bräuchten keine Bestätigung, und für Wiederholungsprüfungen gebe es während der Sommerschule keine Zeit.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Pflicht, keine Anrechnung mit Bestätigung, Prüfungszeit wird gewährt."
+    ],
+    "aufloesung": "Die Behauptung ist dreifach falsch und hielte keiner Überprüfung stand. Es besteht Pflicht, Buddys zählen nicht mit und erhalten eine Leitungsbestätigung, und Prüfungszeit ist zu gewähren. Zum Nachlesen: SchUG §12 Abs.6a.",
+    "hauptquelle": "SchUG §12 Abs.6a",
+    "zusatzquellen": [
+      "SchUG §12 Abs.10",
+      "SchUG §12 Abs.12"
+    ],
+    "stand": "04.09.2026"
+  }
+]

@@ -1,1 +1,520 @@
-[]
+[
+  {
+    "id": "A03-L2-001",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Du bist Administrator an einem Gymnasium in Graz. Lena bewirbt sich für die Oberstufe, ihr Abschlusszeugnis der Unterstufe kommt erst nach dem Prüfungstermin. Welche Punkte prüfst du bei der Zulassung? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Prüfen, ob alle übrigen Aufnahmevoraussetzungen bereits erfüllt sind.",
+      "Akzeptieren, dass genau der Abschluss der Vorstufe zum Prüfungszeitpunkt noch fehlen darf.",
+      "Die Bewerbung ablehnen, weil ohne Abschlusszeugnis gar kein Antritt möglich ist.",
+      "Eine Ermessens-Ausnahmegenehmigung der Direktion als Voraussetzung verlangen.",
+      "Lena ein Wartejahr bis zum nächsten Durchgang auferlegen.",
+      "Festhalten, welche Voraussetzung noch offen ist, und den Akt dokumentieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Alle anderen Voraussetzungen müssen schon vorliegen.",
+      "Richtig: Nur der Vorstufenabschluss darf noch offen sein.",
+      "Falsch: Genau in diesem Fall ist der Antritt zulässig.",
+      "Falsch: Eine Ermessensgenehmigung ist dafür nicht vorgesehen.",
+      "Falsch: Ein Wartejahr verlangt niemand.",
+      "Richtig: Dokumentation des offenen Punktes sichert das Verfahren."
+    ],
+    "aufloesung": "Lena darf antreten, wenn nur der Vorstufenabschluss noch fehlt. Alle übrigen Voraussetzungen prüfen, den offenen Punkt vermerken und zulassen. Zum Nachlesen: SchUG §6 Abs.1.",
+    "hauptquelle": "SchUG §6 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-002",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Moritz ist bei der Eignungsprüfung für eine Sportschule in Linz gescheitert. Die Eltern wollen noch im selben Schuljahr an einer anderen Sportschule erneut antreten. Was erklärst du ihnen korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Dieselbe Prüfung darf für dasselbe Schuljahr nicht wiederholt werden.",
+      "Ein Schulwechsel schafft keinen neuen Antritt für dieselbe Schulart im selben Jahr.",
+      "Ein anderes Bundesland eröffnet einen sofortigen zweiten Versuch.",
+      "Im nächsten Schuljahr ist ein neuer Antritt wieder möglich.",
+      "Nach einem Fehlversuch ist jeder weitere Versuch für immer verboten.",
+      "Das Ergebnis des ersten Antritts für dieses Schuljahr dokumentieren und mitteilen."
+    ],
+    "richtig": [
+      0,
+      1,
+      3,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein Antritt pro Schuljahr und Schulart, das Ergebnis steht.",
+      "Richtig: Der Schulwechsel ändert nichts am Wiederholungsverbot.",
+      "Falsch: Auch ein anderes Bundesland heilt das Verbot nicht.",
+      "Richtig: Im Folgejahr öffnet sich der Weg erneut.",
+      "Falsch: Für immer ausgeschlossen ist niemand.",
+      "Richtig: Klare Mitteilung des Ergebnisses beendet Spekulationen."
+    ],
+    "aufloesung": "Kein zweiter Antritt im selben Schuljahr für dieselbe Schulart, auch nicht an einer anderen Schule. Ergebnis festhalten, neuen Versuch erst im nächsten Schuljahr einplanen. Zum Nachlesen: SchUG §6 Abs.2.",
+    "hauptquelle": "SchUG §6 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-003",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vater fragt dich als Lehrer an einer Handelsakademie in Wien, woraus sich Form und Stoff der Aufnahmsprüfung ergeben. Welche Antworten sind korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Form und Prüfungsgebiete richten sich nach einer Verordnung.",
+      "Der Stoff baut auf dem Lehrplan der Mindestvorstufe auf.",
+      "Jede Schule erfindet frei und ohne Bindung, was sie prüfen will.",
+      "Die Eltern stimmen über den Prüfungsstoff ab.",
+      "Geprüft wird nur freies Allgemeinwissen ohne Lehrplanbezug.",
+      "Aufgaben der Schulart bestimmen, was die Verordnung festlegt."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Verordnung gibt Form und Gebiete vor.",
+      "Richtig: Der Lehrplanbezug zur Vorstufe sichert Vergleichbarkeit.",
+      "Falsch: Freies Erfinden wäre willkürlich und unfair.",
+      "Falsch: Eltern stimmen über den Stoff nicht ab.",
+      "Falsch: Der Bezug zur Vorstufe ist ausdrücklich vorgesehen.",
+      "Richtig: Die Aufgaben der Schulart sind der Maßstab der Verordnung."
+    ],
+    "aufloesung": "Der Stoff kommt aus der Verordnung und baut auf dem Lehrplan der Mindestvorstufe auf. So bleiben die Prüfungen vergleichbar und fair. Zum Nachlesen: SchUG §7 Abs.1.",
+    "hauptquelle": "SchUG §7 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-004",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor der Aufnahmsprüfung an einer Mittelschule mit sportlichem Schwerpunkt in Salzburg fragt eine Mutter, wer die Prüfer bestimmt. Welche Schritte gehören zum korrekten Vorgehen? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Der Schulleiter legt fest, wie viele Lehrkräfte als Prüfer nötig sind.",
+      "Der Schulleiter bestellt die erforderlichen Lehrer als Prüfer.",
+      "Die Prüflinge wählen ihre Prüfer selbst aus.",
+      "Externe Prüfer kommen automatisch immer zum Einsatz.",
+      "Der Klassenvorstand der Volksschule prüft automatisch mit.",
+      "Bestellung und Einteilung schriftlich festhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Bedarf wird von der Schulleitung festgelegt.",
+      "Richtig: Die Bestellung erfolgt durch die Schulleitung.",
+      "Falsch: Sich Prüfer aussuchen gibt es nicht.",
+      "Falsch: Externe kommen nicht automatisch zum Einsatz.",
+      "Falsch: Automatismen dieser Art sind nicht vorgesehen.",
+      "Richtig: Schriftlichkeit sichert die Zuständigkeit im Streitfall."
+    ],
+    "aufloesung": "Der Schulleiter bestellt die nötige Zahl von Lehrkräften als Prüfer. Wünsche der Prüflinge spielen dabei keine Rolle, die Bestellung wird dokumentiert. Zum Nachlesen: SchUG §7 Abs.2.",
+    "hauptquelle": "SchUG §7 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-005",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein junger Kollege will für sein Gebiet der Eignungsprüfung allein schwierige Sonderaufgaben stellen, damit weniger Kinder bestehen. Du erklärst ihm das korrekte Verfahren. Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die Aufgaben werden in einer Konferenz aller Prüfer festgesetzt.",
+      "Die Konferenz tagt unter dem Vorsitz der Schulleitung.",
+      "Jeder Prüfer stellt seine Aufgaben allein und geheim.",
+      "Die Schüler stimmen über die Aufgaben ab.",
+      "Alleingänge mit dem Ziel, die Durchfallquote zu treiben, sind unzulässig.",
+      "Festsetzung und Vorsitz im Protokoll vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gemeinsame Festsetzung sichert faire Aufgaben.",
+      "Richtig: Der Vorsitz der Schulleitung gehört zum Verfahren.",
+      "Falsch: Alleingänge einzelner Prüfer sind nicht vorgesehen.",
+      "Falsch: Mitbestimmung über Aufgaben gibt es nicht.",
+      "Richtig: Selektion durch Sonderaufgaben verzerrt die Prüfung.",
+      "Richtig: Nur was protokolliert ist, lässt sich später belegen."
+    ],
+    "aufloesung": "Niemand stellt Aufgaben allein. Die Prüfer setzen sie gemeinsam in einer Konferenz unter Vorsitz der Schulleitung fest. Zum Nachlesen: SchUG §7 Abs.3.",
+    "hauptquelle": "SchUG §7 Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-006",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selina tritt zur Aufnahmsprüfung mit den Gebieten Deutsch und Mathematik an und fragt, wie beurteilt wird. Worauf musst du als Prüfer achten? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Jedes Prüfungsgebiet wird einzeln beurteilt.",
+      "Die Beurteilung je Gebiet folgt den üblichen Beurteilungsregeln.",
+      "Es genügt eine einzige Gesamtnote ohne Blick auf die Gebiete.",
+      "Nur das beste Gebiet wird bewertet, der Rest entfällt.",
+      "Noten aus dem Volksschulzeugnis werden einfach übernommen.",
+      "Jede Einzelbeurteilung nachvollziehbar festhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst Einzelbeurteilung je Gebiet, dann Gesamtschau.",
+      "Richtig: Der übliche Beurteilungsmaßstab gilt auch hier.",
+      "Falsch: Ohne Einzelbeurteilungen fehlt die Grundlage.",
+      "Falsch: Das beste Gebiet allein entscheidet nichts.",
+      "Falsch: Übernommen wird nichts, die Prüfung zählt.",
+      "Richtig: Nachvollziehbare Einzelnoten tragen die Gesamtentscheidung."
+    ],
+    "aufloesung": "Jedes Gebiet zählt einzeln und wird nach den üblichen Regeln beurteilt. Erst danach folgt die Gesamtentscheidung. Zum Nachlesen: SchUG §8 Abs.1.",
+    "hauptquelle": "SchUG §8 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-007",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Eignungsprüfung für eine Musikmittelschule in Innsbruck ist unklar, wer das Gesamtergebnis feststellt. Was gehört zum korrekten Verfahren? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die Prüferkonferenz stellt die Gesamtbeurteilung fest.",
+      "Die Entscheidung fällt mit unbedingter Mehrheit der Stimmen.",
+      "Einzelergebnisse der Prüfung fließen in die Entscheidung ein.",
+      "Die bisherigen Schulleistungen werden dabei berücksichtigt.",
+      "Ein einzelner Prüfer entscheidet allein über alles.",
+      "Das Los zwischen den Prüfern entscheidet bei Uneinigkeit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Konferenz als Gremium stellt das Ergebnis fest.",
+      "Richtig: Unbedingte Mehrheit ist das vorgeschriebene Quorum.",
+      "Richtig: Ohne Einzelergebnisse gibt es keine Gesamtschau.",
+      "Richtig: Vorleistungen gehören ausdrücklich in die Abwägung.",
+      "Falsch: Eine Einzelstimme kann nicht alles entscheiden.",
+      "Falsch: Gelost wird bei Prüfungen nichts."
+    ],
+    "aufloesung": "Die Konferenz entscheidet mit unbedingter Mehrheit aus Einzelergebnissen und bisherigen Schulleistungen. Einzelgänge und Losentscheide sind ausgeschlossen. Zum Nachlesen: SchUG §8 Abs.2.",
+    "hauptquelle": "SchUG §8 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-008",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In der Prüferkonferenz einer Aufnahmsprüfung in Klagenfurt stehen drei Stimmen für bestanden und drei für nicht bestanden. Wie löst du den Gleichstand korrekt auf? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Bei Stimmengleichheit entscheidet die Stimme der Schulleitung.",
+      "Den Gleichstand im Protokoll mit Stimmenverhältnis festhalten.",
+      "Bei Gleichstand gilt die Prüfung automatisch als bestanden.",
+      "Die Prüfung wird bei Gleichstand ersatzlos gestrichen.",
+      "Die Eltern werden zur Stichwahl in die Konferenz geholt.",
+      "So lange neu abstimmen, bis jemand nachgibt."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Stimme der Schulleitung löst den Gleichstand auf.",
+      "Richtig: Das Stimmenverhältnis gehört ins Protokoll.",
+      "Falsch: Automatisch bestanden gibt es bei Gleichstand nicht.",
+      "Falsch: Gestrichen wird die Prüfung deswegen nicht.",
+      "Falsch: Eltern stimmen in der Konferenz nicht mit.",
+      "Falsch: Dauerabstimmungen ersetzen die Auflösungsregel nicht."
+    ],
+    "aufloesung": "Bei Gleichstand gibt die Schulleitung den Ausschlag. Ergebnis und Stimmenverhältnis werden protokolliert, dann wird bekannt gegeben. Zum Nachlesen: SchUG §8 Abs.2.",
+    "hauptquelle": "SchUG §8 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-009",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Aylin hat die Eignungsprüfung in Wien abgelegt und wartet mit ihren Eltern auf das Ergebnis. Was musst du bei der Bekanntgabe beachten? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Dem Prüfling ist die Gesamtbeurteilung bekannt zu geben.",
+      "Bestanden oder nicht bestanden wird klar mitgeteilt.",
+      "Das Ergebnis bleibt gegenüber dem Prüfling geheim.",
+      "Nur die Volksschule erfährt das Ergebnis, nicht das Kind.",
+      "Ein anonymer Aushang ohne Namen ersetzt die Mitteilung.",
+      "Bekanntgabe und Zeitpunkt im Akt vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bekanntgabe an den Prüfling ist vorgesehen.",
+      "Richtig: Klarheit über bestanden oder nicht bestanden schafft Rechtssicherheit.",
+      "Falsch: Geheimhaltung gegenüber dem Prüfling wäre falsch.",
+      "Falsch: Umweg über andere Stellen ersetzt die Mitteilung nicht.",
+      "Falsch: Anonyme Aushänge ersetzen die persönliche Bekanntgabe nicht.",
+      "Richtig: Der Vermerk belegt, dass mitgeteilt wurde."
+    ],
+    "aufloesung": "Jeder Prüfling erfährt seine Gesamtbeurteilung. Geheimhaltung oder anonyme Aushänge genügen nicht, die Mitteilung wird dokumentiert. Zum Nachlesen: SchUG §8 Abs.3.",
+    "hauptquelle": "SchUG §8 Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-010",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David hat die Aufnahmsprüfung für ein Gymnasium in Dornbirn bestanden, wird aber wegen Platzmangels nicht aufgenommen. Die Eltern bitten um etwas Schriftliches. Was ist korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Auf Verlangen wird ein Zeugnis über Einzel- und Gesamtbeurteilung ausgestellt.",
+      "Voraussetzung ist, dass die Aufnahme nur wegen Platzmangels scheitert.",
+      "Automatisch bekommt jeder Prüfling ein ausführliches Zeugnis zugeschickt.",
+      "Zeugnisse über die Prüfung sind grundsätzlich verboten.",
+      "Für das Zeugnis wird eine Gebühr verlangt.",
+      "Verlangen und Ausstellung im Akt festhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Auf Verlangen plus Platzmangel lautet die Kombination.",
+      "Richtig: Ohne Platzmangel als Grund greift der Anspruch nicht.",
+      "Falsch: Automatisch bekommt nicht jeder ein Zeugnis.",
+      "Falsch: Verboten sind solche Zeugnisse nicht.",
+      "Falsch: Geld spielt hier keine Rolle.",
+      "Richtig: Die Dokumentation belegt den ordnungsgemäßen Ablauf."
+    ],
+    "aufloesung": "Nur bei Platzmangel und nur auf Verlangen gibt es ein Zeugnis über Einzel- und Gesamtbeurteilung. Automatismus und Gebühren sind falsch. Zum Nachlesen: SchUG §8 Abs.3.",
+    "hauptquelle": "SchUG §8 Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-011",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Gruber zieht nach bestandener Aufnahmsprüfung für eine höhere technische Schule in Linz um und will den Sohn zwei Jahre später an einer anderen Schule derselben Schulart anmelden. Was gilt für die alte Prüfung? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die bestandene Prüfung gilt auch im laufenden und in den beiden folgenden Schuljahren.",
+      "Sie berechtigt zur Aufnahme in alle Schulen derselben Schulart.",
+      "Die sonstigen Aufnahmevoraussetzungen müssen zusätzlich erfüllt sein.",
+      "Sie gilt nur an der Schule, an der sie abgelegt wurde.",
+      "Sie verfällt sofort nach den Sommerferien.",
+      "Sie gilt lebenslang für jede beliebige Schulart."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Drei Jahre Geltung, das ist der Kern der Regelung.",
+      "Richtig: Schulartweit, nicht nur an der Prüfungsschule.",
+      "Richtig: Die Berechtigung ersetzt die übrigen Voraussetzungen nicht.",
+      "Falsch: Auf eine einzige Schule beschränkt ist sie nicht.",
+      "Falsch: Nach den Ferien verfällt hier nichts.",
+      "Falsch: Weder lebenslang noch schulartübergreifend."
+    ],
+    "aufloesung": "Die bestandene Prüfung gilt drei Jahre und schulartweit. Für die neue Schule braucht es zusätzlich die sonstigen Voraussetzungen, sonst nichts. Zum Nachlesen: SchUG §8 Abs.4.",
+    "hauptquelle": "SchUG §8 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-012",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "BHS"
+    ],
+    "situation": "Jonas hat die Aufnahmsprüfung für eine Handelsakademie in Wels bestanden, entscheidet sich dann aber doch für eine Handelsschule. Er fragt, ob seine Prüfung dort etwas wert ist. Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die bestandene Prüfung für die höhere Schule berechtigt auch zur mittleren Schule.",
+      "Es ist keine eigene neue Prüfung für die mittlere Schule nötig.",
+      "Eine Genehmigung des Ministeriums im Einzelfall ist erforderlich.",
+      "Der Wechsel nach unten ist grundsätzlich ausgeschlossen.",
+      "Die sonstigen Aufnahmevoraussetzungen der Handelsschule müssen erfüllt sein.",
+      "Berechtigung und Wechsel im Akt vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die höhere Berechtigung schließt die mittlere ein.",
+      "Richtig: Eine zweite Prüfung ist dafür nicht nötig.",
+      "Falsch: Eine Ministeriumsgenehmigung braucht es nicht.",
+      "Falsch: Ausgeschlossen ist der Wechsel nicht.",
+      "Richtig: Die übrigen Voraussetzungen bleiben zu prüfen.",
+      "Richtig: Saubere Aktenführung verhindert spätere Rückfragen."
+    ],
+    "aufloesung": "Der Weg in die mittlere Stufe steht offen. Die Prüfung für die höhere Schule trägt auch die Aufnahme in die mittlere, die übrigen Voraussetzungen bleiben. Zum Nachlesen: SchUG §8 Abs.4.",
+    "hauptquelle": "SchUG §8 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-013",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "BHS"
+    ],
+    "situation": "Nina hat die allgemeine Aufnahmsprüfung für eine höhere Schule in Graz bestanden und will in eine Fachrichtung mit eigener zusätzlicher Eignungsüberprüfung wechseln, die sie nie abgelegt hat. Was sagst du ihr? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Für solche Fachrichtungen reicht die allgemeine Prüfung allein nicht aus.",
+      "Es braucht zusätzlich die fachrichtungsspezifische Überprüfung.",
+      "Die allgemeine Prüfung reicht immer für jede Fachrichtung aus.",
+      "Fachrichtungen dürfen überhaupt keine eigenen Überprüfungen verlangen.",
+      "Prüfen, ob für die Wunschrichtung eine Zusatzüberprüfung vorgesehen ist.",
+      "Nina gezielt zur fehlenden Zusatzüberprüfung anmelden und informieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Ausnahme für Fachrichtungen mit Zusatzüberprüfung beachten.",
+      "Richtig: Dort braucht es zusätzlich die fachbezogene Überprüfung.",
+      "Falsch: Allgemein reicht nicht immer für speziell.",
+      "Falsch: Solche zusätzlichen Überprüfungen sind ausdrücklich möglich.",
+      "Richtig: Erst klären, was die Wunschrichtung verlangt.",
+      "Richtig: Gezielte Anmeldung schließt die Lücke."
+    ],
+    "aufloesung": "Bei Fachrichtungen mit Zusatzprüfung gilt die Berechtigung nur eingeschränkt. Ohne die fachrichtungsspezifische Überprüfung kein Einstieg in diese Richtung. Zum Nachlesen: SchUG §8 Abs.4.",
+    "hauptquelle": "SchUG §8 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-014",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Felix hat die Eignungsprüfung für ein Sportgymnasium in Salzburg knapp bestanden, will sich im nächsten Schuljahr verbessern und fragt nach einem neuen Versuch. Was ist korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "In den beiden folgenden Schuljahren darf erneut angetreten werden.",
+      "Es zählt jeweils das bessere Ergebnis aus altem und neuem Versuch.",
+      "Ein schlechteres neues Ergebnis verdrängt das bessere alte nicht.",
+      "Jede Prüfung darf nur ein einziges Mal im Leben abgelegt werden.",
+      "Es zählt immer das neuere Ergebnis, auch wenn es schlechter ist.",
+      "Beide Ergebnisse dokumentieren und das bessere für die Aufnahme heranziehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erneuter Antritt in den Folgejahren ist erlaubt.",
+      "Richtig: Das bessere Ergebnis gewinnt.",
+      "Richtig: Das schlechtere neue Ergebnis schadet nicht.",
+      "Falsch: Auf einen einzigen Versuch beschränkt ist niemand.",
+      "Falsch: Neu verdrängt besser nicht automatisch.",
+      "Richtig: Dokumentation beider Versuche sichert die richtige Auswahl."
+    ],
+    "aufloesung": "Ein neuer Versuch in den Folgejahren ist erlaubt, dann zählt jeweils das bessere Ergebnis. Sauber dokumentieren und das bessere heranziehen. Zum Nachlesen: SchUG §8 Abs.5.",
+    "hauptquelle": "SchUG §8 Abs.5",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A03-L2-015",
+    "modul_id": "A03",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Emir hat in der Volksschule lauter sehr gute Noten, scheitert aber in allen Teilen der Eignungsprüfung für eine Sportschule in St. Pölten deutlich. Die Eltern meinen, mit solchen Noten müsse er bestehen. Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die Konferenz wägt Prüfungsleistungen und bisherige Schulleistungen ab.",
+      "Trotz guter Schulnoten kann wegen mangelnder Eignung auf nicht bestanden erkannt werden.",
+      "Gute Schulnoten führen automatisch zum Bestehen.",
+      "Schulnoten dürfen bei der Entscheidung überhaupt nicht berücksichtigt werden.",
+      "Abwägung und Ergebnis in der Konferenz begründen und protokollieren.",
+      "Den Eltern die Gesamtschau aus Prüfung und Vorleistungen ruhig erklären."
+    ],
+    "richtig": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gesamtschau aus Prüfung und Vorleistungen ist vorgeschrieben.",
+      "Richtig: Eignungsmangel kann trotz guter Noten zum Nichtbestehen führen.",
+      "Falsch: Automatisch besteht mit guten Noten niemand.",
+      "Falsch: Die bisherigen Leistungen fließen ausdrücklich ein.",
+      "Richtig: Begründung plus Protokoll tragen die Entscheidung.",
+      "Richtig: Transparente Erklärung deeskaliert den Konflikt."
+    ],
+    "aufloesung": "Auch gute Schulnoten ersetzen die Eignung nicht. Die Konferenz wägt ab und kann wegen mangelnder Eignung auf nicht bestanden erkennen. Zum Nachlesen: SchUG §8 Abs.2.",
+    "hauptquelle": "SchUG §8 Abs.2",
+    "stand": "04.09.2026"
+  }
+]

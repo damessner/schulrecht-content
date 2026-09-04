@@ -1,1 +1,519 @@
-[]
+[
+  {
+    "id": "A15-L2-001",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Novak zieht aus dem Ausland nach Wien. Der Sohn soll altersentsprechend in die dritte Klasse Mittelschule, hat kein Zeugnis einer berechtigten Schule und hat im Vorjahr keine solche Stufe besucht. Was prüfst du als Schulleitung? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Ob kein Zeugnis einer berechtigten Schule vorliegt.",
+      "Ob die Einstufung der altersmäßigen Zuordnung entspricht.",
+      "Ob im Vorjahr keine berechtigende Schulstufe besucht wurde.",
+      "Jedes Kind ohne jede Prüfung sofort als ordentlich aufnehmen.",
+      "Allein den Elternwunsch als Zulassungsgrund genügen lassen.",
+      "Zulassung und Prüfung der drei Punkte im Akt dokumentieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fehlendes berechtigendes Zeugnis ist erste Voraussetzung.",
+      "Richtig: Altersentsprechung ist zweite Voraussetzung.",
+      "Richtig: Kein Vorjahresbesuch der Stufe ist dritte Voraussetzung.",
+      "Falsch: Ohne Prüfung der Voraussetzungen geht es nicht.",
+      "Falsch: Elternwunsch allein ersetzt die Voraussetzungen nicht.",
+      "Richtig: Dokumentation sichert die Zulassung ab."
+    ],
+    "aufloesung": "Alle drei Punkte müssen zutreffen, dann lässt die Schulleitung zur Einstufungsprüfung zu. Fehlt eine Voraussetzung, scheidet dieser Weg aus. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-002",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Mutter in Graz fragt, wozu ihr Sohn vor der Aufnahme in die vierte Stufe der Grundschule eine Einstufungsprüfung ablegen soll. Was erklärst du ihr korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die Prüfung stellt fest, ob die Vorbildung für die Zielstufe ausreicht.",
+      "Es geht um den Lernstand für die angestrebte Schulstufe, nicht um Begabungstests.",
+      "Sie ersetzt das Betragenzeugnis der Vorstufe.",
+      "Sie prüft nur die sportliche Fitness des Kindes.",
+      "Zweck und Zielstufe vorab klar benennen und dokumentieren.",
+      "Den Eltern den Ablauf und die Folgen des Ergebnisses ruhig erklären."
+    ],
+    "richtig": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorbildung für die Zielstufe, das ist der Prüfzweck.",
+      "Richtig: Lernstand zählt, nicht Hochbegabung oder Sport.",
+      "Falsch: Um Betragen geht es hier nicht.",
+      "Falsch: Sport allein entscheidet über keine Einstufung.",
+      "Richtig: Klare Zielbenennung verhindert Missverständnisse.",
+      "Richtig: Transparente Erklärung schafft Vertrauen."
+    ],
+    "aufloesung": "Es geht um die Vorbildung für die angestrebte Stufe. Das klärst du vorab mit Zielbenennung und Ablaufinfo, dann läuft die Prüfung fair. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-003",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena besucht seit Wochen probeweise den Unterricht einer Mittelschule in Linz und arbeitet in allen Fächern stark mit. Sie fragt, ob die Einstufungsprüfung trotzdem voll nötig ist. Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die Prüfung kann entfallen, wenn Mitarbeit und Leistungen den Vorstufenstoff überwiegend belegen.",
+      "Unterrichtsmitarbeit und eingeordnete Leistungsfeststellungen gemeinsam würdigen.",
+      "Die Prüfung muss immer vollständig abgelegt werden, egal wie die Mitarbeit ist.",
+      "Gegen Bezahlung entfällt die Prüfung automatisch.",
+      "Mitarbeit zählt grundsätzlich nie und bleibt unbeachtet.",
+      "Feststellung und Gründe schriftlich im Akt festhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Überzeugende Mitarbeit plus Leistungen können genügen.",
+      "Richtig: Beide Säulen zusammen tragen die Feststellung.",
+      "Falsch: Ein Entfall ist ausdrücklich möglich.",
+      "Falsch: Geld spielt keine Rolle.",
+      "Falsch: Mitarbeit und Leistungsfeststellungen zählen sehr wohl.",
+      "Richtig: Nur Begründetes lässt sich später belegen."
+    ],
+    "aufloesung": "Gute Mitarbeit kann die Prüfung ersetzen, wenn sie den Vorstufenstoff überwiegend belegt. Feststellung treffen, begründen und dokumentieren. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-004",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Moritz fordert nach zwei Wochen guten Mitarbeits lautstark, dass ihm die Einstufungsprüfung erlassen werden müsse, die Eltern drohen mit Beschwerde. Wie reagierst du korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Klären, dass auf diese Feststellung kein Rechtsanspruch besteht.",
+      "Die Entscheidung als Urteil der Lehrkraft überzeugend begründen.",
+      "Bei guter Mitarbeit den Entfall jedenfalls als Muss zusagen.",
+      "Anwaltsschreiben als automatischen Erlassgrund werten.",
+      "Mitarbeit darf nie berücksichtigt werden, alles stur prüfen.",
+      "Gespräch mit Eltern suchen und Rechtslage ruhig erklären."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kein Rechtsanspruch, auch bei subjektiv guter Mitarbeit.",
+      "Richtig: Urteil der Lehrkraft mit Begründung, nicht auf Zuruf.",
+      "Falsch: Ein Muss gibt es nicht.",
+      "Falsch: Anwaltsschreiben ändern daran nichts.",
+      "Falsch: Berücksichtigt werden darf sie schon, nur nicht erzwungen.",
+      "Richtig: Sachliche Erklärung deeskaliert."
+    ],
+    "aufloesung": "Einen Anspruch auf den Entfall gibt es nicht. Die Lehrkraft stellt fest, begründet nachvollziehbar und erklärt den Eltern die Rechtslage ruhig. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-005",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David ist bei der Einstufungsprüfung in Deutsch positiv, in Mathematik negativ beurteilt worden. Er fragt nach einer zweiten Chance. Was ist korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Eine Wiederholung ist binnen zwei Monaten möglich.",
+      "Wiederholt werden nur die negativ beurteilten Gebiete.",
+      "Die Schulleitung lässt zur Wiederholung zu.",
+      "Eine Wiederholung ist niemals möglich.",
+      "Erst nach einem Wartejahr mit allen Gebieten neu antreten.",
+      "Frist und betroffene Gebiete schriftlich mitteilen und vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Monate Frist für die zweite Chance.",
+      "Richtig: Nur die negativen Gebiete werden wiederholt.",
+      "Richtig: Zulassung durch die Schulleitung.",
+      "Falsch: Eine Wiederholung ist ausdrücklich vorgesehen.",
+      "Falsch: Weder Wartejahr noch volle Wiederholung sind nötig.",
+      "Richtig: Schriftlichkeit verhindert Friststreit."
+    ],
+    "aufloesung": "Eine zweite Chance gibt es rasch: binnen zwei Monaten nur in den negativen Gebieten, zugelassen durch die Schulleitung. Frist und Gebiete schriftlich geben. Zum Nachlesen: SchUG §3 Abs.7a.",
+    "hauptquelle": "SchUG §3 Abs.7a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-006",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Jonas lernt zwei Lehrberufe gleichzeitig und soll an der Berufsschule in Innsbruck in einer höheren Stufe in neuer Fachrichtung einsteigen. Was gilt für die Einstufung an Berufsschulen? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "An Berufsschulen gilt sie nur beim Einstieg in eine höhere als die erste Stufe.",
+      "Mögliche Anlässe sind Doppel-Lehre, Fachrichtungswechsel oder verkürzte Lehrzeit.",
+      "Für Berufsschulen gilt sie immer und überall ohne Grenze.",
+      "Berufsschüler sind von jeder Einstufung ausgeschlossen.",
+      "Der Lehrbetrieb ersetzt das schulische Verfahren allein.",
+      "Anlass und Stufeneinstieg im Akt festhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Höhere Stufe als Einstieg ist die Schwelle.",
+      "Richtig: Nur diese Sonderfälle öffnen den Weg.",
+      "Falsch: Für Berufsschulen ist der Bereich eng begrenzt.",
+      "Falsch: Ganz ausgeschlossen ist sie nicht.",
+      "Falsch: Der Lehrbetrieb ersetzt das Verfahren nicht.",
+      "Richtig: Dokumentation des Anlasses sichert die Einstufung."
+    ],
+    "aufloesung": "An der Berufsschule gilt die Einstufung nur in Sonderfällen beim Einstieg über der ersten Stufe. Anlass prüfen, dokumentieren und dann erst einstufen. Zum Nachlesen: SchUG §3 Abs.7.",
+    "hauptquelle": "SchUG §3 Abs.7",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-007",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Aylin, schulpflichtig und neu aus dem Ausland in Klagenfurt, ist zur Einstufungsprüfung zugelassen. Die Eltern fragen, ob sie bis zur Prüfung schon eine Schule besuchen darf. Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Mit Zulassung ist die Aufnahme als außerordentlicher Schüler möglich.",
+      "So wird die Zeit bis zur Prüfung sinnvoll überbrückt.",
+      "Bis zur Prüfung darf das Kind keine Schule besuchen.",
+      "Es geht nur als zahlender Gast ohne Rechte.",
+      "Das Kind muss bis zum nächsten Jahr warten.",
+      "Aufnahme und Zulassung im Akt verbinden und vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Außerordentliche Aufnahme überbrückt die Wartezeit.",
+      "Richtig: Lernen statt untätig warten.",
+      "Falsch: Untätig warten muss niemand.",
+      "Falsch: Von zahlenden Gästen ist hier keine Rede.",
+      "Falsch: Ein Wartejahr ist nicht vorgesehen.",
+      "Richtig: Saubere Aktenverbindung verhindert Lücken."
+    ],
+    "aufloesung": "Der Weg über die außerordentliche Aufnahme steht offen. Mit Zulassung kann Aylin einstweilen die Schule besuchen, bis die Prüfung gelaufen ist. Zum Nachlesen: SchUG §4 Abs.2.",
+    "hauptquelle": "SchUG §4 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-008",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Emir, 17 Jahre alt und seit Jahren ohne Schulbesuch in Wien, will den Abschluss einer Schulstufe nachholen. Du klärst ihn über den Weg ohne vorherigen Schulbesuch auf. Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die Berechtigungen einer Schulstufe oder Schulart können durch Prüfung erworben werden.",
+      "Vorheriger Schulbesuch ist dafür nicht zwingend nötig.",
+      "Berechtigungen gibt es nur mit jahrelangem Schulbesuch.",
+      "Der Weg ist auf die Volksschule beschränkt.",
+      "Solche Prüfungen gibt es in Österreich gar nicht.",
+      "Prüfungsart und Zielberechtigung vorab schriftlich klären."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Prüfung statt Schulbesuch, bei Erfolg gleiche Berechtigung.",
+      "Richtig: Der Weg ohne Vorbesuch ist ausdrücklich vorgesehen.",
+      "Falsch: Jahrelanger Besuch ist keine Pflicht.",
+      "Falsch: Auf die Volksschule beschränkt ist das nicht.",
+      "Falsch: Diese Prüfungsart gibt es sehr wohl.",
+      "Richtig: Klare Zielklärung verhindert Fehlantritte."
+    ],
+    "aufloesung": "Ohne Schulbesuch geht es auch: Die Berechtigungen werden durch die Prüfung erworben. Ziel und Prüfungsart vorab klären und dokumentieren. Zum Nachlesen: SchUG §42 Abs.1.",
+    "hauptquelle": "SchUG §42 Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-009",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selina braucht für eine Bewerbung in Eisenstadt nur den Nachweis über Mathematik der zehnten Schulstufe einer bestimmten Schulart. Was ist korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Der Nachweis für einen einzelnen Gegenstand ist durch Prüfung möglich.",
+      "Es müssen nicht immer alle Fächer auf einmal geprüft werden.",
+      "Einzelne Fächer sind von jeder Prüfung ausgeschlossen.",
+      "Es geht nur für den Turnunterricht.",
+      "Fach, Stufe und Schulart im Ansuchen genau bezeichnen.",
+      "Beratung über Stoff und Ablauf anbieten und vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Auch einzelne Gegenstände sind prüffähig.",
+      "Richtig: Alles auf einmal ist nicht Pflicht.",
+      "Falsch: Ausgeschlossen ist das nicht.",
+      "Falsch: Auf ein Fach beschränkt ist die Möglichkeit nicht.",
+      "Richtig: Genaue Bezeichnung verhindert Fehlprüfungen.",
+      "Richtig: Beratung plus Vermerk sichern den Ablauf."
+    ],
+    "aufloesung": "Auch einzelne Fächer gehen: Der Stoff eines Gegenstands in Stufe oder Schulart kann eigens nachgewiesen werden. Fach und Ziel genau bezeichnen. Zum Nachlesen: SchUG §42 Abs.2.",
+    "hauptquelle": "SchUG §42 Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-010",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Felix will in St. Pölten eine Prüfung über einen ganzen Bildungsgang ablegen und fragt, wer ihn prüfen wird. Was organisierst du als Schule korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die Prüfung wird vor einer Prüfungskommission abgelegt.",
+      "Die Kommission besteht aus Vorsitz und Fachprüfern.",
+      "Die Behörde kann auch überregionale Kommissionen einrichten.",
+      "Ein einzelner Bekannter des Prüflings prüft allein.",
+      "Ein Computerprogramm prüft allein ohne Kommission.",
+      "Besetzung der Kommission schriftlich festhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kommission statt Einzelprüfer.",
+      "Richtig: Vorsitz plus Fachprüfer sind die Regel.",
+      "Richtig: Überregionale Einrichtung ist möglich.",
+      "Falsch: Bekannte als Einzelprüfer sind nicht vorgesehen.",
+      "Falsch: Automaten prüfen hier niemanden.",
+      "Richtig: Schriftliche Bestellung sichert die Gültigkeit."
+    ],
+    "aufloesung": "Geprüft wird vor einer Kommission mit Vorsitz und Fachprüfern, teils überregional eingerichtet. Einzelprüfer oder Bekannte genügen nicht. Zum Nachlesen: SchUG §42 Abs.4.",
+    "hauptquelle": "SchUG §42 Abs.4",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-011",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nina reicht in Villach alle Unterlagen für ihre Prüfung über eine Schulstufe ein und fragt, wer über ihre Zulassung entscheidet. Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Für die Zulassung ist der Vorsitzende der Prüfungskommission zuständig.",
+      "Die Zulassungsvoraussetzungen vor dem Termin vollständig prüfen.",
+      "Der Prüfling lässt sich selbst zu.",
+      "Das Los entscheidet über die Zulassung.",
+      "Niemand prüft, jeder tritt einfach an.",
+      "Zulassung und Prüfungsergebnis im Akt trennen und vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Vorsitz prüft und lässt zu.",
+      "Richtig: Vollständige Vorprüfung verhindert Fehlantritte.",
+      "Falsch: Selbstzulassung gibt es nicht.",
+      "Falsch: Gelost wird nichts.",
+      "Falsch: Geprüft wird die Zulassung sehr wohl.",
+      "Richtig: Saubere Aktentrennung schafft Klarheit."
+    ],
+    "aufloesung": "Der Vorsitz entscheidet über die Zulassung. Unterlagen vorab vollständig prüfen, Entscheidung dokumentieren, erst dann zum Termin laden. Zum Nachlesen: SchUG §42 Abs.5.",
+    "hauptquelle": "SchUG §42 Abs.5",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-012",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der zwölfjährige Tim will in Graz eine Prüfung über einen Bildungsgang ablegen, den reguläre Schüler erst mit etwa siebzehn Jahren abschließen. Was prüfst du zum Alter? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Zum ersten Termin darf er nicht jünger sein als ein regulärer Absolvent.",
+      "Maßstab ist der Durchlauf ohne Wiederholen oder Überspringen.",
+      "Das Alter spielt überhaupt keine Rolle.",
+      "Zugelassen wird nur, wer bereits in Pension ist.",
+      "Es gibt nur eine Obergrenze von 18 Jahren.",
+      "Altersprüfung und Geburtsnachweis im Akt vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Vergleich mit dem regulären Durchlauf entscheidet.",
+      "Richtig: Ohne Wiederholen oder Überspringen gerechnet.",
+      "Falsch: Das Mindestalter ist ausdrücklich geregelt.",
+      "Falsch: Pension ist keine Voraussetzung.",
+      "Falsch: Eine solche Obergrenze gibt es nicht.",
+      "Richtig: Nachweis plus Vermerk sichern die Zulassung."
+    ],
+    "aufloesung": "Das Alter muss passen: Nicht jünger als ein regulärer Absolvent zum ersten Termin. Geburtsnachweis prüfen und vermerken, sonst keine Zulassung. Zum Nachlesen: SchUG §42 Abs.6.",
+    "hauptquelle": "SchUG §42 Abs.6",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-013",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lukas hat im Vorjahr eine Stufe einer berufsbildenden Schule in Wels nicht erfolgreich abgeschlossen und will sofort extern über dieselbe Fachrichtung prüfen, um Zeit zu sparen. Was ist korrekt? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Nach nicht bestandener Stufe gilt eine Wartefrist von zwölf Monaten.",
+      "Die Frist läuft ab der zuletzt nicht bestandenen Stufe derselben Richtung.",
+      "Ein sofortiger Antritt in der nächsten Woche ist möglich.",
+      "Ein Schulwechsel verkürzt die Frist automatisch.",
+      "Für immer ausgeschlossen ist niemand, nach Fristablauf geht es wieder.",
+      "Fristbeginn und Richtungsvergleich im Akt festhalten."
+    ],
+    "richtig": [
+      0,
+      1,
+      4,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwölf Monate Abstand schützen vor Umgehungen.",
+      "Richtig: Dieselbe Richtung ist der Anknüpfungspunkt.",
+      "Falsch: Sofort geht es nach nicht bestandener Stufe nicht.",
+      "Falsch: Ein Schulwechsel verkürzt die Frist nicht.",
+      "Richtig: Nach Ablauf steht der Weg wieder offen.",
+      "Richtig: Dokumentation verhindert Umgehungsversuche."
+    ],
+    "aufloesung": "Nach Abbruch gilt eine Wartefrist von einem Jahr in derselben Richtung. Sofort antreten oder per Schulwechsel abkürzen geht nicht. Zum Nachlesen: SchUG §42 Abs.6.",
+    "hauptquelle": "SchUG §42 Abs.6",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-014",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Aylin hat ihre Prüfung über eine Schulstufe in Innsbruck erfolgreich abgelegt und fragt nach einem Nachweis für Bewerbungen. Was stellst du korrekt aus? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Über Stufe oder Schulart wird ein eigenes Prüfungszeugnis ausgestellt.",
+      "Über einzelne geprüfte Fächer gibt es ein Zeugnis mit der Fachbeurteilung.",
+      "Eine mündliche Mitteilung ohne Schriftstück genügt.",
+      "Das alte Schulzeugnis wird einfach umgeschrieben.",
+      "Zeugnisse sind hier grundsätzlich verboten.",
+      "Ausstellung und Aushändigung im Akt vermerken."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eigenes Zeugnis je nach Prüfungsart.",
+      "Richtig: Fachbeurteilung im Zeugnis bei Einzelprüfungen.",
+      "Falsch: Mündlich allein genügt für einen Nachweis nicht.",
+      "Falsch: Umgeschrieben wird kein altes Zeugnis.",
+      "Falsch: Verboten sind sie nicht, sie sind vorgesehen.",
+      "Richtig: Vermerk belegt die ordnungsgemäße Aushändigung."
+    ],
+    "aufloesung": "Es gibt ein eigenes Zeugnis: über Stufe oder Schulart oder über das geprüfte Fach mit Beurteilung. Mündliches oder Umschreiben genügt nicht. Zum Nachlesen: SchUG §42 Abs.10.",
+    "hauptquelle": "SchUG §42 Abs.10",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A15-L2-015",
+    "modul_id": "A15",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David hat in Englisch bereits ein Zeugnis einer berechtigten Schule über denselben Stoff und fragt, ob er dieses Fach bei seiner großen Prüfung in Dornbirn trotzdem neu ablegen muss. Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Mit passendem Zeugnis kann auf Ansuchen ganz oder teilweise befreit werden.",
+      "Das Zeugnis muss von einer berechtigten Schule oder einer solchen Prüfung stammen.",
+      "Ansuchen des Prüflings ist Voraussetzung für die Befreiung.",
+      "Alles muss immer neu geprüft werden, Befreiung ist ausgeschlossen.",
+      "Gegen Bezahlung entfällt jedes Fach automatisch.",
+      "Ansuchen, Nachweis und Entscheidung im Akt dokumentieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachweis plus Ansuchen ermöglichen Befreiung.",
+      "Richtig: Nur passende berechtigte Nachweise zählen.",
+      "Richtig: Ohne Ansuchen keine Befreiung.",
+      "Falsch: Doppelprüfungen trotz Nachweis sind nicht nötig.",
+      "Falsch: Geld ersetzt Nachweis und Ansuchen nicht.",
+      "Richtig: Dokumentation trägt die Entscheidung."
+    ],
+    "aufloesung": "Vorwissen kann befreien: Mit passendem Zeugnis und Ansuchen wird ganz oder teilweise befreit. Ohne Ansuchen und Nachweis wird voll geprüft. Zum Nachlesen: SchUG §42 Abs.3.",
+    "hauptquelle": "SchUG §42 Abs.3",
+    "stand": "04.09.2026"
+  }
+]
