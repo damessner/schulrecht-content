@@ -1,1 +1,384 @@
-[]
+[
+  {
+    "aufloesung": "Krenn hat den Dienstweg verletzt, das direkte Ansuchen war falsch. Anbringen zum Dienstverhältnis oder zu dienstlichen Aufgaben sind beim unmittelbaren Vorgesetzten einzubringen, der sie unverzüglich weiterleitet. Zum Nachlesen: LDG §38 Abs.1.",
+    "hauptquelle": "LDG §38 Abs.1",
+    "id": "B23-L3-001",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Er hätte das Ansuchen beim unmittelbaren Vorgesetzten einbringen müssen, der es unverzüglich weiterleitet.",
+      "Der direkte Weg an die Bildungsdirektion ist richtig, weil er schneller und moderner ist.",
+      "Bei wichtigen Anliegen darf man den Vorgesetzten überspringen, wenn man ihn für überflüssig hält.",
+      "Ein Anbringen per E-Mail an die Zentrale ersetzt den Dienstweg automatisch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Dienstweg über den direkten Vorgesetzten ist zwingend.",
+      "Falsch: Schnelligkeit rechtfertigt keine Umgehung des Dienstweges.",
+      "Falsch: Für wichtig gehaltene Anliegen sind keine Ausnahme vom Dienstweg.",
+      "Falsch: Auch digitale Wege müssen beim unmittelbaren Vorgesetzten beginnen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Mittelschullehrer Krenn will eine Versetzung und eine Änderung seiner dienstlichen Aufgaben erreichen. Ohne seine Direktorin zu informieren, schickt er beide Schreiben direkt an die Bildungsdirektion und meint, der Umweg über die Direktion sei bloße Förmelei. Die Direktion erfährt davon erst durch eine Rückfrage der Behörde.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Prammer hat seine Verdachtsmeldepflicht verletzt, Abwarten war falsch. Wer im Dienst einen begründeten Verdacht auf eine von Amts wegen zu verfolgende Straftat mit Schulbezug erhält, meldet unverzüglich dem unmittelbaren Vorgesetzten statt selbst zu ermitteln. Zum Nachlesen: LDG §37 Abs.1.",
+    "hauptquelle": "LDG §37 Abs.1",
+    "id": "B23-L3-002",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Aus Kollegialität wochenlang zu schweigen und auf eigene Faust zu ermitteln war richtig.",
+      "Er hätte den begründeten Verdacht unverzüglich seinem unmittelbaren Vorgesetzten melden müssen.",
+      "Melden muss man erst, wenn man den Täter auf frischer Tat ertappt und Beweise gesichert hat.",
+      "Bei Verdacht gegen Kollegen genügt es, die Klasseneltern zu informieren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kollegialität und eigene Ermittlungen ersetzen die sofortige Meldung nicht.",
+      "Richtig: Schon der begründete Verdacht mit Schulbezug geht sofort an den direkten Vorgesetzten.",
+      "Falsch: Warten auf frische Tat und fertige Beweise verletzt die Unverzüglichkeit.",
+      "Falsch: Eltern sind nicht die Adresse für dienstliche Verdachtsmeldungen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Professor Prammer bemerkt im Dienst, dass aus der Schulkasse wiederholt Geld fehlt und Belege manipuliert wirken. Die Spuren deuten auf eine strafbare Handlung im schulischen Umfeld hin. Er schweigt wochenlang, ermittelt heimlich im Kollegium und meldet nichts, weil er niemanden zu Unrecht verdächtigen will.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Feichtinger verletzt die Aufenthaltsmeldepflicht, die unbekannte Adresse schadet ihr. Wer gerechtfertigt fehlt und außerhalb des ständigen Wohnsitzes Aufenthalt nimmt, meldet Aufenthaltsnahme und Adresse. Zum Nachlesen: LDG §37 Abs.3.",
+    "hauptquelle": "LDG §37 Abs.3",
+    "id": "B23-L3-003",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Im Krankenstand darf man sich ohne jede Nachricht überall aufhalten, das ist privat.",
+      "Sie hätte Aufenthaltsnahme außerhalb des Wohnsitzes und die Adresse melden müssen.",
+      "Es genügt, dass ihr Partner weiß, wo sie sich aufhält.",
+      "Melden muss man nur Auslandsreisen, nicht Aufenthalte im Inland."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade im Krankenstand muss die Erreichbarkeit gesichert bleiben.",
+      "Richtig: Aufenthalt außerhalb des Wohnsitzes plus Adresse sind zu melden.",
+      "Falsch: Wissen im privaten Umfeld ersetzt die dienstliche Meldung nicht.",
+      "Falsch: Schon der Inlandsaufenthalt außerhalb des Wohnsitzes löst die Pflicht aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Feichtinger ist vier Wochen gerechtfertigt krankgeschrieben, fährt aber unangekündigt zu einer Hütte in einem anderen Bundesland und ist tagelang weder telefonisch noch per Post erreichbar. Eine angeordnete Kontrolluntersuchung kann ihr nicht zugestellt werden, die Direktion kennt ihre Adresse nicht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Weigerung ist pflichtwidrig, nach der Verfügung muss gemeldet werden. Grundsätzlich schützt das Vertrauensverhältnis, doch der Leiter kann aus Gründen in der Person oder in der Tätigkeit selbst die Meldung verfügen. Zum Nachlesen: LDG §37 Abs.1b.",
+    "hauptquelle": "LDG §37 Abs.1b",
+    "id": "B23-L3-004",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Die Ausnahme für Vertrauensarbeit gilt absolut und keine Verfügung kann sie aufheben.",
+      "Nach der wirksamen Verfügung des Leiters muss der Verdacht gemeldet werden.",
+      "Der Leiter darf so etwas nur für sich selbst verfügen, nicht für andere.",
+      "Statt dem Vorgesetzten sind in solchen Fällen zuerst die Medien zu informieren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Ausnahme ist nicht absolut, sie kann durch Verfügung durchbrochen werden.",
+      "Richtig: Die Verfügung aus Gründen in Person oder Tätigkeit stellt die Meldepflicht wieder her.",
+      "Falsch: Die Verfügung richtet sich gerade an die nachgeordnete Tätigkeit.",
+      "Falsch: Der Dienstweg über den Vorgesetzten bleibt einzuhalten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Beratungslehrer erfährt in einem streng vertraulichen Einzelgespräch von einem Vorfall mit möglichem Schulbezug und beruft sich auf das Vertrauensverhältnis. Der Schulleiter prüft die Schwere des Falles und verfügt wegen besonderer Umstände in der betroffenen Person ausdrücklich die Meldung. Der Lehrer verweigert sie dennoch.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §37 Abs.1a"
+    ]
+  },
+  {
+    "aufloesung": "Nigl schuldet die sofortige Meldung samt Belegen, auch bei bloßer Mitverursachung. Geht die Verhinderung ganz oder teilweise auf das Einwirken Dritter zurück, ist unverzüglich der Dienstbehörde zu melden und auf Verlangen alles für Ersatzansprüche beizubringen. Zum Nachlesen: LDG §37 Abs.1c.",
+    "hauptquelle": "LDG §37 Abs.1c",
+    "id": "B23-L3-005",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Melden muss er nur, wenn der Unfall ausschließlich von einem Dritten verursacht wurde.",
+      "Auch bei bloß teilweiser Fremdeinwirkung muss er unverzüglich melden und auf Verlangen Daten und Beweismittel liefern.",
+      "Es genügt, die Polizei zu informieren, der Dienstgeber braucht nichts zu erfahren.",
+      "Eine beiläufige Erzählung nach der Genesung erfüllt die Pflicht rückwirkend."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schon eine teilweise Verursachung durch Dritte löst die Pflicht aus.",
+      "Richtig: Sofortige Meldung plus Daten und Beweise auf Verlangen sind geschuldet.",
+      "Falsch: Gerade der Dienstgeber braucht die Meldung wegen möglicher Ersatzansprüche.",
+      "Falsch: Beiläufig und verspätet genügt nicht, verlangt ist Unverzüglichkeit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "BS"
+    ],
+    "situation": "Lehrer Nigl wird auf dem Schulweg von einem Auto touchiert und stürzt, wobei auch seine eigene Unachtsamkeit eine Rolle gespielt haben dürfte. Er fällt zwei Wochen aus, meldet nur krank, verschweigt die Fremdbeteiligung und verweigert später Unfallfotos und Zeugennamen für mögliche Ersatzansprüche des Dienstgebers.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Rinner muss seinen Wohnsitz anpassen und hat keinen Anspruch auf Sonderstundenplan. Der Wohnsitz darf die Aufgabenerfüllung nicht beeinträchtigen, und aus der Wohnlage folgt kein Anspruch auf Begünstigungen. Zum Nachlesen: LDG §39 Abs.1.",
+    "hauptquelle": "LDG §39 Abs.1",
+    "id": "B23-L3-006",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Weil der Wohnort frei wählbar ist, muss die Schule jede Verspätung hinnehmen.",
+      "Er muss gegensteuern, weil sein Wohnsitz die Aufgabenerfüllung beeinträchtigt, und kann daraus keinen Wunschstundenplan ableiten.",
+      "Bei weitem Anfahrtsweg entfällt die Aufsicht in der ersten Stunde automatisch.",
+      "Die Direktion muss ihm wegen der Wohnlage ein Dienstauto stellen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Freiheit der Wohnsitzwahl endet bei Beeinträchtigung des Dienstes.",
+      "Richtig: Beeinträchtigungsverbot und fehlender Begünstigungsanspruch gelten nebeneinander.",
+      "Falsch: Aufsichtspflichten entfallen nicht wegen weiter Anreise.",
+      "Falsch: Ein Anspruch auf ein Dienstauto folgt aus der Wohnlage nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lehrer Rinner zieht in ein Haus über eine Autostunde von seiner Schule entfernt. Seither kommt er regelmäßig zu spät, die Frühaufsicht fällt oft aus. Statt gegenzusteuern, verlangt er einen Stundenplan ohne Randstunden und beruft sich auf seinen freien Wohnort.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "hauptquelle": "LDG §38 Abs.2",
+    "id": "B23-L3-007",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Bei akuter Gefahr wie dem Gasaustritt darf sofort direkt alarmiert und gemeldet werden.",
+      "Richtet sich die Beschwerde gegen den eigenen Vorgesetzten, kann der Dienstweg unzumutbar sein.",
+      "Rechtsmittel in Dienstrechtsangelegenheiten können ohne Dienstweg eingebracht werden.",
+      "Auch bei Explosionsgefahr muss zuerst schriftlich der Dienstweg eingehalten werden.",
+      "Der Wunschstundenplan für das nächste Jahr kann aus Eile direkt beim Ministerium eingebracht werden.",
+      "Bequemlichkeit und erhoffte Schnelligkeit befreien generell vom Dienstweg."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gefahr in Verzug erlaubt das Absehen vom Dienstweg.",
+      "Richtig: Unzumutbarkeit liegt gerade bei Beschwerden gegen den Vorgesetzten nahe.",
+      "Richtig: Rechtsmittel sind ausdrücklich vom Dienstweg ausgenommen.",
+      "Falsch: Formalitäten dürfen dringende Gefahrenabwehr nie verzögern.",
+      "Falsch: Der Stundenplanwunsch ist ein normales Anbringen im Dienstweg.",
+      "Falsch: Bequemlichkeit ist kein gesetzlicher Ausnahmegrund."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule häufen sich Grenzfälle zum Dienstweg: In der Küche tritt Gas mit Explosionsgefahr aus, eine Lehrerin will Beschwerde gegen ihren eigenen Direktor führen, ein Kollege will ein Rechtsmittel gegen einen Bescheid erheben, und ein vierter will seinen Stundenplanwunsch aus Eile direkt ans Ministerium schicken. Wähle alles, wo direktes Vorgehen ohne Dienstweg zulässig ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §38 Abs.1",
+      "LDG §38 Abs.3"
+    ],
+    "aufloesung": "Direkt gehen nur Gefahr, unzumutbarer Weg und Rechtsmittel, der Stundenplanwunsch nicht. Bei Gefahr in Verzug, bei Unzumutbarkeit und für Rechtsbehelfe darf vom Dienstweg abgesehen werden, normale Anbringen nicht. Zum Nachlesen: LDG §38 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.2",
+    "id": "B23-L3-008",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Die Namensänderung nach der Scheidung und Wiederannahme des früheren Namens.",
+      "Die Standesveränderung durch Scheidung und spätere Wiederverheiratung.",
+      "Jede Veränderung der Staatsbürgerschaft und der Arbeitsmarktberechtigung.",
+      "Jede Änderung des Wohnsitzes durch den Umzug in den Nachbarort.",
+      "Der Besitz eines Bescheides nach dem Behinderteneinstellungsgesetz.",
+      "Das neue Hobby und die Automarke teilt man beiläufig der Klasse mit, das genügt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Namensänderungen sind ausdrücklich meldepflichtig.",
+      "Richtig: Standesveränderungen wie Scheidung und Heirat sind zu melden.",
+      "Richtig: Staatsbürgerschaft und Arbeitsmarktzugang gehören zu den Pflichten.",
+      "Richtig: Auch jede Wohnsitzänderung ist von sich aus zu melden.",
+      "Richtig: Der Behindertenbescheid ist eine eigene Meldepflicht.",
+      "Falsch: Hobbys und Auto sind dienstrechtlich ohne Belang und ersetzen nichts."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Sattler lässt sich scheiden, nimmt wieder ihren früheren Familiennamen an, heiratet ein Jahr später erneut, zieht zweimal in andere Gemeinden um und nimmt zusätzlich eine zweite Staatsbürgerschaft an. Sie meint, das sei alles privat und eine beiläufige Erwähnung im Lehrerzimmer reiche. Wähle alle Umstände, die sie von sich aus melden muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Sattler muss Namen, Stand, Staatsbürgerschaft und Wohnsitz jeweils von sich aus melden. Diese Veränderungen gehören zu den ausdrücklichen Meldepflichten, beiläufiges Erwähnen genügt nicht. Zum Nachlesen: LDG §37 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.3",
+    "id": "B23-L3-009",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Im Krankenstand muss sie Aufenthaltsnahme außerhalb des Wohnsitzes und Adresse melden.",
+      "Als Beurlaubte muss sie für die Hauptferien ihre Zustelladresse melden.",
+      "Als Leiterin muss sie zusätzlich für Weihnachts-, Semester- und Osterferien melden.",
+      "Die Adresse muss eine Verständigung auf kürzestem Weg ermöglichen.",
+      "Eine einzige Sammelmeldung im Herbst deckt alle drei Pflichten rückwirkend ab.",
+      "Es reicht, wenn Nachbarn und Familie wissen, wo sie jeweils ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Aufenthalt außerhalb des Wohnsitzes plus Adresse sichern die Erreichbarkeit im Krankenstand.",
+      "Richtig: Beurlaubte melden für die Hauptferien eine Zustelladresse.",
+      "Richtig: Leiter trifft die erweiterte Pflicht auch in den kleinen Ferien.",
+      "Richtig: Kürzeste Zustellbarkeit ist der Zweck der Ferienmeldung.",
+      "Falsch: Nachträgliches Sammeln ersetzt keine rechtzeitige Meldung.",
+      "Falsch: Privates Wissen ersetzt die dienstliche Meldung nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schulleiterin Thaler zieht im Krankenstand zur Pflege zu ihrer Tochter außerhalb ihres Wohnsitzes, ohne Adresse zu melden, und verreist danach in den Sommerferien beurlaubt ins Ausland, wieder ohne Zustelladresse. Zu Weihnachten meint sie, als Leiterin müsse sie erst recht nichts melden. Wähle alles Zutreffende zu ihren Pflichten.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §37 Abs.2"
+    ],
+    "aufloesung": "Thaler verletzt gleich drei Meldepflichten, als Kranke wie als Beurlaubte und als Leiterin. Krankenaufenthalt außerhalb des Wohnsitzes, Hauptferienadresse für alle und Kleiner-Ferien-Adresse für Leiter sind jeweils zu melden. Zum Nachlesen: LDG §37 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.1",
+    "id": "B23-L3-010",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Schon der begründete Verdacht mit Schulbezug löst die Pflicht zur unverzüglichen Meldung aus.",
+      "Die Meldung geht an den unmittelbaren Vorgesetzten, nicht zuerst an Eltern oder Medien.",
+      "Gibt sie im guten Glauben einen Hinweis an die zuständige Stelle, gilt die Pflicht als erfüllt.",
+      "Ein solcher Hinweis kann ohne Dienstweg eingebracht werden und darf nicht benachteiligt werden.",
+      "Sie darf erst melden, wenn sie den Vorfall vollständig aufgeklärt hat.",
+      "Bei Korruptionshinweisen muss sie zuerst den Beschuldigten um Stellungnahme bitten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Begründeter Verdacht genügt, Abwarten verletzt die Unverzüglichkeit.",
+      "Richtig: Der direkte Vorgesetzte ist die vorgeschriebene Adresse.",
+      "Richtig: Die geschützte Hinweisgebung erfüllt die Meldepflicht.",
+      "Richtig: Dienstwegbefreiung und Benachteiligungsschutz gehören zusammen.",
+      "Falsch: Eigene Ermittlungen bis zur Aufklärung sind gerade nicht verlangt.",
+      "Falsch: Eine Vorabinformation des Beschuldigten ist nicht vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Uhl bemerkt im Dienst Unregelmäßigkeiten bei Auftragsvergaben mit Verdacht auf Bestechung im schulischen Umfeld. Sie zögert, weil sie Repressalien fürchtet, an eigene Ermittlungen denkt und überlegt, sich direkt an die Hinweisgeberstelle zu wenden statt an ihren Direktor. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §37a",
+      "LDG §38 Abs.4"
+    ],
+    "aufloesung": "Uhl muss unverzüglich melden, der geschützte Hinweis an die zuständige Stelle erfüllt die Pflicht. Der begründete Verdacht mit Schulbezug geht sofort an den Vorgesetzten, die Hinweisgebung ohne Dienstweg mit Schutz steht gleichwertig daneben. Zum Nachlesen: LDG §37 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §38 Abs.1",
+    "id": "B23-L3-011",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Der Vorgesetzte muss jedes ordnungsgemäß eingebrachte Anbringen unverzüglich weiterleiten.",
+      "Auch ein für überzogen gehaltenes Anbringen darf nicht einfach zurückbehalten werden.",
+      "Wer den Dienstweg überspringt und direkt an die Zentrale schreibt, handelt pflichtwidrig.",
+      "Der Vorgesetzte darf Anbringen nach Sympathie filtern und Unliebsames aussortieren.",
+      "Sammeln bis zum Schuljahresende erfüllt das Gebot der Unverzüglichkeit.",
+      "Ohne ausdrückliche Zustimmung des Direktors gilt ein Anbringen als nicht gestellt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverzügliche Weiterleitung ist Pflicht des Vorgesetzten.",
+      "Richtig: Inhaltliche Bedenken rechtfertigen kein Zurückhalten.",
+      "Richtig: Überspringen des Vorgesetzten verletzt die Dienstwegpflicht.",
+      "Falsch: Ein Filterrecht nach Sympathie gibt es nicht.",
+      "Falsch: Monatelanges Liegenlassen verletzt die Unverzüglichkeit.",
+      "Falsch: Zustimmung ist keine Gültigkeitsvoraussetzung des Anbringens."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrer Vogl reicht beim Direktor ein Ansuchen um Abgeltung von Mehrstunden ein und schickt parallel dasselbe Schreiben direkt an die übergeordnete Stelle, weil er seinem Direktor misstraut. Der Direktor findet das Ansuchen überzogen und lässt es wochenlang liegen, statt es weiterzugeben. Wähle alles, was dienstwegrechtlich zutrifft.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Beide Seiten verstoßen gegen den Dienstweg, Vogl durch Überspringen und der Direktor durch Liegenlassen. Anbringen gehören zum unmittelbaren Vorgesetzten und sind von dort unverzüglich weiterzuleiten, Filtern ist verboten. Zum Nachlesen: LDG §38 Abs.1."
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Erreichbarkeit bleibt Pflicht. Wer gerechtfertigt fehlt und außerhalb des Wohnsitzes Aufenthalt nimmt, meldet Aufenthaltsnahme und Adresse. Zum Nachlesen: LDG §37 Abs.3.",
+    "hauptquelle": "LDG §37 Abs.3",
+    "id": "B23-L3-012",
+    "level": "L3",
+    "modul_id": "B23",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Krankheit befreit nicht von der Erreichbarkeitspflicht.",
+      "Richtig erkannt: Aufenthalt außerhalb des Wohnsitzes plus Adresse sind zu melden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, wer krankgeschrieben ist, müsse niemandem sagen, wo er sich aufhält, und könne unangekündigt verreisen, auch wenn dadurch eine Kontrolluntersuchung nicht zugestellt werden kann.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

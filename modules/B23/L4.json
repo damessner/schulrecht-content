@@ -1,1 +1,265 @@
-[]
+[
+  {
+    "aufloesung": "Wallner riskiert ein Disziplinarverfahren, Schweigen aus Loyalität entschuldigt nicht. Die unverzügliche Verdachtsmeldung ist Dienstpflicht, ihre Verletzung ist eine Dienstpflichtverletzung mit möglichen Disziplinarfolgen. Zum Nachlesen: LDG §37 Abs.1.",
+    "hauptquelle": "LDG §37 Abs.1",
+    "id": "B23-L4-001",
+    "level": "L4",
+    "modul_id": "B23",
+    "optionen": [
+      "Das Schweigen war kollegial und bleibt ohne jede dienstrechtliche Folge.",
+      "Das wochenlange Verschweigen verletzt die Meldepflicht und kann disziplinarrechtlich verfolgt werden.",
+      "Disziplinar droht nur bei Verurteilung durch ein Strafgericht, nie für bloßes Schweigen.",
+      "Wer nichts gesehen haben will, muss auch nichts melden und bleibt immer straflos."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Loyalität entschuldigt keine Verletzung der Meldepflicht.",
+      "Richtig: Meldepflichtverletzung ist Dienstpflichtverletzung mit Disziplinarrelevanz.",
+      "Falsch: Schon die Pflichtverletzung selbst ist disziplinarrechtlich relevant.",
+      "Falsch: Wegschauen beseitigt einen begründeten Verdacht nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Wallner erfährt im Dienst von manipulierten Belegen und verschwindenden Geräten mit deutlichem Schulbezug. Aus Loyalität zum verdächtigten Kollegen schweigt er wochenlang und hofft, die Sache verlaufe sich. Als alles auffliegt, beruft er sich darauf, er habe ja selbst nichts gestohlen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §69"
+    ]
+  },
+  {
+    "aufloesung": "Die Stundenplankürzung als Retourkutsche ist verboten, der Hinweis war geschützt. Wer im guten Glauben einen Hinweis gibt, darf dafür nicht benachteiligt werden, eine Benachteiligung ist ihrerseits pflichtwidrig. Zum Nachlesen: LDG §37a.",
+    "hauptquelle": "LDG §37a",
+    "id": "B23-L4-002",
+    "level": "L4",
+    "modul_id": "B23",
+    "optionen": [
+      "Der Hinweisgeber muss mit Nachteilen rechnen, das gehört zum Berufsrisiko.",
+      "Die Benachteiligung ist verboten, der gutgläubige Hinweis war über den Dienstweg hinaus zulässig.",
+      "Schutz genießt nur, wer zuerst den Beschuldigten um Erlaubnis gefragt hat.",
+      "Der Direktor darf als Reaktion jede dienstliche Begünstigung entziehen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Benachteiligung als Reaktion auf den Hinweis ist untersagt.",
+      "Richtig: Hinweis ohne Dienstweg plus Benachteiligungsverbot gelten gemeinsam.",
+      "Falsch: Eine Erlaubnis des Beschuldigten ist nicht verlangt.",
+      "Falsch: Vergeltung durch Stundenplan oder Beurteilungen ist pflichtwidrig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Xander meldet im guten Glauben an die zuständige Stelle, dass bei Auftragsvergaben Geld an Verwandte des Verantwortlichen geflossen sein soll. Danach entzieht ihr der Direktor überraschend die Klassenvorstandzulage und setzt sie auf einen unattraktiven Stundenplan. Er meint, wer so etwas melde, müsse mit Gegenwind leben.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §38 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Yildirim muss die verlangten Daten liefern, der Datenschutz-Einwand greift hier nicht. Bei Fremdeinwirkung sind auf Verlangen sämtliche für Ersatzansprüche erforderlichen Daten und Beweismittel bekanntzugeben. Zum Nachlesen: LDG §37 Abs.1c.",
+    "hauptquelle": "LDG §37 Abs.1c",
+    "id": "B23-L4-003",
+    "level": "L4",
+    "modul_id": "B23",
+    "optionen": [
+      "Mit Verweis auf Datenschutz darf sie Unfalldaten und Beweismittel dauerhaft verweigern.",
+      "Auf Verlangen muss sie Hergang, Schädigerdaten und Beweismittel für Ersatzansprüche bekanntgeben.",
+      "Es genügt, den Vorfall nur der Versicherung des Schädigers zu erzählen.",
+      "Die Meldung an die Dienstbehörde kann sie bis zur Pensionierung aufschieben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Datenschutz rechtfertigt keine Totalverweigerung gegenüber der Dienstbehörde auf Verlangen.",
+      "Richtig: Daten und Beweise für den Rückgriff sind auf Verlangen zu liefern.",
+      "Falsch: Private Erzählung ersetzt die dienstliche Melde- und Beibringungspflicht nicht.",
+      "Falsch: Verlangt ist unverzügliche Meldung, kein jahrelanger Aufschub."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Yildirim wird am Schulweg von einem E-Scooter-Fahrer niedergefahren und fällt lange aus. Die Dienstbehörde verlangt für mögliche Ersatzansprüche Hergang, Namen des Fahrers und Fotos. Yildirim verweigert alles mit dem Argument, Datenschutz gehe vor und das sei ihre Privatsache.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Direktor macht sich selbst angreifbar, Zurückhalten ist pflichtwidrig. Anbringen sind unverzüglich weiterzuleiten, die Verdachtsmeldung gehört sofort an die zuständige Stelle, Decken kann disziplinarrechtlich relevant werden. Zum Nachlesen: LDG §38 Abs.1.",
+    "hauptquelle": "LDG §38 Abs.1",
+    "id": "B23-L4-004",
+    "level": "L4",
+    "modul_id": "B23",
+    "optionen": [
+      "Der Direktor darf Verdachtsmeldungen nach eigenem Ermessen filtern und Rufschädigendes zurückhalten.",
+      "Er muss Anbringen unverzüglich weiterleiten und darf eine Verdachtsmeldung nicht abfangen.",
+      "Zum Schutz des Schulrufs darf er die Meldung monatelang in der Schublade lassen.",
+      "Meldende Lehrer muss er dienstlich verwarnen, damit so etwas nicht noch einmal vorkommt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Filterrecht des Vorgesetzten gibt es nicht.",
+      "Richtig: Weiterleitungspflicht und Meldekette gelten auch für Unangenehmes.",
+      "Falsch: Liegenlassen zum Rufschutz verletzt die Unverzüglichkeit.",
+      "Falsch: Vergeltung gegen Meldende ist verboten statt geboten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer meldet seinem Direktor einen begründeten Verdacht mit Schulbezug. Der Direktor hält die Meldung für rufschädigend, behält sie wochenlang in seiner Schublade und unternimmt nichts. Dem meldenden Lehrer droht er mit Konsequenzen, falls er die Sache weiterverfolge.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §37 Abs.1",
+      "LDG §69"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.1",
+    "id": "B23-L4-005",
+    "level": "L4",
+    "modul_id": "B23",
+    "optionen": [
+      "Den begründeten Verdacht unverzüglich dem unmittelbaren Vorgesetzten melden.",
+      "Stattdessen wochenlang selbst ermitteln und Beweise im Spind sichern.",
+      "Den Verdacht zuerst im Kollegium und in sozialen Medien ausbreiten.",
+      "Im guten Glauben einen Hinweis an die zuständige Stelle geben, das erfüllt die Pflicht.",
+      "Die Meldung unterlassen, weil der Verdächtige ein Freund ist.",
+      "Nach der Meldung an der Aufklärung mitwirken, ohne den Beschuldigten vorab zu warnen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverzüglichkeit und Dienstweg an den direkten Vorgesetzten sind der Kern.",
+      "Falsch: Eigene Ermittlungen gefährden Verfahren und verletzen die Unverzüglichkeit.",
+      "Falsch: Verbreitung im Kollegium verletzt Geheimhaltung und Persönlichkeitsschutz.",
+      "Richtig: Die geschützte Hinweisgebung erfüllt die Meldepflicht.",
+      "Falsch: Freundschaft entschuldigt keine Pflichtverletzung mit Disziplinarrelevanz.",
+      "Richtig: Mitwirkung ohne vorherige Warnung sichert das Verfahren."
+    ],
+    "richtig": [
+      0,
+      3,
+      5
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "An einer höheren Schule verdichten sich Hinweise, dass Prüfungsgebühren systematisch abgezweigt wurden. Ein Professor schwankt zwischen sofortiger Meldung, eigenen Ermittlungen, einer Rundmail ans Kollegium und einem geschützten Hinweis an die zuständige Stelle. Wähle alles, was melde- und disziplinarrechtlich richtig ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §37a",
+      "LDG §33",
+      "LDG §69"
+    ],
+    "aufloesung": "Richtig sind nur sofortige Meldung im Dienstweg oder geschützter Hinweis plus redliche Mitwirkung. Selbstermittlungen, Verbreitung im Kollegium und Schweigen aus Freundschaft verletzen Meldepflicht, Geheimhaltung und Persönlichkeitsschutz mit Disziplinarrelevanz. Zum Nachlesen: LDG §37 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.1c",
+    "id": "B23-L4-006",
+    "level": "L4",
+    "modul_id": "B23",
+    "optionen": [
+      "Auf Verlangen Hergang, Schädiger und Zeugen für Ersatzansprüche nennen.",
+      "Auf Verlangen ärztliche Belege und Fotos als Beweismittel beibringen.",
+      "Unbeteiligte Schülerdaten und Gerüchte ungefragt an Presse und Eltern verteilen.",
+      "Die Meldung an die Dienstbehörde unverzüglich erstatten statt monatelang zu warten.",
+      "Alles verweigern mit pauschalem Verweis auf Datenschutz und Privatsache.",
+      "Statt der Dienstbehörde nur der Haftpflicht des Schädigers alles erzählen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese Daten sichern den Rückgriff des Dienstgebers.",
+      "Richtig: Beweismittel gehören auf Verlangen zur Beibringungspflicht.",
+      "Falsch: Unbeteiligtendaten und Gerüchte zu streuen verletzt Datenschutz und Geheimhaltung.",
+      "Richtig: Unverzüglichkeit ist der Maßstab, kein Aufschub bis zur Genesung.",
+      "Falsch: Pauschaler Datenschutz ersetzt die Pflicht auf Verlangen nicht.",
+      "Falsch: Private Erzählung ersetzt die dienstliche Meldung nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "MS",
+      "BS"
+    ],
+    "situation": "Ein Lehrer wird im Schulhof von einem externen Lieferfahrzeug erfasst und fällt wochenlang aus. Die Dienstbehörde verlangt alles für mögliche Ersatzansprüche, der Lehrer beruft sich auf Datenschutz, denkt an einen langen Aufschub und überlegt, den Fall in einer Elternrunde breit zu erzählen. Wähle alles, was datenschutz- und melderechtlich zutrifft.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Geschuldet sind unverzügliche Meldung plus Daten und Beweise auf Verlangen, nicht Streuung und nicht Totalverweigerung. Erforderliches an die Dienstbehörde ja, Unbeteiligtendaten an Presse und Elternrunde nein. Zum Nachlesen: LDG §37 Abs.1c."
+  },
+  {
+    "hauptquelle": "LDG §37 Abs.3",
+    "id": "B23-L4-007",
+    "level": "L4",
+    "modul_id": "B23",
+    "optionen": [
+      "Im Krankenstand Aufenthalt außerhalb des Wohnsitzes plus Adresse rechtzeitig melden.",
+      "Als Beurlaubter für die Hauptferien eine Zustelladresse für den kürzesten Weg melden.",
+      "Als Leiter zusätzlich für Weihnachts-, Semester- und Osterferien melden.",
+      "Unerreichbarkeit ohne Meldung bleibt folgenlos, weil Ferien und Krankheit privat sind.",
+      "Nachträgliches Sammeln nach Rückkehr heilt jede versäumte Meldung.",
+      "Bei scheiternder Kontrolle und Zustellung drohen dienst- und disziplinarrechtliche Folgen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Krankenaufenthalt außerhalb des Wohnsitzes löst die Adresspflicht aus.",
+      "Richtig: Hauptferienadresse gilt für alle Beurlaubten.",
+      "Richtig: Leiter trifft die Zusatzpflicht in den kleinen Ferien.",
+      "Falsch: Unerreichbarkeit verletzt Meldepflichten mit möglichen Folgen.",
+      "Falsch: Rückwirkendes Sammeln ersetzt keine rechtzeitige Meldung.",
+      "Richtig: Vereitelte Kontrolle und Zustellung sind disziplinarrechtlich relevant."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schulleiter erholt sich im Krankenstand unangemeldet bei Verwandten außerhalb seines Wohnsitzes, danach ist er in den Sommerferien beurlaubt ohne Zustelladresse im Ausland. Weder eine Kontrolluntersuchung noch eine dringende amtliche Verständigung erreichen ihn. Er meint, nachträgliches Erklären im Herbst heile alles. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §69"
+    ],
+    "aufloesung": "Alle drei Meldungen waren geschuldet und nachträgliches Erklären heilt sie nicht. Wer unerreichbar bleibt und Kontrollen wie Zustellungen vereitelt, verletzt Dienstpflichten mit möglichen Disziplinarfolgen. Zum Nachlesen: LDG §37 Abs.3."
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Schutz braucht guten Glauben. Wer wissentlich falsch anschuldigt, handelt nicht im guten Glauben und genießt keinen Hinweisgeberschutz, sondern riskiert selbst Disziplinarfolgen. Zum Nachlesen: LDG §37a.",
+    "hauptquelle": "LDG §37a",
+    "id": "B23-L4-008",
+    "level": "L4",
+    "modul_id": "B23",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Guter Glaube ist die Voraussetzung des Schutzes.",
+      "Richtig erkannt: Wissentlich falsche Hinweise sind missbräuchlich und selbst verfolgbar."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check zum Hinweisgeberschutz: Eine Kollegin behauptet, jeder Hinweis an die zuständige Stelle sei automatisch geschützt und folgenlos, auch wenn man wider besseres Wissen falsch beschuldige, um einem unliebsamen Kollegen zu schaden.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "LDG §69"
+    ]
+  }
+]
