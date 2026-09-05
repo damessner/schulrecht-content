@@ -1,1 +1,393 @@
-[]
+[
+  {
+    "aufloesung": "Die Abmeldung mitten im November aus Bequemlichkeit ist unzulässig. Bei getrennter Abfolge geht der Ausstieg nur zum Semesterende mit Dreiwochefrist oder aus triftigen Gründen. Zum Nachlesen: TirSOG §99e Abs.1.",
+    "hauptquelle": "TirSOG §99e Abs.1",
+    "id": "C35-L3-001",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Sohn kann jederzeit formlos von heute auf morgen aussteigen.",
+      "Der Ausstieg geht nur zum Semesterende mit Frist oder aus triftigen Gründen.",
+      "Eine Abmeldung ist das ganze Jahr völlig ausgeschlossen.",
+      "Die Direktion darf Hobbywünsche nie ablehnen und muss sofort zustimmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fristloser Ausstieg aus Bequemlichkeit ist nicht vorgesehen.",
+      "Richtig: Semesterende mit Dreiwochefrist, sonst nur Härtefälle.",
+      "Falsch: Zum Semesterende ist die Abmeldung möglich.",
+      "Falsch: Ohne Härtefall darf die Leitung den Wunsch ablehnen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Berger will ihren Sohn Mitte November vom Nachmittagsbetreuungsteil abmelden, weil er lieber dreimal pro Woche zum Fußballtraining gehen will. Die Direktion lehnt den sofortigen Ausstieg ab und verweist auf Termine und Fristen, die Familie spricht von Schikane.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §12a Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Der beruflich bedingte Umzug ist ein besonders berücksichtigungswürdiger Grund. Dann ist die Abmeldung auch außerhalb des Semestertermins zulässig. Zum Nachlesen: TirSOG §99e Abs.1.",
+    "hauptquelle": "TirSOG §99e Abs.1",
+    "id": "C35-L3-002",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Auch bei Umzug muss das Kind bis Schuljahresende bleiben.",
+      "Der Umzug als Härtefall erlaubt die Abmeldung auch unterjährig.",
+      "Ein Umzug beendet automatisch auch die Schulanmeldung.",
+      "Härtefälle gelten nur für kranke Kinder, nie für Umzüge."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Härtefälle durchbrechen die Semesterbindung.",
+      "Richtig: Beruflicher Ortswechsel ist ein triftiger Ausnahmegrund.",
+      "Falsch: Betreuungsabmeldung und Schulanmeldung sind getrennt.",
+      "Falsch: Auch Umzüge zählen zu den Härtefällen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Hofer muss im Oktober berufsbedingt in einen anderen Bezirk ziehen und will ihre Tochter sofort vom Betreuungsteil der alten Schule abmelden. Die Direktion beharrt auf dem Semesterende, die Eltern verweisen auf den erzwungenen Wohnungswechsel.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §12a Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Vorauskasse für das halbe Jahr ist unzulässig. Der Beitrag wird monatlich im Nachhinein eingehoben und braucht eine kostendeckende Verordnung. Zum Nachlesen: TirSOG §99i Abs.3.",
+    "hauptquelle": "TirSOG §99i Abs.3",
+    "id": "C35-L3-003",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Die Eltern müssen das ganze Semester im September vorauszahlen.",
+      "Der Beitrag wird monatlich im Nachhinein eingehoben.",
+      "Die Gemeinde darf die Höhe mündlich je nach Kassenlage festlegen.",
+      "Bei Zahlungsverzug fliegt das Kind sofort aus der Schule."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vorauskasse für lange Zeiträume ist nicht vorgesehen.",
+      "Richtig: Abgerechnet wird rückwirkend pro Monat.",
+      "Falsch: Die Festsetzung braucht eine Verordnung mit Kostendeckel.",
+      "Falsch: Eine solche Sanktion ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die Gemeinde verlangt im September den vollen Betreuungs- und Essensbeitrag für das ganze Wintersemester im Voraus und droht bei Nichtzahlung mit dem Ausschluss vom Nachmittag. Familie Pacher hält die Rechnung für überhöht und will nur monatlich zahlen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §99i Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Verordnung ohne Sozialklausel ist rechtswidrig. Sie muss Entfall oder Ermäßigung nach Einkommen, Vermögen und Familie vorsehen. Zum Nachlesen: TirSOG §99i Abs.2.",
+    "hauptquelle": "TirSOG §99i Abs.2",
+    "id": "C35-L3-004",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Alle zahlen starr den vollen Satz ohne jede Ausnahme.",
+      "Die Verordnung muss Ermäßigung oder Entfall nach sozialer Lage vorsehen.",
+      "Nur Familien von Gemeindebediensteten bekommen Nachlass.",
+      "Wer wenig verdient, verliert den Betreuungsplatz automatisch."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Starre Vollzahlung ohne Sozialklausel ist unzulässig.",
+      "Richtig: Die soziale Staffelung ist Pflichtinhalt der Verordnung.",
+      "Falsch: Eine solche Bevorzugung ist nicht vorgesehen.",
+      "Falsch: Genau das soll die Sozialklausel verhindern."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine alleinerziehende Mutter mit geringem Einkommen und zwei Kindern bittet um Nachlass beim Essens- und Betreuungsbeitrag. Die Gemeindekasse verweist auf einen starren Einheitstarif für alle und lehnt jede Ermäßigung ab.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Freizeitgruppe darf nicht ohne geeignetes Personal laufen. Der Schulerhalter muss Lehrer, Erzieher, Freizeitpädagogen oder sonstige pädagogisch Qualifizierte beistellen, die Aufsicht gilt auch am Nachmittag. Zum Nachlesen: TirSOG §6 Abs.3.",
+    "hauptquelle": "TirSOG §6 Abs.3",
+    "id": "C35-L3-005",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Nachmittag läuft ohne Personal, die Kinder beaufsichtigen sich selbst.",
+      "Der Erhalter muss geeignetes Freizeitpersonal beistellen, Aufsicht gilt auch am Nachmittag.",
+      "Jede zufällige Hilfskraft ohne Qualifikation darf allein Aufsicht führen.",
+      "Aufsichtspflicht endet mittags mit dem Vormittagsunterricht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Betreuung ohne Personal ist unzulässig.",
+      "Richtig: Freizeitpersonal des Erhalters plus durchgehende Aufsicht.",
+      "Falsch: Unqualifizierte Alleinaufsicht ist ausgeschlossen.",
+      "Falsch: Die Aufsicht umfasst auch den Betreuungsteil."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An einer ganztägigen Volksschule toben dreißig Kinder am Nachmittag ohne feste Betreuungsperson in Turnsaal und Garten, weil die Gemeinde kein Freizeitpersonal eingeteilt hat. Nach einem Sturz mit Platzwunde fragen die Eltern, wer für die Aufsicht am Nachmittag zuständig ist.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51"
+    ]
+  },
+  {
+    "aufloesung": "Der Trainer darf nicht sofort starten. Externe ohne Gebietskörperschaftsdienst brauchen vorher geprüfte saubere Nachweise, die höchstens drei Monate alt sind. Zum Nachlesen: TirSOG §6 Abs.4.",
+    "hauptquelle": "TirSOG §6 Abs.4",
+    "id": "C35-L3-006",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Trainer startet sofort ohne jede Prüfung.",
+      "Der Start braucht vorher saubere Nachweise mit höchstens drei Monaten Alter.",
+      "Ein acht Monate alter Auszug reicht völlig aus.",
+      "Vertrauensnachweise sind nur für Lehrer nötig, nie für Externe."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Prüfung ist kein Dienst im Betreuungsteil erlaubt.",
+      "Richtig: Vorherige Prüfung mit frischer sauberer Bescheinigung ist Pflicht.",
+      "Falsch: Acht Monate überschreitet die Dreimonatsgrenze.",
+      "Falsch: Gerade Externe ohne Gebietskörperschaftsdienst brauchen den Nachweis."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Ein privater Sporttrainer über einen Verein soll zweimal pro Woche die Freizeitgruppe übernehmen. Er legt nur einen acht Monate alten Auszug vor und will am Montag ohne weitere Prüfung starten, die Direktion ist unsicher.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Anzeige kam zu spät und unvollständig, der Start war daher unzulässig. Nötig sind drei Monate Vorlauf mit Nachweisen und Stellungnahmen, die Behörde darf binnen zwei Monaten untersagen. Zum Nachlesen: TirSOG §99d Abs.1.",
+    "hauptquelle": "TirSOG §99d Abs.1",
+    "id": "C35-L3-007",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Die Anzeige muss drei Monate vor Start oder Einstellung erfolgen.",
+      "Nachweise der Voraussetzungen plus Stellungnahmen von Eltern und Lehrern gehören dazu.",
+      "Die Behörde darf binnen zwei Monaten bei fehlenden Voraussetzungen untersagen.",
+      "Ohne Untersagung in dieser Frist darf gestartet oder eingestellt werden.",
+      "Fünf Wochen Vorlauf per Telefon genügen völlig.",
+      "Stellungnahmen der Betroffenen sind reine Formsache und entbehrlich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dreimonatsfrist vor der Umstellung ist einzuhalten.",
+      "Richtig: Nachweise und beide Stellungnahmen gehören dazu.",
+      "Richtig: Zweimonatsfrist für die Untersagung läuft ab Anzeige.",
+      "Richtig: Schweigen der Behörde gibt den Weg frei.",
+      "Falsch: Telefonischer Kurzanlauf ersetzt die Anzeige nicht.",
+      "Falsch: Beide Stellungnahmen sind zwingender Anzeigeninhalt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde startet den Ganztagsbetrieb fünf Wochen nach einem Anruf bei der Behörde, ohne Nachweise und ohne die Eltern und Lehrer schriftlich einzubinden. Die Behörde untersagt den Betrieb im zweiten Monat, der Bürgermeister hält das für Schikane.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §99d Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Bei dauerhaftem Wegfall muss der Ganztag aufgehoben werden, notfalls ordnet es die Behörde nach Anhörung an. Reicht es noch für die freiwillige Form, darf der Betrieb bleiben. Zum Nachlesen: TirSOG §99c Abs.1.",
+    "hauptquelle": "TirSOG §99c Abs.1",
+    "id": "C35-L3-008",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Bei dauerhaftem Wegfall der Voraussetzungen besteht Aufhebungspflicht.",
+      "Reicht es noch für die freiwillige Form, darf der Ganztag weiterlaufen.",
+      "Bei Untätigkeit des Erhalters ordnet die Behörde die Aufhebung an.",
+      "Vor der Anordnung sind Forum oder Schulgemeinschaftsausschuss zu hören.",
+      "Ein kurzer Einbruch über zwei Wochen erzwingt sofort die Aufhebung.",
+      "Die Behörde darf ohne jede Anhörung per Eilbescheid auflösen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dauerhafter Wegfall beendet die Ganztagsbestimmung.",
+      "Richtig: Freiwillige Voraussetzungen können den Betrieb retten.",
+      "Richtig: Die Behörde greift bei säumigem Erhalter ein.",
+      "Richtig: Forum oder Ausschuss sind vorher zu hören.",
+      "Falsch: Nur dauerhafter, nicht kurzer Wegfall zählt.",
+      "Falsch: Die vorherige Anhörung ist vorgeschrieben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Betreuungszahlen brechen dauerhaft auf sechs Kinder ein, der Erhalter rührt sich monatelang nicht. Die Behörde prüft eine Anordnung zur Beendigung des Ganztags, der Elternverein will vorher gehört werden und der Bürgermeister hofft auf freiwillige Weiterführung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §99c Abs.3",
+      "TirSOG §99c Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Der Erhalter muss den Aufwand samt Dienstgeberbeiträgen voll ersetzen. Vorgeschrieben wird per Bescheid bis Ende Februar, fällig vier Wochen nach Erlassung. Zum Nachlesen: TirSOG §99g Abs.1.",
+    "hauptquelle": "TirSOG §99g Abs.1",
+    "id": "C35-L3-009",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Erhalter ersetzt den Personalaufwand samt Dienstgeberbeiträgen zur Gänze.",
+      "Die Vorschreibung erfolgt per Bescheid bis Ende Februar des Folgejahres.",
+      "Der Betrag wird vier Wochen nach Bescheiderlassung fällig.",
+      "Das Land trägt den Freizeiteinsatz immer gratis aus Kulanz.",
+      "Die Gemeinde darf die Ersatzrechnung einfach ignorieren.",
+      "Für den Leiter des Betreuungsteiles gibt es nie Zusatzersatz."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Voller Ersatz inklusive aller Dienstgeberbeiträge.",
+      "Richtig: Bescheidtermin Ende Februar ist einzuhalten.",
+      "Richtig: Vierwochenfrist bis zur Fälligkeit läuft ab Erlassung.",
+      "Falsch: Freizeitpersonal des Landes gibt es nur gegen Ersatz.",
+      "Falsch: Ignorieren macht den Bescheid nicht unwirksam.",
+      "Falsch: Auch der Leitungsmehraufwand ist zu ersetzen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Das Land hat zwei Erzieher für den Freizeitbereich beigestellt und schickt der Gemeinde eine Ersatzrechnung samt Dienstgeberanteilen. Der Bürgermeister hält den Einsatz für gratis, verweigert die Zahlung und übersieht den Bescheid mit Frist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §99g Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "An Allgemeinen Sonderschulen zahlt das Land je nach Gruppe ein Viertel oder vier Zehntel, sonst die Hälfte. Gedeckelt wird auf Landeslehrerkosten je Wochenstunde, beantragt wird binnen drei Monaten nach Schuljahresende. Zum Nachlesen: TirSOG §99h Abs.2.",
+    "hauptquelle": "TirSOG §99h Abs.2",
+    "id": "C35-L3-010",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Ohne erhöhten Förderbedarf beträgt der Zuschuss ein Viertel des Personalaufwandes.",
+      "Mit erhöhtem Förderbedarf oder mehrfachbehinderten Kindern beträgt er vier Zehntel.",
+      "An allen anderen Sonderschulen beträgt er die Hälfte.",
+      "Der Zuschuss ist auf Landeslehrerkosten je Wochenstunde gedeckelt.",
+      "Der Zuschuss fließt automatisch ohne jeden Antrag.",
+      "Luxusgehälter ohne Grenze werden voll erstattet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Niedrigere Quote ohne diese Bedarfe.",
+      "Richtig: Höhere Quote bei diesen Bedarfen.",
+      "Richtig: Hälftige Förderung an sonstigen Sonderschulen.",
+      "Richtig: Deckel nach Entlohnungsgruppen mal Wochenstunden.",
+      "Falsch: Antrag binnen drei Monaten nach Schuljahresende ist nötig.",
+      "Falsch: Der Deckel begrenzt die Erstattung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine ganztägige Allgemeine Sonderschule führt zwei Freizeitgruppen, eine davon mit Kindern mit erhöhtem Förderbedarf, das Personal stellt die Gemeinde bei. Nun streiten Gemeinde und Land über die Höhe des Zuschusses, den Deckel und die Antragsfrist nach Schuljahresende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §99h Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Freizeitaufwand wird gesondert festgestellt und nach Betreuungsstunden umgelegt. Elternbeiträge und Drittzuschüsse werden vorher abgezogen. Zum Nachlesen: TirSOG §79 Abs.5.",
+    "hauptquelle": "TirSOG §79 Abs.5",
+    "id": "C35-L3-011",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Personal- und Verpflegungsaufwand im Freizeitbereich werden gesondert festgestellt.",
+      "Elternbeiträge und Drittzuschüsse mindern vorher den umzulegenden Aufwand.",
+      "Umgelegt wird nach den wöchentlichen Betreuungsstunden der jeweiligen Schüler.",
+      "Aller Aufwand wird pauschal pro Kopf umgelegt.",
+      "Betreuungsstunden spielen für die Umlage keine Rolle.",
+      "Die Gemeinde darf Beiträge kassieren und trotzdem voll umlegen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gesonderte Feststellung für den Freizeitbereich.",
+      "Richtig: Beiträge und Förderungen werden abgezogen.",
+      "Richtig: Stundensummen entscheiden über die Anteile.",
+      "Falsch: Pauschale Kopfteilung ist dort nicht vorgesehen.",
+      "Falsch: Gerade die Stunden sind der Schlüssel.",
+      "Falsch: Doppelte Verrechnung ist ausgeschlossen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Schulerhalter legt die Freizeitkosten pauschal pro Kopf auf die Nachbargemeinden um und ignoriert dabei die kassierten Essens- und Betreuungsbeiträge sowie die sehr unterschiedlichen Betreuungsstunden der Kinder.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Der Betreuungsteil wird erst ab sieben angemeldeten Kindern geführt, an Sonderschulen ab drei. Zum Nachlesen: TirSOG §99e Abs.1.",
+    "hauptquelle": "TirSOG §99e Abs.1",
+    "id": "C35-L3-012",
+    "level": "L3",
+    "modul_id": "C35",
+    "optionen": [
+      "Richtig.",
+      "Falsch."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vier Kinder genügen für die Führung nicht.",
+      "Richtig: Erst die Mindestzahl löst die Führungspflicht aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In der Konferenz behauptet ein Kollege, der Betreuungsteil müsse an einer Volksschule schon mit vier angemeldeten Kindern geführt werden. Die Direktion prüft die Mindestzahl für die Führung des Betreuungsteiles.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

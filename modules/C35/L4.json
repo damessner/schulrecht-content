@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "aufloesung": "Die Eltern kommen unterjährig nicht heraus, weil keine reine Unterrichtsklasse existiert. Dann bleibt nur die Schulabmeldung, sonst gelten Semestertermin mit Frist oder Härtefälle. Zum Nachlesen: TirSOG §99e Abs.1.",
+    "hauptquelle": "TirSOG §99e Abs.1",
+    "id": "C35-L4-001",
+    "level": "L4",
+    "modul_id": "C35",
+    "optionen": [
+      "Die Eltern melden tageweise ab, so oft sie wollen.",
+      "Ohne reine Unterrichtsklasse bleibt unterjährig nur die Schulabmeldung.",
+      "Zum Semesterende mit Dreiwochefrist ist die Abmeldung möglich.",
+      "Außerhalb davon geht es nur aus triftigen Gründen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Tagewahl gibt es verschränkt gerade nicht.",
+      "Richtig: Ohne Alternative hängt der Unterricht am Betreuungsteil.",
+      "Richtig: Das ist der ordentliche Abmeldetermin.",
+      "Richtig: Härtefälle sind die einzige Ausnahme daneben."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eltern einer verschränkt geführten Klasse wollen ihre Tochter im November wegen privater Musikstunden tageweise vom Nachmittag abmelden, an der Schule gibt es aber keine reine Unterrichtsklasse. Die Direktion erklärt, dann helfe nur ein Schulwechsel oder ein Härtefall.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §12a Abs.1",
+      "SchUG §12a Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Der Erhalter haftet für das fehlende geeignete Personal. Er muss den Freizeitbereich personell abdecken, die Aufsichtspflicht der Schule läuft am Nachmittag weiter. Zum Nachlesen: TirSOG §6 Abs.3.",
+    "hauptquelle": "TirSOG §6 Abs.3",
+    "id": "C35-L4-002",
+    "level": "L4",
+    "modul_id": "C35",
+    "optionen": [
+      "Niemand haftet, Freizeit ist aufsichtsfreie Privatzeit.",
+      "Der Erhalter muss geeignetes Freizeitpersonal stellen, Aufsicht gilt auch dort.",
+      "Ein unqualifizierter Helfer allein genügt für dreißig Kinder.",
+      "Die Eltern haften automatisch, weil sie angemeldet haben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Betreuung ohne Aufsicht ist unzulässig.",
+      "Richtig: Personalpflicht des Erhalters plus durchgehende Aufsicht.",
+      "Falsch: Alleinaufsicht ohne Qualifikation ist ausgeschlossen.",
+      "Falsch: Die Anmeldung verlagert die Aufsicht nicht auf Eltern."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Im Freizeitbereich verletzt sich ein Kind schwer, als ein fachfremder Helfer ohne pädagogische Qualifikation allein dreißig Kinder beaufsichtigt. Die Gemeinde meint, nach dem Mittagessen ende jede schulische Verantwortung, die Eltern sehen das anders.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51"
+    ]
+  },
+  {
+    "aufloesung": "Die Gemeinde darf weder Vorauskasse noch Verwaltungsvollstreckung wählen. Kassiert wird monatlich rückwirkend, gestritten wird vor dem ordentlichen Gericht. Zum Nachlesen: TirSOG §99i Abs.3.",
+    "hauptquelle": "TirSOG §99i Abs.3",
+    "id": "C35-L4-003",
+    "level": "L4",
+    "modul_id": "C35",
+    "optionen": [
+      "Die Gemeinde treibt die Beiträge per Verwaltungsbescheid ein.",
+      "Streit über die Beiträge gehört vor das ordentliche Gericht.",
+      "Kassiert wird monatlich im Nachhinein, nicht als Semester­vorauskasse.",
+      "Bei Streit darf die Schule das Kind sofort vom Essen ausschließen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der ordentliche Rechtsweg ist ausdrücklich vorgesehen.",
+      "Richtig: Kein Verwaltungs-, sondern Gerichtsverfahren.",
+      "Richtig: Abrechnung erfolgt rückwirkend pro Monat.",
+      "Falsch: Eine solche Sanktion sieht das Gesetz nicht vor."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Familie verweigert die überhöhte Betreuungsrechnung, die als Semestervorauskasse gestellt wurde. Die Gemeinde will per Bescheid vollstrecken und droht mit Essenssperre, die Familie besteht auf monatlicher Abrechnung und gerichtlicher Klärung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §99i Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Trotz genug Anmeldungen scheitert die Pflicht an Räumen und Alternativangebot. Ohne geeignete Räume und bei freiem Hort in erreichbarer Nähe darf nicht verpflichtend bestimmt werden. Zum Nachlesen: TirSOG §99a Abs.5.",
+    "hauptquelle": "TirSOG §99a Abs.5",
+    "id": "C35-L4-004",
+    "level": "L4",
+    "modul_id": "C35",
+    "optionen": [
+      "Die Anmeldezahl allein erzwingt die Bestimmung ohne weitere Prüfung.",
+      "Die Pflicht scheitert an fehlenden Räumen und freiem Alternativangebot.",
+      "Der freie Hort nebenan ist rechtlich völlig unbeachtlich.",
+      "Räume sind egal, der Bürgermeister bestimmt per Beschluss."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mindestzahl plus weitere Voraussetzungen entscheiden.",
+      "Richtig: Räume und Alternativangebot blockieren die Pflicht.",
+      "Falsch: Ausreichende Alternativangebote schließen die Pflicht aus.",
+      "Falsch: Räume sind zwingende Voraussetzung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Achtzehn Eltern melden Bedarf für die Nachmittagsbetreuung an, doch die Schule hat keinen Speiseraum und keine Betreuungsräume. Der private Hort nebenan hat freie Plätze in wenigen Gehminuten, der Bürgermeister will trotzdem verpflichtend bestimmen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §99a Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die gemeinsame Führung rettet beide Standorte, wenn die Mindestzahl sonst fehlt und der Weg zumutbar bleibt. Anzeige mit Stellungnahmen und Anmelderegeln nach getrennter Abfolge kommen dazu. Zum Nachlesen: TirSOG §99a Abs.3.",
+    "hauptquelle": "TirSOG §99a Abs.3",
+    "id": "C35-L4-005",
+    "level": "L4",
+    "modul_id": "C35",
+    "optionen": [
+      "Zusammenfassung mehrerer Schulen, wenn die Mindestzahl sonst fehlt.",
+      "Erreichbarkeit binnen einer halben Stunde auf zumutbarem Weg.",
+      "Anzeige drei Monate vorher mit Nachweisen und Stellungnahmen.",
+      "Anmeldung bei getrennter Abfolge tageweise und nur für das Jahr.",
+      "Jeder Standort braucht zwingend einen eigenen Ganztag.",
+      "Stellungnahmen von Eltern und Lehrern sind entbehrlich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau dafür ist die schulübergreifende Führung da.",
+      "Richtig: Die Halbstunden-Erreichbarkeit ist Voraussetzung.",
+      "Richtig: Dreimonatsanzeige mit beiden Stellungnahmen ist nötig.",
+      "Richtig: Tagewahl mit Jahresbindung gilt bei getrennter Abfolge.",
+      "Falsch: Gemeinsame Führung ist gerade zulässig.",
+      "Falsch: Beide Stellungnahmen sind zwingender Anzeigeninhalt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zwei kleine Volksschulen schaffen allein je nur acht Betreuungskinder und wollen den Nachmittag an einem Standort gemeinsam führen. Der Weg zwischen den Orten ist kurz, Räume wären vorhanden, Eltern und Lehrer sollen eingebunden und die Anmeldung tageweise angeboten werden.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §99a Abs.5",
+      "SchUG §12a Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Sonderschul-Ganztag kombiniert niedrigere Schwellen, integrative Gruppen und gestaffelte Geldflüsse. Ersatz und Zuschuss hängen von der Gruppenzusammensetzung ab. Zum Nachlesen: TirSOG §99g Abs.2.",
+    "hauptquelle": "TirSOG §99g Abs.2",
+    "id": "C35-L4-006",
+    "level": "L4",
+    "modul_id": "C35",
+    "optionen": [
+      "Pflichtschwelle sieben Kinder, Führung des Betreuungsteiles ab drei.",
+      "Integrative Gruppen aus Kindern mit und ohne Förderbedarf bei Personaldeckung.",
+      "Ersatz bei Landesstellung je nach Gruppe fünfundsiebzig, sechzig oder fünfzig Prozent.",
+      "Zuschuss bei Erhalterstellung je nach Gruppe fünfundzwanzig, vierzig oder fünfzig Prozent.",
+      "Sonderschulen dürfen niemals ganztägig geführt werden.",
+      "Der Landeszuschuss fließt ohne Antrag und ohne Deckel."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgesenkte Schwellen für Sonderschulen.",
+      "Richtig: Gemeinsame Gruppen bei personeller Eignung.",
+      "Richtig: Gestaffelter Ersatz nach Gruppenart.",
+      "Richtig: Gespiegelter Zuschuss bei eigenem Personal.",
+      "Falsch: Auch Sonderschulen können ganztägig geführt werden.",
+      "Falsch: Antrag mit Frist und Kostendeckel gelten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine ganztägige Allgemeine Sonderschule betreut am Nachmittag zwei Gruppen, eine davon mit Kindern mit erhöhtem Förderbedarf, gemeinsam mit einer Volksschulklasse. Gemeinde und Land streiten über Schwellen, Gruppenbildung, Ersatz des Landes­personals und Zuschuss zum eigenen Personal.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §99h Abs.2",
+      "TirSOG §99e Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Die Leitung braucht Vorschlag, Größenrechtfertigung und Anhörung, der Mehraufwand wird ersetzt und Externe werden vorher geprüft. So bleiben Koordination, Finanzierung und Aufsicht konsistent. Zum Nachlesen: TirSOG §99f.",
+    "hauptquelle": "TirSOG §99f",
+    "id": "C35-L4-007",
+    "level": "L4",
+    "modul_id": "C35",
+    "optionen": [
+      "Bestellung auf Vorschlag der Schulleitung bei Zweckmäßigkeit nach Klassen- und Gruppenzahl.",
+      "Vorherige Anhörung der sprengelzugehörigen Gebietskörperschaften.",
+      "Zusätzlicher Leitungsaufwand eines Landeslehrers wird samt Beiträgen ersetzt.",
+      "Externe brauchen vorher frische saubere Vertrauensnachweise.",
+      "Die Kinder wählen die Leitung per Abstimmung.",
+      "Leitungsmehraufwand trägt das Land immer gratis."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorschlag plus Größenkriterium entscheiden.",
+      "Richtig: Anhörung vor der Bestellung ist vorgeschrieben.",
+      "Richtig: Leitungsmehraufwand ist ersatzpflichtig.",
+      "Richtig: Prüfung mit Dreimonatsgrenze vor Dienstantritt.",
+      "Falsch: Eine Kinderwahl ist kein Bestellverfahren.",
+      "Falsch: Der Erhalter ersetzt auch diesen Mehraufwand."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer großen ganztägigen Schule mit acht Nachmittagsgruppen soll ein Landeslehrer die Betreuungsleitung übernehmen, zugleich soll ein externer Trainer die Freizeit mitgestalten. Kollegium, Gemeinden und Kasse streiten über Verfahren, Kosten und Prüfung des Trainers.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §99g Abs.3",
+      "TirSOG §6 Abs.4",
+      "SchUG §51"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Die Aufsichtspflicht begleitet auch Lern- und Freizeit im Betreuungsteil, der Erhalter muss dafür geeignetes Personal beistellen. Zum Nachlesen: TirSOG §6 Abs.3.",
+    "hauptquelle": "TirSOG §6 Abs.3",
+    "id": "C35-L4-008",
+    "level": "L4",
+    "modul_id": "C35",
+    "optionen": [
+      "Richtig.",
+      "Falsch."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aufsichtsfreie Freizeit gibt es nicht.",
+      "Richtig: Aufsicht plus Personalpflicht gelten auch am Nachmittag."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Transfer-Check in der Konferenz: Die Aufsichtspflicht ende mit dem Vormittagsunterricht, die Freizeit am Nachmittag sei aufsichtsfreie Privatzeit der Kinder.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "SchUG §51"
+    ]
+  }
+]
