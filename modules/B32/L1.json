@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "aufloesung": "Lehrerin Aigner ist dienstlich verpflichtet, sich beruflich fortzubilden. Die Fortbildung ist keine freiwillige Freizeitgestaltung, sondern gehört zu den allgemeinen Dienstpflichten jeder Lehrperson. Zum Nachlesen: LDG §29 Abs.3.",
+    "hauptquelle": "LDG §29 Abs.3",
+    "id": "B32-L1-001",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Sie hat um ihre berufliche Fortbildung bestrebt zu sein, das gehört zu ihren Dienstpflichten.",
+      "Fortbildung ist reine Privatsache und hat mit dem Dienst überhaupt nichts zu tun.",
+      "Sie muss sich nur fortbilden, wenn sie dafür extra bezahlt wird.",
+      "Fortbildungspflichtig sind nur Junglehrer in den ersten zwei Dienstjahren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Bestreben um berufliche Fortbildung ist eine ausdrückliche Dienstpflicht.",
+      "Falsch: Die berufliche Fortbildung ist eine dienstliche Pflicht, keine Privatsache.",
+      "Falsch: Die Pflicht besteht unabhängig von einer zusätzlichen Bezahlung.",
+      "Falsch: Die Pflicht trifft alle Landeslehrer, nicht nur Berufsanfänger."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Junglehrerin Aigner hört im Konferenzzimmer, dass Fortbildung freiwillig sei und man getrost alle Angebote ignorieren könne. Sie fragt die Schulleitung, ob sie sich beruflich überhaupt fortbilden muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Brunner muss 15 Jahresstunden für verpflichtende Fortbildungsveranstaltungen einplanen. Diese Stunden sind Teil seiner Jahresnorm und betreffen Veranstaltungen, die mit seiner Tätigkeit als Lehrer zusammenhängen. Zum Nachlesen: LDG §43 Abs.3 Z4.",
+    "hauptquelle": "LDG §43 Abs.3 Z4",
+    "id": "B32-L1-002",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Er muss genau 100 Jahresstunden verpflichtende Fortbildung besuchen.",
+      "Für verpflichtende Fortbildungen im Zusammenhang mit seiner Tätigkeit sind 15 Jahresstunden vorgesehen.",
+      "Es gibt überhaupt kein festes Stundenausmaß für verpflichtende Fortbildung.",
+      "Er muss seine gesamte Unterrichtsverpflichtung als Fortbildung ableisten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: 100 Jahresstunden gelten für sonstige lehramtliche Pflichten, nicht für Fortbildung.",
+      "Richtig: 15 Jahresstunden verpflichtende Fortbildung sind in der Jahresnorm vorgesehen.",
+      "Falsch: Das Gesetz sieht ein festes Ausmaß von 15 Jahresstunden vor.",
+      "Falsch: Unterricht und Fortbildung sind getrennte Teile der Jahresnorm."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mittelschullehrer Brunner bekommt seine Jahresplanung und sieht darin einen Block für verpflichtende Fortbildung. Er fragt, wie viele Jahresstunden er dafür eigentlich vorsehen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Gattinger nimmt am Planungsgespräch für die kommenden drei Schuljahre teil. Die Schulleitung führt solche Gespräche regelmäßig mit jeder Lehrperson einzeln oder in Kleingruppen, um die individuelle Fort- und Weiterbildung zu planen. Zum Nachlesen: LDG §32 Abs.6.",
+    "hauptquelle": "LDG §32 Abs.6",
+    "id": "B32-L1-003",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Leitung führt mit ihr regelmäßig ein Gespräch zur Planung ihrer Fort- und Weiterbildung für die kommenden drei Schuljahre.",
+      "Ein solches Gespräch findet nur einmal bei Dienstantritt statt und nie wieder.",
+      "Die Fortbildungsplanung wird ausschließlich per anonymem Fragebogen erledigt.",
+      "Planungsgespräche gibt es nur für Schulleiter, nicht für einfache Lehrer."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Regelmäßige Planungsgespräche für jeweils drei Schuljahre sind vorgesehen.",
+      "Falsch: Die Gespräche sind regelmäßig zu führen, nicht nur einmal.",
+      "Falsch: Vorgesehen sind persönliche Gespräche einzeln oder in Kleingruppen.",
+      "Falsch: Die Gespräche führt die Leitung mit jeder Lehrperson."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Volksschullehrerin Gattinger wird von ihrer Direktorin zu einem Gespräch über ihre Fort- und Weiterbildung in den nächsten Jahren eingeladen. Sie fragt sich, was es mit diesem Gespräch auf sich hat und wozu es dient.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Hofer unterschreibt die Zusammenfassung und behält eine Ausfertigung. Die Ergebnisse des Planungsgesprächs sind schriftlich zusammenzufassen, von Leitung und Lehrperson zu unterfertigen, und eine Ausfertigung verbleibt bei der Lehrperson. Zum Nachlesen: LDG §32 Abs.6.",
+    "hauptquelle": "LDG §32 Abs.6",
+    "id": "B32-L1-004",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Es genügt eine mündliche Absprache, schriftlich braucht niemand etwas festzuhalten.",
+      "Die Ergebnisse sind schriftlich zusammenzufassen, von beiden zu unterfertigen, und eine Ausfertigung bleibt beim Lehrer.",
+      "Nur die Leitung unterschreibt einen internen Vermerk, der Lehrer bekommt nichts.",
+      "Die Zusammenfassung wird nur mündlich in der Konferenz verlesen und dann vernichtet."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Ergebnisse müssen schriftlich zusammengefasst werden.",
+      "Richtig: Schriftliche Zusammenfassung plus Unterschrift beider plus Ausfertigung für den Lehrer.",
+      "Falsch: Auch die Lehrperson unterfertigt und erhält eine Ausfertigung.",
+      "Falsch: Verlesen und Vernichten ersetzt die schriftliche Ausfertigung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Hofer hat mit seiner Schulleiterin seine Fortbildungsplanung für die kommenden Jahre besprochen. Am Ende legt sie ihm ein Blatt zur Unterschrift vor und gibt ihm eine Kopie mit. Er fragt, ob dieser Aufwand wirklich nötig ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Janda muss die angeordnete Fortbildung zu digitalen Werkzeugen besuchen. Die Schulleitung beurteilt im Zuge der Fortbildungsplanung die digitalen Kompetenzen und ordnet bei Bedarf die passende Fortbildung an. Zum Nachlesen: LDG §32 Abs.8.",
+    "hauptquelle": "LDG §32 Abs.8",
+    "id": "B32-L1-005",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Leitung darf digitale Kompetenzen weder beurteilen noch eine Fortbildung anordnen.",
+      "Die Leitung beurteilt die digitalen Kompetenzen und ordnet gegebenenfalls die passende Fortbildung an.",
+      "Nur der Lehrer selbst darf über seine digitalen Kompetenzen urteilen.",
+      "Eine Anordnung ist nur zulässig, wenn der Lehrer vorher seine Kündigung eingereicht hat."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beurteilung und Anordnung sind ausdrücklich vorgesehen.",
+      "Richtig: Beurteilung der digitalen Kompetenzen plus Anordnung bei Bedarf.",
+      "Falsch: Die Beurteilung nimmt die Schulleitung im Zuge der Planung vor.",
+      "Falsch: Eine Kündigung hat mit der Anordnung nichts zu tun."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Janda tut sich mit der neuen Lernplattform sichtlich schwer und meidet digitale Werkzeuge im Unterricht. Seine Direktorin beurteilt seine digitalen Kompetenzen als lückenhaft und trägt ihm den Besuch eines einschlägigen Kurses auf. Er meint, das könne sie nicht anordnen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Kaufmann braucht für den Lehrgang einen bewilligten Sonderurlaub. Für eine Fortbildung in der Unterrichtszeit kann auf ihr Ansuchen ein Sonderurlaub gewährt werden, automatisch freigestellt ist sie nicht. Zum Nachlesen: LDG §57 Abs.1.",
+    "hauptquelle": "LDG §57 Abs.1",
+    "id": "B32-L1-006",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Sie kann einfach wegbleiben, eine Fortbildung entschuldigt jede Abwesenheit von selbst.",
+      "Sie kann auf ihr Ansuchen für die Fortbildung einen Sonderurlaub erhalten.",
+      "Sonderurlaub für Fortbildung gibt es nur in den Schulferien, nie in der Unterrichtszeit.",
+      "Sie muss dafür unbezahlten Karenzurlaub nehmen, Sonderurlaub scheidet aus."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Ansuchen und Bewilligung darf sie nicht einfach fernbleiben.",
+      "Richtig: Die Fortbildung ist ein eigener Anlass für Sonderurlaub auf Ansuchen.",
+      "Falsch: Auch Fortbildungen in der Unterrichtszeit kommen als Anlass in Frage.",
+      "Falsch: Für Fortbildung ist der bezahlte Sonderurlaub vorgesehen, nicht die Karenz."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Kaufmann möchte einen dreitägigen Lehrgang besuchen, der mitten in der Unterrichtswoche stattfindet. Sie fragt, wie sie für diese Tage vom Unterricht freikommt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Direktion darf den Sonderurlaub wegen der Maturawoche ablehnen. Der Urlaub darf nur gewährt werden, wenn keine zwingenden dienstlichen Erfordernisse entgegenstehen, und nur in der dem Anlass angemessenen Dauer. Zum Nachlesen: LDG §57 Abs.3.",
+    "hauptquelle": "LDG §57 Abs.3",
+    "id": "B32-L1-007",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Der Urlaub muss immer bewilligt werden, dienstliche Gründe spielen keine Rolle.",
+      "Der Urlaub darf nur bei fehlenden zwingenden Diensterfordernissen und in angemessener Dauer gewährt werden.",
+      "Die Dauer des Urlaubs ist immer genau eine Woche, egal worum es geht.",
+      "Abgelehnt werden darf nur, wenn gerade Schulferien sind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zwingende dienstliche Erfordernisse können die Bewilligung verhindern.",
+      "Richtig: Beide Schranken gelten gemeinsam, Diensterfordernisse und angemessene Dauer.",
+      "Falsch: Eine fixe Wochendauer kennt das Gesetz nicht.",
+      "Falsch: Gerade in Kernzeiten wie der Maturawoche wiegen Diensterfordernisse schwer."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Wieser beantragt für die Maturawoche einen mehrtägigen Sonderurlaub für einen frei gewählten Fortbildungskurs, obwohl er als Prüfer eingeteilt ist und niemand ihn vertreten kann. Die Direktion überlegt, den Antrag abzulehnen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Auer behält während der Fortbildungstage seine vollen Bezüge. Der Sonderurlaub ist eine bezahlte Freistellung, das Gehalt läuft unverändert weiter. Zum Nachlesen: LDG §57 Abs.2.",
+    "hauptquelle": "LDG §57 Abs.2",
+    "id": "B32-L1-008",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Seine Bezüge entfallen für die Dauer des Sonderurlaubs zur Gänze.",
+      "Während des Sonderurlaubs behält er den Anspruch auf die vollen Bezüge.",
+      "Seine Bezüge werden für diese Tage halbiert.",
+      "Er erhält das Doppelte, weil Fortbildung als Überstunde zählt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Entfall der Bezüge kennzeichnet die Karenz, nicht den Sonderurlaub.",
+      "Richtig: Sonderurlaub ist bezahlt, die vollen Bezüge bleiben erhalten.",
+      "Falsch: Eine Halbierung der Bezüge ist nicht vorgesehen.",
+      "Falsch: Eine Verdoppelung als Überstundenabgeltung gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Auer bekommt für einen zweitägigen Fachkurs einen Sonderurlaub bewilligt und sorgt sich um sein Gehalt. Er fragt, ob er in diesen Tagen weniger verdient.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Pichler kann nicht unbegrenzt Sonderurlaub ansammeln. Alle Sonderurlaube eines Kalenderjahres zusammen dürfen die auf zwölf Wochen entfallende regelmäßige Dienstzeit nicht übersteigen. Zum Nachlesen: LDG §57 Abs.4.",
+    "hauptquelle": "LDG §57 Abs.4",
+    "id": "B32-L1-009",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Es gibt überhaupt keine Obergrenze, Sonderurlaub ist unbegrenzt möglich.",
+      "Alle Sonderurlaube eines Kalenderjahres zusammen dürfen höchstens zwölf Wochen regelmäßige Dienstzeit ausmachen.",
+      "Pro Jahr sind höchstens zwei einzelne Fortbildungstage erlaubt.",
+      "Die Grenze liegt bei genau einem Monat, danach ist Schluss."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Gesetz zieht eine klare Jahreshöchstgrenze.",
+      "Richtig: Zwölf Wochen regelmäßige Dienstzeit sind die Obergrenze pro Kalenderjahr.",
+      "Falsch: Eine Zwei-Tage-Grenze gibt es nicht.",
+      "Falsch: Der Maßstab sind zwölf Wochen, nicht ein Monat."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Pichler hat in diesem Kalenderjahr schon mehrere Sonderurlaube für Fortbildungen und Familienanlässe erhalten und stellt einen weiteren Antrag für einen Herbstkurs. Sie fragt, ob es eine jährliche Höchstgrenze gibt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Berger kann für den Computerkurs einen Sonderurlaub von bis zu drei Monaten bekommen. Für den Erwerb zusätzlicher Kenntnisse im Bereich der Informations- und Kommunikationstechnologien ist ein Sonderurlaub in diesem Ausmaß ausdrücklich vorgesehen. Zum Nachlesen: LDG §57 Abs.1a.",
+    "hauptquelle": "LDG §57 Abs.1a",
+    "id": "B32-L1-010",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Ein Sonderurlaub für solche IT-Kenntnisse ist überhaupt ausgeschlossen.",
+      "Ein Sonderurlaub zum Erwerb zusätzlicher IT-Kenntnisse kann im Ausmaß von bis zu drei Monaten gewährt werden.",
+      "Der IT-Sonderurlaub dauert automatisch zwei Jahre.",
+      "IT-Sonderurlaub gibt es nur für Schulleiter, nicht für Lehrer."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Genau für IT-Kenntnisse ist ein eigener Sonderurlaub vorgesehen.",
+      "Richtig: Bis zu drei Monate Sonderurlaub für zusätzliche IT-Kenntnisse sind möglich.",
+      "Falsch: Zwei Jahre verwechseln diesen Urlaub mit einer langen Karenz.",
+      "Falsch: Jede Lehrperson kann darum ansuchen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Berger will sich für den schulischen IT-Einsatz fit machen und einen mehrwöchigen Intensivkurs zu neuen Computerprogrammen besuchen. Er fragt, ob es dafür eine eigene Urlaubsmöglichkeit gibt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Stein darf nur mit ihrer Zustimmung entsendet werden. Die Entsendung zu Fortbildungszwecken für die dienstliche Verwendung an eine Einrichtung eines anderen Rechtsträgers setzt ihr Einverständnis voraus. Zum Nachlesen: LDG §23b Abs.1.",
+    "hauptquelle": "LDG §23b Abs.1",
+    "id": "B32-L1-011",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Entsendung zu Fortbildungszwecken kann auch gegen ihren Willen verfügt werden.",
+      "Die Entsendung zu Fortbildungszwecken an eine Einrichtung eines anderen Rechtsträgers braucht ihre Zustimmung.",
+      "Eine Zustimmung ist nur nötig, wenn die Fortbildung länger als ein Jahr dauert.",
+      "Zustimmen muss statt ihr der Klassensprecher ihrer Klasse."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Zustimmung ist diese Entsendung nicht möglich.",
+      "Richtig: Zustimmung plus Fortbildungszweck für die dienstliche Verwendung sind der Weg.",
+      "Falsch: Die Zustimmung ist immer nötig, unabhängig von der Dauer.",
+      "Falsch: Es zählt allein die Zustimmung der Lehrperson selbst."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Stein soll für ein halbes Jahr an eine Bildungseinrichtung eines anderen Rechtsträgers gehen, um sich dort für ihre künftige Verwendung an der Schule weiterzubilden. Sie fragt, ob die Dienstbehörde sie einfach dorthin schicken darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Thaler kann höchstens sechs Monate entsendet werden. Die Entsendung zu Fortbildungszwecken darf die dem Anlass angemessene Dauer nicht überschreiten und endet spätestens nach sechs Monaten. Zum Nachlesen: LDG §23b Abs.3.",
+    "hauptquelle": "LDG §23b Abs.3",
+    "id": "B32-L1-012",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Entsendung kann zeitlich unbegrenzt ausgedehnt werden.",
+      "Die Entsendung zu Fortbildungszwecken darf längstens sechs Monate dauern.",
+      "Jede Entsendung dauert automatisch genau sechs Jahre.",
+      "Eine Entsendung darf höchstens eine einzige Woche dauern."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Spätestens nach sechs Monaten ist bei diesem Zweck Schluss.",
+      "Richtig: Angemessene Dauer, längstens sechs Monate, das ist die Grenze.",
+      "Falsch: Sechs Jahre gelten für andere Entsendungszwecke, nicht für die Fortbildung.",
+      "Falsch: Eine Wochengrenze gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Thaler ist für eine Zusatzausbildung an eine andere Einrichtung entsendet worden und hört, der Aufenthalt solle immer wieder verlängert werden. Er fragt, wie lange so eine Entsendung zur Fortbildung höchstens dauern darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Mayr bleibt trotz ihrer Teilzeitbeschäftigung zur Fortbildung verpflichtet. Die Herabsetzung der Lehrverpflichtung berührt die Pflicht zur Teilnahme an Fortbildungsveranstaltungen nicht. Zum Nachlesen: LDG §47 Abs.5.",
+    "hauptquelle": "LDG §47 Abs.5",
+    "id": "B32-L1-013",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Mit der Teilzeit entfällt auch jede Fortbildungspflicht zur Gänze.",
+      "Die Verpflichtung zur Teilnahme an Fortbildungen bleibt trotz der Herabsetzung bestehen.",
+      "Teilzeitkräfte müssen sich nur fortbilden, wenn sie das selbst beantragen.",
+      "Die Pflicht lebt erst wieder auf, wenn sie auf Vollzeit zurückkehrt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Herabsetzung befreit nicht von der Fortbildungspflicht.",
+      "Richtig: Teilzeit ändert an der Fortbildungspflicht nichts.",
+      "Falsch: Es braucht keinen eigenen Antrag, die Pflicht gilt von selbst.",
+      "Falsch: Die Pflicht ruht nicht, sie gilt auch während der Teilzeit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Mayr arbeitet nur noch mit halber Lehrverpflichtung und betreut nachmittags ihre Kinder. Als sie zu einer verpflichtenden Fortbildung eingeladen wird, meint sie, Teilzeitkräfte seien davon befreit.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Egger muss seine Verhinderung unverzüglich melden und rechtfertigen. Wer vom Dienst abwesend ist, ohne befreit oder enthoben zu sein, hat den Grund sofort zu melden und die Abwesenheit zu rechtfertigen. Zum Nachlesen: LDG §35 Abs.1.",
+    "hauptquelle": "LDG §35 Abs.1",
+    "id": "B32-L1-014",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Er kann einfach zu Hause bleiben, eine Meldung an die Schule ist unnötig.",
+      "Er hat den Grund seiner Abwesenheit unverzüglich zu melden und die Abwesenheit zu rechtfertigen.",
+      "Eine Meldung genügt erst nach zwei Wochen, vorher gilt Schweigen.",
+      "Melden muss nur, wer länger als ein Monat fehlt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Jede unentschuldigte Abwesenheit braucht eine sofortige Meldung.",
+      "Richtig: Unverzügliche Meldung plus Rechtfertigung sind Pflicht.",
+      "Falsch: Zwei Wochen Zuwarten sind keine Option.",
+      "Falsch: Die Meldepflicht gilt vom ersten Tag der Abwesenheit an."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Egger erkrankt während einer auswärtigen Fortbildungswoche und kann weder zum Kurs noch zum Unterricht an seiner Schule erscheinen. Er überlegt, sich erst nach seiner Genesung wieder zu rühren.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Fellner behält seine gebührenden Reisekostenleistungen für die Entsendung. Auf diese Leistungen kann er nur durch schriftlichen Verzicht verzichten, ein teilweiser Verzicht oder eine Bedingung machen den Verzicht unwirksam. Zum Nachlesen: LDG §23b Abs.5.",
+    "hauptquelle": "LDG §23b Abs.5",
+    "id": "B32-L1-015",
+    "level": "L1",
+    "modul_id": "B32",
+    "optionen": [
+      "Seine Fahrt- und Reisekosten werden nie ersetzt, er bleibt immer auf allen Kosten sitzen.",
+      "Seine gebührenden Leistungen für die Entsendung bleiben bestehen, ein Verzicht ist nur schriftlich, ungeteilt und bedingungslos wirksam.",
+      "Er kann mündlich auf die Hälfte der Leistungen verzichten und den Rest behalten.",
+      "Ein schriftlicher Verzicht mit Bedingungen ist genauso wirksam wie einer ohne."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die gebührenden Leistungen für die Entsendung stehen ihm grundsätzlich zu.",
+      "Richtig: Schriftlich, ungeteilt und bedingungslos, sonst ist der Verzicht unwirksam.",
+      "Falsch: Mündlich geht nichts und ein Teilverzicht ist unzulässig.",
+      "Falsch: Eine beigefügte Bedingung macht den Verzicht rechtsunwirksam."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Fellner wird zu Fortbildungszwecken an eine andere Einrichtung entsendet und muss dafür regelmäßig pendeln. Er fragt, was mit seinen Fahrt- und Reisekosten geschieht und ob er darauf verzichten könnte.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

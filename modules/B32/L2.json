@@ -1,1 +1,566 @@
-[]
+[
+  {
+    "aufloesung": "Die Fortbildungspflicht steht auf drei Säulen: Bestreben, 15 Stunden und Tätigkeitsbezug. Jede Lehrperson hat sich beruflich fortzubilden, 15 Jahresstunden verpflichtende Veranstaltungen wahrzunehmen, und auch Teilzeit ändert daran nichts. Zum Nachlesen: LDG §29 Abs.3.",
+    "hauptquelle": "LDG §29 Abs.3",
+    "id": "B32-L2-001",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Um die berufliche Fortbildung bestrebt sein.",
+      "15 Jahresstunden verpflichtende Fortbildung im Zusammenhang mit der Lehrtätigkeit wahrnehmen.",
+      "An der Fortbildungspflicht auch bei herabgesetzter Lehrverpflichtung festhalten.",
+      "Fortbildung als reine Privatsache ohne Dienstbezug betrachten.",
+      "Verpflichtende Fortbildung nur in den Schulferien zulassen.",
+      "Die 15 Stunden durch beliebige Hobbyskurse ohne Tätigkeitsbezug ersetzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Fortbildungsbestreben ist eine allgemeine Dienstpflicht.",
+      "Richtig: Genau dieses Ausmaß mit Tätigkeitsbezug sieht die Jahresnorm vor.",
+      "Richtig: Die Herabsetzung berührt die Fortbildungspflicht nicht.",
+      "Falsch: Fortbildung ist eine Dienstpflicht, keine Privatsache.",
+      "Falsch: Auch Veranstaltungen in der Unterrichtszeit kommen in Frage.",
+      "Falsch: Verlangt ist der Zusammenhang mit der Tätigkeit des Lehrers."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine neue Kollegin bittet um eine kurze Checkliste, was zur Fortbildungspflicht einer Lehrperson eigentlich alles dazugehört. Sie will wissen, worauf sie im Schulalltag achten muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §43 Abs.3 Z4",
+      "LDG §47 Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Der Antrag auf Sonderurlaub für eine Fortbildung gelingt nur mit Ansuchen, Anlass, Prüfung und Maß. Nötig sind ein Ansuchen, die Fortbildung als Anlass, das Fehlen zwingender Diensterfordernisse und eine dem Anlass angemessene Dauer. Zum Nachlesen: LDG §57 Abs.1.",
+    "hauptquelle": "LDG §57 Abs.1",
+    "id": "B32-L2-002",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Ein Ansuchen der Lehrperson stellen.",
+      "Die Fortbildung als Anlass des Urlaubs anführen.",
+      "Prüfen, dass keine zwingenden dienstlichen Erfordernisse entgegenstehen.",
+      "Die Dauer dem Anlass angemessen begrenzen.",
+      "Ohne jedes Ansuchen automatisch freigestellt werden.",
+      "Beliebig lange Dauer unabhängig vom Anlass beanspruchen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Ansuchen gibt es keinen Sonderurlaub.",
+      "Richtig: Die Fortbildung ist ein eigener gesetzlicher Anlass.",
+      "Richtig: Zwingende Diensterfordernisse blockieren die Gewährung.",
+      "Richtig: Nur die dem Anlass angemessene Dauer darf gewährt werden.",
+      "Falsch: Ein Ansuchen ist zwingende Voraussetzung.",
+      "Falsch: Das Übermaß über den Anlass hinaus ist unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer will für einen mehrtägigen Fachkurs in der Unterrichtszeit freibekommen und fragt im Konferenzzimmer, wie das Verfahren dafür abläuft. Er möchte eine Schritt-für-Schritt-Checkliste für seinen Antrag.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §57 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Sonderurlaub für Fortbildung ist bezahlt, aber jährlich gedeckelt. Die Bezüge laufen voll weiter, doch alle Sonderurlaube eines Kalenderjahres dürfen zusammen zwölf Wochen regelmäßige Dienstzeit nicht übersteigen. Zum Nachlesen: LDG §57 Abs.2.",
+    "hauptquelle": "LDG §57 Abs.2",
+    "id": "B32-L2-003",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Während des Sonderurlaubs die vollen Bezüge behalten.",
+      "Alle Sonderurlaube eines Kalenderjahres auf zwölf Wochen regelmäßige Dienstzeit begrenzen.",
+      "Die Höchstgrenze je Kalenderjahr berechnen, nicht je Schuljahr.",
+      "Bei Überschreiten der Grenze den weiteren Antrag ablehnen oder kürzen.",
+      "Die Bezüge während des Sonderurlaubs zur Hälfte kürzen.",
+      "Sonderurlaube unbegrenzt aneinanderreihen ohne jede Grenze."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sonderurlaub ist bezahlte Freistellung mit vollen Bezügen.",
+      "Richtig: Zwölf Wochen regelmäßige Dienstzeit sind die Jahreshöchstgrenze.",
+      "Richtig: Maßgeblich ist das Kalenderjahr.",
+      "Richtig: Über der Grenze darf nicht mehr gewährt werden.",
+      "Falsch: Eine Kürzung der Bezüge ist nicht vorgesehen.",
+      "Falsch: Die Jahreshöchstgrenze verbietet das unbegrenzte Aneinanderreihen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin plant mehrere Fortbildungen in einem Kalenderjahr und will die finanziellen und zeitlichen Rahmenbedingungen prüfen. Sie fragt, was für Bezahlung und Höchstgrenzen ihres Sonderurlaubs gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §57 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Der IT-Sonderurlaub ist ein zweckgebundener Urlaub von bis zu drei Monaten. Er setzt ein Ansuchen und den Erwerb zusätzlicher IT-Kenntnisse voraus und bleibt bei vollen Bezügen innerhalb der Jahreshöchstgrenze. Zum Nachlesen: LDG §57 Abs.1a.",
+    "hauptquelle": "LDG §57 Abs.1a",
+    "id": "B32-L2-004",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Ein Ansuchen der Lehrperson stellen.",
+      "Den Erwerb zusätzlicher Kenntnisse im IT-Bereich als Zweck nennen.",
+      "Das Ausmaß auf bis zu drei Monate begrenzen.",
+      "Die vollen Bezüge während des Urlaubs fortzahlen.",
+      "Automatisch zwei Jahre IT-Urlaub ohne Antrag beanspruchen.",
+      "Den IT-Urlaub für eine fachfremde Weltreise ohne Kursbezug nutzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Auch dieser Sonderurlaub braucht ein Ansuchen.",
+      "Richtig: Zusätzliche IT-Kenntnisse sind der gesetzliche Zweck.",
+      "Richtig: Drei Monate sind die Obergrenze dieses Urlaubs.",
+      "Richtig: Sonderurlaub ist bezahlt, die Bezüge laufen weiter.",
+      "Falsch: Zwei Jahre überschreiten das Ausmaß bei Weitem.",
+      "Falsch: Ohne IT-Kursbezug fehlt der Anlass für diesen Urlaub."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer will einen mehrwöchigen Intensivkurs zu neuen Computerprogrammen für den Unterricht besuchen. Er bittet um eine Checkliste, was für den besonderen IT-Sonderurlaub zu beachten ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §57 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Das Planungsgespräch ist regelmäßig, persönlich und dreijährig angelegt. Die Leitung führt es mit jeder Lehrperson einzeln oder in Kleingruppen und plant darin die individuelle Fort- und Weiterbildung für die kommenden drei Schuljahre. Zum Nachlesen: LDG §32 Abs.6.",
+    "hauptquelle": "LDG §32 Abs.6",
+    "id": "B32-L2-005",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Das Gespräch mit jeder Lehrperson regelmäßig führen.",
+      "Es einzeln oder in Kleingruppen abhalten.",
+      "Darin die Fort- und Weiterbildung für die kommenden drei Schuljahre planen.",
+      "Die Ergebnisse schriftlich zusammenfassen und beidseitig unterfertigen.",
+      "Das Gespräch nur einmal bei Dienstantritt und nie wieder führen.",
+      "Die Planung allein dem Zufall und den Katalogen überlassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Regelmäßigkeit gehört zum Wesen dieser Gespräche.",
+      "Richtig: Einzel- oder Kleingruppengespräche sind die vorgesehene Form.",
+      "Richtig: Der Planungshorizont beträgt drei Schuljahre.",
+      "Richtig: Schriftliche Zusammenfassung mit beiden Unterschriften schließt das Gespräch ab.",
+      "Falsch: Die Gespräche sind regelmäßig zu wiederholen.",
+      "Falsch: Die individuelle Planung ist gerade der Sinn des Gesprächs."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schulleiterin erstellt eine Checkliste für die Fortbildungsplanungsgespräche an ihrer Schule. Sie will sicherstellen, dass Form, Rhythmus und Inhalt der Gespräche stimmen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Gesprächsaufzeichnung schützt beide Seiten und bleibt bei der Lehrperson. Schriftliche Zusammenfassung, Unterschrift von Leitung und Lehrperson sowie eine Ausfertigung für den Lehrer machen die Planung nachvollziehbar. Zum Nachlesen: LDG §32 Abs.6.",
+    "hauptquelle": "LDG §32 Abs.6",
+    "id": "B32-L2-006",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Ergebnisse des Gesprächs schriftlich zusammenfassen.",
+      "Die Zusammenfassung von Leitung und Lehrperson unterfertigen lassen.",
+      "Eine Ausfertigung der Zusammenfassung bei der Lehrperson belassen.",
+      "Die Führung der Gespräche notfalls einer Stellvertretung übertragen.",
+      "Alles nur mündlich besprechen und nichts aufschreiben.",
+      "Die Zusammenfassung allein im Safe der Direktion verwahren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schriftlichkeit sichert die vereinbarte Planung.",
+      "Richtig: Beide Unterschriften belegen das gemeinsame Ergebnis.",
+      "Richtig: Die eigene Ausfertigung gehört der Lehrperson.",
+      "Richtig: Eine Übertragung an die Stellvertretung ist zulässig.",
+      "Falsch: Mündlichkeit allein genügt den Anforderungen nicht.",
+      "Falsch: Die Lehrperson hat Anspruch auf eine eigene Ausfertigung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Planungsgespräch fragt ein Lehrer, was mit den besprochenen Fortbildungszielen geschieht und welche Unterlagen er dazu erhalten muss. Er möchte eine Checkliste für die korrekte Dokumentation.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §32 Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Digitale Lücken werden festgestellt und gezielt geschlossen. Die Leitung beurteilt im Zuge der Planung die digitalen Kompetenzen und ordnet bei Bedarf die passende Fortbildung an. Zum Nachlesen: LDG §32 Abs.8.",
+    "hauptquelle": "LDG §32 Abs.8",
+    "id": "B32-L2-007",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Die digitalen Kompetenzen der Lehrperson beurteilen.",
+      "Die Beurteilung im Zuge der Fortbildungsplanung vornehmen.",
+      "Bei Bedarf die passende einschlägige Fortbildung anordnen.",
+      "Die Anordnung auf festgestellte Lücken stützen.",
+      "Die Beurteilung allein der Selbsteinschätzung überlassen.",
+      "Festgestellte Lücken kommentarlos hinnehmen und nichts veranlassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Beurteilung der digitalen Kompetenzen obliegt der Leitung.",
+      "Richtig: Der richtige Zeitpunkt ist die Fortbildungsplanung.",
+      "Richtig: Bei Bedarf folgt die Anordnung der passenden Fortbildung.",
+      "Richtig: Ohne festgestellte Lücke gibt es keine Anordnung.",
+      "Falsch: Die Beurteilung nimmt die Leitung vor, nicht der Lehrer allein.",
+      "Falsch: Hinnehmen statt Handeln widerspricht dem Auftrag."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Direktorin stellt fest, dass mehrere Lehrpersonen mit der neuen Lernplattform überfordert sind. Sie erstellt eine Checkliste, wie sie mit digitalen Kompetenzlücken im Kollegium korrekt umgeht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Entsendung zur Fortbildung braucht Zustimmung, Zweck und passenden Rechtsträger. Mit Einverständnis der Lehrperson kann sie zu Fortbildungszwecken für die dienstliche Verwendung an eine Einrichtung eines anderen inländischen Rechtsträgers erfolgen. Zum Nachlesen: LDG §23b Abs.1.",
+    "hauptquelle": "LDG §23b Abs.1",
+    "id": "B32-L2-008",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Zustimmung der Lehrperson einholen.",
+      "Den Fortbildungszweck für die dienstliche Verwendung festlegen.",
+      "Eine Einrichtung eines anderen inländischen Rechtsträgers als Ziel wählen.",
+      "Die Entsendungsregeln für vorübergehende Verwendungen anwenden.",
+      "Die Lehrperson gegen ihren Willen zur Fortbildung abordnen.",
+      "Die Zustimmung durch einen Beschluss der Schulkonferenz ersetzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Zustimmung keine Entsendung zu diesem Zweck.",
+      "Richtig: Der Fortbildungszweck für die dienstliche Verwendung trägt die Maßnahme.",
+      "Richtig: Genau diese Einrichtungen kommen als Ziel in Frage.",
+      "Richtig: Für die Entsendung gelten die Regeln der vorübergehenden Verwendung.",
+      "Falsch: Gegen den Willen geht diese Entsendung nicht.",
+      "Falsch: Die Schulkonferenz kann die persönliche Zustimmung nicht ersetzen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin soll für ein halbes Jahr an eine Bildungseinrichtung eines anderen Rechtsträgers gehen, um sich dort für ihre künftige Verwendung weiterzubilden. Die Personalstelle prüft anhand einer Checkliste die Voraussetzungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §23b Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Entsendung ist zeitlich gedeckelt und Nebeneinkünfte gehören dem Land. Längstens sechs Monate in angemessenem Rahmen sind möglich, und Zuwendungen Dritter aus der Entsendung sind abzuführen. Zum Nachlesen: LDG §23b Abs.3.",
+    "hauptquelle": "LDG §23b Abs.3",
+    "id": "B32-L2-009",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Dauer dem Anlass angemessen begrenzen.",
+      "Längstens sechs Monate entsenden.",
+      "Zuwendungen Dritter aus der Entsendung dem Land abführen.",
+      "Die Ziel-Einrichtung für die Entsendungsdauer als Dienststelle behandeln.",
+      "Die Entsendung beliebig oft über sechs Monate hinaus verlängern.",
+      "Erhaltene Honorare Dritter stillschweigend behalten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die angemessene Dauer ist die erste Grenze.",
+      "Richtig: Sechs Monate sind die absolute Höchstgrenze.",
+      "Richtig: Drittzuwendungen sind an das Land abzuführen.",
+      "Richtig: Für die Dauer gilt die Einrichtung als Dienststelle.",
+      "Falsch: Über sechs Monate hinaus ist unzulässig.",
+      "Falsch: Das Behalten verletzt die Abführungspflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer ist zu Fortbildungszwecken an eine andere Einrichtung entsendet und erhält dort nebenbei ein Honorar von dritter Seite. Die Dienstbehörde prüft Dauer und Nebeneinkünfte anhand einer Checkliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §23b Abs.2",
+      "LDG §23b Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Die Reisekosten der Entsendung sind gesichert, der Verzicht ist streng geregelt. Die gebührenden Leistungen bleiben bestehen, ein Verzicht wirkt nur schriftlich, ungeteilt und bedingungslos ab dem Folgemonat. Zum Nachlesen: LDG §23b Abs.5.",
+    "hauptquelle": "LDG §23b Abs.5",
+    "id": "B32-L2-010",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Die gebührenden Leistungen für die Entsendung grundsätzlich gewähren.",
+      "Einen Verzicht nur in schriftlicher Form gelten lassen.",
+      "Einen teilweisen Verzicht als unwirksam behandeln.",
+      "Einen mit Bedingungen versehenen Verzicht als unwirksam behandeln.",
+      "Einen mündlichen Nebenbei-Verzicht als wirksam anerkennen.",
+      "Einen halben Verzicht auf einen Teil der Leistungen zulassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Leistungen für die Entsendung stehen grundsätzlich zu.",
+      "Richtig: Schriftlichkeit ist Wirksamkeitsvoraussetzung.",
+      "Richtig: Teilverzicht ist ausdrücklich unzulässig.",
+      "Richtig: Bedingungen machen den Verzicht rechtsunwirksam.",
+      "Falsch: Mündliche Erklärungen genügen nicht.",
+      "Falsch: Auch der halbe Verzicht ist ein unzulässiger Teilverzicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein entsendeter Lehrer überlegt, auf einen Teil seiner Fahrtkostenersätze zu verzichten, weil die Gasteinrichtung ihm ein Taschengeld zahlt. Die Personalstelle prüft anhand einer Checkliste, was für einen Verzicht gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Fortbildungsabwesenheit gelingt nur mit Genehmigung, Meldung und Material. Vor der Abreise braucht es die Bewilligung, die Schule muss informiert sein, und die Vertretung braucht brauchbare Unterlagen. Zum Nachlesen: LDG §57 Abs.3.",
+    "hauptquelle": "LDG §57 Abs.3",
+    "id": "B32-L2-011",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Vor der Abwesenheit die Bewilligung für den Sonderurlaub einholen.",
+      "Der Schulleitung Beginn und voraussichtliche Dauer der Abwesenheit bekannt geben.",
+      "Für die Vertretung brauchbares Unterrichtsmaterial hinterlegen.",
+      "Sich nach der Rückkehr über versäumte Beschlüsse informieren.",
+      "Einfach wegbleiben und niemanden verständigen.",
+      "Die Klasse ohne jede Information sich selbst überlassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Bewilligung keine gesicherte Freistellung.",
+      "Richtig: Beginn und Dauer gehören rechtzeitig auf den Tisch der Leitung.",
+      "Richtig: Vertretungsmaterial sichert den geordneten Unterricht.",
+      "Richtig: Nach der Rückkehr muss der Anschluss wiederhergestellt werden.",
+      "Falsch: Unangekündigtes Fernbleiben verletzt die Dienstpflichten.",
+      "Falsch: Die Klasse braucht eine geordnete Vertretung, kein Vakuum."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer fährt zu einem dreitägigen auswärtigen Fachkurs und will seine Klassen geordnet zurücklassen. Er erstellt eine Checkliste, was er vor, während und nach seiner Abwesenheit alles regeln muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §57 Abs.1",
+      "LDG §35 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Vertretung gehört zum Dienst und ist in der Jahresnorm verankert. 20 Jahresstunden sind für Vertretungen vorgesehen, und erforderlichenfalls sind auch fachfremde Stunden und Förderunterricht zu übernehmen. Zum Nachlesen: LDG §43 Abs.3 Z3.",
+    "hauptquelle": "LDG §43 Abs.3 Z3",
+    "id": "B32-L2-012",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Die 20 vorgesehenen Jahresstunden für Vertretungen erbringen.",
+      "Vertretungsstunden für verhinderte Kolleginnen und Kollegen übernehmen.",
+      "Erforderlichenfalls auch fachfremden Unterricht erteilen.",
+      "Freigegenstände, unverbindliche Übungen und Förderunterricht halten.",
+      "Jede Vertretung mit Hinweis auf fehlende Lust ablehnen.",
+      "Vertretungen nur gegen sofortige Bezahlung in bar übernehmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Vertretungspool ist fester Teil der Jahresnorm.",
+      "Richtig: Die Übernahme von Vertretungsstunden ist Dienstpflicht.",
+      "Richtig: Auch fachfremder Einsatz kann erforderlichenfalls verlangt werden.",
+      "Richtig: Diese Angebote gehören ebenfalls zu den übernehmbaren Aufgaben.",
+      "Falsch: Unlust befreit nicht von der Vertretungspflicht.",
+      "Falsch: Vertretung ist Dienst, kein Bargeschäft."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule häufen sich Fortbildungsabwesenheiten und die Vertretungsplanung läuft heiß. Das Kollegium klärt anhand einer Checkliste, wer welche Vertretungsaufgaben übernehmen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §43 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Nach der Fortbildung zählen Beleg, Meldung und Aufzeichnung. Die Teilnahme ist zu belegen, jede Abwesenheit zu rechtfertigen, und die Planungsunterlagen bleiben verfügbar. Zum Nachlesen: LDG §35 Abs.1.",
+    "hauptquelle": "LDG §35 Abs.1",
+    "id": "B32-L2-013",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Der Schulleitung eine Teilnahmebestätigung des Kurses vorlegen.",
+      "Den Grund jeder Abwesenheit unverzüglich melden und rechtfertigen.",
+      "Die Ausfertigung der Fortbildungsplanung sorgfältig aufbewahren.",
+      "Erworbene Inhalte im Team weitergeben und im Unterricht umsetzen.",
+      "Jeglichen Nachweis mit Hinweis auf Vertrauen verweigern.",
+      "Die Kursbestätigung wegwerfen und die Abwesenheit verschweigen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Bestätigung belegt die ordnungsgemäße Teilnahme.",
+      "Richtig: Meldung und Rechtfertigung gelten für jede Abwesenheit.",
+      "Richtig: Die eigene Ausfertigung dokumentiert die vereinbarte Planung.",
+      "Richtig: Weitergabe und Umsetzung machen die Fortbildung wirksam.",
+      "Falsch: Vertrauen ersetzt den geschuldeten Nachweis nicht.",
+      "Falsch: Wegwerfen und Verschweigen verletzen Nachweis- und Meldepflichten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin kehrt von einer einwöchigen Fortbildung an ihre Schule zurück. Sie erstellt eine Checkliste, welche Nachweise und Meldungen sie nun erledigen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §32 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Die Anmeldung zur Pflichtfortbildung braucht Bezug, Form und Weg. Die Veranstaltung muss mit der Lehrtätigkeit zusammenhängen, auf die 15 Stunden angerechnet werden, und die Anmeldung läuft über die Leitung auf dem Dienstweg. Zum Nachlesen: LDG §43 Abs.3 Z4.",
+    "hauptquelle": "LDG §43 Abs.3 Z4",
+    "id": "B32-L2-014",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Eine Veranstaltung im Zusammenhang mit der eigenen Lehrtätigkeit wählen.",
+      "Die Stunden auf die 15 verpflichtenden Jahresstunden anrechnen lassen.",
+      "Die Anmeldung über die Schulleitung auf dem Dienstweg einbringen.",
+      "Termin und Vertretungsbedarf frühzeitig mit der Leitung abstimmen.",
+      "Einen beliebigen Hobbykurs ohne Tätigkeitsbezug als Pflichtfortbildung anmelden.",
+      "Sich heimlich anmelden und die Schule vor vollendete Tatsachen stellen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Tätigkeitszusammenhang entscheidet über die Anrechenbarkeit.",
+      "Richtig: Pflichtveranstaltungen füllen den 15-Stunden-Block.",
+      "Richtig: Der Dienstweg über die Leitung sichert Genehmigung und Vertretung.",
+      "Richtig: Frühe Abstimmung schützt den geordneten Schulbetrieb.",
+      "Falsch: Ohne Tätigkeitsbezug keine Pflichtfortbildung.",
+      "Falsch: Heimliche Anmeldungen gefährden Bewilligung und Vertretung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer will sich zu einer verpflichtenden Fortbildung anmelden und fragt, worauf er bei Auswahl und Anmeldeweg achten muss. Er wünscht eine Checkliste für das korrekte Vorgehen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §38"
+    ]
+  },
+  {
+    "aufloesung": "Teilzeit schützt vor Überlastung, aber nicht vor Fortbildung. Auf persönliche Verhältnisse ist Rücksicht zu nehmen und Teilzeitkräfte sind seltener heranzuziehen, doch die Fortbildungspflicht bleibt unberührt. Zum Nachlesen: LDG §47 Abs.5.",
+    "hauptquelle": "LDG §47 Abs.5",
+    "id": "B32-L2-015",
+    "level": "L2",
+    "modul_id": "B32",
+    "optionen": [
+      "Auf die persönlichen Verhältnisse bei der Diensteinteilung Rücksicht nehmen.",
+      "Teilzeitkräfte ohne eigenen Wunsch seltener zu Mehrleistungen heranziehen.",
+      "Die Fortbildungspflicht trotz Herabsetzung uneingeschränkt beachten.",
+      "Fortbildungstermine mit den Betreuungspflichten der Teilzeitkraft abstimmen.",
+      "Teilzeitkräfte stillschweigend von jeder Fortbildung ausnehmen.",
+      "Teilzeitkräfte gerade wegen der Teilzeit zu besonders vielen Zusatzdiensten einteilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rücksicht auf persönliche Verhältnisse ist ausdrücklich geboten.",
+      "Richtig: Schonung bei Mehrleistungen gilt, sofern kein anderer Wunsch besteht.",
+      "Richtig: Die Fortbildungspflicht wird von der Herabsetzung nicht berührt.",
+      "Richtig: Abstimmung verbindet Pflicht und persönliche Lage sinnvoll.",
+      "Falsch: Eine stille Ausnahme von der Fortbildungspflicht gibt es nicht.",
+      "Falsch: Mehrbelastung gerade wegen Teilzeit widerspricht dem Schutzzweck."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine teilzeitbeschäftigte Lehrerin mit kleinen Kindern soll an einer mehrtägigen Fortbildung teilnehmen. Die Direktion erstellt eine Checkliste, wie Teilzeit, Betreuungspflichten und Fortbildung zusammenpassen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §47 Abs.1",
+      "LDG §47 Abs.4"
+    ]
+  }
+]
