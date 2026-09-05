@@ -1,1 +1,264 @@
-[]
+[
+  {
+    "aufloesung": "Beide Grenzen gelten zugleich. An höheren Schulen wählen nur Oberstufenschüler den Schulsprecher und nur Oberstufenschüler sind wählbar. Die Unterstufe wählt ihre Klassensprecher und deren Vertreter, aber nicht den Schulsprecher. Zum Nachlesen: SchUG §59a Abs.2.",
+    "hauptquelle": "SchUG §59a Abs.2",
+    "id": "A18-L4-001",
+    "level": "L4",
+    "modul_id": "A18",
+    "optionen": [
+      "Alle Stufen wählen gemeinsam und jeder ist wählbar.",
+      "Den Schulsprecher wählen nur Oberstufenschüler und wählbar sind nur Oberstufenschüler, die Unterstufe bleibt beim Vertreter der Klassensprecher.",
+      "Die Lehrer bestimmen den Schulsprecher aus der Unterstufe.",
+      "Die Unterstufe wählt den Schulsprecher, die Oberstufe schaut zu."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wahlkörper und Wählbarkeit sind gestuft.",
+      "Richtig: Oberstufenvorbehalt in beide Richtungen.",
+      "Falsch: Schüler wählen, nicht Lehrer.",
+      "Falsch: Genau umgekehrt gestaffelt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "An einem Gymnasium will ein beliebter Unterstufenschüler Schulsprecher werden, die Unterstufe will geschlossen mitwählen. Der Wahlausschuss aus Schülern streitet mit der Schulleitung über Wahlkörper und Wählbarkeit beim Schulsprecher.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §59a Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Anhörung steht zu, die Mitentscheidung nicht. Im Ausschlussverfahren haben Schülervertreter ein Anhörungsrecht, das aber erst ab der neunten Stufe zusteht. Eine siebte Klasse kann Stellung nehmen, aber nicht gleichberechtigt mitentscheiden. Zum Nachlesen: SchUG §58 Abs.2.",
+    "hauptquelle": "SchUG §58 Abs.2",
+    "id": "A18-L4-002",
+    "level": "L4",
+    "modul_id": "A18",
+    "optionen": [
+      "Die siebte Klasse entscheidet über den Ausschluss gleichberechtigt mit.",
+      "Schülervertreter haben ein Anhörungsrecht im Ausschlussverfahren, aber erst ab der neunten Stufe.",
+      "Unter der neunten Stufe gibt es nicht einmal ein Vorschlagsrecht.",
+      "Die Klasse kann den Ausschluss per Abstimmung verhindern."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mitentscheidung ist das nicht.",
+      "Richtig: Anhörung ja, aber Stufengrenze beachten.",
+      "Falsch: Vorschläge und Stellungnahmen stehen allen zu.",
+      "Falsch: Ein Vetorecht gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Gegen einen Schüler einer siebten Klasse läuft ein Ausschlussverfahren. Seine Klassensprecherin verlangt Akteneinsicht und gleichberechtigte Mitentscheidung der Klasse über den Ausschluss. Die Behörde fragt, welche Rechte der jungen Klasse zustehen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Das Kontingent ist überschritten und die Genehmigung fehlt. Versammlungen der Vertreter dürfen nur bis fünf Stunden je Semester in der Unterrichtszeit stattfinden, darüber hinaus nur mit Genehmigung bei Verkehrsnotwendigkeit. Sechs Stunden ohne Genehmigung sind daher unzulässig. Zum Nachlesen: SchUG §59 Abs.5.",
+    "hauptquelle": "SchUG §59 Abs.5",
+    "id": "A18-L4-003",
+    "level": "L4",
+    "modul_id": "A18",
+    "optionen": [
+      "Sechs Stunden ohne Genehmigung sind zulässig, Kontingente sind unverbindlich.",
+      "Nur fünf Stunden je Semester in der Unterrichtszeit sind ohne Weiteres zulässig, darüber hinaus braucht es die Genehmigung bei Verkehrsnotwendigkeit.",
+      "Versammlungen sind in der Unterrichtszeit generell verboten.",
+      "Die Schulleitung darf das Kontingent beliebig verdoppeln."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Kontingent ist verbindlich.",
+      "Richtig: Fünf Stunden frei, Rest nur mit Genehmigung.",
+      "Falsch: Bis zum Kontingent sind sie erlaubt.",
+      "Falsch: Die Voraussetzungen stehen im Gesetz, nicht im Belieben."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Schulsprecher beruft im Semester bereits die sechste Versammlungsstunde während des Unterrichts ein, ohne Genehmigung. Die Schulleitung untersagt sie, der Sprecher beruft sich auf unbegrenzte Versammlungsrechte und fehlende Busverbindungen am Nachmittag.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Untersagung ist rechtmäßig. Der Leiter hat die Stunde zu untersagen, wenn Ordnung und Sicherheit nicht gewährleistet wären, etwa bei fehlender Raumeignung und Sicherheitsbedenken. Ansonsten wären Anzeige, Tagesordnung und das Dreistundenkontingent die Maßstäbe. Zum Nachlesen: SchUG §59b Abs.2.",
+    "hauptquelle": "SchUG §59b Abs.2",
+    "id": "A18-L4-004",
+    "level": "L4",
+    "modul_id": "A18",
+    "optionen": [
+      "Die Schulleitung muss jede Stunde genehmigen, Untersagung ist nie erlaubt.",
+      "Bei Gefährdung von Ordnung und Sicherheit ist die Stunde zu untersagen, sonst gelten Anzeige und Kontingent.",
+      "Der Sprecher braucht weder Ort noch Tagesordnung anzugeben.",
+      "Außerhalb der Unterrichtszeit gilt die Lehreraufsicht wie im Unterricht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Untersagungsvorbehalt ist ausdrücklich vorgesehen.",
+      "Richtig: Sicherheit schlägt Versammlungswunsch.",
+      "Falsch: Anzeige mit Ort, Zahl und Punkten ist Pflicht.",
+      "Falsch: Außerhalb der Zeit keine Lehreraufsicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Abteilungssprecher zeigt eine Vertreterstunde für zweihundert Schüler in einem viel zu kleinen Werkraum an, die Fluchtwege wären blockiert. Der Schulleiter untersagt die Stunde aus Sicherheitsgründen. Der Sprecher behauptet, Untersagung sei rechtswidrig und Anzeige überflüssig.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §59b Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Alle drei Punkte sichern faire Wahlen. Gleiche, unmittelbare, geheime und persönliche Wahl, Leitung durch Schulleiter oder Beauftragten, einheitliche Stimmzettel und Kennenlernen der Kandidaten gehören zusammen. Neuwahlen bei Ausscheiden ohne Ersatz und Verordnungsvorbehalt runden das Bild ab. Zum Nachlesen: SchUG §59a Abs.1.",
+    "hauptquelle": "SchUG §59a Abs.1",
+    "id": "A18-L4-005",
+    "level": "L4",
+    "modul_id": "A18",
+    "optionen": [
+      "Wahl in gleicher, unmittelbarer, geheimer und persönlicher Form.",
+      "Leitung durch Schulleiter oder Beauftragten mit Kennenlernchance und einheitlichen Stimmzetteln.",
+      "Stellvertreter und Ersatzwahlen bei Ausscheiden ohne vorhandenen Ersatz.",
+      "Wahl per Zuruf mit Handzeichen in offener Runde.",
+      "Bestimmung der Vertreter durch den Elternverein.",
+      "Stimmzettel in verschiedenen Farben je nach vermuteter Wahlabsicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die vier Wahlrechtsgrundsätze gelten.",
+      "Richtig: Faire Leitung und einheitliches Material sichern Gleichheit.",
+      "Richtig: Ersatz ist mitgewählt oder nachzuwählen.",
+      "Falsch: Zuruf verletzt das Geheimnis.",
+      "Falsch: Eltern bestimmen keine Schülervertreter.",
+      "Falsch: Markierte Zettel verletzen Gleichheit und Geheimnis."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zu Schulbeginn läuft die Vertreterwahl chaotisch: Zurufwahl in offener Runde, bunte Zettel je nach Favorit, keine Kandidatenvorstellung. Der Elternverein will die Vertreter gleich selbst bestimmen. Du stellst das korrekte Verfahren sicher. Was stimmt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §59a Abs.4",
+      "SchUG §59a Abs.5",
+      "SchUG §59a Abs.6",
+      "SchUG §59a Abs.11"
+    ]
+  },
+  {
+    "aufloesung": "Stichwahl und Ersatz folgen Punkten. Absolute Mehrheit im ersten Gang entscheidet, sonst Stichwahl der zwei Besten, bei mehr als zwei entscheidet die Punktezahl. Stellvertreter ist der Nächstgereihte, beim Schulsprecher die zwei Nächsten. Zum Nachlesen: SchUG §59a Abs.7.",
+    "hauptquelle": "SchUG §59a Abs.7",
+    "id": "A18-L4-006",
+    "level": "L4",
+    "modul_id": "A18",
+    "optionen": [
+      "Gewählt ist nur die absolute Mehrheit der Erststimmen im ersten Gang.",
+      "Sonst Stichwahl zwischen den zwei Besten, bei Gedränge entscheidet die Punktezahl.",
+      "Stellvertreter ist der Nächstgereihte nach Punkten, beim Schulsprecher die zwei Nächsten.",
+      "Relative Mehrheit genügt immer sofort.",
+      "Bei Stimmengleichheit entscheidet sofort das Los ohne Stichwahl.",
+      "Stellvertreter werden erst Monate später eigens gewählt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mehr als die Hälfte der Zettel an erster Stelle.",
+      "Richtig: Stichwahlmodus mit Punktekorrektiv.",
+      "Richtig: Ersatz nach Punkten im ersten Gang.",
+      "Falsch: Relativ genügt gerade nicht.",
+      "Falsch: Erst Stichwahl, kein Sofortlos.",
+      "Falsch: Gleichzeitige Wahl ist Pflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer zersplitterten Wahl mit vier Kandidaten ohne absolute Mehrheit streiten alle über Stichwahl, Punkte und Stellvertreter. Ein Kandidat mit relativer Mehrheit erklärt sich zum Sieger, Stellvertreter will niemand bestimmen. Was stimmt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §59a Abs.8",
+      "SchUG §59a Abs.9"
+    ]
+  },
+  {
+    "aufloesung": "Die Zuständigkeiten sind verteilt, nicht beliebig. Die Klasse trägt der Klassensprecher, mehrere Klassen der Schulsprecher oder Vertreter der Klassensprecher, Abteilungen der Abteilungssprecher. Auch einzelne Klassenangelegenheiten darf der Schulsprecher nach außen tragen, Konferenzen nur über die SGA-Vertreter. Zum Nachlesen: SchUG §59 Abs.4.",
+    "hauptquelle": "SchUG §59 Abs.4",
+    "id": "A18-L4-007",
+    "level": "L4",
+    "modul_id": "A18",
+    "optionen": [
+      "Einzelne Klassen vertritt der Klassensprecher, mehrere Klassen der Schulsprecher oder Vertreter der Klassensprecher.",
+      "Abteilungen vertritt der Abteilungssprecher.",
+      "Auch Einzelangelegenheiten darf der Schulsprecher gegenüber Leitung und Behörde wahrnehmen.",
+      "Jeder vertritt jeden beliebig ohne jede Ordnung.",
+      "Konferenzteilnahme übt jeder Vertreter einzeln aus.",
+      "Versammlungen beruft der Klassenvorstand ein."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gestufte Zuständigkeit nach Reichweite.",
+      "Richtig: Abteilungsebene ist eigens geregelt.",
+      "Richtig: Hochzonung einzelner Anliegen ist erlaubt.",
+      "Falsch: Die Staffelung ist verbindlich.",
+      "Falsch: Konferenzen laufen über die SGA-Vertreter.",
+      "Falsch: Einberufung obliegt Sprecher oder Vertreter."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule mit Fachabteilungen streiten Klassensprecher, Abteilungssprecher und Schulsprecher über Zuständigkeiten: Wer darf die Werkstättenklasse nach außen vertreten, wer sitzt in Konferenzen, wer beruft die Versammlung ein? Was stimmt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §58 Abs.2",
+      "SchUG §59 Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Die Mitbestimmung über Erziehungsmittel und Unterrichtsmittel sowie sensible Teilnahmen stehen erst ab der neunten Schulstufe zu. Jüngere haben Mitwirkungsrechte wie Anhörung und Vorschläge, aber keine gleichberechtigte Mitentscheidung. Zum Nachlesen: SchUG §58 Abs.2.",
+    "hauptquelle": "SchUG §58 Abs.2",
+    "id": "A18-L4-008",
+    "level": "L4",
+    "modul_id": "A18",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Die Stufengrenze wird übersehen.",
+      "Richtig erkannt: Mitbestimmung erst ab der neunten Stufe."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Personalvertretung: Eine Kollegin behauptet, schon eine sechste Klasse entscheide über Erziehungsmittel und Unterrichtsmittel gleichberechtigt mit, Stufengrenzen gebe es keine.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

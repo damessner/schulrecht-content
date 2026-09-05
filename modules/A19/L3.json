@@ -1,1 +1,391 @@
-[]
+[
+  {
+    "aufloesung": "Das Sonderverfahren greift hier. Für Aufnahme, Übertritt, Prüfungszulassung, Fördermaßnahmen, Parallelversetzung und viele weitere Fälle gelten eigene schulische Verfahrensregeln statt dem allgemeinen Verwaltungsverfahrensgesetz. Die Entscheidung trifft das schulische Organ mit Sachverhaltsermittlung und Gehör. Zum Nachlesen: SchUG §70 Abs.1.",
+    "hauptquelle": "SchUG §70 Abs.1",
+    "id": "A19-L3-001",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Es gilt immer das allgemeine Verwaltungsverfahren mit allen Behördenregeln.",
+      "Für die genannten Schulangelegenheiten gilt das schulische Sonderverfahren mit eigenen Regeln.",
+      "Verfahren gibt es nur an höheren Schulen.",
+      "Der Schulleiter entscheidet nach Bauchgefühl ohne jedes Verfahren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das allgemeine Verfahren ist dort gerade ausgenommen.",
+      "Richtig: Eigener Katalog mit Sachverhalt und Gehör.",
+      "Falsch: Die Schulart spielt dafür keine Rolle.",
+      "Falsch: Ermittlung und Stellungnahme sind Pflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schulleiter soll dem Team erklären, nach welchen Verfahrensregeln über Aufnahme, Förderunterricht und die Versetzung in eine Parallelklasse zu entscheiden ist. Ein Kollege meint, es gelte das allgemeine Verwaltungsverfahren wie bei jeder Behörde.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Ohne Ermittlung keine Entscheidung. Vorher ist der maßgebende Sachverhalt durch geeignete Beweise festzustellen, dem Schüler ist Gelegenheit zur Stellungnahme zu geben, soweit nicht alles klar ist oder voll stattgegeben wird. Für behinderte Beteiligte ist der Ablauf anzupassen. Zum Nachlesen: SchUG §70 Abs.2.",
+    "hauptquelle": "SchUG §70 Abs.2",
+    "id": "A19-L3-002",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Der Vorstand darf sofort ohne jede Feststellung entscheiden.",
+      "Sachverhalt feststellen, Beweise erheben und dem Schüler Gehör geben, soweit nötig.",
+      "Stellungnahmen sind grundsätzlich verboten, sie verzögern nur.",
+      "Beweismittel sind nur Zeugnisse, sonst nichts."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erst ermitteln, dann entscheiden.",
+      "Richtig: Feststellung, Beweis und Gehör gehören zusammen.",
+      "Falsch: Gehör ist Verfahrensrecht, keine Verzögerung.",
+      "Falsch: Alles Geeignete taugt als Beweis."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor einer strittigen Entscheidung über eine Befreiung vom Unterricht will der Abteilungsvorstand einer HTL den Sachverhalt klären. Er fragt, ob er Beweise erheben muss und ob der Schüler etwas dazu sagen darf. Ein Kollege rät zur Sofortentscheidung ohne Anhörung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Familie hat Anspruch auf Schriftliches. Entscheidungen dürfen mündlich oder schriftlich ergehen, bei nicht vollem Stattgeben kann binnen einer Woche eine schriftliche Ausfertigung verlangt werden. Diese Wochenfrist sichert den Rechtsschutz. Zum Nachlesen: SchUG §70 Abs.3.",
+    "hauptquelle": "SchUG §70 Abs.3",
+    "id": "A19-L3-003",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Mündlich ist endgültig, Schriftliches gibt es nie.",
+      "Bei nicht vollem Stattgeben kann binnen einer Woche eine schriftliche Ausfertigung verlangt werden.",
+      "Schriftliches gibt es nur auf Klage beim Gericht.",
+      "Die Frist für das Verlangen beträgt ein Jahr ab Entscheidung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mündlich schließt Schriftlich nicht aus.",
+      "Richtig: Wochenfrist für das Verlangen beachten.",
+      "Falsch: Kein Gericht nötig, Verlangen an der Schule genügt.",
+      "Falsch: Eine Woche, nicht ein Jahr."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Familie erhält an einer Mittelschule nur mündlich die Abweisung ihres Ansuchens und verlangt eine schriftliche Entscheidung, um sich wehren zu können. Das Sekretariat meint, mündlich sei endgültig und Schriftliches gebe es grundsätzlich nicht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Widerspruch scheitert an Form und Frist. Er ist schriftlich, aber nicht mit E-Mail, binnen fünf Tagen bei der Schule einzubringen. Eine verspätete Nachricht an eine Privatadresse wahrt das Verfahren nicht. Zum Nachlesen: SchUG §71 Abs.1.",
+    "hauptquelle": "SchUG §71 Abs.1",
+    "id": "A19-L3-004",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Widerspruch mit Nachricht an eine Privatadresse drei Wochen später ist wirksam.",
+      "Widerspruch schriftlich binnen fünf Tagen bei der Schule, nicht mit E-Mail.",
+      "Widerspruch braucht einen Anwalt und Gerichtskosten.",
+      "Widerspruch ist nur mündlich am Gang möglich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Form und Frist sind beide gerissen.",
+      "Richtig: Fünf Tage, Schule, schriftlich ohne E-Mail.",
+      "Falsch: Anwaltszwang besteht nicht.",
+      "Falsch: Mündlich am Gang genügt nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern erhalten eine ablehnende Aufnahmeentscheidung einer AHS und schicken drei Wochen später eine Nachricht an die Privatadresse der Lehrkraft mit dem Wort Widerspruch. Die Schule hält das für verspätet und formwidrig. Die Eltern meinen, Form und Frist seien egal. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Lauf beginnt mit der Verkündung. Bei mündlicher Verkündung läuft die Fünftagesfrist ab dieser, bei schriftlicher Ausfertigung erst ab Zustellung. Wer mündlich verkündet und zustellt, muss beide Zeitpunkte sauber dokumentieren. Zum Nachlesen: SchUG §71 Abs.3.",
+    "hauptquelle": "SchUG §71 Abs.3",
+    "id": "A19-L3-005",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Die Frist beginnt immer erst mit Schuljahresende.",
+      "Mündlich verkündet läuft sie ab Verkündung, schriftlich erst ab Zustellung.",
+      "Die Frist beginnt nie, Widersprüche sind immer rechtzeitig.",
+      "Es gibt gar keine Frist für Widersprüche."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schuljahresende spielt keine Rolle.",
+      "Richtig: Verkündung oder Zustellung lösen den Lauf aus.",
+      "Falsch: Fünf Tage sind schnell um.",
+      "Falsch: Fünf Tage sind die Frist."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin einer HAK erfährt ihre negative Prüfungsentscheidung mündlich in der Schule, die schriftliche Ausfertigung wird erst eine Woche später zugestellt. Familie und Schule streiten, ab wann die fünftägige Widerspruchsfrist läuft. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Säumnis hat Folgen. Über Ansuchen ist binnen vier Wochen zu entscheiden, bei Aufnahme binnen zwei Wochen nach Erfüllung aller Voraussetzungen. Bei schuldhafter Säumnis geht die Zuständigkeit auf Verlangen auf die Behörde über. Zum Nachlesen: SchUG §73 Abs.1.",
+    "hauptquelle": "SchUG §73 Abs.1",
+    "id": "A19-L3-006",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Fristen gibt es keine, die Schule kann sich Zeit lassen.",
+      "Vier Wochen für Ansuchen, zwei Wochen für Aufnahmen nach Voraussetzungserfüllung, sonst droht der Zuständigkeitsübergang.",
+      "Die Behörde darf nie eingreifen, egal wie lange nichts geschieht.",
+      "Das Verlangen geht an das Gericht, nicht an die Behörde."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Fristen sind ausdrücklich geregelt.",
+      "Richtig: Fristen plus Übergang bei schuldhafter Säumnis.",
+      "Falsch: Die Behörde fängt die Säumnis gerade auf.",
+      "Falsch: Verlangen unmittelbar bei der Behörde einbringen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Aufnahmeansuchen an einer Volksschule liegt seit zehn Wochen unbearbeitet in der Direktion, alle Voraussetzungen sind seit acht Wochen erfüllt. Die Familie fragt, ob sie die Entscheidung erzwingen kann. Die Schule meint, Fristen gebe es keine. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Sechs Angaben machen die Entscheidung überprüfbar. Bezeichnung von Schule und Organ, Inhalt mit Gesetzesstellen, Begründung bei Abweichung, Datum, Unterschrift oder Amtssignatur und Widerspruchsbelehrung gehören hinein. Fehlt etwas, ist die Ausfertigung angreifbar. Zum Nachlesen: SchUG §70 Abs.4.",
+    "hauptquelle": "SchUG §70 Abs.4",
+    "id": "A19-L3-007",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Bezeichnung und Standort der Schule sowie des entscheidenden Organs.",
+      "Inhalt der Entscheidung mit den angewendeten Gesetzesstellen.",
+      "Begründung bei nicht vollem Stattgeben, Datum, Unterschrift oder Amtssignatur.",
+      "Belehrung über die Widerspruchsmöglichkeit bei nicht vollem Stattgeben.",
+      "Geheimzeichen ohne jede Angabe genügen.",
+      "Private Meinung des Verfassers statt Begründung genügt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kopf der Entscheidung mit Zuständigkeit.",
+      "Richtig: Spruch plus Rechtsgrundlage.",
+      "Richtig: Begründung, Datum und Zeichnung sichern Nachvollzug.",
+      "Richtig: Rechtsmittelbelehrung schützt den Rechtsschutz.",
+      "Falsch: Geheimzeichen ersetzen keine Pflichtangaben.",
+      "Falsch: Begründet wird sachlich, nicht privat."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du schulst Administratoren einer Bildungsdirektion im Verfassen von Entscheidungen und zeigst, welche Angaben eine schriftliche Ausfertigung enthalten muss. Ein Kollege meint, Spruch ohne Begründung und Belehrung genüge. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Katalog ist weit und prüfungsnah. Nicht bestandene Einstufungs-, Aufnahms- und Eignungsprüfungen, Stufenwechsel, Nichtaufstieg nach Wiederholungen und Ausgleichsprüfungen sowie nicht bestandene Reife- und Abschlussprüfungen sind erfasst. Der Schulleiter legt den Widerspruch mit Lehrerstellungnahme unverzüglich der Behörde vor. Zum Nachlesen: SchUG §71 Abs.2.",
+    "hauptquelle": "SchUG §71 Abs.2",
+    "id": "A19-L3-008",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Nicht bestandene Einstufungs-, Aufnahms- oder Eignungsprüfung.",
+      "Wechsel von Schulstufen und Nichtaufstieg nach Wiederholungs- oder Ausgleichsprüfungen.",
+      "Nicht bestandene Reife-, Diplom-, Abschluss- oder Externistenprüfung.",
+      "Benotung einer einzelnen Hausübung mit Befriedigend.",
+      "Sitzordnung in der Klasse.",
+      "Speiseplan der Schulküche."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Prüfungseingänge sind erfasst.",
+      "Richtig: Aufstieg und Stufen sind erfasst.",
+      "Richtig: Abschlüsse sind erfasst.",
+      "Falsch: Einzelnoten ohne Aufstiegsfolge nicht.",
+      "Falsch: Organisatorisches ohne Entscheidungscharakter nicht.",
+      "Falsch: Küche ist kein Widerspruchsfall."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Familie einer BHS will wissen, gegen welche Prüfungs- und Aufstiegsentscheidungen überhaupt ein Widerspruch an die Schulbehörde möglich ist und was der Schulleiter dann weiterleiten muss. Welche Fälle stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Zugestellt wird nachweislich und an die Richtigen. Minderjährige werden über die Eltern erreicht, handlungsfähige Schüler selbst, auf Verlangen daneben auch die Eltern. Die Übergabe über den Schüler mit Empfangsbestätigung ist eine vorgesehene Form. Zum Nachlesen: SchUG §72 Abs.1.",
+    "hauptquelle": "SchUG §72 Abs.1",
+    "id": "A19-L3-009",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Bei Minderjährigen nachweislich an die Erziehungsberechtigten.",
+      "Bei handlungsfähigen Schülern durch Übergabe an sie selbst.",
+      "Übergabe über den Schüler mit schriftlicher Empfangsbestätigung der Eltern ist zulässig.",
+      "Auf Verlangen daneben auch an die Eltern neben dem handlungsfähigen Schüler.",
+      "Ein Zettel am Brett ersetzt jede Zustellung.",
+      "Zustellung an den Nachbarn genügt immer."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eltern als Empfänger bei Minderjährigen.",
+      "Richtig: Selbstzustellung bei Handlungsfähigkeit.",
+      "Richtig: Schüler als Bote mit Bestätigung ist vorgesehen.",
+      "Richtig: Doppelzustellung auf Verlangen ist möglich.",
+      "Falsch: Anschlag ersetzt keine nachweisliche Zustellung.",
+      "Falsch: Nachbarn sind keine Empfänger."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer strittigen Entscheidung einer Mittelschule streiten Schule und Familie über die richtige Zustellung: Die Schule will nur am Brett anschlagen, die Eltern eines Minderjährigen verlangen nachweisliche Zustellung an sie. Was stimmt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §72 Abs.2",
+      "SchUG §72 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Fristen staffeln sich nach Lage. Die Behörde entscheidet über Ansuchen und Widersprüche binnen drei Monaten, über Prüfungswidersprüche binnen drei Wochen, bei Aufstiegssachen binnen zwei Wochen mit vorläufigem Stufenbesuch. Über Suspendierung geht es binnen zwei Tagen. Zum Nachlesen: SchUG §73 Abs.4.",
+    "hauptquelle": "SchUG §73 Abs.4",
+    "id": "A19-L3-010",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Behörde über Ansuchen und Widersprüche grundsätzlich binnen drei Monaten.",
+      "Über Prüfungswidersprüche binnen drei Wochen bescheidmäßig.",
+      "Bei Aufstiegssachen binnen zwei Wochen mit vorläufigem Besuch der nächsten Stufe.",
+      "Über Suspendierung binnen zwei Tagen.",
+      "Behörden dürfen sich beliebig Zeit lassen.",
+      "Vorläufiger Stufenbesuch ist immer verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dreimonatsgrundsatz für Behörden.",
+      "Richtig: Dreiwochengebot in Prüfungssachen.",
+      "Richtig: Zwei Wochen plus Auffangrecht beim Aufstieg.",
+      "Richtig: Zweitagesgebot bei Suspendierung.",
+      "Falsch: Die Fristen sind verbindlich.",
+      "Falsch: Beim Aufstieg ist er gerade vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Widerspruch gegen eine Nichtaufstiegsentscheidung an einem Gymnasium wartet eine Familie seit Monaten auf die Behörde und fragt nach Fristen und vorläufigen Rechten. Die Schule meint, Fristen gälten nicht und der Schüler müsse daheim warten. Was stimmt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §73 Abs.3",
+      "SchUG §73 Abs.3a"
+    ]
+  },
+  {
+    "aufloesung": "Fristen laufen streng, Ferien hemmen, Elektronik hilft. Der Anlasstag zählt nicht mit, ein Wochenende am Ende schiebt auf den Werktag, Postlauf zählt nicht und Fristen sind unabänderlich. Schulferien hemmen die Schulfristen, Gremien dürfen auch virtuell beschließen und protokollieren. Zum Nachlesen: SchUG §74 Abs.4.",
+    "hauptquelle": "SchUG §74 Abs.4",
+    "id": "A19-L3-011",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Der Tag des Anlasses zählt bei Tagesfristen nicht mit.",
+      "Fällt das Ende auf Samstag, Sonntag oder Feiertag, gilt der nächste Werktag.",
+      "Postlauf zählt nicht, gesetzliche Fristen sind unabänderlich.",
+      "Ferien hemmen die Schulfristen, Gremien sind auch virtuell beschlussfähig mit Protokoll.",
+      "Sonn- und Feiertage stoppen stets Beginn und Lauf jeder Frist.",
+      "Der Postlauf verlängert jede Frist automatisch um zwei Wochen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anlasstag bleibt draußen.",
+      "Richtig: Wochenendregel rettet die Frist.",
+      "Richtig: Postweg und Änderungsverbot beachten.",
+      "Richtig: Hemmung und virtuelle Beschlussfähigkeit gelten.",
+      "Falsch: Beginn und Lauf werden gerade nicht behindert.",
+      "Falsch: Automatikzuschläge gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vater einer Volksschülerin rechnet eine Fünftagesfrist ab dem Ereignistag, wirft den Brief in der Ferienwoche ein und zweifelt virtuelle Konferenzen an. Das Sekretariat soll Fristlauf, Postweg, Ferien und Elektronik erklären. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §74 Abs.1",
+      "SchUG §74 Abs.5",
+      "SchUG §73 Abs.2",
+      "SchUG §70a Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Der Widerspruch ist schriftlich in jeder technisch möglichen Form, aber nicht mit E-Mail einzubringen. Wer die Form verfehlt, riskiert die Zurückweisung. Zum Nachlesen: SchUG §71 Abs.1.",
+    "hauptquelle": "SchUG §71 Abs.1",
+    "id": "A19-L3-012",
+    "level": "L3",
+    "modul_id": "A19",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Die Ausnahme wird übersehen.",
+      "Richtig erkannt: E-Mail ist gerade ausgenommen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Sekretariat einer HAK: Ein Kollege behauptet, ein Widerspruch mit E-Mail an die Schule sei die sicherste Form und immer wirksam.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

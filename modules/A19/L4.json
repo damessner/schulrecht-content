@@ -1,1 +1,267 @@
-[]
+[
+  {
+    "aufloesung": "Der Widerspruch wirkt sofort und die Schule verliert die Entscheidung. Mit Einbringen tritt die provisoriale Entscheidung außer Kraft, die Behörde leitet das Verwaltungsverfahren ein und entscheidet mit Bescheid. Die Schule legt Stellungnahmen und Beweismittel unverzüglich vor. Zum Nachlesen: SchUG §71 Abs.2a.",
+    "hauptquelle": "SchUG §71 Abs.2a",
+    "id": "A19-L4-001",
+    "level": "L4",
+    "modul_id": "A19",
+    "optionen": [
+      "Die Schulentscheidung bleibt bestehen, der Widerspruch hat keine aufschiebende Wirkung.",
+      "Die provisoriale Entscheidung tritt außer Kraft, die Behörde führt das Verfahren und entscheidet mit Bescheid.",
+      "Die Schule darf den Widerspruch liegen lassen und abwarten.",
+      "Der Schüler muss bis zur Entscheidung daheim bleiben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Außerkrafttreten ist gerade die Folge.",
+      "Richtig: Behörde übernimmt und bescheidet.",
+      "Falsch: Unverzügliche Vorlage ist Pflicht.",
+      "Falsch: Beim Aufstieg gilt sogar vorläufiger Besuch."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Widerspruch gegen eine Nichtaufstiegsentscheidung vollzieht die Schule die Wiederholung der Stufe sofort und ignoriert das Behördenverfahren. Die Familie beruft sich auf das Außerkrafttreten der Schulentscheidung. Die Schule meint, alles bleibe wie entschieden. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §71 Abs.2",
+      "SchUG §73 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Die Prüfung ist die Rettung bei dünner Aktenlage. Reichen die Unterlagen zur Beurteilung nicht, ist das Verfahren zu unterbrechen und zur kommissionellen Prüfung unter Behördenvorsitz zuzulassen. Auch ohne Erfolgsaussicht ist zu prüfen beziehungsweise zuzulassen. Zum Nachlesen: SchUG §71 Abs.4.",
+    "hauptquelle": "SchUG §71 Abs.4",
+    "id": "A19-L4-002",
+    "level": "L4",
+    "modul_id": "A19",
+    "optionen": [
+      "Die Behörde darf nach Aktenlage ablehnen, eine Prüfung gibt es nie.",
+      "Reichen die Unterlagen nicht, ist zu unterbrechen und zur kommissionellen Prüfung unter Behördenvorsitz zuzulassen.",
+      "Die Schule prüft sich dabei am besten gleich selbst noch einmal.",
+      "Der Vorsitzende der Kommission ist der Klassensprecher."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei dünner Lage ist zuzulassen.",
+      "Richtig: Unterbrechung plus Kommissionsprüfung ist das Verfahren.",
+      "Falsch: Vorsitz führt die Aufsicht, nicht die Schule.",
+      "Falsch: Vorsitz kommt von der Behörde."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Familie ficht ein Nicht genügend in Mathematik an, die Beurteilungsunterlagen sind lückenhaft und widersprüchlich. Die Behörde will den Widerspruch ohne weitere Prüfung abweisen. Die Familie verlangt eine kommissionelle Nachprüfung. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §71 Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Der Schüler darf vorläufig aufsteigen. Bis zur Behördenentscheidung in Aufstiegssachen ist der Besuch der nächsten Stufe erlaubt, entschieden wird binnen zwei Wochen. Die Schule darf den vorläufigen Besuch nicht verwehren. Zum Nachlesen: SchUG §73 Abs.4.",
+    "hauptquelle": "SchUG §73 Abs.4",
+    "id": "A19-L4-003",
+    "level": "L4",
+    "modul_id": "A19",
+    "optionen": [
+      "Der Schüler muss daheim warten, bis die Behörde entschieden hat.",
+      "Bis zur Bescheiderlassung ist der Schüler zum Besuch der nächsten Stufe berechtigt, die Behörde entscheidet binnen zwei Wochen.",
+      "Die Schule darf den vorläufigen Besuch verweigern, weil die Note feststeht.",
+      "Das Verfahren dauert beliebig lang ohne vorläufige Rechte."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Daheimbleiben ist gerade nicht vorgesehen.",
+      "Richtig: Auffangrecht plus Zweiwochengebot.",
+      "Falsch: Verweigerung widerspricht dem Gesetz.",
+      "Falsch: Zwei Wochen sind die Frist."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Widerspruch gegen eine Nichtaufstiegsentscheidung in der Unterstufe verwehrt die Schule dem Schüler den Besuch der nächsten Stufe und lässt das Verfahren monatelang liegen. Die Familie beruft sich auf das vorläufige Besuchsrecht. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §71 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Devolution ist zulässig. Bei schuldhafter Säumnis geht die Zuständigkeit auf schriftliches Verlangen unmittelbar bei der Behörde auf diese über. Trifft die Schule kein ausschließliches Verschulden, etwa wegen fehlender Mitwirkung, ist das Verlangen abzuweisen. Zum Nachlesen: SchUG §73 Abs.1.",
+    "hauptquelle": "SchUG §73 Abs.1",
+    "id": "A19-L4-004",
+    "level": "L4",
+    "modul_id": "A19",
+    "optionen": [
+      "Der Familie bleibt nur Abwarten, ein Übergang ist nie möglich.",
+      "Bei schuldhafter Säumnis geht die Zuständigkeit auf Verlangen bei der Behörde auf diese über.",
+      "Das Verlangen geht an das Gericht statt an die Behörde.",
+      "Auch bei Mitverschulden der Familie muss immer übergegangen werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Devolution ist gerade vorgesehen.",
+      "Richtig: Verlangen, Säumnis und Verschulden prüfen.",
+      "Falsch: Zuständig wird die Behörde, nicht das Gericht.",
+      "Falsch: Ohne ausschließliches Organverschulden Abweisung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Ansuchen über einen Semesterwechsel liegt seit drei Monaten unbearbeitet, weil die Direktion es verlegt hat. Die Familie stellt ein schriftliches Verlangen unmittelbar bei der Schulbehörde. Die Schule meint, zuständig bleibe immer sie selbst. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Form, Frist und Weg müssen sitzen. Schriftlich ohne die ausgenommene Nachrichtenform, binnen fünf Tagen bei der Schule, mit Lehrerstellungnahmen und Beweismitteln unverzüglich an die Behörde. Mündlich verkündet läuft ab Verkündung, schriftlich ab Zustellung. Zum Nachlesen: SchUG §71 Abs.1.",
+    "hauptquelle": "SchUG §71 Abs.1",
+    "id": "A19-L4-005",
+    "level": "L4",
+    "modul_id": "A19",
+    "optionen": [
+      "Widerspruch schriftlich binnen fünf Tagen bei der Schule einbringen.",
+      "Die ausgenommene Nachrichtenform an dieser Stelle vermeiden.",
+      "Stellungnahmen der beurteilenden Lehrer und Beweismittel unverzüglich der Behörde vorlegen.",
+      "Fristbeginn ab mündlicher Verkündung oder ab Zustellung der Ausfertigung beachten.",
+      "Widerspruch ein Jahr später per Zuruf einbringen.",
+      "Behörde ohne Unterlagen entscheiden lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Frist, Ort und Form wahren.",
+      "Richtig: Formfehler vermeiden.",
+      "Richtig: Vollständige Vorlage sichert Prüfung.",
+      "Richtig: Verkündung oder Zustellung lösen den Lauf aus.",
+      "Falsch: Verspätet und formwidrig zugleich.",
+      "Falsch: Ohne Akte keine sachgerechte Entscheidung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer negativen Eignungsprüfung mit mündlicher Verkündung bastelt eine Familie am Widerspruch: Nachricht an die Privatnummer, drei Wochen später, ohne Belege. Die Schule soll das Verfahren dennoch führen. Welche Bausteine eines wirksamen Widerspruchs stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §71 Abs.2",
+      "SchUG §71 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Kommission ist behördlich geführt. Vorsitz durch Aufsicht oder Vertretung, Prüfer als Fachlehrer plus Beisitzer, bei Nichteinigung entscheidet der Vorsitz. Grundlage der Behördenentscheidung ist die neue Beurteilung, bei positiver folgt ein neues Zeugnis. Zum Nachlesen: SchUG §71 Abs.5.",
+    "hauptquelle": "SchUG §71 Abs.5",
+    "id": "A19-L4-006",
+    "level": "L4",
+    "modul_id": "A19",
+    "optionen": [
+      "Prüfung unter Vorsitz der Schulaufsicht oder deren Vertretung.",
+      "Fachlehrer als Prüfer plus ein Beisitzer, bei Nichteinigung entscheidet der Vorsitz.",
+      "Behördenentscheidung auf Basis der neuen Beurteilung, bei Erfolg neues Zeugnis.",
+      "Vorsitz durch den betroffenen Schüler selbst.",
+      "Prüfung ohne Beisitzer im Geheimen.",
+      "Alte Note bleibt immer, egal wie die Prüfung ausgeht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Behördenvorsitz sichert Neutralität.",
+      "Richtig: Besetzung und Stichentscheid sind geregelt.",
+      "Richtig: Neue Beurteilung trägt Bescheid und Zeugnis.",
+      "Falsch: Betroffene führen nicht den Vorsitz.",
+      "Falsch: Beisitzer ist Pflicht.",
+      "Falsch: Die neue Beurteilung gilt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Widerspruchsverfahren wird eine kommissionelle Prüfung in Englisch nötig. Schule, Familie und Behörde streiten über Vorsitz, Besetzung und Folgen des Ergebnisses. Die Schule will den Vorsitz selbst führen und die alte Note jedenfalls behalten. Was stimmt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §71 Abs.4",
+      "SchUG §71 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Sonderverfahren, Sonderfristen, Sonderwege. Viele Schulentscheidungen laufen schulisch statt behördlich, mit Ermittlung und Gehör, schriftlicher Ausfertigung auf Verlangen und Widerspruch an die Behörde. Gegen alle übrigen Organentscheidungen gibt es diesen Widerspruch gerade nicht. Zum Nachlesen: SchUG §70 Abs.1.",
+    "hauptquelle": "SchUG §70 Abs.1",
+    "id": "A19-L4-007",
+    "level": "L4",
+    "modul_id": "A19",
+    "optionen": [
+      "Aufnahme, Prüfungszulassung, Fördermaßnahmen und Parallelversetzung laufen im schulischen Sonderverfahren.",
+      "Ermittlung, Beweis und Gehör gehen der Entscheidung voraus.",
+      "Schriftliche Ausfertigung auf Verlangen binnen einer Woche bei nicht vollem Stattgeben.",
+      "Gegen andere als die genannten Organentscheidungen ist dieser Widerspruch unzulässig.",
+      "Jede Sitzordnung ist widerspruchsfähig.",
+      "Das allgemeine Behördenverfahren gilt überall daneben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Katalog trägt das Sonderverfahren.",
+      "Richtig: Faires Verfahren vor dem Spruch.",
+      "Richtig: Wochenfrist sichert Rechtsschutz.",
+      "Richtig: Auffanggrenze des Widerspruchs.",
+      "Falsch: Organisatorisches ohne Entscheidungscharakter nicht.",
+      "Falsch: Dort ist es gerade ausgenommen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Direktion erstellt eine Verfahrenscheckliste für das Schuljahr: Welche Fälle laufen schulisch, was gehört zum fairen Verfahren, wann gibt es Schriftliches und wo endet der Widerspruch? Das Team vermischt alles mit allgemeinem Behördenrecht. Welche Bausteine stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §70 Abs.2",
+      "SchUG §70 Abs.3",
+      "SchUG §71 Abs.9"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Mit Einbringen des Widerspruchs tritt die provisoriale Entscheidung außer Kraft und die Behörde entscheidet mit Bescheid. Wer trotzdem vollzieht, handelt rechtswidrig. Zum Nachlesen: SchUG §71 Abs.2a.",
+    "hauptquelle": "SchUG §71 Abs.2a",
+    "id": "A19-L4-008",
+    "level": "L4",
+    "modul_id": "A19",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Das Außerkrafttreten wird übersehen.",
+      "Richtig erkannt: Widerspruch bremst die Schulentscheidung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Direktion: Ein Kollege behauptet, ein Widerspruch ändere an der Schulentscheidung gar nichts, die Schule könne sie trotz Widerspruchs sofort vollziehen.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

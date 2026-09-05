@@ -1,1 +1,266 @@
-[]
+[
+  {
+    "aufloesung": "Der Ausschluss ist hier noch nicht reif, die Versetzung schon. Mildere Mittel sind nicht ausgeschöpft, solange die Parallelversetzung als Ordnungsmaßnahme noch offen ist. Erst bei Erfolglosigkeit aller milderen Mittel oder dauernder Gefährdung trägt ein Ausschlussantrag. Zum Nachlesen: SchUG §49 Abs.1.",
+    "hauptquelle": "SchUG §49 Abs.1",
+    "id": "A17-L4-001",
+    "level": "L4",
+    "modul_id": "A17",
+    "optionen": [
+      "Sofort den Ausschluss selbst mündlich aussprechen, Verfahren ist Formsache.",
+      "Zuerst die Versetzung in die Parallelklasse als milderes Mittel prüfen und erst bei Erfolglosigkeit aller milderen Mittel einen begründeten Ausschlussantrag stellen.",
+      "Den Schüler ohne Verfahren ein halbes Jahr vom Unterricht freistellen.",
+      "Die Klasse auflösen und alle Schüler versetzen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ausschluss braucht Antrag, Anhörung, Ermittlung und Behördenbescheid.",
+      "Richtig: Stufenfolge einhalten, mildere Ordnungsmaßnahme zuerst.",
+      "Falsch: Eine Freistellung ohne Grundlage ist rechtswidrig.",
+      "Falsch: Kollektivmaßnahmen gegen Unbeteiligte sind unzulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "In einer dritten Klasse eskaliert der Dauerstreit zweier Schüler trotz Ermahnungen und Elterngesprächen. Eine Versetzung in die Parallelklasse wurde noch nie geprüft. Die Schulleiterin will stattdessen sofort einen der beiden von der Schule ausschließen und das gleich mündlich verkünden.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §47 Abs.2",
+      "SchUG §49 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Der Lehrgangswechsel ist zulässig, der Rauswurf durch den Betrieb nicht. An lehrgangsmäßigen Berufsschulen kann der Schulleiter aus erzieherischen Gründen oder zur Ordnung auch in einen anderen Lehrgang versetzen. Der Lehrherr entscheidet über das Lehrverhältnis, nicht über die Schulmaßnahme. Zum Nachlesen: SchUG §47 Abs.2.",
+    "hauptquelle": "SchUG §47 Abs.2",
+    "id": "A17-L4-002",
+    "level": "L4",
+    "modul_id": "A17",
+    "optionen": [
+      "Der Lehrherr kann den Lehrling von der Schule ausschließen, die Schule hat zu folgen.",
+      "Der Schulleiter kann den Schüler aus erzieherischen Gründen oder zur Ordnung in einen anderen Lehrgang versetzen.",
+      "Eine Versetzung ist an Berufsschulen grundsätzlich ausgeschlossen.",
+      "Der Mitschüler im anderen Lehrgang muss der Aufnahme zustimmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Betrieb entscheidet nicht über schulische Ordnungsmaßnahmen.",
+      "Richtig: Lehrgangswechsel ist dort ausdrücklich vorgesehen.",
+      "Falsch: Gerade dort ist er vorgesehen.",
+      "Falsch: Mitschüler entscheiden nicht über Versetzungen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Ein Berufsschüler in einer lehrgangsmäßigen Schule sprengt wiederholt seinen Lehrgang, alle Ermahnungen verhallen. Der Lehrherr verlangt den sofortigen Schulausschluss per Anruf, der Schulleiter denkt an einen Wechsel in einen anderen Lehrgang. Die Parallelklasse im selben Lehrgang ist überfüllt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Ansprechen und verständigen ja, strafen nein. Die Schule darf das außerschulische Mobbing mit milden Mitteln aufarbeiten und muss das Einvernehmen mit den Eltern pflegen, bei Nichterfüllung der Elternpflichten die Jugendhilfe einschalten. Eine zusätzliche Schulstrafe für das polizeilich relevante Verhalten ist unzulässig. Zum Nachlesen: SchUG §47 Abs.4.",
+    "hauptquelle": "SchUG §47 Abs.4",
+    "id": "A17-L4-003",
+    "level": "L4",
+    "modul_id": "A17",
+    "optionen": [
+      "Die Schule verhängt eine harte Schulstrafe für die Wochenendchats und meldet nichts weiter.",
+      "Die Schule arbeitet den Fall mit Zurechtweisung und Elterngesprächen auf, pflegt das Einvernehmen mit den Eltern und schaltet bei Bedarf die Jugendhilfe ein, ohne zusätzlich zu bestrafen.",
+      "Die Schule muss den Fall vollständig ignorieren, weil er privat war.",
+      "Die Schule erstattet keine Verständigung, sondern sperrt den Schüler vom Unterricht aus."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Draufsatteln auf ein Behördenverfahren ist unzulässig.",
+      "Richtig: Milde Mittel plus Verständigungspflichten, kein Doppelstrafen.",
+      "Falsch: Berücksichtigen und ansprechen ist erlaubt und geboten.",
+      "Falsch: Eine Sperre ohne Grundlage ist rechtswidrig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Ein Schüler mobbt einen Mitschüler in privaten Wochenendchats massiv, die Polizei ermittelt wegen gefährlicher Drohung. Die Eltern des Täters verweigern jedes Gespräch. Im Kollegium streiten Befürworter einer harten Schulstrafe mit Befürwortern völligen Schweigens.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §48 Abs.1",
+      "SchUG §48 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Der Antrag scheitert an der Pflichtschulhürde. An allgemein bildenden Pflichtschulen ist ein Ausschluss nur bei dauernder Gefährdung und gesicherter Schulpflichterfüllung zulässig. Bloße Pflichtverletzungen ohne Gefährdung tragen dort keinen Ausschluss, mildere Mittel bleiben das Werkzeug. Zum Nachlesen: SchUG §49 Abs.1.",
+    "hauptquelle": "SchUG §49 Abs.1",
+    "id": "A17-L4-004",
+    "level": "L4",
+    "modul_id": "A17",
+    "optionen": [
+      "Der Ausschluss ist zulässig, weil alle Pflichtverletzungen an jeder Schule zum Ausschluss führen.",
+      "Der Ausschluss ist unzulässig, weil an allgemein bildenden Pflichtschulen nur die dauernde Gefährdung bei gesicherter Schulpflicht trägt und hier keine Gefährdung vorliegt.",
+      "Der Schulleiter kann den Ausschluss per Hausordnung selbst verfügen.",
+      "Die Schulpflicht entfällt automatisch mit dem Antrag."
+    ],
+    "pro_option_feedback": [
+      "Falsch: An Pflichtschulen gilt die engere Hürde.",
+      "Richtig: Ohne Gefährdungstatbestand kein Ausschluss an dieser Schulart.",
+      "Falsch: Die Behörde entscheidet mit Bescheid.",
+      "Falsch: Die Schulpflicht bleibt, sie muss gerade gesichert sein."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An einer Mittelschule schwänzt ein schulpflichtiger Schüler wiederholt und stört den Unterricht, gefährdet aber niemanden dauerhaft. Mildere Mittel liefen, eine andere Schule stünde nicht bereit. Die Schulleitung stellt dennoch einen Ausschlussantrag.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Ohne Antrag, Anhörung und Bescheid kein Ausschluss. Die Schulleitung stellt einen begründeten Antrag nach Rechtfertigung und Elternstellungnahme, die Behörde ermittelt und entscheidet mit Bescheid. Stellt sie das Verfahren ein, kann sie trotzdem rügen oder in die Parallelklasse versetzen. Zum Nachlesen: SchUG §49 Abs.2.",
+    "hauptquelle": "SchUG §49 Abs.2",
+    "id": "A17-L4-005",
+    "level": "L4",
+    "modul_id": "A17",
+    "optionen": [
+      "Begründeter Antrag der Schulleitung an die Schulbehörde nach Gelegenheit zur Rechtfertigung und Elternstellungnahme.",
+      "Ermittlungsverfahren durch die Behörde und Entscheidung mit Bescheid.",
+      "Bei Einstellung des Verfahrens trotzdem Rüge oder Versetzung in die Parallelklasse durch die Behörde.",
+      "Mündlicher Rausschmiss durch den Schulleiter am Gang.",
+      "Ausschlussbeschluss per Klassenabstimmung.",
+      "Verzicht auf jede Anhörung zur Beschleunigung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: So startet das Verfahren fair und begründet.",
+      "Richtig: Die Behörde prüft und bescheidet.",
+      "Richtig: Auch die Einstellung kann eine milde Folge tragen.",
+      "Falsch: Mündlich am Gang gibt es keinen Ausschluss.",
+      "Falsch: Klassenabstimmungen entscheiden nicht über Ausschlüsse.",
+      "Falsch: Anhörung ist Wirksamkeitsvoraussetzung, kein Luxus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer schweren Sachbeschädigung mit Polizeieinsatz soll der Ausschluss eines Oberstufenschülers betrieben werden. Der Schulleiter will ihn sofort mündlich weisen und die Klasse darüber abstimmen lassen. Du stellst das korrekte Verfahren sicher. Welche Schritte stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §49 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Drinnen strafen, draußen maßhalten. Innerhalb der Schule stehen Erziehungsmittel und bei Bedarf Ordnungsmaßnahmen zur Verfügung, außerhalb nur milde Mittel und Verständigungen. Körperliche, beleidigende und kollektive Maßnahmen sind überall verboten. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L4-006",
+    "level": "L4",
+    "modul_id": "A17",
+    "optionen": [
+      "Innerhalb der Schule Anerkennung, Aufforderung und Zurechtweisung sowie bei Bedarf die Parallelversetzung einsetzen.",
+      "Außerhalb der Schule nur milde Mittel und Verständigungspflichten einsetzen, etwa Elterngespräch und Jugendhilfe.",
+      "Körperliche, beleidigende und kollektive Maßnahmen auch innerorts als Druckmittel einsetzen.",
+      "Für Freizeitverhalten, das Gerichte beschäftigt, zusätzlich hart schulisch strafen.",
+      "Bei Erfolglosigkeit aller milderen Mittel und schwerer Pflichtverletzung das Ausschlussverfahren prüfen.",
+      "Unbeteiligte Mitschüler zur Abschreckung mitbestrafen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das ist der reguläre innerschulische Werkzeugkasten.",
+      "Richtig: Draußen gilt das milde Regime mit Verständigung.",
+      "Falsch: Die drei Verbote gelten überall und ausnahmslos.",
+      "Falsch: Kein Draufsatteln auf Gerichtsverfahren.",
+      "Richtig: Letzte Stufe erst nach Stufenfolge.",
+      "Falsch: Kollektivstrafen bleiben verboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du berätst eine Schule mit zwei Baustellen: dauernde Störungen im Unterricht durch einen Schüler und dessen Vandalismus am Wochenende mit laufendem Polizeiverfahren. Das Kollegium will alles mit den härtesten Mitteln auf einmal lösen. Welche Bausteine stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §47 Abs.1",
+      "SchUG §47 Abs.2",
+      "SchUG §47 Abs.4",
+      "SchUG §49 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Nur die Trefferliste trägt Maßnahmen. Bloßstellungen, Kollektivdruck und Schläge sind verboten, sachliche Einzelzurechtweisung und Elterneinbindung sind geboten. Auch die Androhung verbotener Mittel ist fehl am Platz. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L4-007",
+    "level": "L4",
+    "modul_id": "A17",
+    "optionen": [
+      "Ironische Bloßstellung vor der Klasse als Abschreckung.",
+      "Nachsitzen der ganzen Klasse bis zur Nennung des Täters.",
+      "Leichte Ohrfeige als letztes Mittel bei grobem Fehlverhalten.",
+      "Sachliche Einzelzurechtweisung mit Elterngespräch und Dokumentation.",
+      "Androhung einer Kollektivstrafe als Motivation.",
+      "Einvernehmen mit den Eltern bei Erziehungsbedarf."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beleidigendes bleibt verboten, auch als Show.",
+      "Falsch: Kollektiv bleibt Kollektiv, auch als Druck.",
+      "Falsch: Körperliches bleibt verboten, auch leicht.",
+      "Richtig: Sachlich, individuell und dokumentiert vorgehen.",
+      "Falsch: Auch die Androhung verbotener Mittel ist unzulässig.",
+      "Richtig: Verständigung gehört zum Verfahren."
+    ],
+    "richtig": [
+      3,
+      5
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Wähle aus sechs Vorschlägen eines Kollegiums die zulässigen heraus: Nach einem Diebstahl mit unbekanntem Täter werden Bloßstellung, Kollektivnachsitzen, Ohrfeige, Einzelzurechtweisung mit Elterngespräch, Androhung von Kollektivstrafen und Schweigen diskutiert. Welche zwei sind zulässig?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §47 Abs.1",
+      "SchUG §48 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. An allgemein bildenden Pflichtschulen ist der Ausschluss nicht ausgeschlossen, aber eng begrenzt auf dauernde Gefährdung bei gesicherter Schulpflicht. Reine Pflichtverletzungen ohne Gefährdung tragen ihn dort nicht. Zum Nachlesen: SchUG §49 Abs.1.",
+    "hauptquelle": "SchUG §49 Abs.1",
+    "id": "A17-L4-008",
+    "level": "L4",
+    "modul_id": "A17",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Ein eng begrenzter Ausschluss bleibt möglich.",
+      "Richtig erkannt: Nur Gefährdung bei gesicherter Schulpflicht trägt ihn dort."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Direktion: Ein Kollege behauptet, an allgemein bildenden Pflichtschulen sei ein Ausschluss in jedem Fall ausgeschlossen, egal was passiert.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

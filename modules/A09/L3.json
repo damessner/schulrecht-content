@@ -1,1 +1,385 @@
-[]
+[
+  {
+    "aufloesung": "Die Alleinentscheidung ist unwirksam. Schulbezogene Veranstaltungen werden vom Klassen- oder Schulforum beziehungsweise vom Schulgemeinschaftsausschuss erklärt, nicht vom Direktor im Alleingang. Nur wenn mehrere Schulen betroffen sind, entscheidet die Behörde oder der Minister. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L3-001",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Der Schulleiter darf allein erklären, die Gremien sind nur zu informieren.",
+      "Die Erklärung obliegt dem Schulgemeinschaftsausschuss, an Pflichtschulen dem Klassen- oder Schulforum.",
+      "Jede Lehrkraft darf ihre Klasse allein zu schulbezogenen Veranstaltungen verpflichten.",
+      "Der Klassensprecher erklärt Veranstaltungen allein und meldet alle an."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleinentscheidungen des Direktors sind nicht vorgesehen.",
+      "Richtig: Forum oder Ausschuss erklären, je nach Schulart.",
+      "Falsch: Einzelne Lehrer verpflichten niemanden allein.",
+      "Falsch: Schülervertreter erklären keine Veranstaltungen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer HTL plant eine Theatergruppe ein mehrtägiges Projekt mit Übernachtung, das auf dem Deutschunterricht aufbaut. Der Direktor erklärt es allein zur schulbezogenen Veranstaltung und meldet alle zweiten Klassen verpflichtend an. Die Eltern fragen, wer das überhaupt entscheiden darf.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Erklärung scheitert an den Voraussetzungen. Sie darf nur erfolgen, wenn sich die nötigen Lehrer zur Durchführung bereit erklären, die Finanzierung sichergestellt ist und erforderliche Zustimmungen anderer Stellen vorliegen. Fehlt eine Säule, darf das Gremium nicht erklären. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L3-002",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Das Forum darf erklären, auch wenn kein Lehrer mitfahren will.",
+      "Die Erklärung setzt bereite Lehrer, gesicherte Finanzierung und nötige Zustimmungen voraus.",
+      "Die Finanzierung ist egal, gezahlt wird später irgendwie.",
+      "Zustimmungen anderer Stellen braucht es grundsätzlich nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne bereite Lehrer keine Erklärung.",
+      "Richtig: Alle drei Voraussetzungen gehören zusammen.",
+      "Falsch: Ungesicherte Kosten sperren die Erklärung.",
+      "Falsch: Erforderliche Zustimmungen sind einzuholen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Das Schulforum einer Mittelschule erklärt eine teure Sportprojektwoche zur schulbezogenen Veranstaltung, obwohl sich keine Lehrkraft zur Begleitung bereit erklärt und die Finanzierung offen ist. Eine Mutter hält den Beschluss für wirksam, weil das Forum abgestimmt hat.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Ein einzelnes Forum kann das nicht für beide Schulen beschließen. Sind mehrere Schulen betroffen, erklärt die zuständige Behörde, bei Schulen in mehreren Bundesländern der Minister. Das eigene Gremium reicht dann nicht mehr aus. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L3-003",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Das Forum einer Schule erklärt wirksam auch für die Nachbarschule mit.",
+      "Bei mehreren betroffenen Schulen erklärt die Behörde, bei mehreren Bundesländern der Minister.",
+      "Jede Klasse erklärt selbst für den ganzen Bezirk.",
+      "Der Bürgermeister erklärt schulbezogene Veranstaltungen allein."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Forum reicht für fremde Schulen nicht.",
+      "Richtig: Behörde oder Minister übernehmen bei Mehrschulfällen.",
+      "Falsch: Klassen beschließen nicht für Bezirke.",
+      "Falsch: Der Bürgermeister ist dafür nicht zuständig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Gymnasien verschiedener Bezirke planen ein gemeinsames Segelprojekt über drei Tage. Das Forum des einen Gymnasiums will das Vorhaben gleich für beide Schulen zur schulbezogenen Veranstaltung erklären. Die Partnerschule zweifelt an dieser Zuständigkeit.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Untersagung ist rechtmäßig. Die Teilnahme ist zu untersagen, wenn mit großer Wahrscheinlichkeit eine Gefährdung der Sicherheit des Schülers oder anderer zu erwarten ist. Zuständig ist der Schulleiter oder ein Beauftragter, nach Anhörung der Klassenkonferenz und mit Begründung. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L3-004",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Bei Gefährdung muss der Schüler trotzdem jedenfalls mitfahren.",
+      "Der Schulleiter untersagt nach Anhörung der Klassenkonferenz mit Begründung die Teilnahme.",
+      "Die Untersagung gilt nur mündlich am Gang ohne jede Begründung.",
+      "Die Klassenkameraden stimmen über Ausschluss per Zuruf ab."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sicherheit geht vor Teilnahmewunsch.",
+      "Richtig: Gefährdung, Anhörung und Begründung gehören zusammen.",
+      "Falsch: Begründung und Anhörung sind vorgeschrieben.",
+      "Falsch: Per Zuruf wird niemand ausgeschlossen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schüler Jonas aus einer dritten Klasse Handelsschule ist wiederholt durch schwere Attacken auf Mitschüler aufgefallen. Für einen Kletter- und Outdoorblock im Rahmen einer angemeldeten Projektwoche fürchtet die Schule um die Sicherheit der Gruppe. Der Vater besteht auf Mitfahrt ohne Einschränkung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Untersagung ist zulässig. Reicht die Teilnahme voraussichtlich den erfolgreichen Abschluss der Schulstufe in Frage zu stellen, ist sie zu untersagen. Gerade vor drohendem Leistungsausfall schützt die Schule den Schüler vor zusätzlicher Belastung. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L3-005",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Leistungsgefahr spielt keine Rolle, jeder darf immer teilnehmen.",
+      "Droht durch die Teilnahme das Scheitern der Schulstufe, ist die Teilnahme zu untersagen.",
+      "Untersagt werden darf nur bei Krankheit, sonst nie.",
+      "Die Eltern entscheiden allein, die Schule schweigt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Abschlusserfolg ist ein eigener Untersagungsgrund.",
+      "Richtig: Gefährdeter Abschluss sperrt die Teilnahme.",
+      "Falsch: Krankheit ist nur ein Fernbleibegrund, kein Untersagungsmaßstab.",
+      "Falsch: Die Schule hat eine eigene Prüfungspflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Maturant Lukas steht in vier Fächern auf Nicht genügend und will an einer zweiwöchigen Auslandsprojektwoche teilnehmen, die viel Unterrichtszeit kostet. Der Schulleiter will die Teilnahme wegen des gefährdeten Abschlusses untersagen. Die Eltern nennen das Schikane.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Schüler muss teilnehmen. Wer angemeldet ist und nicht ausgeschlossen wurde, ist zur Teilnahme verpflichtet, außer es liegt ein anerkannter Verhinderungsgrund vor. Ein bloßer Sinneswandel ohne Grund löst die Pflicht nicht. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L3-006",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Angemeldete müssen teilnehmen, außer es liegt ein anerkannter Verhinderungsgrund vor.",
+      "Nach der Anmeldung kann jeder ohne Grund beliebig fernbleiben.",
+      "Die Anmeldung ist nur eine unverbindliche Interessensbekundung.",
+      "Nur bei Regen entfällt die Pflicht, sonst nie."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anmeldung plus fehlende Untersagung ergibt Pflicht.",
+      "Falsch: Grundloses Fernbleiben bricht die Pflicht nicht.",
+      "Falsch: Die Anmeldung bindet tatsächlich.",
+      "Falsch: Auf das Wetter kommt es nicht an."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schülerin Anna hat sich an einer berufsbildenden Schule verbindlich für ein Betriebspraktikumsprojekt als schulbezogene Veranstaltung angemeldet. Am Vortag meldet sie, sie habe keine Lust mehr, sei aber gesund. Die Schule besteht auf Teilnahme.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Erklärung hat fünf Leitplanken. Sie setzt einen aufbauenden Lehrplanbezug und den Dienst an der Schulaufgabe voraus, dazu bereite Lehrer, gesicherte Finanzierung und nötige Fremdzustimmungen. Reiner Freizeitspaß ohne Unterrichtsbezug oder ein Beschluss gegen den Lehrerwillen trägt nicht. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L3-007",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Die Veranstaltung baut auf dem lehrplanmäßigen Unterricht auf.",
+      "Sie dient der Aufgabe der österreichischen Schule.",
+      "Die nötigen Lehrer erklären sich zur Durchführung bereit.",
+      "Finanzierung und erforderliche Fremdzustimmungen sind gesichert.",
+      "Jeder Freizeitspaß ohne Unterrichtsbezug genügt ebenfalls.",
+      "Erklärt werden kann auch gegen den Willen aller Lehrer."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lehrplanbezug ist die erste Hürde.",
+      "Richtig: Schulaufgabe statt Beliebigkeit.",
+      "Richtig: Ohne bereite Lehrer keine Durchführung.",
+      "Richtig: Geld und Zustimmungen müssen stehen.",
+      "Falsch: Ohne Unterrichtsbezug keine schulbezogene Veranstaltung.",
+      "Falsch: Lehrerbereitschaft ist zwingend."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Als Abteilungsvorstand prüfst du einen Antrag, ein Gaming-Wochenende ohne jeden Unterrichtsbezug zur schulbezogenen Veranstaltung zu erklären, obwohl kein Lehrer mitfahren will und die Kosten offen sind. Die Organisatoren meinen, ein Beschluss heile alles. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Untersagt wird aus drei Gründen und in klarer Form. Fehlende Voraussetzungen, wahrscheinliche Sicherheitsgefahr oder ein gefährdeter Stufenabschluss lösen die Sperre aus. Der Schulleiter oder ein Beauftragter entscheidet nach Anhörung der Klassenkonferenz mit Begründung. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L3-008",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Der Schüler erbringt die nötigen Voraussetzungen nicht.",
+      "Es droht mit großer Wahrscheinlichkeit eine Sicherheitsgefahr.",
+      "Der erfolgreiche Stufenabschluss erscheint durch die Teilnahme in Frage gestellt.",
+      "Zuständig ist der Schulleiter oder ein Beauftragter nach Anhörung der Klassenkonferenz mit Begründung.",
+      "Untersagt werden darf jederzeit willkürlich ohne Grund und Begründung.",
+      "Die Klassenkonferenz untersagt allein, der Schulleiter ist unbeteiligt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fehlende Voraussetzungen sperren die Teilnahme.",
+      "Richtig: Sicherheit der Gruppe geht vor.",
+      "Richtig: Gefährdeter Abschluss schützt vor Überlastung.",
+      "Richtig: Zuständigkeit, Anhörung und Begründung gehören zusammen.",
+      "Falsch: Willkür ist gerade ausgeschlossen.",
+      "Falsch: Anhörung ist nicht Alleinentscheidung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du leitest eine Oberstufenklasse vor einer Wintersportprojektwoche. Drei angemeldete Schüler erfüllen die Schwimm- und Fahrvoraussetzungen nicht, einer gilt als Sicherheitsrisiko, eine Schülerin steht vor dem Durchfallen. Das Kollegium fragt nach Gründen und Form der Sperre. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Pflicht entsteht auf verschiedenen Wegen. Schulveranstaltungen ergänzen den Unterricht und verpflichten ohne Anmeldung, schulbezogene erst nach Anmeldung. Wer dort angemeldet und nicht ausgeschlossen ist, muss teilnehmen. Zum Nachlesen: SchUG §13a Abs.2.",
+    "hauptquelle": "SchUG §13a Abs.2",
+    "id": "A09-L3-009",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Schulveranstaltungen ergänzen den Unterricht durch unmittelbaren Kontakt zu Leben, Kultur und Sport.",
+      "Schulveranstaltungen verpflichten auch ohne Anmeldung, außer bei Krankheit, Ausschluss oder auswärtiger Nächtigung.",
+      "Schulbezogene Veranstaltungen verpflichten erst nach vorheriger Anmeldung ohne Untersagung.",
+      "Ausgeschlossene oder verhinderte Schüler werden möglichst einer anderen Klasse zugewiesen.",
+      "Schulbezogene Veranstaltungen verpflichten automatisch alle, auch ohne Anmeldung.",
+      "Bei Schulveranstaltungen darf jeder ohne Grund frei entscheiden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das ist die Aufgabe der Schulveranstaltung.",
+      "Richtig: Pflicht ohne Anmeldung mit drei Ausnahmen.",
+      "Richtig: Anmeldung plus fehlende Sperre ergibt Pflicht.",
+      "Richtig: Ersatzbesuch federt die Nichtteilnahme ab.",
+      "Falsch: Ohne Anmeldung keine Pflicht.",
+      "Falsch: Belieben ersetzt keine Gründe."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Lehrerzimmer einer AHS streiten Kollegen über Pflichten: Die einen halten jede Exkursion für freiwillig, die anderen verpflichten alle zu einem Chorprojekt ohne Anmeldung. Du sollst beide Typen sauber trennen. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §13 Abs.1",
+      "SchUG §13 Abs.3",
+      "SchUG §13 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Anmeldung bindet, Ausstieg hat Fristen. Wer angemeldet und nicht ausgeschlossen ist, muss teilnehmen, Fernbleiben braucht einen anerkannten Grund. Bei einer Reihe geht die Abmeldung frühestens nach der ersten und spätestens vier Wochen vor einer weiteren Veranstaltung. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L3-010",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Angemeldet und nicht untersagt bedeutet Teilnahmepflicht.",
+      "Fernbleiben braucht einen anerkannten Verhinderungsgrund.",
+      "Bei einer Reihe ist die Abmeldung frühestens nach der ersten und spätestens vier Wochen vorher möglich.",
+      "Abmeldung geht jederzeit formlos am selben Tag.",
+      "Angemeldete dürfen beliebig ohne Grund fehlen.",
+      "Nicht Angemeldete sind automatisch ebenfalls verpflichtet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: So entsteht die Bindung.",
+      "Richtig: Gründe entscheiden, nicht Laune.",
+      "Richtig: Erste miterleben, dann fristgerecht raus.",
+      "Falsch: Die Fristen laufen vorher ab.",
+      "Falsch: Pflicht duldet kein Belieben.",
+      "Falsch: Ohne Anmeldung keine Pflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schüler David meldet sich für eine Chorreihe mit fünf Abendauftritten an, bleibt dann zweimal unentschuldigt fern und will drei Tage vor dem dritten Auftritt aussteigen. Der Chorleiter besteht auf Pflicht und Fristen. David meint, alles sei freiwillig. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Zuständig ist das eigene Gremium, darüber die Behörde. Forum oder Ausschuss erklären für die eigene Schule, bei mehreren Schulen die Behörde, bei mehreren Bundesländern der Minister. Geld, Lehrer und Zustimmungen müssen stehen, Einzelpersonen erklären nichts allein. Zum Nachlesen: SchUG §13a Abs.1.",
+    "hauptquelle": "SchUG §13a Abs.1",
+    "id": "A09-L3-011",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Forum oder Ausschuss erklären für die eigene Schule.",
+      "Bei mehreren Schulen erklärt die Behörde.",
+      "Bei mehreren Bundesländern erklärt der Minister.",
+      "Finanzierung, Lehrerbereitschaft und Zustimmungen müssen gesichert sein.",
+      "Der Elternverein erklärt allein für die ganze Schule.",
+      "Erklärt werden kann auch ohne jede Lehrkraft."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eigenes Gremium für eigenes Haus.",
+      "Richtig: Mehrschulfall wandert zur Behörde.",
+      "Richtig: Länderübergreifung wandert zum Minister.",
+      "Richtig: Die drei Sicherungen sind Pflicht.",
+      "Falsch: Einzelne erklären nichts allein.",
+      "Falsch: Ohne Lehrer keine Durchführung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Schulen eines Bundeslandes und eine Partnerschule aus einem anderen Bundesland planen eine gemeinsame Theaterwoche. Elternverein, Direktor und Foren streiten, wer was erklären darf und welche Sicherungen nötig sind. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Wer angemeldet ist und nicht ausgeschlossen wurde, ist zur Teilnahme verpflichtet, außer es liegt ein anerkannter Verhinderungsgrund vor. Bloße Lustlosigkeit löst die Bindung nicht. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "id": "A09-L3-012",
+    "level": "L3",
+    "modul_id": "A09",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Anmeldung wäre dann ein leeres Ritual.",
+      "Richtig erkannt: Bindung gilt, nur Gründe befreien."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, wer sich für eine schulbezogene Veranstaltung angemeldet hat, könne trotzdem jederzeit ohne Grund fernbleiben, weil alles freiwillig sei.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

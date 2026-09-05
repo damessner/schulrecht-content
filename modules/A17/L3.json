@@ -1,1 +1,382 @@
-[]
+[
+  {
+    "aufloesung": "Die Lehrerin handelt richtig und der Vater irrt. Anerkennung, Aufforderung und Zurechtweisung sind die vorgesehenen Mittel der Erziehungssituation und stehen auch Lehrer, Klassenvorstand und Schulleitung zu. Nur in besonderen Fällen spricht sie die Schulbehörde aus. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A17-L3-001",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Nur die Schulbehörde darf Erziehungsmittel verhängen, die Lehrerin war unzuständig.",
+      "Lehrer, Klassenvorstand und Schulleitung dürfen Anerkennung, Aufforderung oder Zurechtweisung aussprechen.",
+      "Erziehungsmittel brauchen vorher eine schriftliche Einwilligung der Eltern.",
+      "Einträge ins Klassenbuch sind in jedem Fall verbotene Kollektivstrafen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Behörde ist nur in besonderen Fällen zuständig, nicht ausschließlich.",
+      "Richtig: Genau diese Personen nennt das Gesetz für den Schulalltag.",
+      "Falsch: Eine vorherige Elterneinwilligung ist nicht vorgesehen.",
+      "Falsch: Eine einzelne Zurechtweisung ist kein Kollektiv und kein Eintragungsproblem."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Berger trägt nach wiederholten Störungen eines Schülers eine deutliche Zurechtweisung ins Klassenbuch ein und führt danach ein ruhiges Einzelgespräch mit ihm. Der Vater behauptet, Erziehungsmittel dürfe nur die Behörde verhängen, und verlangt die Löschung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Das Eingreifen war zulässig, eine Strafe wäre es nicht. Wer eine akute Rauferei beendet und einen Angreifer festhält, verhängt keine körperliche Züchtigung als Strafe. Verboten wäre erst ein Schlag oder Festhalten zur Vergeltung danach. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L3-002",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Der Lehrer hätte die Rauferei laufen lassen müssen, jedes Anfassen ist verboten.",
+      "Das Beenden einer akuten Gefahr durch Festhalten ist keine verbotene körperliche Züchtigung, eine Strafe durch Schläge wäre es.",
+      "Ein leichter Schlag zur Strafe danach wäre als Erziehungsmittel zulässig.",
+      "Nur die Polizei darf Schüler anfassen, Lehrer nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schutzhandeln zur Gefahrenabwehr bleibt erlaubt.",
+      "Richtig: Abwehren ist kein Strafen, Vergeltung schon.",
+      "Falsch: Körperliche Strafen sind ausnahmslos verboten.",
+      "Falsch: Auch Lehrer dürfen zur Gefahrenabwehr eingreifen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In der Pause prügeln sich zwei Burschen am Gang. Lehrer Egger zieht einen der beiden fest am Arm weg, um die Schlägerei zu beenden, und verhängt danach keine körperliche Maßnahme. Ein Elternteil spricht von verbotener körperlicher Züchtigung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Äußerung ist unzulässig und muss unterbleiben. Auch ironisch oder witzig gemeinte Bloßstellungen vor der Klasse sind beleidigende Äußerungen. Kritik muss sachlich bleiben und darf nicht entwürdigen. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L3-003",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Ironie vor der Klasse ist ein wirksames und erlaubtes Erziehungsmittel.",
+      "Auch ironisch gemeinte Bloßstellungen vor der Klasse sind verbotene beleidigende Äußerungen.",
+      "Vor der Klasse ist alles erlaubt, nur im Einzelgespräch nicht.",
+      "Verboten wäre es nur, wenn der Schüler weint."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Humor rechtfertigt keine Entwürdigung.",
+      "Richtig: Auf die Verpackung als Witz kommt es nicht an.",
+      "Falsch: Das Publikum macht es eher schlimmer, nicht besser.",
+      "Falsch: Es kommt auf die Äußerung an, nicht auf die Tränen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer sagt vor der versammelten Klasse über einen Schüler mit schwacher Schularbeit, er sei wohl zu dumm für diese Schule, und meint danach, das sei doch nur Spaß gewesen. Der Schüler schämt sich und fehlt am nächsten Tag.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Das Nachsitzen der ganzen Klasse ist rechtswidrig. Kollektivstrafen sind verboten, weil Maßnahmen nur an das eigene Verhalten des einzelnen Schülers anknüpfen dürfen. Stattdessen ist der Vorfall zu ermitteln und individuell aufzuarbeiten. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L3-004",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Die Kollektivmaßnahme ist zulässig, weil sonst der Täter nie gefunden wird.",
+      "Eine Strafe für die ganze Klasse bei unklarem Täter ist eine verbotene Kollektivstrafe.",
+      "Zulässig wäre es mit Zustimmung der Klassensprecherin.",
+      "Zulässig wäre es nur in der Oberstufe, nicht in der Unterstufe."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ermittlungsdruck heilt das Verbot nicht.",
+      "Richtig: Ohne individuelles Fehlverhalten keine Strafe.",
+      "Falsch: Zustimmung heilt ein ausdrückliches Verbot nicht.",
+      "Falsch: Die Stufe spielt für das Verbot keine Rolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem gestohlenen Geldbeutel in der Garderobe lässt ein Lehrer die gesamte Klasse eine Stunde nachsitzen, bis sich der Täter meldet. Die Unschuldigen und ihre Eltern protestieren gegen die Maßnahme.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Versetzung ist zulässig und der Schulleiter ist zuständig. Wenn es aus erzieherischen Gründen oder zur Aufrechterhaltung der Ordnung nötig ist, kann der Schulleiter in eine Parallelklasse versetzen. Ein Gerichtsverfahren oder Elternbeschluss ist dafür nicht nötig. Zum Nachlesen: SchUG §47 Abs.2.",
+    "hauptquelle": "SchUG §47 Abs.2",
+    "id": "A17-L3-005",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Eine Versetzung in die Parallelklasse ist grundsätzlich nie zulässig.",
+      "Der Schulleiter kann bei erzieherischer Notwendigkeit oder aus Ordnungsgründen in eine Parallelklasse versetzen.",
+      "Dafür braucht es einen Gerichtsbeschluss.",
+      "Dafür braucht es die Zustimmung der Eltern der aufnehmenden Klasse."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Maßnahme ist ausdrücklich vorgesehen.",
+      "Richtig: Erzieherische Gründe oder Ordnung genügen, zuständig ist der Schulleiter.",
+      "Falsch: Es ist eine schulische Maßnahme, kein Gerichtsfall.",
+      "Falsch: Auf fremde Elternwünsche kommt es nicht an."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Schüler einer dritten Klasse streiten seit Wochen massiv und sprengen regelmäßig den Unterricht. Alle Gespräche und Ermahnungen blieben erfolglos. Der Schulleiter will nun einen der beiden in die Parallelklasse versetzen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Eine Schulstrafe für das Wochenende ist unzulässig. Das Verhalten außerhalb der Schule darf zwar berücksichtigt werden, dabei sind aber nur milde Mittel wie Anerkennung, Aufforderung oder Zurechtweisung und Verständigungen erlaubt. Für Taten, mit denen sich bereits Behörden oder Gerichte befassen, darf die Schule nicht zusätzlich strafen. Zum Nachlesen: SchUG §47 Abs.4.",
+    "hauptquelle": "SchUG §47 Abs.4",
+    "id": "A17-L3-006",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Die Schule darf jedes Freizeitverhalten mit allen Schulstrafen belegen.",
+      "Außerschulisches Verhalten darf berücksichtigt werden, zulässig sind aber nur milde Mittel und Verständigungen, keine zusätzliche Bestrafung.",
+      "Die Schule muss Freizeitverhalten immer vollständig ignorieren.",
+      "Nur die Schule darf strafen, Behörden und Gerichte nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade für Freizeitverhalten ist das Strafen begrenzt.",
+      "Richtig: Berücksichtigen ja, draufschlagen nein.",
+      "Falsch: Wegschauen ist nicht verlangt, Maß halten schon.",
+      "Falsch: Genau umgekehrt, bei Behördenfällen tritt die Schule zurück."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Oberstufenschüler beleidigt am Wochenende in einem privaten Chat einen Mitschüler schwer. Die Schule erfährt davon am Montag. Der Klassenvorstand will eine empfindliche Schulstrafe für das private Wochenendverhalten verhängen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §48"
+    ]
+  },
+  {
+    "aufloesung": "Erziehungsmittel stehen dem pädagogischen Alltag zu, nicht nur der Behörde. Anerkennung, Aufforderung und Zurechtweisung sind die Mittel der Erziehungssituation, Lehrer, Klassenvorstand und Schulleitung dürfen sie aussprechen. Auch Erzieher und Freizeitpädagogen im Betreuungsteil ganztägiger Formen sind erfasst. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A17-L3-007",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Anerkennung, Aufforderung und Zurechtweisung sind die Mittel der Erziehungssituation.",
+      "Lehrer, Klassenvorstand und Schulleitung dürfen sie aussprechen.",
+      "Nur die Schulbehörde darf sie aussprechen, sonst niemand.",
+      "Erzieher und Freizeitpädagogen im Betreuungsteil ganztägiger Formen sind ebenfalls erfasst.",
+      "Vorher braucht es immer eine schriftliche Elterneinwilligung.",
+      "Kollektives Nachsitzen Unschuldiger ist davon gedeckt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese drei nennt das Gesetz als Beispiele.",
+      "Richtig: Der Alltag trägt sie, die Behörde nur besondere Fälle.",
+      "Falsch: Die Behörde ist nur für besondere Fälle zuständig.",
+      "Richtig: Der Betreuungsteil ganztägiger Formen ist einbezogen.",
+      "Falsch: Eine Einwilligungspflicht gibt es dafür nicht.",
+      "Falsch: Kollektivstrafen sind eigens verboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Kollegium einer ganztägigen Mittelschule herrscht Streit, wer überhaupt Erziehungsmittel aussprechen darf und welche Mittel das sind. Eine Freizeitpädagogin fragt, ob sie im Nachmittagsbetreuungsteil überhaupt ermahnen und loben darf. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Alle drei Verbote gelten ausnahmslos. Körperliche Züchtigung, beleidigende Äußerungen und Kollektivstrafen sind verboten, egal wie schwer das Fehlverhalten war. Lob, Ermahnung und Einzelgespräche bleiben selbstverständlich erlaubt. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L3-008",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Körperliche Züchtigung ist verboten.",
+      "Beleidigende Äußerungen als Erziehungsmittel sind verboten.",
+      "Kollektivstrafen sind verboten.",
+      "Lob und Anerkennung sind verboten.",
+      "Eine sachliche Zurechtweisung ist verboten.",
+      "Ein ruhiges Einzelgespräch ist verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Verbot gilt ohne jede Ausnahme.",
+      "Richtig: Kritik muss sachlich bleiben.",
+      "Richtig: Nur eigenes Verhalten trägt Maßnahmen.",
+      "Falsch: Lob ist ausdrücklich ein vorgesehenes Mittel.",
+      "Falsch: Die Zurechtweisung ist ein vorgesehenes Mittel.",
+      "Falsch: Gespräche sind Kern pädagogischer Arbeit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für eine Fortbildung sollst du drei neue Kolleginnen schulen, welche Maßnahmen an der Schule jedenfalls verboten sind und welche zum Alltag gehören. Eine Kollegin meint, bei groben Vorfällen gelte das Verbot nicht. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Versetzung ist eine Ordnungsmaßnahme mit klaren Leitplanken. Nötig sind erzieherische Gründe oder Ordnungserfordernisse, zuständig ist der Schulleiter, an lehrgangsmäßigen Berufsschulen geht auch ein anderer Lehrgang. Ohne Grund, per Zuruf oder durch Unzuständige geht es nicht. Zum Nachlesen: SchUG §47 Abs.2.",
+    "hauptquelle": "SchUG §47 Abs.2",
+    "id": "A17-L3-009",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Voraussetzung sind erzieherische Gründe oder die Aufrechterhaltung der Ordnung.",
+      "Zuständig für die Entscheidung ist der Schulleiter.",
+      "An lehrgangsmäßigen Berufsschulen ist auch die Versetzung in einen anderen Lehrgang möglich.",
+      "Erforderlich ist immer ein Gerichtsbeschluss.",
+      "Ein Elternmehrheitsbeschluss ersetzt die Entscheidung.",
+      "Die Versetzung ist auch ohne jeden Grund jederzeit zulässig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das ist der Tatbestand der Maßnahme.",
+      "Richtig: Die Zuständigkeit liegt bei der Schulleitung.",
+      "Richtig: Dort steht der Lehrgangswechsel ausdrücklich daneben.",
+      "Falsch: Kein Gericht ist beteiligt.",
+      "Falsch: Eltern ersetzen die Schulleitung nicht.",
+      "Falsch: Willkür ist gerade ausgeschlossen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du leitest eine Schule mit Parallelklassen und prüfst, wann du einen Schüler zur Beruhigung der Lage in die Parallelklasse versetzen darfst und wer das entscheidet. Der Elternverein behauptet ein Mitentscheidungsrecht. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Außenverhalten ja, Außenbestrafung nein. Die Schule darf Verhalten außerhalb der Schule berücksichtigen, aber nur mit milden Mitteln und Verständigungspflichten arbeiten. Wo bereits Erziehungsberechtigte, Jugendhilfe, Behörden oder Gerichte am Zug sind, darf nicht zusätzlich bestraft werden. Zum Nachlesen: SchUG §47 Abs.4.",
+    "hauptquelle": "SchUG §47 Abs.4",
+    "id": "A17-L3-010",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Verhalten außerhalb der Schule darf im Rahmen der Erziehung berücksichtigt werden.",
+      "Dabei sind nur milde Mittel und Verständigungen zulässig, etwa Gespräche und Kontakt mit den Eltern.",
+      "Eine zusätzliche Bestrafung für Verhalten, das schon Behörden oder Gerichte beschäftigt, ist unzulässig.",
+      "Für Wochenendtaten darf die Schule jede nur denkbare Schulstrafe verhängen.",
+      "Die Schule muss bei Gewalt außerhalb immer einen Verweis aussprechen.",
+      "Wegschauen ist Pflicht, ansprechen ist verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Berücksichtigen ist erlaubt und oft nötig.",
+      "Richtig: Maß halten und verständigen statt strafen.",
+      "Richtig: Kein Draufsatteln auf Behördenverfahren.",
+      "Falsch: Gerade dort ist das Strafen begrenzt.",
+      "Falsch: Ein Verweiszwang besteht nicht.",
+      "Falsch: Ansprechen ist erlaubt, Strafen ist begrenzt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler fällt außerhalb der Schule durch Vandalismus auf, die Polizei ermittelt bereits. Als Abteilungsvorstand klärst du, was die Schule tun darf und wo sie zurücktreten muss. Die einen fordern eine harte Schulstrafe, die anderen völliges Schweigen. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §48"
+    ]
+  },
+  {
+    "aufloesung": "Ein Ausschluss ist die letzte Stufe mit strengem Verfahren. Nötig sind schwerwiegende Pflichtverletzungen bei erfolglosen milderen Mitteln oder eine dauernde Gefährdung, davor sind Betroffene anzuhören. An allgemein bildenden Pflichtschulen geht er nur bei dauernder Gefährdung und gesicherter Schulpflicht. Zum Nachlesen: SchUG §49 Abs.1.",
+    "hauptquelle": "SchUG §49 Abs.1",
+    "id": "A17-L3-011",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Schwerwiegende Pflichtverletzungen bei erfolglosen milderen Mitteln können zum Ausschluss führen.",
+      "Eine dauernde Gefährdung von Sicherheit, Sittlichkeit oder Eigentum kann zum Ausschluss führen.",
+      "Vor dem Antrag sind dem Schüler und den Eltern Gelegenheiten zur Rechtfertigung und Stellungnahme zu geben.",
+      "Der Schulleiter spricht den Ausschluss selbst mit Handschlag aus.",
+      "Ein mündlicher Rausschmiss am Gang genügt als Verfahren.",
+      "An allgemein bildenden Pflichtschulen ist jeder Ausschluss immer zulässig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst mildere Mittel, dann letzte Stufe.",
+      "Richtig: Der Gefährdungstatbestand steht daneben.",
+      "Richtig: Anhörung gehört zum fairen Verfahren.",
+      "Falsch: Die Behörde entscheidet mit Bescheid, nicht der Gang.",
+      "Falsch: Es braucht Antrag, Ermittlung und Bescheid.",
+      "Falsch: Dort gilt nur der Gefährdungstatbestand bei gesicherter Schulpflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach monatelangen schweren Vorfällen mit erfolglosen Ermahnungen und Elterngesprächen denkt eine Schule über einen Ausschluss nach. Der Schulleiter will den Schüler sofort selbst mündlich von der Schule weisen. Welche Aussagen zum Verfahren stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §49 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Kollektivstrafen sind ausdrücklich verboten, auch wenn der Täter unbekannt bleibt. Zulässig sind Ermittlung, Einzelgespräche und individuelle Maßnahmen gegen den tatsächlichen Täter. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A17-L3-012",
+    "level": "L3",
+    "modul_id": "A17",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Unbekannter Täter heilt das Verbot nicht.",
+      "Richtig erkannt: Kollektivstrafen bleiben verboten, individuell vorgehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Eine Kollegin behauptet, wenn nach einer beschmierten Tafel der Täter nicht gefunden wird, dürfe die ganze Klasse zur Strafe nachsitzen, bis sich jemand meldet.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

@@ -1,1 +1,400 @@
-[]
+[
+  {
+    "aufloesung": "Die Klasse irrt über die Stufe. Anhörung und Vorschläge stehen allen zu, die Mitentscheidung über Erziehungsmittel aber erst ab der neunten Schulstufe. Jüngere bleiben auf Mitwirkung verwiesen. Zum Nachlesen: SchUG §58 Abs.2.",
+    "hauptquelle": "SchUG §58 Abs.2",
+    "id": "A18-L3-001",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Die siebte Klasse entscheidet über Erziehungsmittel gleichberechtigt mit.",
+      "Anhörung und Vorschläge stehen allen zu, Mitentscheidung erst ab der neunten Stufe.",
+      "Unter der neunten Stufe gibt es gar keine Schülerrechte.",
+      "Mitbestimmung heißt, Schüler entscheiden alles allein."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gleichberechtigung gibt es dort noch nicht.",
+      "Richtig: Mitwirkung für alle, Mitbestimmung erst für Ältere.",
+      "Falsch: Auch Jüngere haben Mitwirkungsrechte.",
+      "Falsch: Mitentscheiden ist nicht Alleinentscheiden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Nach einer Rauferei in einer dritten Klasse Mittelschule will der Schulleiter einen Beteiligten in die Parallelklasse versetzen. Die Klassensprecherin der siebten Schulstufe verlangt eine gleichberechtigte Mitentscheidung der Klasse über die Maßnahme.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §47 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "An der Grundschule gibt es keine Schülervertreter. Sie sind an allen Schulen außer der Grundschule der Volksschule und den Grundstufen der Sonderschule zu bestellen. Erst ab den weiterführenden Stufen greift das Vertretersystem. Zum Nachlesen: SchUG §59 Abs.1.",
+    "hauptquelle": "SchUG §59 Abs.1",
+    "id": "A18-L3-002",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Auch jede Grundschulklasse wählt zwingend einen Klassensprecher.",
+      "An der Grundschule der Volksschule sind keine Schülervertreter zu bestellen.",
+      "Nur an höheren Schulen gibt es Vertreter.",
+      "Die Schulleitung entscheidet frei, ob sie Vertreter zulässt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Grundschule ist ausdrücklich ausgenommen.",
+      "Richtig: Ausnahme für Grundschule und Grundstufen beachten.",
+      "Falsch: Auch Mittelschulen und andere haben Vertreter.",
+      "Falsch: Es ist Pflicht, kein Belieben."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "An einer Volksschule streiten Eltern und Lehrer, ob auch die zweite Grundschulklasse schon einen Klassensprecher wählen muss. Die Schulleiterin verneint das unter Hinweis auf die Ausnahme für die Jüngsten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Niemand ist gewählt, die Stichwahl muss her. Gewählt ist nur, wer auf mehr als der Hälfte der Stimmzettel an erster Stelle steht. Sonst treten die beiden Besten mit den meisten Erststimmen zur Stichwahl an. Zum Nachlesen: SchUG §59a Abs.7.",
+    "hauptquelle": "SchUG §59a Abs.7",
+    "id": "A18-L3-003",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Die Kandidatin mit vierzig Prozent ist sofort gewählt.",
+      "Niemand ist gewählt, es braucht eine Stichwahl zwischen den beiden Erstgereihten.",
+      "Das Los entscheidet sofort zwischen allen vier.",
+      "Die Lehrkraft bestimmt den Sprecher."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Relative Mehrheit genügt nicht, absolute ist nötig.",
+      "Richtig: Stichwahl der zwei Besten ist das Verfahren.",
+      "Falsch: Gelost wird an dieser Stelle nicht.",
+      "Falsch: Gewählt wird von den Schülern, nicht bestimmt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einer Klassensprecherwahl mit vier Kandidaten erhält die Beste vierzig Prozent der Erststimmen und erklärt sich zur Siegerin. Die Wahlleitung ist unsicher, ob das für die Wahl genügt. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §59a Abs.8"
+    ]
+  },
+  {
+    "aufloesung": "Die Stunde ist zulässig, aber an Regeln gebunden. Sie ist mit Ort, Teilnehmerzahl und Tagesordnung beim Schulleiter anzuzeigen, während der Unterrichtszeit sind höchstens drei Stunden je Semester erlaubt. Bei Gefährdung von Unterricht oder Sicherheit ist sie zu untersagen. Zum Nachlesen: SchUG §59b Abs.2.",
+    "hauptquelle": "SchUG §59b Abs.2",
+    "id": "A18-L3-004",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Jeder Schüler darf jederzeit Unterricht für Versammlungen ausfallen lassen.",
+      "Nach Anzeige sind während der Unterrichtszeit höchstens drei Stunden je Semester erlaubt.",
+      "Die Schulleitung muss jede Stunde ohne Prüfung genehmigen.",
+      "Versammlungen dürfen überall außerhalb der Schule stattfinden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Recht und Schranken gehören zusammen.",
+      "Richtig: Anzeige, Kontingent und Untersagungsvorbehalt beachten.",
+      "Falsch: Bei Gefährdung ist zu untersagen.",
+      "Falsch: Versammlungsort ist die Schulliegenschaft."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Schulsprecher eines Gymnasiums will eine Klasse während des Unterrichts zu einer Informationsstunde über ein Schulprojekt versammeln. Er meint, er dürfe das unbegrenzt und ohne jede Anzeige. Die Direktion fragt nach Umfang und Grenzen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §59b Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Eltern haben hier keinen Automatismus. An Berufsschulen gehören Elternvertreter nur dann zum Ausschuss, wenn es die Eltern von zwanzig Prozent der Schüler oder der Elternverein für das Schuljahr verlangen. Ohne dieses Verlangen bleibt der Platz leer. Zum Nachlesen: SchUG §64 Abs.3.",
+    "hauptquelle": "SchUG §64 Abs.3",
+    "id": "A18-L3-005",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Eltern sitzen an Berufsschulen immer automatisch im Ausschuss.",
+      "Elternvertreter gehören dazu, wenn es zwanzig Prozent der Eltern oder der Elternverein verlangen.",
+      "Der Schulleiter beruft Eltern nach Belieben ein und aus.",
+      "Schüler haben im Ausschuss grundsätzlich nichts zu suchen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Automatismus gibt es dort nicht.",
+      "Richtig: Quorum oder Vereinsverlangen für ein Schuljahr beachten.",
+      "Falsch: Besetzung folgt Regeln, nicht Belieben.",
+      "Falsch: Schüler sind die zweite Kernbank."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "An einer ganzjährigen Berufsschule mit vierhundert Schülern fordern drei Elternpaare drei feste Elternhitze im Schulgemeinschaftsausschuss ohne jede weitere Voraussetzung. Der Schulleiter verweist auf ein Quorum. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Mittelschule bekommt kein SGA-Verfahren. Klassen- und Schulforen sind für Volksschulen, Mittelschulen und nicht nach Polytechnik geführte Sonderschulen eingerichtet, der Ausschuss für Polytechnische Schulen, Berufsschulen sowie mittlere und höhere Schulen. Jede Schulart nutzt ihr eigenes Gremium. Zum Nachlesen: SchUG §63a Abs.1.",
+    "hauptquelle": "SchUG §63a Abs.1",
+    "id": "A18-L3-006",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Jede Schule kann frei zwischen Forum und Ausschuss wählen.",
+      "Foren gehören zu Volks-, Mittel- und Sonderschulen, der Ausschuss zu Poly, Berufsschule und mittleren oder höheren Schulen.",
+      "Auch die Mittelschule bildet zwingend einen Schulgemeinschaftsausschuss.",
+      "Das Gymnasium bildet ein Klassenforum als Hauptgremium."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Schulart weist das Gremium zu.",
+      "Richtig: Genau so teilt das Gesetz die Gremien zu.",
+      "Falsch: Die Mittelschule nutzt das Forum.",
+      "Falsch: Das Gymnasium nutzt den Ausschuss."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Eine Mittelschule will nach dem Vorbild des Nachbargymnasiums einen Schulgemeinschaftsausschuss mit je drei Lehrern, Schülern und Eltern gründen. Der Elternverein meint, das stehe jeder Schule frei. Die Behörde verweist auf die Schulart. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §64 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Der Katalog ist dreigeteilt. Anhörung, Information, Vorschläge, Konferenzteilnahme, Unterrichtsgestaltung, Unterrichtsmittelbeteiligung und Anhörung im Ausschlussverfahren sind Mitwirkung. Mitentscheidung gibt es bei Erziehungsmitteln und Unterrichtsmitteln, die sensiblen Punkte erst ab der neunten Stufe. Zum Nachlesen: SchUG §58 Abs.2.",
+    "hauptquelle": "SchUG §58 Abs.2",
+    "id": "A18-L3-007",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Recht auf Anhörung und auf Information in allgemeinen Schülerangelegenheiten.",
+      "Recht auf Vorschläge, auf Mitsprache beim Unterricht und auf Beteiligung bei Unterrichtsmitteln.",
+      "Mitentscheidung bei Erziehungsmitteln und bei Unterrichtsmitteln, Sensibles erst ab der neunten Stufe.",
+      "Recht auf alleinige Notenvergabe durch die Schüler.",
+      "Recht auf Teilnahme an dienstrechtlichen Beratungen der Lehrer.",
+      "Recht auf Abwahl der Schulleitung durch die Schüler."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Klassische Mitwirkungsrechte gegenüber Lehrern und Leitung.",
+      "Richtig: Vorschläge und Mitsprache gehören dazu.",
+      "Richtig: Das sind die beiden Mitbestimmungen mit Stufengrenze.",
+      "Falsch: Noten bleiben Lehrersache.",
+      "Falsch: Dienstrecht ist ausdrücklich ausgenommen.",
+      "Falsch: Ein solches Recht existiert nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Als Klassenvorstand einer Oberstufenklasse listest du die Mitwirkungs- und Mitbestimmungsrechte der Schülervertretung gegenüber Lehrern, Schulleiter und Behörden auf. Die Schüler fordern zusätzlich Notenmitbestimmung und Abwahlrechte. Was stimmt?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Wählen dürfen viele, wählbar ist man gestaffelt. Gewählt wird gleich, unmittelbar, geheim und persönlich, die Klasse wählt den Sprecher, die Schule den Schulsprecher. Wählbar zum Klassensprecher ist jeder Schüler der Klasse ab der fünften Stufe, zum Schulsprecher an höheren Schulen nur die Oberstufe. Zum Nachlesen: SchUG §59a Abs.1.",
+    "hauptquelle": "SchUG §59a Abs.1",
+    "id": "A18-L3-008",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Gewählt wird gleich, unmittelbar, geheim und persönlich.",
+      "Den Klassensprecher wählt die Klasse, den Schulsprecher die Schule, an höheren Schulen nur die Oberstufe.",
+      "Wählbar zum Klassensprecher ab der fünften Stufe, zum Schulsprecher an höheren Schulen nur die Oberstufe.",
+      "Auch Grundschüler wählen wirksam einen Klassensprecher.",
+      "Der Schulleiter bestimmt die Vertreter ohne Wahl.",
+      "Gewählt wird offen per Zuruf statt geheim."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese vier Grundsätze sichern die Wahl.",
+      "Richtig: Wahlkörper je nach Vertretertyp.",
+      "Richtig: Stufengrenzen bei der Wählbarkeit beachten.",
+      "Falsch: Grundschule hat keine Vertreterwahlen.",
+      "Falsch: Die Wahl erfolgt durch die Schüler.",
+      "Falsch: Geheim statt Zuruf ist Pflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zu Schulbeginn organisierst du die Vertreterwahlen. Ein Viertklässler will Klassensprecher werden, ein Unterstufenschüler Schulsprecher an einem Gymnasium. Das Kollegium fragt nach Grundsätzen, Wahlkörpern und Wählbarkeit. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §59a Abs.2",
+      "SchUG §59a Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Abwahl ist möglich, aber anspruchsvoll. Gewählte bedürfen keiner Bestätigung, Stellvertreter werden gleichzeitig gewählt und rücken nach Punkten nach. Die Abwahl braucht einen Drittel-Antrag und die unbedingte Mehrheit der Wahlberechtigten. Zum Nachlesen: SchUG §59a Abs.10.",
+    "hauptquelle": "SchUG §59a Abs.10",
+    "id": "A18-L3-009",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Gewählte bedürfen keiner Bestätigung, Stellvertreter werden gleichzeitig gewählt und vertreten bei Verhinderung.",
+      "Stellvertreter sind die Nächstgereihten nach Wahlpunkten im ersten Wahlgang.",
+      "Die Abwahl braucht einen Drittel-Antrag und die unbedingte Mehrheit der Wahlberechtigten.",
+      "Stellvertreter gelten nur mit Behördenbestätigung.",
+      "Der Schulleiter setzt Vertreter jederzeit ohne Verfahren ab.",
+      "Einmal gewählt bleibt man lebenslang im Amt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Keine Bestätigung, Ersatz von Anfang an gesichert.",
+      "Richtig: Punkte entscheiden über die Reihenfolge.",
+      "Richtig: Antrags- und Mehrheitsquorum beachten.",
+      "Falsch: Bestätigung ist gerade entbehrlich.",
+      "Falsch: Absetzung ohne Verfahren gibt es nicht.",
+      "Falsch: Zeitablauf, Ausscheiden und Rücktritt beenden sie."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Klasse ist mit ihrem Sprecher unzufrieden. Einige wollen ihn per Zuruf absetzen, andere sammeln ein Drittel für einen Antrag. Die Schulleitung fragt nach Stellvertretung, Bestätigung und Quoren. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §59 Abs.3",
+      "SchUG §59a Abs.9"
+    ]
+  },
+  {
+    "aufloesung": "Eltern wirken mit, prüfen aber nicht mit. Anhörung, Information, Vorschläge, Stellungnahme zu Unterrichtsmitteln und Anhörung im Ausschlussverfahren stehen ihnen zu, dazu die Mitentscheidung über Unterrichtsmittel. Leistungsbeurteilung Einzelner, Dienstrecht und Konferenzen an Forumsschulen bleiben ausgenommen. Zum Nachlesen: SchUG §61 Abs.2.",
+    "hauptquelle": "SchUG §61 Abs.2",
+    "id": "A18-L3-010",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Anhörung, Information sowie Vorschläge und Stellungnahmen.",
+      "Stellungnahme zu Unterrichtsmitteln und Anhörung im Ausschlussverfahren.",
+      "Mitentscheidung bei der Festlegung von Unterrichtsmitteln.",
+      "Mitbeurteilung einzelner Schüler in der Konferenz.",
+      "Konferenzteilnahme auch an Schulen mit Klassenforen.",
+      "Mitsprache in dienstrechtlichen Angelegenheiten der Lehrer."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kern der elterlichen Mitwirkung.",
+      "Richtig: Stellungnahme und Ausschussgehör gehören dazu.",
+      "Richtig: Das ist das elterliche Mitbestimmungsrecht.",
+      "Falsch: Einzelbeurteilung bleibt ausgenommen.",
+      "Falsch: An Forumsschulen besteht es gerade nicht.",
+      "Falsch: Dienstrecht ist ausdrücklich ausgenommen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Klassenelternvertreter einer vierten Klasse Gymnasium verlangt Teilnahme an der Notenkonferenz seines Sohnes, Mitsprache bei einer Dienstbesprechung und ein Konferenzstimmrecht wie an einer Volksschule. Die Direktion bremst. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Ausschuss entscheidet nur formgerecht. Leiter plus je drei Lehrer, Schüler und Eltern bilden ihn, der Leiter hat keine beschließende Stimme, Enthaltung und Übertragung sind unzulässig. Nötig sind zwei Drittel mit je einem Mitglied jeder Gruppe und die unbedingte Mehrheit, bei Gleichstand entscheidet der Leiter. Zum Nachlesen: SchUG §64 Abs.11.",
+    "hauptquelle": "SchUG §64 Abs.11",
+    "id": "A18-L3-011",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Dem Ausschuss gehören der Leiter und je drei Lehrer-, Schüler- und Elternvertreter an.",
+      "Der Leiter hat keine beschließende Stimme, Enthaltung und Übertragung sind unzulässig.",
+      "Beschlussfähig bei zwei Dritteln mit je einem Mitglied jeder Gruppe, Beschluss mit unbedingter Mehrheit.",
+      "Mindestens zwei Sitzungen im Jahr mit Tagesordnung zwei Wochen vorher.",
+      "Eine Sitzung alle fünf Jahre genügt.",
+      "Rechtswidrige Beschlüsse führt der Leiter einfach kommentarlos durch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Drei Bänke plus Vorsitz ohne Stimmrecht.",
+      "Richtig: Klare Stimmregeln ohne Enthaltung.",
+      "Richtig: Anwesenheit plus Mehrheit, Stich beim Leiter.",
+      "Richtig: Mindestsitzungen und Ladungsfrist beachten.",
+      "Falsch: Mindestens zwei Sitzungen sind Pflicht.",
+      "Falsch: Aussetzen und Weisung einholen ist geboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer HAK soll der Ausschuss über Hausordnung und mehrtägige Schulveranstaltung entscheiden. Der Leiter will mitstimmen, zwei Mitglieder wollen sich enthalten und ein Mitglied seine Stimme übertragen. Das Gremium fragt nach Besetzung und Beschlussregeln. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §64 Abs.3",
+      "SchUG §64 Abs.8",
+      "SchUG §64 Abs.10",
+      "SchUG §64 Abs.16"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Der Schulleiter führt den Vorsitz, hat aber keine beschließende Stimme. Bei Stimmengleichheit entscheidet er nur in Entscheidungsfällen, in Beratungsfragen gilt der Antrag als abgelehnt. Zum Nachlesen: SchUG §64 Abs.10.",
+    "hauptquelle": "SchUG §64 Abs.10",
+    "id": "A18-L3-012",
+    "level": "L3",
+    "modul_id": "A18",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Vorsitz wird mit Stimmrecht verwechselt.",
+      "Richtig erkannt: Vorsitz ja, beschließende Stimme nein."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Direktion: Ein Kollege behauptet, der Schulleiter habe im Schulgemeinschaftsausschuss eine ganz normale beschließende Stimme wie jede Lehrer-, Schüler- und Elternvertretung.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "SchUG §64 Abs.11"
+    ]
+  }
+]
