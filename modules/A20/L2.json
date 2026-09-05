@@ -1,1 +1,513 @@
-[]
+[
+  {
+    "aufloesung": "Ankündigung, klarer Stoff und passende Aufgaben machen die Schularbeit fair, Geheimniskrämerei und ungeprüfter Stoff tun das Gegenteil. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L2-001",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Den Termin rechtzeitig vorher ankündigen, damit sich alle vorbereiten können.",
+      "Den Stoffumfang klar eingrenzen und nur durchgenommenen Stoff prüfen.",
+      "Die Aufgaben so wählen, dass sie zum Stand des Unterrichts passen.",
+      "Die Aufgaben erst in der Pause davor ausdenken, Planung ist überflüssig.",
+      "Den Termin geheim halten, damit niemand lernen kann.",
+      "Absichtlich Stoff prüfen, der noch nicht unterrichtet wurde, als Herausforderung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rechtzeitige Ankündigung sichert faire Vorbereitung für alle.",
+      "Richtig: Klarer Stoffumfang aus dem Unterricht schafft Verlässlichkeit.",
+      "Richtig: Passende Aufgaben spiegeln den Unterrichtsstand wider.",
+      "Falsch: Husch-Pfusch-Planung gefährdet die Qualität der Aufgaben.",
+      "Falsch: Geheimtermine verhindern jede faire Vorbereitung.",
+      "Falsch: Ungeprüfter Stoff als Stolperfalle ist unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Frau Lehmann bereitet die erste Deutschschularbeit des Jahres in der zweiten Klasse vor und geht im Kopf ihre Vorbereitungsliste durch, was alles davor erledigt sein muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Ruhige Aufsicht, klare Zeit und sachliche Protokolle sichern faire Bedingungen, Bevorzugung oder Weggehen zerstören sie. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L2-002",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Für ruhige Aufsicht sorgen, damit alle ungestört arbeiten können.",
+      "Die Arbeitszeit klar ansagen und für alle gleich einhalten.",
+      "Bei Störungen oder Auffälligkeiten den Vorfall sachlich festhalten.",
+      "Während der Arbeit einzelnen Kindern die Lösungen zuflüstern.",
+      "Die Klasse während der Schularbeit unbeaufsichtigt lassen.",
+      "Die Arbeitszeit je nach Sympathie pro Kind unterschiedlich bemessen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ruhe und Aufsicht geben allen die gleichen Chancen.",
+      "Richtig: Klare und gleiche Zeitvorgaben sind die Basis jeder Fairness.",
+      "Richtig: Sachliche Aufzeichnungen klären spätere Fragen ohne Streit.",
+      "Falsch: Zugeflüsterte Lösungen verfälschen die Leistung des Kindes.",
+      "Falsch: Ohne Aufsicht ist keine ordnungsgemäße Durchführung möglich.",
+      "Falsch: Unterschiedliche Zeiten je nach Sympathie verletzen die Gleichbehandlung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Herr Maier beaufsichtigt eine Mathematikschularbeit in der dritten Klasse und achtet darauf, dass die Durchführung für alle Kinder fair und störungsfrei läuft.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Einheitlicher Maßstab, gekennzeichnete Fehler und zeitnahe Noten machen die Korrektur nachvollziehbar, Lieblingspolitik und Würfeln nicht. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L2-003",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Alle Arbeiten nach demselben Maßstab korrigieren.",
+      "Fehler kennzeichnen, damit die Benotung nachvollziehbar bleibt.",
+      "Die Noten zeitnah festsetzen und dokumentieren.",
+      "Die Hefte monatelang unkorrigiert liegen lassen.",
+      "Bei Lieblingsschülern großzügiger werten als beim Rest der Klasse.",
+      "Die Noten auswürfeln, wenn die Korrektur zu lange dauert."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein Maßstab für alle sichert die Gleichbehandlung.",
+      "Richtig: Markierte Fehler erklären die Note ohne Rätselraten.",
+      "Richtig: Zeitnahe Noten geben Kindern und Eltern rasch Orientierung.",
+      "Falsch: Monatelanges Liegenlassen verzögert jede Rückmeldung.",
+      "Falsch: Großzügigkeit für Auserwählte verletzt die Fairness.",
+      "Falsch: Auswürfeln ersetzt keine leistungsgerechte Beurteilung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Englischschularbeit sitzt Frau Novak über dem Stapel Hefte und arbeitet ihre Korrekturliste ab, bevor sie die Noten einträgt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Besprechung, Einsicht und Erklärung machen die Note verständlich, kommentarloses Austeilen und Auskunftsverweigerung nicht. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L2-004",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Die Arbeiten mit der Klasse besprechen und häufige Fehler gemeinsam aufarbeiten.",
+      "Den Eltern auf Wunsch Einsicht in die korrigierte Arbeit geben.",
+      "Jedem Kind erklären, wie seine Note zustande gekommen ist.",
+      "Die Hefte kommentarlos austeilen und sofort zum nächsten Thema übergehen.",
+      "Den Eltern jede Einsicht in die Arbeit grundsätzlich verweigern.",
+      "Die Noten nur über Mitschüler ausrichten lassen statt selbst Auskunft zu geben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gemeinsames Aufarbeiten verwandelt Fehler in Lernchancen.",
+      "Richtig: Einsicht für Eltern schafft Vertrauen in die Benotung.",
+      "Richtig: Eine kurze Erklärung macht jede Note nachvollziehbar.",
+      "Falsch: Kommentarloses Austeilen verschenkt die Lernwirkung.",
+      "Falsch: Grundsätzliche Verweigerung blockiert berechtigte Nachfragen.",
+      "Falsch: Auskunft über Dritte ersetzt das klärende Gespräch nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Herr Berger gibt die korrigierten Deutschschularbeiten zurück und nutzt die Stunde, damit die Klasse aus ihren Fehlern lernt und die Eltern informiert sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Sichern, nicht benoten und in Ruhe besprechen ist der richtige Dreischritt, Wegschauen oder Sofortverweis sind es nicht. Zum Nachlesen: SchUG §18 Abs.4.",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "id": "A20-L2-005",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Den Spickzettel sicherstellen und den Vorfall sachlich festhalten.",
+      "Die erschlichene Leistung nicht als echte Leistung benoten.",
+      "Den Vorfall mit dem Schüler und den Eltern in Ruhe besprechen.",
+      "So tun, als hätte sie nichts gesehen, um Ärger zu vermeiden.",
+      "Den Schüler sofort ohne jedes Gespräch von der Schule verweisen.",
+      "Die Arbeit des Schülers trotz Täuschung normal mit Sehr gut benoten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sichern und Festhalten schafft eine sachliche Grundlage.",
+      "Richtig: Erschlichenes darf keine echte Note tragen.",
+      "Richtig: Das ruhige Gespräch klärt Hintergründe und Folgen.",
+      "Falsch: Wegschauen duldet die Täuschung und ist unfair gegenüber Ehrlichen.",
+      "Falsch: Ein Sofortverweis ohne Gespräch überspringt jedes faire Verfahren.",
+      "Falsch: Eine gute Note für Geschummeltes belohnt die Täuschung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei der Mathematikschularbeit entdeckt Frau Sykora einen Spickzettel unter Tims Heft und muss sofort richtig reagieren, ohne die Prüfung der anderen zu stören.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Erschlichenes wird nicht beurteilt und sachlich dokumentiert, Punktabzug oder Pauschalnoten heilen die Täuschung nicht. Zum Nachlesen: SchUG §18 Abs.4.",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "id": "A20-L2-006",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Eine abgeschriebene Arbeit gilt als vorgetäuschte Leistung und wird nicht beurteilt.",
+      "Auch Teilleistungen, die erschlichen wurden, dürfen nicht als echte Leistung zählen.",
+      "Nach einer Täuschung braucht es eine eigene ehrliche Leistungsfeststellung als Grundlage.",
+      "Die Täuschung muss sachlich dokumentiert werden, statt sie unter den Tisch fallen zu lassen.",
+      "Ein kleiner Punktabzug heilt die Täuschung und macht die Arbeit benotbar.",
+      "Bei jeder Täuschung gibt es automatisch und ohne Prüfung ein Genügend für alle."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgeschriebenes ist vorgetäuscht und damit unbeurteilbar.",
+      "Richtig: Auch erschlichene Teile tragen keine ehrliche Note.",
+      "Richtig: Erst eine ehrliche Feststellung liefert eine tragfähige Grundlage.",
+      "Richtig: Dokumentation statt Vertuschung schützt alle Beteiligten.",
+      "Falsch: Abzug ändert nichts daran, dass die Leistung erschlichen ist.",
+      "Falsch: Pauschalnoten ohne eigene Feststellung gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Lehrerzimmer diskutieren Kolleginnen, welche Sätze über Täuschungen bei Schularbeiten und Tests wirklich stimmen, und sortieren dabei Irrtümer aus.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Kranke bekommen einen Nachtermin und klare Stoffangaben, Strafnoten oder Verweigerung des Nachschreibens sind ausgeschlossen. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L2-007",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Für die kranken Kinder einen Nachtermin ansetzen.",
+      "Das Fehlen als entschuldigt werten und nicht als negative Leistung zählen.",
+      "Den versäumten Stoff zum Nachlernen klar benennen.",
+      "Den kranken Kindern automatisch ein Nicht genügend eintragen.",
+      "Das Nachschreiben grundsätzlich verweigern.",
+      "Verlangen, dass die Kranken ohne jede Vorbereitung sofort mitschreiben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein Nachtermin holt die versäumte Feststellung fair nach.",
+      "Richtig: Krankheit ist ein Grund zum Fehlen und keine schlechte Leistung.",
+      "Richtig: Klare Stoffangaben ermöglichen gezieltes Nachlernen.",
+      "Falsch: Eine Strafnote für Kranke wäre eine ungerechte Beurteilung.",
+      "Falsch: Grundsätzliche Verweigerung nimmt Kranken jede Chance.",
+      "Falsch: Nachschreiben ohne Vorbereitung verzerrt das wahre Können."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am Tag der Englischschularbeit fehlen drei Kinder mit ärztlicher Bestätigung, die Lehrerin plant das ordnungsgemäße Nachschreiben für die Kranken.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Schwänzen bringt keinen Wunschtermin und keine Folgenlosigkeit, wie die fehlende Leistung ersetzt wird, entscheidet die Lehrerin. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L2-008",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Ein unentschuldigtes Versäumnis darf nicht wie eine Krankheit mit einem Extratermin belohnt werden.",
+      "Der Schüler muss mit den Folgen seines unentschuldigten Fehlens rechnen.",
+      "Die Lehrerin entscheidet, wie die fehlende Leistung ersetzt oder gewertet wird.",
+      "Wer schwänzt, bekommt automatisch einen Wunschtermin nach eigener Wahl.",
+      "Unentschuldigtes Fehlen bleibt für die Beurteilung völlig ohne Folgen.",
+      "Die ganze Klasse muss die Schularbeit wegen eines einzelnen Schwänzers wiederholen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schwänzen und Kranksein werden zu Recht unterschiedlich behandelt.",
+      "Richtig: Unentschuldigtes Fehlen trägt der Schüler selbst zu verantworten.",
+      "Richtig: Die Entscheidung über Ersatz oder Wertung liegt bei der Lehrerin.",
+      "Falsch: Einen Wunschtermin als Belohnung fürs Schwänzen gibt es nicht.",
+      "Falsch: Folgenloses Schwänzen wäre unfair gegenüber allen Anwesenden.",
+      "Falsch: Die Klasse wiederholt nicht wegen eines einzelnen Schwänzers."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Jonas schwänzt am Tag der Deutschschularbeit ohne jede Entschuldigung und verlangt danach einen bequemen Extratermin nur für sich allein.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Sammeln, schützen und fristgerecht aufheben sichert Einsicht und Nachweise, Entsorgen und Aushängen verletzen diese Pflicht. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L2-009",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Korrigierte Arbeiten gesammelt in der Schule verwahren.",
+      "Sie so aufbewahren, dass Unbefugte keinen Zugriff darauf haben.",
+      "Sie bis zum Ablauf der vorgesehenen Frist aufheben und nicht vorher wegwerfen.",
+      "Die Hefte sofort nach der Rückgabe im Altpapier entsorgen.",
+      "Arbeiten samt Noten offen im Schulgang aushängen.",
+      "Die Verwahrung dem Zufall überlassen und Hefte verkommen lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zentrale Verwahrung hält alle Arbeiten beisammen.",
+      "Richtig: Schutz vor fremden Blicken wahrt den Datenschutz.",
+      "Richtig: Erst nach Fristablauf darf überhaupt entsorgt werden.",
+      "Falsch: Sofortiges Entsorgen vernichtet wichtige Nachweise.",
+      "Falsch: Öffentliches Aushängen verletzt die Privatsphäre der Kinder.",
+      "Falsch: Zufälliges Verkommenlassen ist keine ordnungsgemäße Verwahrung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Direktor prüft zu Schuljahresende, ob die schriftlichen Schularbeiten aller Klassen ordnungsgemäß verwahrt sind, und erklärt dem Team die Aufbewahrungsregeln.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Einsicht und Erklärung in der Schule schaffen Vertrauen in die Note, Verweigerung und Ausflüchte tun das Gegenteil. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L2-010",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Dem Kind und den Eltern Einsicht in die korrigierte Arbeit gewähren.",
+      "Auf Wunsch erklären, wie die Note zustande gekommen ist.",
+      "Die Arbeit so lange verwahren, bis solche Einsichtswünsche geklärt sind.",
+      "Jede Einsicht in die Arbeit grundsätzlich verweigern.",
+      "Die Arbeit vor der Einsicht heimlich umschreiben.",
+      "Die Eltern an Mitschüler verweisen statt selbst Auskunft zu geben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einsicht macht die Benotung für Familien überprüfbar.",
+      "Richtig: Eine kurze Begründung nimmt der Note das Geheimnisvolle.",
+      "Richtig: Aufbewahrung bis zur Klärung sichert das Einsichtsrecht.",
+      "Falsch: Grundsätzliche Verweigerung blockiert berechtigte Nachfragen.",
+      "Falsch: Heimliches Umschreiben verfälscht die erbrachte Leistung.",
+      "Falsch: Mitschüler ersetzen nicht die Auskunft der Lehrerin."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Hofer bittet darum, die korrigierte Mathematikschularbeit ihrer Tochter sehen zu dürfen, weil sie die Benotung nicht nachvollziehen kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Feststellen, einmal mit neuen Aufgaben wiederholen und die bessere Leistung werten, das ist der Pflichtablauf für die ganze Klasse. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "id": "A20-L2-011",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Feststellen, dass mehr als die Hälfte negativ ist und die Wiederholungspflicht greift.",
+      "Die Wiederholung genau einmal mit neuer Aufgabenstellung ansetzen.",
+      "Für jedes Kind die bessere der beiden Leistungen als Grundlage nehmen.",
+      "Dieselbe Arbeit mit denselben Aufgaben einfach noch einmal schreiben lassen.",
+      "Nur die durchgefallenen Kinder wiederholen lassen und den Rest ausschließen.",
+      "Bei der Wiederholung automatisch die zweite Note zählen, auch wenn sie schlechter ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Zählung der negativen Beurteilungen löst die Pflicht aus.",
+      "Richtig: Einmalig und mit neuen Aufgaben bleibt die Wiederholung fair.",
+      "Richtig: Der Günstigkeitsvergleich schützt jedes einzelne Kind.",
+      "Falsch: Dieselben Aufgaben noch einmal stumpf zu wiederholen ist ausgeschlossen.",
+      "Falsch: Die Wiederholung gilt für die ganze Klasse und nicht nur für Einzelne.",
+      "Falsch: Automatisch zählt die bessere Leistung und nicht die zweite."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer Klasse mit 30 Kindern fallen bei der Deutschschularbeit 17 durch, das Team prüft gemeinsam, was bei einer Pflichtwiederholung alles zu beachten ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Offene Kriterien, ein Maßstab für alle und der Lehrplan als Richtschnur machen Noten gerecht, Geheimhaltung und Willkür nicht. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L2-012",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Vorher klar sagen, was und wie gewertet wird.",
+      "Alle Kinder nach demselben Maßstab beurteilen.",
+      "Den Lehrplan und den Unterrichtsstand als Maßstab nehmen.",
+      "Die Kriterien bis nach der Notengebung geheim halten.",
+      "Je nach Tagesform einmal streng und einmal milde werten.",
+      "Einzelnen Kindern vorab die Aufgaben verraten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Offene Kriterien geben allen eine ehrliche Vorbereitungschance.",
+      "Richtig: Ein Maßstab für alle sichert die Gleichbehandlung.",
+      "Richtig: Lehrplan und Unterrichtsstand sind der verbindliche Rahmen.",
+      "Falsch: Geheime Kriterien machen jede Note zum Ratespiel.",
+      "Falsch: Tagesform als Maßstab wäre reine Willkür.",
+      "Falsch: Verraten von Aufgaben bevorzugt Einzelne auf unfaire Weise."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor der ersten Schularbeit des Jahres erklärt Herr König seiner Klasse, nach welchen Spielregeln benotet wird, damit niemand im Dunkeln tappt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Messen am erreichbaren Stand und Verzicht auf gefährdende Anforderungen gleichen die Behinderung aus, Ignorieren oder Durchfallenlassen nicht. Zum Nachlesen: SchUG §18 Abs.6.",
+    "hauptquelle": "SchUG §18 Abs.6",
+    "id": "A20-L2-013",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Die Leistung am erreichbaren Stand des Unterrichtserfolgs messen.",
+      "Keine Leistungsfeststellung verlangen, die ihn gesundheitlich gefährden würde.",
+      "Die Bildungsaufgabe des Faches als Grenze beachten, sie muss grundsätzlich erreicht werden.",
+      "Seine Behinderung ignorieren und stur dieselbe Leistung wie von allen verlangen.",
+      "Ihn ohne jede Prüfung automatisch negativ beurteilen.",
+      "Ihm einfach die Note der Banknachbarin übertragen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der erreichbare Stand ist der faire Vergleichsmaßstab.",
+      "Richtig: Gesundheitsschutz geht jeder Leistungsanforderung vor.",
+      "Richtig: Die Bildungsaufgabe bleibt die unverzichtbare Untergrenze.",
+      "Falsch: Ignorieren der Behinderung verweigert den zustehenden Ausgleich.",
+      "Falsch: Eine Note ohne jede Feststellung entbehrt jeder Grundlage.",
+      "Falsch: Fremde Noten zu übertragen verfälscht seine wahre Leistung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lukas hat eine körperliche Behinderung an der Hand und kann bei der schriftlichen Schularbeit nicht so schnell schreiben wie die anderen, das Team sucht eine faire Lösung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Rücksicht auf die Sprache plus Förderung hilft Emir weiter, volle Muttersprachlerleistung sofort zu verlangen oder ihn auszuschließen nicht. Zum Nachlesen: SchUG §18 Abs.9.",
+    "hauptquelle": "SchUG §18 Abs.9",
+    "id": "A20-L2-014",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Seine Sprachschwierigkeiten bei der Beurteilung berücksichtigen.",
+      "Ihm Förderung und zusätzliche Unterstützung beim Deutschlernen anbieten.",
+      "Ihm Zeit und geeignete Hilfen geben, sein Deutsch Schritt für Schritt aufzubauen.",
+      "So tun, als gäbe es keine Sprachhürde, und volle Muttersprachlerleistung verlangen.",
+      "Ihn wegen der Sprache vom Unterricht ausschließen.",
+      "Seine Arbeit ungelesen wegwerfen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rücksicht auf die Sprache macht die Note erst gerecht.",
+      "Richtig: Förderung baut die Hürde ab statt das Kind zu bestrafen.",
+      "Richtig: Zeit und Hilfen lassen seine Leistung erst sichtbar werden.",
+      "Falsch: Volle Muttersprachlerleistung sofort zu verlangen überfordert ihn.",
+      "Falsch: Ausschluss vom Unterricht nimmt ihm jede Lernchance.",
+      "Falsch: Ungelesenes Wegwerfen verweigert jede Beurteilung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Emir ist erst seit wenigen Monaten in Österreich und folgt dem Deutschunterricht noch schwer, bei der ersten Schularbeit berücksichtigt die Lehrerin seine Lage.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Absprechen, rechtzeitig ansagen und Tests als Ergänzung einplanen hält die Belastung verkraftbar, Alles-in-eine-Woche und Zufallsplanung nicht. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L2-015",
+    "level": "L2",
+    "modul_id": "A20",
+    "optionen": [
+      "Schularbeitstermine im Team abstimmen und Häufungen vermeiden.",
+      "Kurze Überprüfungen als kleine Bausteine neben den Schularbeiten einplanen.",
+      "Die Termine den Kindern rechtzeitig bekannt geben.",
+      "Alle Schularbeiten des Semesters in eine einzige Woche pressen.",
+      "Tests als Ersatz für vorgeschriebene Schularbeiten ausgeben.",
+      "Die Planung dem Zufall überlassen und Termine nie absprechen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgestimmte Termine verhindern unfaire Häufungen.",
+      "Richtig: Kleine Tests ergänzen die großen Arbeiten sinnvoll.",
+      "Richtig: Rechtzeitige Termine geben allen Planungssicherheit.",
+      "Falsch: Eine Presswoche überfordert die Kinder und verzerrt Ergebnisse.",
+      "Falsch: Tests können vorgeschriebene Schularbeiten nicht ersetzen.",
+      "Falsch: Zufallsplanung ohne Absprache erzeugt Chaos für alle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Das Klassenteam plant das Semester und stimmt Schularbeiten und kurze Tests so ab, dass die Belastung für die Kinder verkraftbar bleibt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

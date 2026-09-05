@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "aufloesung": "Die zwei Deutsch-Schularbeiten sind planmäßig vorgesehen, die Lehrerin legt nur die Termine fest. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L1-001",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Jede Lehrerin entscheidet frei nach Lust und Laune, wie viele Schularbeiten sie gibt.",
+      "Zahl und Art der Schularbeiten sind für jedes Fach im Lehrplan festgelegt, die Termine plant die Lehrerin im Rahmen dieser Vorgaben.",
+      "Es gibt genau eine Schularbeit pro Jahr, alles andere ist verboten.",
+      "Die Klasse stimmt ab, wie viele Schularbeiten sie schreiben will."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Zahl der Schularbeiten ist vorgegeben und keine freie Auswahl.",
+      "Richtig: Lehrplan gibt den Rahmen vor, Termine plant die Lehrerin darin.",
+      "Falsch: Pro Fach und Semester sind mehrere Schularbeiten vorgesehen.",
+      "Falsch: Über die Zahl der Schularbeiten wird nicht abgestimmt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Berger wundert sich, dass es in Deutsch in diesem Semester zwei große Schularbeiten gibt, in einem anderen Fach aber nur eine, und fragt, wer das festlegt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die kurzfristige Ansage reicht nicht, die Klasse braucht rechtzeitig vorher Klarheit über den Termin. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L1-002",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Schularbeiten dürfen immer völlig überraschend ohne jede Ankündigung geschrieben werden.",
+      "Schularbeiten sind den Kindern rechtzeitig im Vorhinein anzukündigen, damit sie sich vorbereiten können.",
+      "Es genügt, wenn die Lehrerin den Termin nur insgeheim für sich notiert.",
+      "Ankündigungen sind nur bei mündlichen Prüfungen nötig, nie bei schriftlichen Arbeiten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Überraschungs-Schularbeiten ohne Ankündigung sind nicht vorgesehen.",
+      "Richtig: Rechtzeitige Ankündigung gibt allen eine faire Vorbereitung.",
+      "Falsch: Ein geheimer Termin hilft den Kindern bei der Vorbereitung nicht.",
+      "Falsch: Gerade Schularbeiten brauchen eine rechtzeitige Ansage."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Frau Gruber erfährt erst am Abend vorher, dass ihre Tochter morgen eine Mathematikschularbeit schreibt, und beschwert sich, dass niemand rechtzeitig Bescheid gegeben hat.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Zwei Schularbeiten an einem Vormittag überfordern die Kinder, deshalb muss ein Termin verschoben werden. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L1-003",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Das ist kein Problem, an einem Tag dürfen beliebig viele Schularbeiten stattfinden.",
+      "Schularbeiten sind gleichmäßig über das Semester zu verteilen, sodass die Kinder nicht überfordert werden, daher muss ein Termin verschoben werden.",
+      "Die Kinder müssen beide Arbeiten schreiben und zusätzlich am selben Tag einen Test.",
+      "Wer protestiert, bekommt automatisch eine schlechtere Note."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Häufungen an einem Tag sind zu vermeiden.",
+      "Richtig: Gleichmäßige Verteilung schützt die Kinder vor Überforderung.",
+      "Falsch: Noch mehr Belastung am selben Tag löst das Problem nicht.",
+      "Falsch: Proteste der Eltern dürfen die Benotung nicht beeinflussen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In der 4b stehen am Dienstag eine Deutschschularbeit und eine Englischschularbeit am selben Vormittag an, mehrere Eltern protestieren gegen die Doppelbelastung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Zehn Minuten reichen für eine echte Schularbeit nicht, sie braucht eine zusammenhängende Arbeitszeit von mindestens einer Unterrichtseinheit. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L1-004",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Zehn Minuten genügen völlig, die Dauer spielt keine Rolle.",
+      "Eine Schularbeit braucht eine angemessene zusammenhängende Arbeitszeit von mindestens einer Unterrichtseinheit, zehn Minuten reichen dafür nicht.",
+      "Die Dauer wird pro Kind ausgelost, damit es spannend bleibt.",
+      "Schularbeiten müssen immer den ganzen Schultag dauern."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine Schularbeit braucht ausreichend zusammenhängende Zeit.",
+      "Richtig: Mindestens eine Unterrichtseinheit gibt allen eine faire Chance.",
+      "Falsch: Die Arbeitszeit ist für alle Kinder gleich.",
+      "Falsch: Einen ganzen Tag zu schreiben ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer will die Deutschschularbeit in zehn Minuten zwischen Tür und Angel schreiben lassen, die Klassensprecherin meint, das sei zu kurz für eine echte Schularbeit.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Noch nicht unterrichteter Stoff darf nicht geprüft werden, weil Maßstab der erreichte Stand des Unterrichts ist. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L1-005",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Das ist in Ordnung, geprüft werden darf auch Stoff, der nie unterrichtet wurde.",
+      "Geprüft werden darf nur, was im Unterricht erarbeitet wurde, denn Maßstab sind die Forderungen des Lehrplans unter Bedachtnahme auf den Stand des Unterrichts.",
+      "Die Lehrerin darf raten, was die Kinder vielleicht zu Hause gelernt haben.",
+      "Stoff aus höheren Klassen muss immer dabei sein, sonst ist die Arbeit zu leicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ungeprüfter und unerarbeiteter Stoff ist keine faire Grundlage.",
+      "Richtig: Nur erarbeiteter Stoff spiegelt den Unterrichtsstand wider.",
+      "Falsch: Vermutungen über Zuhause Gelerntes ersetzen den Unterricht nicht.",
+      "Falsch: Höherer Stoff gehört nicht in diese Schularbeit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei der Englischschularbeit kommen Vokabel aus einem Kapitel dran, das die Klasse noch gar nicht durchgenommen hat, die Kinder sind empört.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Starke Schularbeiten allein machen noch kein Sehr gut, weil auch die laufende Mitarbeit zur Note gehört. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L1-006",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Ja, die Schularbeiten allein bestimmen die Note, Mitarbeit zählt nicht.",
+      "Die Note entsteht aus der Mitarbeit im Unterricht und den besonderen Leistungsfeststellungen zusammen, nicht aus den Schularbeiten allein.",
+      "Es zählt nur die letzte Hausübung vor dem Zeugnis.",
+      "Die Lehrerin würfelt die Note aus, wenn Mitarbeit und Arbeiten auseinandergehen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schularbeiten allein ergeben noch kein Gesamtbild.",
+      "Richtig: Mitarbeit und Feststellungen bilden gemeinsam die Grundlage.",
+      "Falsch: Eine einzelne Hausübung ersetzt das Jahresbild nicht.",
+      "Falsch: Die Note folgt aus den Leistungen, nicht aus dem Zufall."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Jonas hat in Mathematik lauter Einser auf die Schularbeiten, meldet sich aber nie und macht keine Hausübungen, trotzdem rechnet er fix mit einem Sehr gut im Zeugnis.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Plappern gehört in die Verhaltensbeurteilung, die fehlerfreie Arbeit wird allein nach der Leistung benotet. Zum Nachlesen: SchUG §18 Abs.5.",
+    "hauptquelle": "SchUG §18 Abs.5",
+    "id": "A20-L1-007",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Ja, fürs Plappern darf die Lehrerin die fehlerfreie Arbeit schlechter benoten.",
+      "Ja, aber nur wenn die ganze Klasse für Lena stimmt.",
+      "Nein, das Verhalten darf in die Leistungsbeurteilung nicht einbezogen werden, die Arbeit ist nach der Leistung zu benoten.",
+      "Nur in Deutsch darf Verhalten einfließen, in allen anderen Fächern nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Plappern ist eine Verhaltensfrage und keine Deutschleistung.",
+      "Falsch: Auch eine Abstimmung ändert nichts an dieser Trennung.",
+      "Richtig: Fachnote misst die Leistung, Verhalten bekommt eine eigene Note.",
+      "Falsch: Die Trennung gilt in jedem Unterrichtsgegenstand."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena plappert im Deutschunterricht ständig und kassiert dafür einen Eintrag, die Lehrerin überlegt, ihr deshalb auf die fehlerfreie Schularbeit eine schlechtere Note zu geben.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die mit dem Handy erschlichene Arbeit darf keine Note bekommen, weil vorgetäuschte Leistungen nicht zu beurteilen sind. Zum Nachlesen: SchUG §18 Abs.4.",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "id": "A20-L1-008",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Sie muss die abgeschriebene Arbeit trotzdem normal benoten, weil sie abgegeben wurde.",
+      "Sie zieht einen Punkt ab und benotet den Rest ganz normal.",
+      "Vorgetäuschte Leistungen sind nicht zu beurteilen, die erschlichene Arbeit darf also keine Note bekommen.",
+      "Sie gibt automatisch ein Befriedigend, egal wie viel abgeschrieben wurde."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine erschlichene Leistung darf keine Grundlage für eine Note sein.",
+      "Falsch: Punktabzug heilt die Täuschung nicht, sie bleibt unbeurteilbar.",
+      "Richtig: Abgeschriebenes gilt als vorgetäuscht und wird nicht beurteilt.",
+      "Falsch: Pauschalnoten für Täuschungen gibt es nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einem Englischtest fotografiert Moritz die Vokabelliste mit dem Handy und schreibt damit, die Lehrerin bemerkt das Handy auf seinem Schoß.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei mehr als der Hälfte negativer Beurteilungen wird einmal mit neuer Aufgabenstellung wiederholt, und die bessere Leistung zählt. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "id": "A20-L1-009",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Nein, eine misslungene Schularbeit darf niemals wiederholt werden.",
+      "Ja, die Schularbeit ist mit neuer Aufgabenstellung einmal zu wiederholen, für jedes Kind zählt die bessere der beiden Leistungen.",
+      "Ja, aber es zählt nur die zweite Arbeit, auch wenn sie schlechter ausfällt.",
+      "Nur die durchgefallenen Kinder schreiben noch einmal, die anderen behalten ihre Note."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei mehr als der Hälfte negativer Beurteilungen ist Wiederholung Pflicht.",
+      "Richtig: Neue Aufgaben, ein Wiederholungstermin, Günstigkeitsvergleich pro Kind.",
+      "Falsch: Es zählt jeweils die bessere Leistung, nicht automatisch die zweite.",
+      "Falsch: Die ganze Leistungsfeststellung wird wiederholt, nicht nur für Einzelne."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einer Englischschularbeit in einer Klasse mit 25 Kindern bekommen 16 ein Nicht genügend, die Eltern verlangen eine zweite Chance für alle.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei genau der Hälfte negativer Noten greift die Pflicht noch nicht, weil das Gesetz mehr als die Hälfte verlangt. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "id": "A20-L1-010",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Ja, bei genau der Hälfte muss automatisch für alle wiederholt werden.",
+      "Die Pflicht zur Wiederholung greift erst, wenn mehr als die Hälfte negativ ist, bei genau der Hälfte besteht sie nicht.",
+      "Die Lehrerin muss die schlechtere Hälfte einfach positiv umschreiben.",
+      "Die bessere Hälfte muss ihre Arbeit freiwillig noch einmal schreiben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Genau die Hälfte erfüllt die Schwelle noch nicht.",
+      "Richtig: Erst jenseits der Hälfte wird die Wiederholung zur Pflicht.",
+      "Falsch: Umschreiben ohne Leistung verfälscht die Beurteilung.",
+      "Falsch: Die guten Leistungen bleiben stehen und werden nicht wiederholt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer Klasse mit 28 Kindern fallen bei der Mathematikschularbeit genau 14 durch, die Hälfte der Klasse fordert eine Wiederholung für alle.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Krankheit entschuldigt das Fehlen, deshalb bekommt Sara einen Nachtermin statt einer negativen Note. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L1-011",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Ja, jede versäumte Schularbeit zählt automatisch als Nicht genügend.",
+      "Wer aus gerechtfertigtem Grund fehlt, bekommt einen Nachtermin und schreibt die Arbeit nach, die Krankheit darf nicht als negative Leistung zählen.",
+      "Sara muss die Schule wechseln, weil sie den Termin versäumt hat.",
+      "Die Klasse muss die Schularbeit wegen Sara noch einmal schreiben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Entschuldigtes Fehlen ist keine negative Leistung.",
+      "Richtig: Nachtermin statt Strafnote schützt kranke Kinder.",
+      "Falsch: Ein Schulwechsel ist wegen einer versäumten Arbeit absurd.",
+      "Falsch: Die Klasse wiederholt nicht wegen einzelner Kranker."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sara liegt mit Fieber im Bett, als ihre Klasse die Deutschschularbeit schreibt, die Mutter fragt, ob die versäumte Arbeit einfach als Nicht genügend zählt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ohne Rückgabe und Besprechung lernen die Kinder nichts aus ihren Fehlern, daher gehören beide zur ordnungsgemäßen Erledigung dazu. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L1-012",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Ja, die Lehrerin darf korrigierte Arbeiten für immer behalten und muss nichts erklären.",
+      "Korrigierte Arbeiten sind den Kindern zurückzugeben und mit ihnen zu besprechen, damit sie aus ihren Fehlern lernen können.",
+      "Die Kinder erfahren nur die Note aus dem Klassenbuch, ihre Hefte sehen sie nie.",
+      "Die Hefte werden ungelesen weggeworfen, sobald die Noten eingetragen sind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einbehalten ohne Erklärung nimmt den Kindern die Lernchance.",
+      "Richtig: Rückgabe plus Besprechung machen die Beurteilung nachvollziehbar.",
+      "Falsch: Die Note allein ohne Einsicht in die Fehler hilft niemandem.",
+      "Falsch: Wegwerfen vernichtet die Grundlage jeder Besprechung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin sammelt die Schularbeiten ein, trägt die Noten ins Klassenbuch ein und gibt die Hefte nie wieder her, die Kinder sehen ihre Fehler nie.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "In Deutsch gehört lesbare und richtige Darstellung wesentlich dazu, daher darf die äußere Form die Note mitbestimmen. Zum Nachlesen: SchUG §18 Abs.7.",
+    "hauptquelle": "SchUG §18 Abs.7",
+    "id": "A20-L1-013",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Nein, Rechtschreibung und Lesbarkeit dürfen niemals eine Rolle spielen.",
+      "In Fächern wie Deutsch gehört die äußere Form wesentlich zur Leistung dazu und wird bei der Benotung mitberücksichtigt.",
+      "Die Form entscheidet allein, der Inhalt ist völlig egal.",
+      "Nur die Handschrift des Sitznachbarn wird bewertet."
+    ],
+    "pro_option_feedback": [
+      "Falsch: In Deutsch ist die äußere Form ein wesentlicher Leistungsteil.",
+      "Richtig: Inhalt und Form ergeben dort gemeinsam die Note.",
+      "Falsch: Der Inhalt bleibt die Hauptgrundlage der Beurteilung.",
+      "Falsch: Bewertet wird immer die eigene Arbeit des Kindes."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Pauls Deutschschularbeit ist inhaltlich stark, aber voller Rechtschreibfehler und kaum lesbar, er versteht nicht, warum das die Note drückt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Kleine Tests sind eigene eingeordnete Feststellungen und ergänzen die Schularbeiten bei der Notenbildung. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L1-014",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Nein, kurze Tests sind rechtlich bedeutungslos und dürfen nicht zählen.",
+      "Auch kurze schriftliche Überprüfungen sind eingeordnete Leistungsfeststellungen und fließen neben den Schularbeiten in die Note ein.",
+      "Tests ersetzen automatisch alle Schularbeiten des Jahres.",
+      "Nur angekündigte Tests zählen, unangekündigte muss die Lehrerin wegwerfen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch kleine Feststellungen gehören zur Beurteilungsgrundlage.",
+      "Richtig: Tests und Schularbeiten ergeben zusammen das Leistungsbild.",
+      "Falsch: Tests ergänzen die Schularbeiten, sie ersetzen sie nicht.",
+      "Falsch: Kurze Überprüfungen des laufenden Stoffs sind auch ohne lange Ankündigung wertbar."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Frau Hofer wundert sich, dass neben den zwei großen Schularbeiten auch kurze Vokabeltests in die Englischnote ihrer Tochter einfließen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Stumpfes Wiederholen derselben Aufgaben ist nicht vorgesehen, die einmalige Wiederholung braucht eine neue Aufgabenstellung. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "id": "A20-L1-015",
+    "level": "L1",
+    "modul_id": "A20",
+    "optionen": [
+      "Ja, dieselbe Arbeit darf beliebig oft mit denselben Aufgaben wiederholt werden.",
+      "Wiederholt wird nur einmal und mit neuer Aufgabenstellung, stumpfes Wiederholen derselben Aufgaben ist nicht vorgesehen.",
+      "Die Lehrerin darf die Wiederholung heimlich nur für einzelne Lieblingsschüler ansetzen.",
+      "Statt einer Wiederholung werden alle negativen Noten einfach gestrichen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Endlose Wiederholungen derselben Aufgaben sind ausgeschlossen.",
+      "Richtig: Einmalig und mit neuen Aufgaben bleibt die Wiederholung fair.",
+      "Falsch: Die Wiederholung gilt für die ganze Klasse, nicht für Auserwählte.",
+      "Falsch: Streichen ohne Leistung verfälscht jede Beurteilung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer missglückten Schularbeit will die Lehrerin dieselbe Arbeit mit denselben Aufgaben einfach noch einmal schreiben lassen, ein Vater fragt, ob das so stimmt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
