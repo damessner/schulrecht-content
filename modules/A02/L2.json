@@ -1,1 +1,514 @@
-[]
+[
+  {
+    "aufloesung": "Die Zuweisung folgt dem standardisierten Verfahren mit drei klaren Ergebnissen und wird vom Schulleiter oder auf Anordnung von der Behörde umgesetzt. So erhält jedes Kind die passende Förderform. Zum Nachlesen: SchUG §4 Abs.2a.",
+    "hauptquelle": "SchUG §4 Abs.2a",
+    "id": "A02-L2-001",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Es werden standardisierte Testverfahren verwendet.",
+      "Die Testung führt der Schulleiter oder auf Anordnung die Schulbehörde durch.",
+      "Das Verfahren unterscheidet ordentlich, außerordentlich mit Förderkurs und außerordentlich mit Förderklasse.",
+      "Die Klasseneltern entscheiden über die Zuweisung.",
+      "Es genügt eine formlose Einschätzung im Türgespräch.",
+      "Die Zuweisung erfolgt nach Alphabet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Standardisierte Verfahren sichern Vergleichbarkeit.",
+      "Richtig: Genau diese Zuständigkeit ist vorgesehen.",
+      "Richtig: Diese drei Ergebnisse steuern die Aufnahme.",
+      "Falsch: Eltern entscheiden nicht über die Zuweisung.",
+      "Falsch: Formlose Einschätzung reicht nicht aus.",
+      "Falsch: Das Alphabet spielt keine Rolle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Schulleiter Gruber erstellt eine Checkliste für die Aufnahme sprachlich noch nicht schulreifer Kinder im nächsten Schuljahr. Er prüft, welche Schritte das Zuweisungsverfahren zu Förderkurs oder Förderklasse unbedingt enthalten muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Förderklasse arbeitet intensiv am Spracherwerb, ersetzt in dieser Zeit den Regelbesuch und wird in geeigneten Gegenständen gemeinsam mit der Regelklasse geführt. Sie bleibt rechtlich keine Klasse. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "id": "A02-L2-002",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Der Schwerpunkt liegt auf Erwerb und Aufbau der Unterrichtssprache.",
+      "Während des Besuchs entfällt der parallele Vollbesuch aller Regel-Pflichtgegenstände.",
+      "In nicht primär sprachlichen Gegenständen ist gemeinsame Führung mit der Regelklasse anzustreben.",
+      "Jedes Förderklassenkind besucht gleichzeitig alle Regelstunden.",
+      "Die Förderklasse ist eine Klasse im schulrechtlichen Sinn."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau dafür ist diese intensive Form eingerichtet.",
+      "Richtig: Die Ausnahme vom Regelbesuch gilt für diese Zeit.",
+      "Richtig: Gemeinsame Führung erhält den Anschluss an die Klasse.",
+      "Falsch: Die Doppelbelastung ist gerade ausgenommen.",
+      "Falsch: Rechtlich sind es keine Klassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Schule richtet erstmals eine Deutschförderklasse ein und das Team erstellt eine Organisationscheckliste. Es geht darum, was diese intensive Förderform im Schulalltag kennzeichnet.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Förderkurs begleitet den Regelunterricht, die Kinder bleiben in ihren Pflichtgegenständen und erhalten zusätzliche Deutschförderung. Organisation und Stundenplan stimmen beide Formen aufeinander ab. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "id": "A02-L2-003",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Die Kinder besuchen grundsätzlich alle Pflichtgegenstände ihrer Schulstufe.",
+      "Die zusätzliche Sprachförderung läuft begleitend in Deutschförderkursen.",
+      "Der Förderkurs ersetzt den gesamten Regelunterricht.",
+      "Die Kinder sind während des Kurses vom Schulbesuch befreit.",
+      "Bei mangelnden Vorkenntnissen ist auf Ansuchen Befreiung von einzelnen Pflichtgegenständen möglich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vollbesuch ist hier die Regel.",
+      "Richtig: Begleitende Förderung ist das Kennzeichen des Kurses.",
+      "Falsch: Ersetzt wird nichts, sondern ergänzt.",
+      "Falsch: Die Schulpflicht läuft weiter.",
+      "Richtig: Einzelbefreiung auf Ansuchen ist möglich."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Klassenlehrer Mayr betreut drei Kinder, die außerordentlich aufgenommen wurden und begleitend zum Regelunterricht zusätzlich Deutsch lernen. Er prüft, welche Organisationsmerkmale für diese Kursform zutreffen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Das Orientierungsgespräch prüft vier Grundkompetenzen und wird von der Schulleitung mit Kind und Eltern geführt. Es findet bei fehlender Vorschulbildung oder unklarem Schulbesuch statt. Zum Nachlesen: SchUG §4 Abs.2b.",
+    "hauptquelle": "SchUG §4 Abs.2b",
+    "id": "A02-L2-004",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Erkennen von Symbolen und Schriftzeichen.",
+      "Motorik.",
+      "Kennen von Abläufen in einer Bildungseinrichtung.",
+      "Erkennen und Verstehen sozialer Regeln in Zeit und Kommunikation.",
+      "Lieblingsspeise des Kindes.",
+      "Berufswünsche der Eltern."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Grundkompetenz aus dem Prüfmaßstab.",
+      "Richtig: Grundkompetenz aus dem Prüfmaßstab.",
+      "Richtig: Grundkompetenz aus dem Prüfmaßstab.",
+      "Falsch: Diese Deutung greift zu kurz, es geht um alle vier Bereiche.",
+      "Falsch: Essensvorlieben gehören nicht zum Maßstab.",
+      "Falsch: Elternberufe gehören nicht zum Maßstab."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Schulleiterin Hofer bereitet Orientierungsgespräche für neu anzumeldende Kinder ohne Kindergartenbesuch vor. Sie legt fest, welche altersgerechten Grundkompetenzen sie dabei prüfen muss, und bittet um eine vollständige Checkliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Bei festgestelltem Bedarf kann bis zu sechs Monate nur Orientierungsunterricht erteilt werden, auch in eigenen schulübergreifenden Gruppen. Danach folgt der Regelbesuch mit Sprachförderung. Zum Nachlesen: SchUG §4 Abs.4a.",
+    "hauptquelle": "SchUG §4 Abs.4a",
+    "id": "A02-L2-005",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Bei festgestelltem Bedarf kann bis zu sechs Monate ausschließlich Orientierungsunterricht erfolgen.",
+      "Für den Orientierungsunterricht können eigene klassen- und standortübergreifende Gruppen eingerichtet werden.",
+      "Diese Gruppen sind keine Klassen im schulrechtlichen Sinn.",
+      "Orientierungsunterricht dauert immer mindestens zwei Jahre.",
+      "Orientierungsunterricht ersetzt dauerhaft den gesamten Schulbesuch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sechs Monate ausschließlich ist die Höchstgrenze.",
+      "Richtig: Auch übergreifende Gruppen sind möglich.",
+      "Richtig: Sie gelten rechtlich nicht als Klassen.",
+      "Falsch: Es gibt keine zweijährige Mindestdauer.",
+      "Falsch: Er ist eine befristete Startphase."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach mehreren Orientierungsgesprächen plant eine Volksschule eigene Gruppen für Kinder mit Bedarf in Orientierung und Vorläuferfertigkeiten. Die Leitung prüft, welche Organisationsregeln für diese Startphase gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der außerordentliche Status dauert höchstens zwölf Monate, bei spätem Einstieg läuft die Frist ab September und die Verlängerung verlangt weiter bestehenden Bedarf ohne Verschulden. Danach folgt jedenfalls die ordentliche Aufnahme. Zum Nachlesen: SchUG §4 Abs.3.",
+    "hauptquelle": "SchUG §4 Abs.3",
+    "id": "A02-L2-006",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Die Dauer ist auf höchstens zwölf Monate begrenzt.",
+      "Bei Aufnahme im zweiten Semester beginnt die Frist erst mit dem folgenden September.",
+      "Eine Verlängerung um höchstens zwölf Monate braucht weiter bestehenden Bedarf und unverschuldete Verzögerung.",
+      "Nach Ende des Status folgt jedenfalls die ordentliche Aufnahme.",
+      "Der Status kann unbegrenzt verlängert werden.",
+      "Nach Fristende muss das Kind die Schule verlassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwölf Monate sind die Grundgrenze.",
+      "Richtig: Der spätere Fristbeginn schützt Späteinsteiger.",
+      "Richtig: Beide Voraussetzungen begrenzen die Verlängerung.",
+      "Richtig: Der Übergang in ordentlich ist zwingend.",
+      "Falsch: Nur einmal ist Verlängerung möglich.",
+      "Falsch: Es folgt ordentliche Aufnahme, kein Ausschluss."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Das Sekretariat erstellt ein Merkblatt zur Befristung des Förderstatus für Eltern. Darin sollen alle Fristen, Verlängerungsvoraussetzungen und die Folgen nach Fristende korrekt stehen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Beim Wechsel melden die Eltern der alten Schule die neue Schule, die alte Schule gibt Testergebnis und Leistungsstand unverzüglich weiter. So setzt die neue Schule die Förderung nahtlos fort. Zum Nachlesen: SchUG §4 Abs.4a.",
+    "hauptquelle": "SchUG §4 Abs.4a",
+    "id": "A02-L2-007",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Die Erziehungsberechtigten teilen der alten Schule die neue Schule mit.",
+      "Die alte Schule übermittelt Testergebnis sowie Kenntnisse, Fertigkeiten und Leistungsstand unverzüglich.",
+      "Die Weitergabe erfolgt an die aufnehmende Schule.",
+      "Die neue Schule beginnt ohne jede Information von vorne.",
+      "Es genügt ein mündlicher Gruß des Kindes."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese Meldepflicht trifft die Eltern.",
+      "Richtig: Genau diese Inhalte sind weiterzugeben.",
+      "Richtig: Empfänger ist die aufnehmende Schule.",
+      "Falsch: Die Informationsweitergabe ist vorgeschrieben.",
+      "Falsch: Ein Gruß ersetzt das Verfahren nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Demir zieht um und Tochter Selin wechselt mitten im Förderjahr die Schule. Beide Schulen klären, wer wem welche Unterlagen über Sprachstand und Förderung übermitteln muss, damit nichts verloren geht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Förderklassenkinder und im Sommer aufgenommene außerordentliche Kinder nehmen jedenfalls an der Sommerschule mit Deutschförderung teil. Die Schulleitung meldet verpflichtete Kinder amtswegig an und informiert die Eltern. Zum Nachlesen: SchUG §12 Abs.6a.",
+    "hauptquelle": "SchUG §12 Abs.6a",
+    "id": "A02-L2-008",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Kinder, die am ersten Tag des zweiten Semesters eine Deutschförderklasse besuchen, nehmen jedenfalls teil.",
+      "Im Sommer aufgenommene außerordentliche Kinder nehmen jedenfalls teil.",
+      "Die Sommerschule umfasst jedenfalls Sprachförderung in Deutsch.",
+      "Die Teilnahme ist für diese Gruppen völlig freiwillig.",
+      "Die Sommerschule ersetzt das nächste Schuljahr."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese Gruppe ist erfasst.",
+      "Richtig: Auch diese Gruppe ist erfasst.",
+      "Richtig: Deutschförderung ist jedenfalls enthalten.",
+      "Falsch: Für diese Gruppen besteht Pflicht.",
+      "Falsch: Sie ergänzt, ersetzt aber nichts."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Vor den Sommerferien erstellt eine Mittelschule die Teilnahmeliste für das zweiwöchige Förderangebot in den Ferien. Es muss klar sein, welche Kinder jedenfalls dabei sein müssen und was das Angebot enthält.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Anmeldung kann an der eigenen oder der künftigen Schule erfolgen, verpflichtete Kinder meldet die Schulleitung amtswegig an und Wiederholungsprüfungen bleiben zeitlich gesichert. Ergänzt wird das Angebot durch Bewegung und fächerübergreifende Einheiten. Zum Nachlesen: SchUG §12 Abs.10.",
+    "hauptquelle": "SchUG §12 Abs.10",
+    "id": "A02-L2-009",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Die Anmeldung ist an der eigenen oder an der künftig besuchten Schule möglich.",
+      "Bei bestehender Pflicht meldet die Schulleitung amtswegig an und informiert die Eltern.",
+      "Für Wiederholungsprüfungen ist den Kindern die nötige Zeit zu gewähren.",
+      "Ergänzend sind Bewegungs- und fächerübergreifende Einheiten möglich.",
+      "Anmeldungen sind nur per Losverfahren möglich.",
+      "Verpflichtete Kinder dürfen nicht angemeldet werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beide Schulen kommen für die Anmeldung in Frage.",
+      "Richtig: Amtswegige Anmeldung plus Elterninformation ist vorgesehen.",
+      "Richtig: Prüfungszeiten bleiben gesichert.",
+      "Richtig: Diese Ergänzungen sieht das Angebot vor.",
+      "Falsch: Ein Losverfahren gibt es nicht.",
+      "Falsch: Gerade sie werden amtswegig angemeldet."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Schule organisiert das Ferienförderangebot und klärt Anmeldewege, Zuständigkeiten und den Umgang mit bevorstehenden Wiederholungsprüfungen teilnehmender Kinder.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Förderbedarf wird von der Klassenlehrerin oder der Fachlehrkraft festgestellt und löst die Teilnahmepflicht aus. Die Schulleitung kann das Ausmaß begrenzen und bei Wegfall endet die Teilnahme. Zum Nachlesen: SchUG §12 Abs.6.",
+    "hauptquelle": "SchUG §12 Abs.6",
+    "id": "A02-L2-010",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Die Klassenlehrerin oder der Fachlehrer stellt den Förderbedarf fest.",
+      "Bei festgestelltem Bedarf ist der Besuch des Förderunterrichts verpflichtend.",
+      "Die Schulleitung kann das Ausmaß der Teilnahme begrenzen.",
+      "Bei Wegfall der Bedürftigkeit ist Abmeldung möglich, bei fortbestehender braucht sie die Zustimmung der Leitung.",
+      "Förderunterricht gibt es nur gegen Bezahlung.",
+      "Den Bedarf stellt immer ein externes Institut fest."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese Feststellung trifft die unterrichtende Lehrkraft.",
+      "Richtig: Festgestellter Bedarf bedeutet Pflicht.",
+      "Richtig: Begrenzung nach Belastbarkeit und Bedarf ist möglich.",
+      "Richtig: So ist An- und Abmeldung geregelt.",
+      "Falsch: Bezahlung ist kein Kriterium.",
+      "Falsch: Externe Stellen sind nicht zuständig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS",
+      "BS"
+    ],
+    "situation": "An einer Polytechnischen Schule erstellt das Team eine Checkliste zum Förderunterricht: Wer stellt den Bedarf fest, wann ist die Teilnahme Pflicht und wie kann sie begrenzt oder beendet werden.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Eltern tragen Mitverantwortung für die Unterrichtssprache bei Einschreibung, melden Schulwechsel und wirken an Gesprächen mit. Die Schule ergänzt dies durch Testung, Förderung und Dokumentation. Zum Nachlesen: SchUG §3 Abs.3.",
+    "hauptquelle": "SchUG §3 Abs.3",
+    "id": "A02-L2-011",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Sie sorgen dafür, dass ihre Kinder bei Einschreibung dem Unterricht sprachlich folgen können.",
+      "Sie teilen beim Schulwechsel der alten Schule die neue Schule mit.",
+      "Sie nehmen an Orientierungsgespräch und Förderabsprachen teil.",
+      "Sie sind von jeder Mitwirkung befreit.",
+      "Sie entscheiden allein über Testergebnis und Zuweisung.",
+      "Sie müssen den Unterricht selbst erteilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese Sorgepflicht gilt bei Einschreibung.",
+      "Richtig: Diese Meldepflicht sichert den Übergang.",
+      "Richtig: Gespräche gelingen nur mit den Eltern.",
+      "Falsch: Mitwirkung ist ausdrücklich vorgesehen.",
+      "Falsch: Ergebnis und Zuweisung folgen dem Verfahren.",
+      "Falsch: Unterrichten bleibt Aufgabe der Schule."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Volksschule erstellt ein Elternmerkblatt zur Deutschförderung: Was müssen Erziehungsberechtigte selbst beitragen und wo liegen die Aufgaben der Schule.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Einstufungsprüfung stellt die Vorbildung für die angestrebte Stufe fest, sie kann bei überzeugender Mitarbeit entfallen und ist einmal binnen zwei Monaten nur in negativen Gebieten wiederholbar. Zulässig ist sie für bestimmte Stufen ohne Berechtigungszeugnis. Zum Nachlesen: SchUG §3 Abs.6.",
+    "hauptquelle": "SchUG §3 Abs.6",
+    "id": "A02-L2-012",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Zweck ist die Feststellung, ob die Vorbildung für die angestrebte Stufe reicht.",
+      "Die Prüfung kann entfallen, wenn Mitarbeit und Leistungen das Bildungsziel überwiegend erfüllt zeigen.",
+      "Bei Nichtbestehen ist einmalige Wiederholung binnen zwei Monaten nur in negativen Gebieten möglich.",
+      "Zulässig ist sie etwa für die vierte Stufe Grundschule ohne Berechtigungszeugnis.",
+      "Jede Einstufungsprüfung darf beliebig oft wiederholt werden.",
+      "Die Prüfung ersetzt immer das Zeugnis der Vorsstufe."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau dieser Zweck ist festgelegt.",
+      "Richtig: Überzeugende Mitarbeit kann die Prüfung entbehrlich machen.",
+      "Richtig: Frist und Umfang der Wiederholung sind begrenzt.",
+      "Richtig: Diese Fallgruppe ist erfasst.",
+      "Falsch: Nur einmal ist Wiederholung möglich.",
+      "Falsch: Diese generelle Ersetzung gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Ein Schüler ohne berechtigendes Zeugnis strebt die Aufnahme in eine höhere Stufe an und die Schule prüft das Verfahren: Zweck, möglicher Entfall und Wiederholung einer Einstufungsprüfung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Schulpflichtige außerordentliche Kinder besuchen grundsätzlich alle Pflichtgegenstände, bei Einstufungsfällen ist Einzelbefreiung auf Ansuchen möglich und die übrigen Außerordentlichen wählen einzelne Gegenstände ohne Klassenteilung. So bleibt die Förderung gezielt. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "id": "A02-L2-013",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Schulpflichtige außerordentliche Kinder besuchen grundsätzlich alle Pflichtgegenstände ihrer Stufe.",
+      "Auf Ansuchen ist Befreiung von einzelnen Gegenständen bei mangelnden Vorkenntnissen möglich.",
+      "Nicht schulpflichtige Außerordentliche können einzelne Gegenstände besuchen, ohne Klassenteilung auszulösen.",
+      "Schulpflichtige sind automatisch von allem befreit.",
+      "Außerordentliche dürfen jede Klasse teilen, wie sie wollen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vollbesuch ist die Grundregel.",
+      "Richtig: Einzelbefreiung auf Ansuchen ist vorgesehen.",
+      "Richtig: Einzelbesuch ist möglich, Teilung aber nicht.",
+      "Falsch: Automatische Befreiung gibt es nicht.",
+      "Falsch: Klassenteilung durch Einzelbesuch ist ausgeschlossen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Eine höhere Schule nimmt außerordentliche Schüler in verschiedenen Konstellationen auf und erstellt eine Checkliste zur Besuchspflicht: Wer muss alles besuchen, wer kann sich wovon befreien lassen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Förderklassen werden nach Möglichkeit gemeinsam mit Regelklassen geführt, der Schulleiter bildet Klassen und Gruppen und bringt Zuweisungen der Behörde zur Kenntnis. Der Stundenplan ist in den ersten Tagen kundzumachen. Zum Nachlesen: SchUG §9 Abs.1b.",
+    "hauptquelle": "SchUG §9 Abs.1b",
+    "id": "A02-L2-014",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Förderklassen sind in geeigneten Gegenständen gemeinsam mit der Regelklasse zu führen.",
+      "Der Schulleiter teilt Schüler in Klassen und Gruppen ein.",
+      "Klassenzuweisung und Lehrfächerverteilung sind der Behörde schriftlich zur Kenntnis zu bringen.",
+      "Der Stundenplan ist innerhalb der ersten beiden Schultage kundzumachen.",
+      "Förderkinder erhalten keinen Stundenplan.",
+      "Gruppenbildung ist verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gemeinsame Führung erhält den Klassenanschluss.",
+      "Richtig: Einteilung ist Leitungsaufgabe.",
+      "Richtig: Kenntnisgabe an die Behörde ist vorgesehen.",
+      "Richtig: Frühe Kundmachung schafft Verlässlichkeit.",
+      "Falsch: Auch Förderkinder brauchen verlässliche Pläne.",
+      "Falsch: Gruppenbildung ist ausdrücklich vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zum Schulstart plant ein Schulcluster Klassenbildung, Gruppen für Förderklassen und Stundenpläne. Die Leitung prüft, welche Organisationsschritte dabei nicht vergessen werden dürfen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Übergang gelingt mit dokumentiertem Sprachstand, fortgeführter begleitender Förderung und klarer Elterninformation. Testergebnis und Leistungsstand sichern die Anschlussfähigkeit in der Regelklasse. Zum Nachlesen: SchUG §4 Abs.4a.",
+    "hauptquelle": "SchUG §4 Abs.4a",
+    "id": "A02-L2-015",
+    "level": "L2",
+    "modul_id": "A02",
+    "optionen": [
+      "Der erreichte Sprachstand und die Förderergebnisse werden dokumentiert und weitergegeben.",
+      "Nach dem Übergang läuft die Sprachförderung begleitend weiter, etwa in Kursen und Förderunterricht.",
+      "Die Eltern werden über Förderstand und nächste Schritte informiert.",
+      "Der Übergang erfolgt ohne jede Dokumentation.",
+      "Nach der Förderklasse ist jede weitere Förderung verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dokumentation sichert den Anschluss.",
+      "Richtig: Begleitende Förderung stabilisiert den Übergang.",
+      "Richtig: Informierte Eltern tragen den Wechsel mit.",
+      "Falsch: Gerade Dokumentation ist der Schlüssel.",
+      "Falsch: Begleitende Förderung bleibt möglich und sinnvoll."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die achtjährige Jana hat große Fortschritte gemacht und soll von der Förderklasse in die Regelklasse wechseln. Das Team erstellt eine Übergangscheckliste, damit Sprachstand, Förderung und Elterninformation nahtlos weiterlaufen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]
