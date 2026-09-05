@@ -1,1 +1,385 @@
-[]
+[
+  {
+    "id": "A02-L3-001",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Yilmaz erhält nach der standardisierten Feststellung die Zuweisung ihres Sohnes in die Deutschförderklasse. Die Eltern legen ein privates Sprachzertifikat vor, widersprechen dem Ergebnis und verlangen die sofortige Aufnahme als ordentlicher Schüler in der Regelklasse ohne jede Förderung.",
+    "optionen": [
+      "Die Schule folgt dem Elternwunsch und nimmt ordentlich ohne Förderung auf.",
+      "Maßgeblich ist das standardisierte Verfahrensergebnis, der Bub wird außerordentlich mit Förderklasse aufgenommen, der Elternwunsch ersetzt das Verfahren nicht.",
+      "Das private Zertifikat hebt die Testung automatisch auf.",
+      "Der Bub bleibt zu Hause, bis die Eltern dem Ergebnis zustimmen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Elternwunsch ersetzt das Zuweisungsverfahren nicht.",
+      "Richtig: Das Verfahrensergebnis steuert den Förderweg verbindlich.",
+      "Falsch: Private Zertifikate heben die Testung nicht auf.",
+      "Falsch: Abwarten zu Hause löst weder Status noch Förderung."
+    ],
+    "aufloesung": "Zuweisung nach Verfahrensergebnis umsetzen und Elterninformation schriftlich dokumentieren. Das Verfahren sichert die passende Förderintensität, private Zertifikate ersetzen es nicht. Zum Nachlesen: SchUG §4 Abs.2a.",
+    "hauptquelle": "SchUG §4 Abs.2a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-002",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Schulleiter Berger will drei Kinder mit knappem Personal rasch zuweisen: Bei Emir liegt die standardisierte Feststellung ein Jahr zurück, seither besuchte er einen intensiven Deutschkurs. Selma war am Testtag fiebrig und brach die Testung ab. Bei Noah schätzt die Klassenlehrerin den Bedarf im Türgespräch ohne jedes Verfahren. Berger übernimmt alle drei Ergebnisse ungeprüft. Welche Fehler liegen vor? Wähle alles Zutreffende.",
+    "optionen": [
+      "Ein Jahr altes Ergebnis ohne neue Feststellung übernehmen ist unzulässig, der seitherige Lernfortschritt bleibt unberücksichtigt.",
+      "Der Abbruch wegen Krankheit ist unbeachtlich, das Teilergebnis gilt jedenfalls.",
+      "Bauchgefühl im Türgespräch ersetzt das vorgeschriebene standardisierte Verfahren nicht.",
+      "Rasche Zuweisung wegen Personalmangel heilt jedes Verfahrensdefizit.",
+      "Zweifelhafte Fälle brauchen eine ordnungsgemäße neue Feststellung mit Dokumentation.",
+      "Eltern dürfen die Testung generell verbieten und den Förderweg frei wählen."
+    ],
+    "richtig": [
+      0,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Veraltete Ergebnisse ohne Neufeststellung sind keine tragfähige Grundlage.",
+      "Falsch: Abgebrochene Testung unter Krankheit ist nicht verwertbar.",
+      "Richtig: Nur das vorgeschriebene Verfahren trägt die Zuweisung.",
+      "Falsch: Personalmangel heilt keinen Verfahrensfehler.",
+      "Richtig: Neufeststellung plus Akte sichert die Entscheidung ab.",
+      "Falsch: Die Testung ist Verfahren, kein Wunschprogramm."
+    ],
+    "aufloesung": "Zweifelhafte und veraltete Feststellungen ordnungsgemäß wiederholen und alles dokumentieren. Nur ein gültiges Verfahrensergebnis trägt Kurs oder Klasse. Zum Nachlesen: SchUG §4 Abs.2a.",
+    "hauptquelle": "SchUG §4 Abs.2a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-003",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die neunjährige Alina plaudert in der Pause fließend Deutsch, im Unterricht scheitert sie aber an Arbeitsaufträgen und Fachbegriffen in Mathematik und Sachunterricht. Die Schule will sie ohne jede Förderung als ordentliche Schülerin führen, weil sie im Alltag gut spricht. Die Mutter beantragt begleitende Deutschförderung.",
+    "optionen": [
+      "Ohne Förderung ordentlich führen, Alltagssprache genügt für den Unterricht.",
+      "Ordentlich mit begleitendem Förderkurs aufnehmen, weil sie dem Unterricht sprachlich noch nicht folgen kann und der Kurs den Regelbesuch ergänzt.",
+      "Sofort in die intensive Förderklasse versetzen, Alltagssprache ist unbeachtlich.",
+      "Ein Jahr vom Unterricht befreien, bis die Fachsprache von selbst kommt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Pausensprache beweist noch kein Folgen im Fachunterricht.",
+      "Richtig: Begleitende Förderung ergänzt hier den Regelbesuch.",
+      "Falsch: Intensive Klasse braucht intensiven Bedarf, nicht nur Fachlücken.",
+      "Falsch: Befreiung statt Förderung ist nicht vorgesehen."
+    ],
+    "aufloesung": "Förderkurs begleitend zum Regelbesuch einrichten und Lernverlauf dokumentieren. Alltagssprache und Unterrichtssprache sind zweierlei Maß. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-004",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Volksschule löst ihre Deutschförderklasse im Februar wegen Raummangels auf und schickt alle zwölf Kinder ohne jede Feststellung des Sprachstands in die Regelklassen. Begleitende Kurse gibt es nicht, die Testergebnisse werden nicht ausgewertet, den Eltern wird nur mündlich Bescheid gegeben. Was ist falsch? Wähle alles Zutreffende.",
+    "optionen": [
+      "Die Auflösung aus Raummangel ersetzt die Feststellung, ob die Kinder dem Regelunterricht schon folgen können.",
+      "Der Übergang ohne Feststellung des erreichten Sprachstands ist verfrüht und verfahrensfehlerhaft.",
+      "Nach dem Übergang braucht es begleitende Förderung und Dokumentation statt ersatzlosem Stopp.",
+      "Organisatorische Gründe allein tragen keinen Förderabbruch.",
+      "Die mündliche Info ohne Akte genügt bei Förderentscheidungen.",
+      "Jedes Kind muss nach Auflösung automatisch eine Stufe wiederholen."
+    ],
+    "richtig": [
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Falsch: Raummangel ersetzt keine Feststellung des Sprachstands.",
+      "Richtig: Ohne Feststellung ist der Übergang verfrüht.",
+      "Richtig: Begleitende Förderung plus Akte stabilisiert den Wechsel.",
+      "Richtig: Organisation allein beendet keine Förderung.",
+      "Falsch: Förderentscheidungen gehören in die Akte, nicht auf den Gang.",
+      "Falsch: Automatische Wiederholung ist nicht vorgesehen."
+    ],
+    "aufloesung": "Übergang nur nach festgestelltem Sprachstand mit begleitender Förderung und schriftlicher Elterninfo vollziehen. Raummangel ist ein Organisationsproblem, kein Förderargument. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [
+      "SchUG §4 Abs.2a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-005",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Vater Demir verlangt nach zwei Monaten Förderklasse die sofortige Versetzung seiner Tochter in die Regelklasse ohne Förderung, weil ihre Cousins schon dort sind. Das Mädchen folgt Anweisungen im Unterricht noch kaum und liest nur einzelne Wörter. Die Klassenlehrerin gibt dem Druck nach und beendet die Förderung kommentarlos.",
+    "optionen": [
+      "Dem Wunsch sofort folgen, Elternwunsch beendet jede Förderung.",
+      "Förderung nach Bedarf fortsetzen und den Übergang erst bei ausreichendem Sprachstand mit begleitendem Kurs und Elterngespräch vollziehen.",
+      "Das Kind zur Strafe eine Stufe zurückversetzen.",
+      "Die Förderung beenden und jede weitere Hilfe für ein Jahr sperren."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wunsch beendet keinen festgestellten Bedarf.",
+      "Richtig: Bedarf, nicht Druck, steuert Übergang und Begleitung.",
+      "Falsch: Strafe ist kein Förderinstrument.",
+      "Falsch: Eine Sperre weiterer Hilfe gibt es nicht."
+    ],
+    "aufloesung": "Förderung fortsetzen, Sprachstand erneut feststellen und Übergang mit Eltern besprechen. Druck ersetzt keine Förderentscheidung. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-006",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "MS"
+    ],
+    "situation": "An einer Mittelschule liegt der Deutschförderkurs jede Woche parallel zu Mathematik und Englisch im Regelstundenplan. Die Förderkinder versäumen dauerhaft den Pflichtstoff, es gibt keine Abstimmung zwischen Kurs- und Fachlehrern, Ansuchen auf Befreiung wurden nie gestellt, der Stundenplan wurde nie angepasst. Was ist zu tun? Wähle alles Richtige.",
+    "optionen": [
+      "Kurszeiten so legen, dass der Besuch der Pflichtgegenstände nicht systematisch vereitelt wird.",
+      "Förder- und Fachlehrer stimmen Inhalte und Termine ab und dokumentieren den Förderverlauf.",
+      "Einzelbefreiungen nur auf Ansuchen und nach Prüfung mangelnder Vorkenntnisse gewähren, keine Pauschale.",
+      "Die Parallellegung beibehalten, versäumter Stoff ist Privatsache der Eltern.",
+      "Förderkinder pauschal von allen Prüfungen befreien."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Stundenplan darf Regelbesuch nicht systematisch vereiteln.",
+      "Richtig: Abstimmung plus Doku macht Förderung wirksam.",
+      "Richtig: Befreiung nur einzeln auf Ansuchen nach Prüfung.",
+      "Falsch: Systematischer Stoffverlust ist ein Organisationsfehler.",
+      "Falsch: Pauschale Prüfungsbefreiung gibt es nicht."
+    ],
+    "aufloesung": "Stundenplan entzerren, Kurs und Regelunterricht abstimmen und Befreiungen nur einzeln auf Ansuchen prüfen. Kollisionen gehören in die Organisation, nicht auf die Kinder. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-007",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Schule führt ihre Deutschförderklasse mit dem kompletten Stundenplan der Regelklasse plus täglich zwei zusätzlichen Deutschstunden am Nachmittag. Die Kinder sind überfordert, mehrere fehlen häufig, die Leitung nennt diese Doppelbelastung intensive Förderung.",
+    "optionen": [
+      "Die Doppelbelastung beibehalten, mehr Stunden helfen immer.",
+      "Die Förderklasse auf den Spracherwerb ausrichten und vom parallelen Vollbesuch aller Regel-Pflichtgegenstände absehen, die Belastung kindgerecht planen.",
+      "Die Zusatzstunden streichen und jede Förderung einstellen.",
+      "Die Kinder wegen der Fehlstunden vom Unterricht ausschließen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Überforderung fördert weder Sprache noch Anwesenheit.",
+      "Richtig: Schwerpunkt Sprache statt Doppelbelastung mit Regelplan.",
+      "Falsch: Streichen ohne Ersatz löst das Problem nicht.",
+      "Falsch: Ausschluss ist keine Antwort auf Überlastung."
+    ],
+    "aufloesung": "Stundenplan auf Spracherwerb umstellen und Doppelbelastung beenden. Intensiv heißt gezielt, nicht doppelt. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-008",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Direktorin Hofer befreit alle acht Förderkurskinder pauschal von Mathematik, Englisch und Sachunterricht, ohne dass ein einziges Ansuchen vorliegt und ohne Prüfung der Vorkenntnisse. Umfang und Gründe werden nirgends festgehalten. Welche Fehler liegen vor? Wähle alles Zutreffende.",
+    "optionen": [
+      "Grundsatz bleibt Vollbesuch, Befreiung nur einzeln auf Ansuchen bei mangelnden Vorkenntnissen.",
+      "Die pauschale Befreiung aller von drei Fächern ohne Prüfung ist unzulässig.",
+      "Entscheidung, Umfang und Gründe sind schriftlich festzuhalten.",
+      "Die Pauschale ohne Ansuchen ist zulässig, wenn sie allen hilft.",
+      "Eine mündliche Absprache ersetzt die Akte."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vollbesuch ist Regel, Einzelbefreiung die Ausnahme.",
+      "Richtig: Pauschale ohne Einzelfallprüfung ist rechtswidrig.",
+      "Richtig: Nur dokumentierte Entscheidungen sind nachvollziehbar.",
+      "Falsch: Gute Absicht ersetzt Ansuchen und Prüfung nicht.",
+      "Falsch: Mündlich reicht bei Befreiungen nicht."
+    ],
+    "aufloesung": "Pauschale aufheben, jedes Kind einzeln auf Ansuchen prüfen und Entscheidungen schriftlich festhalten. Befreiung ist Maßarbeit, kein Serienbrief. Zum Nachlesen: SchUG §4 Abs.4.",
+    "hauptquelle": "SchUG §4 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-009",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Der siebenjährige Yasin wird ohne Kindergarten- oder Vorschulbesuch und ohne Unterlagen über früheren Schulbesuch angemeldet. Er erkennt kaum Symbole und Schriftzeichen und kennt keine Abläufe in einer Schule. Die Leitung lehnt ein Orientierungsgespräch ab, weil die Sprachtestung ausreiche.",
+    "optionen": [
+      "Die Testung allein genügt, ein Gespräch ist überflüssig.",
+      "Die Leitung führt mit Kind und Eltern das Orientierungsgespräch, prüft die Grundkompetenzen und sieht bei Bedarf Orientierungsunterricht vor.",
+      "Das Kind ohne Gespräch zurückstellen und ein Jahr warten lassen.",
+      "Das Gespräch an einen privaten Anbieter auslagern und das Ergebnis ungelesen übernehmen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sprachtestung prüft nicht Orientierung und Vorläuferfertigkeiten.",
+      "Richtig: Gespräch mit Kind und Eltern klärt den Orientierungsbedarf.",
+      "Falsch: Warten statt klären ist nicht vorgesehen.",
+      "Falsch: Zuständig bleibt die Leitung, nicht ein Anbieter."
+    ],
+    "aufloesung": "Gespräch nachholen, Bedarf feststellen und bei Bedarf Orientierungsunterricht einplanen. Testung und Gespräch prüfen Unterschiedliches. Zum Nachlesen: SchUG §4 Abs.2b.",
+    "hauptquelle": "SchUG §4 Abs.2b",
+    "zusatzquellen": [
+      "SchUG §4 Abs.4a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-010",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Sara ist seit zwölf Monaten außerordentlich wegen mangelnder Deutschkenntnisse. Sie fehlte unentschuldigt in der Hälfte der Förderkurse und übte trotz Mahnung nicht. Die Schule verlängert kommentarlos um ein weiteres Jahr. Für einen Mitschüler mit lückenlosem Kursbesuch und langem Krankenhausaufenthalt wird gleichzeitig eine zweite Verlängerung ins dritte Jahr ausgesprochen. Was gilt? Wähle alles Richtige.",
+    "optionen": [
+      "Die Verlängerung braucht weiter bestehenden Bedarf und unverschuldete Verzögerung, Schwänzen ist verschuldet.",
+      "Kommentarloses Verlängern ohne Prüfung und Nachweis ist rechtswidrig.",
+      "Mehr als einmal darf nicht verlängert werden, danach folgt jedenfalls die ordentliche Aufnahme.",
+      "Ein drittes Jahr außerordentlich ist auf Wunsch immer zulässig.",
+      "Die ordentliche Aufnahme nach Fristende ist ausgeschlossen, bis das Deutsch fehlerfrei ist."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverschuldetheit ist Tatbestandsmerkmal der Verlängerung.",
+      "Richtig: Prüfung und Nachweis gehören in die Akte.",
+      "Richtig: Nach zwölf plus zwölf Monaten folgt jedenfalls ordentlich.",
+      "Falsch: Ein drittes Jahr gibt es nicht.",
+      "Falsch: Fehlerfreiheit ist keine Voraussetzung für ordentlich."
+    ],
+    "aufloesung": "Verlängerungen nur mit Nachweis von Bedarf und Unverschuldetheit gewähren, danach jedenfalls ordentlich aufnehmen. Wer schwänzt, erfüllt die Voraussetzung nicht. Zum Nachlesen: SchUG §4 Abs.3.",
+    "hauptquelle": "SchUG §4 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-011",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet über die Deutschförderklasse: Sie ist eine Klasse wie jede andere, deshalb gelten alle klassenbezogenen Vorschriften unverändert für sie.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Förderklassen sind rechtlich keine Klassen."
+    ],
+    "aufloesung": "Förderklassen rechtlich nicht wie Regelklassen behandeln, Förderung davon unberührt fortsetzen. Zum Nachlesen: SchUG §2b Abs.5.",
+    "hauptquelle": "SchUG §2b Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L3-012",
+    "modul_id": "A02",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Kinder der Deutschförderklasse werden ein ganzes Jahr vollständig getrennt unterrichtet, auch in Sport, Werken und Musik, obwohl gemeinsame Stunden mit der Regelklasse organisatorisch leicht möglich wären. Die Kinder fühlen sich ausgeschlossen, die Regelklasse kennt sie kaum.",
+    "optionen": [
+      "Die dauerhafte Trennung ist richtig, gemeinsame Stunden sind verboten.",
+      "In Gegenständen, die nicht primär dem Spracherwerb dienen, die Förderklasse nach Möglichkeit gemeinsam mit der Regelklasse führen.",
+      "Gemeinsame Stunden nur gegen Aufpreis anbieten.",
+      "Die Förderkinder dauerhaft vom Sport befreien."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Trennung ist kein Selbstzweck.",
+      "Richtig: Gemeinsame Führung erhält den Anschluss an die Klasse.",
+      "Falsch: Geld hat mit Stundenplanung nichts zu tun.",
+      "Falsch: Befreiung statt Anschluss ist verkehrt."
+    ],
+    "aufloesung": "Stundenplan so bauen, dass geeignete Gegenstände gemeinsam stattfinden. Anschluss hält, wer gemeinsam lernt. Zum Nachlesen: SchUG §9 Abs.1b.",
+    "hauptquelle": "SchUG §9 Abs.1b",
+    "zusatzquellen": [
+      "SchUG §4 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  }
+]

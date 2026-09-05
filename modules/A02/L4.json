@@ -1,1 +1,264 @@
-[]
+[
+  {
+    "id": "A02-L4-001",
+    "modul_id": "A02",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Familie Kovac zieht im November mit Tochter Ema, die an der alten Schule eine Deutschförderklasse besucht, von Kufstein nach Wörgl. Die neue Sprengelschule will Ema abweisen und an die alte Schule zurückschicken, weil dort die Förderung begonnen habe. Die alte Schule hat weder Testergebnis noch Leistungsstand weitergegeben.",
+    "optionen": [
+      "Abweisen und zurückschicken, die Förderung bindet das Kind an die alte Schule.",
+      "Die neue Sprengelschule nimmt Ema auf und setzt die Förderung fort, die alte Schule gibt Testergebnis und Leistungsstand unverzüglich an die neue Schule weiter.",
+      "Ema bleibt ein halbes Jahr ohne Schule, bis wieder Plätze frei sind.",
+      "Die Förderung beginnt ohne jede Information von vorne, Aktenweitergabe ist verboten."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Begonnene Förderung begründet keine Abweisung.",
+      "Richtig: Zuständigkeit plus Weitergabe sichern die nahtlose Förderung.",
+      "Falsch: Schulpflicht duldet kein halbes Jahr Leerlauf.",
+      "Falsch: Gerade die Weitergabe ist vorgeschrieben."
+    ],
+    "aufloesung": "Aufnehmen, Testergebnis und Leistungsstand unverzüglich anfordern und Förderung fortsetzen. Umzug unterbricht weder Zuständigkeit noch Förderung. Zum Nachlesen: SchUG §4 Abs.4a.",
+    "hauptquelle": "SchUG §4 Abs.4a",
+    "zusatzquellen": [
+      "SchUG §5 Abs.7"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L4-002",
+    "modul_id": "A02",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Familie Nasser zieht nach Lienz und meldet Sohn Omar, sieben Jahre alt, ohne Vorschulbildung und mit kaum Deutschkenntnissen, direkt als ordentlichen Schüler an einer Wunschschule außerhalb des Wohnsprengels an. Weder eine standardisierte Feststellung noch ein Orientierungsgespräch finden statt, eine Bewilligung für den sprengelfremden Besuch wird nicht beantragt.",
+    "optionen": [
+      "Die Vorgangsweise ist korrekt, Eltern wählen frei und alle Verfahren sind freiwillig.",
+      "Zuerst standardisierte Feststellung mit Zuweisung und Orientierungsgespräch durchführen, für die Wunschschule braucht es zusätzlich die sprengelfremde Bewilligung.",
+      "Es genügt, wenn die Eltern versprechen, zu Hause Deutsch zu üben, dann entfällt jedes Verfahren.",
+      "Omar muss ein Jahr warten, bis er Deutsch kann, und darf bis dahin keine Schule besuchen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Freie Wahl ersetzt weder Testung noch Gespräch noch Sprengelregel.",
+      "Richtig: Förderweg klären und Sprengelzuständigkeit beachten.",
+      "Falsch: Ein Versprechen ersetzt kein Verfahren.",
+      "Falsch: Warten statt Fördern verletzt die Schulpflicht."
+    ],
+    "aufloesung": "Testung und Gespräch nachholen, Förderweg zuweisen und sprengelfremde Bewilligung einholen. Drei Schritte, kein Wunschkonzert. Zum Nachlesen: SchUG §4 Abs.2a.",
+    "hauptquelle": "SchUG §4 Abs.2a",
+    "zusatzquellen": [
+      "SchUG §4 Abs.2b",
+      "SchUG §5 Abs.7"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L4-003",
+    "modul_id": "A02",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "AHS"
+    ],
+    "situation": "Ein Gymnasium ohne eigenen Sprengel in Innsbruck hat 60 Plätze und 85 Anmeldungen für die erste Klasse. Darunter sind drei außerordentliche Bewerber mit Sprachförderbedarf. Die Direktorin will sie pauschal ablehnen, weil Deutsch fehle, und die übrigen Plätze nach Bauchgefühl ohne dokumentierte Kriterien vergeben.",
+    "optionen": [
+      "Pauschale Ablehnung wegen Sprache und Vergabe nach Bauchgefühl sind zulässig.",
+      "Für alle Bewerber gleiche sachliche Kriterien mit Leistung, Nähe und Geschwisterbesuch anwenden, der Förderbedarf steuert den Förderweg und ersetzt kein Reihungsverfahren.",
+      "Außerordentliche Bewerber immer vor allen ordentlichen aufnehmen.",
+      "Die Plätze versteigern und Ablehnungen nur mündlich mitteilen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Pauschale und Willkür verletzen das Reihungsverfahren.",
+      "Richtig: Gleiche Kriterien für alle, Förderung als eigene Schiene.",
+      "Falsch: Einen generellen Vorrang gibt es nicht.",
+      "Falsch: Geld und Mündlichkeit sind keine Verfahren."
+    ],
+    "aufloesung": "Reihung nach gleichen dokumentierten Kriterien wiederholen und Förderweg gesondert zuweisen. Sprache sortiert die Förderung, nicht die Warteliste. Zum Nachlesen: SchUG §5 Abs.1.",
+    "hauptquelle": "SchUG §5 Abs.1",
+    "zusatzquellen": [
+      "SchUG §4 Abs.2a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L4-004",
+    "modul_id": "A02",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Eine private Mittelschule in Wörgl nimmt gegen Schulgeld zwei Kinder ohne jede Feststellung der Deutschkenntnisse als ordentliche Schüler auf. Eines davon folgt dem Unterricht sprachlich kaum. Die Leitung meint, der unterschriebene Vertrag ersetze alle schulrechtlichen Voraussetzungen.",
+    "optionen": [
+      "Vertrag und Geld ersetzen Voraussetzungen und Testung.",
+      "Schulrechtliche Voraussetzungen gelten auch dort, die Zuweisung nach standardisiertem Verfahren ist nachzuholen, ein Vertrag ohne Voraussetzungen ist rechtsunwirksam.",
+      "Der Zeitablauf heilt jeden Mangel automatisch.",
+      "Die Behörde darf mangelhafte Aufnahmen nicht prüfen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kauf ersetzt kein Schulrecht.",
+      "Richtig: Voraussetzungen prüfen, Verfahren nachholen, Akte sanieren.",
+      "Falsch: Zeit heilt fehlende Voraussetzungen nicht.",
+      "Falsch: Die Prüfung bleibt zulässig."
+    ],
+    "aufloesung": "Feststellung nachholen, Förderweg korrekt zuweisen und Verträge an den Voraussetzungen ausrichten. Geld kauft keine Aufnahme. Zum Nachlesen: SchUG §5 Abs.6.",
+    "hauptquelle": "SchUG §5 Abs.6",
+    "zusatzquellen": [
+      "SchUG §4 Abs.2a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L4-005",
+    "modul_id": "A02",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Familie Demir zieht mitten in der sechsmonatigen Orientierungsphase ihres Sohnes von Schwaz nach Innsbruck. Die Eltern nennen der alten Schule die neue Schule nicht. Die alte Schule gibt weder Gesprächsergebnis noch Leistungsstand weiter. Die neue Schule beginnt ohne jede Information von vorne und setzt weder Gespräch noch Förderung fort. Was ist alles falsch? Wähle alles Zutreffende.",
+    "optionen": [
+      "Die Eltern müssen der alten Schule die neue Schule mitteilen.",
+      "Die alte Schule muss Gesprächsergebnis und Leistungsstand unverzüglich an die neue Schule weitergeben.",
+      "Die neue Schule muss an den Bedarf anknüpfen statt von null zu starten.",
+      "Das Schweigen aller Beteiligten ist zulässig, die Förderung endet bei Umzug automatisch.",
+      "Die neue Schule darf keine Informationen über das Kind erhalten.",
+      "Der Orientierungsbedarf erlischt durch Umzug von selbst."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Meldepflicht der Eltern sichert den Übergang.",
+      "Richtig: Weitergabe sichert die Förderkontinuität.",
+      "Richtig: Anknüpfen statt Neustart ohne Akte.",
+      "Falsch: Schweigen beendet keine Förderung.",
+      "Falsch: Gerade die Information ist vorgeschrieben.",
+      "Falsch: Bedarf zieht mit um."
+    ],
+    "aufloesung": "Meldung nachholen, Unterlagen unverzüglich weitergeben und Förderung an der neuen Schule fortsetzen. Umzug ist Organisation, kein Förderende. Zum Nachlesen: SchUG §4 Abs.4a.",
+    "hauptquelle": "SchUG §4 Abs.4a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L4-006",
+    "modul_id": "A02",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Denis ist seit September 2023 außerordentlich wegen mangelnder Deutschkenntnisse, im Juni 2024 einmalig verlängert. Im Juni 2025 reicht sein Deutsch für den Regelunterricht noch nicht. Die Schule bietet ein drittes Jahr außerordentlich an. Nach Umzug nach Imst verlangt die neue Schule eine komplette Neuaufnahme mit jährlicher Anmeldung. Was gilt? Wähle alles Richtige.",
+    "optionen": [
+      "Nach zwölf plus höchstens zwölf Monaten ist jedenfalls ordentlich aufzunehmen, auch bei Lücken.",
+      "Eine zweite Verlängerung ins dritte Jahr ist unzulässig.",
+      "Die begleitende Deutschförderung läuft nach ordentlicher Aufnahme weiter.",
+      "Ein drittes Jahr außerordentlich bis zur Perfektion ist zulässig.",
+      "Bei Umzug erlischt jede Förderung automatisch.",
+      "Eine jährliche Neuanmeldung ist nötig, sonst geht der Platz verloren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fristende erzwingt den Wechsel in ordentlich.",
+      "Richtig: Nur einmal ist Verlängerung möglich.",
+      "Richtig: Ordentlich beendet nicht die Förderung.",
+      "Falsch: Perfektion ist keine Voraussetzung für ordentlich.",
+      "Falsch: Förderung zieht mit um.",
+      "Falsch: Die Aufnahme wirkt für alle Stufen fort."
+    ],
+    "aufloesung": "Jedenfalls ordentlich aufnehmen und begleitend weiter fördern, Testergebnis und Stand an die neue Schule weitergeben. Die Frist ist absolut, der Platz bleibt. Zum Nachlesen: SchUG §4 Abs.3.",
+    "hauptquelle": "SchUG §4 Abs.3",
+    "zusatzquellen": [
+      "SchUG §4 Abs.4a",
+      "SchUG §3 Abs.8"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L4-007",
+    "modul_id": "A02",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Leila besucht seit Februar eine Deutschförderklasse in Kitzbühel. Im Juni zieht die Familie nach St. Johann. Beide Schulen streiten, wer sie für das zweiwöchige Ferienförderangebot mit Deutschschwerpunkt anmeldet. Die Eltern halten die Teilnahme für freiwillig und wollen absagen.",
+    "optionen": [
+      "Für Förderklassenkinder besteht jedenfalls Teilnahmepflicht mit Deutschförderung.",
+      "Bei Pflicht meldet die Schulleitung amtswegig an und informiert die Eltern.",
+      "Die Anmeldung ist an der eigenen oder an der künftig besuchten Schule möglich.",
+      "Die Teilnahme ist freiwillig und eine Absage genügt.",
+      "Bei Umzug entfällt die Pflicht automatisch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese Gruppe ist jedenfalls dabei.",
+      "Richtig: Amtswegige Anmeldung plus Elterninfo ist vorgesehen.",
+      "Richtig: Beide Schulen kommen für die Anmeldung in Frage.",
+      "Falsch: Für diese Gruppe ist sie Pflicht.",
+      "Falsch: Umzug beendet die Pflicht nicht."
+    ],
+    "aufloesung": "Amtswegig an einer der beiden Schulen anmelden und Teilnahme sicherstellen. Zuständigkeitsstreit entbindet niemanden. Zum Nachlesen: SchUG §12 Abs.6a.",
+    "hauptquelle": "SchUG §12 Abs.6a",
+    "zusatzquellen": [
+      "SchUG §12 Abs.10"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A02-L4-008",
+    "modul_id": "A02",
+    "level": "L4",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer in Tirol: Eine Kollegin behauptet über außerordentliche Kinder mit Sprachförderbedarf: Bei Umzug in einen anderen Sprengel endet die Förderung automatisch und jedes Jahr ist eine Neuanmeldung nötig, sonst geht der Platz verloren.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Umzug und Zeitablauf beenden weder Förderung noch Aufnahme.",
+      "Richtig erkannt: Weitergabe sichert Förderung, Aufnahme wirkt fort."
+    ],
+    "aufloesung": "Förderung mit Weitergabe von Ergebnis und Stand fortsetzen, keine Neuanmeldung verlangen. Zum Nachlesen: SchUG §4 Abs.4a.",
+    "hauptquelle": "SchUG §4 Abs.4a",
+    "zusatzquellen": [
+      "SchUG §3 Abs.8"
+    ],
+    "stand": "04.09.2026"
+  }
+]
