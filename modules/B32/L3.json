@@ -1,1 +1,383 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §57 Abs.1",
+    "id": "B32-L3-001",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Ablehnung ist rechtswidrig, weil jeder Fortbildungswunsch automatisch einen Sonderurlaub auslöst.",
+      "Die Ablehnung ist rechtmäßig, weil der Kurs keinen Zusammenhang mit seiner Lehrtätigkeit hat.",
+      "Die Direktion muss den Urlaub gewähren und dafür den Mathematikunterricht ersatzlos entfallen lassen.",
+      "Der Lehrer kann den Sonderurlaub durch bloße Anzeige an die Direktion selbst bewirken."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sonderurlaub braucht einen passenden Anlass und ein Ansuchen, er entsteht nicht automatisch.",
+      "Richtig: Ohne fachlichen Bezug zur Lehrtätigkeit fehlt der Anlass für diesen Sonderurlaub.",
+      "Falsch: Entfall des Unterrichts ohne Vertretung ist keine Lösung für einen Freizeitwunsch.",
+      "Falsch: Eine bloße Anzeige ersetzt Ansuchen und Bewilligung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Mathematiklehrer Auer beantragt für eine Woche Sonderurlaub, um an einem privaten Bergfotografie-Workshop in den Alpen teilzunehmen. Einen Bezug zu seinem Unterricht kann er nicht nennen, der Workshop diene rein seinem Hobby. Die Direktion lehnt den Antrag ab, weil sie darin keine Fortbildung für seine Lehrtätigkeit sieht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Ablehnung ist rechtmäßig, weil der Fotoworkshop keine Fortbildung für Auers Lehrtätigkeit ist. Sonderurlaub setzt ein Ansuchen mit passendem Anlass voraus, ein reines Hobby trägt ihn nicht. Zum Nachlesen: LDG §57 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §57 Abs.3",
+    "id": "B32-L3-002",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Ablehnung ist rechtswidrig, weil fachlich passende Fortbildung immer Vorrang vor dem Unterricht hat.",
+      "Die Ablehnung ist rechtmäßig, weil in der Maturawoche zwingende dienstliche Erfordernisse entgegenstehen.",
+      "Die Direktion muss die mündliche Matura absagen, damit der Lehrer den Kurs besuchen kann.",
+      "Der Lehrer darf den Kurs ersatzweise in den Sommerferien als Sonderurlaub nachholen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch die beste Fortbildung überwindet keine zwingenden Diensterfordernisse.",
+      "Richtig: Die eingeteilte Prüfungstätigkeit mit fehlender Vertretung sperrt die Gewährung.",
+      "Falsch: Abschlussprüfungen werden für einen Kurswunsch nicht abgesagt.",
+      "Falsch: In den Ferien braucht es mangels Dienstpflicht keinen Sonderurlaub."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Brunner, als Prüfer für die mündliche Matura eingeteilt, beantragt genau für diese Woche Sonderurlaub für einen fachlich durchaus passenden Methodikkurs. Eine Vertretung für seine Prüfungskommission ist nicht zu finden. Die Direktion lehnt den Antrag wegen der Prüfungswoche ab.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Ablehnung ist rechtmäßig, weil die Maturawoche mit fehlender Vertretung ein zwingendes Erfordernis ist. Selbst ein fachlich passender Kurs tritt hinter den gesicherten Prüfungsbetrieb zurück. Zum Nachlesen: LDG §57 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §57 Abs.4",
+    "id": "B32-L3-003",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Der Antrag ist zu bewilligen, weil Fortbildungen von der Jahreshöchstgrenze ausgenommen sind.",
+      "Der Antrag ist abzuweisen, weil alle Sonderurlaube des Kalenderjahres zusammen zwölf Wochen nicht übersteigen dürfen.",
+      "Die Grenze gilt nur für Familienanlässe und nicht für Fortbildungsurlaube.",
+      "Die Zwölf-Wochen-Grenze wird je Schuljahr neu berechnet und ist hier noch offen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch Fortbildungsurlaube zählen für die Jahreshöchstgrenze voll mit.",
+      "Richtig: Zehn plus vier Wochen sprengen die Zwölf-Wochen-Grenze des Kalenderjahres.",
+      "Falsch: Die Grenze erfasst alle bewilligten Sonderurlaube unterschiedslos.",
+      "Falsch: Maßgeblich ist das Kalenderjahr, nicht das Schuljahr."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Czerny hat in diesem Kalenderjahr bereits zehn Wochen Sonderurlaub für Familienangelegenheiten und Fortbildungen erhalten. Nun beantragt sie vier weitere Wochen für einen Herbstlehrgang und meint, Fortbildung falle nie unter eine Höchstgrenze. Die Direktion prüft den Jahresgrenzfall.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Der Antrag ist abzuweisen, weil die Zwölf-Wochen-Grenze des Kalenderjahres bereits überschritten wäre. Auch der beste Kurs hilft nicht über die Jahreshöchstgrenze aller Sonderurlaube hinweg. Zum Nachlesen: LDG §57 Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §57 Abs.1a",
+    "id": "B32-L3-004",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Der Urlaub ist im beantragten Ausmaß zu gewähren, weil die Dauer frei wählbar ist.",
+      "Der Urlaub kann höchstens im Ausmaß von drei Monaten gewährt werden, der Überhang ist zu kürzen.",
+      "Der IT-Sonderurlaub steht nur Lehrern mit Informatikstudium zu und ist hier ausgeschlossen.",
+      "Der Lehrer kann die fünf Monate in zwei Kalenderjahren einfach aneinanderhängen und so umgehen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für diesen zweckgebundenen Urlaub gilt eine feste Höchstgrenze.",
+      "Richtig: Drei Monate sind die Obergrenze, der Rest des Antrags ist zu versagen.",
+      "Falsch: Jede Lehrperson kann um den Erwerb zusätzlicher IT-Kenntnisse ansuchen.",
+      "Falsch: Aneinanderhängen über den Jahreswechsel umgeht die Zweckgrenze nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "BHS"
+    ],
+    "situation": "Lehrer Dobler will einen fünfmonatigen Intensivkurs zu neuen Computerprogrammen für den Unterricht besuchen und beantragt dafür einen Sonderurlaub zum Erwerb zusätzlicher Computerkenntnisse. Die Personalstelle prüft das beantragte Ausmaß und hält fünf Monate für zu viel.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Dobler bekommt höchstens drei Monate, der Überhang ist zu versagen. Der zweckgebundene Urlaub für zusätzliche Computerkenntnisse ist auf dieses Ausmaß gedeckelt. Zum Nachlesen: LDG §57 Abs.1a."
+  },
+  {
+    "hauptquelle": "LDG §23b Abs.1",
+    "id": "B32-L3-005",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Entsendung ist auch gegen ihren Willen zulässig, weil Fortbildung Dienstpflicht ist.",
+      "Die Entsendung ist ohne ihre Zustimmung unzulässig, weil sie das Einverständnis voraussetzt.",
+      "Die Zustimmung kann durch einen Mehrheitsbeschluss der Schulkonferenz ersetzt werden.",
+      "Eine Entsendung an eine ausländische Partnereinrichtung braucht ebenfalls keine Zustimmung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die allgemeine Fortbildungspflicht ersetzt nicht die nötige Zustimmung.",
+      "Richtig: Ohne Einverständnis der Lehrperson scheidet diese Entsendung aus.",
+      "Falsch: Kein Gremium kann die persönliche Zustimmung der Lehrperson ersetzen.",
+      "Falsch: Ziel sind Einrichtungen eines anderen inländischen Rechtsträgers, und auch dort nur mit Zustimmung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger soll für ein halbes Jahr an die Bildungseinrichtung eines anderen Rechtsträgers gehen, um sich dort für ihre künftige Verwendung weiterzubilden. Sie lehnt das ausdrücklich ab, die Behörde will die Entsendung dennoch verfügen. Egger fragt, ob das gegen ihren Willen geht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Gegen Eggers Willen geht diese Entsendung nicht, weil sie ihr Einverständnis voraussetzt. Die Entsendung zu Fortbildungszwecken an eine fremde Einrichtung ist ohne Zustimmung unzulässig. Zum Nachlesen: LDG §23b Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §23b Abs.3",
+    "id": "B32-L3-006",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Verlängerung ist zulässig, weil die Dauer allein die Lehrperson bestimmt.",
+      "Die Verlängerung ist unzulässig, weil diese Entsendung spätestens nach sechs Monaten endet.",
+      "Sechs Monate gelten nur als Empfehlung und können bei Bedarf verdoppelt werden.",
+      "Jede Entsendung dauert automatisch sechs Jahre und darf nicht kürzer sein."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Dauer richtet sich nach dem Anlass und seiner gesetzlichen Höchstgrenze.",
+      "Richtig: Nach sechs Monaten ist bei diesem Entsendungszweck endgültig Schluss.",
+      "Falsch: Die Sechs-Monats-Grenze ist eine harte Schranke, keine Empfehlung.",
+      "Falsch: Sechs Jahre gelten für andere Entsendungszwecke, nicht für die Fortbildung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BS",
+      "BHS"
+    ],
+    "situation": "Berufsschullehrer Feiler ist seit fünf Monaten zu Fortbildungszwecken an eine andere Einrichtung entsendet. Nun soll der Aufenthalt auf insgesamt neun Monate verlängert werden, weil das Projekt so spannend läuft. Feiler fragt, ob diese Verlängerung überhaupt möglich ist.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Verlängerung auf neun Monate ist unzulässig, weil diese Entsendung nach sechs Monaten endet. Die angemessene Dauer findet in der Sechs-Monats-Grenze ihre absolute Schranke. Zum Nachlesen: LDG §23b Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §23b Abs.5",
+    "id": "B32-L3-007",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Die gebührenden Leistungen für die Entsendung stehen dem Lehrer grundsätzlich zu.",
+      "Ein Verzicht auf diese Leistungen wirkt nur in schriftlicher Form.",
+      "Ein teilweiser Verzicht auf einen Teil der Leistungen ist wirksam möglich.",
+      "Ein mit Bedingungen versehener Verzicht ist rechtsunwirksam.",
+      "Eine mündliche Nebenbei-Erklärung am Telefon genügt für einen wirksamen Verzicht.",
+      "Ein Verzicht mit der Bedingung guter Beurteilung durch die Gasteinrichtung bleibt voll wirksam."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Leistungen für Fahrt und Reise bei der Entsendung bleiben der Grundsatz.",
+      "Richtig: Schriftlichkeit ist Wirksamkeitsvoraussetzung für jeden Verzicht.",
+      "Falsch: Ein Teilverzicht ist ausdrücklich ausgeschlossen und damit unwirksam.",
+      "Richtig: Jede beigefügte Bedingung macht den Verzicht rechtsunwirksam.",
+      "Falsch: Mündliche Erklärungen erfüllen die Schriftform nicht.",
+      "Falsch: Genau solche Bedingungen vernichten die Wirksamkeit des Verzichts."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber ist zu Fortbildungszwecken an eine andere Einrichtung entsendet und streitet mit der Personalstelle über seine Fahrtkosten. Er hat am Telefon erklärt, auf die Hälfte der Erstattungen zu verzichten, falls er dafür gut beurteilt werde. Die Stelle prüft, was von alledem rechtlich hält. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Gruber behält grundsätzlich seine Leistungen, denn sein Verzicht ist in jeder Hinsicht unwirksam. Wirksam wäre nur ein schriftlicher, ungeteilter und bedingungsloser Verzicht gewesen. Zum Nachlesen: LDG §23b Abs.5."
+  },
+  {
+    "hauptquelle": "LDG §23b Abs.4",
+    "id": "B32-L3-008",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Erhaltene Honorare Dritter aus der Entsendung sind an das Land abzuführen.",
+      "Für die Dauer der Entsendung gilt die Ziel-Einrichtung als seine Dienststelle.",
+      "Die Entsendung ist in der dem Anlass angemessenen Dauer zu halten.",
+      "Erhaltene Nebeneinkünfte dürfen stillschweigend als Taschengeld behalten werden.",
+      "Die Entsendung darf ohne jede Rücksicht auf den Anlass beliebig lange dauern.",
+      "Die Gasteinrichtung bleibt ein fremder Ort ohne jede dienstliche Zuordnung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Drittzuwendungen aus der Entsendung gehören dem Land, nicht dem Lehrer.",
+      "Richtig: Für die Entsendungsdauer wird die Einrichtung dienstrechtlich zur Dienststelle.",
+      "Richtig: Die angemessene Dauer ist die erste Grenze jeder Entsendung.",
+      "Falsch: Stillschweigendes Behalten verletzt die Abführungspflicht.",
+      "Falsch: Spätestens die Sechs-Monats-Grenze zieht eine harte Schranke.",
+      "Falsch: Die Einrichtung gilt für die Dauer ausdrücklich als Dienststelle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Hartl ist zu Fortbildungszwecken an eine andere Bildungseinrichtung entsendet und erhält dort für einen Gastvortrag ein Honorar von dritter Seite. Sie will das Geld als privates Taschengeld behalten und meint, die Gasteinrichtung gehe den Dienstgeber nichts an. Die Behörde prüft Nebeneinkünfte und Dienststellenzuordnung. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §23b Abs.2",
+      "LDG §23b Abs.3"
+    ],
+    "aufloesung": "Hartl muss das Honorar abführen, denn Drittzuwendungen aus der Entsendung gehören dem Land. Für die Dauer gilt die Gasteinrichtung als ihre Dienststelle und die Entsendung bleibt anlassangemessen begrenzt. Zum Nachlesen: LDG §23b Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §35 Abs.1",
+    "id": "B32-L3-009",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Ohne Ansuchen und Bewilligung darf er dem Unterricht nicht einfach fernbleiben.",
+      "Er hat den Grund seiner Abwesenheit unverzüglich zu melden und zu rechtfertigen.",
+      "Ein selbst gewählter Kurs ohne jede Genehmigung entschuldigt das Fernbleiben nicht.",
+      "Schweigen bis zur Rückkehr und Nachreichen einer Kursbestätigung genügen als Rechtfertigung.",
+      "Die Direktion muss jede nachträglich behauptete Fortbildung rückwirkend als Sonderurlaub werten.",
+      "Wer einfach wegbleibt, handelt dienstrechtlich einwandfrei, solange der Kurs nützlich war."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sonderurlaub entsteht nur auf Ansuchen mit Bewilligung, nie von selbst.",
+      "Richtig: Jede Abwesenheit ohne Befreiung braucht sofortige Meldung und Rechtfertigung.",
+      "Richtig: Nützlichkeit allein ersetzt die fehlende Genehmigung nicht.",
+      "Falsch: Schweigen verletzt die unverzügliche Meldepflicht.",
+      "Falsch: Eine rückwirkende Umdeutung in Sonderurlaub gibt es nicht.",
+      "Falsch: Eigenmächtiges Fernbleiben bleibt pflichtwidrig, egal wie gut der Kurs war."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Volksschullehrer Irschik fährt ohne jedes Ansuchen zu einem dreitägigen Privatkurs, lässt seine Klassen unversorgt zurück und meldet sich erst nach seiner Rückkehr mit einer Teilnahmebestätigung in der Hand. Er meint, der nützliche Kurs rechtfertige alles rückwirkend. Die Direktion prüft den eigenmächtigen Antritt. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §57 Abs.1"
+    ],
+    "aufloesung": "Irschiks Verhalten ist pflichtwidrig, denn ohne Bewilligung gab es keine Freistellung und ohne Meldung keine Rechtfertigung. Erst Ansuchen plus Bewilligung plus unverzügliche Meldung machen eine Fortbildungsabwesenheit ordnungsgemäß. Zum Nachlesen: LDG §35 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §57 Abs.3",
+    "id": "B32-L3-010",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Der Sonderurlaub deckt nur die dem Anlass angemessene Dauer, nicht angehängte Privattage.",
+      "Die private Verlängerung ohne Befreiung ist unverzüglich zu melden und zu rechtfertigen.",
+      "Nach dem Kursende eigenmächtig angehängte Urlaubstage sind vom Sonderurlaub nicht gedeckt.",
+      "Bewilligte Fortbildungstage dürfen beliebig in private Urlaubstage umgewidmet werden.",
+      "Die Direktion muss eine stille Verlängerung aus Kollegialität stets dulden.",
+      "Wer den Kurs besucht hat, darf danach beliebig lange wegbleiben, ohne jemandem Bescheid zu geben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur was der Anlass trägt, ist vom Sonderurlaub gedeckt.",
+      "Richtig: Jede weitere Abwesenheit braucht sofortige Meldung und Rechtfertigung.",
+      "Richtig: Angehängte Privattage fallen aus dem bewilligten Urlaub heraus.",
+      "Falsch: Umwidmen bewilligter Tage in Privaturlaub ist ein Missbrauch der Freistellung.",
+      "Falsch: Kollegialität ersetzt Befreiung und Meldung nicht.",
+      "Falsch: Wegbleiben ohne Bescheid verletzt die Meldepflicht in jedem Fall."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "PTS",
+      "BS"
+    ],
+    "situation": "Lehrer Janda bekommt zwei Tage Sonderurlaub für einen Fachkurs in einer anderen Stadt bewilligt. Er besucht den Kurs, hängt aber ohne jede Meldung drei private Tage dran und kehrt erst danach an die Schule zurück. Auf Nachfrage meint er, die bewilligten Tage könne er nutzen, wie er wolle. Die Direktion prüft den Missbrauchsfall. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §35 Abs.1"
+    ],
+    "aufloesung": "Jandas Verlängerung ist nicht gedeckt, denn der Sonderurlaub trägt nur die dem Kurs angemessene Dauer. Die angehängten Privattage brauchten eine eigene Befreiung und jedenfalls eine unverzügliche Meldung. Zum Nachlesen: LDG §57 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §32 Abs.6",
+    "id": "B32-L3-011",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Ergebnisse des Gesprächs sind schriftlich zusammenzufassen.",
+      "Die Zusammenfassung ist von Leitung und Lehrperson zu unterfertigen.",
+      "Eine Ausfertigung der Zusammenfassung verbleibt bei der Lehrperson.",
+      "Die Leitung darf die Gesprächsführung an ihre Stellvertretung übertragen.",
+      "Der Lehrer kann Unterschrift und Ausfertigung folgenlos verweigern, ohne dass etwas geschieht.",
+      "Die Leitung darf die schriftliche Zusammenfassung ersatzlos durch ein Gedächtnisprotokoll für sich allein ersetzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schriftlichkeit sichert die vereinbarte Drei-Jahres-Planung.",
+      "Richtig: Beide Unterschriften belegen das gemeinsame Gesprächsergebnis.",
+      "Richtig: Die eigene Ausfertigung gehört zwingend der Lehrperson.",
+      "Richtig: Die Übertragung an die Stellvertretung ist ausdrücklich zulässig.",
+      "Falsch: Verweigert der Lehrer die Mitwirkung, ist das als Dienstpflichtverstoß zu werten und zu dokumentieren.",
+      "Falsch: Ein einseitiger interner Vermerk ersetzt Zusammenfassung, Unterschrift und Ausfertigung nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Kaufmann erscheint zwar zum Planungsgespräch über seine Fortbildung für die kommenden drei Jahre, verweigert danach aber Unterschrift und Entgegennahme jeder Unterlage. Die Direktorin, vertreten durch ihre Stellvertreterin, will das Gespräch nun nur mündlich abhaken und nichts aushändigen. Beide fragen, was rechtlich gilt. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §32 Abs.7"
+    ],
+    "aufloesung": "Beide liegen falsch, denn das Gespräch endet zwingend mit beidseitig unterfertigter Zusammenfassung und Ausfertigung für den Lehrer. Die Führung durch die Stellvertretung ist zulässig, das Abhaken ohne Papier ist es nicht. Zum Nachlesen: LDG §32 Abs.6."
+  },
+  {
+    "hauptquelle": "LDG §57 Abs.1",
+    "id": "B32-L3-012",
+    "level": "L3",
+    "modul_id": "B32",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Der Urlaub ist anlassgebunden und deckt nur die passende Dauer.",
+      "Richtig erkannt: Umwidmen in Privaturlaub ist ein Missbrauch der Freistellung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Eine Kollegin behauptet, einmal bewilligte Fortbildungstage könne man beliebig für private Erledigungen oder einen Kurzurlaub verwenden, kontrolliere ohnehin niemand.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, denn der Sonderurlaub gilt nur für den bewilligten Anlass in angemessener Dauer. Zweckwidrige Nutzung ist ein Missbrauch der Dienstfreistellung und keine Freiheit des Lehrers. Zum Nachlesen: LDG §57 Abs.1."
+  }
+]

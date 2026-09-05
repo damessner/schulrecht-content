@@ -1,1 +1,263 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §32 Abs.8",
+    "id": "B32-L4-001",
+    "level": "L4",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Anordnung ist unbeachtlich, weil über Fortbildung allein der Lehrer entscheidet.",
+      "Die Anordnung ist wirksam und ihre Missachtung ist ein Dienstpflichtverstoß mit Folgen für die Beurteilung.",
+      "Die Leitung darf digitale Kompetenzen weder beurteilen noch einen Kurs anordnen.",
+      "Der Lehrer kann die Anordnung durch eine Selbsteinschätzung auf einem Zettel ersetzen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Leitung beurteilt im Zuge der Planung und ordnet bei Bedarf an.",
+      "Richtig: Wirksame Anordnung plus beharrliche Weigerung wirken bis in die Leistungsbeurteilung hinein.",
+      "Falsch: Beurteilung und Anordnung sind ausdrücklich vorgesehen.",
+      "Falsch: Eine private Selbsteinschätzung ersetzt die Leitungsbeurteilung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Mittelschullehrerin Larcher meidet seit Jahren jede digitale Lernplattform, ihre Klassen arbeiten ausschließlich mit kopierten Arbeitsblättern von früher. Die Direktorin stellt im Planungsgespräch deutliche Lücken fest und ordnet den Besuch eines Methodenkurses für digitale Werkzeuge an. Larcher bleibt dem Kurs ohne Entschuldigung fern und meint, das habe keine weiteren Folgen. Bald darauf steht ihre Leistungsbeurteilung an.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Larchers Fernbleiben ist ein Verstoß gegen eine wirksame Anordnung und strahlt auf ihre Beurteilung aus. Die Leitung durfte nach festgestellten Lücken genau diesen Kurs auftragen, beharrliche Weigerung bleibt nicht folgenlos. Zum Nachlesen: LDG §32 Abs.8.",
+    "zusatzquellen": [
+      "LDG §62 Abs.1"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §23b Abs.2",
+    "id": "B32-L4-002",
+    "level": "L4",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Entsendung ist rechtlich ein Privataufenthalt ohne jede dienstliche Zuordnung.",
+      "Für die Entsendungsdauer gilt die Ziel-Einrichtung als ihre Dienststelle mit allen Meldepflichten.",
+      "Ihre alte Schule bleibt währenddessen ihre einzige Dienststelle, die neue Einrichtung zählt nicht.",
+      "Mit der Entsendung endet ihr Dienstverhältnis und sie wird private Kursteilnehmerin."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Entsendung bleibt eine dienstliche Verwendung mit klarer Zuordnung.",
+      "Richtig: Dienststelleneigenschaft plus dortige Melde- und Dienstpflichten gelten für die ganze Dauer.",
+      "Falsch: Für die Dauer tritt die Ziel-Einrichtung an die Stelle der Stammschule.",
+      "Falsch: Das Dienstverhältnis läuft unverändert weiter, nur der Einsatzort wechselt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Mayr ist mit ihrem Einverständnis für fünf Monate zu Fortbildungszwecken an eine Bildungseinrichtung eines anderen Rechtsträgers entsendet. Als sie dort erkrankt, meldet sie sich weder bei der Gast- noch bei der Stammschule und meint, während der Entsendung sei sie nirgends dienstpflichtig. Die Personalstelle prüft ihre dienstliche Zuordnung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Mayr bleibt voll dienstpflichtig, denn die Gasteinrichtung gilt für die Dauer als ihre Dienststelle. Erkrankung und Abwesenheit sind dort wie an der Stammschule unverzüglich zu melden. Zum Nachlesen: LDG §23b Abs.2.",
+    "zusatzquellen": [
+      "LDG §35 Abs.1"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.1",
+    "id": "B32-L4-003",
+    "level": "L4",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Weigerung ist Privatsache und darf in der Leistungsfeststellung keine Rolle spielen.",
+      "Die veraltete Unterrichtsleistung darf festgestellt werden, weil Umfang und Wertigkeit der Leistungen maßgeblich sind.",
+      "Für die Feststellung zählen nur Sympathie im Kollegium und langes Dienstalter.",
+      "Fortbildungserfolg darf grundsätzlich nie in eine Leistungsbeurteilung einfließen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Was und wie gut geleistet wird, ist gerade der Maßstab der Feststellung.",
+      "Richtig: Veralteter Unterricht nach jahrelanger Fortbildungsverweigerung mindert die Wertigkeit der Leistung.",
+      "Falsch: Sympathie und Dienstalter sind keine Feststellungsmaßstäbe.",
+      "Falsch: Die erbrachte Leistungsqualität einschließlich ihrer Grundlagen ist beurteilbar."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Nader lehnt seit Jahren jede fachliche Fortbildung ab, sein Unterricht folgt unverändert veralteten Unterlagen und überholten Methoden. Die Fachleistung seiner Klassen lässt deutlich nach. Im Verfahren zur Feststellung seiner Leistung beruft er sich darauf, Fortbildung sei freiwillig und dürfe ihn niemals belasten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Naders Leistungsstand darf festgestellt werden, denn maßgeblich sind Umfang und Wertigkeit seiner Leistungen. Jahrelange Fortbildungsverweigerung mit sichtbarem Qualitätsverlust bleibt für die Beurteilung nicht unsichtbar. Zum Nachlesen: LDG §62 Abs.1.",
+    "zusatzquellen": [
+      "LDG §29 Abs.3"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §19 Abs.2",
+    "id": "B32-L4-004",
+    "level": "L4",
+    "modul_id": "B32",
+    "optionen": [
+      "Die Zusatzausbildung verschafft ihm automatisch die Wunschverwendung an der neuen Schule.",
+      "Eine Versetzung an eine andere Schule kann von Amts wegen oder auf sein Ansuchen erfolgen, automatisch geht nichts.",
+      "Versetzungen gibt es nur als Strafe und nie auf eigenen Wunsch des Lehrers.",
+      "Mit Abschluss der Fortbildung endet sein Dienstverhältnis an der alten Schule von selbst."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fortbildung begründet keinen automatischen Anspruch auf eine bestimmte Verwendung.",
+      "Richtig: Versetzung braucht einen eigenen Akt, von Amts wegen oder auf Ansuchen.",
+      "Falsch: Versetzung auf Ansuchen ist ein normaler Weg der Personalsteuerung.",
+      "Falsch: Die Zuweisung besteht fort, bis sie durch Versetzung aufgehoben wird."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Volksschullehrer Ortner schließt eine mehrmonatige Zusatzausbildung für Sprachförderung erfolgreich ab und verlangt nun die sofortige Zuweisung an eine Wunschschule mit Schwerpunktklassen. Einen Versetzungsantrag will er nicht stellen, die Ausbildung ersetze das Verfahren. Die Bildungsdirektion prüft, was die Ausbildung für seine Verwendung bedeutet.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Ortner bekommt die Wunschschule nicht automatisch, denn Verwendung braucht eine eigene Versetzung. Die Versetzung hebt die alte Zuweisung auf und weist neu zu, von Amts wegen oder auf sein Ansuchen. Zum Nachlesen: LDG §19 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §23b Abs.1",
+    "id": "B32-L4-005",
+    "level": "L4",
+    "modul_id": "B32",
+    "optionen": [
+      "Das Einverständnis der Lehrperson zur Entsendung einholen.",
+      "Den Fortbildungszweck für die künftige dienstliche Verwendung festlegen.",
+      "Eine Einrichtung eines anderen inländischen Rechtsträgers als Ziel wählen.",
+      "Die Regeln über die vorübergehende Verwendung auf die Entsendung anwenden.",
+      "Die Lehrperson ohne Befragung per Weisung zur Fortbildung abordnen.",
+      "Als Ziel eine private Auslandsakademie ohne Inlandsbezug festlegen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Zustimmung scheidet die Entsendung zu diesem Zweck aus.",
+      "Richtig: Der Verwendungsbezug trägt die Maßnahme als Personalentwicklung.",
+      "Richtig: Genau diese Einrichtungen kommen als Entsendungsziel in Frage.",
+      "Richtig: Die Entsendung folgt den Regeln der vorübergehenden Verwendung.",
+      "Falsch: Gegen den Willen geht diese Entsendung gerade nicht.",
+      "Falsch: Verlangt ist ein anderer inländischer Rechtsträger als Ziel."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine berufsbildende Schule will eine engagierte Lehrerin gezielt für eine künftige Schwerpunktverwendung aufbauen und sie dafür ein halbes Jahr an die Bildungseinrichtung eines anderen Rechtsträgers entsenden. Die Personalstelle erstellt eine Checkliste für den rechtssicheren Weg von der Fortbildung bis zur neuen Verwendung. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §23b Abs.2"
+    ],
+    "aufloesung": "Der Weg gelingt nur mit Zustimmung, klarem Verwendungsbezug und passendem inländischem Ziel. Dann gelten die Regeln der vorübergehenden Verwendung und die Gasteinrichtung wird zur Dienststelle auf Zeit. Zum Nachlesen: LDG §23b Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §61",
+    "id": "B32-L4-006",
+    "level": "L4",
+    "modul_id": "B32",
+    "optionen": [
+      "Über die dienstlichen Leistungen schriftlich im Dienstweg an die Behörde berichten.",
+      "Umfang und Wertigkeit der erbrachten Leistungen zum Maßstab der Feststellung machen.",
+      "Die dokumentierte Fortbildungsplanung und Kursteilnahmen als Beurteilungsgrundlage heranziehen.",
+      "Sympathiewerte und Dienstalter anstelle der Leistung entscheiden lassen.",
+      "Gerüchte aus dem Kollegium ohne Anhörung der Lehrkraft in den Bericht übernehmen.",
+      "Die Lehrkraft vor der Weiterleitung des Berichts von jeder Information ausschließen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der schriftliche Bericht im Dienstweg ist der Weg zur Behörde.",
+      "Richtig: Was und wie gut geleistet wurde, trägt jede Feststellung.",
+      "Richtig: Planungsergebnisse und Teilnahme belegen Einsatz und Entwicklung der Lehrkraft.",
+      "Falsch: Beliebtheit und Alter ersetzen die Leistungsbeurteilung nicht.",
+      "Falsch: Ohne Tatsachengrundlage und Anhörung wird kein fairer Bericht daraus.",
+      "Falsch: Die Lehrkraft ist anzuhören und erhält Gelegenheit zur Stellungnahme."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Pichler will über die Arbeit einer Lehrerin berichten, die alle vereinbarten Fortbildungen besucht und die Inhalte sichtbar im Unterricht umsetzt. Er fragt, wie er Fortbildungserfolg und Unterrichtsleistung sauber in einen Bericht an die Behörde überführt. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §62 Abs.1",
+      "LDG §64 Abs.1"
+    ],
+    "aufloesung": "Pichler berichtet schriftlich im Dienstweg und stellt Umfang und Wertigkeit der Leistungen dar. Dokumentierte Fortbildungsplanung und sichtbare Umsetzung sind dafür eine tragfähige Grundlage. Zum Nachlesen: LDG §61."
+  },
+  {
+    "hauptquelle": "LDG §19 Abs.2",
+    "id": "B32-L4-007",
+    "level": "L4",
+    "modul_id": "B32",
+    "optionen": [
+      "Die beabsichtigte Versetzung ist der Lehrkraft schriftlich unter Angabe der neuen Verwendung mitzuteilen.",
+      "Der Lehrkraft steht nach der Mitteilung eine zweiwöchige Frist für Einwendungen zu.",
+      "Auf soziale Verhältnisse und das Dienstalter ist Rücksicht zu nehmen, soweit der Dienst es zulässt.",
+      "Schweigen auf die Mitteilung gilt als Zustimmung zur Versetzung.",
+      "Eine Versetzung darf der Lehrkraft auch mündlich zwischen Tür und Angel eröffnet werden.",
+      "Soziale Verhältnisse und Dienstalter spielen bei Versetzungen grundsätzlich keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schriftlichkeit mit Angabe der neuen Verwendung eröffnet das Verfahren.",
+      "Richtig: Zwei Wochen Einwendungsfrist sichern das rechtliche Gehör.",
+      "Richtig: Soziale Lage und Dienstalter sind Abwägungsposten zugunsten der Lehrkraft.",
+      "Richtig: Wer schweigt, stimmt der beabsichtigten Versetzung zu.",
+      "Falsch: Mündliche Eröffnungen ersetzen die schriftliche Mitteilung nicht.",
+      "Falsch: Genau diese Rücksicht ist im Rahmen des Dienstes geboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach abgeschlossener Zusatzausbildung soll Lehrer Quiring an eine weiter entfernte Schwerpunkt­schule versetzt werden, obwohl er im Ort Familie und Eigenheim hat und ein jüngerer Kollege ohne Bindung zur Verfügung stünde. Die Behörde teilt ihm die Absicht schriftlich mit neuer Verwendung mit. Quiring fragt nach seinen Rechten im Versetzungsverfahren. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §19 Abs.4",
+      "LDG §19 Abs.5"
+    ],
+    "aufloesung": "Quiring erhält die Absicht schriftlich mit neuer Verwendung und hat zwei Wochen für Einwendungen. Soziale Verhältnisse und Dienstalter sind zu seinen Gunsten abzuwägen, soweit der Dienst es zulässt. Zum Nachlesen: LDG §19 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.1",
+    "id": "B32-L4-008",
+    "level": "L4",
+    "modul_id": "B32",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Stundenanzahl allein sagt nichts über Umfang und Wertigkeit der Leistung.",
+      "Richtig erkannt: Besondere Leistungen brauchen erheblich übertroffenen Arbeitserfolg, nicht nur Anwesenheit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Transfer-Check im Lehrerzimmer: Ein Kollege behauptet, wer seine 15 Fortbildungsstunden im Jahr brav absitze, habe damit automatisch Anspruch auf die Feststellung besonderer Leistungen.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, denn für die Feststellung zählen Umfang und Wertigkeit der Leistungen. Bloße Anwesenheit bei Kursen ersetzt den erheblich übertroffenen Arbeitserfolg nicht. Zum Nachlesen: LDG §62 Abs.1."
+  }
+]
