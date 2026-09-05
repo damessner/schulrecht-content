@@ -11,5 +11,9 @@
     "L2.json",
     "L3.json",
     "L4.json"
+  ],
+  "ziele": [
+    "Prüfen der Aufstiegsvoraussetzungen anhand der Noten",
+    "Entscheiden über Aufstieg, Wiederholung und Klauseln"
   ]
 }

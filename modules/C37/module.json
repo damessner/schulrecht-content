@@ -11,5 +11,9 @@
     "L2.json",
     "L3.json",
     "L4.json"
+  ],
+  "ziele": [
+    "Erkennen datenschutzrelevanter Akten und Daten",
+    "Anwenden von Auskunft, Einsicht und Löschung korrekt"
   ]
 }

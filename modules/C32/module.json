@@ -11,5 +11,9 @@
     "L2.json",
     "L3.json",
     "L4.json"
+  ],
+  "ziele": [
+    "Erkennen von Sprengelzugehörigkeit und Ausnahmen",
+    "Prüfen von sprengelfremdem Besuch und Tagesbetreuung"
   ]
 }
