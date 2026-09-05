@@ -1,1 +1,365 @@
-[]
+[
+  {
+    "aufloesung": "Die Gemeinde muss das Geländer sanieren, weil die Erhaltung des Gebäudes ihre Aufgabe bleibt. Die Schulleitung hat richtig gemeldet und muss bis zur Reparatur sichern und umleiten. Vertrösten beendet die Erhalterpflicht nicht. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C38-L3-001",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Die Gemeinde muss das Geländer unverzüglich sanieren, Vertrösten beendet ihre Pflicht nicht.",
+      "Mit der Meldung ist alles erledigt, die Schule trägt nun das Baurisiko allein.",
+      "Die Eltern müssen die Reparatur über eine Spendenaktion finanzieren.",
+      "Ein Provisorium aus Absperrband ersetzt dauerhaft die Sanierung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Erhaltungspflicht bleibt beim Schulerhalter.",
+      "Falsch: Melden löst Sicherung aus, nicht die Beseitigungspflicht.",
+      "Falsch: Eltern finanzieren keine Schulbauten.",
+      "Falsch: Band sichert kurzfristig, ersetzt keine Sanierung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Steiner hat das wackelnde Geländer im Stiegenhaus zweimal schriftlich mit Fotos an die Gemeinde gemeldet und um dringende Reparatur gebeten. Die Gemeinde vertröstet sie seit einem halben Jahr, ein Schüler lehnt sich in der Pause an das Geländer und stürzt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die neue Klasse darf erst nach behördlicher Prüfung und Freigabe benutzt werden, weil Umbauten vorher zu bewilligen sind. Heimliches Bauen schafft vollendete Tatsachen, die Sicherheit der Kinder entscheidet über die weitere Nutzung. Zum Nachlesen: TirSOG §24 Abs.1.",
+    "hauptquelle": "TirSOG §24 Abs.1",
+    "id": "C38-L3-002",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Der Umbau bleibt bestehen, nachträgliche Prüfungen sind reine Formsache.",
+      "Die Klasse darf erst nach Prüfung und Freigabe der Räume unterrichtlich genutzt werden.",
+      "Ein Gemeinderatsbeschluss im Nachhinein ersetzt jede behördliche Prüfung.",
+      "Für kleine Umbauten braucht es grundsätzlich nie ein Verfahren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Prüfung keine selbstverständliche Weiternutzung.",
+      "Richtig: Erst Prüfung und Freigabe, dann Unterrichtsbetrieb.",
+      "Falsch: Ein Beschluss ersetzt die Behördenprüfung nicht.",
+      "Falsch: Auch kleine Umbauten können bewilligungspflichtig sein."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde hat in den Sommerferien ohne Antrag eine Zwischenwand eingezogen und aus dem Werkraum eine zusätzliche Klasse gemacht. Die neue Klasse ist dunkel und eng, die Fluchttür öffnet nach innen, die Behörde erfährt davon erst durch eine Elternbeschwerde.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Schule muss Fluchtwege freiräumen und die Löscher prüfen lassen, sonst darf die Veranstaltung nicht stattfinden. Dreihundert Gäste bei versperrtem Ausgang und ungeprüften Geräten riskieren Leben, Sicherheit geht vor Festfreude. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L3-003",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Die Veranstaltung findet wie geplant statt, Adventmärkte sind ungefährlich.",
+      "Der Notausgang bleibt zu, damit keine Gäste ohne Eintritt hereinkommen.",
+      "Die Schule räumt Fluchtwege frei und lässt die Geräte prüfen, sonst wird abgesagt oder verlegt.",
+      "Abgelaufene Löscher genügen, solange sie rot an der Wand hängen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Geplante Feste brauchen freie Fluchtwege wie jeder Schultag.",
+      "Falsch: Versperrte Ausgänge sperren im Ernstfall die Flucht.",
+      "Richtig: Erst Sicherheit herstellen, sonst keine Veranstaltung.",
+      "Falsch: Ungeprüfte Löscher versagen im entscheidenden Moment."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für den Adventmarkt will die Schule den Turnsaal mit dreihundert Gästen füllen, obwohl der seitliche Notausgang mit Marktständen zugestellt ist und die Feuerlöscher seit zwei Jahren keine Prüfplakette haben. Der Elternverein drängt auf Durchführung wie geplant.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Weg an der Grube muss gesperrt oder durch einen festen Zaun abgetrennt werden, weil ein Band keine Kinder aufhält. Solange die Trennung fehlt, entfällt der Turnbetrieb auf diesem Weg und es gilt die Umleitung. Versprechen der Firma ersetzen keine Absperrung. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L3-004",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Flatterband plus Versprechen der Firma genügen als Sicherung.",
+      "Der Weg wird gesperrt oder fest abgetrennt, sonst fällt der Turnbetrieb dort aus.",
+      "Die Kinder dürfen die Grube als Abkürzung queren, wenn sie schnell laufen.",
+      "Eine Ermahnung im Morgenappell ersetzt Zaun und Umleitung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Band und Worte halten keine Kinder von der Grube fern.",
+      "Richtig: Feste Trennung oder Sperre schützt vor Absturz.",
+      "Falsch: Abkürzungen über Baugruben sind unverantwortlich.",
+      "Falsch: Appelle ersetzen keinen Bauzaun."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Während des Zubaus führt der einzige Weg zur Turnhalle an einer tiefen Baugrube vorbei, getrennt nur durch ein dünnes Flatterband. Die Baufirma verspricht aufzupassen, die Turnstunden sollen normal weiterlaufen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Direktor sichert die Stelle sofort und meldet sie der Gemeinde, weil akute Gefahr keinen Aufschub duldet. Die Beauftragung der Elektrofirma bleibt Sache des Erhalters, eigenmächtige Vergaben binden die Gemeinde nicht. Sichern und melden gehören hier zusammen. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C38-L3-005",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Der Direktor sichert die Stelle sofort und meldet sie, die Beauftragung bleibt Sache der Gemeinde.",
+      "Der Direktor vergibt den Auftrag selbst, die Gemeinde zahlt jede Rechnung automatisch.",
+      "Offene Kabel können bis zur nächsten Gemeinderatssitzung warten.",
+      "Der Schulwart flickt die Leitung provisorisch mit Isolierband."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sofort sichern und melden, Vergabe bleibt Erhaltersache.",
+      "Falsch: Eigenmächtige Aufträge binden die Gemeinde nicht.",
+      "Falsch: Offene Kabel neben Kindern dulden keinen Aufschub.",
+      "Falsch: Laien flicken keine Elektroanlagen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Kurzschluss in der Garderobe will Direktor Hofer sofort selbst einen Elektriker beauftragen und die Rechnung an die Gemeinde schicken. Die Gemeinde ist telefonisch nicht erreichbar, die Kabel liegen offen neben der Kindergarderobe.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Keller scheidet als Dauerklasse aus, weil Klassenräume Tageslicht, frische Luft und angemessene Temperatur brauchen. Kopfweh nach Schnuppertagen zeigt die Ungeeignetheit, eine Stehlampe und Garagenluft ändern daran nichts. Es braucht einen tauglichen Raum mit Freigabe. Zum Nachlesen: TirSOG §70 Abs.2.",
+    "hauptquelle": "TirSOG §70 Abs.2",
+    "id": "C38-L3-006",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Der Keller eignet sich als Dauerklasse, Kinder gewöhnen sich an alles.",
+      "Eine Dauerklasse braucht Tageslicht, Luft und geeignete Temperatur, der Keller scheidet aus.",
+      "Eine Stehlampe aus dem Baumarkt macht jeden Raum tauglich.",
+      "Lüften in die Tiefgarage erfüllt alle Anforderungen an frische Luft."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gewöhnung ersetzt keine tauglichen Räume.",
+      "Richtig: Licht und Luft gehören zur Raumtauglichkeit.",
+      "Falsch: Provisorien machen Keller nicht schultauglich.",
+      "Falsch: Garagenluft ist keine Frischluftversorgung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Wegen Platznot will die Gemeinde eine fensterlose Kellerkammer mit einer flackernden Neonröhre dauerhaft als dritte Klasse verwenden. Die Kinder klagen schon nach Schnuppertagen über Kopfweh, ein Lüftungsgitter gibt es nur zur Tiefgarage.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Direktion muss sperren, Aufsicht und Wege anpassen und erneut schriftlich mit Frist melden, weil die Gefahr mit dem Sturz bewiesen ist. Ermahnungen und Weiternutzung trotz Absturzgefahr sind pflichtwidrig, lückenlose Dokumentation sichert den Nachweis. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L3-007",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Den Gefahrenbereich sofort sperren und deutlich kennzeichnen.",
+      "Aufsicht und Pausenwege an die Gefahr anpassen und umleiten.",
+      "Erneut schriftlich mit Frist melden und alles dokumentieren.",
+      "Die Kinder ermahnen, einfach besser aufzupassen.",
+      "Das Gerät ungesichert weiter benützen lassen, Übung macht sicher.",
+      "Ausschließlich mündlich im Vorbeigehen erinnern ohne Nachweis."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sperren verhindert den nächsten Absturz.",
+      "Richtig: Umleitung plus Aufsicht schützt alle Kinder.",
+      "Richtig: Schriftform mit Frist und Doku erzeugt Handlungsdruck.",
+      "Falsch: Appelle ersetzen keine Sicherung.",
+      "Falsch: Weiternutzung trotz Gefahr ist pflichtwidrig.",
+      "Falsch: Ohne Nachweis verpufft jede Erinnerung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Trotz dreier schriftlicher Meldungen über die morsche Kletterstange am Pausenhof tut sich seit Monaten nichts, gestern ist ein Kind abgestürzt. Die Direktion prüft, was sie jetzt rechtlich sauber tun muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Dachbodenausbau hätte vor Baubeginn bewilligt und mit der Schulleitung abgestimmt werden müssen, weil Baupläne der Behörde vorzulegen sind. Nach Fertigstellung braucht es Abnahme und Freigabe, Handschlag und nachträgliche Information heilen das Versäumnis nicht. Zum Nachlesen: TirSOG §24 Abs.1.",
+    "hauptquelle": "TirSOG §24 Abs.1",
+    "id": "C38-L3-008",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Planunterlagen für Neu-, Zu- und Umbauten brauchen vorher die behördliche Bewilligung.",
+      "Die Schulleitung ist vor der Entscheidung über Baupläne einzubinden.",
+      "Nach Fertigstellung braucht es Abnahme und Freigabe der Räume.",
+      "Ein Handschlag mit der Baufirma ersetzt das Bewilligungsverfahren.",
+      "Das Gemeindebauamt ersetzt die zuständige Bildungsbehörde vollständig.",
+      "Eine nachträgliche Information heilt jeden Verfahrensfehler automatisch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Planbewilligung darf nicht gebaut werden.",
+      "Richtig: Einbindung der Leitung ist vorgeschrieben.",
+      "Richtig: Ohne Abnahme keine Inbetriebnahme.",
+      "Falsch: Privater Handschlag schafft keine Bewilligung.",
+      "Falsch: Die Zuständigkeit bleibt bei der Bildungsbehörde.",
+      "Falsch: Automatische Heilung gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde hat den Dachboden ohne Verfahren zu Klassen ausgebaut, die Schulleiterin erfuhr davon aus der Zeitung. Nun sind die Fluchtwege zu schmal, das Stiegenhaus hat kein zweites Treppenhaus, die Behörde prüft den Fall.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Direktor muss Fluchtwege räumen, Brandlast entfernen und Geräte prüfen lassen, weil Papierberge neben dem Kessel und Möbel im Fluchtweg den Ernstfall entscheiden. Eine jahrelang versäumte Übung holt er mit allen Klassen nach, Versperren und Deko an Strahlern sind tabu. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L3-009",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Fluchtwege räumen und dauerhaft freihalten.",
+      "Brandlast aus sensiblen Bereichen entfernen und getrennt lagern.",
+      "Löscher und Melder prüfen lassen und Übung mit allen Klassen abhalten.",
+      "Notausgänge versperren, damit nachts niemand einbricht.",
+      "Pappdekoration direkt an heiße Strahler hängen.",
+      "Auf Übungen verzichten, sie stören nur den Unterricht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Freie Wege retten im Ernstfall Leben.",
+      "Richtig: Brandlast fernhalten schützt Kessel und Archiv.",
+      "Richtig: Geprüfte Geräte plus Übung verhindern Panik.",
+      "Falsch: Versperrte Ausgänge sind lebensgefährlich.",
+      "Falsch: Deko an Strahlern ist brandgefährlich.",
+      "Falsch: Ohne Übung scheitert jede Räumung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Brandschau steht bevor: Im Archiv lagern Papierstapel bis zur Decke neben dem Heizkessel, ein Fluchtweg dient als Möbellager und die letzte Räumungsübung liegt Jahre zurück. Der Direktor will die heiklen Punkte vorher bereinigen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Direktion muss beim Erhalter auf Räumung und Streuung vor Schulbeginn drängen und gefährdete Bereiche bis dahin sperren, weil Glatteis und morsches Holz planbar sind. Kontrollen von Bäumen und Dachgefahren lässt sie veranlassen und dokumentiert alles, Sparen ohne Ersatz scheidet aus. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C38-L3-010",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Beim Erhalter auf sofortige Räumung und Streuung vor Schulbeginn drängen.",
+      "Vereiste und gefährdete Bereiche sperren und umleiten.",
+      "Kontrollen von Bäumen und Dachgefahren veranlassen und dokumentieren.",
+      "Die Kinder vor Unterrichtsbeginn selbst streuen lassen.",
+      "Als Abkürzung den vereisten Hang hinter der Schule empfehlen.",
+      "Aus Spargründen auf Streuung verzichten und auf Tauwetter warten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Geräumte Wege verhindern Sturzverletzungen.",
+      "Richtig: Sperren schützt bis zur Beseitigung.",
+      "Richtig: Kontrolle plus Doku steuert Dringlichkeit und Nachweis.",
+      "Falsch: Kinder leisten keinen Winterdienst.",
+      "Falsch: Abkürzungen über Eis sind unverantwortlich.",
+      "Falsch: Sparen produziert Unfälle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach Eisregen ist der steile Schulweg spiegelglatt, der Winterdienst der Gemeinde kommt seit Tagen nicht und ein morscher Ast hängt über der Pausenfläche. Zwei Kinder sind schon gestürzt, die Direktion plant den morgigen Tag.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Fremdnutzung braucht freie Fluchtwege mit Bestuhlungsplan, eingeteilte Ordner und geprüfte Geräte, weil hundertfünfzig Zuschauer neue Risiken schaffen. Überfüllung und versperrte Ausgänge sind tabu, Mängel meldet die Direktion vor Freigabe der Vermietung. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L3-011",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Fluchtwege freihalten und Bestuhlung mit Rettungsgassen festlegen.",
+      "Ausreichend Aufsicht und Ordner für die Veranstaltung einteilen.",
+      "Geräte und Sicherheitseinrichtungen vorher prüfen und Mängel melden.",
+      "Doppelt so viele Karten verkaufen wie Plätze vorhanden sind.",
+      "Notausgänge während des Spiels versperren lassen.",
+      "Den Verein ohne jede Absprache allein walten lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Geplante Gassen halten Rettungswege offen.",
+      "Richtig: Ohne Ordner steuert niemand den Ernstfall.",
+      "Richtig: Prüfung vor Vermietung verhindert Unfälle.",
+      "Falsch: Überfüllung blockiert jede Flucht.",
+      "Falsch: Versperrte Ausgänge sind lebensgefährlich.",
+      "Falsch: Ohne Absprache haftet die Schule für fremde Fehler."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Sportverein will den Turnsaal jeden Freitagabend für Wettkämpfe mit hundertfünfzig Zuschauern mieten. Bestuhlungsplan gibt es keinen, die Notausgänge kennt niemand und die Sprossenwand wackelt. Die Direktion prüft die Bedingungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Absperrung muss bis zur Reparatur bestehen bleiben, weil sich eine bekannte Absturzgefahr nicht wegwarnen lässt. Melden entbindet nicht vom Sichern, bei Ziegeln über dem Eingang ist Zuwarten fahrlässig. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L3-012",
+    "level": "L3",
+    "modul_id": "C38",
+    "optionen": [
+      "Richtig.",
+      "Falsch."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wegwarnen ersetzt keine Absperrung bei Absturzgefahr.",
+      "Richtig: Die Sperre bleibt bis zur Reparatur bestehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Meldung loser Dachziegel über dem Haupteingang sperrt die Direktion den Eingang und meldet schriftlich an die Gemeinde. Die Gemeinde verlangt, die Absperrung bis zu den Ferien zu entfernen und nur mündlich zu warnen.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

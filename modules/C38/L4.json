@@ -1,1 +1,241 @@
-[]
+[
+  {
+    "aufloesung": "Die Aufsicht hat richtig gehandelt, weil sie gesichert, umgeleitet und gemeldet hat. Die Beseitigung des Belags bleibt Aufgabe der Gemeinde, ordnungsgemäßes Sichern spricht gegen ein Aufsichtsversäumnis. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L4-001",
+    "level": "L4",
+    "modul_id": "C38",
+    "optionen": [
+      "Die Schule haftet automatisch für jeden Sturz, Absperrung hin oder her.",
+      "Ordnungsgemäße Sicherung und Meldung entlasten die Aufsicht, die Beseitigung bleibt Erhaltersache.",
+      "Die Eltern haften für den Sturz, weil ihr Kind über die Absperrung kletterte.",
+      "Eine Meldung war überflüssig, Absperrungen haben keine rechtliche Bedeutung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Automatikhaftung trotz Sicherung gibt es nicht.",
+      "Richtig: Sichern und melden trennt Aufsicht von Beseitigung.",
+      "Falsch: Klettern des Kindes beseitigt die Erhalterpflicht nicht.",
+      "Falsch: Meldung und Sperre sind der zentrale Nachweis."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Direktion hat den losen Treppenbelag im Stiegenhaus schriftlich gemeldet, den Bereich abgesperrt und die Pausenwege verlegt. Ein Schüler klettert in der Pause über die Absperrung, stürzt und verletzt sich schwer, die Eltern klagen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Lehrer verletzte seine Aufsichtspflicht, weil er die angeordnete Umleitung missachtete und die Klasse an die Grube führte. Bekannte Bau­gefahren verlangen den sicheren Umweg, Abkürzen auf eigene Faust kehrt die Verantwortung um. Der Zeitgewinn rechtfertigt das Risiko nie. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L4-002",
+    "level": "L4",
+    "modul_id": "C38",
+    "optionen": [
+      "Der Lehrer handelte richtig, Abkürzungen stärken die Selbstständigkeit.",
+      "Der Lehrer verletzte seine Aufsichtspflicht, weil er die angeordnete Umleitung missachtete.",
+      "Die Baufirma allein trägt die Schuld, Lehrer prüfen keine Wege.",
+      "Kinder haften grundsätzlich selbst für Stürze auf Schulwegen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Selbstständigkeit endet an der Baugrube.",
+      "Richtig: Anordnung missachtet bedeutet Aufsichtsfehler.",
+      "Falsch: Der Lehrer bleibt für den gewählten Weg verantwortlich.",
+      "Falsch: Kinder tragen nicht das Bau­risiko der Erwachsenen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Turnweg führt an einer ungesicherten Baugrube vorbei, die Direktion hat einen längeren Ersatzweg angeordnet. Ein Lehrer spart mit seiner Klasse trotzdem über den schmalen Streifen an der Grube ab, ein Kind stürzt hinein.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Freie Fluchtwege und regelmäßige Übungen sind Pflicht, weil verrauchte Stiegen und unbekannte Sammelplätze Panik erzeugen. Das jahrelange Versäumnis wiegt schwer, die Räumung vorbereiten muss die Schule selbst. Improvisation ersetzt kein geübtes Verfahren. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L4-003",
+    "level": "L4",
+    "modul_id": "C38",
+    "optionen": [
+      "Übungen sind reine Freiwilligkeit, im Ernstfall improvisiert jede Klasse.",
+      "Verstellte Ausgänge sind tragisch, aber rechtlich bedeutungslos.",
+      "Freie Fluchtwege und regelmäßige Übungen sind Pflicht, das Versäumnis wiegt schwer.",
+      "Die Feuerwehr allein verantwortet die Räumung, die Schule muss nichts vorbereiten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ungeübte Räumung scheitert im Ernstfall.",
+      "Falsch: Verstellte Ausgänge verletzen elementare Sicherheit.",
+      "Richtig: Freihalten plus Üben verhindert Panik und Opfer.",
+      "Falsch: Die Schule bereitet die Räumung selbst vor."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einem Schwelbrand im Kopierraum verraucht das Stiegenhaus, der seitliche Notausgang ist mit Stühlen verstellt und keine Klasse kennt den Sammelplatz. Eine Räumungsübung hat an der Schule seit Jahren nicht stattgefunden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Sportlehrer müssen Geräte vor jeder Benützung sichtprüfen und Mängel sperren und melden, weil sicht­bares Wackeln ein klarer Alarm ist. Jahrelanges Wegschauen verbindet Bau­mangel und Aufsichtsversäumnis, bis zur Reparatur bleibt das Gerät gesperrt. Totalschaden abwarten ist keine Option. Zum Nachlesen: TirSOG §70 Abs.3.",
+    "hauptquelle": "TirSOG §70 Abs.3",
+    "id": "C38-L4-004",
+    "level": "L4",
+    "modul_id": "C38",
+    "optionen": [
+      "Sportgeräte prüfen nur Fachfirmen, Lehrer schauen grundsätzlich weg.",
+      "Die Lehrer müssen Geräte vor Benützung sichtprüfen, Mängel sperren und melden.",
+      "Alte Geräte dürfen bis zum Totalschaden weiterverwendet werden.",
+      "Schüler haften für defekte Schulanlagen grundsätzlich selbst."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Sichtprüfung vor Ort bleibt Lehreraufgabe.",
+      "Richtig: Prüfen, sperren und melden gehören zusammen.",
+      "Falsch: Weiternutzung trotz Mangel ist pflichtwidrig.",
+      "Falsch: Das Geräte­risiko tragen nicht die Kinder."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Sportunterricht bricht die morsche Sprossenwand aus der Verankerung, ein Schüler stürzt und bricht sich den Arm. Die Wand wackelte seit Monaten sichtbar, eine Sichtprüfung oder Meldung durch die Sportlehrer gab es nie.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Aufsicht muss den Gang sperren, die Kinder umleiten und verstärkt beaufsichtigen, weil Wasser plus Strom Lebensgefahr bedeutet. Gleichzeitig läuft die schriftliche Meldung mit Dokumentation an den Erhalter, Normalbetrieb trotz Gefahr verletzt die Aufsichtspflicht. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L4-005",
+    "level": "L4",
+    "modul_id": "C38",
+    "optionen": [
+      "Den Gang sofort sperren und deutlich kennzeichnen.",
+      "Die Kinder umleiten und verstärkt beaufsichtigen.",
+      "Den Mangel unverzüglich dem Erhalter melden und dokumentieren.",
+      "Den Unterricht normal weiterlaufen lassen und abwarten.",
+      "Die Kinder einzeln durch das Wasser zur Mutprobe schicken.",
+      "Das Kabel selbst mit Klebeband flicken und schweigen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sperren verhindert den nächsten Stromunfall.",
+      "Richtig: Umleitung plus Aufsicht schützt alle Kinder.",
+      "Richtig: Meldung mit Doku löst die Reparatur aus.",
+      "Falsch: Weiterbetrieb trotz Gefahr ist pflichtwidrig.",
+      "Falsch: Mutproben im Gefahrenbereich sind inakzeptabel.",
+      "Falsch: Laien flicken keine Elektroanlagen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Gang steht nach einem Rohrbruch knöcheltief Wasser, daneben hängt ein loses Stromkabel aus der Decke. Zweihundert Kinder müssen in die Pause, die Aufsicht steht vor dem Gang und muss Aufsicht und Gebäudesicherheit verbinden.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Lehrerin muss die Treppe meiden oder die Klasse geordnet umleiten und bis dahin Tempo drosseln und Abstand zur schadhaften Seite halten. Danach meldet sie Lichtausfall und Geländer dem Erhalter, Wettrennen und Vorausschicken sind tabu. Bau­zustand und Aufsicht löst sie gemeinsam. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L4-006",
+    "level": "L4",
+    "modul_id": "C38",
+    "optionen": [
+      "Die Treppe meiden oder die Klasse geordnet umleiten.",
+      "Die Gruppe zusammenhalten, Tempo drosseln und Abstand zur schadhaften Seite halten.",
+      "Den Ausfall und das Geländer nach der Sicherung dem Erhalter melden.",
+      "Einen Wettlauf treppab veranstalten, damit es schnell geht.",
+      "Die Kinder allein vorausschicken und nachkommen.",
+      "Den Stromkasten selbst aufbrechen und verkabeln."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Meiden oder Umleiten beseitigt das akute Risiko.",
+      "Richtig: Ordnung und Abstand schützen auf der Treppe.",
+      "Richtig: Nach der Sicherung folgt die Erhaltermeldung.",
+      "Falsch: Wettrennen auf dunkler Treppe ist unverantwortlich.",
+      "Falsch: Vorausschicken verletzt die Aufsichtspflicht.",
+      "Falsch: Stromkästen öffnen nur Fachleute."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Nach einem Wandertag kehrt die Klasse ins dunkle Stiegenhaus zurück: Das Licht ist ausgefallen, das Geländer wackelt und es drängen sich mehrere Klassen auf der Treppe. Die Lehrerin muss Bauzustand und Aufsicht zusammenbringen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Direktion muss Bauzaun mit getrennten Wegen, Anmeldepflicht für Fremde und verstärkte Pausenaufsicht verbinden, weil Fahrzeuge und Staub den Schulbetrieb verändern. Lärmintensive Arbeiten gehören in unterrichtsfreie Zeit, Rangieren über den Hof und Gruben­besuche sind tabu. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L4-007",
+    "level": "L4",
+    "modul_id": "C38",
+    "optionen": [
+      "Die Baustelle mit festem Zaun vom Hof trennen und Wege splitten.",
+      "Fremde Personen anmelden und im Haus begleiten lassen.",
+      "Aufsicht in Pausen verstärken und lärmintensive Arbeiten in unterrichtsfreie Zeit legen.",
+      "Baufahrzeuge quer über den Pausenhof rangieren lassen.",
+      "Schüler zur Besichtigung in die Baugrube mitnehmen.",
+      "Die Pausenaufsicht einsparen, die Fahrer passen schon auf."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zaun und Wege trennen Bau und Kinder.",
+      "Richtig: Anmeldung schützt vor unbefugtem Zutritt.",
+      "Richtig: Mehr Aufsicht fängt neue Gefahren auf.",
+      "Falsch: Rangieren unter Kindern ist lebensgefährlich.",
+      "Falsch: Baugruben sind für Kinder tabu.",
+      "Falsch: Aufsicht einsparen erkennt keine Gefahr."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Während der Dachsanierung fahren Lieferwagen täglich über den Pausenhof, fremde Handwerker laufen frei durchs Haus und Staub zieht in die Klassen. Die Direktion muss Bauablauf und Aufsichtspflicht unter einen Hut bringen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Lehrerin handelt vorbildlich, weil Sichern, Ausweichen und Melden zusammengehören. Die angepasste Aufsicht endet erst mit der Beseitigung, nicht schon mit der Meldung. Der Raum bleibt bis zur Reparatur gesperrt. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L4-008",
+    "level": "L4",
+    "modul_id": "C38",
+    "optionen": [
+      "Richtig.",
+      "Falsch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sichern, Ausweichen und Melden ist vorbildlich.",
+      "Falsch: Die Anpassung endet erst mit der Beseitigung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin entdeckt einen freiliegenden Stromanschluss im Werkraum, sperrt den Bereich, beaufsichtigt die Klasse ersatzweise im Nachbarraum und meldet den Mangel schriftlich. Sie passt ihre Aufsicht bis zur Reparatur weiter an und lässt den Raum nicht mehr benützen.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]
