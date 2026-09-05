@@ -1,1 +1,436 @@
-[]
+[
+  {
+    "id": "A07-L1-001",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Gruber meldet ihre Tochter in einer ganztägigen Volksschule in Graz an und geht davon aus, dass sie nachmittags automatisch betreut wird, ohne etwas ausfüllen zu müssen.",
+    "optionen": [
+      "Ja, die Nachmittagsbetreuung läuft automatisch ohne eigene Erklärung.",
+      "Nein, der Besuch des Betreuungsteils braucht eine eigene Anmeldung.",
+      "Ja, aber nur wenn das Kind auch das Mittagessen nimmt.",
+      "Nein, eine Betreuung am Nachmittag ist rechtlich gar nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne eigene Anmeldung entsteht kein Anspruch auf den Betreuungsteil.",
+      "Richtig: Der Besuch des Betreuungsteils setzt eine Anmeldung voraus.",
+      "Falsch: Das Mittagessen entscheidet nicht über die Anmeldepflicht.",
+      "Falsch: Der Betreuungsteil ganztägiger Schulformen ist ausdrücklich vorgesehen."
+    ],
+    "aufloesung": "Familie Gruber muss den Betreuungsteil eigens anmelden. Der Besuch des Betreuungsteils ganztägiger Schulformen bedarf einer Anmeldung, automatisch läuft nichts. Zum Nachlesen: SchUG §12a Abs.1.",
+    "hauptquelle": "SchUG §12a Abs.1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-002",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Herr Hofer meldet seinen Sohn an einer Schule mit getrennter Abfolge von Unterricht und Betreuung an und fragt, wann er den Betreuungsteil dazubuchen kann.",
+    "optionen": [
+      "Nur in den Sommerferien vor Schulbeginn.",
+      "Anlässlich der Anmeldung zur Aufnahme in die Schule sowie innerhalb einer vom Schulleiter eingeräumten Frist.",
+      "Erst nach dem ersten Semesterzeugnis.",
+      "Nur über die Bildungsdirektion im Jänner."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Anmeldung ist an die Aufnahme und eine eigene Frist gekoppelt, nicht an die Ferien.",
+      "Richtig: Bei getrennter Abfolge geht die Anmeldung bei der Aufnahme und in der Schulleiterfrist.",
+      "Falsch: So lange muss niemand warten, die Anmeldung liegt am Schuljahresanfang.",
+      "Falsch: Zuständig ist die Schule mit ihrer Frist, nicht die Behörde im Jänner."
+    ],
+    "aufloesung": "Herr Hofer kann gleich bei der Aufnahme anmelden. Bei getrennter Abfolge ist die Anmeldung anlässlich der Aufnahme sowie in einer Frist des Schulleiters möglich. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-003",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Direktorin Berger setzt für die Anmeldung zum Betreuungsteil eine Frist von nur einem einzigen Tag fest, damit sie schnell planen kann. Eine Mutter fragt, ob so eine kurze Frist zulässig ist.",
+    "optionen": [
+      "Ja, die Schulleitung kann die Frist beliebig kurz halten.",
+      "Nein, die Frist muss mindestens drei Tage und längstens eine Woche betragen.",
+      "Ja, bei vielen Anmeldungen darf die Frist auf einen Tag verkürzt werden.",
+      "Nein, die Frist muss immer genau einen Monat dauern."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beliebig kurze Fristen sind nicht erlaubt, es gibt eine Mindestdauer.",
+      "Richtig: Die Frist dauert mindestens drei Tage und längstens eine Woche.",
+      "Falsch: Viele Anmeldungen ändern nichts an der vorgeschriebenen Fristdauer.",
+      "Falsch: Ein ganzer Monat ist nicht vorgeschrieben, höchstens eine Woche."
+    ],
+    "aufloesung": "Ein Tag ist zu kurz. Die vom Schulleiter einzuräumende Frist muss mindestens drei Tage und längstens eine Woche dauern. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-004",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Schule legt die Anmeldefrist für den Betreuungsteil auf Montag bis Mittwoch fest, also ohne Sonntag. Vater Aydin fragt, ob die Frist einen Sonntag enthalten muss.",
+    "optionen": [
+      "Nein, die Wochentage sind völlig egal.",
+      "Ja, die Frist hat einen Sonntag einzuschließen.",
+      "Nur wenn die Eltern das ausdrücklich verlangen.",
+      "Nein, Sonntage dürfen nie in einer Frist liegen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Lage der Frist ist nicht beliebig, der Sonntag ist vorgeschrieben.",
+      "Richtig: Die Anmeldefrist muss einen Sonntag einschließen.",
+      "Falsch: Das gilt von Gesetzes wegen, nicht erst auf Verlangen.",
+      "Falsch: Der Sonntag gehört im Gegenteil zwingend dazu."
+    ],
+    "aufloesung": "Die Frist muss einen Sonntag enthalten. Montag bis Mittwoch allein genügt nicht, weil die Frist einen Sonntag einzuschließen hat. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-005",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Egger verpasst die Anmeldefrist für den Betreuungsteil und meldet sich zwei Wochen später. In der Gruppe sind noch Plätze frei und es braucht keine neue Gruppe.",
+    "optionen": [
+      "Nein, nach der Frist ist überhaupt keine Anmeldung mehr möglich.",
+      "Ja, nach der Frist ist eine Anmeldung zulässig, wenn dadurch keine zusätzliche Gruppe erforderlich ist.",
+      "Ja, aber nur gegen eine Strafgebühr.",
+      "Nein, Nachmeldungen sind nur mit Genehmigung des Ministers möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Verspätete Anmeldungen sind nicht völlig ausgeschlossen.",
+      "Richtig: Solange keine zusätzliche Gruppe nötig wird, geht die Nachmeldung.",
+      "Falsch: Eine Strafgebühr ist dafür nicht vorgesehen.",
+      "Falsch: Der Minister muss dafür nicht eingeschaltet werden."
+    ],
+    "aufloesung": "Familie Egger kann noch einsteigen. Nach Fristende ist die Anmeldung zulässig, solange dadurch keine zusätzliche Gruppe erforderlich wird. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-006",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Mutter Lehner arbeitet nur montags und mittwochs lange und möchte ihre Tochter an einer Schule mit getrennter Abfolge nur an diesen zwei Tagen für den Betreuungsteil anmelden.",
+    "optionen": [
+      "Nein, es müssen immer alle fünf Schultage gebucht werden.",
+      "Ja, die Anmeldung kann sich auf alle Schultage oder auf einzelne Tage einer Woche beziehen.",
+      "Nur wenn beide Eltern berufstätig sind.",
+      "Nur ab der fünften Schulstufe."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei getrennter Abfolge gibt es keinen Zwang zur Vollbuchung.",
+      "Richtig: Einzelne Wochentage zu wählen ist bei getrennter Abfolge möglich.",
+      "Falsch: Auf die Berufstätigkeit der Eltern kommt es dabei nicht an.",
+      "Falsch: Eine Altersgrenze für die Tageswahl gibt es nicht."
+    ],
+    "aufloesung": "Frau Lehner darf nur Montag und Mittwoch wählen. Bei getrennter Abfolge kann sich die Anmeldung auf alle oder einzelne Tage der Woche beziehen. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.b.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.b",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-007",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Steiner meldet ihren Sohn an einer Schule mit getrennter Abfolge für den Betreuungsteil an und meint, damit sei die Betreuung für die gesamte Volksschulzeit erledigt.",
+    "optionen": [
+      "Ja, einmal angemeldet gilt das automatisch bis zum Schulabschluss.",
+      "Nein, die Anmeldung gilt nur für das betreffende Unterrichtsjahr.",
+      "Ja, aber nur wenn das Kind nie die Gruppe wechselt.",
+      "Nein, sie muss jedes Monat erneuert werden."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei getrennter Abfolge wirkt die Anmeldung nicht über Jahre fort.",
+      "Richtig: Bei getrennter Abfolge gilt die Anmeldung nur für das laufende Unterrichtsjahr.",
+      "Falsch: Auf Gruppenwechsel kommt es für die Geltungsdauer nicht an.",
+      "Falsch: Eine monatliche Erneuerung ist nicht vorgeschrieben."
+    ],
+    "aufloesung": "Familie Steiner muss jedes Jahr neu anmelden. Bei getrennter Abfolge gilt die Anmeldung nur für das betreffende Unterrichtsjahr. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.c.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.c",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-008",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "An einer Schule mit verschränkter Abfolge von Unterricht und Betreuung fragt eine Mutter, ob für die Anmeldezeitpunkte dort eigene, strengere Regeln gelten als an Schulen mit getrennter Abfolge.",
+    "optionen": [
+      "Ja, dort gelten völlig andere Anmeldezeitpunkte.",
+      "Nein, die Regelung zu den Anmeldezeitpunkten und Fristen gilt auch hier.",
+      "Ja, dort kann man sich das ganze Jahr über anmelden.",
+      "Nein, dort ist gar keine Anmeldung nötig."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Zeitpunkte sind nicht neu erfunden, sie werden übernommen.",
+      "Richtig: Auch bei verschränkter Abfolge gelten dieselben Anmeldezeitpunkte und Fristen.",
+      "Falsch: Eine Ganzjahresanmeldung ohne Frist ist nicht vorgesehen.",
+      "Falsch: Auch bei Verschränkung braucht es eine Anmeldung."
+    ],
+    "aufloesung": "Es gelten dieselben Zeitpunkte und Fristen. Bei verschränkter Abfolge ist die Regelung über Anmeldezeitpunkte und Fristen ausdrücklich gleich. Zum Nachlesen: SchUG §12a Abs.1 Z2 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z2 lit.a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-009",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Vater Novak möchte seinen Sohn an einer ganztägigen Schule mit verschränktem Unterricht nur dienstags und donnerstags in die Betreuung geben, weil er an den anderen Tagen frei hat.",
+    "optionen": [
+      "Ja, einzelne Tage sind auch bei Verschränkung frei wählbar.",
+      "Nein, die Anmeldung kann sich nur auf alle Schultage erstrecken.",
+      "Ja, aber nur mit Zustimmung aller Lehrer der Klasse.",
+      "Nein, bei Verschränkung ist Betreuung überhaupt unmöglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einzelne Tage zu wählen geht bei verschränkter Abfolge gerade nicht.",
+      "Richtig: Bei Verschränkung umfasst die Anmeldung immer alle Schultage.",
+      "Falsch: Eine Lehrerabstimmung ersetzt diese Regel nicht.",
+      "Falsch: Betreuung gibt es auch bei Verschränkung, nur eben für alle Tage."
+    ],
+    "aufloesung": "Herr Novak muss alle Schultage nehmen. Bei verschränkter Abfolge kann sich die Anmeldung nur auf alle Schultage erstrecken. Zum Nachlesen: SchUG §12a Abs.1 Z2 lit.b.",
+    "hauptquelle": "SchUG §12a Abs.1 Z2 lit.b",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-010",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Familie Wieser meldet ihre Tochter an einer verschränkt geführten ganztägigen Schule an und fragt, ob sie die Betreuung jedes Jahr neu beantragen muss.",
+    "optionen": [
+      "Ja, jedes Jahr ist eine vollständig neue Anmeldung nötig.",
+      "Nein, die Anmeldung gilt für die Dauer des Besuches der betreffenden Schule.",
+      "Ja, sogar jedes Semester muss neu angemeldet werden.",
+      "Nein, weil eine Anmeldung dort nie wirksam ist."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei Verschränkung endet die Wirkung nicht mit dem Schuljahr.",
+      "Richtig: Bei verschränkter Abfolge gilt die Anmeldung für die gesamte Schuldauer.",
+      "Falsch: Eine semesterweise Erneuerung ist nicht vorgeschrieben.",
+      "Falsch: Die Anmeldung ist wirksam und wirkt gerade langfristig."
+    ],
+    "aufloesung": "Familie Wieser muss nicht jährlich neu anmelden. Bei verschränkter Abfolge gilt die Anmeldung für die Dauer des Besuches dieser Schule. Zum Nachlesen: SchUG §12a Abs.1 Z2 lit.c.",
+    "hauptquelle": "SchUG §12a Abs.1 Z2 lit.c",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-011",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mitte Oktober möchte Familie Brand ihr Kind vom Betreuungsteil abmelden, weil sich die Arbeitszeiten geändert haben, und verlangt die sofortige Beendigung noch im Herbst.",
+    "optionen": [
+      "Ja, eine Abmeldung ist jederzeit sofort möglich.",
+      "Nein, während des Unterrichtsjahres ist eine Abmeldung nur zum Ende des ersten Semesters möglich.",
+      "Ja, aber nur wenn das Kind die Schule ganz verlässt.",
+      "Nein, eine Abmeldung ist überhaupt nie möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein sofortiger Ausstieg mitten im Semester ist nicht vorgesehen.",
+      "Richtig: Unter dem Jahr geht die Abmeldung nur zum Ende des ersten Semesters.",
+      "Falsch: Ein Schulwechsel ist keine Voraussetzung für diesen Termin.",
+      "Falsch: Eine Abmeldung ist möglich, aber nur zu diesem Termin."
+    ],
+    "aufloesung": "Ein sofortiger Ausstieg im Herbst geht nicht. Während des Unterrichtsjahres kann die Abmeldung nur zum Ende des ersten Semesters erfolgen. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-012",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Brand will ihr Kind zum Ende des ersten Semesters vom Betreuungsteil abmelden und gibt die Erklärung zwei Tage vor Semesterende ab. Die Schule meint, das sei zu spät.",
+    "optionen": [
+      "Die Schule hat unrecht, am letzten Tag reicht es immer noch.",
+      "Die Schule hat recht, die Abmeldung hat spätestens drei Wochen vor Ende des ersten Semesters zu erfolgen.",
+      "Die Schule hat unrecht, es genügt eine mündliche Nachricht am Zeugnistag.",
+      "Die Schule hat recht, weil Abmeldungen nur im September möglich sind."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kurz vor Semesterende ist die Frist bereits versäumt.",
+      "Richtig: Drei Wochen vor Ende des ersten Semesters ist der letzte Zeitpunkt.",
+      "Falsch: Eine Nachricht am Zeugnistag kommt auf jeden Fall zu spät.",
+      "Falsch: Der September spielt hier keine Rolle, entscheidend ist das Semesterende."
+    ],
+    "aufloesung": "Die Schule hat recht, zwei Tage sind zu spät. Die Abmeldung zum Semesterende muss spätestens drei Wochen davor erfolgen. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-013",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie zieht im November wegen eines neuen Arbeitsplatzes in ein anderes Bundesland und bittet mitten im Semester um die Abmeldung vom Betreuungsteil. Die Schule lehnt jede Ausnahme ab.",
+    "optionen": [
+      "Die Schule hat recht, Ausnahmen gibt es niemals.",
+      "Zu einem anderen Zeitpunkt ist die Abmeldung nur bei besonders berücksichtigungswürdigen Gründen möglich, etwa bei einem berufsbedingten Umzug.",
+      "Jeder Wunsch der Eltern reicht automatisch als Ausnahmegrund.",
+      "Eine Abmeldung ist nur bei Krankheit des Kindes möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Gesetz sieht für Härtefälle eine Ausnahme vor.",
+      "Richtig: Außerhalb des Semestertermins braucht es besonders berücksichtigungswürdige Gründe.",
+      "Falsch: Nicht jeder Wunsch genügt, der Grund muss besonders gewichtig sein.",
+      "Falsch: Die Ausnahme ist nicht auf Krankheit beschränkt."
+    ],
+    "aufloesung": "Eine Ausnahme ist hier denkbar. Außerhalb des Semesterendes geht die Abmeldung nur bei besonders berücksichtigungswürdigen Gründen, wie sie ein berufsbedingter Umzug sein kann. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-014",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lena besucht eine verschränkt geführte ganztägige Mittelschule, an der es keine einzige Klasse ohne Betreuungsteil gibt. Ihre Eltern wollen sie nur vom Betreuungsteil abmelden, aber an der Schule bleiben.",
+    "optionen": [
+      "Das geht immer, die Betreuung endet und der Unterricht bleibt.",
+      "Wenn es keine entsprechenden Klassen ohne Betreuung gibt, ist nur eine Abmeldung von der Schule möglich.",
+      "Das geht, wenn Lena dafür am Samstag in die Schule kommt.",
+      "Das geht, sobald die Eltern das Schulgeld weiterzahlen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Parallelklasse ohne Betreuung lässt sich Unterricht und Betreuung nicht trennen.",
+      "Richtig: Ohne entsprechende Klasse bleibt nur die Abmeldung von der Schule.",
+      "Falsch: Ein Samstagsunterricht als Ersatz ist nicht vorgesehen.",
+      "Falsch: Geldzahlungen ändern nichts an der Organisationsform der Schule."
+    ],
+    "aufloesung": "Ein Verbleib ohne Betreuung geht hier nicht. Gibt es keine Klassen ohne Betreuung oder ohne Verschränkung, ist nur die Abmeldung von der Schule möglich. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L1-015",
+    "modul_id": "A07",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An einer ganztägigen Volksschule in Linz streiten zwei Lehrerinnen, wer die Kinder den Nachmittagsgruppen zuteilt und wer Erzieher und Freizeitpädagoginnen den Gruppen zuweist.",
+    "optionen": [
+      "Die Eltern teilen die Kinder selbst in Gruppen ein.",
+      "Der Schulleiter teilt die Schüler in die Gruppen ein und weist den Gruppen die vorgesehenen Personen zu.",
+      "Die Kinder wählen ihre Gruppe und ihr Personal frei.",
+      "Die Gemeinde lost Gruppen und Personal ohne die Schule aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Gruppeneinteilung ist keine Elternentscheidung.",
+      "Richtig: Gruppenbildung und Personalzuweisung sind Aufgabe des Schulleiters.",
+      "Falsch: Freie Wahl durch die Kinder ist nicht vorgesehen.",
+      "Falsch: Ohne die Schulleitung läuft die Einteilung nicht."
+    ],
+    "aufloesung": "Der Schulleiter entscheidet über die Einteilung. Er teilt die Schüler in die Betreuungsgruppen ein und weist den Gruppen Lehrer, Erzieher und Freizeitpädagoginnen zu. Zum Nachlesen: SchUG §9 Abs.5.",
+    "hauptquelle": "SchUG §9 Abs.5",
+    "stand": "04.09.2026"
+  }
+]

@@ -1,1 +1,518 @@
-[]
+[
+  {
+    "id": "A07-L2-001",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Du bist Schulleiterin einer Volksschule mit getrennter Abfolge und erstellst die Anmeldeinfo für den Betreuungsteil im kommenden Jahr. Welche Punkte gehören in die korrekte Anmelde-Checkliste?",
+    "optionen": [
+      "Anmeldung anlässlich der Aufnahme in die Schule ermöglichen.",
+      "Eigene Anmeldefrist von mindestens drei Tagen bis längstens einer Woche mit einem Sonntag einräumen.",
+      "Anmeldung für alle Schultage oder einzelne Wochentage zulassen.",
+      "Anmeldung automatisch für die gesamte Schulzeit fortschreiben.",
+      "Verspätete Anmeldung zulassen, wenn keine zusätzliche Gruppe nötig wird.",
+      "Anmeldung nur für Kinder berufstätiger Eltern anbieten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Anmeldung bei der Aufnahme ist der erste vorgesehene Zeitpunkt.",
+      "Richtig: Dauer und Sonntagspflicht der Frist gehören in jede Info.",
+      "Richtig: Bei getrennter Abfolge sind Voll- und Teilbuchungen möglich.",
+      "Falsch: Bei getrennter Abfolge gilt die Anmeldung nur für ein Unterrichtsjahr.",
+      "Richtig: Nachmeldungen gehen, solange keine neue Gruppe nötig wird.",
+      "Falsch: Die Berufstätigkeit der Eltern ist keine Voraussetzung."
+    ],
+    "aufloesung": "Die Checkliste stimmt, wenn Aufnahmezeitpunkt, Frist, Tageswahl und Nachmeldung passen. Anmeldung bei der Aufnahme, Frist mit Sonntag, Wahl aller oder einzelner Tage und Nachmeldung ohne neue Gruppe sind die Eckpunkte. Zum Nachlesen: SchUG §12a Abs.1 Z1.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-002",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Im Sekretariat fragt eine Familie, zu welchen Zeitpunkten sie ihr Kind für den Betreuungsteil einer Schule mit getrennter Abfolge anmelden kann. Welche Antworten sind richtig?",
+    "optionen": [
+      "Gleich bei der Anmeldung zur Aufnahme in die Schule.",
+      "Innerhalb der vom Schulleiter eingeräumten Frist mit Sonntag.",
+      "Nach Fristende, sofern keine zusätzliche Gruppe erforderlich ist.",
+      "Ausschließlich in den Sommerferien.",
+      "Nur über ein Ansuchen an die Bildungsdirektion."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Aufnahme ist der erste Anmeldezeitpunkt.",
+      "Richtig: Die Schulleiterfrist mit Sonntag ist der zweite Zeitpunkt.",
+      "Richtig: Nachmeldungen sind bei freier Kapazität ohne neue Gruppe möglich.",
+      "Falsch: Die Ferien sind kein eigener Anmeldezeitpunkt.",
+      "Falsch: Die Behörde ist für diese Anmeldung nicht zuständig."
+    ],
+    "aufloesung": "Es gibt drei richtige Zeitpunkte für die Anmeldung. Aufnahme, Schulleiterfrist mit Sonntag und Nachmeldung ohne neue Gruppe decken alle Möglichkeiten ab. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-003",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Du informierst Eltern einer verschränkt geführten ganztägigen Schule über die Anmeldung zum Betreuungsteil. Welche Aussagen gehören in das korrekte Infoblatt?",
+    "optionen": [
+      "Für Zeitpunkte und Fristen gelten dieselben Regeln wie bei getrennter Abfolge.",
+      "Die Anmeldung erstreckt sich immer auf alle Schultage.",
+      "Einzelne Wochentage können frei herausgepickt werden.",
+      "Die Anmeldung gilt für die Dauer des Schulbesuchs.",
+      "Jedes Jahr muss vollständig neu angemeldet werden.",
+      "Eine Anmeldung ist überhaupt nicht erforderlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeitpunkte und Fristen werden von der getrennten Form übernommen.",
+      "Richtig: Bei Verschränkung gibt es nur die Anmeldung für alle Tage.",
+      "Falsch: Tageswahl ist bei verschränkter Abfolge ausgeschlossen.",
+      "Richtig: Die Wirkung reicht über die gesamte Schuldauer.",
+      "Falsch: Eine jährliche Neuanmeldung ist bei Verschränkung nicht nötig.",
+      "Falsch: Auch bei Verschränkung braucht es eine Anmeldung."
+    ],
+    "aufloesung": "Das Infoblatt betont den Unterschied zur getrennten Form. Gleiche Fristen, aber Pflicht zu allen Tagen und Geltung für die ganze Schuldauer kennzeichnen die Verschränkung. Zum Nachlesen: SchUG §12a Abs.1 Z2.",
+    "hauptquelle": "SchUG §12a Abs.1 Z2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-004",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Nachbarsschulen streiten: Schule A führt getrennt, Schule B verschränkt. Die Elternvertretung bittet dich um eine Gegenüberstellung der Tageswahl. Welche Sätze stimmen?",
+    "optionen": [
+      "An Schule A kann die Anmeldung einzelne Wochentage umfassen.",
+      "An Schule B erstreckt sich die Anmeldung nur auf alle Schultage.",
+      "An beiden Schulen sind einzelne Tage frei wählbar.",
+      "An beiden Schulen sind immer alle Tage Pflicht.",
+      "Die Tageswahl hängt von den Noten des Kindes ab."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "pro_option_feedback": [
+      "Richtig: Getrennte Abfolge erlaubt die Wahl einzelner Tage.",
+      "Richtig: Verschränkte Abfolge verlangt die Anmeldung für alle Tage.",
+      "Falsch: Einheitliche Wahlfreiheit gibt es gerade nicht.",
+      "Falsch: Eine Vollpflicht an beiden Schulen stimmt nicht.",
+      "Falsch: Noten spielen für die Tageswahl keine Rolle."
+    ],
+    "aufloesung": "Die Formen unterscheiden sich bei der Tageswahl. Getrennt erlaubt einzelne Tage, verschränkt verlangt alle Schultage. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.b und Z2 lit.b.",
+    "hauptquelle": "SchUG §12a Abs.1 Z2 lit.b",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-005",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Mutter vergleicht die Geltungsdauer ihrer beiden Kinder: Jonas an einer Schule mit getrennter Abfolge, Sara an einer mit verschränkter Abfolge. Welche Aussagen zur Geltungsdauer stimmen?",
+    "optionen": [
+      "Jonas Anmeldung gilt nur für das betreffende Unterrichtsjahr.",
+      "Saras Anmeldung gilt für die Dauer des Schulbesuchs.",
+      "Beide Anmeldungen gelten automatisch bis zur Matura.",
+      "Jonas Anmeldung muss jährlich erneuert werden.",
+      "Saras Anmeldung endet automatisch jedes Semester."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bei getrennter Abfolge endet die Wirkung mit dem Unterrichtsjahr.",
+      "Richtig: Bei Verschränkung wirkt die Anmeldung für die ganze Schuldauer.",
+      "Falsch: Eine automatische Geltung bis zur Matura gibt es nicht.",
+      "Richtig: Jonas braucht daher jedes Jahr eine neue Anmeldung.",
+      "Falsch: Saras Anmeldung endet nicht semesterweise."
+    ],
+    "aufloesung": "Die Dauer hängt von der Organisationsform ab. Getrennt gilt ein Jahr und braucht Erneuerung, verschränkt gilt für die gesamte Schuldauer. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.c und Z2 lit.c.",
+    "hauptquelle": "SchUG §12a Abs.1 Z2 lit.c",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-006",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Nach Ablauf der Anmeldefrist stehen fünf Familien im Sekretariat und wollen nachmelden. Zwei Gruppen sind voll, eine dritte hätte noch freie Plätze. Welche Nachmeldungen sind zulässig?",
+    "optionen": [
+      "Nachmeldungen für die Gruppe mit freien Plätzen ohne neue Gruppe.",
+      "Nachmeldungen, die eine zusätzliche Gruppe erfordern würden.",
+      "Nachmeldungen bei schulartenübergreifendem Besuch zum Aufnahmezeitpunkt der Stammschule.",
+      "Nachmeldungen nur mit ärztlichem Attest.",
+      "Nachmeldungen ausschließlich nach Zustimmung aller anderen Eltern."
+    ],
+    "richtig": [
+      0,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne neue Gruppe ist die Nachmeldung zulässig.",
+      "Falsch: Wird eine zusätzliche Gruppe nötig, scheidet die Nachmeldung aus.",
+      "Richtig: Bei schulartenübergreifendem Besuch zählt der Aufnahmezeitpunkt der Stammschule.",
+      "Falsch: Ein Attest ist keine Voraussetzung für die Nachmeldung.",
+      "Falsch: Andere Eltern haben darüber kein Vetorecht."
+    ],
+    "aufloesung": "Nur Nachmeldungen ohne neue Gruppe gehen durch. Freie Plätze in bestehenden Gruppen dürfen vergeben werden, Gruppenerweiterungen nicht erzwungen werden. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-007",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du erstellst als Administratorin eine Abmelde-Checkliste für den Betreuungsteil während des laufenden Unterrichtsjahres. Welche Punkte sind korrekt?",
+    "optionen": [
+      "Abmeldung während des Jahres grundsätzlich nur zum Ende des ersten Semesters.",
+      "Abmeldungserklärung spätestens drei Wochen vor Ende des ersten Semesters.",
+      "Abmeldung jederzeit formlos von heute auf morgen.",
+      "Abmeldung zu anderem Zeitpunkt nur bei besonders berücksichtigungswürdigen Gründen.",
+      "Bei fehlender Parallelklasse ohne Betreuung nur Abmeldung von der Schule.",
+      "Abmeldung immer nur mit Gutachten einer Beratungsstelle."
+    ],
+    "richtig": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Semesterende ist der Regeltermin für die Abmeldung.",
+      "Richtig: Drei Wochen davor ist die letzte Frist.",
+      "Falsch: Ein sofortiger Ausstieg ohne Termin ist nicht vorgesehen.",
+      "Richtig: Außerhalb des Termins braucht es besonders gewichtige Gründe.",
+      "Richtig: Ohne entsprechende Klasse bleibt nur der Schulwechsel.",
+      "Falsch: Ein Gutachten ist keine allgemeine Voraussetzung."
+    ],
+    "aufloesung": "Die Checkliste nennt Termin, Frist, Ausnahme und Sonderfall. Semesterende, Dreiwochenfrist, Härteausnahme und fehlende Parallelklasse sind die vier Eckpunkte. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-008",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vier Familien bitten mitten im Semester um sofortige Abmeldung vom Betreuungsteil: Umzug ins Ausland, schwere Erkrankung mit Heimunterricht, Unlust am Nachmittagsprogramm, schlechte Note in Mathematik. Welche Gründe kommen als besonders berücksichtigungswürdig in Frage?",
+    "optionen": [
+      "Berufsbedingter Umzug der Familie in ein anderes Bundesland.",
+      "Lange schwere Erkrankung mit ärztlich verordnetem Heimaufenthalt.",
+      "Bloße Unlust des Kindes am Nachmittagsprogramm.",
+      "Unzufriedenheit mit einer einzelnen Fachnote.",
+      "Wunsch nach mehr Freizeit für Hobbys ohne sonstige Änderung.",
+      "Nachgewiesene ganztägige Betreuungspflicht durch einen Schicksalsschlag in der Familie."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein berufsbedingter Umzug ist ein klassischer Härtefall.",
+      "Richtig: Eine schwere Erkrankung kann einen sofortigen Austritt rechtfertigen.",
+      "Falsch: Bloße Unlust erreicht die Hürde der besonderen Gründe nicht.",
+      "Falsch: Eine einzelne Note ist kein Abmeldegrund außerhalb des Termins.",
+      "Falsch: Mehr Freizeitwunsch allein genügt für die Ausnahme nicht.",
+      "Richtig: Ein schwerer Schicksalsschlag kann besonders berücksichtigungswürdig sein."
+    ],
+    "aufloesung": "Nur wirklich gewichtige Gründe öffnen die Ausnahmetür. Umzug, schwere Krankheit oder Schicksalsschläge können zählen, Unlust und Notenärger nicht. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-009",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "An einer verschränkt geführten Schule ohne einzige Klasse ohne Betreuungsteil wollen Eltern ihr Kind nur vom Betreuungsteil abmelden. Welche Aussagen zur Rechtslage stimmen?",
+    "optionen": [
+      "Eine reine Betreuungsabmeldung mit Verbleib in der Klasse ist dort möglich.",
+      "Ohne entsprechende Klassen ohne Betreuung ist nur die Abmeldung von der Schule möglich.",
+      "Der Schulleiter kann eine Einzelbetreuung ohne Gruppe anordnen.",
+      "Die Eltern können die Verschränkung einseitig aufkündigen.",
+      "Ein Wechsel an eine Schule mit passender Organisationsform löst das Problem.",
+      "Die Schule muss eigens eine neue Klasse ohne Betreuung gründen."
+    ],
+    "richtig": [
+      1,
+      4
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Parallelklasse lässt sich die Verschränkung nicht auftrennen.",
+      "Richtig: Fehlt die entsprechende Klasse, bleibt nur die Schulabmeldung.",
+      "Falsch: Einzelbetreuung ohne Gruppe ist nicht vorgesehen.",
+      "Falsch: Die Organisationsform steht nicht zur Disposition der Eltern.",
+      "Richtig: Ein Schulwechsel ist der vorgesehene Weg in diesem Fall.",
+      "Falsch: Eine Neugründung kann nicht erzwungen werden."
+    ],
+    "aufloesung": "Ohne Parallelklasse hilft nur der Schulwechsel. Wer die Betreuung an einer durchgehend verschränkten Schule nicht will, kann nur die Schule abmelden und wechseln. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-010",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Du bist neuer Schulleiter einer ganztägigen Schule und bildest die Nachmittagsgruppen. Welche Aufgaben zur Gruppenbildung und Personalzuweisung treffen dich?",
+    "optionen": [
+      "Einteilung der Schüler in die einzelnen Betreuungsgruppen.",
+      "Zuweisung der für Lernzeiten und Freizeit vorgesehenen Personen an die Gruppen.",
+      "Beachtung pädagogischer Grundsätze bei der Lehrfächerverteilung im Unterrichtsteil.",
+      "Schriftliche Kenntnisgabe der Zuweisung an die zuständige Schulbehörde.",
+      "Verlosung der Gruppen durch die Elternvertretung.",
+      "Übertragung der gesamten Einteilung an einen externen Verein."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Gruppeneinteilung der Schüler ist Schulleiteraufgabe.",
+      "Richtig: Auch die Personalzuweisung an die Gruppen obliegt dem Schulleiter.",
+      "Falsch: Das betrifft den Unterrichtsteil, nicht die Betreuungsgruppenbildung.",
+      "Richtig: Die Zuweisung ist der Schulbehörde schriftlich zur Kenntnis zu bringen.",
+      "Falsch: Die Elternvertretung lost die Gruppen nicht aus.",
+      "Falsch: Die Verantwortung kann nicht vollständig ausgelagert werden."
+    ],
+    "aufloesung": "Gruppenbildung und Personalzuweisung liegen beim Schulleiter. Er teilt die Kinder ein, weist das Personal zu und meldet die Zuweisung der Behörde. Zum Nachlesen: SchUG §9 Abs.5.",
+    "hauptquelle": "SchUG §9 Abs.5",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-011",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Für die Lernzeiten und die Freizeit im Betreuungsteil stehen Lehrer, Erzieher und Freizeitpädagoginnen bereit. Welche Grundsätze gelten für ihren Einsatz?",
+    "optionen": [
+      "Der Schulleiter weist den Gruppen die vorgesehenen Personen für Lernzeit und Freizeit zu.",
+      "Lehrer, Erzieher und Freizeitpädagogen werden der Behörde namentlich zur Kenntnis gebracht.",
+      "Die Kinder bestimmen allein, wer sie in Lernzeit und Freizeit betreut.",
+      "Externe dürfen ohne jede Zuweisung spontan Gruppen übernehmen.",
+      "Für Lernzeiten und Freizeit gelten die dafür vorgesehenen Personengruppen.",
+      "Die Zuweisung kann mündlich nebenbei ohne jede Dokumentation erfolgen."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Zuweisung an die Gruppen trifft der Schulleiter.",
+      "Richtig: Die Personalzuweisung ist der Behörde schriftlich mitzuteilen.",
+      "Falsch: Die Kinder wählen ihr Betreuungspersonal nicht selbst.",
+      "Falsch: Spontane Übernahmen ohne Zuweisung sind nicht vorgesehen.",
+      "Richtig: Lernzeit und Freizeit haben ihr eigenes vorgesehenes Personal.",
+      "Falsch: Die Kenntnisgabe an die Behörde hat schriftlich zu erfolgen."
+    ],
+    "aufloesung": "Der Personaleinsatz folgt klaren Zuweisungsregeln. Schulleiterzuweisung, vorgesehene Personengruppen und schriftliche Behördeninfo sichern den geordneten Betrieb. Zum Nachlesen: SchUG §9 Abs.5.",
+    "hauptquelle": "SchUG §9 Abs.5",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-012",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Ein Betreuungsstandort nimmt gemeinsam Volksschulkinder und Mittelschulkinder in einer Gruppe auf. Worin zeigt sich die besondere Rücksicht auf die unterschiedlichen Anforderungen?",
+    "optionen": [
+      "Lernzeiten werden nach Schulstufe und Schulart differenziert gestaltet.",
+      "Freizeitangebote werden altersgerecht gestaffelt.",
+      "Alle Kinder erhalten unterschiedslos dasselbe Programm ohne jede Anpassung.",
+      "Hausübungen der Kleinen und Lernstoff der Großen werden getrennt betreut.",
+      "Leistungsstand und Reife der jeweiligen Gruppe fließen in die Planung ein.",
+      "Die Unterschiede zwischen Schulstufen werden bewusst ignoriert."
+    ],
+    "richtig": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Differenzierte Lernzeiten tragen den Stufenunterschieden Rechnung.",
+      "Richtig: Altersgerechte Freizeit gehört zur besonderen Bedachtnahme.",
+      "Falsch: Ein Einheitsprogramm ohne Anpassung widerspricht der Rücksichtspflicht.",
+      "Richtig: Getrennte Betreuung der Lerninhalte sichert beide Gruppen ab.",
+      "Richtig: Planung nach Leistungsstand und Reife ist gelebte Bedachtnahme.",
+      "Falsch: Ignorieren der Unterschiede verletzt die besondere Sorgfaltspflicht."
+    ],
+    "aufloesung": "Gemischte Gruppen brauchen angepasste Planung. Differenzierte Lernzeiten, altersgerechte Freizeit und getrennte Lernbetreuung nehmen auf Stufen und Arten Bedacht. Zum Nachlesen: SchUG §12a Abs.3.",
+    "hauptquelle": "SchUG §12a Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-013",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Dezember verlangt eine Familie die sofortige Abmeldung vom Betreuungsteil, weil das Kind lieber zu Hause spielen will. Es liegt kein Umzug, keine Krankheit, kein sonstiger Härtefall vor. Wie reagierst du korrekt?",
+    "optionen": [
+      "Sofortige Abmeldung ablehnen und auf den Semestertermin verweisen.",
+      "Auf die Dreiwochenfrist vor Semesterende für die reguläre Abmeldung hinweisen.",
+      "Jeden Elternwunsch sofort als Härtefall anerkennen.",
+      "Abmeldung zum Ende des ersten Semesters als richtigen Weg anbieten.",
+      "Ohne Prüfung sofort austragen und Gruppe auflösen.",
+      "Härtefall verneinen, weil bloße Spielwünsche nicht genügen."
+    ],
+    "richtig": [
+      0,
+      1,
+      3,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Härtefall bleibt nur der Regeltermin zum Semesterende.",
+      "Richtig: Die Dreiwochenfrist ist der entscheidende Hinweis.",
+      "Falsch: Nicht jeder Wunsch ist ein besonders berücksichtigungswürdiger Grund.",
+      "Richtig: Der Semestertermin ist der korrekte Ausweg.",
+      "Falsch: Austragen ohne Prüfung und Auflösen der Gruppe sind falsch.",
+      "Richtig: Bloße Spielwünsche erfüllen die Ausnahmehürde nicht."
+    ],
+    "aufloesung": "Ohne Härtefall bleibt es beim Semestertermin. Ablehnung des Sofortaustritts, Hinweis auf die Dreiwochenfrist und Angebot der Semesterabmeldung sind die richtigen Schritte. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-014",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Eltern eines verschränkt geführten Gymnasiums beantragen Betreuung nur für Montag und Freitag. Die Sekretärin soll den Antrag prüfen. Welche Einwände sind berechtigt?",
+    "optionen": [
+      "Bei Verschränkung ist nur die Anmeldung für alle Schultage möglich.",
+      "Eine Teilbuchung einzelner Tage scheidet bei dieser Form aus.",
+      "Die Tageswahl steht den Eltern bei jeder Form völlig frei.",
+      "Die Schule kann ausnahmsweise einzelne Tage genehmigen.",
+      "Der Antrag widerspricht der Geltung für die gesamte Schuldauer.",
+      "Ein Wechsel an eine Schule mit getrennter Abfolge wäre die Alternative."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verschränkung bedeutet Anmeldung für alle Tage.",
+      "Richtig: Einzelne Tage herauszupicken ist hier ausgeschlossen.",
+      "Falsch: Freie Tageswahl gibt es nur bei getrennter Abfolge.",
+      "Falsch: Eine einzeltägige Ausnahmegenehmigung ist nicht vorgesehen.",
+      "Falsch: Die Geltungsdauer ist nicht das Problem, sondern die Tageswahl.",
+      "Richtig: Wer Teiltage will, braucht eine Schule mit getrennter Abfolge."
+    ],
+    "aufloesung": "Der Antrag scheitert an der Tageswahl. Verschränkung verlangt alle Schultage, Teiltage gibt es nur an Schulen mit getrennter Abfolge. Zum Nachlesen: SchUG §12a Abs.1 Z2 lit.b.",
+    "hauptquelle": "SchUG §12a Abs.1 Z2 lit.b",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L2-015",
+    "modul_id": "A07",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Im Oktober wollen drei Familien verspätet in den Betreuungsteil einsteigen: Für Familie A ist in der bestehenden Gruppe Platz, für B und C müsste eine neue Gruppe eröffnet werden. Welche Entscheidungen sind korrekt?",
+    "optionen": [
+      "Familie A aufnehmen, weil keine zusätzliche Gruppe nötig wird.",
+      "Familien B und C ablehnen, weil eine zusätzliche Gruppe erforderlich wäre.",
+      "Alle drei aufnehmen, weil nach der Frist alles erlaubt ist.",
+      "Alle drei ablehnen, weil Nachmeldungen nie möglich sind.",
+      "Freie Kapazität der bestehenden Gruppe für die Nachmeldung nutzen.",
+      "Neue Gruppe erzwingen, weil jede Nachmeldung aufzunehmen ist."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne neue Gruppe ist die Nachmeldung zulässig.",
+      "Richtig: Mit nötiger neuer Gruppe scheidet die Nachmeldung aus.",
+      "Falsch: Nach der Frist ist nicht automatisch alles erlaubt.",
+      "Falsch: Nachmeldungen sind nicht pauschal ausgeschlossen.",
+      "Richtig: Freie Plätze dürfen für Nachmeldungen verwendet werden.",
+      "Falsch: Eine Gruppeneröffnung kann nicht erzwungen werden."
+    ],
+    "aufloesung": "Nur die Nachmeldung ohne neue Gruppe gelingt. Familie A rückt auf den freien Platz, B und C müssen warten, weil keine zusätzliche Gruppe entstehen darf. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.a",
+    "stand": "04.09.2026"
+  }
+]
