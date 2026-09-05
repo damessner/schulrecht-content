@@ -1,1 +1,377 @@
-[]
+[
+  {
+    "aufloesung": "Fellner verletzt seine Aufsichtspflicht und verantwortet die Lücke. Eingeteilte Aufsicht muss tatsächlich vor Ort wahrgenommen werden, das Handy im Konferenzzimmer ist keine Aufsicht. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B31-L3-001",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Das ist zulässig, weil erfahrene Lehrer die Aufsicht auch aus der Ferne führen dürfen.",
+      "Fellner verletzt seine Aufsichtspflicht, die eingeteilte Aufsicht war nicht wirksam wahrgenommen.",
+      "Ein kurzer Blick zu Beginn der Pause erfüllt die Aufsichtspflicht vollständig.",
+      "Die Rauferei liegt allein in der Verantwortung der Schüler, die Aufsicht spielt keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aufsicht aus der Ferne genügt nicht, Präsenz vor Ort ist nötig.",
+      "Richtig: Vor Ort sein und eingreifen, das wurde hier versäumt.",
+      "Falsch: Einmaliges Vorbeischauen ist keine lückenlose Aufsicht.",
+      "Falsch: Vorhersehbare Rangeleien muss die Aufsicht gerade verhindern."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Fellner hat Pausenaufsicht am Gang mit Stiegenaufgang, bleibt aber im Konferenzzimmer am Handy und schaut nur einmal kurz vorbei. Als zwei Burschen zu raufen beginnen, greift niemand ein und ein Schüler kommt zu Schaden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Übergabe ist unwirksam und Gruber bleibt verantwortlich. Aufsicht lässt sich nur an eine geeignete Person mit klarer Absprache und tatsächlicher Übernahme übergeben, ein Schüler ersetzt keine Aufsichtsperson. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B31-L3-002",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Die Übergabe ist wirksam, weil der Schüler verlässlich und einsichtig wirkt.",
+      "Ein Arbeitsauftrag auf dem Pult ersetzt die Aufsichtsperson für eine Stunde.",
+      "Die Übergabe ist unwirksam, Gruber bleibt verantwortlich, weil kein Geeigneter tatsächlich übernommen hat.",
+      "Mit dem Verlassen des Zimmers endet die Verantwortung von selbst."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schüler können keine Aufsichtsperson ersetzen, egal wie brav sie sind.",
+      "Falsch: Ein Zettel ist kein Ersatz für eine Aufsichtsperson.",
+      "Richtig: Ohne geeignete Person mit Zustimmung und Übernahme bleibt man verantwortlich.",
+      "Falsch: Die Verantwortung endet erst mit wirksamer Übergabe."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrer Gruber übergibt seine zweite Klasse für eine Stunde einem verlässlichen Klassensprecher der Oberstufe, legt einen Arbeitsauftrag aufs Pult und verlässt das Zimmer. Während seiner Abwesenheit kommt es zu einem Unfall mit einem Zirkel.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Brunner verletzt seine Sorgfaltspflicht bei der Exkursion. Unbekanntes Gelände verlangt vorherige Prüfung der Strecke, ausreichende Begleitung und klare Regeln statt Improvisation vor Ort. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L3-003",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Improvisation vor Ort ersetzt bei Exkursionen jede Vorbereitung.",
+      "Eine Begleitperson für dreißig Kinder in unbekanntem Gelände genügt immer.",
+      "Brunner verletzt seine Sorgfaltspflicht, Strecke, Begleitung und Regeln wurden versäumt.",
+      "Kinder dürfen in unbekanntem Gelände beliebig vorauslaufen, das fördert die Selbstständigkeit."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade unbekanntes Gelände verlangt Vorbereitung und Erkundung.",
+      "Falsch: Gruppengröße und Gelände bestimmen die nötige Begleitung.",
+      "Richtig: Prüfen, Begleitung sichern und Regeln festlegen, das wurde versäumt.",
+      "Falsch: Vorauslaufen entzieht die Kinder der Aufsicht und gefährdet sie."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Brunner wandert mit dreißig Kindern in einem ihm unbekannten Waldgebiet mit steilem Abhang, ohne die Strecke vorher zu prüfen und mit nur einer Begleitperson. Die Kinder lässt er weit vorauslaufen, ein Kind verirrt sich und kommt zu Schaden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Kaufmann verletzt seine Sorgfaltspflicht im Sportunterricht. Bekannt defekte Geräte sind sofort auszuscheiden und zu melden, sie dürfen nicht wissentlich weiter benutzt werden. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L3-004",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Kaufmann handelt richtig, etwas Wackeln gehört zum Turnen dazu.",
+      "Kaufmann verletzt seine Sorgfaltspflicht, das bekannt defekte Gerät hätte ausgeschieden werden müssen.",
+      "Gerätechecks sind überflüssig, solange noch nichts Ernstes passiert ist.",
+      "Für defekte Geräte ist allein der Schulwart zuständig, der Lehrer muss nichts tun."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bekannte Mängel zu ignorieren verletzt die Sorgfaltspflicht.",
+      "Richtig: Ausscheiden, sichern und melden statt weiter turnen lassen.",
+      "Falsch: Prüfen vor der Benutzung ist fester Teil der Sorgfalt.",
+      "Falsch: Melden und Ausscheiden obliegt auch der Lehrperson vor Ort."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sportlehrer Kaufmann weiß seit Tagen, dass ein Reck stark wackelt, lässt seine Klasse aber trotzdem daran turnen, ohne das Gerät zu sperren oder zu melden. Beim Schwingen kippt das Gerät und ein Schüler kommt zu Schaden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Mair verletzt ihre Sorgfaltspflicht beim Schwimmen. Schwimmkenntnisse sind abzufragen, die Gruppe ist danach einzuteilen und Nichtschwimmer sind besonders zu sichern, das Badepersonal ersetzt das nicht. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L3-005",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Mair verletzt ihre Sorgfaltspflicht, Abfrage, Einteilung und Sicherung der Nichtschwimmer wurden versäumt.",
+      "Im Hallenbad trägt allein das Badepersonal jede Verantwortung.",
+      "Nichtschwimmer gehören zur Übung ohne Sicherung ins tiefe Becken.",
+      "Die Abfrage der Schwimmkenntnisse ist vor dem Unterricht entbehrlich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abfragen, einteilen und ständig beaufsichtigen, das ist der Maßstab.",
+      "Falsch: Die Lehrperson behält ihre eigene Aufsichtspflicht im Bad.",
+      "Falsch: Nichtschwimmer brauchen seichte Bereiche und besondere Sicherung.",
+      "Falsch: Ohne bekanntes Können ist keine sichere Einteilung möglich."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Sportlehrerin Mair geht mit ihrer Klasse erstmals ins Hallenbad, fragt die Schwimmkenntnisse nicht ab und lässt alle gemeinsam ins tiefe Becken. Zwei Nichtschwimmer geraten in Not und müssen gerettet werden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Rückgriff ist möglich, weil schweres Verschulden vorliegt. Hat der Rechtsträger dem Geschädigten Ersatz geleistet, kann er bei Vorsatz oder grober Fahrlässigkeit Rückersatz verlangen, die missachtete Warnung belegt das hier. Zum Nachlesen: LDG §29 Abs.1, ergänzend AHG §3 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L3-006",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Rückgriff ist grundsätzlich ausgeschlossen, egal wie schwer das Verschulden war.",
+      "Schon jedes leichte Versehen führt automatisch zum vollen Rückgriff.",
+      "Der Rückgriff ist möglich, weil Vorsatz oder grobe Fahrlässigkeit bei missachteter Warnung vorliegt.",
+      "Die Eltern der Mitschüler müssen dem Rechtsträger den Ersatz zurückzahlen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei schwerem Verschulden ist der Rückgriff gerade vorgesehen.",
+      "Falsch: Leichte Versehen führen nicht automatisch zum vollen Ersatz.",
+      "Richtig: Grobe Fahrlässigkeit trotz Warnung öffnet den Rückgriff des Rechtsträgers.",
+      "Falsch: Der Rückgriff richtet sich an die fehlbare Lehrperson, nicht an Eltern."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer lässt seine Klasse trotz ausdrücklicher Warnung der Direktion vor einem gesperrten Klettergerüst unbeaufsichtigt dort spielen, ein Kind stürzt und kommt zu Schaden. Der Rechtsträger leistet Ersatz an die Eltern und prüft den Rückgriff auf den Lehrer.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "AHG §3 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Richtig sind junges Alter mit enger Aufsicht, Vorhersehbarkeit der Gefahr und Dauer der Lücke. Je jünger die Kinder, je absehbarer die Rangelei und je länger die Abwesenheit, desto eher liegt eine Sorgfaltspflichtverletzung vor. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L3-007",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Das junge Alter der Kinder, das besonders enge Aufsicht verlangt.",
+      "Die Vorhersehbarkeit von Rangeleien in unbeaufsichtigten Pausenbereichen.",
+      "Die Dauer und Lückenlosigkeit der Abwesenheit der Aufsichtsperson.",
+      "Dass die Kinder an diesem Tag besonders brav und ruhig waren.",
+      "Dass ein Stillarbeitsauftrag auf dem Pult lag.",
+      "Dass der Unfall für niemanden völlig überraschend kam."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Je jünger die Kinder, desto intensiver die geschuldete Aufsicht.",
+      "Richtig: Absehbare Gefahren muss die Aufsicht gerade abwehren.",
+      "Richtig: Minutenlange Lücken wiegen schwerer als ein kurzer Blickwechsel.",
+      "Falsch: Braves Verhalten hebt die Aufsichtspflicht nicht auf.",
+      "Falsch: Ein Auftrag ersetzt keine Aufsichtsperson.",
+      "Falsch: Gerade weil nichts überraschend war, musste Aufsicht da sein."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Berger lässt ihre erste Klasse acht Minuten ohne Vertretung allein, um Kopien zu holen. In der Zeit kommt es zu einer Rauferei mit Sachschaden. Das Kollegium prüft, welche Umstände für die Beurteilung als Sorgfaltspflichtverletzung sprechen. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Eignung mit Zustimmung, Information über Besonderheiten und tatsächliche Übernahme. Nur eine geeignete, informierte Person, die ausdrücklich übernimmt, trägt die Vertretung wirksam. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B31-L3-008",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Die Vertretung persönlich an eine geeignete Person mit deren Zustimmung übergeben.",
+      "Die übernehmende Person über Besonderheiten wie Allergien und Konflikte informieren.",
+      "Sich vergewissern, dass die Vertretung die Aufsicht tatsächlich antritt.",
+      "Die Aufsicht kommentarlos irgendeiner vorbeikommenden Person zuschieben.",
+      "Einen Zettel mit Aufgaben hinlegen und das Zimmer verlassen.",
+      "Die Gesamtverantwortung mit der Bitte um Vertretung automatisch loswerden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Persönlich, geeignet und mit Zustimmung, so gelingt die Übergabe.",
+      "Richtig: Nur informierte Aufsicht kann richtig reagieren.",
+      "Richtig: Erst die tatsächliche Übernahme beendet die eigene Verantwortung.",
+      "Falsch: Ohne Eignung und Absprache gibt es keine wirksame Übergabe.",
+      "Falsch: Ein Zettel ersetzt keine Aufsichtsperson.",
+      "Falsch: Die Gesamtverantwortung bleibt trotz Delegation bei der Lehrperson."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Wieser muss seine Klasse überraschend für zwanzig Minuten verlassen und bittet eine fremde Begleitperson ohne Einweisung, kurz nach dem Rechten zu sehen. Danach kommt es zu einem Zwischenfall. Geprüft wird, was eine wirksame Vertretung ausgemacht hätte. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind fehlende Erkundung, unzureichende Begleitung und fehlende Regeln mit Notfallplan. Unbekanntes Gelände verlangt Vorbereitung, passende Begleitung und klare Verhaltensregeln samt Treffpunkt. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L3-009",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Die Strecke wurde nicht vorher geprüft und Gefahrenstellen waren unbekannt.",
+      "Die Begleitung war für dreißig Kinder in steilem Gelände unzureichend.",
+      "Verhaltensregeln und ein Notfallplan mit Treffpunkt fehlten.",
+      "Die Wanderung fand bei gutem Wetter und freundlicher Stimmung statt.",
+      "Die Kinder trugen feste Schuhe und hatten eine Jause dabei.",
+      "Der Wandertag war von der Direktion allgemein genehmigt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Streckenkenntnis lassen sich Gefahren nicht rechtzeitig erkennen.",
+      "Richtig: Gruppengröße und Gelände bestimmen die nötige Begleitung.",
+      "Richtig: Regeln und Notfallplan geben im Ernstfall Orientierung.",
+      "Falsch: Gutes Wetter ersetzt keine Vorbereitung und Begleitung.",
+      "Falsch: Ausrüstung hilft, ersetzt aber Aufsicht und Planung nicht.",
+      "Falsch: Die allgemeine Genehmigung ersetzt die konkrete Sorgfalt vor Ort nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Hofer wandert mit dreißig Kindern ohne Streckencheck und mit nur einer Begleitperson durch unbekanntes Berggelände, ohne Regeln und ohne Treffpunkt für den Notfall. Ein Kind verirrt sich, die Gruppe muss gesucht werden. Wähle alle vorliegenden Sorgfaltsverstöße.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind sachliche Dokumentation, Meldung im Dienstweg und Information der Eltern. Nach der Erstversorgung zählen Festhalten des Hergangs, Meldung an die Direktion und ehrliche Elterninformation. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L3-010",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Den Hergang sachlich aufschreiben, solange die Erinnerung frisch ist.",
+      "Den Vorfall der Direktion im Dienstweg melden.",
+      "Dafür sorgen, dass die Eltern des betroffenen Kindes informiert werden.",
+      "Mit der Klasse ein Schweigeversprechen über den Vorfall vereinbaren.",
+      "Den Hergang zuerst ausführlich in sozialen Medien schildern.",
+      "Aufzeichnungen vernichten, damit niemand Fragen stellt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Frische Notizen sichern den wahren Hergang.",
+      "Richtig: Die Meldung gehört unverzüglich in den Dienstweg.",
+      "Richtig: Eltern haben Anspruch auf rasche und ehrliche Information.",
+      "Falsch: Schweigeabsprachen untergraben Vertrauen und Aufklärung.",
+      "Falsch: Soziale Medien sind kein Meldeweg und verletzen Persönlichkeitsrechte.",
+      "Falsch: Vernichten von Aufzeichnungen verschlimmert alles."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Sturz im Stiegenhaus ist das betroffene Kind versorgt und abgeholt. Lehrerin Egger überlegt, was nach der Erstversorgung dienstrechtlich von ihr erwartet wird. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Haftung des Rechtsträgers, Rückgriff nur bei schwerem Verschulden und mögliche dienstrechtliche Verantwortung. Der Geschädigte hält sich an den Rechtsträger, der Rückgriff braucht Vorsatz oder grobe Fahrlässigkeit, daneben läuft das Dienstrecht. Zum Nachlesen: LDG §29 Abs.1, ergänzend AHG §1 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L3-011",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Dem Geschädigten haftet der Rechtsträger und nicht das Privatvermögen der Lehrperson.",
+      "Der Rückgriff des Rechtsträgers setzt Vorsatz oder grobe Fahrlässigkeit voraus.",
+      "Die schuldhafte Aufsichtspflichtverletzung kann dienstrechtlich verfolgt werden.",
+      "Die Lehrperson zahlt dem Geschädigten immer sofort aus eigener Tasche.",
+      "Jedes leichte Versehen führt automatisch zum vollen Rückgriff.",
+      "Dienstrecht spielt bei Aufsichtspflichtverletzungen grundsätzlich keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Adressat des Ersatzanspruchs ist der Rechtsträger.",
+      "Richtig: Nur schweres Verschulden öffnet den Rückgriff.",
+      "Richtig: Schuldhafte Dienstpflichtverletzung zieht Verantwortung nach sich.",
+      "Falsch: Direktzahlung aus der Privattasche ist nicht vorgesehen.",
+      "Falsch: Leichte Fahrlässigkeit führt nicht automatisch zum vollen Ersatz.",
+      "Falsch: Aufsichten sind Dienstpflichten mit disziplinärer Relevanz."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer Aufsichtslücke mit Schülerverletzung diskutieren Eltern und Kollegium, wer wem haftet und was der Lehrperson drohen kann. Der Lehrer hatte im Dienst gehandelt, die Warnung vor der Gefahrenstelle aber ignoriert. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "AHG §1 Abs.1",
+      "AHG §3 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, der Unfall allein entscheidet nichts. Entscheidend ist, ob die Sorgfaltspflicht schuldhaft verletzt wurde, sorgfältige Aufsicht ohne Verschulden begründet keinen Vorwurf. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L3-012",
+    "level": "L3",
+    "modul_id": "B31",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Der bloße Unfall begründet noch keine Pflichtverletzung.",
+      "Richtig erkannt: Ohne schuldhafte Sorgfaltsverletzung gibt es keinen Vorwurf."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Eine Kollegin behauptet, jeder Schülerunfall im Unterricht beweise automatisch eine Dienstpflichtverletzung der Lehrperson, auch bei sorgfältiger und lückenloser Aufsicht.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

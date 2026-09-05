@@ -1,1 +1,251 @@
-[]
+[
+  {
+    "aufloesung": "Pichler muss mit dienstrechtlichen Folgen rechnen. Wer eingeteilte Aufsichten wiederholt schwänzt und Klassen allein lässt, verletzt schuldhaft Dienstpflichten, beim nächsten Schaden wiegt das besonders schwer. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L4-001",
+    "level": "L4",
+    "modul_id": "B31",
+    "optionen": [
+      "Wiederholtes Schwänzen der Aufsicht ist dienstrechtlich bedeutungslos.",
+      "Pichler verletzt schuldhaft Dienstpflichten und muss mit dienstrechtlichen Folgen rechnen.",
+      "Dienstrecht gilt nur für den Fachunterricht, nicht für Aufsichten.",
+      "Die Direktion trägt immer allein die Verantwortung für versäumte Aufsichten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade wiederholte Pflichtverletzungen wiegen dienstrechtlich schwer.",
+      "Richtig: Schuldhafte Verletzung der Dienstpflichten zieht Verantwortung nach sich.",
+      "Falsch: Aufsichten sind Dienstpflichten wie der Unterricht selbst.",
+      "Falsch: Jede Lehrperson verantwortet die eigenen Pflichten selbst."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Pichler schwänzt seit Monaten regelmäßig seine Pausenaufsicht und lässt Klassen allein, Ermahnungen der Direktion ignoriert er. Nun kommt in einer unbeaufsichtigten Pause ein Schüler zu Schaden, Pichler hält das für folgenlos für ihn.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Aigner versäumt ihre nachgelagerten Pflichten trotz korrekter Ersthilfe. Nach der Versorgung zählen sachliche Dokumentation, Meldung im Dienstweg und Information der Eltern, Schweigen und Social-Media-Posts ersetzen das nicht. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L4-002",
+    "level": "L4",
+    "modul_id": "B31",
+    "optionen": [
+      "Aigner hat alles erledigt, Dokumentation und Meldung sind freiwillig.",
+      "Ein Klassen-Schweigeversprechen ersetzt Meldung und Elterninformation.",
+      "Aigner versäumt Dokumentation, Meldung im Dienstweg und Elterninformation.",
+      "Ein Post in sozialen Medien erfüllt die Meldepflicht an die Direktion."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nach der Ersthilfe folgen Dokumentation, Meldung und Elterninfo.",
+      "Falsch: Schweigeabsprachen untergraben Vertrauen und Aufklärung.",
+      "Richtig: Hergang festhalten, im Dienstweg melden und Eltern informieren.",
+      "Falsch: Soziale Medien sind kein Meldeweg und verletzen Persönlichkeitsrechte."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Sturz auf Sportwoche leistet Lehrerin Aigner vorbildlich Erste Hilfe, schreibt aber nichts auf, meldet den Vorfall der Direktion nicht und informiert die Eltern nicht. Stattdessen vereinbart sie mit der Klasse Stillschweigen und postet den Hergang abends in einer Elterngruppe.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Rechtsträger haftet dem Geschädigten, der Rückgriff auf Steiner ist möglich. Bei Handeln im Dienst wendet sich der Geschädigte an den Rechtsträger, die grob fahrlässige Missachtung der Einweisung öffnet den Rückgriff. Zum Nachlesen: LDG §29 Abs.1, ergänzend AHG §1 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L4-003",
+    "level": "L4",
+    "modul_id": "B31",
+    "optionen": [
+      "Die Eltern müssen sich an das Privatvermögen von Steiner halten.",
+      "Der Rechtsträger haftet dem Geschädigten, der Rückgriff auf Steiner ist bei grober Fahrlässigkeit möglich.",
+      "Die unwirksame Delegation befreit Steiner von jeder Verantwortung.",
+      "Rückgriff gibt es nur bei leichten Versehen, nicht bei groben Verstößen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Geschädigte klagt den Rechtsträger, nicht den Lehrer persönlich.",
+      "Richtig: Amtshaftung nach außen, Rückgriff bei schwerem Verschulden nach innen.",
+      "Falsch: Die gescheiterte Übergabe lässt die Verantwortung gerade bestehen.",
+      "Falsch: Genau umgekehrt, nur schweres Verschulden öffnet den Rückgriff."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Steiner übergibt auf Exkursion ihre Teilgruppe ohne Einweisung einer zufälligen Begleitperson, die die Gruppe allein lässt. Ein Kind kommt an einer Gefahrenstelle zu Schaden, obwohl die Direktion zuvor ausdrücklich vor genau dieser Stelle gewarnt hatte.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "AHG §1 Abs.1",
+      "AHG §3 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Moser trifft kein voller Rückgriff für das leichte Versehen. Bei leichter Fahrlässigkeit kann der Ersatz gemindert werden oder entfallen, volle Ersatzlast trägt vor allem Vorsatz oder grobe Fahrlässigkeit. Zum Nachlesen: LDG §29 Abs.1, ergänzend DHG §2 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L4-004",
+    "level": "L4",
+    "modul_id": "B31",
+    "optionen": [
+      "Jedes Versehen kostet automatisch das volle Privatvermögen, Mäßigung gibt es nicht.",
+      "Moser trifft kein voller Rückgriff, bei leichter Fahrlässigkeit greift die richterliche Mäßigung.",
+      "Die Umstände des Einzelfalls spielen für den Ersatzumfang keine Rolle.",
+      "Leichtes Versehen und Vorsatz werden ersatzrechtlich immer gleich behandelt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Automatismus ohne Abwägung widerspricht der Mäßigung.",
+      "Richtig: Verschulden, Schaden und Verhältnisse werden abgewogen.",
+      "Falsch: Gerade die Umstände entscheiden über das Ausmaß des Ersatzes.",
+      "Falsch: Vorsatz und leichtes Versehen liegen an entgegengesetzten Enden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Junglehrer Moser verursacht aus kurzer Unachtsamkeit beim Aufräumen einen kleinen Sachschaden, Warnungen oder Verbote hatte er keine missachtet. Er fürchtet nun um seine gesamte finanzielle Existenz und fragt nach dem Umfang eines möglichen Rückersatzes.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "DHG §2 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Richtig sind fehlende Abfrage mit Einteilung, unbeaufsichtigtes Becken und fehlende Sicherung der Nichtschwimmer. Schwimmen verlangt erhöhte Sorgfalt: Können feststellen, einteilen, ständig beaufsichtigen und Schwächere besonders sichern. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L4-005",
+    "level": "L4",
+    "modul_id": "B31",
+    "optionen": [
+      "Schwimmkenntnisse wurden nicht abgefragt und die Gruppe nicht eingeteilt.",
+      "Das Becken blieb zeitweise ohne jede Aufsichtsperson.",
+      "Nichtschwimmer wurden ohne Sicherung dem Tiefbecken überlassen.",
+      "Das Badepersonal war anwesend und ersetzt daher jede Lehrverantwortung.",
+      "Die Wassertemperatur war für Sportwochen üblich.",
+      "Die Direktion hatte die Schwimmexkursion allgemein genehmigt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur bekanntes Können erlaubt passende Einteilung.",
+      "Richtig: Unbeaufsichtigtes Wasser ist eine vorhersehbare Gefahr.",
+      "Richtig: Nichtschwimmer brauchen Nähe, Sicherung und seichte Bereiche.",
+      "Falsch: Das Badepersonal ersetzt die eigene Aufsichtspflicht nicht.",
+      "Falsch: Angenehme Umstände ersetzen Abfrage und Aufsicht nicht.",
+      "Falsch: Die allgemeine Genehmigung ersetzt die konkrete Sorgfalt vor Ort nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Auf Sportwoche geht Lehrer Berger mit einer unbekannten Mischgruppe ins Hallenbad, ohne Können abzufragen, lässt das Becken zeitweise ohne Aufsicht und schickt Schwächere allein ins tiefe Wasser. Das Badepersonal ist anwesend, zwei Kinder geraten in Not. Wähle alle Sorgfaltsverstöße.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Notruf mit Erster Hilfe, Sicherung der Restgruppe und Meldung mit Dokumentation. Im Schadensfall zählen helfen, die übrigen Kinder sichern und danach Hergang festhalten und im Dienstweg melden. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B31-L4-006",
+    "level": "L4",
+    "modul_id": "B31",
+    "optionen": [
+      "Erste Hilfe leisten und bei Bedarf sofort den Notruf wählen.",
+      "Die übrigen Kinder sichern, beruhigen und weiter beaufsichtigen.",
+      "Den Vorfall dokumentieren und der Direktion im Dienstweg melden.",
+      "Den Verletzten allein lassen und zuerst in Ruhe telefonieren.",
+      "Die Klasse sich selbst überlassen, um Beweismittel zu suchen.",
+      "Mit den Kindern Stillschweigen vereinbaren und nichts melden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Helfen und Notruf gehen vor allem anderen.",
+      "Richtig: Die Restgruppe darf nie ohne Aufsicht bleiben.",
+      "Richtig: Frische Notizen plus Meldung sichern Aufklärung und Nachweis.",
+      "Falsch: Weglaufen lässt den Verletzten hilflos zurück.",
+      "Falsch: Die Klasse braucht gerade jetzt Aufsicht.",
+      "Falsch: Schweigeabsprachen ersetzen Meldung und Dokumentation nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einem Wandertag stürzt ein Schüler am Waldweg und bleibt benommen liegen, um ihn herum eine aufgeregte Gruppe. Der Begleitlehrer steht daneben und muss in Sekunden entscheiden und danach korrekt nacharbeiten. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind dienstrechtliche Verantwortung, Rückgriff nur bei schwerem Verschulden und mögliche strafrechtliche Relevanz in schweren Fällen. Schuldhafte Pflichtverletzung trifft das Dienstrecht, Ersatz den Rechtsträger mit Rückgriff nur bei Vorsatz oder grober Fahrlässigkeit. Zum Nachlesen: LDG §29 Abs.1, ergänzend AHG §3 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L4-007",
+    "level": "L4",
+    "modul_id": "B31",
+    "optionen": [
+      "Schuldhafte Aufsichtspflichtverletzung zieht dienstrechtliche Verantwortung nach sich.",
+      "Rückersatz an den Rechtsträger setzt Vorsatz oder grobe Fahrlässigkeit voraus.",
+      "Besonders schwere Fälle können zusätzlich strafrechtlich relevant werden.",
+      "Jeder kleine Unfall führt automatisch zur Entlassung.",
+      "Leichte Fahrlässigkeit führt automatisch zum vollen Rückgriff.",
+      "Der Geschädigte muss sich immer an das Privatvermögen des Lehrers halten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schuldhafte Dienstpflichtverletzung wird disziplinar verfolgt.",
+      "Richtig: Nur schweres Verschulden öffnet den Rückgriff.",
+      "Richtig: Schwere Fälle können über das Dienstrecht hinausreichen.",
+      "Falsch: Die Folge richtet sich nach der Schwere des Verschuldens.",
+      "Falsch: Leichte Versehen führen nicht automatisch zum vollen Ersatz.",
+      "Falsch: Adressat des Ersatzanspruchs ist der Rechtsträger."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Exkursionsunfall mit Aufsichtslücke fragt die Direktion, welche Folgen für die verantwortliche Lehrperson in Betracht kommen: Disziplinarrecht, Ersatzrecht und Strafrecht stehen im Raum. Die Lehrperson hatte eine ausdrückliche Sperrung der Gefahrenstelle missachtet. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "AHG §3 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Meldung befreit nicht automatisch. Dokumentation und Meldung sind nachgelagerte Pflichten, ob eine Sorgfaltspflichtverletzung und Haftung vorliegt, entscheidet das Verhalten vor und beim Unfall. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L4-008",
+    "level": "L4",
+    "modul_id": "B31",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Nacharbeit heilt die Sorgfaltsverletzung beim Unfall nicht.",
+      "Richtig erkannt: Melden ist Pflicht, aber kein Freibrief für vorherige Fehler."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check nach einem Sportunfall: Ein Kollege behauptet, wer den Unfall sofort der Direktion melde und alles aufschreibe, sei damit automatisch von jeder Verantwortung und Haftung für den Unfall selbst befreit.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]
