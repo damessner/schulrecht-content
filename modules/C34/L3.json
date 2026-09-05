@@ -1,1 +1,390 @@
-[]
+[
+  {
+    "aufloesung": "Die Cluster-Leiterin setzt sich durch, weil die Gesamtzuständigkeit bei ihr liegt. Einzelne Aufgaben darf sie an Bereichsleitungen übertragen, diese handeln dabei aber nach ihren Vorgaben und dem Organisationsplan. Weisungsfreie Alleingänge des Bereichs sind damit ausgeschlossen. Zum Nachlesen: TirSOG §69b Abs.8.",
+    "hauptquelle": "TirSOG §69b Abs.8",
+    "id": "C34-L3-001",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Cluster-Leiterin handelt richtig, weil alle Schulleitungsaufgaben grundsätzlich bei ihr liegen und der Bereich nur Übertragenes nach ihren Vorgaben erledigt.",
+      "Die Bereichsleiterin handelt richtig, weil jeder Standort seine Leitungsangelegenheiten allein und weisungsfrei regelt.",
+      "Beide Leitungen sind gleichrangig, bei Streit setzt sich jeweils die Bereichsleitung für ihren Standort durch.",
+      "Die Cluster-Leitung darf grundsätzlich nichts übertragen, also bleibt die Aufgabe unerledigt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gesamtzuständigkeit bleibt bei der Cluster-Leitung.",
+      "Falsch: Weisungsfreie Standortautonomie gibt es im Cluster nicht.",
+      "Falsch: Gleichrangigkeit und Bereichsvorrang stimmen nicht.",
+      "Falsch: Einzelübertragung ist ausdrücklich möglich."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schulcluster umfasst eine Volksschule und eine Mittelschule an zwei Standorten. Die Bereichsleiterin am Teilstandort legt eigenmächtig die Vertretungseinteilung und eine schulautonome Festlegung für ihren Standort fest, ohne Vorgabe der Cluster-Leitung. Die Cluster-Leiterin hebt die Anordnung auf und beruft sich auf ihre Gesamtzuständigkeit.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Cluster-Leitung setzt sich durch, weil der Organisationsplan für den ganzen Verbund gilt. Bereichsleitungen arbeiten nach den Vorgaben der Leitung und dürfen den Plan nicht eigenmächtig aushebeln. Abweichungen brauchen eine neue Vorgabe, keinen Alleingang. Zum Nachlesen: TirSOG §69b Abs.7.",
+    "hauptquelle": "TirSOG §69b Abs.7",
+    "id": "C34-L3-002",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Der Bereichsleiter ist an die Vorgaben der Cluster-Leitung und den Organisationsplan gebunden.",
+      "Der Organisationsplan ist eine unverbindliche Empfehlung, jeder Bereich darf frei abweichen.",
+      "Der Bereichsleiter steht über der Cluster-Leitung und darf deren Pläne aufheben.",
+      "Pläne gelten nur am Leitungssitz, an Teilstandorten gilt immer freies Ermessen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorgaben und Plan binden den Bereich.",
+      "Falsch: Unverbindlichkeit des Plans stimmt nicht.",
+      "Falsch: Überordnung des Bereichs gibt es nicht.",
+      "Falsch: Der Plan gilt für den ganzen Verbund."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Organisationsplan eines Clusters ist festgelegt, nach welcher Reihenfolge Vertretungen bei plötzlichen Absenzen einzuteilen sind. Der Bereichsleiter am Teilstandort teilt bewusst anders ein und erklärt, der Plan binde ihn nicht. Die Cluster-Leitung besteht auf der Einhaltung des Plans.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §69b Abs.8"
+    ]
+  },
+  {
+    "aufloesung": "Die Rüge ist berechtigt, weil vor der Verordnung drei Gruppen zu hören sind. Dazu zählen die Erhalter, die Foren oder Ausschüsse der betroffenen Schulen und die zuständigen Zentralausschüsse. Ohne diese Anhörung leidet das Verfahren an einem heilungsbedürftigen Mangel. Zum Nachlesen: TirSOG §69b Abs.2.",
+    "hauptquelle": "TirSOG §69b Abs.2",
+    "id": "C34-L3-003",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Anhörung ist Pflicht, die Betroffenen können sie einfordern und das Versäumnis ist nachzuholen.",
+      "Anhörungen sind freiwillig, die Verordnung gilt auch ohne jedes Hearing uneingeschränkt.",
+      "Es genügt, eine einzige beliebige Person statt der drei Gruppen zu hören.",
+      "Nur Nachbargemeinden ohne betroffene Schule müssen gehört werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Dreifach-Anhörung ist Verfahrenspflicht.",
+      "Falsch: Freiwilligkeit der Anhörung stimmt nicht.",
+      "Falsch: Eine Zufallsperson ersetzt die Gremien nicht.",
+      "Falsch: Unbeteiligte Gemeinden gehören nicht dazu."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Behörde erlässt die Verordnung für einen neuen Pflichtschul-Cluster, ohne vorher die Erhalter, die Foren der betroffenen Schulen und die zuständige Personalvertretung anzuhören. Betroffene Eltern und Lehrpersonen rügen, übergangen worden zu sein. Die Behörde meint, Anhören sei reine Formsache.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Vertretung hat recht, weil große und schulreiche Verbünde zustimmungspflichtig sind. Die Schwellen liegen bei weniger als 200, mehr als 1300 Kindern oder mehr als drei Schulen. Fünf Schulen mit 1600 Kindern überschreiten zwei dieser Grenzen. Zum Nachlesen: TirSOG §69b Abs.3.",
+    "hauptquelle": "TirSOG §69b Abs.3",
+    "id": "C34-L3-004",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Zustimmung ist nötig, weil der Verbund mehr als drei Schulen und mehr als 1300 Kinder umfasst.",
+      "Die Zustimmung ist nie nötig, clustern kann die Behörde immer allein verordnen.",
+      "Die Zustimmung ist nur bei genau 500 Kindern nötig, sonst nie.",
+      "Die Zustimmung ersetzt die Anhörung, beides zusammen gibt es nicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Schwellen sind hier überschritten.",
+      "Falsch: Alleinverordnen gilt für Sonderfälle nicht.",
+      "Falsch: Eine 500er-Sonderregel gibt es nicht.",
+      "Falsch: Anhörung und Zustimmung bestehen nebeneinander."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Fünf Pflichtschulen mit zusammen rund 1600 Kindern sollen zu einem Cluster verbunden werden. Die Zustimmung der zuständigen Personalvertretung liegt nicht vor, die Behörde hält sie für entbehrlich. Die Vertretung besteht auf ihrem Zustimmungsrecht für solche Sonderfälle.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der zusätzliche Bereich am Leitungssitz entfällt, weil dort die Cluster-Leitung selbst wirkt. Die Pflicht zur Bereichsleitung trifft nur die übrigen größeren Schulen des Verbunds. Kleine Standorte können einen Bereich erhalten, müssen aber nicht. Zum Nachlesen: LDG §26c Abs.9.",
+    "hauptquelle": "LDG §26c Abs.9",
+    "id": "C34-L3-005",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Am Sitz der Cluster-Leitung ist keine eigene Bereichsleitung vorzusehen.",
+      "Am Leitungssitz sind zwingend zwei zusätzliche Bereichsleitungen einzurichten.",
+      "Jede Schule braucht drei Bereichsleitungen, auch der Leitungssitz.",
+      "Bereichsleitungen sind im ganzen Cluster grundsätzlich verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Am Leitungssitz entfällt der eigene Bereich.",
+      "Falsch: Zwei Pflichtbereiche am Sitz gibt es nicht.",
+      "Falsch: Drei Bereiche pro Schule sind nicht vorgeschrieben.",
+      "Falsch: Verboten sind Bereichsleitungen keineswegs."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Cluster wird von einer großen Mittelschule aus geleitet, die auch selbst Unterrichtsstandort ist. Zusätzlich zur Cluster-Leitung soll genau dort eine eigene Bereichsleitung für dieselbe Schule eingerichtet werden. Das Kollegium streitet, ob am Leitungssitz ein eigener Bereich nötig ist.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Eltern haben recht, weil das Forum seine Zuständigkeit behält, solange es sie nicht überträgt. Erst mit der Übertragung tritt der Beirat an seine Stelle. Ohne diesen Schritt bleibt die Alleinentscheidung der Leitung in Forenssachen unzulässig. Zum Nachlesen: TirSOG §69b Abs.9.",
+    "hauptquelle": "TirSOG §69b Abs.9",
+    "id": "C34-L3-006",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Der Einwand trifft zu, weil der Beirat nur nach Übertragung an die Stelle des Forums tritt.",
+      "Der Cluster-Leiter ersetzt automatisch alle Foren, eine Übertragung ist nie nötig.",
+      "Der Beirat ist ersatzlos abgeschafft, niemand ist mehr zuständig.",
+      "Foren dürfen ihre Zuständigkeit niemals übertragen, auch nicht an den Beirat."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst Übertragung aktiviert den Beirat.",
+      "Falsch: Automatische Ersetzung gibt es nicht.",
+      "Falsch: Abgeschafft ist der Beirat keineswegs.",
+      "Falsch: Die Übertragung ist ausdrücklich vorgesehen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der Leiter eines Clusters entscheidet allein über eine Angelegenheit, für die eigentlich das Schulforum eines Teilstandorts zuständig wäre. Eine Übertragung dieser Sache auf den gemeinsamen Beirat hat nie stattgefunden. Eltern wenden ein, das Forum sei übergangen worden.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die ersten drei Aufgaben gehören zum Bereich, weil sie den Standort nach den Vorgaben der Leitung stützen. Haushalt, Auflösung und Weisungsfreiheit stehen dem Bereich dagegen nie allein zu. Maßstab bleibt immer Vorgabe plus Organisationsplan. Zum Nachlesen: SchUG §55d.",
+    "hauptquelle": "SchUG §55d",
+    "id": "C34-L3-007",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Pädagogischer Support und Krisenmanagement am eigenen Standort",
+      "Mitarbeit im Qualitätsmanagement- und Qualitätssicherungsteam des Clusters",
+      "Diensteinteilung bei plötzlichen Absenzen am Standort",
+      "Alleinige Verfügung über den Haushalt des gesamten Clusters",
+      "Eigenmächtige Auflösung des Schulclusters",
+      "Weisungsfreies Handeln gegen die Vorgaben der Cluster-Leitung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Support und Krisenmanagement gehören zum Bereich.",
+      "Richtig: Mitarbeit im Qualitätsteam gehört zum Bereich.",
+      "Richtig: Diensteinteilung bei Absenzen gehört zum Bereich.",
+      "Falsch: Haushaltsverfügung steht dem Bereich nicht allein zu.",
+      "Falsch: Auflösen kann der Bereich nicht.",
+      "Falsch: Weisungsfreiheit gegen die Leitung gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine neue Bereichsleiterin will ihren Alltag sauber von der Cluster-Leitung abgrenzen. Sie legt sechs Tätigkeiten auf den Tisch und prüft, welche sie nach Vorgaben und Organisationsplan übernehmen darf und welche dem Bereich nie allein zustehen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §69b Abs.8"
+    ]
+  },
+  {
+    "aufloesung": "Die ersten drei Verwendungen sind zulässig, weil Reststunden Leitung, Verwaltung und Entwicklung stützen sollen. Private Prämien, Privatautos und ein Projektverbot haben darin keinen Platz. Der Organisationsplan legt den genauen Einsatz fest. Zum Nachlesen: LDG §26c Abs.8.",
+    "hauptquelle": "LDG §26c Abs.8",
+    "id": "C34-L3-008",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Minderung der Unterrichtsverpflichtung der Cluster-Leitung",
+      "Ab dem zweiten Bestandsjahr Bereitstellung von Sekretariatspersonal",
+      "Anrechnung für pädagogische und fachdidaktische Projekte der Schulentwicklung",
+      "Auszahlung als Barprämie an beliebige Privatpersonen",
+      "Ankauf privater Fahrzeuge für das Kollegium",
+      "Freihändiger Verzicht, Projekte dürfen aus Reststunden nie finanziert werden"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Leitungsentlastung ist eine zulässige Verwendung.",
+      "Richtig: Sekretariat ab Jahr zwei ist zulässig.",
+      "Richtig: Projektanrechnung für Entwicklung ist zulässig.",
+      "Falsch: Barprämien an Private sind nicht vorgesehen.",
+      "Falsch: Private Fahrzeuge gehören nicht dazu.",
+      "Falsch: Ein Projektverbot gibt es gerade nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Verteilung der Verwaltungs- und Leitungsstunden bleiben einem Cluster Reststunden übrig. Die Leitung diskutiert mit dem Team, wofür sie diese Stunden nach dem Organisationsplan rechtmäßig einsetzen darf.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §69b Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Nur mit allen drei Punkten ist der freiwillige Verbund vollständig, weil Konferenzen, Erhalter und Plan gemeinsam die Freiwilligkeit tragen. Einzelstimmen oder unbeteiligte Gemeinden ersetzen diese drei Säulen nicht. Ein fehlender Plan stoppt die Bildung. Zum Nachlesen: TirSOG §69b Abs.5.",
+    "hauptquelle": "TirSOG §69b Abs.5",
+    "id": "C34-L3-009",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Alle Schulkonferenzen stimmen nach Beratung mit Foren oder Ausschüssen zu",
+      "Alle Schulerhalter stimmen der Bildung zu",
+      "Ein Entwurf des Organisationsplans zeigt den Cluster als pädagogisch und organisatorisch zweckmäßig",
+      "Die Zustimmung einer einzelnen Lehrperson ersetzt alle Gremien",
+      "Der Organisationsplan kann bewusst weggelassen werden",
+      "Statt der Beteiligten stimmt eine unbeteiligte Nachbargemeinde allein zu"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Konferenzen nach Beratung sind nötig.",
+      "Richtig: Alle Erhalter müssen zustimmen.",
+      "Richtig: Der überzeugende Planentwurf ist Pflicht.",
+      "Falsch: Eine Einzelstimme ersetzt die Gremien nicht.",
+      "Falsch: Ohne Plan geht die freiwillige Bildung nicht.",
+      "Falsch: Unbeteiligte Gemeinden entscheiden nicht mit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Drei Schulen wollen freiwillig und ohne äußeren Druck einen Cluster gründen. Ihre Checkliste soll alle nötigen Zustimmungen und Unterlagen enthalten, damit keine Mitbestimmung übergangen wird.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Über der Schwelle ist der Bereich Pflicht, darunter ist er eine Kann-Option und am Leitungssitz entfällt er. Die bisherigen Leitungen enden mit der Errichtung, übernehmen aber im ersten Jahr die Bereiche. So bleibt Erfahrung an den Standorten. Zum Nachlesen: LDG §26c Abs.9.",
+    "hauptquelle": "LDG §26c Abs.9",
+    "id": "C34-L3-010",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "An der Schule mit 300 Kindern ist eine Bereichsleitung zu bestellen",
+      "An der Schule mit 90 Kindern kann eine Bereichsleitung bestellt werden",
+      "Am Sitz der Cluster-Leitung ist keine eigene Bereichsleitung vorzusehen",
+      "Jede Schule braucht zwingend drei Bereichsleitungen",
+      "Bereichsleitungen sind im Cluster grundsätzlich verboten",
+      "Bisherige Leitungen verlieren jede Rolle, eine Übergangslösung im ersten Jahr ist verboten"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Über der Schwelle gilt die Bestellpflicht.",
+      "Richtig: Darunter besteht die Kann-Option.",
+      "Richtig: Am Leitungssitz entfällt der Bereich.",
+      "Falsch: Drei Bereiche pro Schule sind nicht vorgeschrieben.",
+      "Falsch: Verboten sind Bereiche keineswegs.",
+      "Falsch: Die Übergangslösung im ersten Jahr ist vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Cluster umfasst den Leitungssitz, eine Schule mit 300 Kindern und eine Kleinschule mit 90 Kindern. Die Leitung prüft, wo sie Bereiche einrichten muss, wo sie kann und was aus den bisherigen Leitungen wird.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §26c Abs.12"
+    ]
+  },
+  {
+    "aufloesung": "Der gemischte Verbund steht auf Zustimmung aller Erhalter, Bundesrecht bei der Bildung sowie Leitung mit Plan und Ressourcenregel. Einseitiges Anordnen oder ein Verzicht auf Leitung und Plan genügt nicht. Erst dieses Paket macht den Verbund tragfähig. Zum Nachlesen: TirSOG §69c.",
+    "hauptquelle": "TirSOG §69c",
+    "id": "C34-L3-011",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Alle Schulerhalter der betroffenen Schulen stimmen zu",
+      "Für die Bildung gelten die schulorganisationsrechtlichen Bestimmungen des Bundes",
+      "Der Verbund braucht eine Cluster-Leitung und einen Organisationsplan",
+      "Eine einzelne Schule ordnet den gemischten Verbund allein per Hausmitteilung an",
+      "Weder Leitung noch Plan noch Ressourcenregelung sind nötig",
+      "Das Landesrecht allein regelt die Bildung, Bundesrecht bleibt außen vor"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zustimmung aller Erhalter ist nötig.",
+      "Richtig: Bundesrecht gilt für die Bildung.",
+      "Richtig: Leitung und Plan bleiben Pflicht.",
+      "Falsch: Einseitiges Anordnen reicht nicht.",
+      "Falsch: Ohne Leitung und Ressourcen geht es nicht.",
+      "Falsch: Bundesrecht bleibt nicht außen vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Eine Mittelschule und ein Gymnasium am selben Campus prüfen einen gemeinsamen Verbund über Landes- und Bundeszuständigkeit hinweg. Beide Seiten wollen wissen, welche Bedingungen für diesen gemischten Weg erfüllt sein müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §26f Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die These ist falsch. Bereichsleitungen handeln nach den Vorgaben der Cluster-Leitung und dem Organisationsplan. Eine Weisungsfreiheit oder Überordnung des Bereichs gibt es nicht. Zum Nachlesen: TirSOG §69b Abs.8.",
+    "hauptquelle": "TirSOG §69b Abs.8",
+    "id": "C34-L3-012",
+    "level": "L3",
+    "modul_id": "C34",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Weisungsfreiheit des Bereichs gibt es nicht.",
+      "Richtig erkannt: Der Bereich bleibt an Vorgaben und Plan gebunden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Stammtischthese einer Bereichsleiterin: Gegenüber der Cluster-Leitung bin ich weisungsfrei, im Zweifel setze ich mich mit meiner Bereichsentscheidung durch.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

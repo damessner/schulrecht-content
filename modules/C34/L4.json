@@ -1,1 +1,258 @@
-[]
+[
+  {
+    "aufloesung": "Die Lehrperson hat recht, weil der Schutz der schulfesten Stelle über den Cluster hinausreicht. Eine Verwendung außerhalb des Verbunds braucht ihre Zustimmung. Ohne sie bleibt die Maßnahme unzulässig. Zum Nachlesen: LDG §26c Abs.10.",
+    "hauptquelle": "LDG §26c Abs.10",
+    "id": "C34-L4-001",
+    "level": "L4",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Außenverwendung braucht ihre Zustimmung und ist ohne sie unzulässig.",
+      "Die Zustimmung ist entbehrlich, Außenverwendungen gelten immer als angeordnet.",
+      "Die Zustimmung erteilt der Personalvertreter allein, die Betroffene zählt nicht.",
+      "Schulfeste Stellen erlöschen automatisch mit jedem Clusterbeitritt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zustimmung schützt vor Außenverwendung.",
+      "Falsch: Zustimmungsfreiheit außen gibt es nicht.",
+      "Falsch: Die Zustimmung der Betroffenen ist unverzichtbar.",
+      "Falsch: Stellen erlöschen nicht automatisch."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrperson mit schulfester Stelle an einer Clusterschule soll dauerhaft an einer Schule außerhalb des Clusters eingesetzt werden. Sie lehnt ab, die Leitung meint, im Clusterzeitalter brauche es ihre Zustimmung nicht mehr.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Verweigerung geht zu weit, weil der Cluster gerade den gemeinsamen Einsatz im Verbund vorsieht. Eine Verwendung innerhalb der Clusterschulen trägt den Verbundgedanken. Nur der Einsatz außerhalb braucht die besondere Zustimmung. Zum Nachlesen: LDG §26c Abs.10.",
+    "hauptquelle": "LDG §26c Abs.10",
+    "id": "C34-L4-002",
+    "level": "L4",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Mitarbeit ist zulässig, weil Verwendungen innerhalb des Clusters zum Verbundalltag gehören.",
+      "Jede stundenweise Mitarbeit an einer anderen Clusterschule ist eine verbotene Versetzung.",
+      "Innenverwendungen brauchen stets die Zustimmung aller Schulerhalter des Landes.",
+      "Projekte dürfen nur mit pensionierten Lehrpersonen durchgeführt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Inneneinsatz gehört zum Verbundalltag.",
+      "Falsch: Innenmitarbeit ist keine verbotene Versetzung.",
+      "Falsch: Alle Erhalter müssen nicht zustimmen.",
+      "Falsch: Pensionierung ist keine Voraussetzung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für ein klassenübergreifendes Leseprojekt soll eine Lehrerin mit schulfester Stelle an einer Clusterschule stundenweise an einer anderen Schule desselben Clusters mitarbeiten. Sie fürchtet eine unzulässige Versetzung und verweigert die Mitarbeit.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Leitung handelt richtig, weil Bereichsleitungen an Vorgaben und Plan gebunden sind. Beharrliches Missachten ist keine Ermessensausübung, sondern eine Dienstpflichtverletzung. Sie kann disziplinar zu verantworten sein. Zum Nachlesen: LDG §26d.",
+    "hauptquelle": "LDG §26d",
+    "id": "C34-L4-003",
+    "level": "L4",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Schritte sind berechtigt, weil beharrlicher Weisungsbruch eine Dienstpflichtverletzung mit disziplinaren Folgen sein kann.",
+      "Der Bereich hat freies Ermessen, Vorgaben sind nur freundliche Bitten.",
+      "Weisungen der Cluster-Leitung gelten nur an geraden Wochentagen.",
+      "Disziplinarrecht gilt für Bereichsleitungen grundsätzlich nie."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Weisungsbruch kann disziplinar Folgen haben.",
+      "Falsch: Freies Ermessen gegen Vorgaben gibt es nicht.",
+      "Falsch: Wochentage spielen keine Rolle.",
+      "Falsch: Disziplinarrecht gilt auch für Bereiche."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Bereichsleiter ignoriert über Monate die Vorgaben der Cluster-Leitung und den gemeinsamen Organisationsplan, teilt Personal willkürlich ein und nennt das sein freies Ermessen. Die Leitung leitet dienstrechtliche Schritte ein.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §69b Abs.8"
+    ]
+  },
+  {
+    "aufloesung": "Das Kollegium hat recht, weil der Organisationsplan den Einsatz der Ressourcen verbindlich regelt. Seine Erstellung gehört zu den Kernaufgaben der Cluster-Leitung. Dauerhaftes Unterlassen verletzt diese Leitungsverantwortung. Zum Nachlesen: TirSOG §69b Abs.7.",
+    "hauptquelle": "TirSOG §69b Abs.7",
+    "id": "C34-L4-004",
+    "level": "L4",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Rüge trifft zu, weil die Festlegung des Ressourceneinsatzes im Organisationsplan eine Leitungsaufgabe ist.",
+      "Der Plan ist freiwillige Kür, Verteilungen nach Sympathie sind zulässig.",
+      "Nur Bereichsleitungen müssen planen, die Cluster-Leitung nie.",
+      "Stunden dürfen grundsätzlich nur als Barprämie vergeben werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Plan ist Kernaufgabe der Leitung.",
+      "Falsch: Freiwilligkeit und Sympathieverteilung stimmen nicht.",
+      "Falsch: Die Planpflicht trifft gerade die Leitung.",
+      "Falsch: Barprämien sind keine Stundenverwendung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Cluster-Leiterin verteilt Leitungs- und Verwaltungsstunden frei nach Sympathie, einen Organisationsplan erstellt sie seit einem Jahr nicht. Das Kollegium rügt Willkür und verlangt den überfälligen Plan.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §26d Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Innen bleibt der Einsatz flexibel, außen schützt die Zustimmung. Wer eine schulfeste Stelle hat, kann ohne sein Ja nicht dauerhaft hinausverwendet oder versetzt werden. Automatische Löschungen oder Zustimmungsfreiheit außen gibt es nicht. Zum Nachlesen: LDG §26c Abs.10.",
+    "hauptquelle": "LDG §26c Abs.10",
+    "id": "C34-L4-005",
+    "level": "L4",
+    "modul_id": "C34",
+    "optionen": [
+      "Verwendungen innerhalb der Clusterschulen gehören zum Verbundalltag",
+      "Dauerhafte Verwendung außerhalb des Clusters braucht die Zustimmung der Lehrperson mit schulfester Stelle",
+      "Eine Versetzung aus dem Cluster heraus ist ohne diese Zustimmung unzulässig",
+      "Jeder Inneneinsatz braucht die Zustimmung aller Erhalter des Landes",
+      "Die Zustimmung der Betroffenen ist bei Außenverwendungen grundsätzlich entbehrlich",
+      "Schulfeste Stellen erlöschen automatisch mit dem Clusterbeitritt"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Inneneinsatz gehört zum Verbund.",
+      "Richtig: Außenverwendung braucht das Ja der Betroffenen.",
+      "Richtig: Versetzung hinaus ohne Zustimmung ist unzulässig.",
+      "Falsch: Alle Erhalter müssen innen nicht zustimmen.",
+      "Falsch: Zustimmungsfreiheit außen gibt es nicht.",
+      "Falsch: Stellen erlöschen nicht automatisch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Leitung eines Clusters plant mehrere Personalmaßnahmen für das neue Schuljahr und prüft mit der Personalvertretung, welche Einsätze frei möglich sind und welche die Zustimmung der Betroffenen brauchen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die ersten drei Verhaltensweisen verletzen Leitungs- und Bindungspflichten und können disziplinar zu verantworten sein. Vorgabetreues Handeln, Melden von Missständen und QM-Mitarbeit sind dagegen ordnungsgemäß. Entscheidend bleibt die Bindung an Weisung und Plan. Zum Nachlesen: LDG §26d.",
+    "hauptquelle": "LDG §26d",
+    "id": "C34-L4-006",
+    "level": "L4",
+    "modul_id": "C34",
+    "optionen": [
+      "Beharrliches Missachten von Weisungen der Cluster-Leitung",
+      "Dauerhaftes Unterlassen des vorgeschriebenen Organisationsplans",
+      "Eigenmächtige Verfügung über Clusterressourcen gegen den Plan",
+      "Handeln des Bereichs strikt nach Vorgaben und Organisationsplan",
+      "Meldung erkannter Missstände an die Cluster-Leitung",
+      "Mitarbeit im Qualitätsteam des Clusters nach dem Plan"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Weisungsbruch ist eine Pflichtverletzung.",
+      "Richtig: Planverweigerung verletzt die Leitungspflicht.",
+      "Richtig: Eigenmächtige Verfügung bricht die Planbindung.",
+      "Falsch: Vorgabetreues Handeln ist ordnungsgemäß.",
+      "Falsch: Missstände zu melden ist pflichtgemäß.",
+      "Falsch: QM-Mitarbeit nach Plan ist ordnungsgemäß."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach wiederholten Konflikten in einem Cluster prüft die Dienstbehörde, welche Verhaltensweisen von Leitungs- und Bereichsseite Dienstpflichtverletzungen mit disziplinaren Folgen sein können und welche zum ordnungsgemäßen Handeln gehören.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §69b Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Auch der gemischte Verbund braucht Zustimmung aller Erhalter sowie Leitung mit Plan. Der personelle Schutz wandert mit: Außenverwendungen bleiben zustimmungspflichtig. Alleingänge, automatischer Schutzverlust und Beiratsautomatik stimmen nicht. Zum Nachlesen: TirSOG §69c.",
+    "hauptquelle": "TirSOG §69c",
+    "id": "C34-L4-007",
+    "level": "L4",
+    "modul_id": "C34",
+    "optionen": [
+      "Alle Schulerhalter stimmen der Bildung zu",
+      "Der Verbund erhält eine Cluster-Leitung mit Organisationsplan",
+      "Der Zustimmungsschutz vor Außenverwendung bleibt für schulfeste Stellen erhalten",
+      "Eine Schule ordnet den Verbund allein ohne jede Zustimmung an",
+      "Der Zustimmungsschutz erlischt automatisch mit dem Clustereintritt",
+      "Der Beirat ersetzt alle Foren automatisch, ganz ohne Übertragung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zustimmung aller Erhalter ist nötig.",
+      "Richtig: Leitung mit Plan bleibt Pflicht.",
+      "Richtig: Versetzungsschutz gilt auch im gemischten Verbund.",
+      "Falsch: Einseitiges Anordnen reicht nicht.",
+      "Falsch: Schutz erlischt nicht automatisch.",
+      "Falsch: Beiratsautomatik ohne Übertragung gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Ein Campus aus Pflichtschule und Bundesschule soll als gemischter Cluster geführt werden, das Personal blickt auf Leitung, Mitbestimmung und Versetzungsschutz. Die Steuergruppe sammelt, was dabei unverzichtbar bleibt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §26c Abs.10",
+      "LDG §26f Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Gerade die Verwendung außerhalb des Clusters braucht die Zustimmung der Lehrperson mit schulfester Stelle. Ohne dieses Ja bleiben Versetzung und Außenverwendung unzulässig. Zum Nachlesen: LDG §26c Abs.10.",
+    "hauptquelle": "LDG §26c Abs.10",
+    "id": "C34-L4-008",
+    "level": "L4",
+    "modul_id": "C34",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Zustimmungsfreie Außenversetzung gibt es nicht.",
+      "Richtig erkannt: Außen braucht es das Ja der Betroffenen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Personalbehauptung am schwarzen Brett: Eine Lehrperson mit schulfester Stelle kann ohne ihre Zustimmung dauerhaft an eine Schule außerhalb des Clusters versetzt werden.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]
