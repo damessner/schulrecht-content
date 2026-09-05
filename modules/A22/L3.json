@@ -1,1 +1,386 @@
-[]
+[
+  {
+    "id": "A22-L3-001",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lea aus der dritten Klasse fehlte im Frühjahr fünf Wochen wegen einer Operation. Es liegen zwei positive Schularbeiten und lückenhafte Mitarbeit vor. Die Fachlehrerin will eine Note geben, du als Klassenvorstand hältst die Grundlage für zu dünn. Die Eltern fordern offen plus Prüfung im Herbst, um die Note zu verbessern.",
+    "optionen": [
+      "Die Schule prüft das Gesamtbild und entscheidet, ob die Grundlage reicht, ein Wahlrecht auf Prüfung zur Verbesserung gibt es nicht.",
+      "Die Eltern wählen frei zwischen Note und Prüfung im Herbst.",
+      "Aus den wenigen Eindrücken wird jedenfalls eine Note erfunden, damit das Zeugnis voll ist.",
+      "Eine zu dünne Grundlage wird automatisch als negative Beurteilung eingetragen."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ob beurteilt werden kann, entscheidet die Schule nach dem Gesamtbild.",
+      "Falsch: Ein Wunsch auf Prüfung zur Verbesserung besteht nicht.",
+      "Falsch: Noten ohne ausreichende Grundlage zu erfinden ist unzulässig.",
+      "Falsch: Fehlende Grundlage ist kein Beweis für schlechte Leistung."
+    ],
+    "aufloesung": "Die Schule entscheidet nach dem Gesamtbild, ob beurteilt werden kann. Nur wenn wirklich keine Beurteilung möglich ist, führt der Weg über die Prüfung im Herbst, ein Verbesserungs-Wahlrecht gibt es nicht. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-002",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ben schließt Englisch mit einer negativen Beurteilung ab, er hatte zusätzlich viele Fehlstunden im Frühjahr. Die Eltern beantragen eine Nachtragsprüfung, weil er so viel versäumt habe, und wollen den Herbst zum Ausbessern nutzen.",
+    "optionen": [
+      "Eine Wiederholungsprüfung, weil die negative Beurteilung ausgebessert werden soll.",
+      "Eine Nachtragsprüfung, weil Ben viel Unterricht versäumt hat.",
+      "Eine Feststellungsprüfung, weil sein Kenntnisstand unklar ist.",
+      "Keine Prüfung, die Konferenz bessert die Note von selbst aus."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Negativ gehört zur Wiederholung, nicht zum Nachtrag.",
+      "Falsch: Das viele Fehlen ändert bei negativer Note die Prüfungsart nicht.",
+      "Falsch: Feststellung klärt Einstufungen, keine negativen Noten.",
+      "Falsch: Noten bessern sich nicht von selbst aus."
+    ],
+    "aufloesung": "Ben tritt zur Wiederholungsprüfung an. Negativ bleibt negativ, das viele Fehlen daneben ändert die Prüfungsart nicht. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [
+      "SchUG §21"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-003",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Noah besucht die Oberstufe mit getrennten Halbjahren und soll ein offenes Sommersemester in Mathematik abschließen. Seine Anmeldung trifft erst nach Ablauf der Frist ein, er behauptet, er habe von der Frist nichts gewusst. Die Schule hat Frist und Form schriftlich und nachweislich mitgeteilt.",
+    "optionen": [
+      "Das Fristversäumnis wird festgestellt und mitgeteilt, ohne fristgerechte Anmeldung gibt es keinen Antritt.",
+      "Die verspätete Anmeldung wird stillschweigend als fristgerecht behandelt.",
+      "Noah darf antreten, weil eine mündliche Entschuldigung die Frist ersetzt.",
+      "Die Frist gilt nur für manche Fächer und wird hier ignoriert."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne fristgerechte Anmeldung kein Antritt, Versäumnis gehört dokumentiert.",
+      "Falsch: Zurückdatieren oder Durchwinken verfälscht das Verfahren.",
+      "Falsch: Eine mündliche Entschuldigung ersetzt die Anmeldung nicht.",
+      "Falsch: Fristen gelten einheitlich, nicht je Fach nach Belieben."
+    ],
+    "aufloesung": "Ohne fristgerechte Anmeldung kein Antritt. Das Versäumnis wird dokumentiert, schriftlich mitgeteilt und der weitere Weg ehrlich besprochen. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-004",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tim verpasste von März bis Juni den Physikunterricht und wurde zur Prüfung im Herbst zugelassen. Der Prüfer kündigt an, den gesamten Jahresstoff zu prüfen, Tim hat nur den versäumten Zeitraum gelernt. Die Eltern protestieren gegen den erweiterten Stoff.",
+    "optionen": [
+      "Geprüft wird der Lehrstoff des versäumten Zeitraums, wie er eingegrenzt und mitgeteilt wurde.",
+      "Geprüft wird immer der gesamte Jahresstoff, egal wie lange gefehlt wurde.",
+      "Tim darf sich ein Lieblingsthema aussuchen und nur das zeigen.",
+      "Der Stoff wird erst am Prüfungstag verraten, das sei am fairsten."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Prüfung deckt genau den versäumten Zeitraum ab.",
+      "Falsch: Bereits beurteilte Zeiträume werden nicht nochmals geprüft.",
+      "Falsch: Freie Themenwahl verfälscht die Aussage der Prüfung.",
+      "Falsch: Überraschungsstoff am Prüfungstag verletzt die Fairness."
+    ],
+    "aufloesung": "Tim wird über den versäumten Stoff geprüft. Geprüft wird, was er wegen des Fernbleibens nicht zeigen konnte, nicht mehr und nicht weniger. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-005",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Hofer kehrt nach einem Jahr im Ausland zurück, Sohn Luis soll in die höhere Klasse einsteigen. Sein Wissensstand in zwei Fächern ist unklar, an deiner Schule hat er nichts versäumt. Die Eltern verlangen eine Nachtragsprüfung für den Einstieg.",
+    "optionen": [
+      "Eine Feststellungsprüfung, weil sein Kenntnisstand für die Einstufung zu klären ist.",
+      "Eine Nachtragsprüfung, weil er ein Jahr Unterricht verpasst hat.",
+      "Eine Wiederholungsprüfung, weil er neu an der Schule ist.",
+      "Keine Prüfung, die Einstufung erfolgt nach dem Alter."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bei Übertritt und unklarem Stand stellt die Feststellung den Stand fest.",
+      "Falsch: Versäumt an dieser Schule hat Luis nichts.",
+      "Falsch: Wiederholen kann man nur, was man negativ abgeschlossen hat.",
+      "Falsch: Das Alter ersetzt keinen festgestellten Kenntnisstand."
+    ],
+    "aufloesung": "Luis legt eine Feststellungsprüfung ab. Sie klärt verlässlich, wo er steht, und sichert die richtige Einstufung. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-006",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selma erscheint nicht zur Prüfung im Herbst und meldet sich erst fünf Tage später mit einem Attest, zuvor gab es keinerlei Nachricht an die Schule. Die Eltern verlangen einen Ersatztermin, als wäre nichts gewesen.",
+    "optionen": [
+      "Den Einzelfall nach Aktenlage prüfen, die verspätete Meldung ohne rechtzeitige Nachricht reicht nicht automatisch für einen Ersatztermin.",
+      "Ohne weitere Prüfung einen Ersatztermin geben, die Gründe spielen keine Rolle.",
+      "Selma automatisch als durchgefallen eintragen, ohne den Beleg überhaupt anzusehen.",
+      "Die Prüfung als bestanden eintragen, weil ein Attest nachgereicht wurde."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Meldung, Zeitpunkt und Beleg werden geprüft, Automatik gibt es keine.",
+      "Falsch: Ersatztermine ohne Blick auf Meldung und Beleg gibt es nicht.",
+      "Falsch: Auch ein verspäteter Beleg verdient einen Blick vor der Entscheidung.",
+      "Falsch: Geschenkte Noten ohne Prüfung gibt es nicht."
+    ],
+    "aufloesung": "Meldung, Zeitpunkt und Beleg werden geprüft und dokumentiert. Wer sich gar nicht meldet und erst Tage später einen Beleg bringt, bekommt nicht automatisch einen neuen Termin. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-007",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Konferenzfall: Eine Schülerin fehlte lange, die Meinungen über die Beurteilungsgrundlage gehen auseinander. Als Klassenvorstand sollst du den Streit versachlichen. Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Leistungen nach Zeitraum und Zahl zusammentragen und der Konferenz vorlegen.",
+      "Fehlzeiten, Belege und Fördermaßnahmen vollständig in den Akt aufnehmen.",
+      "Die Entscheidung über Beurteilung oder Prüfungsweg der Leitung vorbereitet vorlegen.",
+      "Einfach eine Note aus dem Bauchgefühl eintragen, damit das Zeugnis vollständig wirkt.",
+      "Den Eltern eine Prüfung als garantierte Verbesserung versprechen.",
+      "Allein im Alleingang entscheiden, ohne Konferenz und Leitung einzubinden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur wer Zeitraum und Leistungen kennt, kann über die Grundlage urteilen.",
+      "Richtig: Belege im Akt machen die Entscheidung nachvollziehbar.",
+      "Richtig: Die Anordnung trifft die Leitung auf Basis deiner Vorbereitung.",
+      "Falsch: Bauchgefühl ersetzt keine ausreichende Leistungsgrundlage.",
+      "Falsch: Gefälligkeitsversprechen sind unredlich und falsch.",
+      "Falsch: Alleingänge ohne Gremium sind angreifbar."
+    ],
+    "aufloesung": "Trage Leistungen und Belege zusammen und lege die Entscheidung der Leitung vor. Lieber ehrlich offen lassen als eine Note ohne Grundlage erfinden. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-008",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Die Anmeldung zur Semesterprüfung eines Oberstufenschülers langt erst nach Fristende ein, die Eltern bitten um Nachsicht und Antritt. Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Eingangsdatum der Anmeldung feststellen und dokumentieren.",
+      "Prüfen und festhalten, ob die Frist tatsächlich versäumt wurde.",
+      "Folge des Versäumnisses schriftlich mitteilen und den weiteren Weg ehrlich besprechen.",
+      "Die verspätete Anmeldung stillschweigend als fristgerecht behandeln.",
+      "Die Frist je nach Sympathie einmal streng, einmal großzügig auslegen.",
+      "Eine mündliche Entschuldigung als Ersatz für die Anmeldung anerkennen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Eingangsdatum ist die entscheidende Tatsache.",
+      "Richtig: Die Fristprüfung gehört dokumentiert in den Akt.",
+      "Richtig: Schriftliche Mitteilung plus Perspektive schaffen Klarheit.",
+      "Falsch: Durchwinken verfälscht das Verfahren.",
+      "Falsch: Gleiche Fristen für alle, ohne Ansehen der Person.",
+      "Falsch: Mündliches ersetzt die fristgerechte Anmeldung nicht."
+    ],
+    "aufloesung": "Fristversäumnis feststellen, dokumentieren, schriftlich mitteilen und den nächsten Schritt planen. Fristen sichern gleiche Regeln für alle. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-009",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Herbstfall mit zwei Fächern: In Chemie konnte wegen langer Krankheit nicht beurteilt werden, in Mathematik steht eine negative Beurteilung. Die Eltern wollen beides über einen einzigen Weg lösen. Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "Jedes Fach ist ein eigenes Verfahren mit eigener Prüfung und Bewertung.",
+      "Chemie führt über die Nachtragsprüfung, Mathematik über die Wiederholungsprüfung.",
+      "Beide Verfahren bleiben getrennt und werden nicht zu einer Gesamtprüfung vermischt.",
+      "Beide Fächer lassen sich gemeinsam über eine einzige Nachtragsprüfung erledigen.",
+      "Die negative Beurteilung kann durch die Krankheit im anderen Fach aufgehoben werden.",
+      "Die Eltern wählen frei, welche Prüfungsart für welches Fach gilt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jedes Fach läuft als eigenes Verfahren.",
+      "Richtig: Fehlende Grundlage und negative Note führen zu je eigenen Prüfungen.",
+      "Richtig: Verschmelzung zweier Verfahren ist nicht vorgesehen.",
+      "Falsch: Eine einzige Prüfung für zwei verschiedene Wege gibt es nicht.",
+      "Falsch: Fachübergreifende Aufhebung gibt es nicht.",
+      "Falsch: Die Art lässt sich nicht nach Wunsch aussuchen."
+    ],
+    "aufloesung": "Halte die Wege sauber auseinander: Fernbleiben und negative Note führen zu je eigenen Prüfungen. Wünsche ersetzen keine Verfahrensregeln. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-010",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Kurz vor dem Herbsttermin fällt auf: Der Stoff wurde nur mündlich am Telefon genannt, die Prüferbestellung fehlt, keine Protokollformulare liegen bereit. Wähle alle richtigen Rettungsschritte.",
+    "optionen": [
+      "Prüfer ordnungsgemäß bestellen und die Bestellung dokumentieren.",
+      "Stoffeingrenzung schriftlich übermitteln und die Ablage aufbewahren.",
+      "Termine und Ladungen nachweislich zustellen und Protokollformulare vorbereiten.",
+      "Die Prüfung allein ohne Bestellung durchführen, um Zeit zu sparen.",
+      "Sich darauf verlassen, dass schon niemand Beschwerde einlegen wird.",
+      "Stoffabsprachen weiter nur mündlich treffen, das gehe schneller."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne bestellte Prüfer ist das Ergebnis angreifbar.",
+      "Richtig: Schriftlicher Stoff ist im Streitfall belegbar.",
+      "Richtig: Nachweisliche Ladung plus Formulare sichern das Verfahren.",
+      "Falsch: Allein ohne Bestellung prüfen ist ein Formfehler.",
+      "Falsch: Auf ausbleibende Beschwerden zu hoffen ist keine Strategie.",
+      "Falsch: Mündliches ist im Ernstfall nicht beweisbar."
+    ],
+    "aufloesung": "Formfehler vermeidest du mit Schriftlichkeit: Bestellung, Stoff, Ladung und Protokoll. Abkürzungen rächen sich im Verfahren. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [
+      "SchUG §22"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-011",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einer Feststellungsprüfung nach Schulwechsel will der Kandidat nur seine Lieblingsthemen zeigen und einen Teilbereich auslassen. Die Eltern unterstützen ihn. Wähle alle richtigen Reaktionen.",
+    "optionen": [
+      "Auf dem mitgeteilten eingegrenzten Stoff bestehen und alle Bereiche abdecken.",
+      "Den vorab festgelegten Maßstab anwenden und nur die gezeigte Leistung beurteilen.",
+      "Verlauf, Leistungen und Begründung vollständig protokollieren und unterschreiben.",
+      "Dem Kandidaten vorab die genauen Prüfungsfragen aushändigen, damit Ruhe einkehrt.",
+      "Ausgelassene Bereiche einfach als bestanden dazuschätzen.",
+      "Die Prüfung ohne Zeitrahmen und Regeln spontan laufen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der mitgeteilte Stoff gilt für alle Bereiche gleich.",
+      "Richtig: Es zählt die Prüfungsleistung nach festem Maßstab, nichts sonst.",
+      "Richtig: Protokoll mit Unterschriften macht das Ergebnis belastbar.",
+      "Falsch: Fragen vorab aushändigen entwertet die Prüfung.",
+      "Falsch: Nicht gezeigte Leistungen dazuschätzen ist unzulässig.",
+      "Falsch: Ohne Zeitrahmen wird die Prüfung beliebig und angreifbar."
+    ],
+    "aufloesung": "Stoff, Maßstab und Protokoll gelten auch bei Sonderwünschen. Wer Bereiche auslässt, stellt sich der Bewertung dieser Lücke. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L3-012",
+    "modul_id": "A22",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet: Wer die Prüfung im Herbst versäumt, kann statt der Nachtragsprüfung einfach die Wiederholungsprüfung antreten, das sei ohnehin das Gleiche.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Die Prüfungsarten sind nicht austauschbar.",
+      "Richtig erkannt: Jede Art hat eigene Voraussetzungen, ein Ersatz nach Wunsch ist nicht vorgesehen."
+    ],
+    "aufloesung": "Die Prüfungsarten sind nicht austauschbar. Wer den Herbsttermin versäumt, bekommt nicht einfach die andere Prüfung als Ersatz. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  }
+]

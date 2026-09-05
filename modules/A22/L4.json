@@ -1,1 +1,256 @@
-[]
+[
+  {
+    "id": "A22-L4-001",
+    "modul_id": "A22",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Maya schließt mit einer offenen Beurteilung in Deutsch und einer negativen in Englisch ab. Im Herbst besteht sie die fällige Prüfung in Deutsch und bessert Englisch über die Wiederholung aus. Die Eltern fragen, ob sie nun aufsteigt.",
+    "optionen": [
+      "Ja, beide Hürden sind beseitigt, das Zeugnis wird nachgetragen und der Aufstieg vermerkt.",
+      "Nein, wer zwei Prüfungen brauchte, steigt grundsätzlich nicht auf.",
+      "Nein, die bestandene Deutschnote zählt nicht, weil Englisch auch geprüft wurde.",
+      "Ja, aber nur wenn die Konferenz die Noten aus Mitleid zusätzlich anhebt."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jede beseitigte Hürde wirkt, zusammen öffnen sie den Aufstieg.",
+      "Falsch: Die Zahl der Prüfungen allein versperrt den Aufstieg nicht.",
+      "Falsch: Jede bestandene Prüfung zählt für sich.",
+      "Falsch: Mitleid ersetzt keine bestandenen Prüfungen."
+    ],
+    "aufloesung": "Maya steigt auf. Beide Wege sind sauber getrennt gelaufen und beide Hürden sind gefallen, also wird nachgetragen und der Aufstieg vermerkt. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L4-002",
+    "modul_id": "A22",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Oberstufenschüler Felix hat das Wintersemester positiv abgeschlossen, das Sommersemester war offen und er besteht dafür die Semesterprüfung. In einem anderen Fach steht eine negative Semesterbeurteilung ohne weiteren Prüfungsweg. Er meint, der Aufstieg sei nun sicher.",
+    "optionen": [
+      "Nein, die bestandene Semesterprüfung schließt nur das offene Semester, die negative Beurteilung im anderen Fach bleibt bestehen.",
+      "Ja, eine bestandene Semesterprüfung heilt alle anderen Noten des Jahres.",
+      "Ja, beide Semester werden automatisch zu einer positiven Jahresnote vermischt.",
+      "Nein, bestandene Semesterprüfungen zählen grundsätzlich nie für den Abschluss."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jede Prüfung wirkt nur dort, wo die Lücke entstanden ist.",
+      "Falsch: Fachübergreifende Heilung gibt es nicht.",
+      "Falsch: Vermischen widerspricht der getrennten Semesterlogik.",
+      "Falsch: Bestandene Semesterprüfungen schließen das Semester wirksam ab."
+    ],
+    "aufloesung": "Felix hat ein Semester sauber abgeschlossen, das andere Fach bleibt trotzdem negativ. Jede Prüfung trägt nur ihren eigenen Bereich, der Rest steht weiter im Zeugnis. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L4-003",
+    "modul_id": "A22",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Emir tritt zur fälligen Prüfung in Chemie im Herbst an und besteht nicht. Die Eltern verlangen, er dürfe stattdessen gleich die Wiederholungsprüfung versuchen, um doch noch aufzusteigen.",
+    "optionen": [
+      "Kein Aufstieg über diesen Weg, die nicht bestandene Prüfung kann nicht in eine Wiederholungsprüfung umgewandelt werden.",
+      "Emir darf sofort die Wiederholungsprüfung als zweiten Versuch nutzen.",
+      "Die Konferenz trägt trotzdem eine positive Note ein, damit er aufsteigt.",
+      "Das Fach wird aus dem Zeugnis gestrichen und er steigt auf."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nicht bestanden bleibt nicht bestanden, ein Umbau in eine andere Prüfung ist nicht vorgesehen.",
+      "Falsch: Einen zweiten Versuch über eine andere Prüfungsart gibt es nicht.",
+      "Falsch: Gefälligkeitsnoten ohne Leistung sind unzulässig.",
+      "Falsch: Fächer lassen sich nicht einfach aus dem Zeugnis streichen."
+    ],
+    "aufloesung": "Emir steigt über diesen Weg nicht auf. Das negative Ergebnis wird dokumentiert und ehrlich mitgeteilt, dann wird der weitere Weg geplant. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L4-004",
+    "modul_id": "A22",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nina wechselt an eine höhere Schule und soll in Latein einsteigen, das sie bisher nie hatte. Die Feststellungsprüfung fällt negativ aus, die Eltern bestehen trotzdem auf Einstufung in die gewünschte Klasse.",
+    "optionen": [
+      "Ohne positive Feststellung keine Einstufung in die gewünschte Stufe, die Schule zeigt den alternativen Weg auf.",
+      "Die Einstufung erfolgt trotzdem, weil die Eltern darauf bestehen.",
+      "Stattdessen wird eine Nachtragsprüfung im Herbst als Ersatz anerkannt.",
+      "Das Fach wird gestrichen und die Einstufung ohne Prüfung vorgenommen."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Feststellung trägt die Einstufung, ohne Bestehen kein Einstieg dort.",
+      "Falsch: Elternwünsche ersetzen keinen festgestellten Kenntnisstand.",
+      "Falsch: Die Prüfungsarten lassen sich nicht beliebig tauschen.",
+      "Falsch: Einstufung ohne festgestellte Grundlage wäre unverantwortlich."
+    ],
+    "aufloesung": "Nina wird nicht in die gewünschte Stufe eingestuft. Das negative Ergebnis wird begründet und der gangbare alternative Weg ehrlich aufgezeigt. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L4-005",
+    "modul_id": "A22",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Herbstwoche mit zwei Nachtragsprüfungen bei einem Schüler: Deutsch bestanden, Chemie nicht bestanden. Die Eltern hoffen trotzdem auf den Aufstieg. Wähle alle richtigen Folgen für Zeugnis und Aufstieg.",
+    "optionen": [
+      "Die bestandene Beurteilung nachtragen und die nicht bestandene dokumentieren.",
+      "Den Aufstieg verweigern, solange eine Hürde bestehen bleibt, und das schriftlich mitteilen.",
+      "Mit der Familie das Ergebnis und den weiteren Weg ehrlich besprechen.",
+      "Die nicht bestandene Prüfung stillschweigend als bestanden eintragen.",
+      "Beide Ergebnisse zu einer Durchschnittsnote vermischen.",
+      "Protokolle wegwerfen, damit niemand mehr darin blättern kann."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jedes Ergebnis wird dort vermerkt, wo es hingehört.",
+      "Richtig: Solange eine Hürde steht, gibt es keinen Aufstieg.",
+      "Richtig: Ehrliche Gespräche gehören zu jedem Ergebnis dazu.",
+      "Falsch: Umtragen ohne Leistung ist unzulässig.",
+      "Falsch: Vermischen ersetzt keine Einzelentscheidungen.",
+      "Falsch: Akten vernichten ist unzulässig und verdächtig."
+    ],
+    "aufloesung": "Halb bestanden reicht nicht. Eine Note wird nachgetragen, die andere bleibt negativ und versperrt den Aufstieg, das wird schriftlich mitgeteilt und besprochen. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L4-006",
+    "modul_id": "A22",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Oberstufenschülerin Sara hat das Wintersemester in Geschichte positiv abgeschlossen, das Sommersemester war offen und sie besteht dafür die Semesterprüfung. Wähle alle richtigen Folgen für Abschluss und Zeugnis.",
+    "optionen": [
+      "Das Sommersemester ist mit der bestandenen Prüfung ordentlich abgeschlossen.",
+      "Das bereits positive Wintersemester bleibt unberührt stehen.",
+      "Zeugnis und Semesterabschluss werden korrekt vermerkt und abgelegt.",
+      "Beide Semester werden zu einer einzigen neu verhandelten Note vermischt.",
+      "Das bestandene Sommersemester heilt automatisch andere negative Fächer.",
+      "Der Abschluss gilt erst, wenn die Prüfung im nächsten Jahr wiederholt wird."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Abschluss gehört dorthin, wo die Lücke entstanden ist.",
+      "Richtig: Abgeschlossenes bleibt abgeschlossen und wird nicht neu geprüft.",
+      "Richtig: Vermerk plus vollständiger Akt schließen den Fall sauber ab.",
+      "Falsch: Vermischen widerspricht der getrennten Semesterlogik.",
+      "Falsch: Fachübergreifende Heilung gibt es nicht.",
+      "Falsch: Eine wirksam bestandene Prüfung muss nicht wiederholt werden."
+    ],
+    "aufloesung": "Sara hat beide Semester sauber beisammen: eines war positiv, das offene ist nun abgeschlossen. Das wird vermerkt und abgelegt. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L4-007",
+    "modul_id": "A22",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach bestandener Nachtragsprüfung in der letzten Ferienwoche sitzt die Aufstiegskonferenz: Wer stellt was fest? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Die bestandene Prüfungsbeurteilung wird ins Zeugnis nachgetragen.",
+      "Der Aufstieg wird auf Basis der nun vollständigen Beurteilungen festgestellt und vermerkt.",
+      "Entscheidung, Protokolle und Zeugniskopie kommen vollständig in den Akt.",
+      "Die Konferenz verhandelt die Prüfungsnote nochmals nach eigenem Ermessen.",
+      "Der Aufstieg wird verweigert, weil die Note erst im Herbst kam.",
+      "Das Zeugnis bleibt offen, obwohl die Prüfung bestanden ist."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mit dem Bestehen wird die Beurteilung nachgetragen.",
+      "Richtig: Der Aufstieg folgt den nun vollständigen Beurteilungen.",
+      "Richtig: Vollständige Akten schützen bei späteren Rückfragen.",
+      "Falsch: Die Prüfungsnote wird nicht neu verhandelt.",
+      "Falsch: Eine Herbstnote wirkt wie jede positive Note.",
+      "Falsch: Offen bleibt nach bestandener Prüfung nichts mehr."
+    ],
+    "aufloesung": "Nachtragen, Aufstieg feststellen und alles sauber ablegen. Die Herbstnote gilt wie eine Note aus dem Sommer. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L4-008",
+    "modul_id": "A22",
+    "level": "L4",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Lehrerkonferenz: Eine Kollegin behauptet: Eine bestandene Feststellungsprüfung ersetzt automatisch alle offenen Beurteilungen des Jahres und sichert damit den Aufstieg.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Die Feststellung klärt nur den geprüften Einstufungsbereich.",
+      "Richtig erkannt: Offene Beurteilungen brauchen je ihren eigenen Prüfungsweg, der Aufstieg folgt erst allen Ergebnissen."
+    ],
+    "aufloesung": "Die Feststellung heilt nicht das ganze Zeugnis. Jede offene Beurteilung braucht ihren eigenen Weg, erst alle Ergebnisse zusammen tragen den Aufstieg. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [
+      "SchUG §21"
+    ],
+    "stand": "04.09.2026"
+  }
+]
