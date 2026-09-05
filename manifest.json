@@ -1,6 +1,6 @@
 {
   "name": "schulrecht-trainer-content",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "stand": "04.09.2026",
   "base_raw": "https://raw.githubusercontent.com/damessner/schulrecht-content/main",
   "batches": [
