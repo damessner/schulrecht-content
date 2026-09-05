@@ -1,1 +1,380 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §63 Abs.1 Z2",
+    "id": "B29-L3-001",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Bericht trägt die Feststellung, der kurze Abstand zwischen den Ermahnungen schadet nicht.",
+      "Der Bericht trägt keine Feststellung, weil die zweite Ermahnung zu früh nach der ersten erfolgte.",
+      "Eine einzige Ermahnung hätte für den Bericht bereits ausgereicht.",
+      "Der Abstand zwischen den Ermahnungen ist frei wählbar und rechtlich egal."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der zu kurze Abstand nimmt dem Bericht die Grundlage.",
+      "Richtig: Die zweite Ermahnung braucht mindestens drei Monate Abstand zur ersten.",
+      "Falsch: Für diesen Berichtsweg sind zwei Ermahnungen nötig, nicht eine.",
+      "Falsch: Der Abstand ist mit drei bis fünf Monaten genau festgelegt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Steiner ermahnt Lehrer Berger wegen dauerhaft schwacher Leistung im Jänner nachweislich und legt bereits Anfang März mit der zweiten Ermahnung nach. Danach berichtet er sofort an die Behörde. Berger rügt, die zweite Ermahnung sei viel zu früh gekommen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Steiners Bericht trägt keine Feststellung, weil die zweite Ermahnung zu früh erfolgte. Die zweite Ermahnung darf frühestens drei und muss spätestens fünf Monate nach der ersten ausgesprochen werden. Zum Nachlesen: LDG §63 Abs.1 Z2."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.3",
+    "id": "B29-L3-002",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Bericht ist zulässig, weil für einen Bericht jede noch so kurze Dienstzeit genügt.",
+      "Der Bericht ist unzulässig, weil die Mindestdienstzeit im Schuljahr davor deutlich unterschritten ist.",
+      "Bei kurzer Dienstzeit entfällt die Ermahnungskette automatisch.",
+      "Eine lange Krankenphase ersetzt die fehlende Dienstzeit für den Bericht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne ausreichende Dienstzeit fehlt die Beurteilungsgrundlage für den Bericht.",
+      "Richtig: Mindestens dreizehn Wochen Dienst im Schuljahr davor sind die Hürde.",
+      "Falsch: Die Ermahnungskette entfällt bei kurzer Dienstzeit nicht, der Bericht scheitert an der Zeit.",
+      "Falsch: Abwesenheit schafft keine Dienstzeit, sie fehlt gerade."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrerin Hofer war im laufenden Schuljahr fast durchgehend krank und hat nur etwa acht Wochen unterrichtet. Der Direktor berichtet dennoch wegen angeblich schwacher Leistung an die Behörde. Hofer wendet ein, sie sei kaum im Dienst gewesen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Über Hofer darf so nicht berichtet werden, weil sie zu kurz im Dienst war. Berichtet werden darf nur, wer im Schuljahr vor dem Bericht mindestens dreizehn Wochen Dienst versehen hat. Zum Nachlesen: LDG §63 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.1",
+    "id": "B29-L3-003",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Leiter muss berichten, weil jedes behördliche Verlangen ohne weitere Prüfung zu befolgen ist.",
+      "Der Leiter muss nur berichten, wenn die Feststellung für eine dienstrechtliche Maßnahme von Bedeutung ist.",
+      "Ein behördliches Verlangen ersetzt immer die Ermahnungskette bei schwacher Leistung.",
+      "Der Leiter darf ein solches Verlangen niemals hinterfragen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Verlangen ohne dienstrechtliche Bedeutung trägt keinen Bericht.",
+      "Richtig: Nur die Bedeutung für eine dienstrechtliche Maßnahme löst diesen Bericht aus.",
+      "Falsch: Das Verlangen schafft keinen negativen Arbeitserfolg ohne Ermahnungen.",
+      "Falsch: Gerade die fehlende Bedeutung darf und muss der Leiter einwenden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Behörde ersucht Direktor Egger um einen Bericht über Lehrer Falk, ohne dass irgendeine dienstrechtliche Maßnahme ansteht. Es geht nur um allgemeine Neugier zur Unterrichtsqualität. Egger zweifelt, ob er berichten muss.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Egger schuldet für reine Neugier keinen Bericht, es fehlt die dienstrechtliche Bedeutung. Verlangt die Behörde einen Bericht, darf sie das nur, wenn die Feststellung für eine Maßnahme wichtig ist. Zum Nachlesen: LDG §63 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §64 Abs.1",
+    "id": "B29-L3-004",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Bericht ist in Ordnung, weil die Anhörung der Lehrkraft reine Formsache ohne Folgen ist.",
+      "Der Bericht ist verfahrensfehlerhaft, weil Absicht, Gespräch und zwei Wochen Stellungnahme vor Weiterleitung fehlen.",
+      "Ein heimlicher Bericht ist schneller und daher bei schwacher Leistung ausdrücklich erwünscht.",
+      "Die Stellungnahme darf erst nach der Behördenentscheidung eingeholt werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Befassung ist zwingend und kein verzichtbarer Formalismus.",
+      "Richtig: Absicht mitteilen, Gründe besprechen und zwei Wochen Stellungnahme sind Pflicht.",
+      "Falsch: Heimliche Berichte ohne Gehör sind gerade nicht vorgesehen.",
+      "Falsch: Die Stellungnahme gehört vor die Weiterleitung, nicht danach."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Direktorin Berger schickt einen negativen Bericht über Lehrerin Wieser los, ohne ihr vorher etwas zu sagen. Wieser erfährt erst aus der Behördenladung davon und hatte nie Gelegenheit, sich schriftlich zu äußern. Sie rügt das Verfahren.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Bergers Bericht leidet an einem Verfahrensfehler, weil Wieser vorher kein Gehör bekam. Die Berichtsabsicht ist mitzuteilen, die Gründe sind zu besprechen, und vor der Weiterleitung stehen zwei Wochen Stellungnahme zu. Zum Nachlesen: LDG §64 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §68",
+    "id": "B29-L3-005",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Die Vorgabe ist zulässig, weil die Direktion für das Ergebnis der Kommission verantwortlich bleibt.",
+      "Die Vorgabe ist unzulässig, weil die Mitglieder in diesem Amt selbständig und unabhängig entscheiden.",
+      "Die Kommission muss bei Stimmengleichheit immer der Direktion folgen.",
+      "Die Mitglieder brauchen vor jeder Sitzung die Zustimmung der betroffenen Lehrkraft."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Verantwortung der Direktion ersetzt nicht die Unabhängigkeit der Mitglieder.",
+      "Richtig: Selbständigkeit und Unabhängigkeit schließen Ergebnisvorgaben aus.",
+      "Falsch: Eine Folgeflicht gegenüber der Direktion gibt es nicht.",
+      "Falsch: Eine Zustimmung der Lehrkraft ist für die Kommissionsarbeit nicht nötig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einer umstrittenen Leistungsfeststellung soll eine Kommission mitwirken, wie es die Landesregelung vorsieht. Die Direktorin lädt die Mitglieder ein und gibt ihnen schriftlich vor, wie sie zu stimmen haben. Ein Mitglied verweigert die Gefolgschaft.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Das Mitglied hat Recht, die Stimmvorgabe ist unbeachtlich. Soweit Kommissionen zur Leistungsfeststellung vorgesehen sind, arbeiten ihre Mitglieder in diesem Amt selbständig und unabhängig. Zum Nachlesen: LDG §68."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.6",
+    "id": "B29-L3-006",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Er kann die Feststellung noch monatelang jederzeit verlangen, Fristen gibt es hier keine.",
+      "Er hat die Frist versäumt, weil der Antrag auf Feststellung binnen zwei Wochen nötig gewesen wäre.",
+      "Die Einstellung gilt automatisch als positive Feststellung seiner Leistung.",
+      "Die Behörde muss ihn nach einer Einstellung von selbst erneut vorladen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nach der Einstellung läuft eine kurze Frist, danach ist der Weg zu.",
+      "Richtig: Zwei Wochen nach Verständigung sind die Grenze für den Antrag.",
+      "Falsch: Einstellung ohne Feststellung ist gerade keine positive Entscheidung.",
+      "Falsch: Nach der Verständigung liegt der Ball bei der Lehrkraft, nicht bei der Behörde."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Das Verfahren gegen Professor Darmann wird ohne Feststellung eingestellt, er wird davon verständigt. Darmann legt die Verständigung ungelesen ab und meldet sich erst zwei Monate später mit dem Wunsch nach einer Feststellung. Die Behörde lehnt ab.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Darmann hat sein Rechtsmittel versäumt, die Ablehnung ist richtig. Wird ohne Feststellung eingestellt, kann die Lehrkraft nur binnen zwei Wochen nach Verständigung eine Feststellung beantragen. Zum Nachlesen: LDG §66 Abs.6."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.1 Z2",
+    "id": "B29-L3-007",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Beide Ermahnungen müssen nachweislich erfolgt sein, nicht nur mündlich nebenbei.",
+      "Die zweite Ermahnung muss drei bis fünf Monate nach der ersten liegen.",
+      "Als Beurteilungszeitraum zählt die Zeit von der ersten Ermahnung bis drei Monate nach der zweiten.",
+      "Eine einzige formlose Erinnerung trägt den negativen Bericht bereits.",
+      "Beide Ermahnungen dürfen wirksam am selben Tag ausgesprochen werden.",
+      "Der Abstand zwischen den Ermahnungen spielt für den Bericht keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachweislichkeit schützt vor Streit über beiläufige Hinweise.",
+      "Richtig: Genau dieses Zeitfenster von drei bis fünf Monaten ist zwingend.",
+      "Richtig: Drei Monate nach der zweiten Ermahnung endet der Beurteilungszeitraum.",
+      "Falsch: Eine formlose Erinnerung ersetzt die zweimalige Ermahnung nicht.",
+      "Falsch: Am selben Tag fehlt jede Bewährungszeit dazwischen.",
+      "Falsch: Der Abstand entscheidet über die Tragfähigkeit des Berichts."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Pichler will über Lehrer Kaufmann wegen dauerhaft schwacher Leistung berichten. Die erste nachweisliche Ermahnung liegt vier Monate zurück, die zweite erfolgte vor einem Monat. Kaufmann meint, das sei alles formlos und verfristet gewesen. Wähle alles, was den Bericht hier trägt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §63a Abs.2"
+    ],
+    "aufloesung": "Pichlers Bericht steht auf tragfähiger Ermahnungskette, alle drei Eckpunkte stimmen. Es braucht zwei nachweisliche Ermahnungen im Abstand von drei bis fünf Monaten, beurteilt wird bis drei Monate nach der zweiten. Zum Nachlesen: LDG §63 Abs.1 Z2."
+  },
+  {
+    "hauptquelle": "LDG §64",
+    "id": "B29-L3-008",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Bericht geht mit der Stellungnahme der Lehrkraft im Dienstweg an die Behörde.",
+      "Behauptet ein Zwischenvorgesetzter Abweichendes, muss er sich schriftlich zum Bericht äußern.",
+      "Zu solchen abweichenden Äußerungen steht der Lehrkraft erneut zwei Wochen Stellungnahme zu.",
+      "Der Bericht darf an der Lehrkraft vorbei heimlich direkt an die Behörde gehen.",
+      "Abweichende Vorgesetztenmeinungen bleiben zweckmäßig geheim.",
+      "Die Lehrkraft darf zu den Äußerungen im Dienstweg niemals Stellung nehmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bericht plus Stellungnahme wandern gemeinsam im Dienstweg weiter.",
+      "Richtig: Abweichende Sicht im Dienstweg gehört schriftlich zum Akt.",
+      "Richtig: Auch dazu gibt es erneut zwei Wochen Gehör für die Lehrkraft.",
+      "Falsch: Vorbeileiten ohne Gehör verletzt das Verfahren.",
+      "Falsch: Abweichungen sind offenzulegen und nicht geheim zu halten.",
+      "Falsch: Gerade dazu steht die zweite Stellungnahmefrist zu."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der negative Bericht über Lehrer Ortner wandert durch mehrere Vorgesetztenstufen. Ein Zwischenvorgesetzter sieht den Fall deutlich milder, seine Sicht landet aber kommentarlos im Akt. Ortner erfährt davon nichts und darf sich nicht äußern. Wähle alles zum ordnungsgemäßen Dienstweg.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Ortners Verfahren verletzt den Dienstweg, ihm steht zweimal Gehör zu. Bericht und Stellungnahme gehen gemeinsam weiter, Abweichende äußern sich schriftlich, dazu gibt es erneut zwei Wochen. Zum Nachlesen: LDG §64."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.3",
+    "id": "B29-L3-009",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Im Schuljahr vor dem Bericht sind mindestens dreizehn Wochen Dienst nötig.",
+      "Bleibt der Erfolg ohne Verschulden nur vorübergehend aus, ist kein Bericht zu erstatten.",
+      "Für die neuerliche Prüfung nach einer negativen Feststellung gilt die Wochenhürde nicht.",
+      "Schon zwei Wochen Anwesenheit genügen für jeden negativen Bericht.",
+      "Jede kurze Krankheitsphase löst automatisch einen negativen Bericht aus.",
+      "Ob die Schwäche verschuldet ist, spielt für den Bericht keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dreizehn Wochen Dienst sichern die Beurteilungsgrundlage vor dem Bericht.",
+      "Richtig: Unverschuldete vorübergehende Schwäche bleibt ohne Bericht.",
+      "Richtig: Bei der neuerlichen Prüfung nach negativer Feststellung entfällt diese Hürde.",
+      "Falsch: Zwei Wochen geben keine ausreichende Grundlage für einen Bericht.",
+      "Falsch: Krankheit allein löst keinen automatischen Bericht aus.",
+      "Falsch: Fehlendes Verschulden schützt hier ausdrücklich vor dem Bericht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Gruber war im Schuljahr lange krank, zeitweise unverschuldet und nur vorübergehend geschwächt, insgesamt nur wenige Wochen im Dienst. Der Direktor überlegt dennoch einen negativen Bericht. Die Personalvertretung prüft die Schutzgrenzen. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Über Gruber wird wegen dieser Phase nicht berichtet, die Schutzgrenzen greifen. Dreizehn Wochen Dienst sichern die Grundlage, unverschuldete vorübergehende Schwäche bleibt ohne Bericht, nur bei der Neuprüfung danach entfällt die Hürde. Zum Nachlesen: LDG §63 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.1",
+    "id": "B29-L3-010",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Die Behörde entscheidet per Bescheid auf Basis von Bericht, Stellungnahmen und eigenen Erhebungen.",
+      "Der Bescheid ist binnen sechs Wochen nach Einlangen von Bericht oder Antrag zu erlassen.",
+      "Auf behördliches Verlangen kann auch schlicht festgestellt werden, dass der Erfolg aufgewiesen wurde.",
+      "Die Behörde darf völlig ohne Aktenlage frei nach Gefühl entscheiden.",
+      "Der Bescheid darf beliebig viele Monate auf sich warten lassen.",
+      "Erheblich übertroffene Erwartungen können niemals festgestellt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bericht, Bemerkungen, Stellungnahmen und Erhebungen sind die Grundlage.",
+      "Richtig: Sechs Wochen ab Einlangen ist die Frist für den Bescheid.",
+      "Richtig: Auf Verlangen der Behörde ist auch die schlichte positive Feststellung möglich.",
+      "Falsch: Ohne Grundlage aus Bericht und Stellungnahmen geht es nicht.",
+      "Falsch: Beliebiges Zuwarten verletzt die Sechs-Wochen-Frist.",
+      "Falsch: Gerade erheblich übertroffene Erwartungen sind ein Hauptfall."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Behörde hat Bericht, Gegendarstellung und Erhebungen zu Lehrerin Moser auf dem Tisch, lässt den Akt aber monatelang liegen. Moser drängt auf Entscheidung und fragt, was die Behörde schuldet. Wähle alles Richtige zum Behördenverfahren.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §66 Abs.5"
+    ],
+    "aufloesung": "Moser hat Anspruch auf eine Bescheidentscheidung nach Aktenlage binnen sechs Wochen. Grundlage sind Bericht, Stellungnahmen und Erhebungen, möglich sind die drei vorgesehenen Ergebnisse je nach Fall. Zum Nachlesen: LDG §66 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.3",
+    "id": "B29-L3-011",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "An den Beurteilungszeitraum schließt ein halbes Jahr neuerlicher Prüfung mit eigener Feststellung an.",
+      "Der Vorgesetzte erstattet den Bericht dafür innerhalb des ersten Monats nach diesem Halbjahr.",
+      "Wird die Lehrkraft aus diesem Grund versetzt, gilt sie danach als den Erfolg aufweisend.",
+      "Eine negative Feststellung gilt ohne jede weitere Prüfung für immer fort.",
+      "Zweimal hintereinander negativ festgestellt zu sein führt zur Entlassung mit Rechtskraft.",
+      "Ein neuer Bericht nach negativer Feststellung ist grundsätzlich verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sechs Monate neuerliche Prüfung schließen sich an den Zeitraum an.",
+      "Richtig: Innerhalb des ersten Monats danach ist der Bericht zu erstatten.",
+      "Richtig: Mit der Versetzung aus diesem Grund gilt wieder aufgewiesen.",
+      "Falsch: Gerade die neuerliche Prüfung ist ausdrücklich vorgeschrieben.",
+      "Richtig: Zwei aufeinanderfolgende negative Feststellungen beenden das Dienstverhältnis.",
+      "Falsch: Der neue Bericht ist hier Pflicht und nicht verboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Über Lehrer Kaufmann wurde negativ festgestellt, er bleibt vorerst an der Schule. Die Direktion fragt, wie es nun weitergeht, welche Fristen laufen und was bei Versetzung oder Wiederholung droht. Wähle alles zu Folgen und Fristen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §63 Abs.2",
+      "LDG §66 Abs.4",
+      "LDG §18"
+    ],
+    "aufloesung": "Kaufmanns Fall erledigt sich nicht von selbst, der weitere Weg ist vorgezeichnet. Ein halbes Jahr Neuprüfung mit Bericht im ersten Monat danach folgt, bei Versetzung gilt wieder aufgewiesen, zweimal hintereinander negativ bedeutet Entlassung. Zum Nachlesen: LDG §66 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.5",
+    "id": "B29-L3-012",
+    "level": "L3",
+    "modul_id": "B29",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Zuwarten ohne Frist ist hier nicht erlaubt.",
+      "Richtig erkannt: Der Bescheid hat eine klare Frist ab Einlangen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Direktionsrunde: Eine Kollegin behauptet, die Behörde könne sich mit dem Bescheid über die Leistung Zeit lassen, so lange sie wolle, eine Frist gebe es dafür nicht.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, die Behörde steht unter Zeitdruck. Der Bescheid ist binnen sechs Wochen nach Einlangen des Berichts oder Antrags zu erlassen. Zum Nachlesen: LDG §66 Abs.5."
+  }
+]

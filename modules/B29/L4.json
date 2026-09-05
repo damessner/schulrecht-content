@@ -1,1 +1,258 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §69",
+    "id": "B29-L4-001",
+    "level": "L4",
+    "modul_id": "B29",
+    "optionen": [
+      "Er leitet sofort ein Disziplinarverfahren ein, weil jede schwache Leistung eine Dienstpflichtverletzung ist.",
+      "Er geht den Weg über Ermahnungen und Bericht an die Behörde, weil es um den Arbeitserfolg geht.",
+      "Er spricht ohne Verfahren die Entlassung aus, weil Noten alles entscheiden.",
+      "Er meldet den Fall der Polizei, weil schlechte Noten strafbar sind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schwache Leistung allein ist noch keine schuldhafte Dienstpflichtverletzung.",
+      "Richtig: Fehlender Arbeitserfolg gehört in die Leistungsfeststellung, nicht ins Disziplinarverfahren.",
+      "Falsch: Ohne Verfahren und ohne zweimalige negative Feststellung gibt es keine Entlassung.",
+      "Falsch: Schlechte Klassenarbeiten sind kein Fall für die Polizei."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Steiner ist mit den Klassenleistungen von Lehrer Berger unzufrieden und will ihn sofort disziplinar bestrafen lassen. Eine schuldhafte Verletzung konkreter Dienstpflichten steht nicht fest, es geht allein um den ausbleibenden Arbeitserfolg. Steiner fragt nach dem richtigen Verfahren.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Steiner muss den Leistungsfeststellungsweg gehen, nicht den Disziplinarweg. Schwacher Arbeitserfolg wird über Ermahnungen, Bericht und Behördenbescheid festgestellt, disziplinar braucht es eine schuldhafte Pflichtverletzung. Zum Nachlesen: LDG §69."
+  },
+  {
+    "hauptquelle": "LDG §18",
+    "id": "B29-L4-002",
+    "level": "L4",
+    "modul_id": "B29",
+    "optionen": [
+      "Er bleibt jedenfalls im Dienst, weil eine Feststellung niemals zur Entlassung führen kann.",
+      "Er ist mit Rechtskraft der zweiten Feststellung entlassen, weil zweimal hintereinander negativ festgestellt wurde.",
+      "Erst eine dritte negative Feststellung könnte eine Entlassung auslösen.",
+      "Die Entlassung tritt schon mit dem Leiterbericht ein, ganz ohne Bescheid."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zwei aufeinanderfolgende negative Feststellungen beenden das Dienstverhältnis.",
+      "Richtig: Mit Rechtskraft der zweiten Feststellung tritt die Entlassung ein.",
+      "Falsch: Eine dritte Feststellung ist nicht nötig, die zweite genügt.",
+      "Falsch: Erst die rechtskräftige Feststellung der Behörde zählt, nicht der Bericht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "BHS"
+    ],
+    "situation": "Über Lehrer Kaufmann wurde bereits einmal rechtskräftig negativ festgestellt. Nun wird nach neuerlicher Prüfung zum zweiten Mal unmittelbar hintereinander festgestellt, dass er den zu erwartenden Arbeitserfolg nicht aufweist. Kaufmann meint, passieren könne ihm weiter nichts.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §66 Abs.1 Z2"
+    ],
+    "aufloesung": "Kaufmann ist mit Rechtskraft der zweiten Feststellung entlassen. Wer zweimal aufeinanderfolgend negativ festgestellt ist, scheidet kraft Gesetzes aus dem Dienstverhältnis aus. Zum Nachlesen: LDG §18."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.4",
+    "id": "B29-L4-003",
+    "level": "L4",
+    "modul_id": "B29",
+    "optionen": [
+      "Die negative Feststellung wandert unverändert mit und haftet dauerhaft an der Lehrkraft.",
+      "Ab der Versetzung gilt die Feststellung, dass die Lehrkraft den Arbeitserfolg aufweist.",
+      "Die Versetzung ist in diesem Fall rechtlich ausgeschlossen.",
+      "Nach der Versetzung braucht es sofort ein Disziplinarverfahren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mit der Versetzung aus diesem Grund tritt ein neuer Status ein.",
+      "Richtig: Ab Versetzung oder Verwendungsänderung gilt wieder aufgewiesen.",
+      "Falsch: Gerade die Versetzung aus diesem Grund ist vorgesehen.",
+      "Falsch: Ein Disziplinarverfahren folgt aus der Versetzung nicht automatisch."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Wieser wurde negativ beurteilt, die Behörde verfügt aus diesem Grund ihre Versetzung an eine andere Schule mit neuem Aufgabenfeld. An der neuen Schule fragt man, welcher Leistungsstatus für Wieser nun gilt. Wieser hofft auf einen Neuanfang.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Wieser startet an der neuen Schule wieder als den Erfolg aufweisend. Wird aus Grund der negativen Feststellung versetzt oder anders verwendet, gilt ab dann die positive Feststellung. Zum Nachlesen: LDG §66 Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §65",
+    "id": "B29-L4-004",
+    "level": "L4",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Leiter darf den Antrag in der Schublade verschwinden lassen, wenn er die Leistung anders sieht.",
+      "Der Leiter nimmt unverzüglich Stellung, gibt zwei Wochen Äußerung und leitet im Dienstweg weiter.",
+      "Ein Eigenantrag der Lehrkraft ist grundsätzlich unzulässig und zurückzuweisen.",
+      "Der Antrag wirkt nur, wenn das gesamte Kollegium ihn unterschreibt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Liegenlassen verletzt die Pflicht zur unverzüglichen Weiterleitung.",
+      "Richtig: Stellungnahme, Gehör und Dienstweg sind auch beim Eigenantrag Pflicht.",
+      "Falsch: Gerade der Eigenantrag bei besonderen Leistungen ist vorgesehen.",
+      "Falsch: Eine Kollegiumszustimmung ist nirgends verlangt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Aigner hält seine Jahresleistung für herausragend und beantragt selbst die Feststellung. Die Direktorin hält nichts davon und will den Antrag einfach nicht weiterleiten. Aigner besteht auf ordnungsgemäßer Behandlung für seine weitere Verwendung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Aigners Antrag muss ordnungsgemäß weitergeleitet werden, Blockade ist unzulässig. Der Leiter nimmt unverzüglich Stellung, gewährt zwei Wochen Äußerung und legt alles im Dienstweg der Behörde vor. Zum Nachlesen: LDG §65."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.2",
+    "id": "B29-L4-005",
+    "level": "L4",
+    "modul_id": "B29",
+    "optionen": [
+      "Die fachgerechte Vermittlung des vorgeschriebenen Stoffs mit passender Methode stützt die weitere Verwendung.",
+      "Das erzieherische Wirken und die Zusammenarbeit mit Kollegium und Eltern sprechen für die Eignung.",
+      "Die verlässliche Erfüllung übertragener Funktionen und Verwaltungsaufgaben zählt für die Verwendung mit.",
+      "Die private Beliebtheit im Ort ersetzt alle dienstlichen Beurteilungsmerkmale.",
+      "Ein einziges gelungenes Schulfest heilt dauerhaft alle anderen Schwächen.",
+      "Die Beurteilung darf sich nur auf Gerüchte aus dem Kollegium stützen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fachgerechte Stoffvermittlung ist das Kernmerkmal für die Verwendung.",
+      "Richtig: Erziehung und Zusammenarbeit gehören zur Eignung für den Schuldienst.",
+      "Richtig: Funktionen und Verwaltung zeigen die dienstliche Verlässlichkeit.",
+      "Falsch: Private Beliebtheit ist kein Beurteilungsmerkmal.",
+      "Falsch: Ein Fest ersetzt keine dauerhafte Leistung in allen Merkmalen.",
+      "Falsch: Gerüchte sind keine Grundlage, es zählen die festgelegten Merkmale."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Steiner bewirbt sich schulintern um eine verantwortungsvolle Zusatzverwendung. Die Direktion zieht seine letzte Beurteilung heran und prüft, welche Merkmale seine Eignung tragen. Steiner verweist nur auf seine Beliebtheit im Ort. Wähle alles, was die Verwendung stützt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Steiners Eignung steht und fällt mit den Beurteilungsmerkmalen, nicht mit Beliebtheit. Fachgerechte Vermittlung, Erziehung mit Zusammenarbeit sowie Funktionen und Verwaltung tragen gemeinsam die Entscheidung über die Verwendung. Zum Nachlesen: LDG §62 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.1",
+    "id": "B29-L4-006",
+    "level": "L4",
+    "modul_id": "B29",
+    "optionen": [
+      "Die Leistungsfeststellung beurteilt den Arbeitserfolg und endet mit Bescheid über aufgewiesen oder nicht.",
+      "Das Disziplinarverfahren ahndet schuldhafte Pflichtverletzungen mit eigenem Strafenkatalog.",
+      "Eine negative Feststellung allein ist noch keine Disziplinarstrafe wie Verweis oder Geldbuße.",
+      "Jede negative Feststellung löst automatisch eine Disziplinarstrafe aus.",
+      "Beide Verfahren laufen immer zwingend gemeinsam und gleichzeitig.",
+      "Im Disziplinarverfahren gelten eigene Parteien- und Verfahrensregeln statt der Berichtslogik."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Arbeitserfolg per Bescheid ist der Gegenstand der Feststellung.",
+      "Richtig: Schuldhafte Pflichtverletzung mit Strafen ist die disziplinare Schiene.",
+      "Richtig: Feststellung und Strafe sind getrennte Rechtsfolgen.",
+      "Falsch: Automatik zwischen Feststellung und Strafe gibt es nicht.",
+      "Falsch: Beide Verfahren haben eigene Voraussetzungen und laufen nicht zwingend gemeinsam.",
+      "Richtig: Das Disziplinarverfahren folgt eigenen Regeln mit eigenen Beteiligten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer negativen Feststellung über Lehrer Ortner verlangt die Direktion zusätzlich eine Geldbuße im selben Bescheid. Ortner wendet ein, Feststellung und Strafe seien zweierlei. Die Behörde prüft die saubere Trennung beider Schienen. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §69",
+      "LDG §70 Abs.1"
+    ],
+    "aufloesung": "Ortner hat Recht, beide Schienen bleiben getrennt. Die Feststellung klärt den Arbeitserfolg, Disziplinarstrafen setzen schuldhafte Pflichtverletzungen in eigenem Verfahren voraus. Zum Nachlesen: LDG §66 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §64 Abs.2",
+    "id": "B29-L4-007",
+    "level": "L4",
+    "modul_id": "B29",
+    "optionen": [
+      "Vor Weiterleitung des Berichts stehen der Lehrkraft zwei Wochen Stellungnahme zu.",
+      "Abweichende Vorgesetztenäußerungen im Dienstweg sind offenzulegen und zu Gehör zu bringen.",
+      "Über eine Einstellung ohne Feststellung ist zu verständigen, danach läuft ein zweiwöchiger Antrag.",
+      "Die Lehrkraft darf im Verfahren grundsätzlich nie angehört werden.",
+      "Stellungnahmen dürfen kommentarlos aus dem Akt entfernt werden.",
+      "Fristen spielen in beiden Verfahrensschienen überhaupt keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Wochen Gehör vor der Weiterleitung sind zwingend.",
+      "Richtig: Abweichungen im Dienstweg gehören mit erneutem Gehör zum Akt.",
+      "Richtig: Verständigung plus Zwei-Wochen-Antrag sichern den zweiten Anlauf.",
+      "Falsch: Gerade das rechtliche Gehör prägt beide Schienen.",
+      "Falsch: Entfernen von Stellungnahmen verletzt das Verfahren.",
+      "Falsch: Zwei-, Sechs-Wochen- und Antragsfristen strukturieren das Verfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "AHS"
+    ],
+    "situation": "Lehrerin Egger steht zwischen Beurteilung und möglicher Versetzung und rügt, nie angehört worden zu sein. Weder zum Leiterbericht noch zu einer Zwischenäußerung durfte sie sich äußern, über den Verfahrensstand erfuhr sie nichts. Wähle alles zu ihren Verfahrensrechten.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §64 Abs.1",
+      "LDG §66 Abs.5",
+      "LDG §66 Abs.6"
+    ],
+    "aufloesung": "Eggers Rüge trifft zu, ohne Gehör läuft das Verfahren fehlerhaft. Zwei Wochen vor Weiterleitung, Gehör zu Abweichungen und Verständigung mit Antragsmöglichkeit sichern ihre Rechte im Übergang zur Verwendung. Zum Nachlesen: LDG §64 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §18",
+    "id": "B29-L4-008",
+    "level": "L4",
+    "modul_id": "B29",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Einmal negativ bedeutet noch keine Entlassung.",
+      "Richtig erkannt: Erst die zweite aufeinanderfolgende Feststellung beendet das Dienstverhältnis."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, schon eine einzige negative Leistungsfeststellung werfe die Lehrkraft automatisch aus dem Dienst.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "LDG §66 Abs.1 Z2"
+    ],
+    "aufloesung": "Die Behauptung ist falsch, einmal negativ genügt für die Entlassung nicht. Erst wenn zweimal aufeinanderfolgend negativ festgestellt wurde, tritt mit Rechtskraft die Entlassung ein. Zum Nachlesen: LDG §18."
+  }
+]
