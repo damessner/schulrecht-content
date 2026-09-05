@@ -1,1 +1,540 @@
-[]
+[
+  {
+    "id": "X41-L2-001",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Klassenvorstand Berger bereitet am 28. Juni die Herbst-Wiederholungsprüfungen vor. Zwei Schüler mit Nicht genügend wollen antreten. Welche Fristen und Schritte muss er bis Schuljahresende sichern?",
+    "optionen": [
+      "Anmeldungen der Schüler fristgerecht entgegennehmen und dokumentieren.",
+      "Prüfungsstoff eingrenzen und rechtzeitig vor den Ferien mitteilen.",
+      "Kommission einteilen und Termine in der letzten Ferienwoche bzw. zu Schulbeginn festlegen.",
+      "Anmeldungen erst im Oktober zulassen, damit mehr Lernzeit bleibt.",
+      "Ersatztermin-Regelung für Krankheit im Vorfeld klären.",
+      "Zeugnisse sofort neu ausstellen, noch vor der Prüfung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne fristgerechte Anmeldung kein geordnetes Verfahren.",
+      "Richtig: Eingegrenzter Stoff vor den Ferien sichert faire Vorbereitung.",
+      "Richtig: Termine und Besetzung gehören vor Ferienbeginn fest.",
+      "Falsch: Anmeldeschluss liegt vor den Ferien, nicht im Oktober.",
+      "Richtig: Krankheitsfall vorher regeln verhindert Streit im Herbst.",
+      "Falsch: Neues Zeugnis gibt es erst nach bestandener Prüfung."
+    ],
+    "aufloesung": "Anmeldung, Stoff und Termine vor den Ferien sichern, Ersatzregelung klären. Neues Zeugnis erst nach Erfolg. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [
+      "SchUG §22 Abs.6"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-002",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David ist am 20. Juni durch die Einstufungsprüfung in Mathematik gefallen. Er will es noch vor Schulbeginn erneut versuchen. Was gilt für Frist und Umfang?",
+    "optionen": [
+      "Wiederholung ist einmal zulässig.",
+      "Zulassung zur Wiederholung binnen zwei Monaten durch den Schulleiter.",
+      "Nur das negative Gebiet Mathematik ist zu wiederholen.",
+      "Er muss ein volles Jahr bis zum nächsten Termin warten.",
+      "Alle Fächer inklusive der positiven sind neu zu prüfen.",
+      "Die erste Prüfung zählt automatisch, Wiederholung ist ausgeschlossen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einmalige Wiederholung ist vorgesehen.",
+      "Richtig: Zwei Monate ab erster Prüfung ist die Frist.",
+      "Richtig: Nur Nicht genügend wird wiederholt.",
+      "Falsch: Kein Wartejahr, Frist läuft sofort.",
+      "Falsch: Positive Gebiete bleiben stehen.",
+      "Falsch: Wiederholung ist gerade zulässig."
+    ],
+    "aufloesung": "Binnen zwei Monaten nur Mathematik wiederholen, Schulleiter lässt zu. Zum Nachlesen: SchUG §3 Abs.7a.",
+    "hauptquelle": "SchUG §3 Abs.7a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-003",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Huber erkrankt am Dienstag um 6 Uhr früh. Der Unterricht beginnt 7:55 Uhr. Die Direktion verlangt Klarheit über Melde- und Nachweispflichten. Was stimmt?",
+    "optionen": [
+      "Grund der Abwesenheit ist unverzüglich zu melden und zu rechtfertigen.",
+      "Ärztliche Bescheinigung ist bei mehr als drei Arbeitstagen oder auf Verlangen vorzulegen.",
+      "Bescheinigung muss Beginn und nach Möglichkeit voraussichtliche Dauer enthalten.",
+      "Meldung reicht bis Ende der Woche, Eile ist nicht nötig.",
+      "Bei drei Tagen oder weniger braucht es nie eine Bescheinigung, auch nicht auf Verlangen.",
+      "Kollegen-SMS ersetzt die Meldung an die Dienstbehörde."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverzüglich melden und rechtfertigen.",
+      "Richtig: Drei-Tage-Grenze oder Verlangen löst Bescheinigung aus.",
+      "Richtig: Beginn und Dauer sind Pflichtinhalt.",
+      "Falsch: Unverzüglich heißt sofort, nicht Wochenfrist.",
+      "Falsch: Auf Verlangen auch schon früher vorzulegen.",
+      "Falsch: Meldung geht an die Dienstbehörde, nicht an Kollegen."
+    ],
+    "aufloesung": "Sofort melden, bei längerer Dauer oder Verlangen Bescheinigung mit Beginn und Dauer bringen. Zum Nachlesen: LDG §35 Abs.1.",
+    "hauptquelle": "LDG §35 Abs.1",
+    "zusatzquellen": [
+      "LDG §35 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-004",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Sara ist seit 1. September als außerordentliche Schülerin wegen Sprache aufgenommen. Im Mai fragt der Vater nach Verlängerung und Ende des Status. Welche Fristen gelten?",
+    "optionen": [
+      "Status läuft höchstens zwölf Monate ab Aufnahme.",
+      "Einmalige Verlängerung um weitere zwölf Monate ist möglich.",
+      "Verlängerung braucht fortbestehende Voraussetzungen plus unverschuldetes Scheitern.",
+      "Danach ist jedenfalls als ordentlich aufzunehmen.",
+      "Verlängerung ist beliebig oft möglich.",
+      "Nach zwei Jahren muss das Kind die Schule verlassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwölf Monate Grunddauer.",
+      "Richtig: Einmalig weitere zwölf Monate.",
+      "Richtig: Beide Bedingungen sind zu prüfen.",
+      "Richtig: Danach ordentlich, auch ohne perfektes Deutsch.",
+      "Falsch: Nur einmal verlängerbar.",
+      "Falsch: Kein Schulverweis, sondern ordentliche Aufnahme."
+    ],
+    "aufloesung": "12 plus maximal 12 Monate, dann ordentlich. Verlängerung nur mit Nachweis. Zum Nachlesen: SchUG §4 Abs.3.",
+    "hauptquelle": "SchUG §4 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-005",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS",
+      "MS"
+    ],
+    "situation": "Gymnasium ohne Sprengel: 90 Bewerber für 60 Plätze der 1. Klasse, Anmeldeschluss war 15. März. Eltern fragen nach Reihung und Verfahrensende. Was musst du beachten?",
+    "optionen": [
+      "Gleiche Reihungskriterien für alle: Leistung, Wohnortnähe, Geschwister plus Schulprofil.",
+      "Verfahren möglichst zu Beginn der Hauptferien abschließen.",
+      "Aufnahme kundmachen, Ablehnungen schriftlich mit Gründen.",
+      "Nach Alphabet ohne Sachbezug reihen.",
+      "Ablehnungen nur mündlich mitteilen.",
+      "Verfahren bis Weihnachten offen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sachliche gleiche Kriterien für alle.",
+      "Richtig: Abschluss zu Ferienbeginn anstreben.",
+      "Richtig: Kundmachung plus begründete Ablehnung.",
+      "Falsch: Alphabet ist kein Kriterium.",
+      "Falsch: Schriftlich mit Gründen ist Pflicht.",
+      "Falsch: Zügiger Abschluss ist vorgesehen."
+    ],
+    "aufloesung": "Sachlich reihen, zu Ferienbeginn fertig sein, Ablehnung schriftlich begründen. Zum Nachlesen: SchUG §5 Abs.1.",
+    "hauptquelle": "SchUG §5 Abs.1",
+    "zusatzquellen": [
+      "SchUG §5 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-006",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger erwartet im November ein Kind und will Karenz ab Geburt. Im September fragt sie nach Melde- und Antragsfristen. Was gehört auf ihre Checkliste?",
+    "optionen": [
+      "Karenzwunsch rechtzeitig vor Antritt schriftlich melden.",
+      "Dauer und Beginn der Karenz bekanntgeben.",
+      "Mutterschutzfristen vor der Geburt beachten.",
+      "Einfach nach der Geburt zu Hause bleiben ohne jede Meldung.",
+      "Karenz erst nach einem Jahr beantragen.",
+      "Mündliche Ankündigung am Gang genügt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rechtzeitige schriftliche Meldung sichert Planung.",
+      "Richtig: Beginn und Dauer gehören in die Meldung.",
+      "Richtig: Mutterschutz läuft vorab nach eigenen Fristen.",
+      "Falsch: Ohne Meldung keine geordnete Karenz.",
+      "Falsch: Antrag gehört vor Antritt, nicht ein Jahr danach.",
+      "Falsch: Schriftlich ist Pflicht, Gang reicht nicht."
+    ],
+    "aufloesung": "Vor Antritt schriftlich mit Beginn und Dauer melden, Mutterschutz beachten. Zum Nachlesen: LDG §58.",
+    "hauptquelle": "LDG §58",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-007",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Jonas fehlt am Montag krank. Die Mutter meldet ihn um 7:30 Uhr telefonisch. Am Mittwoch ist er wieder da, ohne Attest. Die Schule verlangt Nachweisregeln. Was gilt?",
+    "optionen": [
+      "Fernbleiben ist unverzüglich mit Grund zu melden.",
+      "Bei längerer oder zweifelhafter Abwesenheit kann die Schule Nachweise verlangen.",
+      "Ein kurzer entschuldigter Krankenstand braucht nicht automatisch ein Attest.",
+      "Meldung erst nach einer Woche genügt.",
+      "Attest ist ab dem ersten Schnupfen immer Pflicht.",
+      "Mitschüler dürfen die Entschuldigung ausstellen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverzügliche Meldung mit Grund.",
+      "Richtig: Nachweisverlangen bei Zweifeln oder Dauer.",
+      "Richtig: Kurz und glaubhaft braucht kein Attest-Zwang.",
+      "Falsch: Eine Woche ist viel zu spät.",
+      "Falsch: Kein genereller Attest-Zwang ab Tag eins.",
+      "Falsch: Erziehungsberechtigte entschuldigen, keine Mitschüler."
+    ],
+    "aufloesung": "Sofort melden, Nachweise nur bei Zweifeln oder Dauer. Kurz und klar reicht sonst. Zum Nachlesen: SchUG §45.",
+    "hauptquelle": "SchUG §45",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-008",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Dienst taucht der Verdacht einer gerichtlich strafbaren Handlung mit Schulbezug auf. Kollege Berger zögert mit der Meldung seit einer Woche. Was ist fristgerecht?",
+    "optionen": [
+      "Unverzüglich dem unmittelbaren Vorgesetzten melden.",
+      "Abwarten über Tage ist pflichtwidrig.",
+      "Erst eigene Ermittlungen über Wochen führen.",
+      "Meldung an Eltern statt Vorgesetzte genügt.",
+      "Verdacht reift erst nach Monaten zur Meldepflicht.",
+      "Anonymer Zettel irgendwann reicht."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sofort an den direkten Vorgesetzten.",
+      "Richtig: Zögern verletzt die Meldepflicht.",
+      "Falsch: Ermitteln ist Sache der Behörden, nicht des Lehrers.",
+      "Falsch: Vorgesetzte sind Adressat, nicht Eltern.",
+      "Falsch: Schon der begründete Verdacht löst aus.",
+      "Falsch: Formlos anonym genügt der Pflicht nicht."
+    ],
+    "aufloesung": "Sofort melden, nicht ermitteln, nicht warten. Zum Nachlesen: LDG §37 Abs.1.",
+    "hauptquelle": "LDG §37 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-009",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Jonas war März bis Juni fast durchgehend krank, keine sichere Jahresnote möglich. Die Lehrerin plant eine Feststellungsprüfung Ende Juni. Welche Fristen gelten?",
+    "optionen": [
+      "Jonas ist mindestens zwei Wochen vorher zu verständigen.",
+      "Prüfung deckt den Jahresstoff der versäumten Zeit ab.",
+      "Prüfung kann ohne jede Ankündigung morgen stattfinden.",
+      "Vorjahresnote darf einfach übernommen werden.",
+      "Raten und Eintragen ist zulässig.",
+      "Bei Krankheit entfällt jede Prüfung automatisch."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Wochen Vorlauf schützen die Vorbereitung.",
+      "Richtig: Geprüft wird der versäumte Stoff.",
+      "Falsch: Ohne Frist keine faire Prüfung.",
+      "Falsch: Vorjahr gilt nicht für heuer.",
+      "Falsch: Raten ist keine Beurteilung.",
+      "Falsch: Gerade dann braucht es die Prüfung."
+    ],
+    "aufloesung": "Zwei Wochen vorher verständigen, Jahresstoff prüfen. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-010",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nina ist für eine Sportreihe mit Terminen im Mai, Juni und September angemeldet. Nach dem Mai-Termin will sie raus. Der September-Termin ist 6 Wochen hin. Was gilt für die Abmeldung?",
+    "optionen": [
+      "Abmeldung ist frühestens nach der ersten Veranstaltung möglich.",
+      "Spätestens vier Wochen vor der weiteren Veranstaltung muss sie erfolgen.",
+      "Sechs Wochen vorher ist also noch rechtzeitig.",
+      "Abmeldung ist bei Reihen nie möglich.",
+      "Per SMS am Vortag reicht immer.",
+      "Krankheit als Grund braucht eigene Regeln."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst nach der ersten Veranstaltung.",
+      "Richtig: Vier Wochen vorher ist die Schranke.",
+      "Richtig: Sechs Wochen wahrt die Frist.",
+      "Falsch: Abmeldung ist ausdrücklich vorgesehen.",
+      "Falsch: Kurzfristig reicht nur Krankheit, nicht Belieben.",
+      "Richtig: Krankheit folgt den Fernbleiberegeln."
+    ],
+    "aufloesung": "Nach der ersten und spätestens vier Wochen vorher abmelden. Hier passt es. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-011",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "Julian (14) will im Mai drei Schnuppertage in einer Werkstatt machen. Der Klassenvorstand prüft Kontingent und Verfahren. Was gilt?",
+    "optionen": [
+      "Höchstens fünf Tage pro Unterrichtsjahr sind erlaubt.",
+      "Erlaubnis erteilt der Klassenvorstand nach Interessenabwägung.",
+      "Ansuchen des Schülers ist Voraussetzung.",
+      "Unbegrenzt Tage nach Elternwunsch sind möglich.",
+      "Genehmigung ist auch nachträglich egal.",
+      "Ohne Ansuchen darf er einfach fernbleiben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fünf Tage sind die Obergrenze.",
+      "Richtig: Abwägung Schule vs Orientierung durch Vorstand.",
+      "Richtig: Ansuchen löst das Verfahren aus.",
+      "Falsch: Kontingent ist gedeckelt.",
+      "Falsch: Vorher erlauben, nicht nachher heilen.",
+      "Falsch: Unentschuldigt ist unzulässig."
+    ],
+    "aufloesung": "Ansuchen, Abwägung, maximal fünf Tage. Vorher entscheiden. Zum Nachlesen: SchUG §13b Abs.1.",
+    "hauptquelle": "SchUG §13b Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-012",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Kaufmann ist drei Wochen krank bei seinen Eltern in einem anderen Bundesland. Die Direktion kennt weder Aufenthalt noch Adresse. Was hätte er melden müssen?",
+    "optionen": [
+      "Aufenthaltsnahme außerhalb des Wohnsitzes melden.",
+      "Adresse bekanntgeben für Erreichbarkeit.",
+      "Schweigen, bis er wieder da ist.",
+      "Nur bei Ausland melden, Inland ist frei.",
+      "Nachbarn informieren genügt.",
+      "Meldung erst nach Genesung."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "pro_option_feedback": [
+      "Richtig: Aufenthalt außerhalb melden.",
+      "Richtig: Adresse für Zustellung angeben.",
+      "Falsch: Schweigen verletzt die Pflicht.",
+      "Falsch: Schon Inlandsaufenthalt löst aus.",
+      "Falsch: Dienstgeber braucht die Info, nicht Nachbarn.",
+      "Falsch: Vorher melden, nicht nachher."
+    ],
+    "aufloesung": "Aufenthalt plus Adresse sofort melden. Erreichbarkeit sichern. Zum Nachlesen: LDG §37 Abs.3.",
+    "hauptquelle": "LDG §37 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-013",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor den Sommerferien fragt das Kollegium nach Erreichbarkeit. Der Schulleiter erinnert an Zustelladressen. Was gilt?",
+    "optionen": [
+      "Alle melden für die Hauptferien eine Zustelladresse.",
+      "Schulleiter zusätzlich für Weihnachts-, Semester- und Osterferien.",
+      "Niemand muss je etwas melden.",
+      "Social Media genügt als Adresse.",
+      "Nur Beurlaubte müssen melden.",
+      "Adresse erst bei Bedarf nachreichen."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hauptferien-Adresse für alle.",
+      "Richtig: Kleine Ferien extra für Leiter.",
+      "Falsch: Pflicht besteht gerade für Ferien.",
+      "Falsch: Zustelladresse auf kürzestem Weg ist verlangt.",
+      "Falsch: Alle, nicht nur Beurlaubte.",
+      "Falsch: Vorher angeben, nicht hinterher."
+    ],
+    "aufloesung": "Hauptferien alle, kleine Ferien Leiter zusätzlich. Vorher melden. Zum Nachlesen: LDG §37 Abs.3.",
+    "hauptquelle": "LDG §37 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-014",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Mathe-Schularbeit: 18 von 28 negativ. Die Lehrerin plant die Wiederholung. Welche Fristen und Regeln gelten?",
+    "optionen": [
+      "Bei mehr als der Hälfte negativ einmal mit neuer Aufgabe wiederholen.",
+      "Pro Kind zählt die bessere der beiden Leistungen.",
+      "Wiederholung darf nie stattfinden.",
+      "Es zählt automatisch nur die zweite Arbeit.",
+      "Nur Durchgefallene wiederholen.",
+      "Wiederholung erst nächstes Jahr."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mehr-als-Hälfte-Regel löst Pflicht aus.",
+      "Richtig: Günstigkeitsvergleich pro Kind.",
+      "Falsch: Wiederholung ist dann Pflicht.",
+      "Falsch: Bestwert zählt, nicht Zweitwert.",
+      "Falsch: Ganze Feststellung wird wiederholt.",
+      "Falsch: Zeitnah wiederholen, nicht nächstes Jahr."
+    ],
+    "aufloesung": "Einmal neu stellen, Bestwert zählt. Zeitnah ansetzen. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L2-015",
+    "modul_id": "X41",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mara rutscht im zweiten Semester in Englisch Richtung Nicht genügend. Die Mutter erfährt es erst aus dem Zeugnis. Was hätte fristgerecht passieren müssen?",
+    "optionen": [
+      "Bei drohendem Nicht genügend unverzüglich verständigen.",
+      "Zu beratendem Gespräch mit Fördermaßnahmen einladen.",
+      "Abwarten bis zum Zeugnis genügt.",
+      "Nur bei Verhalten warnen, bei Leistung nicht.",
+      "Mitschülern Bescheid sagen genügt.",
+      "Warnung erst nach Zeugnis."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sofort warnen bei Abfall.",
+      "Richtig: Gespräch plus Förderung vereinbaren.",
+      "Falsch: Zeugnis ist zu spät.",
+      "Falsch: Gerade Leistung löst aus.",
+      "Falsch: Eltern und Kind sind Adressaten.",
+      "Falsch: Vorher warnen, nicht nachher."
+    ],
+    "aufloesung": "Sofort warnen und Förderung besprechen, nicht erst im Zeugnis. Zum Nachlesen: SchUG §19 Abs.3a.",
+    "hauptquelle": "SchUG §19 Abs.3a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]

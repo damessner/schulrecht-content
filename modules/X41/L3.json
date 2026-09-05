@@ -1,1 +1,389 @@
-[]
+[
+  {
+    "id": "X41-L3-001",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Anmeldung zur Semesterprüfung trifft am 12. September ein, Frist war der 5. September. Eltern bitten um Nachsicht wegen Urlaubs. Die Schule lehnt ab. Zu Recht?",
+    "optionen": [
+      "Nein, Fristen sind immer nur Empfehlungen.",
+      "Ja, versäumte Anmeldefrist schließt die Teilnahme aus, nur Härte mit Nachweis könnte anders liegen.",
+      "Nein, Anmeldungen gelten automatisch ein Jahr lang.",
+      "Ja, aber nur wenn die Eltern arm sind."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fristen sichern Verfahren und Termine.",
+      "Richtig: Fristversäumnis trägt der Säumige, Härte braucht Nachweis.",
+      "Falsch: Keine Jahresautomatik.",
+      "Falsch: Einkommen spielt keine Rolle."
+    ],
+    "aufloesung": "Frist gerissen heißt draußen, außer belegter Härtefall. Termine stehen. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-002",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer meldet Krankheit erst am dritten Tag, ohne Bescheinigung, obwohl die Direktion sie am ersten Tag verlangt hatte. Er beruft sich auf die Drei-Tage-Regel. Wer hat recht?",
+    "optionen": [
+      "Der Lehrer, drei Tage sind immer frei.",
+      "Die Direktion, auf Verlangen ist die Bescheinigung auch früher vorzulegen.",
+      "Niemand, die Regel gilt nur in Wien.",
+      "Beide, es kommt auf das Wetter an."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Drei Tage gelten nur ohne Verlangen.",
+      "Richtig: Verlangen schlägt die Schonfrist.",
+      "Falsch: Gilt überall.",
+      "Falsch: Wetter ist irrelevant."
+    ],
+    "aufloesung": "Verlangen geht vor Frist. Bescheinigung nachreichen, Abwesenheit sonst ungerechtfertigt. Zum Nachlesen: LDG §35 Abs.2.",
+    "hauptquelle": "LDG §35 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-003",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Außerordentlicher Status läuft am 31. August nach 24 Monaten aus. Die Schule will ihn stillschweigend ein drittes Jahr fortführen, weil Deutsch noch fehlt. Darf sie?",
+    "optionen": [
+      "Ja, bei Bedarf unbegrenzt.",
+      "Nein, nach 12 plus maximal 12 Monaten ist jedenfalls ordentlich aufzunehmen.",
+      "Ja, mit Zustimmung der Eltern beliebig.",
+      "Nein, das Kind muss die Schule verlassen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Befristung ist absolut.",
+      "Richtig: Fristende erzwingt ordentlich.",
+      "Falsch: Zustimmung hebt die Grenze nicht.",
+      "Falsch: Kein Verweis, sondern Aufnahme."
+    ],
+    "aufloesung": "Fristende beachten und ordentlich aufnehmen, Förderung läuft dort weiter. Zum Nachlesen: SchUG §4 Abs.3.",
+    "hauptquelle": "SchUG §4 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-004",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Einstufungsprüfung negativ am 10. Juni. Schulleiter lässt Wiederholung erst am 20. September zu und verlangt alle Fächer neu. Schüler beschwert sich am 25. Juni. Was ist falsch?",
+    "optionen": [
+      "Nichts, alles korrekt.",
+      "Frist zwei Monate und nur negative Gebiete: September ist zu spät und Komplettwiederholung unzulässig.",
+      "Nur der Termin ist falsch, Umfang stimmt.",
+      "Nur der Umfang ist falsch, Termin stimmt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beide Punkte verstoßen.",
+      "Richtig: Zwei Monate ab Juni plus nur Negative.",
+      "Falsch: Auch der Umfang ist falsch.",
+      "Falsch: Auch der Termin ist falsch."
+    ],
+    "aufloesung": "Binnen zwei Monaten nur Negative wiederholen lassen. Verfahren korrigieren. Zum Nachlesen: SchUG §3 Abs.7a.",
+    "hauptquelle": "SchUG §3 Abs.7a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-005",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Verdacht mit Schulbezug wird erst nach drei Wochen gemeldet, weil der Kollege erst Beweise sammeln wollte. Die Behörde rügt. Zu Recht?",
+    "optionen": [
+      "Nein, Sammeln geht vor Melden.",
+      "Ja, unverzüglich heißt sofort, nicht nach Ermittlungen.",
+      "Nein, Meldepflicht beginnt erst nach einem Monat.",
+      "Ja, aber nur bei Diebstahl."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ermitteln ist nicht Lehrersache.",
+      "Richtig: Sofort melden, Behörde ermittelt.",
+      "Falsch: Kein Monatsaufschub.",
+      "Falsch: Gilt für alle Straftatsverdachte mit Bezug."
+    ],
+    "aufloesung": "Sofort melden statt selbst ermitteln. Verzug rügen lassen und abstellen. Zum Nachlesen: LDG §37 Abs.1.",
+    "hauptquelle": "LDG §37 Abs.1",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-006",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Feststellungsprüfung findet ohne die zweiwöchige Verständigung statt, Jonas erfährt es zwei Tage vorher und fällt durch. Eltern fechten an. Mit Erfolg?",
+    "optionen": [
+      "Nein, Fristen sind egal.",
+      "Ja, fehlende Zwei-Wochen-Frist macht die Prüfung anfechtbar, neu ansetzen.",
+      "Nein, weil er durchgefallen ist.",
+      "Ja, aber nur bei Mathe."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vorlauf schützt Vorbereitung.",
+      "Richtig: Formfehler, Wiederholung mit Frist.",
+      "Falsch: Ergebnis ändert nichts am Fehler.",
+      "Falsch: Gilt für alle Fächer."
+    ],
+    "aufloesung": "Mit korrekter Frist neu prüfen. Fehler dokumentieren. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-007",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Gymnasium ohne Sprengel entscheidet erst Ende Oktober über 90 Bewerber, ohne Kriterien, Ablehnungen mündlich. Eltern beschweren sich Anfang November. Welche Frist- und Formfehler liegen vor? Wähle alle.",
+    "optionen": [
+      "Verfahren nicht zu Ferienbeginn abgeschlossen.",
+      "Keine gleichen sachlichen Reihungskriterien angewendet.",
+      "Ablehnungen nicht schriftlich mit Gründen.",
+      "Aufnahme nicht kundgemacht.",
+      "Alles korrekt, Oktober ist normal.",
+      "Mündlich ist moderner und genügt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zügiger Abschluss zu Ferienbeginn versäumt.",
+      "Richtig: Willkür statt Kriterien.",
+      "Richtig: Schriftform mit Gründen fehlt.",
+      "Richtig: Kundmachung fehlt.",
+      "Falsch: Oktober ist deutlich zu spät.",
+      "Falsch: Mündlich genügt nie."
+    ],
+    "aufloesung": "Verfahren wiederholen: Kriterien, Kundmachung, begründete Bescheide. Zum Nachlesen: SchUG §5 Abs.1.",
+    "hauptquelle": "SchUG §5 Abs.1",
+    "zusatzquellen": [
+      "SchUG §5 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-008",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer im Krankenstand verweigert Behandlung und Untersuchung, legt keine Bescheinigung vor und meldet Aufenthalt nicht. Direktion prüft Rechtfertigung. Was entfällt? Wähle alles.",
+    "optionen": [
+      "Rechtfertigung entfällt bei Verweigerung zumutbarer Behandlung.",
+      "Rechtfertigung entfällt bei Verweigerung zumutbarer Mitwirkung.",
+      "Fehlende Bescheinigung nach Verlangen macht ungerechtfertigt.",
+      "Unbekannter Aufenthalt verletzt Meldepflicht.",
+      "Alles bleibt gerechtfertigt aus Mitleid.",
+      "Attest kann man sich sparen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Behandlungspflicht hängt an Rechtfertigung.",
+      "Richtig: Mitwirkungspflicht ebenso.",
+      "Richtig: Bescheinigung schulden heißt vorlegen.",
+      "Richtig: Aufenthalt melden gehört dazu.",
+      "Falsch: Mitleid ersetzt keine Pflicht.",
+      "Falsch: Bescheinigung ist Pflichtinhalt."
+    ],
+    "aufloesung": "Abwesenheit gilt als nicht gerechtfertigt. Verfahren einleiten. Zum Nachlesen: LDG §35 Abs.2.",
+    "hauptquelle": "LDG §35 Abs.2",
+    "zusatzquellen": [
+      "LDG §37 Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-009",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Kind ohne Vorschulbildung wird ohne Gespräch direkt eingeschult, Testergebnis bei Schulwechsel nicht weitergegeben, Förderklasse überbelegt ohne Verfahren. Was ist versäumt? Wähle alles.",
+    "optionen": [
+      "Orientierungsgespräch vor Aufnahme.",
+      "Standardisierte Testung mit Förderzuweisung.",
+      "Unverzügliche Weitergabe an neue Schule.",
+      "Verfahren statt Bauchgefühl und Überbelegung.",
+      "Nichts, alles freiwillig.",
+      "Eltern haften für alles allein."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gespräch ist Pflicht in der Lage.",
+      "Richtig: Testung steuert Förderung.",
+      "Richtig: Weitergabe sichert Kontinuität.",
+      "Richtig: Verfahren statt Willkür.",
+      "Falsch: Pflichten bestehen gerade.",
+      "Falsch: Schule trägt Verfahrensverantwortung."
+    ],
+    "aufloesung": "Verfahren nachholen: Gespräch, Testung, Weitergabe, Doku. Zum Nachlesen: SchUG §4 Abs.2b.",
+    "hauptquelle": "SchUG §4 Abs.2b",
+    "zusatzquellen": [
+      "SchUG §4 Abs.4a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-010",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Warnung bei Leistungsabfall unterbleibt, Zeugnis mit Nicht genügend kommt überraschend. Eltern wehren sich. Was war fristgerecht geschuldet? Wähle alles.",
+    "optionen": [
+      "Unverzügliche Verständigung bei drohendem Nicht genügend.",
+      "Einladung zu beratendem Gespräch.",
+      "Vereinbarung von Fördermaßnahmen.",
+      "Abwarten bis Zeugnis.",
+      "Warnung nur bei Verhalten.",
+      "Niemanden informieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sofort warnen.",
+      "Richtig: Gespräch anbieten.",
+      "Richtig: Förderung vereinbaren.",
+      "Falsch: Zeugnis ist zu spät.",
+      "Falsch: Leistung löst gerade aus.",
+      "Falsch: Eltern und Kind informieren."
+    ],
+    "aufloesung": "Frühwarnung heißt vorher handeln: Info, Gespräch, Förderung. Zum Nachlesen: SchUG §19 Abs.3a.",
+    "hauptquelle": "SchUG §19 Abs.3a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-011",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Sportreihe Mai/Juni/September: Schülerin meldet sich am 20. August ab, September-Termin am 30. September. Schule lehnt Abmeldung als verspätet ab. Zu Recht? Wähle alles Richtige.",
+    "optionen": [
+      "Abmeldung nach der ersten Veranstaltung ist zulässig.",
+      "Vier Wochen vor weiterer Veranstaltung wahrt die Frist.",
+      "20. August bei 30. September ist rechtzeitig.",
+      "Abmeldung ist nie möglich.",
+      "Erst am Vortag abmelden reicht.",
+      "Krankheit folgt eigenen Regeln."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nach der ersten darf man raus.",
+      "Richtig: Vier Wochen vorher ist die Marke.",
+      "Richtig: Fünf Wochen sind mehr als vier.",
+      "Falsch: Abmeldung ist vorgesehen.",
+      "Falsch: Vortag reicht nur bei Krankheit.",
+      "Richtig: Krankheit extra nach Fernbleiberegeln."
+    ],
+    "aufloesung": "Abmeldung ist rechtzeitig, Schule muss sie annehmen. Zum Nachlesen: SchUG §13a Abs.3.",
+    "hauptquelle": "SchUG §13a Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L3-012",
+    "modul_id": "X41",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check zum Schuljahresende: Ein Kollege behauptet, wer einmal aufgenommen ist, muss sich jedes Jahr neu anmelden, sonst verfällt der Platz über die Ferien.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil stimmt.",
+      "Richtig erkannt: Aufnahme wirkt für alle Stufen fort bis Beendigung."
+    ],
+    "aufloesung": "Keine jährliche Neuanmeldung nötig. Zum Nachlesen: SchUG §3 Abs.8.",
+    "hauptquelle": "SchUG §3 Abs.8",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]

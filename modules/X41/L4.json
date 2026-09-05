@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "id": "X41-L4-001",
+    "modul_id": "X41",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "MS"
+    ],
+    "situation": "28. Juni: Klassenvorstand Berger hat gleichzeitig eine versäumte Frühwarnung bei Mara, zwei Wiederholungs-Anmeldungen mit Frist 30. Juni und eine erkrankte Kollegin ohne Vertretung. Er schafft nur eines vor Ferienbeginn. Was hat Vorrang?",
+    "optionen": [
+      "Nichts, alles kann bis Oktober warten.",
+      "Anmeldungen und Termine sichern, Warnung sofort nachholen, Vertretung organisieren: Fristen zuerst, dann alles andere unverzüglich.",
+      "Nur die Vertretung, Rest verfällt.",
+      "Nur die Warnung, Prüfungen sind egal."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fristen warten nicht.",
+      "Richtig: Harte Fristen zuerst, Rest sofort danach.",
+      "Falsch: Alles ist wichtig, Reihenfolge nach Fristhärte.",
+      "Falsch: Prüfungen haben harte Termine."
+    ],
+    "aufloesung": "Fristgebundenes zuerst sichern, Rest unverzüglich nachholen. Priorität nach Verfallbarkeit. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [
+      "SchUG §19 Abs.3a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L4-002",
+    "modul_id": "X41",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer ist seit Montag krank, meldet nichts, legt nichts vor, ist unbekannt verzogen und verweigert die angeordnete Untersuchung. Am Freitag behauptet er, alles sei noch fristgerecht nachholbar. Stimmt das?",
+    "optionen": [
+      "Ja, alles jederzeit nachholbar.",
+      "Nein, Melde-, Nachweis- und Mitwirkungspflichten waren jeweils sofort bzw. auf Verlangen fällig, die Abwesenheit gilt als nicht gerechtfertigt.",
+      "Nur die Untersuchung ist Pflicht, Rest egal.",
+      "Nur die Meldung ist Pflicht, Rest egal."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fristen sind gestaffelt, aber alle fällig.",
+      "Richtig: Kumulierte Versäumnisse machen ungerechtfertigt.",
+      "Falsch: Alle drei Pflichten bestehen.",
+      "Falsch: Alle drei Pflichten bestehen."
+    ],
+    "aufloesung": "Mehrfach versäumt heißt ungerechtfertigt. Jede Pflicht hat eigene Fälligkeit. Zum Nachlesen: LDG §35 Abs.2.",
+    "hauptquelle": "LDG §35 Abs.2",
+    "zusatzquellen": [
+      "LDG §37 Abs.3",
+      "LDG §36 Abs.1"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L4-003",
+    "modul_id": "X41",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "August: Neuanmeldung ohne Vorschulbildung, kein Gespräch, keine Testung, dazu Wunschschule außer Sprengel ohne Antrag. Schulleitung will alles auf Oktober verschieben. Was ist sofort zu tun?",
+    "optionen": [
+      "Warten bis Oktober ist in Ordnung.",
+      "Sofort Gespräch plus Testung durchführen und Sprengelbewilligung klären, nichts verschieben.",
+      "Nur Gespräch führen, Rest egal.",
+      "Kind abweisen bis Deutsch perfekt ist."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schulpflicht und Fristen warten nicht.",
+      "Richtig: Alle drei Verfahren sofort starten.",
+      "Falsch: Testung und Sprengel gehören dazu.",
+      "Falsch: Fördern statt abweisen."
+    ],
+    "aufloesung": "Gespräch, Testung und Sprengel parallel sofort klären. Zum Nachlesen: SchUG §4 Abs.2b.",
+    "hauptquelle": "SchUG §4 Abs.2b",
+    "zusatzquellen": [
+      "SchUG §4 Abs.2a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L4-004",
+    "modul_id": "X41",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "AHS"
+    ],
+    "situation": "Oktober: 90 Bewerber, keine Kriterien, keine Kundmachung, mündliche Absagen, dazu eine verspätete Semesterprüfungs-Anmeldung. Direktor meint, das eine Verfahren heile das andere. Stimmt das?",
+    "optionen": [
+      "Ja, Fehler gleichen sich aus.",
+      "Nein, jedes Verfahren braucht eigene Frist- und Formtreue: Aufnahme wiederholen, Anmeldung nach Frist ablehnen.",
+      "Nur Aufnahme wiederholen, Anmeldung egal.",
+      "Nur Anmeldung ablehnen, Aufnahme egal."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fehler addieren sich, heilen sich nicht.",
+      "Richtig: Getrennt sanieren nach jeweiligen Regeln.",
+      "Falsch: Auch Anmeldung braucht Entscheidung.",
+      "Falsch: Auch Aufnahme braucht Sanierung."
+    ],
+    "aufloesung": "Jedes Verfahren für sich sanieren. Keine Verrechnung von Fehlern. Zum Nachlesen: SchUG §5 Abs.1.",
+    "hauptquelle": "SchUG §5 Abs.1",
+    "zusatzquellen": [
+      "SchUG §20 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L4-005",
+    "modul_id": "X41",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "30. Juni, letzter Schultag: Offene Punkte sind Wiederholungs-Anmeldungen, eine versäumte Warnung, ein unklarer Krankenstand einer Kollegin und die Ferienadressen. Was muss heute noch gesichert werden? Wähle alles.",
+    "optionen": [
+      "Anmeldungen und Prüfungstermine mit Stoff dokumentieren.",
+      "Warnung mit Gespräch und Förderung sofort nachholen.",
+      "Krankenstand: Meldung, Bescheinigung, Aufenthalt klären.",
+      "Ferien-Zustelladressen einsammeln.",
+      "Alles auf Oktober verschieben.",
+      "Nur das Dringendste, Rest vergessen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fristhart, heute sichern.",
+      "Richtig: Unverzüglich heißt sofort.",
+      "Richtig: Jede Pflicht klären.",
+      "Richtig: Vor Ferien einsammeln.",
+      "Falsch: Verschieben lässt Fristen verfallen.",
+      "Falsch: Nichts vergessen, alles sichern."
+    ],
+    "aufloesung": "Jahresend-Check: Fristen sichern, Warnung nachholen, Stand klären, Adressen holen. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [
+      "SchUG §19 Abs.3a",
+      "LDG §35 Abs.1",
+      "LDG §37 Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L4-006",
+    "modul_id": "X41",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "BHS",
+      "MS"
+    ],
+    "situation": "Herbstprüfungswoche: Kandidat A fehlt krank mit Attest, Kandidatin B fehlt unentschuldigt, bei Kandidat C fehlt der Beisitz. Was ist je richtig? Wähle alles.",
+    "optionen": [
+      "A: Ersatztermin bei gerechtfertigter Verhinderung.",
+      "B: Unentschuldigt als versäumt werten nach Regeln.",
+      "C: Ohne Besetzung nicht prüfen, neu ansetzen.",
+      "Alle drei automatisch bestehen lassen.",
+      "Alle drei automatisch durchfallen lassen.",
+      "A ohne Nachweis gleich wie B behandeln."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Attest plus Meldung gibt Ersatz.",
+      "Richtig: Unentschuldigt trägt Folgen.",
+      "Richtig: Form wahren, neu ansetzen.",
+      "Falsch: Kein Automatismus.",
+      "Falsch: Differenziert entscheiden.",
+      "Falsch: Nachweis unterscheidet die Fälle."
+    ],
+    "aufloesung": "Drei Fälle, drei Wege: Ersatz, Folge, Neuansetzung. Sauber trennen und dokumentieren. Zum Nachlesen: SchUG §20 Abs.3.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [
+      "SchUG §20 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L4-007",
+    "modul_id": "X41",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Neue Lehrerin startet im September. Welche Melde- und Fristpflichten treffen sie in den ersten Wochen? Wähle alles.",
+    "optionen": [
+      "Krankheit unverzüglich melden und rechtfertigen.",
+      "Bescheinigung bei Dauer oder Verlangen mit Beginn und Dauer.",
+      "Namens-/Wohnsitzänderung melden.",
+      "Aufenthalt außerhalb des Wohnsitzes mit Adresse melden.",
+      "Verdacht mit Schulbezug sofort dem Vorgesetzten melden.",
+      "Nichts melden, Probezeit ist meldefrei."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sofort melden.",
+      "Richtig: Bescheinigung nach Regeln.",
+      "Richtig: Persönliches melden.",
+      "Richtig: Aufenthalt melden.",
+      "Richtig: Verdacht sofort melden.",
+      "Falsch: Keine Meldefreiheit."
+    ],
+    "aufloesung": "Fünf Pflichten von Anfang an kennen: Krankheit, Nachweis, Persönliches, Aufenthalt, Verdacht. Zum Nachlesen: LDG §35 Abs.1.",
+    "hauptquelle": "LDG §35 Abs.1",
+    "zusatzquellen": [
+      "LDG §35 Abs.2",
+      "LDG §37"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "X41-L4-008",
+    "modul_id": "X41",
+    "level": "L4",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check zum Fristenjahr: Eine Kollegin behauptet, im Schulrecht seien alle Fristen nur unverbindliche Empfehlungen, verspätete Anmeldungen, Meldungen und Nachweise gälten automatisch trotzdem.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Fristen sichern Verfahren und Fairness.",
+      "Richtig erkannt: Versäumnis trägt Folgen, nur belegte Härte hilft."
+    ],
+    "aufloesung": "Fristen sind verbindlich: Anmeldung, Meldung, Nachweis, Verständigung. Wer säumt, verliert. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [
+      "LDG §35 Abs.1"
+    ],
+    "stand": "04.09.2026"
+  }
+]
