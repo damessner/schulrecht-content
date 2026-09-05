@@ -1,1 +1,270 @@
-[]
+[
+  {
+    "id": "A07-L4-001",
+    "modul_id": "A07",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der angemeldete Paul bleibt drei Nachmittage lang unentschuldigt der Betreuung fern und spielt stattdessen im Park. Die Eltern meinen, für die Betreuung brauche es keine Entschuldigung, das gelte nur für den Unterricht am Vormittag. Die Schule prüft, ob sie auf einer Rechtfertigung bestehen darf.",
+    "optionen": [
+      "Nein, Betreuungszeiten sind unverbindliche Freizeit ohne jede Meldepflicht.",
+      "Ja, auch versäumte Betreuungstage brauchen eine unverzügliche Benachrichtigung bei Verhinderung.",
+      "Ja, aber nur wenn Paul auch am Vormittag dem Unterricht ferngeblieben ist.",
+      "Nein, erst ab einer ganzen Woche Fehlen muss irgendetwas gemeldet werden."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch der Betreuungsteil kennt klare Fernbleibensregeln.",
+      "Richtig: Gerechtfertigte Verhinderung ist unverzüglich unter Angabe des Grundes zu melden.",
+      "Falsch: Die Meldepflicht für die Betreuung hängt nicht am Vormittag.",
+      "Falsch: Eine Wochenfrist für die erste Meldung gibt es nicht."
+    ],
+    "aufloesung": "Die Schule darf auf einer Rechtfertigung bestehen und muss die Fehlzeiten einfordern. Auch das Fernbleiben vom Betreuungsteil ist nur bei gerechtfertigter Verhinderung zulässig und jede Verhinderung ist unverzüglich mit Grund zu melden. Park statt Betreuung ohne Nachricht ist danach unzulässig. Zum Nachlesen: SchUG §45 Abs.7 lit.a.",
+    "hauptquelle": "SchUG §45 Abs.7 lit.a",
+    "zusatzquellen": [
+      "SchUG §12a Abs.1"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L4-002",
+    "modul_id": "A07",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Yilmaz bittet um Freistellung ihrer angemeldeten Tochter für einen Familienfeiertag an einem einzelnen Nachmittag, damit das Kind an der Feier teilnehmen kann. Die Leiterin des Betreuungsteiles ist unsicher, ob sie eine solche Erlaubnis für die Betreuung überhaupt erteilen darf.",
+    "optionen": [
+      "Nein, Erlaubnisse zum Fernbleiben gibt es nur für den Vormittagsunterricht.",
+      "Ja, der Schulleiter oder die Leitung des Betreuungsteiles kann aus vertretbaren Gründen die Erlaubnis erteilen.",
+      "Ja, aber nur die Bildungsdirektion darf solche Erlaubnisse aussprechen.",
+      "Nein, Familienfeiern sind als Grund von vornherein ausgeschlossen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch für den Betreuungsteil sind Erlaubnisse vorgesehen.",
+      "Richtig: Vertretbare Gründe tragen eine Erlaubnis durch Schulleitung oder Betreuungsleitung.",
+      "Falsch: Die Behörde muss für einen Nachmittag nicht eingeschaltet werden.",
+      "Falsch: Auf die Vertretbarkeit im Einzelfall kommt es an, nicht auf starre Listen."
+    ],
+    "aufloesung": "Die Leiterin darf die Erlaubnis für den einen Nachmittag erteilen. Für den Betreuungsteil kann bei vertretbaren Gründen die Schulleitung oder die Betreuungsleitung das Fernbleiben erlauben. Die Familienfeier ist im Einzelfall auf ihre Vertretbarkeit zu prüfen und zu dokumentieren. Zum Nachlesen: SchUG §45 Abs.7 lit.b.",
+    "hauptquelle": "SchUG §45 Abs.7 lit.b",
+    "zusatzquellen": [
+      "SchUG §12a Abs.1"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L4-003",
+    "modul_id": "A07",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die letzte Einheit am Tagesrand ist als reine Freizeiteinheit organisiert. Die Eltern von Selin verlangen, ihre Tochter regelmäßig schon zu dieser Einheit abholen zu dürfen, weil die Familie dann gemeinsam isst. Die Betreuungsleitung fragt, ob sie dem nachkommen muss.",
+    "optionen": [
+      "Nein, auf Elternwünsche zu Randstunden ist niemals Rücksicht zu nehmen.",
+      "Ja, auf Verlangen der Erziehungsberechtigten ist das Fernbleiben von Freizeiteinheiten am Tagesrand zulässig.",
+      "Ja, aber nur bei Vorlage eines ärztlichen Attests für das Kind.",
+      "Nein, weil Freizeiteinheiten immer wichtiger sind als Lernzeiten."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade für Randstunden sieht das Gesetz einen Elternvorrang vor.",
+      "Richtig: Bei Freizeiteinheiten am Tagesrand genügt das Verlangen der Erziehungsberechtigten.",
+      "Falsch: Ein Attest ist für Randstunden-Freizeit nicht verlangt.",
+      "Falsch: Auf die Gewichtung von Freizeit und Lernen kommt es hier nicht an."
+    ],
+    "aufloesung": "Selin darf zu den Rand-Freizeiteinheiten regelmäßig früher abgeholt werden. Handelt es sich um Freizeiteinheiten am Tagesrand, ist das Fernbleiben auf Verlangen der Erziehungsberechtigten zulässig. Die Schule dokumentiert das Verlangen und passt die Gruppenliste an. Zum Nachlesen: SchUG §45 Abs.7 lit.c.",
+    "hauptquelle": "SchUG §45 Abs.7 lit.c",
+    "zusatzquellen": [
+      "SchUG §12a Abs.1"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L4-004",
+    "modul_id": "A07",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Für einen Seeausflug der Nachmittagsgruppe reichen die Pädagoginnen nicht aus. Die Schule will zwei Bekannte der Eltern ohne jede Prüfung von Eignung und Sicherheitsfragen allein mit Kleingruppen losschicken, Festlegungen zu Zuständigkeiten und Notfallwegen gibt es keine.",
+    "optionen": [
+      "Das Vorgehen ist zulässig, weil in der Betreuung jede Hilfe willkommen ist.",
+      "Das Vorgehen ist zulässig, sobald die Eltern den Bekannten vertrauen.",
+      "Das Vorgehen ist rechtswidrig, weil nur geeignete Personen bei gewährleisteter Sicherheit und nur bei Bedarf oder Zweckmäßigkeit eingesetzt werden dürfen.",
+      "Das Vorgehen ist nur bei Regen falsch, bei Schönwetter ist alles erlaubt."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Guter Wille ersetzt weder Eignung noch Sicherheitsgewähr.",
+      "Falsch: Vertrauen der Eltern ersetzt die schulische Sicherheitsprüfung nicht.",
+      "Richtig: Eignung, Sicherheitsgewähr und Einsatzgrund fehlen hier vollständig.",
+      "Falsch: Das Wetter ändert nichts an Eignung und Aufsichtspflicht."
+    ],
+    "aufloesung": "Der Seeausflug darf so nicht stattfinden und muss neu organisiert werden. Externe dürfen nur bei Eignung und gewährleisteter Sicherheit sowie bei Bedarf oder organisatorischer Zweckmäßigkeit eingesetzt werden. Ungeprüftes Alleinlassen ohne Sicherheitsfestlegungen ist rechtswidrig. Zum Nachlesen: SchUG §44a Abs.1.",
+    "hauptquelle": "SchUG §44a Abs.1",
+    "zusatzquellen": [
+      "SchUG §12a Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L4-005",
+    "modul_id": "A07",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du erstellst als Betreuungsleitung ein Merkblatt zum Fernbleiben vom Betreuungsteil: Krankheit mit Fieber, Familienfeier am Nachmittag, regelmäßiges früheres Abholen aus der Rand-Freizeiteinheit und stillschweigendes Wegbleiben ohne jede Nachricht kommen in der Praxis vor. Welche Sätze gehören in das korrekte Merkblatt?",
+    "optionen": [
+      "Bei Krankheit ist die Verhinderung unverzüglich unter Angabe des Grundes zu melden.",
+      "Für einzelne Nachmittage kann die Leitung aus vertretbaren Gründen eine Erlaubnis erteilen.",
+      "Von Freizeiteinheiten am Tagesrand darf auf Verlangen der Erziehungsberechtigten ferngeblieben werden.",
+      "Stillschweigendes Wegbleiben ohne Nachricht ist jederzeit zulässig.",
+      "Eine Erlaubnis kann auch von Mitschülern erteilt werden.",
+      "Wer abgemeldet ist, braucht zusätzlich jeden Tag eine Entschuldigung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gerechtfertigte Verhinderung braucht unverzügliche Meldung mit Grund.",
+      "Richtig: Vertretbare Gründe tragen eine Erlaubnis durch die Leitung.",
+      "Richtig: Bei Rand-Freizeit genügt das Elternverlangen.",
+      "Falsch: Wegbleiben ohne Nachricht verletzt die Meldepflicht.",
+      "Falsch: Mitschüler dürfen kein Fernbleiben erlauben.",
+      "Falsch: Nach wirksamer Abmeldung gibt es keine Betreuungspflicht mehr."
+    ],
+    "aufloesung": "Das Merkblatt nennt drei zulässige Wege und grenzt sie gegen Willkür ab. Unverzügliche Krankmeldung, Erlaubnis aus vertretbaren Gründen und Elternverlangen bei Rand-Freizeit decken die Praxis ab. Still-schweigendes Wegbleiben bleibt unzulässig. Zum Nachlesen: SchUG §45 Abs.7.",
+    "hauptquelle": "SchUG §45 Abs.7",
+    "zusatzquellen": [
+      "SchUG §12a Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L4-006",
+    "modul_id": "A07",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Ganztagsschule will für Lernzeiten und Freizeit regelmäßig einen qualifizierten Sporttrainer und eine Lesepatin aus der Nachbarschaft einsetzen, weil das eigene Personal nicht reicht. Vor dem ersten Einsatz prüft die Schulleitung, was rechtlich zu beachten ist.",
+    "optionen": [
+      "Prüfen, ob der Einsatz zur Gewährleistung der Sicherheit erforderlich oder organisatorisch zweckmäßig ist.",
+      "Nur geeignete Personen einsetzen und die Sicherheit der Schüler gewährleistet halten.",
+      "Festhalten, dass geeignete Externe dabei funktionell als Bundesorgane tätig werden.",
+      "Ungeprüfte Personen ohne Sicherheitsgewähr allein mit Kleingruppen losschicken.",
+      "Annehmen, für Externe gälten keinerlei Organisations- und Haftungsregeln.",
+      "Die Personalzuweisung an die Gruppen ohne jede Behördeninfo erledigen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erforderlichkeit oder Zweckmäßigkeit sind der Einsatzgrund.",
+      "Richtig: Eignung und fortbestehende Sicherheitsgewähr sind Pflicht.",
+      "Richtig: Der funktionelle Status sichert Einbindung und Verantwortung.",
+      "Falsch: Alleinlassen ohne Eignung und Gewähr ist unzulässig.",
+      "Falsch: Organisations- und Haftungsregeln gelten auch für Externe.",
+      "Falsch: Die Zuweisung ist der Behörde schriftlich zur Kenntnis zu bringen."
+    ],
+    "aufloesung": "Trainer und Lesepatin dürfen nur nach sauberer Prüfung eingesetzt werden. Einsatzgrund, Eignung und Sicherheitsgewähr sind vorab zu klären und die Zuweisung ist der Behörde schriftlich mitzuteilen. Ungeprüfte Alleingänge ohne Verantwortung sind rechtswidrig. Zum Nachlesen: SchUG §44a Abs.1.",
+    "hauptquelle": "SchUG §44a Abs.1",
+    "zusatzquellen": [
+      "SchUG §9 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L4-007",
+    "modul_id": "A07",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An einem gemeinsamen Betreuungsstandort für Volksschule und Mittelschule übernimmt der neue Schulleiter die Gruppen. Er will Einteilung, Personaleinsatz und Behördeninfo in einem Arbeitsgang sauber regeln und die Stufenunterschiede berücksichtigen.",
+    "optionen": [
+      "Die Schüler in die einzelnen Betreuungsgruppen einteilen.",
+      "Den Gruppen die für Lernzeiten und Freizeit vorgesehenen Personen zuweisen.",
+      "Die Zuweisung der Behörde schriftlich zur Kenntnis bringen.",
+      "Die Gruppen ohne jede Differenzierung im Einheitsprogramm laufen lassen.",
+      "Die Einteilung dem Zufall oder den Kindern überlassen.",
+      "Lernzeiten und Freizeit ohne vorgesehenes Personal laufen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Gruppeneinteilung trifft der Schulleiter.",
+      "Richtig: Auch die Personalzuweisung für Lernzeit und Freizeit trifft er.",
+      "Richtig: Die Zuweisung ist der Behörde schriftlich mitzuteilen.",
+      "Falsch: Ein Einheitsprogramm ohne Differenzierung verletzt die Bedachtnahme.",
+      "Falsch: Zufall und Kinderwille ersetzen die Leitungsentscheidung nicht.",
+      "Falsch: Lernzeit und Freizeit brauchen ihr vorgesehenes Personal."
+    ],
+    "aufloesung": "Der Arbeitsgang gelingt, wenn Einteilung, Personal und Behördeninfo zusammenpassen. Der Schulleiter teilt ein, weist das vorgesehene Personal zu, informiert die Behörde schriftlich und differenziert nach Stufen. Zufall und Personallücken sind keine Option. Zum Nachlesen: SchUG §9 Abs.5.",
+    "hauptquelle": "SchUG §9 Abs.5",
+    "zusatzquellen": [
+      "SchUG §12a Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L4-008",
+    "modul_id": "A07",
+    "level": "L4",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Eine Kollegin behauptet, ein angemeldetes Kind dürfe beliebig oft ohne jede Nachricht der Betreuung fernbleiben, weil das Fernbleiben vom Betreuungsteil rechtlich überhaupt nicht geregelt sei.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Das Fernbleiben vom Betreuungsteil ist ausdrücklich geregelt und braucht Grund oder Erlaubnis."
+    ],
+    "aufloesung": "Die Behauptung ist falsch und lädt zu Aufsichtsproblemen ein. Das Fernbleiben vom Betreuungsteil ist nur bei gerechtfertigter Verhinderung, mit Erlaubnis aus vertretbaren Gründen oder bei Rand-Freizeit auf Elternverlangen zulässig. Beliebiges Wegbleiben ohne Nachricht geht nicht. Zum Nachlesen: SchUG §45 Abs.7.",
+    "hauptquelle": "SchUG §45 Abs.7",
+    "zusatzquellen": [
+      "SchUG §12a Abs.1"
+    ],
+    "stand": "04.09.2026"
+  }
+]

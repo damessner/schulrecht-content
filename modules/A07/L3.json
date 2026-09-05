@@ -1,1 +1,388 @@
-[]
+[
+  {
+    "id": "A07-L3-001",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Vater Berger meldet seinen Sohn Mitte November per E-Mail mit sofortiger Wirkung vom Betreuungsteil ab, weil ihm das Nachmittagsprogramm nicht mehr gefällt. Die Mutter widerspricht schriftlich und will die Betreuung unbedingt behalten, ein Umzug oder eine Krankheit liegt nicht vor. Die Schulleitung soll nun entscheiden, ob der Junge ab sofort wegbleiben darf.",
+    "optionen": [
+      "Ja, jede Abmeldung wirkt sofort, sobald ein Elternteil sie erklärt.",
+      "Nein, außerhalb des Semesterendes geht die Abmeldung nur bei besonders berücksichtigungswürdigen Gründen, ein bloßer Geschmackswechsel genügt nicht.",
+      "Ja, bei widersprechenden Eltern setzt sich immer der Wunsch nach weniger Betreuung durch.",
+      "Nein, eine Abmeldung ist während des Schuljahres überhaupt niemals möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Sofortaustritt mitten im Semester ist nicht vorgesehen.",
+      "Richtig: Ohne Härtefall bleibt nur der Regeltermin zum Ende des ersten Semesters.",
+      "Falsch: Weniger Betreuung setzt sich nicht automatisch gegen den Betreuungswunsch durch.",
+      "Falsch: Eine Abmeldung ist möglich, aber nur zum Semestertermin oder aus Härtefall."
+    ],
+    "aufloesung": "Der Junge bleibt bis auf Weiteres im Betreuungsteil und darf nicht sofort wegbleiben. Ein bloßer Geschmackswechsel ist kein besonders berücksichtigungswürdiger Grund, und unter dem Jahr führt nur der Termin zum Ende des ersten Semesters mit Dreiwochenfrist heraus. Bei widerstreitenden Erklärungen braucht es eine Klärung der Erziehungsberechtigung statt eines Schnellschusses. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-002",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Emilia war an ihrer alten Volksschule mit getrennter Abfolge nur dienstags und donnerstags für die Nachmittagsbetreuung angemeldet. Im Jänner wechselt sie an eine ganztägige Schule mit verschränkter Abfolge von Unterricht und Betreuung. Die Eltern verlangen, die Zweitagewahl an der neuen Schule fortzuführen.",
+    "optionen": [
+      "Ja, die alte Tageswahl wandert automatisch an die neue Schule mit.",
+      "Nein, bei verschränkter Abfolge erstreckt sich die Anmeldung nur auf alle Schultage.",
+      "Ja, bei Berufstätigkeit der Eltern bleiben Teiltage auch bei Verschränkung möglich.",
+      "Nein, weil bei einem Schulwechsel jede Betreuung für immer erlischt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die alte Teilwahl wirkt an der anders organisierten Schule nicht fort.",
+      "Richtig: Bei Verschränkung gibt es nur die Anmeldung für alle Schultage.",
+      "Falsch: Die Berufstätigkeit ändert nichts an der Tageswahlregel.",
+      "Falsch: Betreuung ist möglich, aber nur als Neuanmeldung für alle Tage."
+    ],
+    "aufloesung": "Emilia kann an der neuen Schule keine Zweitagebetreuung behalten. Bei verschränkter Abfolge gibt es nur die Anmeldung für alle Schultage, die alte Teilwahl wirkt nicht fort. Wer Teiltage will, braucht eine Schule mit getrennter Abfolge. Zum Nachlesen: SchUG §12a Abs.1 Z2 lit.b.",
+    "hauptquelle": "SchUG §12a Abs.1 Z2 lit.b",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-003",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die siebenjährige Tochter von Familie Hofer ist für den Betreuungsteil angemeldet. Der Vater verlangt, sie dürfe täglich mitten in der Lernzeit allein das Schulgelände verlassen und zu Fuß heimgehen, die Schule trage ab dem Weggehen keine Verantwortung mehr. Die Klassenlehrerin soll das schriftlich bestätigen.",
+    "optionen": [
+      "Ja, angemeldete Kinder dürfen jederzeit allein gehen, die Verantwortung endet automatisch.",
+      "Ja, mit einer schriftlichen Bestätigung der Lehrerin entfällt jede Betreuungsverantwortung.",
+      "Nein, solange die Anmeldung besteht, bleibt der geordnete Betreuungsbetrieb mit zugewiesener Betreuung und Aufsicht aufrecht.",
+      "Nein, weil Kinder unter zehn Jahren grundsätzlich nie das Schulhaus verlassen dürfen."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eigenmächtiges Gehen beendet den angemeldeten Betreuungsbetrieb nicht.",
+      "Falsch: Ein Zettel der Lehrerin hebt die Betreuungsverantwortung nicht auf.",
+      "Richtig: Anmeldung bedeutet geordneter Betrieb mit Personal und Aufsicht.",
+      "Falsch: Auf das Alter kommt es hier nicht an, sondern auf die aufrechte Anmeldung."
+    ],
+    "aufloesung": "Die Tochter darf nicht einfach allein aus der Lernzeit weggehen. Solange die Anmeldung zum Betreuungsteil besteht, läuft der geordnete Betrieb mit zugeteiltem Personal und Aufsicht weiter. Wer das nicht will, muss den formalen Weg über Abholung oder Abmeldung nehmen statt Eigenmacht. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "zusatzquellen": [
+      "SchUG §44a Abs.1"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-004",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Egger verpasst die Anmeldefrist für den Betreuungsteil an einer Schule mit getrennter Abfolge. Alle bestehenden Gruppen sind voll, eine Aufnahme wäre nur über eine zusätzliche neue Gruppe möglich. Die Eltern drohen mit Beschwerde und verlangen die sofortige Eröffnung einer weiteren Gruppe.",
+    "optionen": [
+      "Die Schule muss sofort eine zusätzliche Gruppe eröffnen, jeder Wunsch geht vor.",
+      "Die Schule darf die Nachmeldung ablehnen, weil sie eine zusätzliche Gruppe erfordern würde.",
+      "Die Schule muss aufnehmen, sobald die Eltern eine Beschwerde ankündigen.",
+      "Die Schule darf nur aufnehmen, wenn ein anderes Kind freiwillig austritt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine Gruppeneröffnung kann nicht erzwungen werden.",
+      "Richtig: Wird eine neue Gruppe nötig, scheidet die Nachmeldung aus.",
+      "Falsch: Eine Beschwerdeandrohung schafft keinen Aufnahmeanspruch.",
+      "Falsch: Auf den Austritt anderer Kinder kommt es nicht an."
+    ],
+    "aufloesung": "Die Ablehnung ist rechtmäßig und hält einer Beschwerde stand. Nach Fristende ist die Anmeldung nur zulässig, solange keine zusätzliche Gruppe erforderlich wird. Volle Gruppen müssen nicht gesprengt und keine neue Gruppe erzwungen werden. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-005",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lena besucht eine verschränkt geführte Mittelschule, die daneben auch eine reguläre Klasse ohne verschränkte Betreuung führt. Die Eltern wollen Lena nur vom Betreuungsteil abmelden und in diese Parallelklasse wechseln lassen. Der Schulleiter behauptet, es gebe nur die Abmeldung von der Schule.",
+    "optionen": [
+      "Der Schulleiter hat recht, es hilft immer nur die Schulabmeldung.",
+      "Die Eltern haben recht, weil entsprechende Klassen ohne Verschränkung bestehen und ein schulinterner Wechsel möglich ist.",
+      "Die Eltern haben recht, weil die Verschränkung einseitig jederzeit aufgekündigt werden kann.",
+      "Der Schulleiter hat recht, weil Parallelklassen für solche Wechsel nie genutzt werden dürfen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Schulabmeldung ist nur der letzte Ausweg bei fehlender Parallelklasse.",
+      "Richtig: Besteht eine passende Klasse, ist der schulinterne Wechsel der richtige Weg.",
+      "Falsch: Einseitiges Aufkündigen der Organisationsform gibt es nicht.",
+      "Falsch: Gerade dafür sind Parallelklassen ohne Betreuung da."
+    ],
+    "aufloesung": "Lena kann in die Parallelklasse ohne Verschränkung wechseln. Nur wenn keine entsprechenden Klassen bestehen, bleibt allein die Abmeldung von der Schule. Hier gibt es die passende Klasse, also ist der schulinterne Wechsel der richtige Weg. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-006",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Moritz besucht die Mittelschule im Ort, der Betreuungsteil wird schulübergreifend an der benachbarten Volksschule geführt. Das Sekretariat erklärt, für solche Fälle gebe es keine Anmeldung zum Aufnahmezeitpunkt, Moritz müsse bis zum Frühjahr warten. Die Eltern fragen, wann die Anmeldung möglich ist.",
+    "optionen": [
+      "Erst im Frühjahr nach einer Sondergenehmigung der Behörde.",
+      "Zum Zeitpunkt der Anmeldung zur Aufnahme in die Stammschule, auch bei schulübergreifendem Betreuungsbesuch.",
+      "Überhaupt nicht, schulübergreifender Betreuungsbesuch ist ausgeschlossen.",
+      "Nur wenn Moritz gleichzeitig die Schule wechselt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine Sondergenehmigung mit Frühjahrstermin ist nicht vorgesehen.",
+      "Richtig: Auch bei schulübergreifendem Besuch zählt der Aufnahmezeitpunkt der Stammschule.",
+      "Falsch: Schulübergreifender Betreuungsbesuch ist ausdrücklich möglich.",
+      "Falsch: Ein Schulwechsel ist keine Voraussetzung für die Anmeldung."
+    ],
+    "aufloesung": "Moritz darf gleich zum Aufnahmezeitpunkt angemeldet werden. Auch beim schulübergreifenden Besuch des Betreuungsteiles gilt der Zeitpunkt der Anmeldung zur Aufnahme in die Schule. Warten bis zum Frühjahr ist nicht nötig. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.a.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.a",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-007",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Trennung streiten die Eltern von Jonas über die Betreuung: Der Vater meldet Anfang Dezember den sofortigen Austritt, die Mutter will die Betreuung behalten. Als Grund nennt der Vater längere Arbeitswege und mehr Freizeit für das Kind, ein Umzug oder eine Krankheit liegt nicht vor. Die Schulleitung prüft die Rechtslage.",
+    "optionen": [
+      "Die reguläre Abmeldung während des Jahres ist nur zum Ende des ersten Semesters möglich.",
+      "Die Abmeldeerklärung muss spätestens drei Wochen vor Ende des ersten Semesters einlangen.",
+      "Ein Austritt zu einem anderen Zeitpunkt braucht besonders berücksichtigungswürdige Gründe.",
+      "Jeder Elternwunsch wirkt automatisch sofort als Härtefall.",
+      "Bei Streit der Erziehungsberechtigten ist einfach dem Austrittswunsch zu folgen.",
+      "Eine Abmeldung ist unter dem Jahr gänzlich ausgeschlossen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Semesterende ist der Regeltermin für die Abmeldung.",
+      "Richtig: Drei Wochen davor ist die letzte Frist.",
+      "Richtig: Außerhalb des Termins braucht es besonders gewichtige Gründe.",
+      "Falsch: Nicht jeder Wunsch erreicht die Hürde der besonderen Gründe.",
+      "Falsch: Bei Streit braucht es Klärung der Berechtigung statt Schnellschuss.",
+      "Falsch: Abmeldung ist möglich, aber nur zum Termin oder aus Härtefall."
+    ],
+    "aufloesung": "Jonas bleibt vorerst im Betreuungsteil, der Sofortaustritt scheitert. Arbeitswege und Freizeitwünsche sind keine besonders berücksichtigungswürdigen Gründe, also bleibt nur die Abmeldung zum Semesterende mit Dreiwochenfrist. Der Elternstreit ändert an Termin und Frist nichts. Zum Nachlesen: SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-008",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Sara wechselt im Februar von einer verschränkt geführten Ganztagsschule an eine Schule mit getrennter Abfolge von Unterricht und Betreuung. Die Eltern bringen die alte Anmeldebestätigung für alle Schultage mit und fragen, was an der neuen Schule für sie gilt.",
+    "optionen": [
+      "An der neuen Schule ist eine Neuanmeldung für den Betreuungsteil nötig.",
+      "Dort kann die Anmeldung alle Schultage oder einzelne Wochentage umfassen.",
+      "Die neue Anmeldung gilt nur für das betreffende Unterrichtsjahr.",
+      "Die alte verschränkte Anmeldung für alle Tage wirkt automatisch fort.",
+      "Teiltage bleiben an der neuen Schule ausgeschlossen.",
+      "Eine Anmeldung ist an der neuen Schule entbehrlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jede Schule braucht ihre eigene Betreuungsanmeldung.",
+      "Richtig: Bei getrennter Abfolge sind Voll- und Teilbuchungen möglich.",
+      "Richtig: Bei getrennter Abfolge endet die Wirkung mit dem Unterrichtsjahr.",
+      "Falsch: Die alte Anmeldung wandert nicht automatisch mit.",
+      "Falsch: Teiltage sind gerade bei getrennter Abfolge zulässig.",
+      "Falsch: Ohne Anmeldung entsteht kein Betreuungsplatz."
+    ],
+    "aufloesung": "Sara braucht an der neuen Schule eine frische Anmeldung mit neuen Wahlrechten. Dort sind einzelne Wochentage möglich, dafür gilt die Anmeldung nur für das laufende Unterrichtsjahr. Die alte Vollanmeldung wirkt weder fort noch blockiert sie die neue Wahl. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.b.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.b",
+    "zusatzquellen": [
+      "SchUG §12a Abs.1 Z1 lit.c"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-009",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Lehner meldet ihre Tochter an einer Schule mit getrennter Abfolge nur für freitags zum Betreuungsteil an und meint, damit sei die Betreuung bis zum Schulabgang gesichert und ein Austritt mitten im Semester sei mündlich von heute auf morgen möglich.",
+    "optionen": [
+      "Einzelne Wochentage zu wählen ist bei getrennter Abfolge zulässig.",
+      "Die Anmeldung gilt nur für das betreffende Unterrichtsjahr und braucht eine Erneuerung.",
+      "Die Jahresanmeldung wirkt automatisch bis zum Schulabgang fort.",
+      "Die Abmeldung unter dem Jahr folgt Termin und Frist statt Zuruf.",
+      "Ein mündlicher Sofortaustritt mitten im Semester genügt immer."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bei getrennter Abfolge sind einzelne Tage frei wählbar.",
+      "Richtig: Bei getrennter Abfolge endet die Wirkung mit dem Unterrichtsjahr.",
+      "Falsch: Eine Fortwirkung bis zum Abgang gibt es nur bei Verschränkung.",
+      "Richtig: Es gelten Semestertermin, Dreiwochenfrist oder Härtefall.",
+      "Falsch: Zuruf-Austritte ohne Termin sind unwirksam."
+    ],
+    "aufloesung": "Der Freitag allein ist zulässig, der Rest der Annahme ist falsch. Teiltage gehen bei getrennter Abfolge, aber die Anmeldung endet mit dem Unterrichtsjahr und braucht Erneuerung. Der Ausstieg folgt dem Semestertermin mit Frist statt Zuruf. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.b.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.b",
+    "zusatzquellen": [
+      "SchUG §12a Abs.1 Z1 lit.c",
+      "SchUG §12a Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-010",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Ein neuer Schulleiter überlässt die Einteilung der Nachmittagsgruppen dem Elternverein, die Kinder sollen ihr Betreuungspersonal selbst wählen, und die Personalzuweisung wird nur mündlich am Gang besprochen. Die Bildungsdirektion fragt nach der ordnungsgemäßen Vorgangsweise.",
+    "optionen": [
+      "Der Schulleiter teilt die Schüler in die einzelnen Betreuungsgruppen ein.",
+      "Der Schulleiter weist den Gruppen die für Lernzeiten und Freizeit vorgesehenen Personen zu.",
+      "Die Zuweisung ist der zuständigen Schulbehörde schriftlich zur Kenntnis zu bringen.",
+      "Die Einteilung darf vollständig an den Elternverein ausgelagert werden.",
+      "Die Kinder wählen ihr Betreuungspersonal allein.",
+      "Eine mündliche Absprache am Gang ersetzt die Behördeninfo."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Gruppeneinteilung der Schüler ist Schulleiteraufgabe.",
+      "Richtig: Auch die Personalzuweisung an die Gruppen obliegt dem Schulleiter.",
+      "Richtig: Die Zuweisung ist der Behörde schriftlich mitzuteilen.",
+      "Falsch: Die Verantwortung kann nicht vollständig ausgelagert werden.",
+      "Falsch: Die Kinder wählen ihr Betreuungspersonal nicht selbst.",
+      "Falsch: Die Kenntnisgabe an die Behörde hat schriftlich zu erfolgen."
+    ],
+    "aufloesung": "Die Vorgangsweise des Schulleiters ist rechtswidrig und muss saniert werden. Gruppeneinteilung und Personalzuweisung sind seine Aufgabe und die Zuweisung ist der Behörde schriftlich zur Kenntnis zu bringen. Auslagern an Verein oder Kinder und Flurabsprachen genügen nicht. Zum Nachlesen: SchUG §9 Abs.5.",
+    "hauptquelle": "SchUG §9 Abs.5",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-011",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Ein Betreuungsstandort führt Volksschulkinder und Mittelschulkinder gemeinsam in einer Gruppe. Alle erhalten unterschiedslos dasselbe Lernprogramm und dieselben Freizeitangebote, die Kleinen sind überfordert, die Großen langweilen sich. Die Standortleitung hält das für effizient.",
+    "optionen": [
+      "Lernzeiten werden nach Schulstufe und Schulart differenziert gestaltet.",
+      "Freizeitangebote werden altersgerecht gestaffelt.",
+      "Leistungsstand und Reife der jeweiligen Gruppe fließen in die Planung ein.",
+      "Allen wird unterschiedslos dasselbe Programm ohne jede Anpassung gegeben.",
+      "Die Unterschiede zwischen den Schulstufen werden bewusst ignoriert.",
+      "Kleine und Große werden ohne Trennung im selben Lernstoff betreut."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Differenzierte Lernzeiten tragen den Stufenunterschieden Rechnung.",
+      "Richtig: Altersgerechte Freizeit gehört zur besonderen Bedachtnahme.",
+      "Richtig: Planung nach Leistungsstand und Reife ist gelebte Rücksicht.",
+      "Falsch: Ein Einheitsprogramm ohne Anpassung verletzt die Rücksichtspflicht.",
+      "Falsch: Ignorieren der Unterschiede widerspricht der besonderen Bedachtnahme.",
+      "Falsch: Vermischter Lernstoff ohne Trennung überfordert und unterfordert zugleich."
+    ],
+    "aufloesung": "Das Einheitsprogramm muss umgeplant und differenziert werden. Bei stufen- und artenübergreifenden Gruppen ist auf die unterschiedlichen Anforderungen besonders Bedacht zu nehmen. Differenzierte Lernzeiten und altersgerechte Freizeit sind dafür der Maßstab. Zum Nachlesen: SchUG §12a Abs.3.",
+    "hauptquelle": "SchUG §12a Abs.3",
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A07-L3-012",
+    "modul_id": "A07",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, an einer Schule mit getrennter Abfolge gelte die Betreuungsanmeldung automatisch für die gesamte Schulzeit und der Ausstieg sei jederzeit formlos von heute auf morgen möglich.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Die Anmeldung gilt nur ein Jahr und der Ausstieg folgt Termin und Frist."
+    ],
+    "aufloesung": "Die Behauptung ist falsch und würde im Beschwerdeforum nicht halten. Bei getrennter Abfolge gilt die Anmeldung nur für das betreffende Unterrichtsjahr, und die Abmeldung geht nur zum Semesterende mit Dreiwochenfrist oder aus besonders berücksichtigungswürdigen Gründen. Zum Nachlesen: SchUG §12a Abs.1 Z1 lit.c.",
+    "hauptquelle": "SchUG §12a Abs.1 Z1 lit.c",
+    "zusatzquellen": [
+      "SchUG §12a Abs.2"
+    ],
+    "stand": "04.09.2026"
+  }
+]
