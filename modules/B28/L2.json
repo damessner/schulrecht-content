@@ -1,1 +1,556 @@
-[]
+[
+  {
+    "aufloesung": "Grubers Versetzung braucht das volle Anhörungsverfahren. Er ist schriftlich unter Angabe der neuen Verwendung zu verständigen und kann zwei Wochen lang Einwendungen erheben. Schweigen gilt als Zustimmung, erst danach ergeht der Bescheid. Zum Nachlesen: LDG §19 Abs.5.",
+    "hauptquelle": "LDG §19 Abs.5",
+    "id": "B28-L2-001",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Er wird schriftlich über die beabsichtigte Versetzung verständigt.",
+      "Ihm wird seine künftige Verwendung bekannt gegeben.",
+      "Er kann binnen zwei Wochen Einwendungen vorbringen.",
+      "Schweigt er, gilt das als Zustimmung zur Versetzung.",
+      "Eine mündliche Ankündigung im Konferenzzimmer genügt.",
+      "Die Versetzung wird sofort wirksam, eine Anhörung gibt es keine."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Verständigung über die beabsichtigte Maßnahme erfolgt schriftlich.",
+      "Richtig: Die neue Verwendung ist in der Verständigung anzuführen.",
+      "Richtig: Für Einwendungen gilt eine Frist von zwei Wochen ab Zustellung.",
+      "Richtig: Wer fristgerecht nichts einwendet, stimmt damit zu.",
+      "Falsch: Verlangt ist eine schriftliche Verständigung mit allen Angaben.",
+      "Falsch: Vorher ist die Anhörung mit Einwendungsfrist durchzuführen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber soll von Amts wegen an eine andere Schule versetzt werden. Die Behörde bereitet die Maßnahme vor und Gruber will wissen, welche Schritte zu einem korrekten Verfahren gehören.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Wieser bleibt bis zur Entscheidung. Versetzungen ergehen mit Bescheid und Beschwerden dagegen wirken aufschiebend. Nur bei echtem Unterrichtsnotstand mit erheblichem Nachteil für die Kinder darf der Aufschub ausgeschlossen werden, dann ist rasch zu entscheiden. Zum Nachlesen: LDG §19 Abs.6.",
+    "hauptquelle": "LDG §19 Abs.6",
+    "id": "B28-L2-002",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Versetzung wird mit Bescheid verfügt.",
+      "Ihre Beschwerde hat grundsätzlich aufschiebende Wirkung.",
+      "Die Wirkung darf nur bei drohendem Unterrichtsausfall mit Kindernachteil ausgeschlossen werden.",
+      "Bei ausgeschlossenem Aufschub ist binnen vier Wochen über die Beschwerde zu entscheiden.",
+      "Beschwerden gegen Versetzungen sind grundsätzlich unzulässig.",
+      "Der Ausschluss der aufschiebenden Wirkung ist der Regelfall."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Für die Versetzung ist ein Bescheid erforderlich.",
+      "Richtig: Die Beschwerde schiebt die Versetzung im Regelfall auf.",
+      "Richtig: Der Ausschluss setzt Unterrichtsnotstand mit erheblichem Kindernachteil voraus.",
+      "Richtig: Nach Ausschluss gilt eine vierwöchige Entscheidungsfrist.",
+      "Falsch: Das Rechtsmittel steht ihr selbstverständlich offen.",
+      "Falsch: Der Ausschluss ist nur die eng begrenzte Ausnahme."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Wieser erhält einen Versetzungsbescheid und überlegt ein Rechtsmittel. An ihrer alten Schule fallen sonst Stunden aus und die Direktion behauptet, ihre Beschwerde könne deshalb nichts aufschieben.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Aigner darf nicht ohne Abwägung versetzt werden. Soziale Verhältnisse und Dienstalter sind zu berücksichtigen, soweit der Dienstbetrieb es zulässt. Droht ihr ein wesentlicher wirtschaftlicher Nachteil und wäre Berger ohne diesen Nachteil verfügbar, scheidet ihre Versetzung aus. Zum Nachlesen: LDG §19 Abs.4.",
+    "hauptquelle": "LDG §19 Abs.4",
+    "id": "B28-L2-003",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Auf die sozialen Verhältnisse ist Rücksicht zu nehmen.",
+      "Das Dienstalter fließt in die Entscheidung ein.",
+      "Bei wesentlichem wirtschaftlichem Nachteil und verfügbarer Alternative ist die Versetzung unzulässig.",
+      "Soziale Gründe dürfen niemals berücksichtigt werden.",
+      "Wirtschaftliche Nachteile sind immer hinzunehmen.",
+      "Es entscheidet allein das Los zwischen beiden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Soziale Verhältnisse sind soweit möglich zu berücksichtigen.",
+      "Richtig: Auch das Dienstalter ist ein Abwägungsgesichtspunkt.",
+      "Richtig: Der wirtschaftliche Nachteil mit Alternative macht die Maßnahme unzulässig.",
+      "Falsch: Das Gesetz verlangt genau diese Rücksichtnahme.",
+      "Falsch: Wesentliche Nachteile mit Alternative stehen der Versetzung entgegen.",
+      "Falsch: Maßgeblich ist die Abwägung der gesetzlichen Gesichtspunkte."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Lehrkräfte kommen für eine Versetzung von Amts wegen an einen unbeliebten Standort in Frage: die alleinerziehende Lehrerin Aigner mit schulpflichtigen Kindern vor Ort und der ungebundene Kollege Berger. Die Direktion will gerecht entscheiden.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Direktion darf Teilkräfte auf Nachbarschulen verteilen. Wer die volle Jahresnorm nicht erreicht, kann auch ohne Zustimmung mehreren benachbarten Schulen zugewiesen werden, Klassenlehrer nur bei zumutbarem Weg. Volle Kräfte und lange Reservezeiten brauchen die Zustimmung, artfremde Einsätze enden nach vier Wochen. Zum Nachlesen: LDG §19 Abs.3, Abs.8 und Abs.9.",
+    "hauptquelle": "LDG §19 Abs.3",
+    "id": "B28-L2-004",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Wer die volle Norm nicht erreicht, kann ohne Zustimmung mehreren benachbarten Schulen zugewiesen werden.",
+      "Klassenlehrer an Volksschulen trifft das nur bei zumutbarem Weg zwischen den Schulen.",
+      "Mit Zustimmung ist die Mehrfachzuweisung auch bei voller Norm möglich.",
+      "Artfremde Pflichtschul-Verwendungen ohne Zustimmung enden nach vier Wochen.",
+      "Vollbeschäftigte können routinemäßig ohne Zustimmung auf mehrere Schulen verteilt werden.",
+      "Die Lehrerreserve darf ohne Zustimmung beliebig lange dauern."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bei unterschrittener Norm ist die Mehrfachzuweisung auch ohne Zustimmung möglich.",
+      "Richtig: Für Klassenlehrer gilt die Weg-Zumutbarkeit als Grenze.",
+      "Richtig: Wer zustimmt, kann auch bei voller Norm mehreren Schulen zugewiesen werden.",
+      "Richtig: Die artfremde Zuweisung ist auf längstens vier Wochen begrenzt.",
+      "Falsch: Bei voller Norm braucht es dafür die Zustimmung.",
+      "Falsch: Ohne Zustimmung endet sie nach zwei Jahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS",
+      "BS"
+    ],
+    "situation": "An einer kleinen Schule erreichen mehrere Lehrkräfte mit Teilverpflichtung nicht die volle Jahresnorm. Die Direktion plant Zuweisungen an Nachbarschulen und fragt, welche Regeln dabei gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §19 Abs.8",
+      "LDG §19 Abs.9"
+    ]
+  },
+  {
+    "aufloesung": "Der Tausch gelingt nur mit Ansuchen und Bewilligung. Ein Diensttausch wird auf Ansuchen von der Dienstbehörde bewilligt, Absprachen allein genügen nicht. Über Bundesländergrenzen hinweg bedeutet er Ernennung im übernehmenden und Auflösung im abgebenden Land. Zum Nachlesen: LDG §20.",
+    "hauptquelle": "LDG §20",
+    "id": "B28-L2-005",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Der Tausch setzt ein Ansuchen der Beteiligten voraus.",
+      "Die Dienstbehörde muss den Tausch bewilligen.",
+      "Länderübergreifend gilt das als Ernennung im neuen und Auflösung im alten Land.",
+      "Ein formloser Tausch unter Kolleginnen genügt.",
+      "Die Behörde kann einen Diensttausch von Amts wegen anordnen.",
+      "Beide bleiben dienstrechtlich in ihrem alten Bundesland."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Ansuchen gibt es keinen Diensttausch.",
+      "Richtig: Erst die Bewilligung macht den Tausch wirksam.",
+      "Richtig: Der Wechsel beendet das alte und begründet das neue Dienstverhältnis.",
+      "Falsch: Wirksam wird der Tausch nur über Ansuchen und Bewilligung.",
+      "Falsch: Der Tausch geht immer von den Beteiligten aus.",
+      "Falsch: Das alte Dienstverhältnis wird gerade aufgelöst."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Lehrerinnen aus verschiedenen Bundesländern möchten ihre Dienstorte tauschen und haben sich bereits geeinigt. Sie fragen, was für einen wirksamen Diensttausch alles zutreffen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Direktion darf Vertretungen vorübergehend zuweisen. Reservekräfte arbeiten über ihre Stammschule, bei erschöpfter Reserve greift die Vertretungszuweisung aus dienstlichen Gründen. Dabei gelten die Schutzregeln sinngemäß und schulfeste Stellen nur begrenzt ohne Zustimmung. Zum Nachlesen: LDG §21.",
+    "hauptquelle": "LDG §21 Abs.1",
+    "id": "B28-L2-006",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Lehrkräfte der Reserve werden über ihre Stammschule bedarfsgerecht an andere Schulen zugewiesen.",
+      "Bei erschöpfter Reserve sind Vertretungen aus dienstlichen Gründen auch sonst möglich.",
+      "Die Rücksicht- und Fristregeln der Versetzung gelten sinngemäß.",
+      "Schulfeste Stellen dürfen pro Schuljahr über drei Monate hinaus nur mit Zustimmung verplant werden.",
+      "Vorübergehende Zuweisungen sind immer nur mit Zustimmung zulässig.",
+      "Wer schulfest ist, darf nie an einer anderen Schule aushelfen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Reserve arbeitet über Stammschule und Bedarfszuweisung.",
+      "Richtig: Gerade zur Vertretung Abwesender darf vorübergehend zugewiesen werden.",
+      "Richtig: Soziale Rücksicht, Vier-Wochen-Grenze und Reserve-Deckel gelten auch hier.",
+      "Richtig: Die Drei-Monats-Grenze schützt schulfeste Stellen.",
+      "Falsch: Aus dienstlichen Gründen geht es auch ohne Zustimmung.",
+      "Falsch: Bis zu drei Monate ist das auch ohne Zustimmung möglich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach mehreren Krankheitsfällen ist die Lehrerreserve erschöpft. Die Direktion muss Vertretungen organisieren und prüft, welche Regeln für vorübergehende Zuweisungen gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §21 Abs.2",
+      "LDG §21 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Beide Einsätze sind nur mit Zustimmung möglich. Mitverwendung an Hochschule, Bildungsdirektion oder Bundesschule setzt Zustimmung und Freistellung voraus. Zulässig sind etwa Hochschullehre, sonderpädagogische Koordination und Unterricht an Bundesschulen. Zum Nachlesen: LDG §22 Abs.1.",
+    "hauptquelle": "LDG §22 Abs.1",
+    "id": "B28-L2-007",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Beide Verwendungen brauchen ihre Zustimmung.",
+      "Sie werden dafür von ihrer bisherigen Arbeitszeit freigestellt.",
+      "Lehraufgaben an der Pädagogischen Hochschule sind ein zulässiger Fall.",
+      "Auch Koordination sonderpädagogischer Maßnahmen und Unterricht an Bundesschulen zählen dazu.",
+      "Die Direktion kann solche Verwendungen einseitig anordnen.",
+      "Mitverwendung ist nur während der Ferien zulässig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Zustimmung gibt es keine solche Verwendung.",
+      "Richtig: Die Verwendung erfolgt unter Freistellung vom bisherigen Ausmaß.",
+      "Richtig: Die Hochschullehre gehört zu den vorgesehenen Fällen.",
+      "Richtig: Beide Tätigkeiten sind ausdrücklich als Mitverwendung vorgesehen.",
+      "Falsch: Der Regelfall verlangt die Zustimmung der Lehrperson.",
+      "Falsch: Sie ist eine laufende vorübergehende Verwendung im Dienstjahr."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Doppler soll einen Teil seiner Arbeitszeit an einer Pädagogischen Hochschule in der Lehre mitarbeiten, ein Kollege in der sonderpädagogischen Koordination der Bildungsdirektion. Beide fragen nach den Voraussetzungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Beide Einsätze haben enge Grenzen. Ohne Zustimmung ist nur der amtsärztlich begründete Verwaltungseinsatz möglich. Die Hochschullehre endet bei der Hälfte der Vollbeschäftigung und folgt festen Umrechnungsschlüsseln, dazu kommt höchstens eine dreiwöchige Vorbereitung. Zum Nachlesen: LDG §22 Abs.2, Abs.4a und Abs.4b.",
+    "hauptquelle": "LDG §22 Abs.2",
+    "id": "B28-L2-008",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Ohne Zustimmung geht ein Verwaltungseinsatz nur mit amtsärztlichem Zeugnis bei Schuluntauglichkeit.",
+      "Die Hochschullehre darf höchstens die Hälfte der Vollbeschäftigung ausmachen.",
+      "32 Lehrveranstaltungsstunden im Studienjahr entsprechen fünf Prozent der Vollbeschäftigung.",
+      "Für sonstige Hochschul- oder Direktionsaufgaben zählen 80 Arbeitsstunden je fünf Prozent.",
+      "An der Hochschule sind auch volle Verwendungen in der Lehre möglich.",
+      "Eine Vorbereitungszeit außerhalb des Unterrichtsjahres gibt es nie."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Ausnahme setzt ein amtsärztliches Zeugnis und reine Verwaltungstauglichkeit voraus.",
+      "Richtig: Für die Lehre gilt eine Obergrenze von fünfzig Prozent.",
+      "Richtig: Genau dieser Umrechnungsschlüssel ist vorgesehen.",
+      "Richtig: Andere Aufgaben werden mit achtzig Stunden je fünf Prozent angerechnet.",
+      "Falsch: Die Lehre ist auf die Hälfte begrenzt.",
+      "Falsch: Bis zu drei Wochen Vorbereitung sind zulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin prüft das angebotene Ausmaß ihrer Mitverwendung an der Pädagogischen Hochschule, ein erkrankter Kollege fragt nach einem Einsatz in der Schulverwaltung. Beide wollen die Grenzen kennen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §22 Abs.4a",
+      "LDG §22 Abs.4b"
+    ]
+  },
+  {
+    "aufloesung": "Beide Einsätze brauchen Zustimmung und klare Grenzen. Auslandsstunden zählen zur Norm, umfassen nur Unterricht an grenznahen Schulen und verlangen keine Übersiedlung. Zuwendungen gehören dem Land, private Einrichtungen brauchen stets die Zustimmung. Zum Nachlesen: LDG §23a und §23.",
+    "hauptquelle": "LDG §23a Abs.1",
+    "id": "B28-L2-009",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Auslandsstunden werden auf die Jahresnorm angerechnet.",
+      "Erlaubt sind nur unterrichtliche Tätigkeiten an grenznahen Schulen.",
+      "Beide Einsätze brauchen die Zustimmung der Lehrperson.",
+      "Zuwendungen Dritter für den Auslandseinsatz sind an das Land abzuführen.",
+      "Zumuten lässt sich auch ein Umzug ins Ausland.",
+      "An privaten Schulen kann die Behörde auch ohne Zustimmung einsetzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unterricht im Ausland zählt zur Verpflichtung dazu.",
+      "Richtig: Nur Unterricht an grenznahen Schulen ist vorgesehen.",
+      "Richtig: Weder Ausland noch Privateinrichtung geht ohne Zustimmung.",
+      "Richtig: Nebeneinkünfte aus dem Einsatz behält nicht die Lehrperson.",
+      "Falsch: Wohnen im Ausland darf nicht verlangt werden.",
+      "Falsch: Private Einrichtungen setzen immer die Zustimmung voraus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer nahe der Staatsgrenze soll einige Stunden an einer Schule im Nachbarland mitübernehmen. Eine Kollegin überlegt zusätzlich einen Einsatz an einer privaten Pädagogischen Hochschule.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §23"
+    ]
+  },
+  {
+    "aufloesung": "Beide Entsendungen sind befristet und geregelt. Zulässig sind Ausbildung im europäischen Rahmen, zwischenstaatliche Aufgaben und inländische Fortbildung mit festen Höchstdauern. Die Einrichtung gilt als Dienststelle und Zuwendungen gehören dem Land. Zum Nachlesen: LDG §23b.",
+    "hauptquelle": "LDG §23b Abs.1",
+    "id": "B28-L2-010",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "In Frage kommen Ausbildung, europäische oder zwischenstaatliche Tätigkeit und inländische Fortbildung.",
+      "Die entsendete Einrichtung gilt für die Dauer als Dienststelle.",
+      "Zwischenstaatliche Tätigkeiten enden nach sechs Jahren, inländische Fortbildung nach sechs Monaten.",
+      "Zuwendungen Dritter sind grundsätzlich an das Land abzuführen.",
+      "Entsendungen können zeitlich unbegrenzt dauern.",
+      "Während der Entsendung gilt kein Dienstrecht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese drei Entsendungszwecke sind vorgesehen.",
+      "Richtig: Dienstrechtlich wird die Einrichtung zur Dienststelle.",
+      "Richtig: Für beide Fälle gelten diese Höchstgrenzen.",
+      "Richtig: Nebenzahlungen behält nicht die entsendete Person.",
+      "Falsch: Das Gesetz setzt klare Höchstgrenzen.",
+      "Falsch: Die Verwendungsregeln gelten an der Einrichtung weiter."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer soll zur Fortbildung an eine inländische Einrichtung entsandt werden, eine Kollegin als Expertin zu einer europäischen Einrichtung. Beide fragen nach Dauer und Bedingungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Stelle muss ausgeschrieben werden. Leitungsfunktionen werden im Bewerbungsverfahren besetzt, freie Stellen ehestens und Ruhestandsfälle vorausschauend. Nur Kleinstschulen und der Leitertausch sind ausgenommen. Zum Nachlesen: LDG §26 Abs.1 bis Abs.3.",
+    "hauptquelle": "LDG §26 Abs.1",
+    "id": "B28-L2-011",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Stelle ist grundsätzlich im Ausschreibungs- und Bewerbungsverfahren zu besetzen.",
+      "Frei gewordene Stellen sind ehestens, längstens binnen drei Monaten auszuschreiben.",
+      "Bei Ruhestand ist so rechtzeitig auszuschreiben, dass möglichst lückenlos nachbesetzt wird.",
+      "Wegen der Größe der Schule genügt eine interne Betrauung ohne Verfahren.",
+      "Kleine Schulen bis neun Kräfte brauchen dasselbe volle Verfahren.",
+      "Auch ein Tausch zwischen zwei Leitern braucht immer eine Ausschreibung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Leitungsfunktionen werden ausgeschrieben und beworben.",
+      "Richtig: Die Ausschreibung duldet keinen langen Aufschub.",
+      "Richtig: Absehbare Freiwerden verlangt vorausschauende Ausschreibung.",
+      "Falsch: Bei dieser Größe ist das volle Verfahren durchzuführen.",
+      "Falsch: Unter zehn Vollzeitäquivalenten entfällt das Verfahren.",
+      "Falsch: Der Diensttausch unter Stelleninhabern ist ausgenommen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Leiterstelle an einer Pflichtschule mit zwanzig Vollzeitkräften wird frei, weil der Stelleninhaber in den Ruhestand geht. Die Behörde plant die Nachbesetzung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §26 Abs.2",
+      "LDG §26 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Auswahl folgt Ausschreibung und Eignungsnachweis. Die Ausschreibung nennt alle Eckdaten und das Fünf-Jahres-Erfordernis, Bewerber belegen Eignung und Leitungsvorstellungen im Kommissionsverfahren. Den Zuschlag erhält, wer die Kriterien am besten erfüllt. Zum Nachlesen: LDG §26 Abs.4 bis Abs.7.",
+    "hauptquelle": "LDG §26 Abs.4",
+    "id": "B28-L2-012",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Ausschreibung nennt Aufgaben, Erfordernisse, Dienstort, Schule, Frist und Einreichstelle.",
+      "Sie weist auf das Fünf-Jahres-Erfordernis und die darzustellende Eignung mit Gender- und Diversity-Aspekten hin.",
+      "Bewerber legen Eignung, Führungskompetenzen und Leitungsvorstellungen dar und stellen sich dem Auswahlverfahren.",
+      "Es zählt, wer die Auswahlkriterien im höchsten Ausmaß erfüllt.",
+      "Ein kurzer Lebenslauf ersetzt die Bewerbungsdarstellung.",
+      "Bei mehreren Geeigneten entscheidet allein das Dienstalter."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese Angaben gehören zwingend in jede Ausschreibung.",
+      "Richtig: Beide Hinweise sind ausdrücklich vorgeschrieben.",
+      "Richtig: Genau das verlangt die Bewerbung samt Kommissionsverfahren.",
+      "Richtig: Die Bestgeeignete oder der Bestgeeignete erhält die Stelle.",
+      "Falsch: Eignung, Kompetenzen und Vorstellungen sind auszuführen.",
+      "Falsch: Entscheidend ist der Erfüllungsgrad der Auswahlkriterien."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Lehrkräfte bewerben sich um eine ausgeschriebene Leiterstelle und prüfen gemeinsam, welche Inhalte Ausschreibung, Bewerbung und Auswahl bestimmen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §26 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Die Kommission begutachtet, das Organ entscheidet. Stimmberechtigte und beratende Mitglieder prüfen die Bewerbungen, Gremien nehmen Stellung und ein Gutachten stuft die Eignung ein. Das Auswahlorgan bleibt frei, Bewerber haben weder Anspruch noch Parteistellung. Zum Nachlesen: LDG §26a.",
+    "hauptquelle": "LDG §26a Abs.2",
+    "id": "B28-L2-013",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Stimmberechtigt sind Bildungsdirektion, Schulaufsicht, Zentralausschuss und Gewerkschaft.",
+      "Beratend wirken unter anderem Eltern, Schülerschaft der Sekundarstufe, Erhalter und Gleichbehandlung mit.",
+      "Schulforum und Dienststellenausschuss können binnen drei Wochen Stellung nehmen.",
+      "Bewerber haben keinen Anspruch auf die Stelle und keine Parteistellung.",
+      "Das Gutachten der Kommission bindet das Auswahlorgan zwingend.",
+      "Wer die Erfordernisse nicht erfüllt, bleibt automatisch im Rennen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese vier stellen die stimmberechtigten Mitglieder.",
+      "Richtig: Schulpartner und Fachleute begleiten das Verfahren beratend.",
+      "Richtig: Beide Gremien erhalten die Bewerbungen zur Stellungnahme.",
+      "Richtig: Das Verfahren begründet weder Anspruch noch Parteirechte.",
+      "Falsch: Das zuständige Organ entscheidet frei vom Gutachten.",
+      "Falsch: Ungeeignete scheiden aus dem Verfahren aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor der Besetzung einer Leiterstelle tagt die Begutachtungskommission. Bewerber und Schulpartner wollen wissen, wer mitwirkt und wie das Verfahren läuft.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Funktion und Cluster folgen festen Regeln. Die Leitung beginnt auf fünf Jahre und kann danach unbefristet verlängert werden. Im Cluster bleiben die Schulen erhalten, Dienststelle wird der Cluster und alte Leitungen enden. Zum Nachlesen: LDG §26b und §26c.",
+    "hauptquelle": "LDG §26b Abs.1",
+    "id": "B28-L2-014",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Ihre Ernennung wirkt zunächst fünf Jahre.",
+      "Danach ist ohne neues Verfahren eine unbefristete Wiederernennung möglich.",
+      "Im Cluster bleiben die Schulen bestehen, Dienststelle ist der Cluster.",
+      "Mit der Cluster-Errichtung enden die bisherigen Leitungsfunktionen.",
+      "Leitungsfunktionen werden sofort auf Lebenszeit verliehen.",
+      "Schulfeste im Cluster dürfen beliebig an andere Cluster versetzt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Leitungsfunktionen beginnen mit einer Fünf-Jahres-Phase.",
+      "Richtig: Bewährung und Ausbildungspflicht führen zur unbefristeten Bestellung.",
+      "Richtig: Der Cluster bündelt, löst die Schulen aber nicht auf.",
+      "Richtig: Alte Leitungen laufen aus und werden bereichsweise neu geordnet.",
+      "Falsch: Zuerst gilt immer die fünfjährige Phase.",
+      "Falsch: Außerhalb des Clusters braucht es ihre Zustimmung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS",
+      "BS"
+    ],
+    "situation": "Eine neu ernannte Schulleiterin fragt nach der Dauer ihrer Funktion, gleichzeitig berät der Ort über die Zusammenfassung dreier Schulen zu einem Cluster.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §26c Abs.1",
+      "LDG §26c Abs.12"
+    ]
+  },
+  {
+    "aufloesung": "Die Schule braucht rasch eine klare Leitung. Zunächst vertritt die vorgesehene Lehrperson, nach zwei Monaten oder bei langer Vakanz folgt die förmliche Betrauung. Wer aus beachtlichen Gründen nicht vertreten kann, stellt einen Entbindungsantrag. Zum Nachlesen: LDG §27 Abs.1 bis Abs.3.",
+    "hauptquelle": "LDG §27 Abs.2",
+    "id": "B28-L2-015",
+    "level": "L2",
+    "modul_id": "B28",
+    "optionen": [
+      "Vertreten soll möglichst die von der Leitung bestimmte Lehrperson.",
+      "Nach zwei Monaten ist eine geeignete Lehrperson mit der Leitung zu betrauen.",
+      "Bei absehbar langer Verhinderung oder freier Stelle erfolgt die Betrauung sofort.",
+      "Aus berücksichtigungswürdigen Gründen kann man von der Vertretungspflicht entbunden werden.",
+      "Eine Betrauung kommt frühestens nach einem Jahr in Frage.",
+      "Jede Vertretung braucht die Zustimmung der Schülerschaft."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Vertretungswunsch der Leitung hat Vorrang.",
+      "Richtig: Ab zwei Monaten wird die Betrauung fällig.",
+      "Richtig: Lange Ausfälle und Vakanzen dulden kein Zuwarten.",
+      "Richtig: Auf Antrag ist eine Entbindung möglich.",
+      "Falsch: Sie greift schon nach zwei Monaten oder sofort.",
+      "Falsch: Eine solche Zustimmung ist nicht vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Leiter einer Berufsschule erkrankt schwer und fällt voraussichtlich ein halbes Jahr aus. Das Kollegium fragt, wer vertritt und wann eine förmliche Betrauung nötig wird.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

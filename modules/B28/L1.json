@@ -1,1 +1,427 @@
-[]
+[
+  {
+    "aufloesung": "Die Zuweisung an die Lehrerreserve ist zulässig. Jede Lehrperson wird entweder unmittelbar einer Schule oder der Lehrerreserve zugewiesen. Eine sofortige Schulzuteilung ist daher nicht zwingend. Zum Nachlesen: LDG §19 Abs.1.",
+    "hauptquelle": "LDG §19 Abs.1",
+    "id": "B28-L1-001",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Zuweisung zur Lehrerreserve ist unzulässig, Neulinge gehören immer an eine Schule.",
+      "Auer darf erst unterrichten, wenn er eine schulfeste Stelle besitzt.",
+      "Die Zuweisung ist korrekt, denn sie erfolgt entweder an eine Schule oder an die Lehrerreserve.",
+      "Die Lehrerreserve ist nur für Leiterinnen und Leiter vorgesehen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Lehrerreserve ist eine gleichwertige Zuweisungsform neben der Schule.",
+      "Falsch: Eine schulfeste Stelle ist keine Voraussetzung für den Unterrichtseinsatz.",
+      "Richtig: Schule oder Lehrerreserve sind die beiden vorgesehenen Zuweisungen.",
+      "Falsch: Die Reserve steht allen Lehrpersonen offen, nicht nur Leitungen."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Auer tritt neu in den Landesdienst ein und wird zunächst der Lehrerreserve zugewiesen statt einer bestimmten Schule. Ein Kollege behauptet, jede Lehrperson müsse immer sofort einer konkreten Schule zugeteilt werden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Berger kann jederzeit versetzt werden. Die Versetzung hebt die bisherige Zuweisung auf und weist sie einer anderen Schule oder der Lehrerreserve zu. Sie kann von Amts wegen oder auf Ansuchen erfolgen. Zum Nachlesen: LDG §19 Abs.2.",
+    "hauptquelle": "LDG §19 Abs.2",
+    "id": "B28-L1-002",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Eine Versetzung ist jederzeit möglich, von Amts wegen oder auf Ansuchen, unter Aufhebung der bisherigen Zuweisung.",
+      "Versetzungen sind nur auf Ansuchen der Lehrperson zulässig.",
+      "Versetzungen wirken nur zum Schuljahreswechsel.",
+      "Die alte Zuweisung bleibt neben der neuen bestehen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeitpunkt und Initiative sind frei, die alte Zuweisung wird aufgehoben.",
+      "Falsch: Auch eine Versetzung von Amts wegen ist möglich.",
+      "Falsch: Eine Bindung an den Schuljahreswechsel gibt es nicht.",
+      "Falsch: Die bisherige Zuweisung wird gerade aufgehoben."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Berger möchte aus familiären Gründen an eine Schule in einem Nachbarort wechseln und fragt, wann und wie eine Versetzung möglich ist. Die Direktion meint, Versetzungen gebe es nur auf eigenen Wunsch und nur zu Schuljahresbeginn.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Hofer darf so nicht versetzt werden. Auf soziale Verhältnisse und Dienstalter ist Rücksicht zu nehmen, soweit der Dienst es zulässt. Bringt die Versetzung einen wesentlichen wirtschaftlichen Nachteil und steht ein geeigneter Kollege ohne diesen Nachteil bereit, ist sie unzulässig. Zum Nachlesen: LDG §19 Abs.4.",
+    "hauptquelle": "LDG §19 Abs.4",
+    "id": "B28-L1-003",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Soziale Verhältnisse und Dienstalter spielen bei Versetzungen keine Rolle.",
+      "Die Versetzung ist unzulässig, weil sie für Hofer einen wesentlichen wirtschaftlichen Nachteil brächte und ein geeigneter Kollege ohne diesen Nachteil bereitsteht.",
+      "Wirtschaftliche Nachteile sind bei Versetzungen grundsätzlich hinzunehmen.",
+      "Nur das Dienstalter entscheidet, soziale Gründe zählen nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beide Gesichtspunkte sind ausdrücklich zu berücksichtigen.",
+      "Richtig: Wesentlicher Nachteil plus verfügbare Alternative sperrt die Versetzung.",
+      "Falsch: Wesentliche wirtschaftliche Nachteile können die Versetzung unzulässig machen.",
+      "Falsch: Soziale Verhältnisse stehen gleichwertig neben dem Dienstalter."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der erfahrene Lehrer Hofer mit Familie und Eigenheim im Ort soll an eine weit entfernte Schule versetzt werden, obwohl ein jüngerer Kollege ohne familiäre Bindung für dieselbe Stelle geeignet wäre und keinen Nachteil hätte.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Gruber hat zwei Wochen Zeit für Einwendungen. Die beabsichtigte Versetzung ist ihm schriftlich unter Angabe der neuen Verwendung mitzuteilen. Meldet er sich nicht, gilt das als Zustimmung. Zum Nachlesen: LDG §19 Abs.5.",
+    "hauptquelle": "LDG §19 Abs.5",
+    "id": "B28-L1-004",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Er muss sofort mündlich zustimmen, sonst gilt die Versetzung als abgelehnt.",
+      "Einwendungen sind nur über die Personalvertretung möglich.",
+      "Schweigen gilt automatisch als Ablehnung der Versetzung.",
+      "Er kann binnen zwei Wochen Einwendungen vorbringen, Schweigen gilt als Zustimmung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Es gilt eine schriftliche Verständigung mit zweiwöchiger Frist.",
+      "Falsch: Die Einwendungen bringt er selbst gegen die Maßnahme vor.",
+      "Falsch: Schweigen gilt gerade als Zustimmung, nicht als Ablehnung.",
+      "Richtig: Zwei Wochen Einwendungsfrist, danach zählt Schweigen als Zustimmung."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber erhält ein Schreiben, dass seine Versetzung an eine andere Schule beabsichtigt ist, samt Angabe der neuen Schule. Er fragt, was er jetzt tun kann und was passiert, wenn er gar nicht reagiert.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Wieser bleibt vorerst an ihrer Schule. Die Versetzung wird mit Bescheid verfügt und die Beschwerde dagegen wirkt aufschiebend. Nur wenn ohne sofortigen Wechsel der Unterricht zusammenbräche und den Kindern ein erheblicher Nachteil drohte, darf die Wirkung ausgeschlossen werden. Zum Nachlesen: LDG §19 Abs.6.",
+    "hauptquelle": "LDG §19 Abs.6",
+    "id": "B28-L1-005",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Beschwerde hat grundsätzlich aufschiebende Wirkung, sie bleibt daher vorerst an ihrer Schule.",
+      "Beschwerden gegen Versetzungen haben niemals aufschiebende Wirkung.",
+      "Sie muss sofort wechseln, eine Beschwerde ändert daran nichts.",
+      "Die aufschiebende Wirkung kann aus jedem beliebigen Grund ausgeschlossen werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Beschwerde schiebt die Versetzung im Regelfall auf.",
+      "Falsch: Die aufschiebende Wirkung ist der Grundsatz.",
+      "Falsch: Der Aufschub schützt sie bis zur Entscheidung.",
+      "Falsch: Der Ausschluss gelingt nur bei drohendem Unterrichtsausfall mit Kindernachteil."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Wieser wird gegen ihren Willen an eine andere Schule versetzt und will gegen den Bescheid Beschwerde erheben. Sie fragt, ob sie bis zur Entscheidung an ihrer alten Schule bleiben kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Steiner bekommt eine angemessene Übersiedlungsfrist. Wer an einen anderen Dienstort versetzt wird, muss sich in Ruhe übersiedeln können. Wie lang die Frist ist, richtet sich nach den Umständen des Einzelfalls. Zum Nachlesen: LDG §19 Abs.7.",
+    "hauptquelle": "LDG §19 Abs.7",
+    "id": "B28-L1-006",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Er muss sofort antreten, der Umzug ist reine Privatsache.",
+      "Eine Frist gibt es nur bei Versetzungen auf eigenen Wunsch.",
+      "Ihm ist für den Wechsel an den anderen Dienstort eine angemessene Übersiedlungsfrist zu gewähren.",
+      "Die Übersiedlungsfrist beträgt immer genau eine Woche."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei anderem Dienstort steht ihm eine Frist zu.",
+      "Falsch: Die Frist gilt für jede Versetzung an einen anderen Dienstort.",
+      "Richtig: Angemessen heißt am Einzelfall bemessen, nicht sofort.",
+      "Falsch: Eine starre Wochenfrist ist nicht vorgesehen."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Steiner wird an eine Schule in einem anderen Dienstort versetzt und soll dort schon in wenigen Tagen antreten, obwohl er noch eine Wohnung suchen und seinen Umzug organisieren muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Egger muss die drei Wochen übernehmen. Bei Bedarf dürfen Lehrkräfte allgemeinbildender Pflichtschulen längstens vier Wochen einer anderen Schulart zugewiesen werden, wenn keine entsprechend Befähigten verfügbar sind. Das gilt auch ohne ihre Zustimmung. Zum Nachlesen: LDG §19 Abs.8.",
+    "hauptquelle": "LDG §19 Abs.8",
+    "id": "B28-L1-007",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Jede Verwendung außerhalb der eigenen Schulart ist verboten.",
+      "Die Zuweisung ist zulässig, weil sie bei Bedarf längstens vier Wochen dauern darf.",
+      "Ohne ihre Zustimmung geht eine solche Zuweisung niemals.",
+      "Artfremde Zuweisungen sind auf eine Woche begrenzt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kurzfristige artfremde Einsätze sind ausdrücklich erlaubt.",
+      "Richtig: Bedarf plus Vier-Wochen-Grenze plus fehlende Befähigte tragen die Maßnahme.",
+      "Falsch: Bei Bedarf geht es auch ohne Zustimmung.",
+      "Falsch: Die Grenze liegt bei vier Wochen, nicht bei einer."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Volksschullehrerin Egger soll für drei Wochen an der benachbarten Mittelschule aushelfen, weil dort kurzfristig keine entsprechend ausgebildete Lehrkraft verfügbar ist. Sie lehnt ab, weil ihre Ernennung für die Volksschule gilt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Kaufmann muss das dritte Jahr nicht hinnehmen. Die Verwendung in der Lehrerreserve darf ohne Zustimmung höchstens zwei Jahre dauern. Mit seiner Zustimmung wäre eine längere Verweildauer möglich. Zum Nachlesen: LDG §19 Abs.9.",
+    "hauptquelle": "LDG §19 Abs.9",
+    "id": "B28-L1-008",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Lehrerreserve ist zeitlich unbegrenzt möglich.",
+      "Nach einem Jahr muss die Reserve jedenfalls verlassen werden.",
+      "Nur mit Zustimmung der Personalvertretung darf man länger bleiben.",
+      "Ohne seine Zustimmung darf die Verwendung in der Lehrerreserve zwei Jahre nicht überschreiten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Zustimmung endet sie nach zwei Jahren.",
+      "Falsch: Die Grenze liegt bei zwei Jahren, nicht bei einem.",
+      "Falsch: Es zählt allein seine eigene Zustimmung.",
+      "Richtig: Zwei Jahre ohne Zustimmung sind das Höchstmaß."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Kaufmann ist seit zwei Jahren der Lehrerreserve zugewiesen und soll dort gegen seinen Willen ein drittes Jahr bleiben, obwohl er gerne wieder fest an einer Schule arbeiten würde.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Tausch braucht ein Ansuchen und eine Bewilligung. Ein Diensttausch wird nur auf Ansuchen von der Dienstbehörde bewilligt. Wechseln die beiden das Bundesland, gilt das als Ernennung im neuen und Auflösung des Dienstverhältnisses im alten Land. Zum Nachlesen: LDG §20.",
+    "hauptquelle": "LDG §20",
+    "id": "B28-L1-009",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Sie brauchen ein Ansuchen und die Bewilligung der Dienstbehörde, formlose Absprachen genügen nicht.",
+      "Der Handschlag unter Kollegen ersetzt jedes Verfahren.",
+      "Ein Diensttausch kann auch von Amts wegen angeordnet werden.",
+      "Nach dem Tausch bleiben beide im Dienststand ihres alten Bundeslandes."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ansuchen plus Bewilligung machen den Tausch erst wirksam.",
+      "Falsch: Private Absprachen haben keine dienstrechtliche Wirkung.",
+      "Falsch: Der Tausch geht immer von einem Ansuchen aus.",
+      "Falsch: Das alte Dienstverhältnis wird gerade aufgelöst."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei befreundete Lehrer aus unterschiedlichen Bundesländern möchten ihre Stellen tauschen und haben das untereinander bereits fix vereinbart. Sie fragen, was für einen wirksamen Tausch noch nötig ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Moser muss dem fünfmonatigen Einsatz nicht zustimmen. Wer eine schulfeste Stelle hat, darf innerhalb eines Schuljahres nur mit eigener Zustimmung länger als drei Monate an eine andere Schule zugewiesen werden. Kürzere Vertretungen bleiben davon unberührt. Zum Nachlesen: LDG §21 Abs.4.",
+    "hauptquelle": "LDG §21 Abs.4",
+    "id": "B28-L1-010",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Schulfeste Stellen schützen nur im ersten Dienstjahr.",
+      "Die Schulleitung kann sie ohne Weiteres fünf Monate abordnen.",
+      "Länger als drei Monate im Schuljahr geht das nur mit ihrer Zustimmung.",
+      "Zustimmung ist nur bei einem Wechsel des Bundeslandes nötig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Schutz schulfester Stellen gilt unabhängig vom Dienstalter.",
+      "Falsch: Fünf Monate überschreiten die zustimmungsfreie Grenze deutlich.",
+      "Richtig: Über drei Monate hinaus entscheidet sie selbst.",
+      "Falsch: Die Grenze gilt für jede andere Schule."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Moser hat eine schulfeste Stelle an ihrer Mittelschule und soll für den Rest des Schuljahres, also fünf Monate, an einer anderen Schule eingesetzt werden. Sie möchte an ihrer Stammschule bleiben.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Pichler muss nur mit seiner Zustimmung wechseln. Vorübergehende Verwendungen in der Verwaltung, an Bundesschulen oder Pädagogischen Hochschulen setzen seine Zustimmung und eine Freistellung voraus. Ohne Zustimmung geht es nur im amtsärztlich festgestellten Krankheitsfall für den Verwaltungsdienst. Zum Nachlesen: LDG §22 Abs.1.",
+    "hauptquelle": "LDG §22 Abs.1",
+    "id": "B28-L1-011",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Abordnungen in die Verwaltung sind immer auch ohne Zustimmung möglich.",
+      "Grundsätzlich braucht es seine Zustimmung und eine Freistellung von seiner bisherigen Arbeitszeit.",
+      "Die Zustimmung der Personalvertretung ersetzt seine eigene.",
+      "Er muss zustimmen, sobald die Direktion es anordnet."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Regelfall verlangt seine Zustimmung.",
+      "Richtig: Zustimmung plus Freistellung sind die Grundvoraussetzungen.",
+      "Falsch: Die Personalvertretung kann seine Zustimmung nicht ersetzen.",
+      "Falsch: Eine Anordnung ersetzt seine Zustimmung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Pichler soll für ein halbes Jahr an die Bildungsdirektion abgeordnet werden, um dort in der Verwaltung mitzuarbeiten. Er möchte eigentlich weiter unterrichten und fragt, ob das ohne seine Zustimmung geht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bergers Bestellung läuft zunächst fünf Jahre. Ernennungen auf Leitungsfunktionen sind zuerst auf fünf Jahre befristet. Bewährt sie sich und erfüllt sie ihre Ausbildungspflicht, kann sie danach ohne neues Bewerbungsverfahren unbefristet wiederernannt werden. Zum Nachlesen: LDG §26b Abs.1 und Abs.3.",
+    "hauptquelle": "LDG §26b Abs.1",
+    "id": "B28-L1-012",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Ernennung gilt sofort auf unbestimmte Zeit.",
+      "Leitungsfunktionen werden immer nur für ein Jahr vergeben.",
+      "Eine Wiederbestellung ist grundsätzlich ausgeschlossen.",
+      "Die Ernennung wirkt zunächst fünf Jahre, eine neuerliche Ernennung ist dann unbefristet möglich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Unbefristet wird es erst mit der Wiederernennung.",
+      "Falsch: Die erste Phase dauert fünf Jahre, nicht eines.",
+      "Falsch: Die Wiederernennung ist ausdrücklich vorgesehen.",
+      "Richtig: Fünf Jahre zuerst, danach unbefristet bei Bewährung."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Berger wurde neu zur Leiterin einer Mittelschule ernannt und fragt, wie lange ihre Bestellung gilt. Eine Kollegin meint, Leitungsfunktionen würden sofort unbefristet verliehen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Brunner kann sich noch nicht durchsetzen. Für die Auswahl braucht es neben den Ernennungserfordernissen mindestens fünf Jahre erfolgreiche Lehrpraxis und den erfolgreich abgeschlossenen ersten Teil der Leitungsausbildung. Erst dann zählt, wer die Auswahlkriterien am besten erfüllt. Zum Nachlesen: LDG §26 Abs.6.",
+    "hauptquelle": "LDG §26 Abs.6",
+    "id": "B28-L1-013",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Er braucht unter anderem fünf Jahre erfolgreiche Lehrpraxis und den ersten Teil der Leitungsausbildung.",
+      "Zwei Jahre Praxis genügen für jede Leitungsbewerbung.",
+      "Eine Leitungsausbildung ist niemals erforderlich.",
+      "Es zählt allein das Dienstalter, Praxis und Ausbildung sind egal."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fünf Jahre Praxis plus Ausbildungsanteil sind Auswahlvoraussetzung.",
+      "Falsch: Zwei Jahre erreichen die Mindestpraxis nicht.",
+      "Falsch: Der erste Ausbildungsteil ist ausdrücklich verlangt.",
+      "Falsch: Es zählt der Erfüllungsgrad der Kriterien, nicht das Alter."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner unterrichtet seit zwei Jahren und bewirbt sich um eine frei gewordene Leiterstelle an seiner Schule. Er fragt, welche Voraussetzungen er für die Auswahl erfüllen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Fiala leitet den ganzen Cluster. Die Cluster-Leitung ist eine Leitungsfunktion und umfasst den Cluster in pädagogischer, rechtlich-organisatorischer, personeller und wirtschaftlicher Hinsicht. Die einzelnen Schulen bleiben bestehen, Dienststelle ist aber der Cluster. Zum Nachlesen: LDG §26d Abs.1 und Abs.4.",
+    "hauptquelle": "LDG §26d Abs.4",
+    "id": "B28-L1-014",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Sie leitet nur ihre bisherige Stammschule wie zuvor.",
+      "Der Cluster löst die einzelnen Schulen rechtlich auf.",
+      "Sie leitet den gesamten Cluster in pädagogischer, administrativer, personeller und wirtschaftlicher Hinsicht.",
+      "Für Personalfragen bleibt allein die Bildungsdirektion zuständig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ihre Leitung erstreckt sich auf alle Clusterschulen.",
+      "Falsch: Die Schulen bleiben im schulrechtlichen Sinn bestehen.",
+      "Richtig: Alle vier Leitungsbereiche gehören zu ihrer Aufgabe.",
+      "Falsch: Auch personelle Leitung liegt bei der Cluster-Leitung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS",
+      "BS"
+    ],
+    "situation": "Lehrerin Fiala wird zur Leiterin eines neu gebildeten Schulclusters aus drei Pflichtschulen bestellt und fragt, was genau zu ihrer Leitungsaufgabe gehört.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Frau Hofer darf nicht ohne Weiteres Direktorin ihres Mannes werden. Nahe Angehörige dürfen an derselben Schule nicht in einem Über- und Unterordnungsverhältnis verwendet werden. Eine Ausnahme kann die Behörde nur bei besonderen Gründen genehmigen und muss sie an der Amtstafel veröffentlichen. Zum Nachlesen: LDG §28 Abs.1 und Abs.2.",
+    "hauptquelle": "LDG §28 Abs.1",
+    "id": "B28-L1-015",
+    "level": "L1",
+    "modul_id": "B28",
+    "optionen": [
+      "Verwandtschaft spielt im Schuldienst keine Rolle.",
+      "Nur Eheleute sind ausgenommen, alle anderen Verwandten dürfen.",
+      "Es genügt, wenn beide versprechen, Dienstliches und Privates zu trennen.",
+      "Das ist grundsätzlich unzulässig, eine Ausnahme braucht eine Genehmigung der Behörde."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nahe Angehörige sind von Über- und Unterordnung ausgeschlossen.",
+      "Falsch: Auch Verschwägerte und Wahlkinder fallen unter das Verbot.",
+      "Falsch: Ein Versprechen ersetzt die behördliche Genehmigung nicht.",
+      "Richtig: Verbot mit Genehmigungsvorbehalt bei besonderen Gründen."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Volksschule soll die Frau des dort unterrichtenden Lehrers Hofer neue Direktorin werden. Hofer fände das praktisch, das Kollegium fragt, ob Eheleute in einem Über- und Unterordnungsverhältnis an derselben Schule arbeiten dürfen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
