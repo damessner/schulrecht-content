@@ -1,1 +1,265 @@
-[]
+[
+  {
+    "aufloesung": "Mairs Aushang stellt die Kinder bloß und verletzt den Schutz ihrer Daten. Leistungen werden nur den jeweils Berechtigten mitgeteilt, im Einzelgespräch statt am Brett. Transparenz rechtfertigt keine öffentliche Notenliste. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "C37-L4-001",
+    "level": "L4",
+    "modul_id": "C37",
+    "optionen": [
+      "Aushang und lautes Verlesen sind zulässig, weil Transparenz über Noten geht.",
+      "Mair muss Aushang und Verlesung unterlassen und Leistungen nur den jeweils Berechtigten diskret mitteilen.",
+      "Solange die Liste nur im Schulhaus hängt, ist der Aushang in Ordnung.",
+      "Förderbedarfe dürfen laut verlesen werden, nur Ziffernnoten sind geschützt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Transparenz rechtfertigt keine Bloßstellung am Brett.",
+      "Richtig: Diskrete Mitteilung an Berechtigte schützt alle.",
+      "Falsch: Auch der schulinterne Aushang stellt Daten bloß.",
+      "Falsch: Förderbedarfe sind besonders sensibel und nie zum Verlesen da."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor der Zeugniskonferenz hängt Klassenvorstand Mair die Notenliste aller Schülerinnen und Schüler ans schwarze Brett im Gang, damit sich jede Familie in Ruhe informieren kann. Zusätzlich verliest er in der Klasse laut die Noten samt Förderbedarfen. Eine Mutter beschwert sich über die Bloßstellung ihrer Tochter.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §20 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Oberhofers Chat-Foto geht über sein Einsichtsrecht hinaus und stellt fremde Kinder bloß. Einsicht heißt ansehen für den eigenen Zweck, nicht verteilen, fremde Anteile werden abgedeckt. Die Schule wirkt auf Löschung hin und klärt über den richtigen Umgang auf. Zum Nachlesen: DSGVO Art. 15.",
+    "hauptquelle": "DSGVO Art. 15",
+    "id": "C37-L4-002",
+    "level": "L4",
+    "modul_id": "C37",
+    "optionen": [
+      "Was man zur Einsicht erhält, darf man beliebig in Chats weiterverbreiten.",
+      "Einsicht gilt nur für die eigenen Daten, fremde Bemerkungen bleiben abgedeckt und gehören nicht in den Chat.",
+      "In einer geschlossenen Elterngruppe ist jede Weiterverbreitung zulässig.",
+      "Die Schule muss nichts unternehmen, weil der Vater privat handelt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einsicht ist Ansehen für den eigenen Zweck, nicht Verteilen.",
+      "Richtig: Eigene Daten ja, fremde Anteile abdecken und aus Chats heraushalten.",
+      "Falsch: Geschlossenheit der Gruppe macht Unbefugte nicht zu Berechtigten.",
+      "Falsch: Die Schule wirkt auf Löschung hin und belehrt über den Zweck."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Vater Oberhofer fotografiert die korrigierte Schularbeit seines Sohnes, auf der auch Randbemerkungen über zwei Mitschüler stehen, und stellt das Bild in die Klassenchatgruppe. Die Lehrerin hatte die Arbeit nur ihm zur Einsicht gegeben. Die betroffenen Familien verlangen die Löschung des Bildes.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §20 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Brunners Chat-Weitergabe verletzt die Vertraulichkeit des Verfahrens und stellt den Schüler bloß. Disziplinarunterlagen erhalten nur Berechtigte auf dem Dienstweg, Warnungen laufen über die Direktion ohne Namen. Wahrheit macht die Bloßstellung nicht zulässig. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L4-003",
+    "level": "L4",
+    "modul_id": "C37",
+    "optionen": [
+      "Warnung der Allgemeinheit rechtfertigt die Weitergabe des Protokolls mit Namen.",
+      "Verfahrensunterlagen bleiben vertraulich und gehen nur an Berechtigte auf dem Dienstweg.",
+      "In geschlossenen Gruppen dürfen Protokolle mit Namen geteilt werden.",
+      "Solange der Vorfall stimmt, ist die Bloßstellung zulässig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Warnungen laufen über die Direktion, ohne Namen zu nennen.",
+      "Richtig: Begrenzter Empfängerkreis auf dem Dienstweg schützt das Verfahren.",
+      "Falsch: Geschlossenheit heilt die unbefugte Weitergabe nicht.",
+      "Falsch: Wahrheit macht die Bloßstellung nicht zulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner stellt einen Auszug aus dem Protokoll der Disziplinarkonferenz mit vollem Namen des betroffenen Schülers in die Klassenchatgruppe, damit alle Eltern Bescheid wissen. Die Familie des Buben erfährt davon erst durch Screenshots anderer Eltern.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §47 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Unterbergers Wertungen und Ferndiagnosen haben im Akt nichts verloren und gefährden ein faires Verfahren. Zählen tun sachliche Vorfälle mit Datum, Berichtigungen bleiben nachvollziehbar. Diagnosen stellen Fachleute, nicht das Bauchgefühl. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "C37-L4-004",
+    "level": "L4",
+    "modul_id": "C37",
+    "optionen": [
+      "Charakterurteile und Krankheitsvermutungen gehören als erfahrene Einschätzung in den Akt.",
+      "Dokumentiert wird sachlich, zeitnah und datiert, ohne Wertung und ohne eigene Diagnosen.",
+      "Nachträgliches Glätten und Umschreiben der Einträge ist zulässig, damit der Akt sauber wirkt.",
+      "Je mehr Vermutungen im Akt stehen, desto besser für das Verfahren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erfahrung ersetzt keine Tatsachen und keine Fachdiagnose.",
+      "Richtig: Sachlichkeit mit Datum sichert ein faires Verfahren.",
+      "Falsch: Heimliches Umschreiben verfälscht die Akte.",
+      "Falsch: Vermutungen verzerren das Bild statt es zu klären."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für ein drohendes Disziplinarverfahren hält Lehrer Unterberger seine Beobachtungen fest. Statt konkreter Vorfälle mit Datum schreibt er Charakterurteile und Krankheitsvermutungen in den Akt, etwa faul, aggressiver Charakter und vermutlich krankhaft auffällig. Auf Nachfrage meint er, seine Erfahrung reiche als Beleg.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §48 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Zulässig ist nur, was diskret und sparsam beim Berechtigten landet. Aushang, Verlesung und Chat-Fotos stellen bloß, Einzelgespräch, abgedeckte Einsicht und gezielte Übergabe schützen. Beurteilung braucht Fairness, Datenschutz schützt die Würde. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "C37-L4-005",
+    "level": "L4",
+    "modul_id": "C37",
+    "optionen": [
+      "Notenlisten am Brett aushängen, damit alle Bescheid wissen.",
+      "Noten samt Förderbedarfen laut in der Klasse verlesen.",
+      "Leistungen nur den jeweils Berechtigten diskret mitteilen, etwa im Einzelgespräch.",
+      "Korrigierte Arbeiten mit fremden Bemerkungen als Foto in den Chat stellen.",
+      "Der betroffenen Person Einsicht in die eigene Arbeit gewähren, Fremdes abdecken.",
+      "An den Nachfolger nur das für Förderung und Unterricht Erforderliche weitergeben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Öffentliche Listen brechen die Vertraulichkeit.",
+      "Falsch: Lautes Verlesen stellt bloß statt zu informieren.",
+      "Richtig: Diskrete Mitteilung an Berechtigte wahrt den Schutz.",
+      "Falsch: Chat-Fotos verteilen Fremdes an Unbefugte.",
+      "Richtig: Eigene Arbeiten darf man selbst sehen, Fremdes bleibt abgedeckt.",
+      "Richtig: Erforderlichkeit begrenzt die Übergabe an Nachfolger."
+    ],
+    "richtig": [
+      2,
+      4,
+      5
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zum Semesterende prüft das Kollegium sechs Beurteilungsgewohnheiten: Aushang, Verlesung, Chat-Foto, Einzelgespräch, Einsicht und Weitergabe an den Nachfolger. Manche klingen praktisch, andere stellen Kinder bloß. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §20 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Informiert werden nur Berechtigte auf dem Dienstweg und die Eltern zum eigenen Kind, vertraulich und aufs Nötige beschränkt. Presse, Chat und Betriebe gehen leer aus, Namen bleiben außen vor. Ordnung wahren heißt nicht bloßstellen. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L4-006",
+    "level": "L4",
+    "modul_id": "C37",
+    "optionen": [
+      "Das Nötige der Direktion und über den Dienstweg der zuständigen Stelle melden.",
+      "Die Erziehungsberechtigten des betroffenen Kindes sachlich informieren.",
+      "Den Vorfall mit vollem Namen an die Lokalzeitung geben.",
+      "Protokollauszüge mit Namen in die Klassenchatgruppe stellen.",
+      "Das Fördergutachten ungefragt an den künftigen Lehrbetrieb schicken.",
+      "Verfahrensunterlagen vertraulich behandeln und auf das für das Verfahren Nötige beschränken."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Meldung auf dem Dienstweg sichert das Verfahren.",
+      "Richtig: Eltern erfahren zum eigenen Kind das Nötige.",
+      "Falsch: Presse ist kein Empfänger von Verfahrensunterlagen.",
+      "Falsch: Chats machen Unbefugte nicht zu Berechtigten.",
+      "Falsch: Ohne Vollmacht wandert kein Gutachten an Betriebe.",
+      "Richtig: Vertraulichkeit und Sparsamkeit schützen alle Beteiligten."
+    ],
+    "richtig": [
+      0,
+      1,
+      5
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem groben Verstoß gegen die Schulordnung liegen sechs Informationswege auf dem Tisch: Direktion, Eltern des eigenen Kindes, Zeitung, Chatgruppe, Lehrbetrieb und vertrauliche Verfahrensakte. Die Direktion sortiert, was zulässig ist. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §47 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Eine faire Verfahrensakte ist zeitnah, sachlich, datiert und nachvollziehbar berichtigbar. Wertungen, Ferndiagnosen, Vorratssammlung und heimliches Umschreiben verfälschen das Bild und verletzen Rechte. Was falsch ist, wird offen richtiggestellt. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "C37-L4-007",
+    "level": "L4",
+    "modul_id": "C37",
+    "optionen": [
+      "Vorfälle zeitnah, sachlich und mit Datum festhalten.",
+      "Eigene Krankheitsvermutungen und Charakterurteile in den Akt schreiben.",
+      "Berichtigungen so vornehmen, dass das Ursprüngliche erkennbar bleibt.",
+      "Einträge nachträglich stillschweigend umschreiben und glätten.",
+      "Unrichtiges auf Hinweis richtigstellen.",
+      "Gesundheitsdetails aller Beteiligten auf Vorrat sammeln."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeitnähe und Sachlichkeit sichern Richtigkeit.",
+      "Falsch: Diagnosen stellen nur Fachleute.",
+      "Richtig: Nachvollziehbarkeit erhält Vertrauen.",
+      "Falsch: Heimliches Umschreiben verfälscht die Akte.",
+      "Richtig: Richtigstellung ist ein eigenes Recht Betroffener.",
+      "Falsch: Vorratssammlung ohne Zweck ist verboten."
+    ],
+    "richtig": [
+      0,
+      2,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für ein laufendes Verfahren ordnet die Direktion die Unterlagen. Sechs Regeln stehen zur Wahl, von zeitnah bis frisiert. Nur manche sichern ein faires Verfahren. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §48 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Abschreckung rechtfertigt keine Bloßstellung. Noten und Verweise gehören nur an Berechtigte, diskret und ohne Publikum. Wer aushängt, verletzt den Datenschutz und beschädigt das Erziehungsverhältnis. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "C37-L4-008",
+    "level": "L4",
+    "modul_id": "C37",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Abschreckung macht aus Unbefugten keine Berechtigten.",
+      "Richtig erkannt: Diskretion schützt Würde und Verfahren, Aushang verletzt beides."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, zur Abschreckung dürfe man die Notenliste und den Verweis eines Schülers mit vollem Namen am schwarzen Brett aushängen, weil alle daraus lernen.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "SchUG §47 Abs.1"
+    ]
+  }
+]
