@@ -1,1 +1,563 @@
-[]
+[
+  {
+    "aufloesung": "Die Ferien-Checkliste des Leiters lautet Anwesenheit zu Beginn und Ende, Sorge für unaufschiebbare Geschäfte und geordnete Rückberufung. Der Leiter ist die ersten und letzten drei Werktage der Hauptferien am Dienstort anwesend und zieht Lehrer nur maßvoll heran. Zum Nachlesen: LDG §56 Abs.3.",
+    "hauptquelle": "LDG §56 Abs.3",
+    "id": "B27-L2-001",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Die ersten drei Werktage der Hauptferien am Dienstort anwesend sein.",
+      "Die letzten drei Werktage der Hauptferien am Dienstort anwesend sein.",
+      "Für unaufschiebbare Leitungsgeschäfte während der Ferien sorgen.",
+      "Zugewiesene Lehrer nur maßvoll und unter Rücksicht auf berechtigte Wünsche heranziehen.",
+      "Die Schule in den ganzen Ferien zusperren und niemanden erreichen lassen.",
+      "Lehrer ohne jeden Anlass für alle Ferienwochen zum Dienst einteilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Anwesenheit zu Ferienbeginn sichert die Übergabe.",
+      "Richtig: Die Anwesenheit zu Ferienende sichert den Schulstart.",
+      "Richtig: Unaufschiebbare Geschäfte müssen auch in den Ferien laufen.",
+      "Richtig: Heranziehung nur in möglichst gleichem Maß und rücksichtsvoll.",
+      "Falsch: Völliges Zusperren verletzt die Sorgepflicht für laufende Geschäfte.",
+      "Falsch: Eine Einteilung ohne Anlass widerspricht der Beurlaubung in den Ferien."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein neuer Schulleiter erstellt eine Ferien-Checkliste für seine eigene Anwesenheit und den Einsatz des Kollegiums im Sommer. Er will wissen, was zu Beginn und Ende der Hauptferien sowie für unaufschiebbare Geschäfte gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Sonderurlaub wird nur auf Ansuchen und nach Prüfung von Anlass, Diensterfordernissen und Dauer gewährt. Wichtige persönliche oder familiäre Gründe, Fortbildung oder ein besonderer Anlass tragen den Antrag, zwingende Diensterfordernisse und Übermaß verhindern ihn. Zum Nachlesen: LDG §57 Abs.1.",
+    "hauptquelle": "LDG §57 Abs.1",
+    "id": "B27-L2-002",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Der Sonderurlaub setzt ein Ansuchen der Lehrperson voraus.",
+      "Als Anlass kommen wichtige persönliche oder familiäre Gründe in Frage.",
+      "Als Anlass kommen Fortbildung oder ein sonstiger besonderer Anlass in Frage.",
+      "Zwingende dienstliche Erfordernisse dürfen der Gewährung nicht entgegenstehen.",
+      "Sonderurlaub wird automatisch ohne jedes Ansuchen gewährt.",
+      "Allein ein privater Urlaubswunsch ohne besonderen Anlass genügt immer."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Ansuchen gibt es keinen Sonderurlaub.",
+      "Richtig: Persönliche und familiäre Gründe sind eigene Antragsgründe.",
+      "Richtig: Fortbildung und besondere Anlässe tragen den Antrag ebenfalls.",
+      "Richtig: Zwingende Diensterfordernisse blockieren die Gewährung.",
+      "Falsch: Ein Ansuchen ist zwingende Voraussetzung.",
+      "Falsch: Es braucht einen besonderen Anlass, nicht nur einen Wunsch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin bittet für einen Fortbildungskurs und eine Familienfeier um mehrere Tage Sonderurlaub, genau in der Woche der Notenkonferenzen. Die Direktion legt eine Checkliste an, was sie vor der Entscheidung alles prüfen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Sonderurlaub ist bezahlt, aber zeitlich klar begrenzt. Die vollen Bezüge bleiben erhalten, die Dauer muss dem Anlass angemessen sein und darf zwölf Wochen pro Kalenderjahr nicht übersteigen. Zum Nachlesen: LDG §57 Abs.4.",
+    "hauptquelle": "LDG §57 Abs.4",
+    "id": "B27-L2-003",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Während des Sonderurlaubs bleiben die vollen Bezüge erhalten.",
+      "Die Dauer darf die dem Anlass angemessene Zeit nicht übersteigen.",
+      "Alle Sonderurlaube eines Kalenderjahres dürfen höchstens zwölf Wochen regelmäßige Dienstzeit ausmachen.",
+      "Zum Erwerb von Kenntnissen im Bereich Informations- und Kommunikationstechnologien sind bis zu drei Monate möglich.",
+      "Während des Sonderurlaubs entfallen die Bezüge zur Gänze.",
+      "Sonderurlaub ist pro Jahr unbegrenzt möglich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sonderurlaub ist eine bezahlte Freistellung.",
+      "Richtig: Übermaß über den Anlass hinaus ist unzulässig.",
+      "Richtig: Die Zwölf-Wochen-Grenze fasst alle Sonderurlaube des Jahres zusammen.",
+      "Richtig: Für diesen Fortbildungszweck sieht das Gesetz bis zu drei Monate vor.",
+      "Falsch: Der Bezugsentfall kennzeichnet den Karenzurlaub, nicht den Sonderurlaub.",
+      "Falsch: Die jährliche Höchstgrenze ist ausdrücklich festgelegt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer sammelt in einem Jahr mehrere bewilligte Sonderurlaube für Fortbildungen und Familienanlässe und stellt einen weiteren Antrag für einen Computerkurs. Die Direktion prüft Bezüge, Angemessenheit der Dauer und die Jahresgrenze.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §57 Abs.1a",
+      "LDG §57 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Pflegefreistellung greift bei nachweislicher Verhinderung aus drei genau umschriebenen Gründen. Notwendige Pflege naher Angehöriger, Betreuung des Kindes bei Ausfall der Betreuungsperson und Begleitung eines kleinen Kindes ins Krankenhaus lösen den Anspruch aus. Zum Nachlesen: LDG §59 Abs.1.",
+    "hauptquelle": "LDG §59 Abs.1",
+    "id": "B27-L2-004",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Notwendige Pflege einer erkrankten nahen angehörigen Person.",
+      "Notwendige Pflege einer im gemeinsamen Haushalt lebenden erkrankten Person.",
+      "Notwendige Betreuung des Kindes, wenn die ständige Betreuungsperson ausfällt.",
+      "Begleitung des erkrankten Kindes unter zehn Jahren bei einem stationären Krankenhausaufenthalt.",
+      "Jeder private Erledigungswunsch ohne Krankheits- oder Pflegebezug.",
+      "Ein geplanter Familienausflug bei bester Gesundheit aller Beteiligten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die notwendige Pflege naher Angehöriger ist der Hauptfall.",
+      "Richtig: Auch Haushaltsangehörige ohne Verwandtschaft fallen darunter.",
+      "Richtig: Der Ausfall der Betreuungsperson beim Kind zählt ebenfalls.",
+      "Richtig: Die Begleitung kleiner Kinder ins Krankenhaus ist eigens genannt.",
+      "Falsch: Ohne Pflege- oder Betreuungsanlass gibt es keine Pflegefreistellung.",
+      "Falsch: Reine Freizeitwünsche lösen keinen Anspruch aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Lehrkräfte brauchen kurzfristig frei: eine pflegt ihren verunglückten Vater, eine betreut ihr Kind weil die Tagesmutter erkrankt ist, eine begleitet ihre siebenjährige Tochter ins Krankenhaus. Die Direktion prüft, welche Anlässe den Anspruch tragen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Zum geschützten Personenkreis gehören Partner, enge Verwandte und Haushaltskinder. Ehegatte, Verwandte in gerader Linie, Geschwister, Stief-, Wahl- und Pflegekinder sowie die Person in Lebensgemeinschaft sind nahe Angehörige. Zum Nachlesen: LDG §59 Abs.2.",
+    "hauptquelle": "LDG §59 Abs.2",
+    "id": "B27-L2-005",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Der Ehegatte gehört zu den nahen Angehörigen.",
+      "Eltern und Kinder als Verwandte in gerader Linie gehören dazu.",
+      "Geschwister sowie Stief-, Wahl- und Pflegekinder gehören dazu.",
+      "Die Person, mit der der Lehrer in Lebensgemeinschaft lebt, gehört dazu.",
+      "Entfernte Bekannte ohne Verwandtschaft oder Haushalt gehören dazu.",
+      "Der Nachbar ohne jedes Verwandtschafts- oder Haushaltsverhältnis gehört dazu."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Ehegatte ist ausdrücklich genannt.",
+      "Richtig: Verwandtschaft in gerader Linie zählt zum Kernbereich.",
+      "Richtig: Geschwister und alle Arten von Kindern sind eingeschlossen.",
+      "Richtig: Auch die Lebensgefährtin oder der Lebensgefährte zählt dazu.",
+      "Falsch: Ohne Angehörigeneigenschaft oder Haushalt greift der Anspruch nicht.",
+      "Falsch: Reine Nachbarschaft ohne Pflegebezug genügt nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin will nacheinander ihren Ehemann, ihre Mutter, ihren Bruder und ihren Lebensgefährten pflegen und fragt für jede Person, ob sie als nahe angehörige Person gilt. Für einen erkrankten Nachbarn fragt sie gleich mit.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Pflegefreistellung ist pro Schuljahr gedeckelt und stundenweise zu verbrauchen. An allgemein bildenden Pflichtschulen gilt der sechsunddreißigste Teil der Jahresstunden als Höchstmaß, der Verbrauch erfolgt in vollen Unterrichtsstunden. Zum Nachlesen: LDG §59 Abs.3.",
+    "hauptquelle": "LDG §59 Abs.3",
+    "id": "B27-L2-006",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Das Höchstausmaß gilt je Schuljahr, nicht je Monat.",
+      "An allgemein bildenden Pflichtschulen beträgt die Grenze den sechsunddreißigsten Teil der Jahresstunden.",
+      "Die Freistellung ist in vollen Unterrichtsstunden zu verbrauchen.",
+      "Ändert sich das Stundenausmaß im Schuljahr, ist bereits Verbrauchtes entsprechend umzurechnen.",
+      "Das Höchstausmaß gilt lebenslang nur ein einziges Mal.",
+      "Angefangene Stunden dürfen beliebig kleinteilig in Minuten abgerechnet werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgerechnet wird schuljahrweise.",
+      "Richtig: Der sechsunddreißigste Teil der Jahresstunden ist die Grenze.",
+      "Richtig: Kleinteiliger als volle Unterrichtsstunden geht es nicht.",
+      "Richtig: Bei Stundenänderung wird der Verbrauch anteilig umgerechnet.",
+      "Falsch: Die Grenze erneuert sich jedes Schuljahr.",
+      "Falsch: Verbraucht wird in vollen Unterrichtsstunden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Ein Volksschullehrer hat im laufenden Schuljahr schon viele Pflegestunden verbraucht, dann ändert sich sein Stundenausmaß. Er fragt, für welchen Zeitraum die Grenze gilt und wie kleinteilig er die Freistellung nehmen darf.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §59 Abs.8",
+      "LDG §59 Abs.9"
+    ]
+  },
+  {
+    "aufloesung": "Nach Verbrauch der ersten Freistellung gibt es für kleine oder besonders betreuungsbedürftige Kinder eine zweite im gleichen Ausmaß. Das Kind muss im gemeinsamen Haushalt leben und entweder unter zwölf sein oder erhöhte Familienbeihilfe beziehen. Zum Nachlesen: LDG §59 Abs.4.",
+    "hauptquelle": "LDG §59 Abs.4",
+    "id": "B27-L2-007",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Der Anspruch auf die erste Pflegefreistellung muss bereits verbraucht sein.",
+      "Gepflegt wird das im gemeinsamen Haushalt lebende erkrankte Kind.",
+      "Das Kind hat das zwölfte Lebensjahr noch nicht überschritten.",
+      "Alternativ wird für das Kind erhöhte Familienbeihilfe gewährt.",
+      "Die zweite Freistellung gibt es für jede beliebige erwachsene Person.",
+      "Die zweite Freistellung ist doppelt so hoch wie die erste."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst nach Verbrauch der ersten Freistellung greift die zweite.",
+      "Richtig: Der gemeinsame Haushalt mit dem Kind ist Voraussetzung.",
+      "Richtig: Die Altersgrenze liegt bei zwölf Jahren.",
+      "Richtig: Erhöhte Familienbeihilfe ersetzt die Altersgrenze.",
+      "Falsch: Die Erweiterung gilt nur für die genannten Kinder, nicht allgemein.",
+      "Falsch: Sie besteht bis zum gleichen Höchstausmaß, nicht doppelt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin hat ihre Pflegefreistellung für dieses Schuljahr schon aufgebraucht, nun erkrankt ihre neunjährige Tochter erneut. Sie lebt mit dem Kind im gemeinsamen Haushalt. Die Direktion prüft die Voraussetzungen für eine weitere Freistellung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Karenzurlaub ist ein unbezahlter Urlaub auf Antrag und kein Anspruch gegen zwingende Diensterfordernisse. Er wird unter Entfall der Bezüge gewährt, solange keine zwingenden dienstlichen Gründe entgegenstehen. Zum Nachlesen: LDG §58 Abs.1.",
+    "hauptquelle": "LDG §58 Abs.1",
+    "id": "B27-L2-008",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Der Karenzurlaub setzt einen Antrag der Lehrperson voraus.",
+      "Während des Karenzurlaubs entfallen die Bezüge.",
+      "Zwingende dienstliche Gründe dürfen der Gewährung nicht entgegenstehen.",
+      "Der Karenzurlaub ist unbezahlte Auszeit, kein bezahlter Sonderurlaub.",
+      "Karenzurlaub wird automatisch ohne Antrag gewährt.",
+      "Während des Karenzurlaubs laufen die vollen Bezüge weiter."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Antrag gibt es keinen Karenzurlaub.",
+      "Richtig: Der Bezugsentfall ist das Wesen des Karenzurlaubs.",
+      "Richtig: Zwingende Diensterfordernisse blockieren die Gewährung.",
+      "Richtig: Genau diese Unbezahltkeit unterscheidet ihn vom Sonderurlaub.",
+      "Falsch: Ein Antrag ist zwingende Voraussetzung.",
+      "Falsch: Volle Bezüge gibt es beim Sonderurlaub, nicht hier."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer beantragt ein halbes Jahr unbezahlte Auszeit für ein privates Projekt. Die Direktion legt eine Checkliste an und prüft Antrag, Bezugsfolgen und mögliche dienstliche Gegengründe.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Spätestens nach zehn Jahren Gesamtdauer endet jeder Karenzurlaub, nur wenige Fälle sind ausgenommen. Kinderbetreuung bis zur Schulpflicht, Karenz mit Rechtsanspruch und kraft Gesetzes eintretende Karenz zählen nicht in die Grenze. Zum Nachlesen: LDG §58 Abs.3.",
+    "hauptquelle": "LDG §58 Abs.3",
+    "id": "B27-L2-009",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Frühere Karenzurlaube und Freistellungen werden für die Gesamtdauer zusammengerechnet.",
+      "Spätestens bei zehn Jahren Gesamtdauer endet der Karenzurlaub.",
+      "Kinderbetreuungs-Karenz bis zum Beginn der Schulpflicht des Kindes ist von der Grenze ausgenommen.",
+      "Karenz mit Rechtsanspruch oder kraft Gesetzes ist von der Grenze ausgenommen.",
+      "Jeder Karenzurlaub endet automatisch nach genau einem Jahr.",
+      "Frühere Karenzurlaube werden nie zusammengerechnet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Zehnjahresgrenze rechnet alle früheren Zeiten zusammen.",
+      "Richtig: Zehn Jahre sind die absolute Gesamtobergrenze.",
+      "Richtig: Betreuung kleiner Kinder bis zur Schulpflicht bleibt außen vor.",
+      "Richtig: Anspruchs- und Gesetzeskarenz fallen ebenfalls heraus.",
+      "Falsch: Eine starre Einjahresgrenze kennt das Gesetz nicht.",
+      "Falsch: Zusammenrechnung ist gerade der Sinn der Gesamtgrenze."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin war schon mehrfach in Karenzurlaub, teils zur Betreuung ihres kleinen Kindes, und beantragt eine weitere mehrjährige Freistellung. Die Dienstbehörde prüft mit einer Checkliste, welche Zeiten in die Gesamtgrenze fallen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Wer länger als ein halbes Jahr in Karenz geht, verliert die Bindung an seinen Arbeitsplatz. Mit Antritt eines sechs Monate übersteigenden Karenzurlaubs ist die Abberufung vom Arbeitsplatz verbunden, frühere Zeiten aus den letzten zwölf Monaten zählen mit. Zum Nachlesen: LDG §58b Abs.1.",
+    "hauptquelle": "LDG §58b Abs.1",
+    "id": "B27-L2-010",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Mit Antritt eines sechs Monate übersteigenden Karenzurlaubs ist die Abberufung vom Arbeitsplatz verbunden.",
+      "Karenzzeiten aus den letzten zwölf Monaten vor Antritt werden für die Sechsmonatsfrist zusammengerechnet.",
+      "Nach Karenz nach dem Mutterschutz- oder Väterkarenzgesetz darf der alte Arbeitsplatz nicht dauerhaft nachbesetzt werden.",
+      "Nach solcher Karenz besteht ein Rückkehrrecht an die bisherige Schule.",
+      "Jeder Kurzurlaub von zwei Wochen löst sofort die Abberufung aus.",
+      "Nach der Karenz gibt es keinerlei Rückkehrrecht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Sechsmonatsgrenze löst die Abberufung vom Arbeitsplatz aus.",
+      "Richtig: Gestückelte Zeiten aus dem Vorjahr zählen für die Frist mit.",
+      "Richtig: Der alte Arbeitsplatz bleibt bei Elternkarenz geschützt.",
+      "Richtig: Die Rückkehr an die bisherige Schule ist gesichert.",
+      "Falsch: Erst über sechs Monate greift die Abberufung.",
+      "Falsch: Das Rückkehrrecht an die bisherige Schule besteht ausdrücklich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer plant einen achtmonatigen Karenzurlaub und war im vergangenen halben Jahr schon einmal zwei Monate in Karenz. Eine Kollegin kehrt aus der Elternkarenz zurück und fragt nach ihrem alten Arbeitsplatz. Die Direktion prüft beide Fälle.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58b Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Pflegekarenz für ein behindertes Kind setzt erhöhte Familienbeihilfe und volle Beanspruchung voraus. Sie dauert längstens bis zum vierzigsten Geburtstag des Kindes, lange Anträge sind zwei Monate vorher zu stellen, der Wegfall ist binnen zwei Wochen zu melden. Zum Nachlesen: LDG §58c Abs.1.",
+    "hauptquelle": "LDG §58c Abs.1",
+    "id": "B27-L2-011",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Für das behinderte Kind im gemeinsamen Haushalt wird erhöhte Familienbeihilfe gewährt.",
+      "Die Arbeitskraft ist durch die Pflege gänzlich beansprucht.",
+      "Die Karenz dauert längstens bis zur Vollendung des vierzigsten Lebensjahres des Kindes.",
+      "Bei mehr als drei Monaten Dauer ist der Antrag spätestens zwei Monate vorher zu stellen.",
+      "Änderungen während der Pflegekarenz muss man nie melden, die Karenz läuft einfach weiter.",
+      "Jede kurze Babysitter-Aushilfe beendet sofort jede Pflegekarenz."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erhöhte Familienbeihilfe belegt die schwere Betreuungsbedürftigkeit.",
+      "Richtig: Gänzliche Beanspruchung ist Kernvoraussetzung der Pflegekarenz.",
+      "Richtig: Der vierzigste Geburtstag ist die absolute Altersobergrenze.",
+      "Richtig: Lange Pflegekarenzen brauchen zwei Monate Vorlaufzeit.",
+      "Falsch: Der Wegfall einer Voraussetzung ist binnen zwei Wochen zu melden.",
+      "Falsch: Entscheidend ist der Wegfall der gesetzlichen Voraussetzungen, nicht jede Aushilfe."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin pflegt ihren schwer behinderten Sohn im gemeinsamen Haushalt und braucht dafür eine längere unbezahlte Karenz. Sie fragt, welche Nachweise und Fristen gelten und was sie bei einer Besserung des Zustands tun muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58c Abs.3",
+      "LDG §58c Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Das Sabbatical braucht Antrag, fünf Dienstjahre und eine gesicherte Vertretung in einer Rahmenzeit von zwei bis fünf Schuljahren. Die Freistellung von einem Schuljahr ist ungeteilt zu verbrauchen und darf erst nach einer Dienstleistungszeit angetreten werden. Zum Nachlesen: LDG §58d Abs.1.",
+    "hauptquelle": "LDG §58d Abs.1",
+    "id": "B27-L2-012",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Ein Dienstverhältnis als Landeslehrer besteht bereits seit zumindest fünf Jahren.",
+      "Keine wichtigen dienstlichen Gründe stehen entgegen und die Vertretung ist gesichert.",
+      "Antrag mit Beginn und Dauer der Rahmenzeit von zwei bis fünf Schuljahren liegt vor.",
+      "Die Freistellung von einem Schuljahr wird ungeteilt und erst nach der Dienstleistungszeit angetreten.",
+      "Ein Sabbatical steht schon im ersten Dienstjahr zu.",
+      "Die Freistellung kann in beliebige Tagessplitter über Jahre verteilt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fünf Jahre Vor-Dienstzeit sind Eintrittsschwelle.",
+      "Richtig: Ohne Vertretung und bei wichtigen Gegengründen ist der Antrag abzuweisen.",
+      "Richtig: Rahmenzeit und Termine sind im Antrag und in der Vereinbarung festzulegen.",
+      "Richtig: Ungeteilter Verbrauch nach Dienstleistung ist vorgegeben.",
+      "Falsch: Im ersten Dienstjahr ist die Schwelle noch lange nicht erreicht.",
+      "Falsch: Die Freistellung ist ungeteilt zu verbrauchen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin mit acht Dienstjahren will ein Schuljahr bei anteiliger Bezugskürzung freinehmen und in der übrigen Rahmenzeit normal unterrichten. Die Dienstbehörde prüft Dienstalter, Vertretung und Rahmenzeit.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58d Abs.2",
+      "LDG §58d Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Frühkarenzurlaub nach der Geburt setzt gemeinsamen Haushalt und rasche Meldung voraus. Beginn und Dauer sind spätestens eine Woche vorher zu melden, die Freistellung beträgt bis zu 31 Tage und ist pro Kind nur einmal möglich. Zum Nachlesen: LDG §58e Abs.4.",
+    "hauptquelle": "LDG §58e Abs.4",
+    "id": "B27-L2-013",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Gemeinsamer Haushalt mit Mutter und Kind liegt vor.",
+      "Beginn und Dauer sind spätestens eine Woche vor Antritt gemeldet.",
+      "Das Ausmaß beträgt höchstens 31 Tage.",
+      "Die Inanspruchnahme ist pro Kind nur einmal zulässig.",
+      "Bei Trennung des gemeinsamen Haushalts läuft der Frühkarenzurlaub unverändert weiter.",
+      "Der Frühkarenzurlaub dauert automatisch mehrere Jahre."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der gemeinsame Haushalt trägt den Anspruch.",
+      "Richtig: Die Wochenfrist sichert die Planung der Vertretung.",
+      "Richtig: 31 Tage sind die Obergrenze.",
+      "Richtig: Eine Wiederholung für dasselbe Kind ist ausgeschlossen.",
+      "Falsch: Bei Trennung des Haushalts endet der Frühkarenzurlaub vorzeitig.",
+      "Falsch: Die Grenze liegt bei 31 Tagen, nicht bei Jahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer wird Vater, lebt mit Mutter und Kind zusammen und will gleich nach der Geburt einige Wochen zu Hause bleiben. Er fragt, was er wann melden muss und wie oft er diese Freistellung nehmen kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58e Abs.1",
+      "LDG §58e Abs.5",
+      "LDG §58e Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Karenzzeiten zählen für dienstzeitabhängige Rechte grundsätzlich nicht mit. Nur kraft Gesetzes eintretende Karenz und bestimmte Ausbildungs- oder Auslandsverwendungen werden bis zu festen Höchstgrenzen auf die Vorrückung angerechnet. Zum Nachlesen: LDG §58a Abs.1.",
+    "hauptquelle": "LDG §58a Abs.1",
+    "id": "B27-L2-014",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Zeiten eines Karenzurlaubs sind für dienstzeitabhängige Rechte grundsätzlich nicht zu berücksichtigen.",
+      "Kraft Gesetzes eintretende Karenz wird für die Dauer des Anlasses auf die Vorrückung angerechnet.",
+      "Ausbildungs-Karenz für die dienstliche Verwendung wird bis zu drei Jahren angerechnet.",
+      "Karenz für EU- oder zwischenstaatliche Verwendung wird im Gesamtdeckel bis zu fünf Jahren angerechnet.",
+      "Jede Karenz zählt automatisch voll für alle dienstzeitabhängigen Rechte.",
+      "Karenz kann niemals und in keinem Fall angerechnet werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nichtanrechnung ist der Grundsatz für dienstzeitabhängige Rechte.",
+      "Richtig: Gesetzeskarenz bildet die erste Ausnahme für die Vorrückung.",
+      "Richtig: Dienstliche Ausbildungskarenz ist bis zu drei Jahren anrechenbar.",
+      "Richtig: Auslandsverwendungen teilen sich einen Fünfjahresdeckel.",
+      "Falsch: Volle Automatik-Anrechnung widerspricht dem Grundsatz.",
+      "Falsch: Die genannten Ausnahmen lassen eine Anrechnung sehr wohl zu."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer kehrt aus einer mehrjährigen unbezahlten Karenz zurück und fragt, ob diese Jahre für seine Vorrückung zählen. Darunter waren ein Ausbildungsaufenthalt für seine Unterrichtstätigkeit und ein Einsatz bei einer europäischen Einrichtung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58a Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Sonderurlaub ist bezahltes Ermessen, Pflegefreistellung ist bezahlter Anspruch bei Nachweis, Karenzurlaub ist unbezahltes Ermessen. Wer den Unterschied bei Bezügen und Voraussetzungen kennt, wählt die richtige Freistellung und stellt den richtigen Antrag. Zum Nachlesen: LDG §57 Abs.2.",
+    "hauptquelle": "LDG §57 Abs.2",
+    "id": "B27-L2-015",
+    "level": "L2",
+    "modul_id": "B27",
+    "optionen": [
+      "Sonderurlaub erhält die vollen Bezüge und braucht Ansuchen plus besonderen Anlass.",
+      "Pflegefreistellung ist ein Anspruch bei nachweislicher Verhinderung durch Pflege oder Betreuung.",
+      "Karenzurlaub bedeutet Entfall der Bezüge und setzt einen Antrag voraus.",
+      "Sonderurlaub und Karenz scheitern beide an zwingenden dienstlichen Erfordernissen.",
+      "Alle drei Freistellungen sind unbezahlt und völlig gleich.",
+      "Pflegefreistellung braucht weder Nachweis noch Verhinderung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bezahlte Ermessensfreistellung auf Ansuchen aus besonderem Anlass.",
+      "Richtig: Anspruch bei Nachweis, kein Ermessen der Behörde.",
+      "Richtig: Unbezahlte Auszeit auf Antrag bei fehlenden Gegengründen.",
+      "Richtig: Beide Ermessensentscheidungen wahren die dienstlichen Erfordernisse.",
+      "Falsch: Nur die Karenz ist unbezahlt, die anderen erhalten die Bezüge.",
+      "Falsch: Nachweisliche Verhinderung ist gerade die Anspruchsgrundlage."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Lehrkräfte vergleichen ihre Pläne: eine braucht zwei Tage für eine Familienfeier, eine muss ihr erkranktes Kind pflegen, einer will ein halbes Jahr unbezahlte Auszeit. Sie fragen, welche Freistellung mit welchen Bezügen und Voraussetzungen passt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58 Abs.1",
+      "LDG §59 Abs.1"
+    ]
+  }
+]

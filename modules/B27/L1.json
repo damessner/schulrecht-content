@@ -1,1 +1,424 @@
-[]
+[
+  {
+    "aufloesung": "Lehrerin Berger ist in den Ferien grundsätzlich vom Dienst beurlaubt und muss nicht unterrichten. Nur besondere Verpflichtungen wie die Vertretung der Leitung oder die Abhaltung von Prüfungen stehen dem entgegen. Zum Nachlesen: LDG §56 Abs.1.",
+    "hauptquelle": "LDG §56 Abs.1",
+    "id": "B27-L1-001",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Sie ist während der Schulferien vom Dienst beurlaubt, außer es stehen besondere Verpflichtungen wie Prüfungen entgegen.",
+      "Sie muss in den Ferien ganz normal weiter unterrichten, Ferien gelten nur für die Kinder.",
+      "Sie ist nur beurlaubt, wenn sie vorher einen eigenen Urlaubsantrag gestellt hat.",
+      "In den Ferien muss sie jeden Tag in der Schule anwesend sein."
+    ],
+    "pro_option_feedback": [
+      "Richtig: In den Ferien besteht Beurlaubung, nur besondere Verpflichtungen stehen entgegen.",
+      "Falsch: Für Lehrerinnen und Lehrer gilt die Beurlaubung während der Schulferien.",
+      "Falsch: Die Beurlaubung in den Ferien tritt von selbst ein, kein Antrag nötig.",
+      "Falsch: Eine tägliche Anwesenheitspflicht in den Ferien gibt es nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Volksschullehrerin Berger freut sich auf die Sommerferien und fragt sich, ob sie in dieser Zeit überhaupt Dienstpflichten hat. Die Direktion erwähnt, dass in der ersten Ferienwoche noch mündliche Wiederholungsprüfungen anstehen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Leiter muss in den ersten und letzten drei Werktagen der Hauptferien am Dienstort anwesend sein. Diese Anwesenheitspflicht sichert die Erreichbarkeit der Schule zu Beginn und Ende des Sommers. Zum Nachlesen: LDG §56 Abs.3.",
+    "hauptquelle": "LDG §56 Abs.3",
+    "id": "B27-L1-002",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Der Leiter kann die gesamten Hauptferien ortsabwesend verbringen, Anwesenheit ist freiwillig.",
+      "Der Leiter muss die ersten und letzten drei Werktage der Hauptferien am Dienstort anwesend sein.",
+      "Der Leiter muss nur am allerersten Ferientag kurz in der Schule vorbeischauen.",
+      "Anwesenheitspflicht besteht nur, wenn gerade ein Schulumbau stattfindet."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zu Beginn und Ende der Hauptferien besteht eine feste Anwesenheitspflicht.",
+      "Richtig: Genau diese sechs Werktage muss der Leiter am Dienstort sein.",
+      "Falsch: Verlangt sind jeweils drei Werktage am Anfang und am Ende.",
+      "Falsch: Die Pflicht gilt immer, unabhängig von Bauarbeiten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schulleiter Ebner plant seinen Sommerurlaub und will die ganzen Hauptferien verreisen. Er fragt sich, ob er als Leiter in den Ferien trotzdem an der Schule anwesend sein muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Direktorin Fellner darf Gruber aus wichtigen dienstlichen Gründen aus den Ferien zurückrufen. Die Rückberufung ist zu beenden, sobald der Dienst es gestattet. Zum Nachlesen: LDG §56 Abs.5.",
+    "hauptquelle": "LDG §56 Abs.5",
+    "id": "B27-L1-003",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Eine Rückberufung aus den Ferien ist grundsätzlich niemals zulässig.",
+      "Der Lehrer kann aus wichtigen dienstlichen Gründen während der Ferien zur Dienstleistung zurückberufen werden.",
+      "Zurückgerufen werden darf nur, wer sich freiwillig gemeldet hat.",
+      "Eine Rückberufung gilt immer für den Rest der Ferien, egal wie kurz der Anlass dauert."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aus wichtigen dienstlichen Gründen ist die Rückberufung möglich.",
+      "Richtig: Wichtige dienstliche Gründe erlauben die Rückberufung auch in den Ferien.",
+      "Falsch: Freiwilligkeit ist keine Voraussetzung für die Rückberufung.",
+      "Falsch: Die Rückberufung ist zu beenden, sobald der Dienst es gestattet."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mittelschullehrer Gruber ist mit seiner Familie im Seeurlaub, als ihn die Direktorin anruft. Wegen eines dringenden unaufschiebbaren Prüfungsfalls braucht die Schule ihn für zwei Tage. Gruber meint, in den Ferien sei er unantastbar.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Hofer bekommt die unvermeidlichen Mehrauslagen für die unvorhergesehene Rückreise ersetzt. Der Ersatz umfasst bei Unzumutbarkeit der getrennten Urlaubsfortsetzung auch die im gemeinsamen Haushalt lebenden nahen Angehörigen. Zum Nachlesen: LDG §56 Abs.6.",
+    "hauptquelle": "LDG §56 Abs.6",
+    "id": "B27-L1-004",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Er muss alle Mehrkosten der Rückreise selbst tragen, Ersatz gibt es nie.",
+      "Ihm sind die durch die unvorhergesehene Rückberufung entstandenen unvermeidlichen Mehrauslagen zu ersetzen.",
+      "Ersetzt werden nur die Kosten für neue Badebekleidung am Urlaubsort.",
+      "Er bekommt pauschal ein volles Monatsgehalt als Entschädigung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei unvorhergesehener Rückberufung besteht ein Ersatzanspruch.",
+      "Richtig: Unvermeidliche Mehrauslagen durch die Rückberufung werden ersetzt.",
+      "Falsch: Ersetzt werden Reisemehrkosten, keine Urlaubsausstattung.",
+      "Falsch: Ein pauschales Monatsgehalt als Entschädigung ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Hofer wird völlig überraschend aus dem Familienurlaub an die Schule zurückgerufen und muss teure neue Zugtickets für die Rückreise kaufen. Er fragt, wer diese zusätzlichen Kosten trägt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Stein kann für die Hochzeit ihrer Schwester um Sonderurlaub ansuchen. Wichtige persönliche oder familiäre Gründe, die Fortbildung und sonstige besondere Anlässe kommen als Anlass in Frage. Zum Nachlesen: LDG §57 Abs.1.",
+    "hauptquelle": "LDG §57 Abs.1",
+    "id": "B27-L1-005",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Sonderurlaub gibt es nur für einen Umzug innerhalb des Schulgebäudes.",
+      "Sonderurlaub kann aus wichtigen persönlichen oder familiären Gründen, zur Fortbildung oder aus sonstigem besonderen Anlass gewährt werden.",
+      "Sonderurlaub gibt es nur bei Krankheit des Lehrers selbst.",
+      "Sonderurlaub steht nur Schulleitern zu, nicht einfachen Lehrern."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Persönliche und familiäre Anlässe sowie Fortbildung sind eigene Gründe.",
+      "Richtig: Genau diese Anlässe nennt das Gesetz für den Sonderurlaub.",
+      "Falsch: Eigene Krankheit ist ein Fall der Dienstverhinderung, nicht des Sonderurlaubs.",
+      "Falsch: Jede Lehrperson kann um Sonderurlaub ansuchen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Stein möchte an einem Unterrichtstag zur Hochzeit ihrer Schwester in ein anderes Bundesland fahren und dafür freibekommen. Sie fragt, aus welchen Anlässen man überhaupt um Sonderurlaub ansuchen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Auer behält während des Sonderurlaubs die vollen Bezüge. Der Sonderurlaub ist eine bezahlte Freistellung und kein unbezahlter Karenzurlaub. Zum Nachlesen: LDG §57 Abs.2.",
+    "hauptquelle": "LDG §57 Abs.2",
+    "id": "B27-L1-006",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Während des Sonderurlaubs entfallen die Bezüge zur Hälfte.",
+      "Während des Sonderurlaubs behält der Lehrer den Anspruch auf die vollen Bezüge.",
+      "Während des Sonderurlaubs gibt es gar keine Bezüge.",
+      "Die Bezüge werden verdoppelt, weil Sonderurlaub als Belohnung gilt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine Kürzung um die Hälfte ist nicht vorgesehen.",
+      "Richtig: Sonderurlaub ist bezahlt, die vollen Bezüge bleiben erhalten.",
+      "Falsch: Der Entfall der Bezüge kennzeichnet den Karenzurlaub, nicht den Sonderurlaub.",
+      "Falsch: Eine Verdoppelung der Bezüge gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Auer bekommt zwei Tage Sonderurlaub für eine Familienfeier bewilligt und sorgt sich um sein Gehalt. Er fragt, ob er in dieser Zeit weniger verdient.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Sonderurlaub darf nur gewährt werden, wenn keine zwingenden dienstlichen Erfordernisse entgegenstehen. Zusätzlich darf er die dem Anlass angemessene Dauer nicht übersteigen. Zum Nachlesen: LDG §57 Abs.3.",
+    "hauptquelle": "LDG §57 Abs.3",
+    "id": "B27-L1-007",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Sonderurlaub muss immer gewährt werden, dienstliche Gründe spielen keine Rolle.",
+      "Sonderurlaub darf nur gewährt werden, wenn keine zwingenden dienstlichen Erfordernisse entgegenstehen, und nur in dem Anlass angemessener Dauer.",
+      "Sonderurlaub dauert immer genau eine Woche, egal um welchen Anlass es geht.",
+      "Sonderurlaub wird nur gewährt, wenn eine Vertretung aus einem anderen Bundesland kommt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zwingende dienstliche Erfordernisse können die Gewährung verhindern.",
+      "Richtig: Beide Schranken gelten gemeinsam, Diensterfordernisse und angemessene Dauer.",
+      "Falsch: Eine fixe Wochendauer kennt das Gesetz nicht.",
+      "Falsch: Die Herkunft der Vertretung ist keine Voraussetzung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Wieser bittet für die Schulschluss-Woche um Sonderurlaub für eine Fernreise, obwohl genau dann Notenkonferenzen und Zeugnisverteilung anstehen. Die Direktion prüft, ob sie den Antrag ablehnen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Mehr als zwölf Wochen Sonderurlaub in einem Kalenderjahr sind nicht möglich. Alle in einem Kalenderjahr gewährten Sonderurlaube zusammengerechnet dürfen die auf zwölf Wochen entfallende regelmäßige Dienstzeit nicht übersteigen. Zum Nachlesen: LDG §57 Abs.4.",
+    "hauptquelle": "LDG §57 Abs.4",
+    "id": "B27-L1-008",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Pro Kalenderjahr gibt es überhaupt keine Obergrenze für Sonderurlaube.",
+      "Die Gesamtdauer der Sonderurlaube eines Kalenderjahres darf die auf zwölf Wochen entfallende regelmäßige Dienstzeit nicht übersteigen.",
+      "Sonderurlaub ist auf höchstens zwei Tage pro Jahr begrenzt.",
+      "Die Grenze liegt bei genau einem Monat, danach ist Schluss."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Gesetz zieht eine klare Jahreshöchstgrenze.",
+      "Richtig: Zwölf Wochen regelmäßige Dienstzeit sind die Obergrenze pro Kalenderjahr.",
+      "Falsch: Eine Zwei-Tage-Grenze gibt es nicht.",
+      "Falsch: Der Maßstab sind zwölf Wochen, nicht ein Monat."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Pichler hat in einem Kalenderjahr schon mehrere Sonderurlaube für Fortbildungen und Familienanlässe erhalten und stellt einen weiteren Antrag. Sie fragt, ob es eine jährliche Höchstgrenze gibt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Brand hat Anspruch auf Pflegefreistellung, weil er nachweislich an der Dienstleistung verhindert ist. Die notwendige Pflege einer erkrankten nahen angehörigen Person ist ein eigener Freistellungsgrund. Zum Nachlesen: LDG §59 Abs.1.",
+    "hauptquelle": "LDG §59 Abs.1",
+    "id": "B27-L1-009",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Er muss trotzdem unterrichten und die Pflege in den Nachtstunden erledigen.",
+      "Er hat Anspruch auf Pflegefreistellung, weil er wegen der notwendigen Pflege einer erkrankten nahen Angehörigen nachweislich verhindert ist.",
+      "Er muss dafür unbezahlten Karenzurlaub nehmen, Pflegefreistellung gibt es nicht.",
+      "Er kann einfach unentschuldigt fernbleiben, eine Meldung ist unnötig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei nachgewiesener Verhinderung durch notwendige Pflege besteht ein Anspruch.",
+      "Richtig: Nachweisliche Verhinderung durch notwendige Pflege löst den Anspruch aus.",
+      "Falsch: Die Pflegefreistellung ist genau für solche Fälle da, kein Karenzurlaub nötig.",
+      "Falsch: Die Verhinderung muss nachweislich vorliegen und der Schule bekannt sein."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brand muss seine schwer erkrankte Mutter zu Hause pflegen und kann deshalb an zwei Tagen nicht unterrichten. Er legt eine Bestätigung vor und fragt, ob ihm dafür eine Freistellung zusteht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Bruder zählt zu den nahen Angehörigen, die Cousine nicht. Nahe Angehörige sind der Ehegatte, Verwandte in gerader Linie, Geschwister, Stief-, Wahl- und Pflegekinder sowie die Person in Lebensgemeinschaft. Zum Nachlesen: LDG §59 Abs.2.",
+    "hauptquelle": "LDG §59 Abs.2",
+    "id": "B27-L1-010",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Nur der Ehegatte zählt, alle anderen Personen nie.",
+      "Nahe Angehörige sind Ehegatte, Verwandte in gerader Linie, Geschwister, Stief-, Wahl- und Pflegekinder sowie die Person in Lebensgemeinschaft.",
+      "Nur Personen im selben Haushalt zählen, Verwandtschaft ist egal.",
+      "Nahe Angehörige sind nur die eigenen Kinder, sonst niemand."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Kreis der nahen Angehörigen ist deutlich weiter gezogen.",
+      "Richtig: Genau dieser Personenkreis ist als nahe Angehörige anzusehen.",
+      "Falsch: Verwandtschaft zählt auch ohne gemeinsamen Haushalt.",
+      "Falsch: Eltern, Geschwister und Partner gehören ebenfalls dazu."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Moser möchte ihren verunglückten Bruder pflegen und fragt, ob ein Geschwisterteil überhaupt unter die Pflegefreistellung fällt. Gleichzeitig überlegt sie, ob sie auch für ihre erkrankte Cousine freibekäme.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Egger kann in diesem Schuljahr höchstens den sechsunddreißigsten Teil seiner Jahresstunden als Pflegefreistellung verbrauchen. Dieses Höchstausmaß gilt an allgemein bildenden Pflichtschulen je Schuljahr. Zum Nachlesen: LDG §59 Abs.3.",
+    "hauptquelle": "LDG §59 Abs.3",
+    "id": "B27-L1-011",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Es gibt keine Höchstgrenze, Pflegefreistellung ist unbegrenzt möglich.",
+      "Die Pflegefreistellung darf je Schuljahr höchstens den sechsunddreißigsten Teil seiner Jahresstunden betragen.",
+      "Er darf höchstens zwei einzelne Stunden pro Schuljahr freinehmen.",
+      "Das Höchstausmaß beträgt genau die Hälfte seiner Jahresstunden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Pro Schuljahr gilt ein festes Höchstausmaß.",
+      "Richtig: Der sechsunddreißigste Teil der Jahresstunden ist die Grenze.",
+      "Falsch: Zwei Stunden als Grenze sind viel zu niedrig gegriffen.",
+      "Falsch: Die Hälfte der Jahresstunden wäre ein Vielfaches der echten Grenze."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Volksschullehrer Egger hat in diesem Schuljahr schon mehrfach Pflegefreistellung für sein erkranktes Kind verbraucht und braucht weitere Tage. Er fragt, wie viel Pflegefreistellung ihm pro Schuljahr insgesamt zusteht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Kaufmann hat nach Verbrauch der ersten Pflegefreistellung Anspruch auf eine weitere im gleichen Höchstausmaß. Voraussetzung ist die notwendige Pflege ihres im gemeinsamen Haushalt lebenden erkrankten Kindes unter zwölf Jahren. Zum Nachlesen: LDG §59 Abs.4.",
+    "hauptquelle": "LDG §59 Abs.4",
+    "id": "B27-L1-012",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Nach Verbrauch der ersten Pflegefreistellung gibt es in diesem Schuljahr keine weitere mehr.",
+      "Nach Verbrauch der ersten Pflegefreistellung besteht für ein erkranktes Kind unter zwölf Jahren im gemeinsamen Haushalt Anspruch auf eine weitere Pflegefreistellung im gleichen Höchstausmaß.",
+      "Eine zweite Freistellung gibt es nur für volljährige Kinder.",
+      "Eine zweite Freistellung gibt es nur, wenn das Kind nicht im gemeinsamen Haushalt lebt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für kleine Kinder ist eine zweite Freistellung im gleichen Ausmaß vorgesehen.",
+      "Richtig: Verbrauchte erste Freistellung plus kleines Kind im Haushalt ergibt den zweiten Anspruch.",
+      "Falsch: Gerade für kleine Kinder unter zwölf Jahren gilt die Erweiterung.",
+      "Falsch: Der gemeinsame Haushalt mit dem Kind ist hier Voraussetzung, nicht Hindernis."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Kaufmann hat ihre Pflegefreistellung für dieses Schuljahr bereits aufgebraucht, nun erkrankt ihre achtjährige Tochter erneut schwer. Sie lebt mit der Tochter im gemeinsamen Haushalt und fragt, ob sie nochmals freibekommt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Brunner kann einen Karenzurlaub unter Entfall der Bezüge beantragen. Die Gewährung scheitert nur, wenn zwingende dienstliche Gründe entgegenstehen. Zum Nachlesen: LDG §58 Abs.1.",
+    "hauptquelle": "LDG §58 Abs.1",
+    "id": "B27-L1-013",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Ein Karenzurlaub ist gesetzlich überhaupt nicht vorgesehen.",
+      "Dem Lehrer kann auf Antrag ein Urlaub unter Entfall der Bezüge gewährt werden, sofern keine zwingenden dienstlichen Gründe entgegenstehen.",
+      "Karenzurlaub wird nur mit vollen Bezügen gewährt.",
+      "Karenzurlaub steht nur in den ersten zwei Dienstjahren zu."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Karenzurlaub ist ausdrücklich als unbezahlter Urlaub vorgesehen.",
+      "Richtig: Antrag plus Entfall der Bezüge plus keine zwingenden Gegengründe sind der Weg.",
+      "Falsch: Volle Bezüge kennzeichnen den Sonderurlaub, nicht den Karenzurlaub.",
+      "Falsch: Eine Beschränkung auf die ersten Dienstjahre gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner möchte ein halbes Jahr unbezahlte Auszeit für eine private Weiterbildung und ein ehrenamtliches Projekt nehmen. Er fragt, ob er dafür einen Urlaub ohne Bezüge beantragen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Karenzurlaub endet spätestens, wenn er zusammen mit früheren Karenzurlauben zehn Jahre erreicht. Längere Freistellungen über diese Gesamtdauer hinaus sind nicht möglich. Zum Nachlesen: LDG §58 Abs.3.",
+    "hauptquelle": "LDG §58 Abs.3",
+    "id": "B27-L1-014",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Karenzurlaube können zeitlich unbegrenzt aneinandergereiht werden.",
+      "Ein Karenzurlaub endet spätestens mit zehn Jahren Gesamtdauer gemeinsam mit früheren Karenzurlauben.",
+      "Nach genau einem Jahr Karenzurlaub ist für immer Schluss.",
+      "Jeder Karenzurlaub darf höchstens eine Woche dauern."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei zehn Jahren Gesamtdauer ist spätestens Schluss.",
+      "Richtig: Frühere Karenzurlaube werden zusammengerechnet, bei zehn Jahren endet er.",
+      "Falsch: Ein Jahr als absolute Grenze stimmt nicht.",
+      "Falsch: Eine Wochen-Grenze gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Steiner war in ihrer Laufbahn schon mehrfach in Karenzurlaub und beantragt nun eine weitere mehrjährige Freistellung. Die Dienstbehörde prüft, ob es eine absolute Gesamtgrenze für solche Urlaube gibt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Winter kann für die ersten Wochen nach der Geburt einen Frühkarenzurlaub von bis zu 31 Tagen beantragen. Voraussetzung sind der gemeinsame Haushalt mit Mutter und Kind sowie die fristgerechte Meldung von Beginn und Dauer. Zum Nachlesen: LDG §58e Abs.1.",
+    "hauptquelle": "LDG §58e Abs.1",
+    "id": "B27-L1-015",
+    "level": "L1",
+    "modul_id": "B27",
+    "optionen": [
+      "Einen eigenen Urlaub für Väter nach der Geburt gibt es nicht.",
+      "Für die Zeit nach der Geburt kann ein Frühkarenzurlaub von bis zu 31 Tagen gewährt werden.",
+      "Der Frühkarenzurlaub dauert automatisch zwei Jahre.",
+      "Frühkarenz gibt es nur bei Zwillingen, nicht bei einem einzelnen Kind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Frühkarenzurlaub nach der Geburt ist ausdrücklich vorgesehen.",
+      "Richtig: Bis zu 31 Tage unbezahlter Frühkarenzurlaub stehen nach der Geburt zu.",
+      "Falsch: Zwei Jahre verwechseln Frühkarenz mit der langen Karenz.",
+      "Falsch: Auch bei einem einzelnen Kind besteht der Anspruch."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Winter ist Vater geworden und möchte in den ersten Wochen nach der Geburt zu Hause bei Mutter und Kind sein. Er lebt mit beiden im gemeinsamen Haushalt und fragt nach einer kurzen unbezahlten Freistellung dafür.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
