@@ -1,1 +1,484 @@
-[]
+[
+  {
+    "aufloesung": "Alle drei Gründe tragen jeweils einen eigenen Antrag. Gesundheit, öffentliches Interesse mit Unterrichtsrückwirkung und kulturelle Tätigkeit mit Ersatz stehen nebeneinander. Reine Freizeit ohne Gesetzesgrund genügt nicht. Zum Nachlesen: LDG §44 Abs.1.",
+    "hauptquelle": "LDG §44 Abs.1",
+    "id": "B26-L2-001",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Chronische Erkrankung der Lehrperson, die eine Entlastung erfordert",
+      "Pädagogisches Forschungsprojekt, dessen Erfahrungen dem eigenen Unterricht zugutekommen",
+      "Kulturelle Chorarbeit für einen Verein, der den vorgeschriebenen Ersatz leistet",
+      "Rein private Freizeitwünsche ohne jeden gesetzlichen Anknüpfungspunkt",
+      "Ausschließlich der Wunsch nach längerem Urlaub ohne Begründung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gesundheitliche Gründe in der eigenen Person sind ein eigener Grund.",
+      "Richtig: Öffentliches Interesse mit Rückwirkung auf den Unterricht ist ein eigener Grund.",
+      "Richtig: Kulturelle Tätigkeit mit Ersatzleistung ist ein eigener Grund.",
+      "Falsch: Ohne gesetzlichen Grund trägt ein Freizeitwunsch keine Herabsetzung.",
+      "Falsch: Ein begründungsloser Urlaubswunsch reicht nicht aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Lehrpersonen einer Mittelschule beantragen jeweils eine Herabsetzung: Frau Adam wegen einer chronischen Erkrankung, Herr Berg für ein pädagogisches Forschungsprojekt mit Nutzen für seinen Unterricht und Frau Chor für eine kulturelle Chorarbeit mit Ersatzleistung durch den Verein. Eine vierte Person will nur aus reiner Freizeitlust weniger arbeiten. Die Direktion prüft, welche Anträge auf einen gesetzlichen Grund gestützt sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Beide Schranken gelten gemeinsam für Projekte und kulturelle Tätigkeiten. Der Unterrichtsbetrieb muss die Ermäßigung zulassen und die Tätigkeit darf nicht nebenher möglich sein. Fehlt eine davon, ist die Herabsetzung zu versagen. Zum Nachlesen: LDG §44 Abs.2.",
+    "hauptquelle": "LDG §44 Abs.2",
+    "id": "B26-L2-002",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Die Herabsetzung muss unter Bedachtnahme auf die Unterrichtserfordernisse möglich sein",
+      "Die auswärtige Tätigkeit darf nicht neben den lehramtlichen Pflichten ausgeübt werden können",
+      "Es genügt allein der Wunsch der Lehrperson, weitere Voraussetzungen gibt es nicht",
+      "Die Zustimmung der Schülerinnen und Schüler ersetzt alle gesetzlichen Voraussetzungen",
+      "Jede Tätigkeit außerhalb der Schule ist automatisch auch neben dem Unterricht möglich"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Rücksicht auf die Unterrichtserfordernisse ist die erste Schranke.",
+      "Richtig: Die Unmöglichkeit der Nebenausübung ist die zweite Schranke.",
+      "Falsch: Der bloße Wunsch genügt nicht, beide Schranken müssen erfüllt sein.",
+      "Falsch: Die Zustimmung der Klasse ersetzt die gesetzlichen Voraussetzungen nicht.",
+      "Falsch: Ob die Nebenausübung möglich ist, prüft die Behörde im Einzelfall."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Dorn will für ein zweijähriges Theaterprojekt mit seiner Klasse als Begleitprogramm eine Herabsetzung im öffentlichen Interesse. Die Direktion prüft die Voraussetzungen: Der Stundenplan ließe sich einrichten, aber unklar ist, ob Dorn das Projekt auch abends neben dem Volldienst machen könnte. Dorn meint, sein bloßer Wunsch müsse genügen. Es stellt sich die Frage, welche Bedingungen erfüllt sein müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Gesundheit, Projekte und kulturelle Tätigkeiten haben gestaffelte Höchstfristen. Aus Gesundheit sind es zwei, aus öffentlichem Interesse fünf und aus kulturellen Gründen zehn Jahre. Projekt- und kulturelle Zeiten dürfen zusammen zehn Jahre nicht übersteigen. Zum Nachlesen: LDG §44 Abs.4.",
+    "hauptquelle": "LDG §44 Abs.4",
+    "id": "B26-L2-003",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Herabsetzung aus gesundheitlichen Gründen: insgesamt höchstens zwei Jahre",
+      "Herabsetzung im öffentlichen Interesse: insgesamt höchstens fünf Jahre",
+      "Herabsetzung für kulturelle Tätigkeiten: insgesamt höchstens zehn Jahre",
+      "Jeder Grund erlaubt unbegrenzte Dauer ohne jede Höchstgrenze",
+      "Projekt- und kulturelle Zeiten dürfen zusammen zwanzig Jahre erreichen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Jahre Gesamtdauer gelten für gesundheitliche Gründe.",
+      "Richtig: Fünf Jahre Gesamtdauer gelten für das öffentliche Interesse.",
+      "Richtig: Zehn Jahre Gesamtdauer gelten für kulturelle Tätigkeiten.",
+      "Falsch: Jeder Grund hat seine eigene Höchstgrenze.",
+      "Falsch: Zusammen dürfen beide Gründe höchstens zehn Jahre erreichen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Eder war schon mehrfach reduziert im Dienst: zuerst ein Jahr aus gesundheitlichen Gründen, dann drei Jahre für ein Museumsvorhaben und nun plant er eine mehrjährige kulturelle Tätigkeit. Die Personalstelle rechnet die bisherigen Zeiten zusammen und prüft die Höchstfristen. Eder fragt, welche zeitlichen Obergrenzen für die einzelnen Gründe gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Antrag muss ganze Stunden, die Hälfte als Untergrenze und die Jahresdauer beachten. Die verbleibende Tätigkeit muss ganze Unterrichtsstunden umfassen und darf die Hälfte nicht unterschreiten. Wirksam wird die Herabsetzung für ein Jahr oder ein Vielfaches. Zum Nachlesen: LDG §45 Abs.2 und 3.",
+    "hauptquelle": "LDG §45 Abs.2",
+    "id": "B26-L2-004",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Die verbleibende Unterrichtstätigkeit muss ganze Unterrichtsstunden umfassen",
+      "Die verbleibende Lehrverpflichtung darf die Hälfte des Vollausmaßes nicht unterschreiten",
+      "Die Herabsetzung wird für ein Jahr oder ein Vielfaches eines Jahres wirksam",
+      "Es dürfen auch Bruchteile einer Unterrichtsstunde als Rest bleiben",
+      "Die Reduktion darf bis auf eine einzige Stunde im Jahr gehen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ganze Unterrichtsstunden sind für den verbleibenden Rest vorgeschrieben.",
+      "Richtig: Die Hälfte des Vollausmaßes ist die Untergrenze.",
+      "Richtig: Jahresweise oder ein Vielfaches davon wird die Herabsetzung wirksam.",
+      "Falsch: Bruchteile genügen nicht, der Rest muss ganze Stunden umfassen.",
+      "Falsch: Eine Stunde im Jahr unterschritte die Hälfte und wäre unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Fellner beantragt eine Herabsetzung aus beliebigem Anlass und tüftelt mit der Direktion am Stundenplan: Sie will krumme Stundenbruchteile behalten, am liebsten nur zwei Stunden pro Woche unterrichten und das Ganze für ein halbes Jahr befristen. Die Direktion erklärt ihr die formalen Mindestanforderungen an jeden solchen Antrag. Es stellt sich die Frage, welche Gestaltungsregeln dabei gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Beide Ausschlüsse schützen den geordneten Schulbetrieb. An Auslandsdienststellen ist die Herabsetzung ausnahmslos ausgeschlossen. Im Inland scheitert sie, wenn die Lehrperson dann weder am alten noch an einem gleichwertigen Platz einsetzbar wäre. Zum Nachlesen: LDG §45 Abs.4.",
+    "hauptquelle": "LDG §45 Abs.4",
+    "id": "B26-L2-005",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Verwendung auf einem Arbeitsplatz an einer im Ausland gelegenen Dienststelle",
+      "Keine Einsatzmöglichkeit mehr am bisherigen oder einem gleichwertigen Arbeitsplatz aus wichtigen dienstlichen Gründen",
+      "Allein der Umstand, dass die Lehrperson ein kleines Kind hat",
+      "Der Wunsch der Lehrperson nach mehr Freizeit bei voller Einsetzbarkeit",
+      "Die Tatsache, dass die Lehrperson schon lange im Dienst ist"
+    ],
+    "pro_option_feedback": [
+      "Richtig: An Auslandsdienststellen ist die Herabsetzung ausgeschlossen.",
+      "Richtig: Wegfall jeder zumutbaren Einsatzmöglichkeit schließt die Herabsetzung aus.",
+      "Falsch: Ein Kind ist eher ein Grund für, nicht gegen die Herabsetzung.",
+      "Falsch: Volle Einsetzbarkeit bei Freizeitwunsch ist kein Ausschlussgrund.",
+      "Falsch: Lange Dienstzeit hindert eine Herabsetzung nicht."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Anträge auf Herabsetzung aus beliebigem Anlass liegen vor: Herr Gams ist an eine Schule im Ausland versetzt und will dort halbtags arbeiten, Frau Hirt wäre bei reduzierter Stundenzahl an ihrer kleinen Schule gar nicht mehr sinnvoll einsetzbar. Zwei weitere Kolleginnen mit Kindern und langer Dienstzeit befürchten, dieselben Hindernisse träfen auch sie. Die Behörde prüft, in welchen Fällen das Gesetz die Herabsetzung ausschließt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Alle vier Merkmale müssen gemeinsam vorliegen. Vollbeschäftigung, ein Kind aus dem gesetzlichen Katalog, gemeinsamer Haushalt und überwiegende Selbstbetreuung tragen den Anspruch. Fehlt eines, scheitert die Elternteilzeit. Zum Nachlesen: LDG §46 Abs.1 und 3.",
+    "hauptquelle": "LDG §46 Abs.1",
+    "id": "B26-L2-006",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Die Lehrperson ist vollbeschäftigt",
+      "Es geht um ein eigenes, Wahl-, Pflege- oder überwiegend unterhaltenes Kind",
+      "Das Kind gehört dem Haushalt der Lehrperson an",
+      "Die Lehrperson will das Kind überwiegend selbst betreuen",
+      "Das Kind lebt bei den Großeltern und wird dort fremdbetreut"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur vollbeschäftigte Lehrpersonen haben diesen Anspruch.",
+      "Richtig: Der Kinderkatalog umfasst eigene, Wahl-, Pflege- und überwiegend unterhaltene Kinder.",
+      "Richtig: Der gemeinsame Haushalt mit dem Kind ist Voraussetzung.",
+      "Richtig: Die überwiegende Selbstbetreuung muss gewollt sein.",
+      "Falsch: Fremdbetreuung bei den Großeltern erfüllt Haushalt und Selbstbetreuung nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vier vollbeschäftigte Lehrpersonen beantragen Elternteilzeit: Frau Imhof für ihre eigene Tochter im gemeinsamen Haushalt, Herr Jung für sein Pflegesöhnchen, das er selbst betreut, Frau Krenn für den Sohn ihres Mannes, für dessen Unterhalt beide überwiegend aufkommen. Herr Larch will reduzieren, obwohl sein Kind bei den Großeltern lebt und dort betreut wird. Die Behörde prüft die Anspruchsvoraussetzungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Frist, Dauer und die Geldbezug-Ausnahme bilden die Checkliste. Zwei Monate Vorlauf, Jahresweise bis höchstens zum achten Geburtstag und die Unterschreitung der Hälfte bei Kinderbetreuungsgeld gehören zusammen. Verspätete Anträge gefährden den Wunschtermin. Zum Nachlesen: LDG §46 Abs.2, 4 und 5.",
+    "hauptquelle": "LDG §46 Abs.4",
+    "id": "B26-L2-007",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Antrag spätestens zwei Monate vor dem gewünschten Beginn",
+      "Dauer ein Jahr oder ein Vielfaches, längstens bis zum achten Geburtstag des Kindes",
+      "Während des Kinderbetreuungsgeldbezugs auch eine Reduktion unter die Hälfte",
+      "Antragstellung erst nach Antritt der Teilzeit mit Rückwirkung",
+      "Verlängerung der Elternteilzeit bis zum achtzehnten Geburtstag in jedem Fall"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Monate Vorlauf vor dem Wunschbeginn sind einzuhalten.",
+      "Richtig: Jahresweise Dauer mit Ende spätestens am achten Geburtstag gilt.",
+      "Richtig: Der Geldbezug erlaubt befristet auch weniger als die Hälfte.",
+      "Falsch: Rückwirkende Anträge nach Dienstantritt sieht das Gesetz nicht vor.",
+      "Falsch: Mit acht Jahren endet die reguläre Elternteilzeit grundsätzlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Maier plant ihre Elternteilzeit im Detail: Sie will den Antrag zwei Monate vorher stellen, ein Jahr halbtags arbeiten und weil sie Kinderbetreuungsgeld bezieht, vorübergehend nur ein Drittel unterrichten. Eine Kollegin rät ihr, den Antrag einfach rückwirkend nachzureichen und bis zur Volljährigkeit des Kindes zu verlängern. Die Direktion erklärt, welche Fristen- und Dauerregeln wirklich gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Kurze Dauer, tiefes Ausmaß und Einmaligkeit prägen die Pflegeteilzeit. Ein bis drei Monate bis auf ein Viertel je Angehörigem sind der Rahmen. Bei deutlich höherem Pflegebedarf gibt es einmalig eine zweite Chance. Zum Nachlesen: LDG §46a Abs.1 und 2.",
+    "hauptquelle": "LDG §46a Abs.1",
+    "id": "B26-L2-008",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Dauer mindestens einen und höchstens drei Monate",
+      "Reduktion bis auf ein Viertel des Vollausmaßes möglich",
+      "Grundsätzlich nur einmal je zu betreuender Person zulässig",
+      "Bei Erhöhung des Pflegebedarfs um eine Stufe einmalig neuerlich möglich",
+      "Beliebig lange Dauer mit unbegrenzter Wiederholung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein bis drei Monate sind die Mindest- und Höchstdauer.",
+      "Richtig: Bis auf ein Viertel darf die Lehrverpflichtung sinken.",
+      "Richtig: Pro Angehörigem gilt der Grundsatz der Einmaligkeit.",
+      "Richtig: Eine Stufenerhöhung eröffnet einmalig eine zweite Gewährung.",
+      "Falsch: Lange Dauer mit ständiger Wiederholung widerspricht dem Modell."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Nader pflegt seine Mutter mit hohem Pflegegeld und beantragt zwei Monate Pflegeteilzeit auf ein Viertel seiner Stunden. Nach einem halben Jahr steigt der Pflegebedarf um eine Stufe und er fragt nach einer zweiten Pflegeteilzeit. Sein Bruder meint, man könne Pflegeteilzeit beliebig lange und oft nehmen. Die Behörde erklärt die echten Spielregeln.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Langer Krankenstand, ärztliche Prüfung und ein mittleres Stundenband kennzeichnen das Modell. Sechs Wochen Dienstverhinderung, Untersuchung zur Zweckmäßigkeit und 45 bis 55 Prozent für ein bis sechs Monate gehören zusammen. So gelingt der stufenweise Wiedereinstieg. Zum Nachlesen: LDG §46b Abs.1 und 2.",
+    "hauptquelle": "LDG §46b Abs.1",
+    "id": "B26-L2-009",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Mindestens sechswöchige ununterbrochene Dienstverhinderung wegen Krankheit oder Unfall davor",
+      "Ärztliche Untersuchung zu Dienstfähigkeit und Zweckmäßigkeit vor Beginn",
+      "Reduktion auf 45 bis 55 Prozent für ein bis sechs Monate",
+      "Antritt auch noch Jahre nach der Erkrankung ohne jeden Zusammenhang",
+      "Dauerhafter Verbleib auf halber Lehrverpflichtung ohne Befristung"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sechs Wochen ununterbrochene Verhinderung sind die Eintrittsschwelle.",
+      "Richtig: Die ärztliche Prüfung sichert Sinn und Sicherheit des Modells.",
+      "Richtig: Das Stundenband mit Befristung ermöglicht den stufenweisen Einstieg.",
+      "Falsch: Der Antritt muss spätestens einen Monat nach der Verhinderung beginnen.",
+      "Falsch: Das Modell ist befristet und kein dauerhafter Halbtagsstatus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Ortner war nach einem schweren Unfall acht Wochen dienstverhindert und traut sich die volle Lehrverpflichtung noch nicht zu. Die Amtsärztin bestätigt, dass eine stufenweise Wiedereingliederung sinnvoll wäre. Ortner fragt, ob sie für einige Monate auf etwa die Hälfte reduzieren kann, und eine Kollegin meint, das gehe auch noch Jahre später unbefristet. Es stellt sich die Frage, welche Voraussetzungen gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Fünf Dienstjahre, eine Rahmenzeit von zwei bis fünf Schuljahren und ein ungeteiltes freies Schuljahr sind der Kern. In der Arbeitsphase gilt die normale Lehrverpflichtung bei gekürzten Bezügen. Längere Karenz oder Suspendierung beenden das Modell. Zum Nachlesen: LDG §58d Abs.1, 3 und 6.",
+    "hauptquelle": "LDG §58d Abs.1",
+    "id": "B26-L2-010",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Mindestens fünfjähriges Dienstverhältnis als Lehrperson",
+      "Rahmenzeit von zwei bis fünf vollen Schuljahren mit einem ungeteilten freien Schuljahr",
+      "Anteilige Bezugskürzung über die Rahmenzeit bei voller Dienstleistung in der Arbeitsphase",
+      "Beendigung bei längerem Karenzurlaub oder Suspendierung",
+      "Freistellung in kleinen Bruchteilen über viele Jahre verteilt"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fünf Dienstjahre sind die Eintrittsschwelle für das Sabbatical.",
+      "Richtig: Rahmenzeit plus ein ungeteiltes freies Schuljahr sind das Modell.",
+      "Richtig: Gekürzte Bezüge bei vollem Dienst in der Arbeitsphase finanzieren das Freijahr.",
+      "Richtig: Längere Karenz oder Suspendierung beenden das Sabbatical.",
+      "Falsch: Die Freistellung ist ungeteilt zu verbrauchen, nicht zu stückeln."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Pacher, seit neun Jahren im Dienst, vereinbart mit der Behörde ein Sabbatical: vier Jahre Rahmenzeit, davon drei Jahre Volldienst bei gekürzten Bezügen und ein ungeteiltes freies Schuljahr. Sein Freund meint, man könne das Freijahr auch in Wochenbruchteile über ein Jahrzehnt strecken, und fragt, was bei einer langen Karenz zwischendurch passiert. Die Behörde erklärt die Bausteine des Modells.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Beide Modelle arbeiten mit anteilig gekürzten Bezügen. Bei Projekt- und Kulturermäßigungen mindern sich die Bezüge entsprechend dem Ausmaß. Beim Sabbatical verteilt sich die Kürzung auf die ganze Rahmenzeit. Nur bei Ersatzleistung entfällt die Kürzung. Zum Nachlesen: LDG §44 Abs.5 und §58d Abs.1.",
+    "hauptquelle": "LDG §44 Abs.5",
+    "id": "B26-L2-011",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Bei Herabsetzung für Projekte mindern sich die Bezüge grundsätzlich anteilig",
+      "Beim Sabbatical werden die Bezüge über die Rahmenzeit anteilig gekürzt",
+      "Keine Kürzung, soweit die ausfallenden Bezüge durch Ersatzleistung abgedeckt sind",
+      "Teilzeit führt automatisch zu vollen Bezügen wie bei Vollbeschäftigung",
+      "Beim Sabbatical gibt es zusätzlich zum Gehalt eine Prämie für das Freijahr"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die anteilige Minderung ist die Grundregel bei Projektermäßigungen.",
+      "Richtig: Die verteilte Kürzung über die Rahmenzeit kennzeichnet das Sabbatical.",
+      "Richtig: Abgedeckter Ersatz lässt die Kürzung entfallen.",
+      "Falsch: Weniger Dienst bedeutet grundsätzlich auch weniger Bezüge.",
+      "Falsch: Eine Prämie für das Freijahr sieht das Gesetz nicht vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei teilzeitbeschäftigte Lehrpersonen vergleichen ihre Gehaltszettel: Herr Quast mit Projektermäßigung und Frau Rinner im Sabbatical stellen beide Kürzungen fest, während eine Kollegin mit Kulturermäßigung dank Ersatzleistung keine Einbuße hat. Alle drei fragen, nach welchen Regeln sich Herabsetzungen auf die Bezüge auswirken.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Rücksicht, Zurückhaltung bei Mehrdienst und unberührte Fortbildung gelten gemeinsam. Die Diensteinteilung nimmt auf die Teilzeitgründe Bedacht und Mehrdienst trifft Teilzeitkräfte möglichst seltener. Fortbildungen bleiben für alle verpflichtend. Zum Nachlesen: LDG §47 Abs.1, 4 und 5.",
+    "hauptquelle": "LDG §47 Abs.1",
+    "id": "B26-L2-012",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Bei der Diensteinteilung ist auf die persönlichen Verhältnisse und Teilzeitgründe Rücksicht zu nehmen",
+      "Teilzeitkräfte sollen möglichst seltener zu Mehrdienst herangezogen werden als Vollzeitkräfte",
+      "Die Fortbildungspflicht bleibt auch bei Herabsetzung unberührt",
+      "Teilzeitkräfte sind von jeder Fortbildung befreit",
+      "Der Stundenplan darf absichtlich gegen die Betreuungszeiten gelegt werden"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rücksicht auf Gründe und Verhältnisse ist bei der Einteilung geboten.",
+      "Richtig: Zurückhaltung beim Mehrdienst schützt Teilzeitkräfte.",
+      "Richtig: Fortbildung bleibt für alle verpflichtend.",
+      "Falsch: Eine Befreiung von der Fortbildung gibt es bei Teilzeit nicht.",
+      "Falsch: Absichtliche Gegenplanung widerspricht dem Rücksichtsgebot."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Teilzeitlehrerinnen sprechen über ihren Alltag: Frau Sattler braucht Betreuungszeiten für ihr Kind, Herr Tanner wird ständig zu Vertretungen eingeteilt und Frau Uhl glaubt, Fortbildungen entfielen bei Teilzeit. Die Direktion erklärt, welche Grundsätze für Dienstleistung und Einteilung bei herabgesetzter Lehrverpflichtung gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Antrag, Schuljahresende und die Sonderfälle steuern die Rückkehr. Änderung und vorzeitige Beendigung gibt es auf Antrag ohne wichtige Gegengründe. Die letzten vier Schulmonate sperren Änderungen und die Behörden-Teilzeit nach dem Mutterschutz beendet die Herabsetzung. Zum Nachlesen: LDG §48 Abs.2, 3 und 5.",
+    "hauptquelle": "LDG §48 Abs.2",
+    "id": "B26-L2-013",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Änderung des Ausmaßes oder vorzeitige Beendigung auf Antrag ohne wichtige dienstliche Gegengründe",
+      "Keine Änderung oder Beendigung in den letzten vier Monaten des Schuljahres",
+      "Automatische Beendigung bei Inanspruchnahme einer Teilzeit nach Mutterschutz- oder Väterkarenzgesetz",
+      "Rückkehr zur Vollzeit ausschließlich durch Kündigung des Dienstverhältnisses",
+      "Beliebige Änderung auch noch in der letzten Schulwoche"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Antrag plus fehlende Gegengründe ermöglichen Änderung und frühes Ende.",
+      "Richtig: Die Vier-Monats-Sperre vor Schuljahresende schützt die Planung.",
+      "Richtig: Die gesetzliche Elternteilzeit löst die LDG-Herabsetzung ab.",
+      "Falsch: Kündigung ist unnötig, der Antrag auf Beendigung ist der Weg.",
+      "Falsch: Gerade die letzten Monate sind für Änderungen gesperrt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Vogl in Elternteilzeit will ab dem Frühjahr wieder voll arbeiten, seine Kollegin Frau Wach nimmt zusätzlich eine Teilzeit nach dem Mutterschutzgesetz in Anspruch und Herr Xandl will seine Stunden mitten im Mai kurzfristig ändern. Die Behörde erklärt, welche Wege zurück zur Vollzeit führen und welche Sperren dabei gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Leitung bleibt von der beliebigen Herabsetzung ausgenommen. Wer eine Leiterfunktion ausübt oder die Schulaufsicht innehat, kann diesen Weg nicht nutzen. Für reduzierte Leitungen bestellt die Behörde eine geeignete Vertretung mit anteiliger Aufgaben- und Stundenaufteilung. Zum Nachlesen: LDG §49 und §49a Abs.1.",
+    "hauptquelle": "LDG §49",
+    "id": "B26-L2-014",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Leiterinnen, Leiter und Schulaufsicht sind von der Herabsetzung aus beliebigem Anlass ausgenommen",
+      "Bei reduzierter Leitung wird eine geeignete Vertretung mit anteiliger Aufgabenaufteilung betraut",
+      "Auch die Schulleitung kann jederzeit aus beliebigem Anlass halbtags arbeiten",
+      "Eine Vertretung der Leitung ist gesetzlich ausgeschlossen",
+      "Die Leiterfunktion entfällt automatisch bei jedem Teilzeitantrag",
+      "Reduzierte Leitungen behalten alle Leitungsstunden ungekürzt zusätzlich"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Für Leitung und Aufsicht gilt der Ausschluss von der beliebigen Herabsetzung.",
+      "Richtig: Geeignete Vertretung mit anteiliger Aufteilung sichert die Leitungsaufgaben.",
+      "Falsch: Gerade der beliebige Anlass steht der Leitung nicht offen.",
+      "Falsch: Die Teilbetrauung einer Vertretung ist ausdrücklich vorgesehen.",
+      "Falsch: Die Funktion entfällt nicht automatisch, Vertretung sichert sie ab.",
+      "Falsch: Leitungs- und Unterrichtsstunden werden anteilig aufgeteilt, nicht verdoppelt."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Ybbs will aus privaten Gründen halbtags leiten, seine Stellvertreterin Frau Zangerl wäre bereit, ihn anteilig zu vertreten. Der Landesschulrat erklärt beiden, dass für Leitungsfunktionen bei der beliebigen Herabsetzung eine Ausnahme gilt und wie eine Vertretungslösung bei reduzierter Leitung aussieht. Beide fragen, welche Regeln hier zutreffen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Behinderung mit erhöhter Beihilfe überwindet die Altersgrenze der Elternteilzeit. Der gemeinsame Haushalt bleibt auch bei zeitweiligem Heilaufenthalt bestehen. Daneben stehen Pflegekarenz und Pflegeteilzeit als eigene Modelle für akute Phasen bereit. Zum Nachlesen: LDG §46 Abs.6.",
+    "hauptquelle": "LDG §46 Abs.6",
+    "id": "B26-L2-015",
+    "level": "L2",
+    "modul_id": "B26",
+    "optionen": [
+      "Herabsetzung für ein behindertes Kind mit erhöhter Familienbeihilfe auch nach dem achten Geburtstag",
+      "Fortbestand des gemeinsamen Haushalts bei zeitweiligem Heilaufenthalt außerhalb",
+      "Pflegekarenz als unbezahlter Urlaub für die intensive Pflegephase",
+      "Endgültiger Wegfall jeder Betreuungsmöglichkeit mit dem achten Geburtstag",
+      "Verbot, je wieder in den Dienst zurückzukehren"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Behinderung mit erhöhter Beihilfe verlängert die Herabsetzung über acht hinaus.",
+      "Richtig: Zeitweilige Heilaufenthalte lassen den Haushalt weiter bestehen.",
+      "Richtig: Die Pflegekarenz ergänzt die Teilzeitmodelle bei Vollbeanspruchung.",
+      "Falsch: Mit acht endet nicht alles, die Ausnahme für behinderte Kinder greift.",
+      "Falsch: Rückkehr und Änderung bleiben auf Antrag möglich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Zeller betreut ihre elfjährige behinderte Tochter mit erhöhter Familienbeihilfe im gemeinsamen Haushalt, die gerade für mehrere Wochen zur Heilbehandlung in einer Klinik ist. Die Mutter arbeitet in reduzierter Lehrverpflichtung weiter, der Vater überlegt für eine akute Phase eine gänzliche Pflegefreistellung. Beide fragen, welche Betreuungswege ihnen nach dem achten Geburtstag noch offenstehen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

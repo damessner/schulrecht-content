@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "aufloesung": "Lehrerin Huber kann eine Herabsetzung aus gesundheitlichen Gründen beantragen. Gesundheitliche Gründe in der eigenen Person sind ein eigener anerkannter Grund für die Ermäßigung. Die Dienstbehörde prüft Antrag und Ausmaß im Einzelfall. Zum Nachlesen: LDG §44 Abs.1 Z1.",
+    "hauptquelle": "LDG §44 Abs.1 Z1",
+    "id": "B26-L1-001",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Sie kann eine Herabsetzung aus gesundheitlichen Gründen beantragen, weil die Belastung in ihrer Person liegt.",
+      "Sie hat keinerlei Möglichkeit, ihre Stunden aus gesundheitlichen Gründen zu reduzieren.",
+      "Eine Herabsetzung gibt es nur für Tätigkeiten außerhalb der Schule, nie für die eigene Gesundheit.",
+      "Sie muss zuerst kündigen und sich später neu bewerben, um weniger zu unterrichten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gesundheitliche Gründe in der eigenen Person sind ein anerkannter Herabsetzungsgrund.",
+      "Falsch: Genau für gesundheitliche Gründe sieht das Gesetz eine Ermäßigung vor.",
+      "Falsch: Die eigene Gesundheit ist ein selbstständiger Grund neben auswärtigen Tätigkeiten.",
+      "Falsch: Eine Kündigung ist unnötig, der Antrag auf Herabsetzung ist der richtige Weg."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mittelschullehrerin Huber leidet seit Monaten unter starken Rückenproblemen und schafft ihr volles Stundenmaß kaum noch. Ihre Ärztin rät ihr dringend zu einer zeitweisen Entlastung im Dienst. Sie fragt, ob sie ihre Unterrichtsverpflichtung aus gesundheitlichen Gründen herabsetzen lassen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Gruber kann eine Herabsetzung im öffentlichen Interesse erhalten. Seine Mitarbeit bringt Erfahrungen, die positiv auf seine konkrete Unterrichtsarbeit zurückwirken. Voraussetzung ist, dass der Unterrichtsbetrieb es zulässt und die Tätigkeit nicht nebenher möglich ist. Zum Nachlesen: LDG §44 Abs.1 Z2.",
+    "hauptquelle": "LDG §44 Abs.1 Z2",
+    "id": "B26-L1-002",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Eine Herabsetzung für Projekte außerhalb der Schule ist grundsätzlich ausgeschlossen.",
+      "Er kann eine Herabsetzung im öffentlichen Interesse bekommen, weil die Projekterfahrung seiner Unterrichtsarbeit zugutekommt.",
+      "Er muss dafür unbezahlten Karenzurlaub nehmen, eine Stundenreduktion ist unmöglich.",
+      "Eine Herabsetzung gilt nur bei Krankheit, nie für pädagogische Projekte."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für Tätigkeiten im öffentlichen Interesse ist die Herabsetzung ausdrücklich vorgesehen.",
+      "Richtig: Projekterfahrung mit Rückwirkung auf den Unterricht ist der passende Grund.",
+      "Falsch: Karenzurlaub ist hier der falsche Weg, die Ermäßigung passt genau.",
+      "Falsch: Neben Gesundheit gibt es weitere Gründe wie das öffentliche Interesse."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber soll zwei Jahre lang halbtags bei einem pädagogischen Forschungsprojekt eines Museums mitarbeiten und dort Unterrichtsmaterial entwickeln. Die gewonnenen Erfahrungen will er direkt in seinen eigenen Unterricht einbringen. Er fragt, ob er seine Lehrverpflichtung für diese Tätigkeit herabsetzen lassen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Moser kann eine Herabsetzung für die kulturelle Tätigkeit erhalten. Entscheidend ist, dass der Kulturverein den vorgeschriebenen Ersatz an den Dienstgeber leistet. Ohne diesen Ersatz darf die Ermäßigung aus diesem Grund nicht gewährt werden. Zum Nachlesen: LDG §44 Abs.1 Z3.",
+    "hauptquelle": "LDG §44 Abs.1 Z3",
+    "id": "B26-L1-003",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Für kulturelle Tätigkeiten gibt es überhaupt keine Stundenreduktion.",
+      "Eine Ermäßigung ist nur möglich, wenn der Verein überhaupt keinen Ersatz leistet.",
+      "Sie kann eine Herabsetzung für die kulturelle Tätigkeit bekommen, wenn der Verein den vorgeschriebenen Ersatz leistet.",
+      "Sie muss sich für die Chorarbeit unbezahlt freistellen lassen, eine Teillösung gibt es nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kulturelle Tätigkeiten im Sinne der Schule sind ein eigener Herabsetzungsgrund.",
+      "Falsch: Gerade der Ersatz durch die Einrichtung ist Voraussetzung für diesen Grund.",
+      "Richtig: Kulturelle Tätigkeit plus Ersatzleistung durch den Verein ergeben den Anspruchsweg.",
+      "Falsch: Die anteilige Herabsetzung ist genau für solche Fälle gedacht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Moser leitet neben der Schule ehrenamtlich einen Kinderchor eines großen Kulturvereins und soll dort künftig deutlich mehr Proben übernehmen. Der Verein ist bereit, die vorgesehene Ersatzleistung an den Dienstgeber zu zahlen. Sie fragt, ob sie ihre Unterrichtsverpflichtung für diese kulturelle Aufgabe reduzieren kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Herabsetzung aus gesundheitlichen Gründen darf höchstens die Hälfte betragen. Zusätzlich muss die verbleibende Unterrichtsverpflichtung mindestens 360 Jahresstunden umfassen. Beide Grenzen gelten nebeneinander. Zum Nachlesen: LDG §44 Abs.3.",
+    "hauptquelle": "LDG §44 Abs.3",
+    "id": "B26-L1-004",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Aus gesundheitlichen Gründen kann die Lehrverpflichtung bis auf ein Viertel reduziert werden.",
+      "Aus gesundheitlichen Gründen darf höchstens die Hälfte wegfallen und es müssen mindestens 360 Jahresstunden Unterricht bleiben.",
+      "Bei Krankheit darf die Lehrerin den Unterricht ein ganzes Jahr völlig aussetzen und trotzdem Teilbezüge behalten.",
+      "Die Grenze liegt bei genau zehn Wochenstunden, unabhängig vom Gesamtausmaß."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Viertel als Grenze gilt für die Pflegeteilzeit, nicht für den Krankheitsfall.",
+      "Richtig: Höchstens die Hälfte weniger und mindestens 360 Jahresstunden sind die beiden Schranken.",
+      "Falsch: Ein völliges Aussetzen ist eine Freistellung, keine Herabsetzung der Lehrverpflichtung.",
+      "Falsch: Eine fixe Zehn-Stunden-Grenze kennt das Gesetz hier nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Volksschullehrer Auer will aus gesundheitlichen Gründen deutlich weniger unterrichten und überlegt, nur noch ein Viertel seiner Stunden zu halten. Die Direktion erklärt ihm, dass es für Ermäßigungen aus Krankheitsgründen eine Unter- und eine Obergrenze gibt. Er fragt, wie weit er seine Lehrverpflichtung höchstens herabsetzen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Herabsetzung aus gesundheitlichen Gründen ist auf insgesamt höchstens zwei Jahre begrenzt. Längere oder wiederholte Ermäßigungen aus diesem Grund sind darüber hinaus nicht zulässig. Für andere Gründe gelten eigene längere Höchstfristen. Zum Nachlesen: LDG §44 Abs.4.",
+    "hauptquelle": "LDG §44 Abs.4",
+    "id": "B26-L1-005",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Für die gesundheitlich begründete Ermäßigung gibt es keine zeitliche Grenze.",
+      "Die Ermäßigung aus gesundheitlichen Gründen ist auf insgesamt höchstens zwei Jahre begrenzt.",
+      "Jede gesundheitliche Ermäßigung endet automatisch nach genau drei Monaten.",
+      "Die Gesamtdauer darf höchstens zehn Jahre betragen, genau wie bei kulturellen Tätigkeiten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade für gesundheitliche Gründe gilt die kürzeste Höchstfrist.",
+      "Richtig: Zwei Jahre Gesamtdauer sind die Obergrenze aus gesundheitlichen Gründen.",
+      "Falsch: Eine Drei-Monats-Grenze gilt für die Pflegeteilzeit, nicht hier.",
+      "Falsch: Zehn Jahre gelten für kulturelle Tätigkeiten, nicht für Krankheitsfälle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Berger ist bereits im zweiten Jahr wegen einer chronischen Erkrankung mit reduzierter Lehrverpflichtung im Dienst. Nun möchte sie die Ermäßigung um ein drittes Jahr verlängern. Sie fragt, ob es eine zeitliche Höchstgrenze für Herabsetzungen aus gesundheitlichen Gründen gibt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Wieser kann seine Lehrverpflichtung für das Studium herabsetzen lassen. Ein beliebiger Anlass genügt, solange keine wichtigen dienstlichen Interessen entgegenstehen. Die Reduktion ist bis auf die Hälfte des Vollausmaßes möglich. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "B26-L1-006",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Eine Reduktion aus privatem Anlass wie einem Studium ist grundsätzlich ausgeschlossen.",
+      "Er kann die Lehrverpflichtung bis auf die Hälfte herabsetzen lassen, wenn keine wichtigen dienstlichen Interessen entgegenstehen.",
+      "Er darf höchstens zwei Stunden abgeben, mehr ist aus beliebigem Anlass nie möglich.",
+      "Eine Herabsetzung aus beliebigem Anlass steht nur Lehrerinnen mit Kindern zu."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch ein privater Anlass wie ein Studium kann eine Herabsetzung tragen.",
+      "Richtig: Beliebiger Anlass plus keine wichtigen Gegengründe erlauben die Reduktion bis zur Hälfte.",
+      "Falsch: Eine Zwei-Stunden-Grenze gibt es nicht, Maßstab ist die Hälfte des Vollausmaßes.",
+      "Falsch: Der Anlass ist frei wählbar und hängt nicht von Kindern ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Wieser beginnt neben dem Beruf ein berufsbegleitendes Masterstudium und möchte zwei Jahre lang nur noch halbtags unterrichten. An seiner Schule gibt es genug Personal, der Stundenplan ließe sich einrichten. Er fragt, ob er seine Lehrverpflichtung für das Studium aus beliebigem Anlass reduzieren kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Herabsetzung wirkt jeweils für ein Jahr oder ein Vielfaches davon. Wer insgesamt über zehn Jahre reduziert war, behält das zuletzt gewährte Ausmaß danach dauerhaft. Eine Änderung bleibt danach nur noch auf dem Weg über die Behörde möglich. Zum Nachlesen: LDG §45 Abs.3.",
+    "hauptquelle": "LDG §45 Abs.3",
+    "id": "B26-L1-007",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Die Herabsetzung kann auch für einzelne Monate oder halbe Schuljahre gewährt werden.",
+      "Nach insgesamt zehn Jahren Herabsetzung bleibt das zuletzt gewährte Ausmaß dauerhaft wirksam.",
+      "Nach genau fünf Jahren endet jede Herabsetzung automatisch für immer.",
+      "Die Dauer der Herabsetzung darf höchstens einen Monat betragen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wirksam wird die Herabsetzung für ein Jahr oder ein Vielfaches eines Jahres.",
+      "Richtig: Nach zehn Jahren Gesamtzeit verfestigt sich das zuletzt gewährte Ausmaß.",
+      "Falsch: Fünf Jahre als Endpunkt kennt das Gesetz an dieser Stelle nicht.",
+      "Falsch: Ein Monat ist viel zu kurz, Maßstab sind ganze Jahre."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Pichler arbeitet seit vielen Jahren durchgehend in Teilzeit und hat in Summe bereits mehr als zehn Jahre mit herabgesetzter Lehrverpflichtung hinter sich. Sie fragt, was mit ihrem Beschäftigungsausmaß geschieht, wenn die Zehn-Jahres-Grenze überschritten ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Während der Verwendung an einer Schule im Ausland darf die Lehrverpflichtung nicht herabgesetzt werden. Dieser Ausschluss gilt ohne Ausnahme für alle Auslandsdienststellen. Ein Antrag wäre daher von vornherein abzulehnen. Zum Nachlesen: LDG §45 Abs.4 Z1.",
+    "hauptquelle": "LDG §45 Abs.4 Z1",
+    "id": "B26-L1-008",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "An Auslandsschulen gilt die Herabsetzung ganz normal wie im Inland.",
+      "Während einer Verwendung an einer Schule im Ausland darf die Lehrverpflichtung nicht herabgesetzt werden.",
+      "Im Ausland ist nur eine Reduktion bis auf ein Viertel erlaubt.",
+      "Die Herabsetzung im Ausland hängt allein vom Wunsch der Lehrerin ab."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für Auslandsdienststellen ordnet das Gesetz einen klaren Ausschluss an.",
+      "Richtig: An einer im Ausland gelegenen Dienststelle ist die Herabsetzung ausgeschlossen.",
+      "Falsch: Ein Viertel als Grenze gehört zur Pflegeteilzeit, nicht zum Auslandsfall.",
+      "Falsch: Der Wunsch allein genügt nicht, der Ausschluss gilt jedenfalls."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Stein wird für zwei Jahre an eine österreichische Schule im Ausland versetzt und möchte dort nur halbtags unterrichten, um nebenbei zu reisen. Sie stellt einen Antrag auf Herabsetzung ihrer Lehrverpflichtung. Sie fragt, ob eine Teilzeit während der Auslandsverwendung überhaupt möglich ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Kaufmann hat Anspruch auf die Herabsetzung zur Betreuung ihres Kindes. Sie betreut ihr im Haushalt lebendes Kind überwiegend selbst und reduziert bis auf die Hälfte. Die Ermäßigung endet spätestens mit dem achten Geburtstag des Kindes. Zum Nachlesen: LDG §46 Abs.1 bis 3.",
+    "hauptquelle": "LDG §46 Abs.1",
+    "id": "B26-L1-009",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Eine Herabsetzung zur Kinderbetreuung gibt es nur für Alleinerziehende.",
+      "Sie hat Anspruch auf Herabsetzung bis auf die Hälfte, weil sie ihr im Haushalt lebendes Kind überwiegend selbst betreut.",
+      "Zur Kinderbetreuung darf höchstens eine einzige Stunde abgegeben werden.",
+      "Elternteilzeit steht nur zu, wenn das Kind bereits zur Schule geht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Anspruch hängt nicht vom Familienstand, sondern von Haushalt und Selbstbetreuung ab.",
+      "Richtig: Eigenes Kind im Haushalt plus überwiegende Selbstbetreuung tragen die Herabsetzung bis zur Hälfte.",
+      "Falsch: Eine Ein-Stunden-Grenze gibt es nicht, Maßstab ist die Hälfte des Vollausmaßes.",
+      "Falsch: Gerade kleine Kinder vor dem Schuleintritt sind der typische Fall."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Volksschullehrerin Kaufmann ist vollbeschäftigt und hat eine dreijährige Tochter, die bei ihr im Haushalt lebt und die sie überwiegend selbst betreut. Sie möchte bis zum Schuleintritt ihrer Tochter nur noch halbtags unterrichten. Sie fragt, ob sie einen Anspruch auf Herabsetzung zur Betreuung ihres Kindes hat.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Antrag muss spätestens zwei Monate vor dem gewünschten Beginn gestellt werden. Eine verspätete Einbringung gefährdet den gewünschten Starttermin. Die Frist verschafft der Dienstbehörde die nötige Planungszeit. Zum Nachlesen: LDG §46 Abs.4.",
+    "hauptquelle": "LDG §46 Abs.4",
+    "id": "B26-L1-010",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Der Antrag kann noch am Tag vor dem gewünschten Beginn gestellt werden.",
+      "Der Antrag ist spätestens zwei Monate vor dem gewollten Wirksamkeitsbeginn zu stellen.",
+      "Eine Frist für den Antrag gibt es nicht, er wirkt immer rückwirkend.",
+      "Der Antrag muss spätestens ein volles Jahr vorher eingebracht werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Tag Vorlauf reicht nicht, das Gesetz verlangt zwei Monate.",
+      "Richtig: Zwei Monate vor dem gewünschten Beginn ist die Antragsfrist.",
+      "Falsch: Ohne Frist und rückwirkend sieht das Gesetz gerade nicht vor.",
+      "Falsch: Ein Jahr Vorlauf wird nicht verlangt, zwei Monate genügen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner will ab September in Elternteilzeit gehen und reicht seinen Antrag erst Mitte August bei der Dienstbehörde ein. Die Behörde weist ihn auf eine einzuhaltende Vorlauffrist hin. Er fragt, wie früh er den Antrag auf Herabsetzung zur Kinderbetreuung stellen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Egger darf während des Kinderbetreuungsgeldes auch unter die Hälfte reduzieren. Diese Ausnahme gilt für die von ihr beantragte Dauer des Geldanspruchs. Ohne Kinderbetreuungsgeld bliebe es bei der Hälfte als Untergrenze. Zum Nachlesen: LDG §46 Abs.5.",
+    "hauptquelle": "LDG §46 Abs.5",
+    "id": "B26-L1-011",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Unter die Hälfte darf grundsätzlich niemals reduziert werden, auch nicht mit Kinderbetreuungsgeld.",
+      "Solange sie Kinderbetreuungsgeld bezieht, darf sie für diese Zeit auch unter die Hälfte reduzieren.",
+      "Unter die Hälfte geht es nur bei Zwillingen, nicht bei einem einzelnen Kind.",
+      "Eine Reduktion unter die Hälfte ist nur in den Schulferien zulässig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für die Zeit des Kinderbetreuungsgeldes macht das Gesetz eine Ausnahme.",
+      "Richtig: Der laufende Geldbezug erlaubt befristet auch eine Reduktion unter die Hälfte.",
+      "Falsch: Auf die Zahl der Kinder stellt das Gesetz hier nicht ab.",
+      "Falsch: Eine Ferienbeschränkung gibt es nicht, Maßstab ist der Geldbezug."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger bezieht Kinderbetreuungsgeld für ihren einjährigen Sohn und möchte für diese Zeit nur noch ein Drittel ihrer Stunden unterrichten. Sie fragt, ob sie ausnahmsweise auch unter die Hälfte des Vollausmaßes herabsetzen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Familie Hofer kann die Herabsetzung auch nach dem achten Geburtstag weiterführen. Für ein behindertes Kind mit erhöhter Familienbeihilfe im gemeinsamen Haushalt gilt die Altersgrenze nicht. Ein vorübergehender Heilaufenthalt außerhalb lässt den Haushalt weiter bestehen. Zum Nachlesen: LDG §46 Abs.6.",
+    "hauptquelle": "LDG §46 Abs.6",
+    "id": "B26-L1-012",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Mit dem achten Geburtstag endet jede Herabsetzung zur Kinderbetreuung ohne jede Ausnahme.",
+      "Für das behinderte Kind mit erhöhter Familienbeihilfe im gemeinsamen Haushalt wird die Herabsetzung auch nach dem achten Geburtstag gewährt.",
+      "Nach dem achten Geburtstag hilft nur noch eine Kündigung mit späterer Neubewerbung.",
+      "Eine längere Betreuung gibt es nur, wenn das Kind nicht im Haushalt lebt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für behinderte Kinder mit erhöhter Beihilfe ordnet das Gesetz eine Ausnahme an.",
+      "Richtig: Behinderung plus erhöhte Beihilfe plus gemeinsamer Haushalt überwinden die Altersgrenze.",
+      "Falsch: Kündigung und Neubewerbung sind unnötig, die Verlängerung ist vorgesehen.",
+      "Falsch: Der gemeinsame Haushalt ist hier Voraussetzung, nicht Hindernis."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Hofer betreut einen neunjährigen Sohn mit einer schweren Behinderung, für den erhöhte Familienbeihilfe bezogen wird und der im gemeinsamen Haushalt lebt. Die bisherige Elternteilzeit soll über den achten Geburtstag hinaus fortgesetzt werden. Sie fragt, ob die Herabsetzung in diesem Fall weiter gewährt wird.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Brand kann für zwei Monate Pflegeteilzeit bis auf ein Viertel beantragen. Die Pflegeteilzeit dauert mindestens einen Monat und höchstens drei Monate. Sie steht für jeden Angehörigen grundsätzlich nur einmal zu. Zum Nachlesen: LDG §46a Abs.1 und 2.",
+    "hauptquelle": "LDG §46a Abs.1",
+    "id": "B26-L1-013",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Pflegeteilzeit dauert immer genau ein volles Jahr und kann beliebig oft wiederholt werden.",
+      "Er kann für zwei Monate Pflegeteilzeit bis auf ein Viertel seiner Lehrverpflichtung beantragen.",
+      "Pflegeteilzeit erlaubt höchstens eine Reduktion bis auf die Hälfte, nie darunter.",
+      "Pflegeteilzeit gibt es nur für die eigenen Kinder, nicht für die Eltern."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein bis drei Monate und grundsätzlich einmal je Angehörigem sind die Grenzen.",
+      "Richtig: Zwei Monate bis auf ein Viertel liegen genau im vorgesehenen Rahmen.",
+      "Falsch: Bis auf ein Viertel darf reduziert werden, die Hälfte ist hier nicht die Grenze.",
+      "Falsch: Auch die Pflege der Eltern fällt unter die Pflegeteilzeit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brand muss seinen schwer pflegebedürftigen Vater zu Hause betreuen und möchte dafür zwei Monate lang nur noch ein Viertel seiner Stunden unterrichten. Er fragt, ob er für diese kurze intensive Pflegephase eine eigene Pflegeteilzeit beantragen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrerin Steiner kann ein Sabbatical mit einem Schuljahr Freistellung in vier Jahren Rahmenzeit vereinbaren. Nötig sind fünf Dienstjahre und das Fehlen wichtiger dienstlicher Gegengründe. Während der Rahmenzeit erhält sie anteilig gekürzte Bezüge bei voller Dienstleistung in der Arbeitsphase. Zum Nachlesen: LDG §58d Abs.1.",
+    "hauptquelle": "LDG §58d Abs.1",
+    "id": "B26-L1-014",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Ein Sabbatical gibt es nur für Schulleiter, nicht für einfache Lehrerinnen.",
+      "Sie kann ein Schuljahr Freistellung innerhalb einer zwei- bis fünfjährigen Rahmenzeit bei anteiliger Bezugskürzung vereinbaren.",
+      "Beim Sabbatical wird das volle Gehalt weitergezahlt, die Freistellung ist zusätzlich bezahlt.",
+      "Ein Sabbatical kann jederzeit ohne jede Dienstzeitvoraussetzung angetreten werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Jede Lehrperson mit ausreichender Dienstzeit kann ein Sabbatical beantragen.",
+      "Richtig: Ein Schuljahr frei in zwei bis fünf Jahren Rahmenzeit mit gekürzten Bezügen ist das Modell.",
+      "Falsch: Die anteilige Kürzung der Bezüge über die Rahmenzeit gehört zum Modell dazu.",
+      "Falsch: Mindestens fünf Dienstjahre als Lehrperson sind Voraussetzung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Steiner ist seit acht Jahren im Schuldienst und träumt von einem freien Schuljahr für eine große Reise und Weiterbildung. Sie ist bereit, dafür über mehrere Jahre hinweg monatlich weniger Gehalt zu bekommen. Sie fragt, ob sie ein Sabbatical mit einem Jahr Freistellung vereinbaren kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer Winter kann die vorzeitige Beendigung seiner Herabsetzung beantragen. Die Dienstbehörde verfügt sie, wenn keine wichtigen dienstlichen Interessen entgegenstehen. In den letzten vier Monaten des Schuljahres ist eine solche Änderung allerdings ausgeschlossen. Zum Nachlesen: LDG §48 Abs.2 und 5.",
+    "hauptquelle": "LDG §48 Abs.2",
+    "id": "B26-L1-015",
+    "level": "L1",
+    "modul_id": "B26",
+    "optionen": [
+      "Eine einmal gewährte Herabsetzung kann niemals geändert oder beendet werden.",
+      "Er kann die vorzeitige Beendigung beantragen und die Behörde verfügt sie, wenn keine wichtigen dienstlichen Interessen entgegenstehen.",
+      "Die Rückkehr zur Vollzeit ist nur durch Kündigung und Neubewerbung möglich.",
+      "Eine Änderung ist jederzeit möglich, auch noch in der letzten Schulwoche vor den Ferien."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Änderung und vorzeitige Beendigung auf Antrag sind ausdrücklich vorgesehen.",
+      "Richtig: Antrag plus keine wichtigen Gegengründe führen zur vorzeitigen Beendigung.",
+      "Falsch: Kündigung und Neubewerbung sind unnötig, der Antrag genügt.",
+      "Falsch: In den letzten vier Monaten des Schuljahres ist die Änderung ausgeschlossen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Winter ist seit zwei Jahren in Teilzeit, doch seine familiäre Lage hat sich geändert und er möchte ab dem kommenden Semester wieder voll unterrichten. Es stehen gerade die Herbstmonate an, das Schuljahresende ist noch fern. Er fragt, ob er die Herabsetzung vorzeitig beenden kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
