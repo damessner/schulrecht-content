@@ -1,1 +1,389 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §80 Abs.1",
+    "id": "B30-L3-001",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Suspendierung ist nur zulässig, wenn die Belassung im Dienst wegen der Art der vorgeworfenen Pflichtverletzungen das Ansehen oder wesentliche Dienstinteressen gefährden würde.",
+      "Jede Unruhe im Kollegium genügt für eine Suspendierung, ganz ohne Blick auf die vorgeworfenen Taten.",
+      "Eine Suspendierung ist erst nach einem rechtskräftigen Disziplinarerkenntnis möglich.",
+      "Suspendiert werden darf nur bei verhängter Untersuchungshaft, in allen anderen Fällen nie."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Entscheidend ist die Gefährdungslage aus der Art der Vorwürfe heraus.",
+      "Falsch: Bloße Unruhe ohne entsprechende Vorwürfe trägt keine Suspendierung.",
+      "Falsch: Die Suspendierung sichert gerade das laufende Verfahren, sie wartet nicht auf dessen Ende.",
+      "Falsch: Untersuchungshaft ist nur einer von mehreren Suspendierungsgründen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Berufsschule liegen gegen Lehrer Waldner schwere Vorwürfe wegen wiederholter grober Pflichtverletzungen im Aufsichtsbereich vor, die Direktion warnt vor einem Vertrauensschaden für die Schule. Ein Kollege fordert die sofortige Suspendierung, ein anderer meint, schon jede Unruhe im Kollegium reiche dafür aus. Die Behörde prüft den Grenzfall der Suspendierungsvoraussetzungen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Waldners Suspendierung hängt von der Gefährdungslage ab, nicht von bloßer Unruhe. Sie ist nur zu verfügen, wenn die Belassung im Dienst wegen der Art der zur Last gelegten Pflichtverletzungen das Ansehen oder wesentliche Interessen des Dienstes gefährden würde. Zum Nachlesen: LDG §80 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §80 Abs.2",
+    "id": "B30-L3-002",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Beschwerde hat keine aufschiebende Wirkung und der Monatsbezug bleibt für die Dauer auf zwei Drittel gekürzt.",
+      "Die Beschwerde stoppt Suspendierung und Bezugskürzung bis zur endgültigen Entscheidung.",
+      "Der Bezug entfällt während der Suspendierung zur Gänze.",
+      "Eine Bezugskürzung ist nur mit schriftlicher Zustimmung der Lehrerin zulässig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kein Aufschub durch Beschwerde, Kürzung auf zwei Drittel für die Dauer.",
+      "Falsch: Gerade bei Suspendierung schiebt die Beschwerde nichts auf.",
+      "Falsch: Der Bezug entfällt nicht, er wird auf zwei Drittel gekürzt.",
+      "Falsch: Die Kürzung tritt von Gesetzes wegen ein, Zustimmung ist nicht nötig."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lehrerin Pfeifer wurde von der zuständigen Behörde suspendiert und legt dagegen Beschwerde ein, sie rechnet damit, dass damit alles aufgeschoben ist und ihr Bezug ungekürzt weiterläuft. Die Gehaltsstelle kürzt dennoch auf zwei Drittel und zahlt die Suspendierung weiter aus. Pfeifer hält Kürzung und Vollzug für rechtswidrig.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §80 Abs.4"
+    ],
+    "aufloesung": "Pfeifers Beschwerde ändert vorerst nichts, die Kürzung auf zwei Drittel bleibt bestehen. Die Beschwerde gegen eine Suspendierung hat keine aufschiebende Wirkung und jede Suspendierung kürzt den Monatsbezug für ihre Dauer auf zwei Drittel. Zum Nachlesen: LDG §80 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §71 Abs.2",
+    "id": "B30-L3-003",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Es ist nur eine Strafe nach der schwersten Verletzung zu bemessen, die übrigen Verletzungen wirken als Erschwerung.",
+      "Für jede einzelne Verletzung ist eine eigene Strafe zu verhängen und alles wird addiert.",
+      "Die leichteren Verletzungen bleiben völlig unbeachtet und fallen unter den Tisch.",
+      "Bei mehreren Taten ist automatisch immer die Entlassung zu verhängen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eine Strafe nach der schwersten Tat, Rest als Erschwerungsgrund.",
+      "Falsch: Mehrere Strafen nebeneinander gibt es bei gleichzeitiger Erkenntnis nicht.",
+      "Falsch: Die weiteren Verletzungen verschwinden nicht, sie erschweren.",
+      "Falsch: Die schwerste Tat bestimmt das Maß, Entlassung ist kein Automatismus."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Gegen Professor Mair stehen drei selbständige Pflichtverletzungen aus einem Semester gleichzeitig zur Entscheidung an, darunter eine schwere und zwei leichtere im organisatorischen Bereich. Die Kommission überlegt, für jede eine eigene Strafe zu verhängen und alles zusammenzuzählen. Mair meint, es dürfe insgesamt nur eine Strafe geben.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Mair bekommt nur eine Strafe, bemessen nach der schwersten Verletzung. Werden mehrere Pflichtverletzungen gleichzeitig erkannt, ist eine einzige Strafe nach der schwersten Tat zu verhängen, die weiteren Taten wirken als Erschwerung. Zum Nachlesen: LDG §71 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §72 Abs.1",
+    "id": "B30-L3-004",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Verfolgung ist noch möglich, weil die kurzen Fristen erst ab Kenntnis laufen und drei Jahre ab Beendigung noch nicht um sind.",
+      "Nach zwei Jahren ist jede disziplinäre Verfolgung jedenfalls verjährt.",
+      "Sämtliche Fristen laufen erst ab dem Disziplinarerkenntnis selbst.",
+      "Es zählt allein das Datum der ersten Ermahnung durch den Schulleiter."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kenntnisfristen starten erst jetzt, die Dreijahresgrenze ist noch offen.",
+      "Falsch: Zwei Jahre seit der Tat allein verjähren noch nichts.",
+      "Falsch: Das Erkenntnis beendet Fristen, es startet sie nicht.",
+      "Falsch: Maßgeblich sind Kenntnis der Behörde und Beendigung der Tat."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Mittelschule kommt erst jetzt heraus, dass Lehrer Sturm vor zwei Jahren über Monate seine Pflichten im administrativen Bereich verletzt hat, die zuständige Behörde erfährt heute erstmals davon. Sturm beruft sich sofort auf Verjährung und meint, nach zwei Jahren sei alles vorbei. Die Behörde prüft den Fristen-Grenzfall ab Kenntnis und ab Beendigung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Sturms Verjährungseinwand greift nicht, die Sache ist noch verfolgbar. Die kurzen Fristen für Verfügung, Anzeige und Einleitung laufen erst ab Kenntnis der Behörde, und die äußerste Frist von drei Jahren ab Beendigung ist noch offen. Zum Nachlesen: LDG §72 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §72 Abs.1a",
+    "id": "B30-L3-005",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Drei Jahre nach Zustellung der Einleitungsentscheidung darf keine Disziplinarstrafe mehr verhängt werden.",
+      "Das eingeleitete Verfahren kann zeitlich unbegrenzt mit einer Strafe enden.",
+      "Nach der Einleitung gibt es überhaupt keine Fristen mehr zu beachten.",
+      "Erst nach zehn Jahren wäre eine Bestrafung ausgeschlossen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Drei Jahre nach Zustellung der Einleitung ist mit Strafe Schluss.",
+      "Falsch: Auch das eingeleitete Verfahren kennt eine absolute Zeitgrenze.",
+      "Falsch: Die Einleitung löst gerade eine weitere Frist aus.",
+      "Falsch: Zehn Jahre gelten für die Wiederaufnahme, nicht für diese Grenze."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Das Disziplinarverfahren gegen Lehrerin Hofer zieht sich nach Zustellung des Einleitungsbeschlusses bereits über dreieinhalb Jahre hin, ohne dass eine Strafe verhängt wurde. Hofer meint, jetzt dürfe nichts mehr verhängt werden. Die Behörde hält das eingeleitete Verfahren für zeitlich unbegrenzt fortführbar.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Hofers Einwand trifft zu, eine Strafe ist jetzt ausgeschlossen. Drei Jahre nach Zustellung der Entscheidung, ein Verfahren durchzuführen, darf keine Disziplinarstrafe mehr verhängt werden. Zum Nachlesen: LDG §72 Abs.1a."
+  },
+  {
+    "hauptquelle": "LDG §100",
+    "id": "B30-L3-006",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Per Verfügung sind nur ein Verweis oder eine Geldbuße bis zu einem Monatsbezug zulässig.",
+      "Per Verfügung kann jede Strafe bis hin zur Entlassung verhängt werden.",
+      "Eine Verfügung ist nur ohne Geständnis und ohne Aktenlage möglich.",
+      "Gegen eine Disziplinarverfügung gibt es kein einziges Rechtsmittel."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verweis oder kleine Geldbuße, mehr geht im abgekürzten Weg nicht.",
+      "Falsch: Geldstrafe und Entlassung bleiben dem ordentlichen Verfahren vorbehalten.",
+      "Falsch: Geständnis oder klare Aktenlage sind gerade die Voraussetzungen.",
+      "Falsch: Der Einspruch binnen zwei Wochen setzt die Verfügung außer Kraft."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner hat eine Pflichtverletzung vor der Direktion offen eingestanden, die Behörde will die Sache rasch schriftlich erledigen. Im Entwurf stehen eine Geldstrafe von drei Monatsbezügen und vorsorglich die Entlassung im Wiederholungsfall. Brunner zweifelt, ob das in dieser kurzen Form überhaupt gehen kann.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §101"
+    ],
+    "aufloesung": "Brunners Zweifel sind berechtigt, der Entwurf schießt über das Ziel hinaus. Im abgekürzten Weg darf nur ein Verweis oder eine Geldbuße bis zu einem Monatsbezug verhängt werden, alles andere braucht das ordentliche Verfahren. Zum Nachlesen: LDG §100."
+  },
+  {
+    "hauptquelle": "LDG §70 Abs.1",
+    "id": "B30-L3-007",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Mögliche Strafen sind Verweis, Geldbuße bis zu einem Monatsbezug, Geldstrafe bis zu fünf Monatsbezügen und Entlassung.",
+      "Maßgeblich ist der Monatsbezug im Zeitpunkt des Erkenntnisses oder der Verfügung, bei fehlendem Bezug der letzte.",
+      "Kürzungen des Monatsbezugs bleiben bei der Strafbemessung außer Betracht.",
+      "Es gibt zusätzlich die Strafe des lebenslangen Bezugseinbehalts.",
+      "Geldbuße und Geldstrafe sind dasselbe und beliebig austauschbar.",
+      "Maßgeblich ist immer der Einstiegsbezug aus dem ersten Dienstjahr."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese vier Strafen mit diesen Obergrenzen sieht das Gesetz vor.",
+      "Richtig: Stichtag ist Erkenntnis oder Verfügung, sonst der letzte Bezug.",
+      "Richtig: Gekürzte Bezüge werden für die Bemessung weggedacht.",
+      "Falsch: Einen lebenslangen Einbehalt kennt der Strafenkatalog nicht.",
+      "Falsch: Buße und Strafe unterscheiden sich gerade in Höhe und Verfahren.",
+      "Falsch: Es zählt der aktuelle Bezug zum Stichtag, nicht der Einstieg."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Lehrerzimmer kursieren wilde Thesen über mögliche Disziplinarstrafen, von der doppelten Geldstrafe bis zum dauerhaften Einbehalt der Bezüge. Die Personalvertretung stellt eine Übersicht zusammen und bittet das Kollegium, alles Zutreffende anzukreuzen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §70 Abs.2"
+    ],
+    "aufloesung": "Nur Verweis, Geldbuße, Geldstrafe und Entlassung stehen zur Wahl, bemessen am aktuellen Bezug. Der Katalog ist abschließend, Stichtag ist das Erkenntnis oder die Verfügung, und Kürzungen bleiben dabei außer Betracht. Zum Nachlesen: LDG §70 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §71 Abs.1",
+    "id": "B30-L3-008",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Schwere der Dienstpflichtverletzung ist der Maßstab für die Höhe der Strafe.",
+      "Ob die Strafe den Lehrer und andere von weiteren Verletzungen abhält, sowie die Bemessungsgründe des Strafrechts dem Sinne nach.",
+      "Persönliche Verhältnisse und wirtschaftliche Leistungsfähigkeit des Lehrers zählen mit.",
+      "Es zählt allein die Höhe des entstandenen Schadens, alles andere ist egal.",
+      "Bei einem Erstvergehen ist immer automatisch die mildeste Strafe zu nehmen.",
+      "Über die Strafhöhe entscheidet die Beliebtheit des Lehrers im Kollegium."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Schwere der Tat gibt das Maß vor.",
+      "Richtig: Vorbeugung bei Täter und Allgemeinheit plus Sinngehalt des Strafrechts.",
+      "Richtig: Person und Geldbeutel des Lehrers fließen in die Höhe ein.",
+      "Falsch: Der Schaden ist nur ein Aspekt unter mehreren.",
+      "Falsch: Einen Automatismus zur mildesten Strafe gibt es nicht.",
+      "Falsch: Beliebtheit ist kein Bemessungsgrund."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Eine Disziplinarkommission berät über die Strafhöhe in einem mittelschweren Fall aus dem administrativen Bereich und streitet, worauf es dabei ankommt. Ein Mitglied will nur den Schaden zählen, ein anderes bei Erstvergehen automatisch die mildeste Strafe nehmen. Wähle alles, was in die Bemessung einfließen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Die Kommission muss Schwere, Vorbeugung und persönliche Lage gemeinsam wägen. Maß ist die Schwere der Verletzung, dazu kommen Spezial- und Generalprävention mit den Sinngründen des Strafrechts sowie Person und Leistungsfähigkeit. Zum Nachlesen: LDG §71 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §80 Abs.4",
+    "id": "B30-L3-009",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Der Monatsbezug ist für die Dauer der Suspendierung auf zwei Drittel gekürzt.",
+      "Während der vorläufigen Phase wird ungekürzt ausgezahlt, zu viel Ausbezahltes wird nach der Verfügung hereingebracht.",
+      "Die Suspendierung endet spätestens mit rechtskräftigem Abschluss, bei Wegfall der Gründe ist sie sofort aufzuheben.",
+      "Der Bezug entfällt während der Suspendierung zur Gänze.",
+      "Die Kürzung bleibt auch nach Aufhebung der Suspendierung für immer bestehen.",
+      "Einkünfte aus einem Nebenjob während der Suspendierung gehen die Behörde nichts an."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Drittel für die Dauer lautet die Grundregel.",
+      "Richtig: Vorläufig voll ausgezahlt, danach wird aufgerechnet.",
+      "Richtig: Abschluss beendet sie spätestens, Wegfall der Gründe sofort.",
+      "Falsch: Gänzlicher Entfall ist nicht vorgesehen, nur die Drittelkürzung.",
+      "Falsch: Mit dem Ende der Suspendierung endet auch die Kürzung.",
+      "Falsch: Nebenverdienste sind unverzüglich bekanntzugeben und werden angerechnet."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Egger ist suspendiert und rechnet mit dem Schlimmsten, er glaubt, der Bezug entfalle ganz und die Kürzung bleibe für immer bestehen. Seine Vertretung prüft Bezüge, einen Nebenverdienst und das Ende der Maßnahme. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §80 Abs.5"
+    ],
+    "aufloesung": "Eggers Befürchtungen übertreiben, die Kürzung ist befristet und gedeckelt. Der Bezug sinkt für die Dauer auf zwei Drittel, vorläufig Gezahltes wird aufgerechnet, und mit Abschluss oder Wegfall der Gründe endet die Maßnahme. Zum Nachlesen: LDG §80 Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §78 Abs.2",
+    "id": "B30-L3-010",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Mit einer Belehrung oder Ermahnung des Lehrers kann das Auslangen gefunden werden.",
+      "Es wird eine Disziplinarverfügung erlassen.",
+      "Das Verschulden ist geringfügig und die Folgen sind unbedeutend, der Lehrer wird formlos verständigt.",
+      "Auch bei ausreichender Ermahnung muss stets eine Anzeige erstattet werden.",
+      "Geringfügige Fälle gehören immer vor die Disziplinarkommission.",
+      "Der Verdacht wird stillschweigend abgelegt, ohne den Lehrer zu informieren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genügen milde Mittel, unterbleibt die Anzeige.",
+      "Richtig: Die Verfügung ersetzt die Anzeige im leichten Fall.",
+      "Richtig: Geringfügigkeit plus unbedeutende Folgen mit formloser Info genügen.",
+      "Falsch: Ausreichende Ermahnung schließt die Anzeige gerade aus.",
+      "Falsch: Leichte Fälle bleiben bewusst bei der Behörde.",
+      "Falsch: Der Lehrer ist von dem Absehen formlos zu verständigen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Eine Dienstbehörde sichtet mehrere Verdachtsfälle aus dem laufenden Schuljahr und muss entscheiden, wann es mit milden Mitteln getan ist und wann eine Anzeige nötig wird. Die Sachbearbeitung bittet um eine Grenzfall-Übersicht. Wähle alles, womit die Sache korrekt ohne Anzeige erledigt werden kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §78 Abs.5"
+    ],
+    "aufloesung": "Nicht jeder Verdacht muss angezeigt werden, milde Erledigungen genügen oft. Reichen Belehrung oder Ermahnung aus, wird verfügt oder bei Geringfügigkeit mit formloser Verständigung abgesehen. Zum Nachlesen: LDG §78 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §85 Abs.2",
+    "id": "B30-L3-011",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Die dreijährigen Fristen für die Wiederaufnahme betragen im Disziplinarverfahren zehn Jahre.",
+      "Zuungunsten des Beschuldigten ist die Wiederaufnahme nur innerhalb der Verjährungsfristen zulässig.",
+      "Bei Wiederaufnahme auf seinen Antrag oder bei Wiedereinsetzung darf keine strengere Strafe verhängt werden.",
+      "Auf Antrag des Lehrers darf die Strafe bei Wiederaufnahme verschärft werden.",
+      "Nach dem Tod des Lehrers ist jede Wiederaufnahme ausgeschlossen.",
+      "Vor der Entscheidung über die Wiederaufnahme müssen die Parteien nicht gehört werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zehn statt drei Jahre lautet die Sonderfrist.",
+      "Richtig: Zu seinen Ungunsten begrenzen die Verjährungsfristen die Wiederaufnahme.",
+      "Richtig: Auf seinen Antrag oder bei Wiedereinsetzung droht kein strengeres Ergebnis.",
+      "Falsch: Gerade dann ist das Verschlechterungsverbot zu beachten.",
+      "Falsch: Versorgungsberechtigte können nach dem Tod die Wiederaufnahme beantragen.",
+      "Falsch: Die Parteien sind vor der Entscheidung zu hören."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem rechtskräftigen Disziplinarerkenntnis wegen beharrlicher administrativer Pflichtverletzungen tauchen neue Beweismittel auf, beide Seiten prüfen eine Wiederaufnahme des Verfahrens. Im Lehrerzimmer heißt es, dabei könne für den Lehrer alles nur schlimmer werden. Wähle alles Richtige zur Wiederaufnahme.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §85 Abs.1",
+      "LDG §85 Abs.3"
+    ],
+    "aufloesung": "Die Wiederaufnahme ist möglich, aber zeitlich und inhaltlich begrenzt. Es gelten zehn statt drei Jahre, zuungunsten nur in den Verjährungsfristen, und auf Antrag des Lehrers darf nichts Strengeres herauskommen. Zum Nachlesen: LDG §85 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §73 Abs.1",
+    "id": "B30-L3-012",
+    "level": "L3",
+    "modul_id": "B30",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Geht die Pflichtverletzung in der verurteilten Tat auf, bleibt das Disziplinarverfahren aus.",
+      "Richtig erkannt: Ohne Überschuss über die Straftat hinaus wird nicht zusätzlich verfolgt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, wer wegen desselben Vorfalls schon rechtskräftig vom Strafgericht verurteilt wurde, müsse dafür auf jeden Fall zusätzlich disziplinar bestraft werden, selbst wenn die Pflichtverletzung genau in der Straftat aufgeht.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, in diesem Fall ist von der Verfolgung abzusehen. Erschöpft sich die Pflichtverletzung in der bereits verurteilten Straftat, unterbleibt die Disziplinarverfolgung, nur bei einem Überschuss darüber wird nach der Schwere bemessen. Zum Nachlesen: LDG §73 Abs.1."
+  }
+]

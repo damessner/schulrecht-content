@@ -1,1 +1,259 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §10 Abs.5",
+    "id": "B30-L4-001",
+    "level": "L4",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Definitivstellung tritt während des Verfahrens und bis drei Monate nach Abschluss nicht ein, bei Einstellung oder Freispruch aber rückwirkend.",
+      "Das laufende Verfahren ist für die Definitivstellung völlig bedeutungslos.",
+      "Nach Einleitung eines Verfahrens ist die Definitivstellung für immer ausgeschlossen.",
+      "Die Definitivstellung tritt sofort ein und wird bei Schuldspruch automatisch wieder gelöscht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hemmung während Verfahren plus drei Monate, rückwirkend bei gutem Ausgang.",
+      "Falsch: Das Verfahren hemmt den Eintritt der Wirkung ausdrücklich.",
+      "Falsch: Endgültig verloren ist sie nicht, sie tritt nur später ein.",
+      "Falsch: Sofortiger Eintritt mit Löschung danach ist nicht vorgesehen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Provisorische Lehrerin Sattler hat sechs Jahre Dienstzeit voll und erfüllt alle Voraussetzungen, genau in dieser Zeit läuft gegen sie ein Disziplinarverfahren wegen administrativer Vorwürfe. Sie verlangt die sofortige Definitivstellung und meint, das Verfahren ändere daran nichts. Die Behörde zögert die Feststellung hinaus.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Sattler muss das Verfahrensende abwarten, verloren ist die Definitivstellung nicht. Während des Disziplinarverfahrens und bis drei Monate nach Abschluss tritt die Wirkung nicht ein, bei Einstellung oder Freispruch aber rückwirkend. Zum Nachlesen: LDG §10 Abs.5."
+  },
+  {
+    "hauptquelle": "LDG §8 Abs.3",
+    "id": "B30-L4-002",
+    "level": "L4",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Ernennung kann unter Offenhaltung der Stelle vorbehalten und bei gutem Ausgang binnen sechs Monaten rückwirkend vollzogen werden.",
+      "Eine vorbehaltene Ernennung verfällt bei jedem Verfahrensausgang endgültig.",
+      "Während eines Verfahrens darf eine Ernennung nicht einmal vorbehalten werden.",
+      "Die Nachholung ist nur möglich, wenn das Verfahren mit Entlassung endet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorbehalt jetzt, rückwirkender Vollzug bei Einstellung, Freispruch, mildem Schuldspruch, Verweis oder Geldbuße.",
+      "Falsch: Der Vorbehalt sichert gerade den guten Ausgang ab.",
+      "Falsch: Der Vorbehalt per Bescheid ist ausdrücklich vorgesehen.",
+      "Falsch: Bei Entlassung gibt es gerade nichts nachzuholen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "BHS"
+    ],
+    "situation": "Lehrer Hofer ist für eine neue Planstelle vorgesehen, gegen ihn läuft aber ein Disziplinarverfahren. Die Behörde will die Ernennung unter Offenhaltung der Stelle vorbehalten. Hofer fürchtet, bei einem Freispruch trotzdem alles verloren zu haben.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Hofers Sorge ist unbegründet, der Vorbehalt sichert seine Chance. Die Ernennung kann vorbehalten werden und ist binnen sechs Monaten nach rechtskräftigem Abschluss rückwirkend zu vollziehen, wenn das Verfahren günstig oder mild endet. Zum Nachlesen: LDG §8 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §84",
+    "id": "B30-L4-003",
+    "level": "L4",
+    "modul_id": "B30",
+    "optionen": [
+      "Der Verlust ist nur auszusprechen, wenn er aus dienstlichen Interessen geboten erscheint.",
+      "Jeder Schuldspruch löscht automatisch die Rechte aus der schulfesten Stelle.",
+      "Der Verlust darf auch bei Freispruch vorsorglich verhängt werden.",
+      "Über die schulfeste Stelle entscheidet allein die Direktion ohne Verfahren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schuldspruch plus dienstliche Gebotenheit, kein Automatismus.",
+      "Falsch: Ohne gesonderte Gebotenheit bleibt die Stelle erhalten.",
+      "Falsch: Ohne Schuldspruch gibt es diesen Ausspruch nicht.",
+      "Falsch: Der Ausspruch gehört ins Erkenntnis des Verfahrens."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "AHS"
+    ],
+    "situation": "Gegen einen schulfesten Lehrer ergeht ein Schuldspruch wegen einer mittelschweren Pflichtverletzung im organisatorischen Bereich, die Leitung verlangt automatisch auch den Verlust der schulfesten Stelle. Der Lehrer meint, das müsse gesondert begründet sein. Das Erkenntnisgericht prüft den Transfer zum Verwendungsrecht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Leitung irrt, automatisch geht die Stelle nicht verloren. Im Schuldspruch ist der Verlust nur auszusprechen, sofern er aus dienstlichen Interessen geboten erscheint. Zum Nachlesen: LDG §84."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.1",
+    "id": "B30-L4-004",
+    "level": "L4",
+    "modul_id": "B30",
+    "optionen": [
+      "Der Bericht ist zulässig, nach zwei Ermahnungen im richtigen Abstand ist über den Arbeitserfolg zu entscheiden.",
+      "Ermahnungen sind für Bericht und Leistungsfeststellung völlig bedeutungslos.",
+      "Ein Bericht an die Behörde setzt immer eine gerichtlich strafbare Tat voraus.",
+      "Die Behörde darf auf einen solchen Bericht hin keine Feststellung treffen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Ermahnungen im Drei-bis-fünf-Monats-Abstand tragen Bericht und Feststellung.",
+      "Falsch: Die Ermahnungen sind gerade die Voraussetzung für diesen Berichtsweg.",
+      "Falsch: Es geht um den Arbeitserfolg, nicht um Strafrecht.",
+      "Falsch: Die Feststellung über den Arbeitserfolg ist genau ihre Aufgabe."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Leiter Krenn ist mit den Leistungen eines Lehrers dauerhaft unzufrieden, er hat ihn zweimal mit vier Monaten Abstand nachweislich ermahnt und der Lehrer war im Schuljahr durchgehend im Dienst. Nun will Krenn einen Bericht an die Behörde erstatten. Der Lehrer hält Bericht und Leistungsfeststellung für unzulässig und verwechselt sie mit einer Disziplinaranzeige.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §63a Abs.2",
+      "LDG §66 Abs.1"
+    ],
+    "aufloesung": "Krenns Bericht ist zulässig und die Behörde muss über den Arbeitserfolg entscheiden. Nach zweimaliger Ermahnung im Abstand von drei bis fünf Monaten ist festzustellen, ob der Lehrer den erwarteten Erfolg trotz Ermahnung nicht aufweist. Zum Nachlesen: LDG §63 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §10 Abs.5",
+    "id": "B30-L4-005",
+    "level": "L4",
+    "modul_id": "B30",
+    "optionen": [
+      "Die gehemmte Definitivstellung tritt rückwirkend ein.",
+      "Eine zurückgehaltene Änderung des Amtstitels tritt rückwirkend ein.",
+      "Die Kosten des Verfahrens trägt das Amt.",
+      "Der Freispruch zählt in späteren Verfahren als Vorstrafe mit.",
+      "Die Kosten des eigenen Verteidigers trägt jedenfalls das Amt.",
+      "Eine vorbehaltene Ernennung ist endgültig verfallen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bei Einstellung oder Freispruch wirkt die Definitivstellung zurück.",
+      "Richtig: Auch die Amtstitel-Änderung wird rückwirkend wirksam.",
+      "Richtig: Bei Einstellung und Freispruch trägt das Amt die Verfahrenskosten.",
+      "Falsch: Ein Freispruch ist keine Vorstrafe und darf nicht angelastet werden.",
+      "Falsch: Verteidigerkosten trägt in allen Fällen die Lehrperson selbst.",
+      "Falsch: Der Vorbehalt lebt bei gutem Ausgang gerade wieder auf."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Das Disziplinarverfahren gegen Lehrerin Berger endet mit Freispruch, sie will wissen, was das für Definitivstellung, Amtstitel, Ernennungsvorbehalt und Kosten bedeutet. Die Personalvertretung erstellt eine Transfer-Checkliste. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §55 Abs.7",
+      "LDG §86 Abs.1"
+    ],
+    "aufloesung": "Bergers Freispruch heilt die Verfahrensfolgen weitgehend, nur den Verteidiger zahlt sie selbst. Definitivstellung und Amtstitel wirken rückwirkend, die Verfahrenskosten trägt das Amt und der Vorbehalt lebt wieder auf. Zum Nachlesen: LDG §10 Abs.5."
+  },
+  {
+    "hauptquelle": "LDG §90",
+    "id": "B30-L4-006",
+    "level": "L4",
+    "modul_id": "B30",
+    "optionen": [
+      "Die alte Bestrafung darf in einem neuen Disziplinarverfahren nicht mehr berücksichtigt werden.",
+      "Belehrung oder Ermahnung dürfen nach drei Jahren ohne weitere Verletzung zu keinen Nachteilen führen, Aufzeichnungen sind zu vernichten.",
+      "Über Strafe und Stellenverlust hinaus darf die Verletzung zu keinen weiteren dienstrechtlichen Nachteilen führen.",
+      "Jede Disziplinarstrafe wirkt lebenslang als Erschwerung in jedem Folgeverfahren.",
+      "Alte Ermahnungen bleiben für immer wirksam in der Personalakte.",
+      "Neben der Strafe darf die Behörde frei zusätzliche dienstrechtliche Nachteile verhängen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nach drei Jahren ohne neue Verletzung ist die alte Strafe verbraucht.",
+      "Richtig: Milde Mittel tilgen sich nach drei Jahren mit Vernichtung der Aufzeichnungen.",
+      "Richtig: Zusätzliche Nachteile über Strafe und Stellenverlust hinaus sind ausgeschlossen.",
+      "Falsch: Die Dreijahresgrenze kappt gerade die lebenslange Wirkung.",
+      "Falsch: Auch Ermahnungen tilgen sich nach drei Jahren.",
+      "Falsch: Genau solche Zusatznachteile verbietet das Gesetz."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS",
+      "MS"
+    ],
+    "situation": "Drei Jahre nach einer Geldbuße ohne weitere Vorfälle bewirbt sich Lehrer Wieser um eine Leitungsfunktion und fürchtet alte Nachteile, parallel sorgt sich eine Kollegin um eine fast vier Jahre alte Ermahnung. Die Behörde prüft Tilgung und Folgen beider Maßnahmen. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §78 Abs.2a"
+    ],
+    "aufloesung": "Beide Sorgen sind nach drei Jahren unauffälligen Dienstes unbegründet. Die alte Strafe darf nicht mehr berücksichtigt werden, die Ermahnung tilgt sich mit Vernichtung, und Zusatznachteile über die Strafe hinaus sind ohnehin ausgeschlossen. Zum Nachlesen: LDG §90."
+  },
+  {
+    "hauptquelle": "LDG §12 Abs.8",
+    "id": "B30-L4-007",
+    "level": "L4",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Versetzung in den Ruhestand ist während der Suspendierung unzulässig.",
+      "Eine Erklärung über den Ruhestand wird während der Suspendierung nicht wirksam.",
+      "Ein Sabbatical endet bei einer Suspendierung, sobald feststeht, dass der Anlass einen Monat übersteigt.",
+      "Während der Suspendierung kann man sich problemlos in den Ruhestand versetzen lassen.",
+      "Die Ruhestandserklärung wirkt trotz Suspendierung sofort.",
+      "Das Sabbatical läuft während der Suspendierung unberührt weiter."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ruhestandsversetzung und Suspendierung schließen einander aus.",
+      "Richtig: Die Erklärung wird erst nach Ende der Suspendierung wirksam.",
+      "Richtig: Längere Suspendierung beendet das Sabbatical.",
+      "Falsch: Genau das ist während der Suspendierung gesperrt.",
+      "Falsch: Die Wirksamkeit ist bis zum Ende der Suspendierung gehemmt.",
+      "Falsch: Das Sabbatical endet bei diesem Anlass."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein suspendierter Lehrer will sich während der Suspendierung in den Ruhestand versetzen lassen und sein laufendes Sabbatical unberührt fortführen. Die Behörde prüft den Transfer zwischen Suspendierung, Ruhestand und Sabbatical. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §13c Abs.3",
+      "LDG §58d Abs.6"
+    ],
+    "aufloesung": "Der Lehrer kann sich der Suspendierung nicht durch Flucht in Ruhestand oder Sabbatical entziehen. Ruhestandsversetzung und wirksame Ruhestandserklärung sind gesperrt, und das Sabbatical endet bei längerer Suspendierung. Zum Nachlesen: LDG §12 Abs.8."
+  },
+  {
+    "hauptquelle": "LDG §73 Abs.2",
+    "id": "B30-L4-008",
+    "level": "L4",
+    "modul_id": "B30",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: An die Tatsachenfeststellung des Strafurteils ist die Behörde gebunden.",
+      "Richtig erkannt: Was das Gericht als nicht erweisbar ansah, darf nicht als erwiesen gelten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Direktion: Eine Kollegin behauptet, die Disziplinarbehörde könne einen Sachverhalt frei anders beurteilen, selbst wenn das Strafgericht dieselbe Tatsache in seinem rechtskräftigen Urteil als nicht erweisbar angesehen hat.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, die Behörde ist an das Strafurteil gebunden. Sie ist an die Tatsachenfeststellung des rechtskräftigen Urteils gebunden und darf nichts als erwiesen annehmen, was das Gericht als nicht erweisbar ansah. Zum Nachlesen: LDG §73 Abs.2."
+  }
+]
