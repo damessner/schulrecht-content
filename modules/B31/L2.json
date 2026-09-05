@@ -1,1 +1,528 @@
-[]
+[
+  {
+    "aufloesung": "Richtig sind Anwesenheit vor Ort, ständiger Überblick und Erkennen von Gefährdungen. Wirksame Aufsicht heißt vor Ort sein, die Gruppe im Blick behalten und bei Gefahren sofort eingreifen. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B31-L2-001",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Während der Aufsicht tatsächlich vor Ort und ansprechbar sein.",
+      "Die Aufsicht nebenbei per Handy-Spielen vom Bankerl aus erledigen.",
+      "Ständig den Überblick über die ganze zu beaufsichtigende Gruppe behalten.",
+      "Einen verlässlichen Schüler als Ersatzaufsicht einteilen und gehen.",
+      "Gefährdungen wie Rangeleien oder blockierte Fluchtwege sofort erkennen und abstellen.",
+      "Die Aufsicht nur alle zwanzig Minuten durch kurzes Vorbeischauen wahrnehmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anwesenheit und Ansprechbarkeit sind die Basis jeder Aufsicht.",
+      "Falsch: Ablenkung schließt wirksame Aufsicht aus.",
+      "Richtig: Nur wer die Gruppe im Blick hat, kann rechtzeitig eingreifen.",
+      "Falsch: Schüler können keine Aufsichtsperson ersetzen.",
+      "Richtig: Gefährdungen erkennen und sofort abstellen gehört zur Sorgfalt.",
+      "Falsch: Stichproben sind keine lückenlose Aufsicht."
+    ],
+    "richtig": [
+      0,
+      2,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Berger übernimmt erstmals die Gangaufsicht in einem großen Schulhaus mit zwei Stiegenhäusern. Er fragt sich, worauf es ankommt, damit seine Aufsicht im Ernstfall als sorgfältig gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind persönliche Übergabe mit Zustimmung, Information über Besonderheiten und Vergewisserung der Übernahme. Eine Vertretung wirkt nur bei klarer Absprache mit einer geeigneten Person, die tatsächlich übernimmt. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B31-L2-002",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Die Klasse persönlich an eine geeignete Person mit deren ausdrücklicher Zustimmung übergeben.",
+      "Einen Zettel mit Arbeitsauftrag aufs Pult legen und das Zimmer verlassen.",
+      "Die übernehmende Person über Besonderheiten wie Allergien oder Konflikte informieren.",
+      "Sich vergewissern, dass die übernehmende Person die Aufsicht tatsächlich antritt.",
+      "Die Aufsicht kommentarlos dem Hausmeister zuschieben, der gerade vorbeikommt.",
+      "Per Nachricht an irgendeine Kollegin die Aufsicht als erledigt betrachten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Persönlich, geeignet und mit Zustimmung, so gelingt die Übergabe.",
+      "Falsch: Ein Zettel ersetzt keine Aufsichtsperson.",
+      "Richtig: Nur informierte Aufsicht kann richtig reagieren.",
+      "Richtig: Erst die tatsächliche Übernahme beendet die eigene Verantwortung.",
+      "Falsch: Ohne Eignung, Zustimmung und Information gibt es keine Übergabe.",
+      "Falsch: Ohne Bestätigung und Übernahme bleibt man selbst verantwortlich."
+    ],
+    "richtig": [
+      0,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger muss ihre Klasse während eines Unterrichtsblocks wegen eines dringenden Termins verlassen. Sie will die Vertretung so organisieren, dass die Übergabe im Ernstfall standhält.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Eignung der Person und Verbleib der Gesamtverantwortung. Wer delegiert, muss eine zuverlässige Person wählen, klar anweisen und die Gesamtverantwortung behalten. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-003",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Die Aufgabe an eine zuverlässige und geeignete Begleitperson übertragen.",
+      "Klar anweisen, wofür die Begleitperson zuständig ist und wo Grenzen liegen.",
+      "Mit der Delegation jede eigene Verantwortung automatisch loswerden.",
+      "Die Begleitperson für gefährliche Alleingänge ohne Absprache freigeben.",
+      "Die Gesamtverantwortung für die Gruppe als Lehrperson behalten.",
+      "Die Auswahl dem Zufall überlassen, jede Person ist gleich geeignet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eignung und Zuverlässigkeit sind Voraussetzung jeder Delegation.",
+      "Richtig: Klare Anweisung begrenzt die Aufgabe und sichert die Gruppe.",
+      "Falsch: Delegation überträgt die Aufgabe, nicht die Gesamtverantwortung.",
+      "Falsch: Gefährliches ohne Absprache freizugeben verletzt die Sorgfalt.",
+      "Richtig: Die Letztverantwortung bleibt bei der Lehrperson.",
+      "Falsch: Die Auswahl trifft man sorgfältig, nicht nach Zufall."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Professor Hofer nimmt eine zusätzliche Begleitperson auf den Wandertag mit und teilt ihr eine Teilgruppe zu. Er fragt sich, was bei einer solchen Delegation dienstrechtlich zu beachten ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Streckenerkundung, ausreichende Begleitung und Regeln samt Notfallplan. Unbekanntes Gelände verlangt Vorbereitung, passende Begleitpersonen und klare Verhaltensregeln. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-004",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Die Strecke vorher prüfen oder verlässliche Informationen über Gefahren einholen.",
+      "Ausreichende und geeignete Begleitpersonen für die Gruppengröße sichern.",
+      "Verhaltensregeln und einen Notfallplan mit Treffpunkt festlegen.",
+      "Einfach losmarschieren und unterwegs improvisieren.",
+      "Die Kinder in unbekanntem Gelände beliebig vorauslaufen lassen.",
+      "Auf Begleitung verzichten, weil dreißig Kinder sich selbst organisieren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wer die Strecke kennt, erkennt Gefahren rechtzeitig.",
+      "Richtig: Gruppengröße und Gelände bestimmen die nötige Begleitung.",
+      "Richtig: Regeln und Notfallplan geben im Ernstfall Orientierung.",
+      "Falsch: Improvisation ersetzt keine Vorbereitung.",
+      "Falsch: Vorauslaufen in unbekanntem Gelände gefährdet die Gruppe.",
+      "Falsch: Dreißig Kinder brauchen Führung und Begleitung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Wieser plant mit 28 Kindern eine Wanderung in einem ihr unbekannten Waldgebiet mit einem steilen Abhang. Sie erstellt eine Checkliste für die Vorbereitung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Kopfzahl, Zusammenhalt der Gruppe und Sicherung gefährlicher Stellen. Unterwegs zählen regelmäßige Kontrolle, geschlossene Gruppe und klare Verbote an Gefahrenpunkten. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-005",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Regelmäßig die Kopfzahl kontrollieren, besonders nach Pausen und Abzweigungen.",
+      "Die Gruppe geschlossen halten und Ausreißen sofort unterbinden.",
+      "An gefährlichen Stellen wie Abhang oder Straße klare Verbote aussprechen und absichern.",
+      "Einzelne Kinder allein zum Parkplatz vorausschicken.",
+      "Die Nachhut sich selbst überlassen und nur die Spitze führen.",
+      "Kopfzahlen für überflüssig halten, solange es lustig zugeht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zählen nach jeder Unterbrechung verhindert Zurückbleiben.",
+      "Richtig: Geschlossenheit sichert Überblick und Eingreifen.",
+      "Richtig: Gefahrenstellen brauchen Verbot plus Absicherung.",
+      "Falsch: Kinder allein vorauszuschicken entzieht sie der Aufsicht.",
+      "Falsch: Auch die Nachhut gehört zur beaufsichtigten Gruppe.",
+      "Falsch: Gute Stimmung ersetzt keine Kontrolle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Gruber ist mit seiner Klasse auf einem Lehrausgang in der Stadt unterwegs. An einer vielbefahrenen Kreuzung und später an einem Flussufer fragt er sich, worauf er unterwegs achten muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Aufwärmen, Gerätecheck und Anpassung an den Leistungsstand. Sicherer Sportunterricht braucht Vorbereitung des Körpers, geprüfte Geräte und Übungen nach Können. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-006",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Mit Aufwärmen und Hinführung an die Belastung beginnen.",
+      "Geräte und Matten vor der Benutzung auf Mängel prüfen.",
+      "Übungen an Leistungsstand und Gesundheitszustand der Schüler anpassen.",
+      "Alle zu derselben schwierigen Übung ohne Sicherung zwingen.",
+      "Defekte Geräte trotz Wackelns weiter benutzen lassen.",
+      "Verletzte Schüler zur Abhärtung voll mitturnen lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Aufwärmen beugt Verletzungen vor.",
+      "Richtig: Nur geprüfte Geräte dürfen benutzt werden.",
+      "Richtig: Überforderung schafft Gefahren, Anpassung schützt.",
+      "Falsch: Zwang ohne Sicherung verletzt die Sorgfaltspflicht.",
+      "Falsch: Defekte Geräte sind sofort auszuscheiden und zu melden.",
+      "Falsch: Verletzte brauchen Schonung, keinen Leistungszwang."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sportlehrer Kaufmann hält Turnunterricht mit Gerätekreis an Reck, Bock und Sprossenwand. Vor der Stunde überlegt er seine Checkliste für einen sicheren Ablauf.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Abfrage mit Einteilung, ununterbrochene Beckenaufsicht und besondere Sicherung der Nichtschwimmer. Schwimmen verlangt erhöhte Sorgfalt: Können feststellen, einteilen und ständig beaufsichtigen. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-007",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Schwimmkenntnisse abfragen und die Gruppe danach einteilen.",
+      "Das Becken während des Schwimmens nie ohne Aufsicht lassen.",
+      "Nichtschwimmer besonders sichern und nur in geeigneten Bereichen einsetzen.",
+      "Alle gemeinsam zum Kopfsprung vom Dreimeterbrett antreten lassen.",
+      "Sich darauf verlassen, dass das Badepersonal die eigene Aufsicht ersetzt.",
+      "Schwächere Schüler zum Üben allein ins Tiefbecken schicken."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur bekanntes Können erlaubt passende Einteilung.",
+      "Richtig: Unbeaufsichtigtes Wasser ist eine vorhersehbare Gefahr.",
+      "Richtig: Nichtschwimmer brauchen Nähe, Sicherung und seichte Bereiche.",
+      "Falsch: Sprünge aus der Höhe sind kein Pflichtprogramm für alle.",
+      "Falsch: Das Badepersonal ersetzt die eigene Aufsichtspflicht nicht.",
+      "Falsch: Allein im Tiefbecken sind Schwächere akut gefährdet."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Aigner geht mit ihrer Klasse erstmals ins Hallenbad. Darunter sind Nichtschwimmer und ängstliche Kinder. Sie legt fest, welche Punkte für sie unverzichtbar sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Einweisung, Schutzausrüstung und Verschluss gefährlicher Stoffe. Werken und Experimentieren verlangen Erklärung, Schutz und sichere Verwahrung des Gefährlichen. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-008",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Werkzeuge und Geräte vor dem Gebrauch erklären und Regeln einüben.",
+      "Nötige Schutzausrüstung wie Brillen bereitstellen und tragen lassen.",
+      "Gefährliche Stoffe und scharfe Werkzeuge sicher verwahren und nur ausgegeben einsetzen.",
+      "Schüler ohne Einweisung allein experimentieren lassen.",
+      "Schutzbrillen als optionalen Modeartikel behandeln.",
+      "Chemikalien frei zugänglich im Regal stehen lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einweisung und Übung sind Voraussetzung für sicheres Arbeiten.",
+      "Richtig: Schutz trägt man, bevor es gefährlich wird.",
+      "Richtig: Gefährliches bleibt verschlossen und wird nur kontrolliert ausgegeben.",
+      "Falsch: Unbeaufsichtigtes Experimentieren verletzt die Sorgfaltspflicht.",
+      "Falsch: Schutz ist Pflicht, keine freiwillige Option.",
+      "Falsch: Frei zugängliche Chemikalien sind eine vorhersehbare Gefahr."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "PTS",
+      "AHS"
+    ],
+    "situation": "Lehrer Pichler plant einen Experimentierblock mit Brennern und Säuren sowie eine Werkphase mit Bohrmaschinen. Er notiert, welche Sicherheitsmaßnahmen für ihn selbstverständlich sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind neuralgische Punkte, sofortiges Eingreifen bei Rangeleien und Kontrolle der Ausgänge. Pausenaufsicht heißt bewegen, beobachten und bei Gefahr sofort handeln. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B31-L2-009",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Neuralgische Punkte wie Stiegen, Gänge und Ecken regelmäßig abgehen.",
+      "Rangeleien und gefährliche Spiele sofort unterbinden.",
+      "Ausgänge und Tore im Blick behalten und Unbefugtes verhindern.",
+      "Die gesamte Pause im Konferenzzimmer verbringen.",
+      "Rangeleien als reine Privatsache der Schüler betrachten.",
+      "Die Aufsicht auf die letzten zwei Minuten der Pause beschränken."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dort wo es eng wird, braucht es Präsenz.",
+      "Richtig: Sofortiges Eingreifen verhindert Verletzungen.",
+      "Richtig: Offene Wege und Tore gehören zur Gefahrenabwehr.",
+      "Falsch: Abwesenheit ist das Gegenteil von Aufsicht.",
+      "Falsch: Gefährliches Verhalten zu dulden verletzt die Pflicht.",
+      "Falsch: Aufsicht gilt für die ganze Pause, nicht für Restminuten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Steiner hat Pausenaufsicht im Altbau mit engem Stiegenhaus und stark frequentiertem Pausenhof samt offenem Tor. Sie strukturiert ihren Aufsichtsrundgang.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Erste Hilfe mit Notruf, Sicherung der übrigen Kinder und Absicherung der Unfallstelle. Im Schadensfall zählen helfen, die Restgruppe sichern und weitere Gefahren bannen. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "B31-L2-010",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Erste Hilfe leisten und bei Bedarf sofort den Notruf wählen.",
+      "Die übrigen Kinder sichern, beruhigen und weiter beaufsichtigen.",
+      "Die Unfallstelle absichern, damit niemand weiter zu Schaden kommt.",
+      "Den Verletzten allein lassen und zuerst in Ruhe telefonieren.",
+      "Die Klasse sich selbst überlassen, um den Hergang zu suchen.",
+      "Den Verletzten ohne Betreuung zum Abholen vor das Tor setzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Helfen und Notruf gehen vor allem anderen.",
+      "Richtig: Die Restgruppe darf nie ohne Aufsicht bleiben.",
+      "Richtig: Absichern verhindert Folgeunfälle.",
+      "Falsch: Weglaufen lässt den Verletzten hilflos zurück.",
+      "Falsch: Die Klasse braucht gerade jetzt Aufsicht.",
+      "Falsch: Unbetreutes Warten vor dem Tor gefährdet weiter."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Auf dem Pausenhof stürzt ein Schüler vom Klettergerüst und bleibt benommen liegen. Der aufsichtführende Lehrer steht daneben, um ihn herum eine aufgeregte Kinderschar.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Dokumentation, Meldung an die Direktion und Information der Eltern. Nach der Erstversorgung zählen Festhalten des Hergangs, Meldung im Dienstweg und Elterninformation. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-011",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Den Hergang sachlich dokumentieren, solange die Erinnerung frisch ist.",
+      "Den Vorfall der Direktion im Dienstweg melden.",
+      "Dafür sorgen, dass die Eltern des verletzten Kindes informiert werden.",
+      "Spuren beseitigen, damit niemand Fragen stellt.",
+      "Mit den Kindern ein Schweigeversprechen über den Unfall vereinbaren.",
+      "Den Unfall zuerst ausführlich in sozialen Medien schildern."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Frische Notizen sichern den wahren Hergang.",
+      "Richtig: Die Meldung gehört unverzüglich in den Dienstweg.",
+      "Richtig: Eltern haben Anspruch auf rasche und ehrliche Information.",
+      "Falsch: Beseitigen von Spuren verschlimmert alles.",
+      "Falsch: Schweigeabsprachen untergraben Vertrauen und Aufklärung.",
+      "Falsch: Soziale Medien sind kein Meldeweg und verletzen Persönlichkeitsrechte."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Sturz im Stiegenhaus ist das verletzte Kind versorgt und abgeholt. Lehrerin Moser überlegt, welche Schritte nach der Erstversorgung dienstrechtlich von ihr erwartet werden.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind dienstrechtliche Verantwortung, möglicher Rückersatz und mögliche strafrechtliche Folgen. Eine schuldhafte Pflichtverletzung kann disziplinar, ersatzrechtlich und im schweren Fall strafrechtlich relevant werden. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-012",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Dienstrechtliche Verantwortung für die schuldhafte Pflichtverletzung.",
+      "Möglicher Rückersatz, wenn der Rechtsträger wegen groben Verschuldens zahlen musste.",
+      "Mögliche strafrechtliche Folgen in besonders schweren Fällen.",
+      "Dass grundsätzlich niemals irgendwelche Folgen drohen.",
+      "Dass jeder kleine Unfall automatisch zur Entlassung führt.",
+      "Dass immer die Eltern der Mitschüler haften."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schuldhafte Dienstpflichtverletzung zieht Verantwortung nach sich.",
+      "Richtig: Bei Vorsatz oder grober Fahrlässigkeit droht der Rückgriff.",
+      "Richtig: Schwere Fälle können auch strafrechtlich relevant werden.",
+      "Falsch: Folgenlosigkeit wäre mit dem Dienstrecht unvereinbar.",
+      "Falsch: Die Folge richtet sich nach der Schwere, nicht jeder Unfall entlässt.",
+      "Falsch: Die Haftung folgt dem Verschulden, nicht den Eltern."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Aufsichtsmangel mit Schülerverletzung fragt sich das Kollegium, welche Folgen eine schuldhafte Aufsichtspflichtverletzung für die betroffene Lehrperson haben kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "AHG §3 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Richtig sind Haftung des Rechtsträgers, Handeln im Dienst und Rückgriff nur bei schwerem Verschulden. Der Geschädigte hält sich an den Rechtsträger, der Lehrer haftet nur im Rückgriff bei Vorsatz oder grober Fahrlässigkeit. Zum Nachlesen: LDG §29 Abs.1, ergänzend AHG §1 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-013",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Der Geschädigte wendet sich an den Rechtsträger und nicht an das Privatvermögen der Lehrperson.",
+      "Die Lehrperson handelte in Vollziehung der Gesetze, also im Dienst.",
+      "Der Rückgriff auf die Lehrperson setzt Vorsatz oder grobe Fahrlässigkeit voraus.",
+      "Die Lehrperson zahlt dem Geschädigten immer direkt aus eigener Tasche.",
+      "Der Rechtsträger haftet grundsätzlich nie für Vorgänge an Schulen.",
+      "Schüler und Eltern haben bei Unfällen keinerlei Ersatzansprüche."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Adressat des Ersatzanspruchs ist der Rechtsträger.",
+      "Richtig: Dienstliches Handeln löst die Amtshaftung aus.",
+      "Richtig: Nur schweres Verschulden öffnet den Rückgriff.",
+      "Falsch: Direktzahlung aus der Privattasche ist nicht vorgesehen.",
+      "Falsch: Gerade für schulisches Handeln haftet der Rechtsträger.",
+      "Falsch: Ersatzansprüche bestehen sehr wohl, nur gegen den Rechtsträger."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern eines verletzten Schülers wollen verstehen, wie die Haftung nach einem Unfall im Schulbetrieb grundsätzlich verteilt ist. Die Direktion erklärt die Grundzüge der Amtshaftung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "AHG §1 Abs.1",
+      "AHG §3 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Richtig sind Mäßigung bei leichter Fahrlässigkeit, Abwägung aller Umstände und voller Ersatz nur bei schwerem Verschulden. Das Ausmaß des Rückersatzes hängt von Verschulden, Schaden und Verhältnissen ab. Zum Nachlesen: LDG §29 Abs.1, ergänzend DHG §2 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-014",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Bei leichter Fahrlässigkeit kann der Ersatz gemindert werden oder ganz entfallen.",
+      "Verschulden, Ausmaß des Schadens und wirtschaftliche Verhältnisse werden abgewogen.",
+      "Voller Ersatz kommt vor allem bei Vorsatz oder grober Fahrlässigkeit in Frage.",
+      "Jeder noch so kleine Fehler kostet automatisch das volle Privatvermögen.",
+      "Die Umstände des Einzelfalls spielen grundsätzlich keine Rolle.",
+      "Entschuldbare Fehlleistung und leichtes Versehen werden gleich behandelt wie Vorsatz."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Leichte Fahrlässigkeit führt nicht automatisch zum vollen Ersatz.",
+      "Richtig: Die Abwägung schützt vor unverhältnismäßigen Ergebnissen.",
+      "Richtig: Schweres Verschulden trägt die volle Ersatzlast.",
+      "Falsch: Automatismus ohne Abwägung widerspricht der Mäßigung.",
+      "Falsch: Gerade die Umstände entscheiden über das Ausmaß.",
+      "Falsch: Vorsatz und leichtes Versehen liegen an entgegengesetzten Enden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Junglehrer hat aus Unachtsamkeit einen kleinen Sachschaden verursacht und fürchtet um seine gesamte finanzielle Existenz. Ein erfahrener Kollege erklärt ihm die Grundgedanken der richterlichen Mäßigung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "DHG §2 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Richtig sind Einhalten der Einteilungen, Festhalten von Vorkommnissen und Melden von Mängeln. Vorbeugen heißt Einteilungen befolgen, Auffälligkeiten dokumentieren und Gefahrenquellen melden. Zum Nachlesen: LDG §29 Abs.1.",
+    "hauptquelle": "LDG §29 Abs.1",
+    "id": "B31-L2-015",
+    "level": "L2",
+    "modul_id": "B31",
+    "optionen": [
+      "Eingeteilte Aufsichten und Vertretungen verlässlich wahrnehmen.",
+      "Auffälligkeiten und Vorkommnisse schriftlich festhalten.",
+      "Mängel wie defekte Geräte oder Gefahrenstellen der Direktion melden.",
+      "Einteilungen als unverbindliche Vorschläge behandeln.",
+      "Dokumentation grundsätzlich für überflüssig halten.",
+      "Bekannte Mängel verschweigen, um keinen Aufwand zu verursachen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verlässlichkeit bei Einteilungen ist die beste Prävention.",
+      "Richtig: Notizen sichern Erinnerung und belegen die Sorgfalt.",
+      "Richtig: Gemeldete Mängel können behoben und Gefahren beseitigt werden.",
+      "Falsch: Einteilungen sind Dienst, keine Vorschläge.",
+      "Falsch: Ohne Aufzeichnung fehlt im Ernstfall jeder Nachweis.",
+      "Falsch: Verschwiegene Mängel werden zur vorhersehbaren Gefahr."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schule will nach einer Beinahe-Verletzung an einem wackeligen Klettergerüst ihre Aufsichtskultur verbessern. Das Kollegium sammelt, welche vorbeugenden Routinen wirklich schützen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]
