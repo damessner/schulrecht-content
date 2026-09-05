@@ -1,1 +1,520 @@
-[]
+[
+  {
+    "aufloesung": "Die Pflicht zur Errichtung einer Volksschule hängt an achtzig Kindern ohne Ausweichschule, stabilem Trend und ungefährdetem Nachbarbestand. Elternwünsche allein und reine Gemeinderatsbeschlüsse ersetzen diese Prüfung nicht. Zum Nachlesen: TirSOG §21 Abs.1.",
+    "hauptquelle": "TirSOG §21 Abs.1",
+    "id": "C33-L2-001",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Mindestens 80 Schulpflichtige ohne andere zumutbare Schule im Schnitt der letzten drei Stichtage.",
+      "Kein erheblicher Rückgang dieser Zahl ist zu erwarten.",
+      "Keine andere Volksschule wird in ihrem Bestand gefährdet.",
+      "Mindestens 15 Kinder auf jeder einzelnen Schulstufe.",
+      "Eine Elternmehrheit stimmt in einer Versammlung zu.",
+      "Ein formloser Gemeinderatsbeschluss genügt für die Pflicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Achtziger-Zahl ohne Ausweichschule ist Kern der Pflicht.",
+      "Richtig: Stabile Geburten- und Zuzugszahlen sind nötig.",
+      "Richtig: Der Nachbarbestand darf nicht gefährdet werden.",
+      "Falsch: Fünfzehn je Stufe gehört zum Kann-Fall.",
+      "Falsch: Elternvoten ersetzen die gesetzlichen Zahlen nicht.",
+      "Falsch: Ohne Bewilligung entsteht keine Pflichtschule."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine wachsende Gemeinde prüft eine zweite Volksschule und der Amtsleiter erstellt eine Checkliste, wann eine Errichtung Pflicht ist. Im Akt liegen Stichtagszahlen, Prognosen und eine Stellungnahme der Nachbarschule.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Kann-Errichtung erleichtert dem Großteil der Kinder den Weg, obwohl eine andere Schule zumutbar wäre. Fünfzehn Kinder je Stufe, stabile Zahlen und ungefährdete Nachbarn gehören dazu. Zum Nachlesen: TirSOG §21 Abs.2.",
+    "hauptquelle": "TirSOG §21 Abs.2",
+    "id": "C33-L2-002",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Mindestens 15 Kinder je Schulstufe im Schnitt der letzten drei Stichtage.",
+      "Kein erheblicher Rückgang der Zahlen ist zu erwarten.",
+      "Dem Großteil wird der Schulbesuch wesentlich erleichtert.",
+      "Keine andere Volksschule wird in ihrem Bestand gefährdet.",
+      "Mindestens 80 Kinder ohne jede Ausweichschule.",
+      "Die Nachbargemeinde stimmt in jedem Fall zu."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fünfzehn je Stufe ist die Kann-Schwelle.",
+      "Richtig: Auch hier muss der Trend stabil sein.",
+      "Richtig: Die Erleichterung für den Großteil trägt die Begründung.",
+      "Richtig: Nachbarschulen dürfen nicht ausgehöhlt werden.",
+      "Falsch: Achtzig ohne Ausweichschule ist der Pflicht-Fall.",
+      "Falsch: Eine generelle Zustimmungspflicht gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Ortschaft mit eigener Identität wünscht eine kleine Volksschule, die Nachbarschule wäre aber zumutbar erreichbar. Die Bürgermeisterin lässt prüfen, welche Voraussetzungen für eine freiwillige Errichtung alle erfüllt sein müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Zusammenlegung setzt zwei Auflassungen und zumutbare Wege für alle Kinder voraus, dazu einen verkehrsgünstigen Standort. Preis und Bequemlichkeit allein tragen die Entscheidung nicht. Zum Nachlesen: TirSOG §21 Abs.3.",
+    "hauptquelle": "TirSOG §21 Abs.3",
+    "id": "C33-L2-003",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Mindestens zwei Volksschulen werden aufgelassen und zusammengefasst.",
+      "Alle betroffenen Kinder erreichen die neue Schule zumutbar.",
+      "Die Lage ist verkehrsgünstig, ungefährdet und lärmungestört.",
+      "Schon eine einzige Auflassung genügt für den Neubau.",
+      "Das billigste Grundstück ist stets die richtige Wahl.",
+      "Störender Lärm am Standort ist hinzunehmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Schulen zusammenführen ist die Mindestbasis.",
+      "Richtig: Zumutbare Wege für alle Betroffenen sind Pflicht.",
+      "Richtig: Verkehrsgünstig und störungsfrei ist vorgeschrieben.",
+      "Falsch: Eine einzige Auflassung reicht nicht aus.",
+      "Falsch: Der Preis schlägt die Lagekriterien nicht.",
+      "Falsch: Lärmbeeinträchtigung ist auszuschließen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Zwei Nachbargemeinden wollen ihre Zwergschulen in einem gemeinsamen Neubau zusammenführen und holen Angebote für Grundstücke ein. Der Bauausschuss fragt, welche rechtlichen Punkte die Standortwahl tragen müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Für die Errichtungspflicht gelten je nach Schulart deutlich verschiedene Mindestzahlen im Drei-Jahres-Schnitt. Die niedrigen Werte gehören zur Auflassung, nicht zur Errichtung. Zum Nachlesen: TirSOG §52 Abs.1.",
+    "hauptquelle": "TirSOG §52 Abs.1",
+    "id": "C33-L2-004",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Mittelschule: mindestens 320 ohne andere zumutbare Schule.",
+      "Sonderschule der Art: mindestens 30 ohne andere zumutbare Schule.",
+      "Polytechnische Schule: mindestens 50 ohne andere zumutbare Schule.",
+      "Mittelschule: schon 160 begründen die Pflicht.",
+      "Polytechnische Schule: schon 15 begründen die Pflicht.",
+      "Sonderschule: schon 7 begründen die Pflicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dreihundertzwanzig ist die Mittelschul-Pflichtzahl.",
+      "Richtig: Dreißig ist die Sonderschul-Pflichtzahl.",
+      "Richtig: Fünfzig ist die Polytechnische Pflichtzahl.",
+      "Falsch: Hundertsechzig erlaubt nur ein Kann.",
+      "Falsch: Fünfzehn gehört zur Auflassung.",
+      "Falsch: Sieben gehört zur Auflassung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Der Bildungsbeauftragte des Bezirks vergleicht die Errichtungsvoraussetzungen aller Schularten für eine Planungswerkstatt. Auf dem Tisch liegen die Zahlenwünsche für eine Mittelschule, eine Sonderschule und eine Polytechnische Schule.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Auflassungspflicht greift bei dauerhaft sehr wenigen Kindern plus zumutbarer Ausweichschule. Die Mittelschule kennt nur eine Kann-Auflassung, keine Pflicht. Zum Nachlesen: TirSOG §67 Abs.1.",
+    "hauptquelle": "TirSOG §67 Abs.1",
+    "id": "C33-L2-005",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Volksschule unter zehn im Drei-Jahres-Schnitt plus Ausweichschule.",
+      "Sonderschule unter sieben im Drei-Jahres-Schnitt plus Ausweichschule.",
+      "Polytechnische Schule unter fünfzehn im Drei-Jahres-Schnitt plus Ausweichschule.",
+      "Mittelschule unter hundertsechzig als zwingende Pflicht.",
+      "Volksschule unter sechs als starre Grenze.",
+      "Polytechnische Schule unter fünfzig als zwingende Pflicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unter zehn wird die Volksschule Pflicht-Fall.",
+      "Richtig: Unter sieben wird die Sonderschule Pflicht-Fall.",
+      "Richtig: Unter fünfzehn wird die Polytechnische Pflicht-Fall.",
+      "Falsch: Bei der Mittelschule ist es nur ein Kann.",
+      "Falsch: Sechs gehört zur Ausnahme, nicht zur Pflicht.",
+      "Falsch: Fünfzig ist dort nur ein Kann-Fall."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Amtsleiterin erstellt eine Übersicht, ab welchen Schülerzahlen eine Auflassung jeweils zwingend wird. Sie will Pflichtfälle und freiwillige Fälle sauber trennen, weil zwei kleine Schulen im Bezirk wackeln.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Ausnahme rettet kleine Schulen ab sechs Kindern, wenn zwei der drei Sondergründe dazukommen. Wegzeiten allein ohne die übrigen Gründe genügen nicht. Zum Nachlesen: TirSOG §23 Abs.2.",
+    "hauptquelle": "TirSOG §23 Abs.2",
+    "id": "C33-L2-006",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Mindestens sechs Kinder im Schnitt oder Wiedererreichen bis zum drittfolgenden Stichtag.",
+      "Mehr als zehn Straßenkilometer zur nächsten in Betracht kommenden Schule.",
+      "Einzige Volksschule in der betreffenden Gemeinde.",
+      "Kinderbetreuungseinrichtung in der Ortschaft der Schule.",
+      "Achtzig Minuten Schulweg als automatischer Schutz.",
+      "Einstimmiger Gemeinderatsbeschluss als Ersatzgrund."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sechs Kinder sind die Untergrenze der Ausnahme.",
+      "Richtig: Über zehn Straßenkilometer zählt als Grund.",
+      "Richtig: Einzige Schule im Ort zählt als Grund.",
+      "Richtig: Kindergarten im Ort zählt als Grund.",
+      "Falsch: Minutenwerte gehören zur Wegdefinition, nicht hierher.",
+      "Falsch: Ein Beschluss ersetzt die gesetzlichen Gründe nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Bergdorfschule mit sieben Kindern soll nach dem Willen der Gemeinde unbedingt erhalten bleiben. Der Bürgermeister sammelt Argumente und fragt, welche Gründe die Schule trotz der geringen Zahl retten können.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Zumutbar ist ein Weg nur bei sicherer Bewältigung von Hin- und Rückweg binnen einer Stunde. Für die Polytechnische Schule gelten achtzig Minuten, stets unter Bedacht auf die Reife. Zum Nachlesen: TirSOG §100.",
+    "hauptquelle": "TirSOG §100",
+    "id": "C33-L2-007",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Hinweg und Rückweg sind beide ohne Gefährdung zu bewältigen.",
+      "Körperliche und geistige Reife der Kinder ist zu berücksichtigen.",
+      "Keine Gefährdung von Leben, Gesundheit und Schulerfolg.",
+      "Jede Strecke binnen einer Stunde, Polytechnische binnen 80 Minuten.",
+      "Nur der Hinweg zählt, der Rückweg ist egal.",
+      "Für alle Schularten gilt starr eine halbe Stunde."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beide Richtungen müssen zumutbar sein.",
+      "Richtig: Die Reife des Kindes fließt ein.",
+      "Richtig: Sicherheit und Schulerfolg sind Maßstab.",
+      "Richtig: Eine Stunde, Polytechnische achtzig Minuten.",
+      "Falsch: Auch der Rückweg muss zumutbar sein.",
+      "Falsch: Eine starre Halbstunden-Grenze gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern aus Streusiedlungen beschweren sich über lange gefährliche Wege mit viel Verkehr und fragen, woran sich die Zumutbarkeit bemisst. Die Direktorin will die Beschwerden sachlich prüfen und sammelt die Prüfpunkte.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Gezählt wird jeweils am ersten Oktober, gemittelt über drei Jahre, und der Schulerhalter muss bis Ende Jänner beantragen. Versäumt er das, handelt die Behörde von Amts wegen. Zum Nachlesen: TirSOG §24 Abs.2.",
+    "hauptquelle": "TirSOG §24 Abs.2",
+    "id": "C33-L2-008",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Stichtag ist jeweils der erste Oktober eines Jahres.",
+      "Es zählt der Durchschnitt der letzten drei Stichtage.",
+      "Der Schulerhalter beantragt bis 31. Jänner nach dem letzten Stichtag.",
+      "Sonst ordnet die Bildungsdirektion von Amts wegen an.",
+      "Stichtag ist jeweils der erste September.",
+      "Antragsfrist ist jeweils der 31. Dezember."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erster Oktober ist der Zähltag.",
+      "Richtig: Drei Stichtage werden gemittelt.",
+      "Richtig: Ende Jänner ist die Antragsfrist.",
+      "Richtig: Bei Säumnis folgt die Amtsweg-Anordnung.",
+      "Falsch: September ist nicht der Stichtag.",
+      "Falsch: Dezember ist nicht die Frist."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine kleine Schule ist im dritten Jahr in Folge schwach besucht und die Gemeinde versäumt jede Reaktion. Die Bildungsdirektion prüft, zu welchen Terminen zu zählen ist und wer handeln muss, wenn der Schulerhalter untätig bleibt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Ohne Bewilligung der Bildungsdirektion gibt es keine Errichtung, Stilllegung oder Auflassung. Liegen die Voraussetzungen vor, ist die Bewilligung zu erteilen, sonst ordnet die Behörde an. Zum Nachlesen: TirSOG §24 Abs.1.",
+    "hauptquelle": "TirSOG §24 Abs.1",
+    "id": "C33-L2-009",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Errichtung, Stilllegung, Aufhebung und Auflassung brauchen die Bewilligung.",
+      "Bei erfüllten Voraussetzungen ist die Bewilligung zu erteilen.",
+      "Bei Säumnis des Schulerhalters folgt die Anordnung von Amts wegen.",
+      "Enteignung für den Neubau erst nach vorliegender Errichtungsbewilligung.",
+      "Der Gemeinderat schließt allein und formlos.",
+      "Eine formlose Anzeige ersetzt die Bewilligung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Alle vier Maßnahmen sind bewilligungspflichtig.",
+      "Richtig: Erfüllte Voraussetzungen geben Anspruch auf Bewilligung.",
+      "Richtig: Untätigkeit löst die Amtsweg-Anordnung aus.",
+      "Richtig: Ohne Bewilligung keine Enteignung für den Bau.",
+      "Falsch: Alleinbeschlüsse der Gemeinde reichen nicht.",
+      "Falsch: Anzeigen ersetzen kein Bewilligungsverfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Bürgermeister will rasch Fakten schaffen und die leerstehende Schule verkaufen, bevor eine Behörde entscheidet. Die Amtsleiterin stoppt den Verkauf und erklärt, welche Verfahrensschritte zwingend einzuhalten sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Parteien sind der Schulerhalter, die sprengelzugehörigen und sonst beteiligten Gebietskörperschaften sowie Gemeinden im Einzugsbereich. Eltern und Schulleitung allein haben diese Stellung nicht. Zum Nachlesen: TirSOG §5.",
+    "hauptquelle": "TirSOG §5",
+    "id": "C33-L2-010",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Der gesetzliche Schulerhalter der betroffenen Schule.",
+      "Die übrigen sprengelzugehörigen Gebietskörperschaften.",
+      "Die sonstig an der Schule beteiligten Gebietskörperschaften.",
+      "Die Gemeinden im Einzugsbereich einer zu errichtenden Schule.",
+      "Jede Elterninitiative aus dem Ort.",
+      "Der Schulleiter kraft seines Amtes allein."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Schulerhalter ist stets Partei.",
+      "Richtig: Sprengelzugehörige Gemeinden sind Parteien.",
+      "Richtig: Sonst Beteiligte sind Parteien.",
+      "Richtig: Einzugsbereich-Gemeinden sind bei Neubau Parteien.",
+      "Falsch: Initiativen haben keine Parteistellung.",
+      "Falsch: Die Leitung allein ist keine Partei."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Gegen die geplante Auflassung einer Volksschule regt sich Widerstand und mehrere Stellen wollen im Verfahren mitreden. Der Verfahrensleiter klärt vorab, wer in einem Verfahren über Errichtung, Stilllegung oder Auflassung Parteistellung hat.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Stillgelegt wird nur bei vorübergehenden Auflassungsgründen oder unbenützbarem Haus ohne Ersatz, die Mittelschule nur aus dem Gebäudegrund. Fällt der Grund weg, ist die Stilllegung aufzuheben. Zum Nachlesen: TirSOG §38.",
+    "hauptquelle": "TirSOG §38",
+    "id": "C33-L2-011",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Auflassungsgründe liegen voraussichtlich nur vorübergehend vor.",
+      "Das Schulgebäude ist unbenützbar ohne geeignete Ersatzräume.",
+      "Bei Wegfall der Gründe ist die Stilllegung aufzuheben.",
+      "Mittelschulen werden nur aus dem Gebäudegrund stillgelegt.",
+      "Die Stilllegung beendet die Schule endgültig.",
+      "Eine Stilllegung braucht keine Bewilligung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorübergehende Gründe führen zur Stilllegung.",
+      "Richtig: Unbenützbarkeit ohne Ersatz führt zur Stilllegung.",
+      "Richtig: Wegfall der Gründe hebt die Stilllegung auf.",
+      "Richtig: Bei Mittelschulen gilt nur der Gebäudegrund.",
+      "Falsch: Endgültig wäre die Auflassung, nicht Stilllegung.",
+      "Falsch: Auch Stilllegungen sind bewilligungspflichtig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Nach einem Dachstuhlbrand ist die Mittelschule unbewohnbar, Ersatzräume fehlen und zugleich brechen die Schülerzahlen ein. Der Schulerhalter fragt, ob stillzulegen oder aufzulassen ist und was danach gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Freiwillig aufgelassen werden kann bei mittleren Zahlen mit zumutbarer Ausweichschule, die Volksschule auch bei gemeinsamer kleiner Lage. Unter zehn, sieben oder fünfzehn ist die Auflassung dagegen Pflicht. Zum Nachlesen: TirSOG §54 Abs.2.",
+    "hauptquelle": "TirSOG §54 Abs.2",
+    "id": "C33-L2-012",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Volksschule unter 80, aber ab zehn, mit zumutbarer Ausweichschule.",
+      "Sonderschule unter 30, aber ab sieben, mit zumutbarer Ausweichschule.",
+      "Polytechnische Schule unter 50, aber ab fünfzehn, mit Ausweichschule.",
+      "Zwei Volksschulen gleicher Lage mit zusammen höchstens 16 Klassen.",
+      "Mittelschule unter 320 als Kann-Fall.",
+      "Volksschule unter zehn als Kann-Fall."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das ist der freiwillige Volksschul-Fall.",
+      "Richtig: Das ist der freiwillige Sonderschul-Fall.",
+      "Richtig: Das ist der freiwillige Polytechnische Fall.",
+      "Richtig: Kleine gemeinsame Lage erlaubt die Auflassung.",
+      "Falsch: Bei der Mittelschule gilt unter hundertsechzig.",
+      "Falsch: Unter zehn ist es eine Pflicht, kein Kann."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Gemeinden wollen ihre kleinen Schulen freiwillig bündeln, obwohl keine Pflicht zur Schließung besteht. Die Amtsleiterin prüft für jede Schulart, in welchen Zahlenbereichen eine freiwillige Auflassung zulässig ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Jede neue Schule braucht einen eigenen Sprengel per Verordnung nach Anhörung, Sprengel sind lückenlos und bei geänderten Verhältnissen anzupassen. Investitionsbeiträge laufen ab Rechtskraft der Errichtungsbewilligung. Zum Nachlesen: TirSOG §27 Abs.1.",
+    "hauptquelle": "TirSOG §27 Abs.1",
+    "id": "C33-L2-013",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Jede Volksschule erhält einen Sprengel per Verordnung nach Anhörung.",
+      "Schulsprengel müssen grundsätzlich lückenlos aneinandergrenzen.",
+      "Bei geänderten Verhältnissen sind Sprengelgrenzen anzupassen.",
+      "Investitionsbeiträge ab Rechtskraft der Errichtungsbewilligung.",
+      "Der alte Sprengel erlischt automatisch bei Stilllegung.",
+      "Der Bürgermeister legt Sprengel allein und formlos fest."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verordnung nach Anhörung ist der Weg.",
+      "Richtig: Lückenlosigkeit ist der Grundsatz.",
+      "Richtig: Anpassung an neue Verhältnisse ist Pflicht.",
+      "Richtig: Rechtskraft löst die Beitragspflicht aus.",
+      "Falsch: Stilllegung löscht den Sprengel nicht automatisch.",
+      "Falsch: Alleinbeschlüsse ersetzen die Verordnung nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach der Bewilligung einer neuen Volksschule streiten zwei Gemeinden über Zuständigkeiten und Beiträge für auswärtige Kinder. Die Bildungsdirektion erklärt, wie Sprengelfestsetzung und Beiträge mit der Errichtung zusammenhängen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Auf fremdem Gemeindegebiet baut nur, wer die Zustimmung dieser Gemeinde hat, und bei Streit über den Standort entscheidet die Behörde. Maßstab bleiben die gesetzlichen Lageanforderungen an den Schulweg. Zum Nachlesen: TirSOG §21 Abs.5.",
+    "hauptquelle": "TirSOG §21 Abs.5",
+    "id": "C33-L2-014",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Bau auf fremdem Gebiet nur mit Zustimmung dieser Gemeinde.",
+      "Bei Nichteinigung entscheidet die Bildungsdirektion über den Standort.",
+      "Verkehrsgünstige ungefährdete Lage ist Entscheidungsmaßstab.",
+      "Die größere Gemeinde setzt sich automatisch durch.",
+      "Per Losentscheid unter den Bürgermeistern."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zustimmung der fremden Gemeinde ist nötig.",
+      "Richtig: Ohne Einigung entscheidet die Behörde.",
+      "Richtig: Die Lagekriterien steuern die Entscheidung.",
+      "Falsch: Größe allein gibt kein Vorrecht.",
+      "Falsch: Ein Los ist kein Verfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Gemeinde will ihre neue Schule auf dem Grund der Nachbargemeinde errichten, weil dort der bessere Platz läge, doch die Nachbarin zögert. Beide Bürgermeister fragen, welche Regeln für Standort und Mitsprache gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Pflicht-Auflassungen wirken mit Ende August nach dem letzten Stichtag, freiwillige nur mit Ende August. Eine stillgelegte Schule kann auch unter dem Jahr aufgelassen werden. Zum Nachlesen: TirSOG §23 Abs.4.",
+    "hauptquelle": "TirSOG §23 Abs.4",
+    "id": "C33-L2-015",
+    "level": "L2",
+    "modul_id": "C33",
+    "optionen": [
+      "Pflicht-Auflassung mit Ablauf des 31. August nach dem letzten Stichtag.",
+      "Freiwillige Auflassung nur mit Ablauf eines 31. August.",
+      "Stillgelegte Schule auch zu anderem Zeitpunkt auflassbar.",
+      "Mittelschul-Auflassung nur mit Ablauf eines 31. August.",
+      "Schließung sofort mit Gemeinderatsbeschluss.",
+      "Auflassung erst fünf Jahre nach dem Beschluss."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ende August nach dem Stichtag ist der Pflicht-Termin.",
+      "Richtig: Freiwillige Fälle wirken nur zum Schuljahresende.",
+      "Richtig: Stillgelegte Schulen sind zeitlich flexibel.",
+      "Richtig: Auch Mittelschulen enden nur zum Schuljahresende.",
+      "Falsch: Sofortige Wirkung gibt es nicht.",
+      "Falsch: Eine Fünfjahresfrist gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Gemeinderat will die beschlossene Schließung sofort umsetzen und das Gebäude noch im Frühjahr verkaufen. Die Aufsicht bremst und erklärt, zu welchen Zeitpunkten eine Auflassung jeweils wirksam werden darf.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]
