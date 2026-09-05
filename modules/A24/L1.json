@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "aufloesung": "Die Lehrerin handelt richtig. Bei wiederholtem Ausgrenzen und Abwerten muss sie hinschauen, getrennt mit den Beteiligten sprechen und den Verlauf sachlich festhalten. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A24-L1-001",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Ja, sie beobachtet gezielt, spricht getrennt mit den Beteiligten und hält Vorfälle sachlich fest.",
+      "Nein, sie soll abwarten, bis sich die Sache von selbst erledigt.",
+      "Ja, sie soll die Betroffene vor der Klasse zur Rede stellen, damit alles offenliegt.",
+      "Nein, Ausgrenzen unter Schülern geht die Schule nichts an."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hinschauen, getrennt klären und dokumentieren ist der vorgesehene erste Schritt.",
+      "Falsch: Abwarten lässt wiederholte Muster eskalieren.",
+      "Falsch: Bloßstellung vor der Klasse verletzt und verschärft die Lage.",
+      "Falsch: Wiederholte Entwürdigung berührt den Erziehungsauftrag der Schule."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer Mittelschule in Linz wird eine Schülerin seit Wochen von mehreren Mitschülern ausgegrenzt und mit abwertenden Bemerkungen bedacht. Die Klassenvorständin will gezielt beobachten und getrennt Gespräche führen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Trennen und beruhigen geht vor. Bei einer aufgeheizten Auseinandersetzung schützt die Lehrkraft zuerst Personen, beendet die Situation und klärt erst später in Ruhe. Zum Nachlesen: LDG §43 Abs.1.",
+    "hauptquelle": "LDG §43 Abs.1",
+    "id": "A24-L1-002",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Sofort trennen, für Abstand sorgen und erst nach Beruhigung in Ruhe klären.",
+      "Weiter streiten lassen, damit sie es selbst austragen.",
+      "Sofort vor allen Anwesenden festlegen, wer schuld ist.",
+      "Die Beteiligten wegschicken und den Vorfall vergessen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schutz und Deeskalation haben Vorrang vor der Schuldfrage.",
+      "Falsch: Zuschauen gefährdet Beteiligte und Umstehende.",
+      "Falsch: Schnellurteile vor Publikum eskalieren und beschämen.",
+      "Falsch: Wegschicken ohne Klärung und Meldung verletzt die Dienstpflicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Auf dem Gang einer Wiener Mittelschule geraten zwei Schüler lautstark aneinander, um sie herum bildet sich eine Traube von Zuschauern. Die Aufsicht führende Lehrkraft kommt dazu.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Erste Hilfe und Aufsicht sichern geht vor. Bei einer Verletzung versorgt die Lehrkraft, holt Hilfe, sichert die Aufsicht über die Klasse und informiert die Direktion. Zum Nachlesen: LDG §43 Abs.1.",
+    "hauptquelle": "LDG §43 Abs.1",
+    "id": "A24-L1-003",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Versorgen, Hilfe holen, Aufsicht sichern und die Direktion informieren.",
+      "Zuerst die Schuldfrage klären, Versorgung kann warten.",
+      "Den verletzten Schüler allein lassen und weiter unterrichten.",
+      "Nur die Mitschüler um Hilfe bitten und nichts melden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Versorgung, Aufsicht und Meldung laufen nebeneinander.",
+      "Falsch: Gesundheitsschutz duldet keinen Aufschub für Ermittlungen.",
+      "Falsch: Alleinlassen verletzt die Aufsichts- und Fürsorgepflicht.",
+      "Falsch: Ohne Meldung bleibt die Kette zu Eltern und Hilfe unterbrochen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer Rangelei im Turnsaal einer Volksschule in Graz blutet ein Schüler an der Lippe und ist aufgewühlt, die restliche Klasse steht um ihn herum.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Meldung an die Direktion ist Pflicht. Gewaltvorfälle muss die Lehrkraft unverzüglich an die Schulleitung weitergeben, nicht allein abhandeln. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "A24-L1-004",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Nein, solche Vorfälle erledigt jede Lehrkraft allein ohne Meldung.",
+      "Ja, sie meldet den Vorfall unverzüglich der Schulleitung zur weiteren Veranlassung.",
+      "Ja, aber erst am Ende des Semesters in einem Sammelbericht.",
+      "Nein, gemeldet wird nur, wenn die Eltern es verlangen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleiniges Abhandeln bricht die vorgesehene Meldekette.",
+      "Richtig: Rasche Meldung sichert Schutz, Dokumentation und nächste Schritte.",
+      "Falsch: Sammelberichte verzögern Schutz und Hilfe unzulässig.",
+      "Falsch: Die Meldepflicht hängt nicht vom Elternwunsch ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer einer Berufsschule in Wels trennt eine handgreifliche Auseinandersetzung zwischen zwei Schülern und überlegt, ob er den Vorfall noch am selben Tag der Direktion melden muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Elterngespräch ist der richtige Weg. Wenn es die Erziehungssituation erfordert, pflegen Klassenvorstand oder Schulleitung das Einvernehmen mit den Erziehungsberechtigten. Zum Nachlesen: SchUG §48 Abs.1.",
+    "hauptquelle": "SchUG §48 Abs.1",
+    "id": "A24-L1-005",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Nein, Eltern dürfen bei Konflikten nie einbezogen werden.",
+      "Ja, Klassenvorstand oder Schulleitung suchen bei Erziehungsbedarf das Gespräch mit den Eltern.",
+      "Ja, aber erst nach einem förmlichen Ausschlussverfahren.",
+      "Nein, das dürfen nur externe Stellen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zusammenarbeit mit den Eltern ist ausdrücklich vorgesehen.",
+      "Richtig: Frühes Einvernehmen hilft, Muster zu unterbrechen.",
+      "Falsch: Gerade vorher soll das Gespräch stattfinden.",
+      "Falsch: Die Schule hat eine eigene Gesprächspflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler einer AHS in Salzburg fällt wiederholt durch aggressives Verhalten gegenüber Mitschülern auf. Der Klassenvorstand will die Eltern zu einem gemeinsamen Gespräch einladen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Mitteilung ist vorgeschrieben. Wenn Eltern ihre Pflichten offenbar nicht erfüllen, muss die Schulleitung den Kinder- und Jugendhilfeträger verständigen. Zum Nachlesen: SchUG §48 Abs.2.",
+    "hauptquelle": "SchUG §48 Abs.2",
+    "id": "A24-L1-006",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Nein, das bleibt reine Familiensache ohne Meldepflicht.",
+      "Ja, die Schulleitung muss dies dem Kinder- und Jugendhilfeträger mitteilen.",
+      "Ja, aber nur mit Zustimmung des betroffenen Schülers.",
+      "Nein, erst nach Volljährigkeit des Schülers."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei offensichtlicher Pflichtverletzung besteht Mitteilungspflicht.",
+      "Richtig: Die Meldung an die Jugendhilfe ist vorgeschrieben.",
+      "Falsch: Auf die Zustimmung kommt es nicht an.",
+      "Falsch: Gerade bei Minderjährigen greift die Pflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Trotz mehrerer Elterngespräche erscheint ein Volksschüler in St. Pölten wiederholt ungepflegt und übermüdet, Hausübungen fehlen ständig und Absprachen werden nicht eingehalten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Einzelgespräch ist richtig. Die Lehrkraft hört der betroffenen Schülerin in geschütztem Rahmen zu, nimmt sie ernst und erklärt ehrlich die nächsten Schritte. Zum Nachlesen: SchUG §48 Abs.1.",
+    "hauptquelle": "SchUG §48 Abs.1",
+    "id": "A24-L1-007",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Vor der ganzen Klasse ausfragen, damit alle Bescheid wissen.",
+      "In ruhigem Einzelrahmen zuhören, ernst nehmen und nächste Schritte erklären.",
+      "Volle Geheimhaltung versprechen, egal was noch kommt.",
+      "Der Schülerin sagen, sie solle sich nicht so anstellen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Befragung vor Publikum beschämt und blockiert Vertrauen.",
+      "Richtig: Schutzrahmen, Zuhören und klare Information stabilisieren.",
+      "Falsch: Absolute Geheimhaltung kann bei Gefährdung nicht gehalten werden.",
+      "Falsch: Bagatellisieren verletzt und verhindert Hilfe."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin einer Mittelschule in Klagenfurt vertraut sich der Lehrerin an, weil sie in den Pausen regelmäßig bedrängt und ausgelacht wird, und bittet um Hilfe.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Sachlich und ohne Entwürdigung vorgehen ist richtig. Auch im Krisengespräch bleiben Zurechtweisung und Aufforderung sachlich, Beleidigungen und körperliche Reaktionen sind verboten. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A24-L1-008",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Den Schüler anschreien und bloßstellen, damit er es sich merkt.",
+      "Ruhig Grenzen benennen, Verhalten ansprechen und Wiedergutmachung einfordern.",
+      "Mit einer körperlichen Strafe ein Zeichen setzen.",
+      "Dem Schüler androhen, ihn vor der Klasse lächerlich zu machen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Anschreien und Bloßstellen eskalieren und sind unzulässig.",
+      "Richtig: Sachliche Grenze plus konkrete Wiedergutmachung deeskaliert.",
+      "Falsch: Körperliche Reaktionen sind ausnahmslos verboten.",
+      "Falsch: Demütigung ist als Mittel ausdrücklich verboten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach wiederholten Provokationen in einer HAK in Innsbruck führt der Klassenvorstand ein Einzelgespräch mit dem Schüler, der andere regelmäßig herabsetzt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Sachlich beruhigen ohne Bühne für Schuldzuweisung ist richtig. Die Klasse bekommt klare Information und Regeln, Details und Namen bleiben im Schutz der Betroffenen. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A24-L1-009",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Den Vorfall vor der Klasse im Detail mit Namen ausbreiten.",
+      "Kurz sachlich einordnen, Regeln bekräftigen und Gesprächsangebot machen.",
+      "Gemeinsam über die Betroffene urteilen lassen.",
+      "Den Vorfall gegenüber der Klasse völlig verschweigen, obwohl alle dabei waren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Details und Namen vor der Klasse verletzen den Schutz.",
+      "Richtig: Klare Haltung plus Angebot gibt Halt ohne Bühne.",
+      "Falsch: Urteile der Gruppe vertiefen die Ausgrenzung.",
+      "Falsch: Schweigen nach offenem Vorfall verunsichert die Klasse."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem ernsten Streit in einer 3. Klasse in Villach ist die ganze Klasse aufgewühlt und redet durcheinander. Die Lehrkraft will die nächste Stunde zur Beruhigung nutzen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Zeitnah sachlich protokollieren ist richtig. Was, wann, wo, wer beteiligt war und was veranlasst wurde, hält die Lehrkraft nüchtern und ohne Deutungen fest. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "A24-L1-010",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Erst Wochen später aus dem Gedächtnis grob notieren.",
+      "Zeitnah sachlich festhalten: Ablauf, Beteiligte, Zeugen, Maßnahmen und Meldungen.",
+      "Nur Vermutungen und Charakterurteile aufschreiben.",
+      "Ganz auf Aufzeichnungen verzichten, um niemanden zu belasten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Späte Lückennotizen sind ungenau und angreifbar.",
+      "Richtig: Nüchterne Fakten plus Maßnahmen sichern die nächsten Schritte.",
+      "Falsch: Wertungen gehören nicht ins Protokoll.",
+      "Falsch: Ohne Dokumentation bricht Schutz- und Nachweis­kette ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer Eskalation am Schulhof einer Mittelschule in Dornbirn bittet die Direktion die Aufsicht führende Lehrkraft um eine schriftliche Darstellung des Ablaufs.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Verstärkte Aufsicht ist richtig. Bei bekannter Spannung muss die Schule vorhersehbare Risiken durch Präsenz und klare Zonen­zuständigkeit verringern. Zum Nachlesen: LDG §43 Abs.1.",
+    "hauptquelle": "LDG §43 Abs.1",
+    "id": "A24-L1-011",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Die Pausenaufsicht wie gewohnt lassen und auf Zufall vertrauen.",
+      "Präsenz an bekannten Brennpunkten verstärken und Übergaben klar regeln.",
+      "Die Aufsicht ganz den Schülern überlassen.",
+      "Bekannte Treffpunkte der Spannungen bewusst meiden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wegschauen bei bekanntem Risiko verletzt die Aufsichtspflicht.",
+      "Richtig: Gezielte Präsenz und klare Zuständigkeit beugen vor.",
+      "Falsch: Aufsicht ist nicht delegierbar.",
+      "Falsch: Meiden überlässt den Brennpunkt sich selbst."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Berufsschule in Graz kommt es zwischen zwei Gruppen immer wieder zu Provokationen in der großen Pause an derselben Ecke des Hofes.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Früh einbeziehen ist richtig. Beratungslehrkraft oder Schulpsychologie unterstützen beim Einschätzen, bei Gesprächen und bei der Planung der nächsten Schritte. Zum Nachlesen: SchUG §48 Abs.1.",
+    "hauptquelle": "SchUG §48 Abs.1",
+    "id": "A24-L1-012",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Externe Hilfe erst holen, wenn gar nichts mehr geht.",
+      "Beratungslehrkraft oder Schulpsychologie früh zur Einschätzung und Begleitung beiziehen.",
+      "Hilfe nur hinter dem Rücken der Eltern organisieren.",
+      "Allein entscheiden und niemanden ins Bild setzen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Spätes Holen verschenkt Entlastung und Fachblick.",
+      "Richtig: Frühe Einbindung stabilisiert alle Beteiligten.",
+      "Falsch: Eltern sind im Rahmen der Pflichten einzubeziehen.",
+      "Falsch: Alleingänge überfordern und verzögern Hilfe."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin einer Volksschule in Eisenstadt bemerkt bei einem Kind Rückzug und Angst vor den Pausen und überlegt, schulische Beratungsangebote einzuschalten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Dranbleiben mit Kontrolle ist richtig. Vereinbarungen, kurze Rückmelde­termine und ein Rückkehrgespräch sichern, dass Absprachen halten und niemand aus dem Blick gerät. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A24-L1-013",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Nach einem Gespräch alles laufen lassen und nicht mehr nachfragen.",
+      "Konkrete Vereinbarungen mit kurzem Kontrolltermin und Rückkehrgespräch festlegen.",
+      "Nur Strafen androhen ohne Vereinbarung.",
+      "Die Nachsorge allein den Mitschülern überlassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Kontrolle verpuffen Absprachen schnell.",
+      "Richtig: Kleine überprüfbare Schritte plus Termin geben Halt.",
+      "Falsch: Drohungen ohne Plan ändern kein Muster.",
+      "Falsch: Verantwortung bleibt bei Schule und Eltern."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem heftigen Konflikt in einer Mittelschule in Feldkirch haben beide Seiten Besserung versprochen. Der Klassenvorstand will die Einhaltung absichern.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Melden statt vertuschen ist richtig. Lehrkräfte müssen dienstliche Wahrnehmungen zu Gefährdungen weitergeben, Vertraulichkeit endet an der Schutzpflicht. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "A24-L1-014",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Den Vorfall für sich behalten, um Aufsehen zu vermeiden.",
+      "Die Wahrnehmung sachlich an die Direktion melden und dokumentieren.",
+      "Nur im Kollegenzimmer darüber sprechen, aber nichts festhalten.",
+      "Auf Wunsch der Beteiligten auf jede Meldung verzichten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Verschweigen bricht Schutz- und Meldekette.",
+      "Richtig: Sachliche Meldung plus Dokumentation sichert Hilfe.",
+      "Falsch: Flurgespräche ersetzen keine Meldung.",
+      "Falsch: Bei Gefährdung trägt der Schutz Vorrang vor Wünschen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer einer HTL in Linz erfährt glaubhaft von fortgesetzten Drohungen gegen einen Schüler und wird gebeten, es niemandem zu sagen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Vorbeugen mit Regeln und Übung ist richtig. Klare Klassenregeln, eingeübte Gesprächswege und Abstimmung mit den Eltern senken die Wahrscheinlichkeit neuer Eskalationen. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A24-L1-015",
+    "level": "L1",
+    "modul_id": "A24",
+    "optionen": [
+      "Abwarten, bis der nächste Vorfall passiert.",
+      "Mit der Klasse Regeln, Stopp-Signale und Hilfswege vereinbaren und mit Eltern abstimmen.",
+      "Nur härtere Strafen ankündigen ohne sonstige Änderung.",
+      "Prävention allein in die Freizeit der Schüler verlagern."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Reines Abwarten lässt Muster weiterlaufen.",
+      "Richtig: Vereinbarte Wege plus Elternabstimmung wirken vorbeugend.",
+      "Falsch: Drohkulissen ohne Aufbau ändern wenig.",
+      "Falsch: Schule behält ihren Erziehungsauftrag."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach mehreren kleineren Reibereien will eine Lehrerin einer Volksschule in Klagenfurt mit ihrer Klasse vorbeugend an einem respektvollen Umgang arbeiten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
