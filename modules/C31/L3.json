@@ -1,1 +1,366 @@
-[]
+[
+  {
+    "aufloesung": "Die Mieteinnahmen mindern den umlagefähigen Aufwand, weil nur Reinausgaben verrechnet werden. Der Verein zahlt über das Entgelt mit, die Nachbargemeinde trägt nur den bereinigten Rest. Zum Nachlesen: TirSOG §77 Abs.4.",
+    "hauptquelle": "TirSOG §77 Abs.4",
+    "id": "C31-L3-001",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Mieteinnahmen werden von den Gesamtausgaben abgezogen, nur der Rest wird umgelegt.",
+      "Die Nachbargemeinde zahlt die vollen Bruttoausgaben ohne Abzug der Miete.",
+      "Der Schulerhalter darf Mieteinnahmen behalten und trotzdem voll umlegen.",
+      "Der Verein haftet nie für Abnützung, alles zahlen die Gemeinden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur Reinausgaben sind umlagefähig.",
+      "Falsch: Brutto ohne Einnahmenabzug ist unzulässig.",
+      "Falsch: Einnahmen müssen den Aufwand mindern.",
+      "Falsch: Verursachte Mehrkosten trägt der Mitbenützer über Entgelte."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde vermietet den Turnsaal der Volksschule abends an einen Volleyballverein gegen Entgelt. Das Parkett ist stark abgenützt, die Betriebskosten steigen, die Nachbargemeinde soll über die höhere Umlage mitzahlen und wehrt sich.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Gemeinde muss das Dach instand halten, weil die Erhaltung ihre Pflicht ist. Wird das Haus für den Unterricht ungeeignet, hebt die Behörde die Widmung von Amts wegen auf. Zum Nachlesen: TirSOG §76 Abs.4.",
+    "hauptquelle": "TirSOG §76 Abs.4",
+    "id": "C31-L3-002",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Gemeinde muss das Dach sanieren, bei Ungeeignetheit greift die Behörde von Amts wegen ein.",
+      "Der Direktor muss die Reparatur aus privaten Mitteln bezahlen.",
+      "Die Nachbargemeinden haften automatisch für das versäumte Dach.",
+      "Bei Wasserschäden entfällt jeder Unterrichtsanspruch der Kinder ersatzlos."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erhaltungspflicht plus amtswegige Widmungsaufhebung bei Ungeeignetheit.",
+      "Falsch: Private Zahlungspflicht der Leitung besteht nicht.",
+      "Falsch: Säumigkeit des Erhalters geht nicht auf Nachbarn über.",
+      "Falsch: Der Unterrichtsanspruch bleibt, Ersatz oder Sanierung ist nötig."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Trotz massiven Wassereinbruchs im Klassentrakt schiebt die Gemeinde die Dachsanierung seit zwei Wintern auf. Der Direktor meldet Schimmel und Unterrichtsausfall, die Eltern drohen mit einer Anzeige bei der Behörde.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Externe Betreuerinnen ohne Gemeindedienst dürfen erst nach geprüftem Vertrauensnachweis starten. Die Bescheinigung darf bei Vorlage höchstens drei Monate alt sein. Zum Nachlesen: TirSOG §6 Abs.4.",
+    "hauptquelle": "TirSOG §6 Abs.4",
+    "id": "C31-L3-003",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Bewerberin darf sofort ohne jeden Nachweis im Betreuungsteil arbeiten.",
+      "Die Bewerberin darf erst nach Vorlage einer höchstens drei Monate alten Vertrauensbescheinigung starten.",
+      "Eine acht Monate alte Bescheinigung reicht völlig aus.",
+      "Der Vertrauensnachweis ist nur bei Lehrern nötig, nie bei Externen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Prüfung ist kein Dienst im Betreuungsteil erlaubt.",
+      "Richtig: Vorherige Prüfung mit frischer Bescheinigung ist Pflicht.",
+      "Falsch: Acht Monate überschreitet die Dreimonatsgrenze.",
+      "Falsch: Gerade Externe ohne Gebietskörperschaftsdienst brauchen den Nachweis."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Für den Freizeitbereich der ganztägigen Volksschule bewirbt sich eine externe Pädagogin ohne Gemeindedienst. Sie legt nur eine acht Monate alte Strafregisterbescheinigung vor und will am Montag ohne weitere Prüfung starten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ohne Aufnahmepflicht und ohne Zustimmung der Heimatgemeinde gibt es keinen Beitragsanspruch. Der Schulerhalter kann mit der Gemeinde nur einen freiwilligen Vertrag schließen. Zum Nachlesen: TirSOG §78 Abs.6.",
+    "hauptquelle": "TirSOG §78 Abs.6",
+    "id": "C31-L3-004",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Heimatgemeinde muss immer zahlen, sobald ihr Kind woanders sitzt.",
+      "Ohne Pflicht und Zustimmung besteht kein Anspruch, nur ein freiwilliger Vertrag ist möglich.",
+      "Die Eltern werden per Bescheid zu Schulerhaltungsbeiträgen herangezogen.",
+      "Das Land springt automatisch für jeden sprengelfremden Besuch ein."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Pflicht oder Zustimmung keine Beitragspflicht.",
+      "Richtig: Kein Anspruch, nur freiwillige Vertrags­lösung.",
+      "Falsch: Eltern sind keine Beitragsschuldner.",
+      "Falsch: Automatische Landeshaftung gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Kind besucht freiwillig die Mittelschule der Nachbarstadt, obwohl die eigene Sprengelschule frei wäre. Die Heimatgemeinde hat dem Wechsel nie zugestimmt, die Schulstadt schickt ihr trotzdem eine Beitragsvorschreibung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Zwei Jahre nach dem Zubau sind neue Geräte kein Anlassaufwand mehr, sondern laufender Bedarf. Solche Kosten fallen daher in den Betriebsaufwand. Zum Nachlesen: TirSOG §77 Abs.3.",
+    "hauptquelle": "TirSOG §77 Abs.3",
+    "id": "C31-L3-005",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Geräte sind Investition, weil das Haus einmal umgebaut wurde.",
+      "Die Geräte sind Betriebsaufwand, weil sie nicht aus Anlass des Baus angeschafft wurden.",
+      "Jeder Möbelkauf ist immer Investition, egal wann er erfolgt.",
+      "Lehrergehälter zählen zum Investitionsaufwand des Umbaus."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Zeit- und Anlassbezug fehlt hier.",
+      "Richtig: Spätere Ersatzbeschaffung ist Betriebsaufwand.",
+      "Falsch: Der Anschaffungsanlass entscheidet über die Zuordnung.",
+      "Falsch: Personal ist kein Erhaltungsaufwand."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Jahre nach dem großen Zubau der Mittelschule kauft die Gemeinde neue Laptops für alle Klassen. Im Streit mit den Sprengelgemeinden will sie den Kauf als Investitionsbeitrag nach dem Bauschlüssel abrechnen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Auch ein bestehendes Ersatzgebäude darf erst nach Bewilligung für Schulzwecke genutzt werden. Zuständig für diese Verwendungsbewilligung ist die Bildungsdirektion. Zum Nachlesen: TirSOG §73 Abs.2.",
+    "hauptquelle": "TirSOG §73 Abs.2",
+    "id": "C31-L3-006",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Gemeinde darf das Haus formlos sofort als Klasse nutzen.",
+      "Die Nutzung braucht vorher eine Verwendungsbewilligung der Bildungsdirektion.",
+      "Der Bürgermeister ersetzt die Bewilligung durch einen Gemeinderatsbeschluss.",
+      "Eine Bewilligung ist nur bei Neubauten nötig, nie bei Bestandshäusern."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Formlose Nutzung ohne Verfahren ist unzulässig.",
+      "Richtig: Bestandsgebäude brauchen eine Verwendungsbewilligung.",
+      "Falsch: Ein Beschluss ersetzt das Behördenverfahren nicht.",
+      "Falsch: Gerade Bestandsgebäude brauchen diese Bewilligung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Wasserschaden will die Gemeinde eine leerstehende Pfarrheim­etage sofort als Ausweichklasse für zwei Volksschulklassen nutzen. Planunterlagen für Schulzwecke wurden für das Haus nie bewilligt, die Zeit drängt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der allgemeine Betrieb wird bei Sonderschulen je zur Hälfte nach beiden Formeln ermittelt. Der Freizeit- und Essensaufwand im Ganztag folgt dagegen dem Stundenschlüssel nach Abzug der Beiträge. Zum Nachlesen: TirSOG §79 Abs.7.",
+    "hauptquelle": "TirSOG §79 Abs.7",
+    "id": "C31-L3-007",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Aller Aufwand wird pauschal halbiert, ohne jede Ausnahme für den Ganztag.",
+      "Der allgemeine Betriebsaufwand wird je zur Hälfte nach Schüler- und Einwohnerformel ermittelt.",
+      "Der Freizeit- und Verpflegungsaufwand wird nach Betreuungsstunden der Schüler umgelegt.",
+      "Elternbeiträge und Drittzuschüsse mindern vorher den umzulegenden Freizeitaufwand.",
+      "Die Umlage erfolgt nach freiem Ermessen des Bürgermeisters.",
+      "Stichtag und Kopfquote spielen bei Sonderschulen gar keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Ganztags-Freizeitbereich ist von der Halbierung ausgenommen.",
+      "Richtig: Geteilte Ermittlung ist der Grundsatz.",
+      "Richtig: Stundensummen entscheiden im Betreuungsteil.",
+      "Richtig: Beiträge und Förderungen werden abgezogen.",
+      "Falsch: Ermessen ersetzt die Formel nicht.",
+      "Falsch: Stichtag und Quote bleiben Maßstab."
+    ],
+    "richtig": [
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Schulerhalter einer ganztägigen Sonderschule legt eine Abrechnung vor, die alles pauschal halbiert und Elternbeiträge ignoriert. Die beitragspflichtigen Gemeinden bestreiten die Mischung aus allgemeinem Betrieb und Freizeitbereich.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Zubau hätte vor Baubeginn von der Bildungsdirektion bewilligt und der Schulleiter vorher gehört werden müssen. Bei Mängeln darf die Bewilligung nur mit Bedingungen und Auflagen erteilt werden. Zum Nachlesen: TirSOG §72 Abs.1.",
+    "hauptquelle": "TirSOG §72 Abs.1",
+    "id": "C31-L3-008",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Planunterlagen für Neu-, Zu- und Umbau brauchen die Bewilligung der Bildungsdirektion.",
+      "Der Schulleiter ist vor der Entscheidung über die Planunterlagen zu hören.",
+      "Ein Handschlag mit der Baufirma ersetzt das Bewilligungsverfahren.",
+      "Bei Mängeln wird die Bewilligung mit Bedingungen und Auflagen erteilt.",
+      "Die Baubehörde der Gemeinde ersetzt die Bildungsdirektion vollständig.",
+      "Eine nachträgliche Anhörung heilt jeden Verfahrensfehler automatisch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Planbewilligung darf nicht gebaut werden.",
+      "Richtig: Anhörung der Leitung ist vorgeschrieben.",
+      "Falsch: Privater Handschlag schafft keine Bewilligung.",
+      "Richtig: Auflagen sichern die gesetzlichen Anforderungen.",
+      "Falsch: Die Zuständigkeit bleibt bei der Bildungsdirektion.",
+      "Falsch: Automatische Heilung gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde hat den Zubau der Volksschule ohne Verfahren hochgezogen, die Schulleiterin erfuhr davon aus der Zeitung. Nun sind Fluchtwege zu eng, die Behörde prüft den Schwarzbau und die übergangenen Rechte.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Lernzeiten stellt das Land bei, den Freizeitbereich der Schulerhalter. Springt das Land dort ein, muss der Erhalter den Personalaufwand ersetzen. Zum Nachlesen: TirSOG §6 Abs.2.",
+    "hauptquelle": "TirSOG §6 Abs.2",
+    "id": "C31-L3-009",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Die gegenstandsbezogene Lernzeit stellt das Land mit Lehrern bei.",
+      "Der Freizeitbereich ist automatisch und kostenlos Landessache.",
+      "Die individuelle Lernzeit stellt das Land mit Lehrern und Erziehern bei.",
+      "Das Freizeitpersonal stellt der Schulerhalter, auch Freizeitpädagogen.",
+      "Externe ohne Vertrauensnachweis dürfen sofort im Betreuungsteil starten.",
+      "Ein Landeseinsatz im Freizeitbereich ist nie zu ersetzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gegenstandsbezogene Lernzeit ist Landessache.",
+      "Falsch: Freizeit ist Erhaltersache, Landeseinsatz nur gegen Ersatz.",
+      "Richtig: Individuelle Lernzeit ist Landessache.",
+      "Richtig: Freizeitpädagogen stellt der Erhalter bei.",
+      "Falsch: Externe brauchen vorher den Vertrauensnachweis.",
+      "Falsch: Der Aufwand ist nach klarer Regel zu ersetzen."
+    ],
+    "richtig": [
+      0,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An der ganztägigen Mittelschule ordnet die Direktorin alle Nachmittagsstunden pauschal dem Land zu, auch Sport und freies Spiel. Der Bürgermeister soll nur zusehen, die Abrechnung des Freizeitpersonals bleibt ungeklärt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Betrieb wird jährlich bis Ende Juli per Bescheid vorgeschrieben, Investition folgt dem Baufortschritt mit Schlussabrechnung. Vorauszahlungen gibt es nur bei Überforderung der Geldmittel des Erhalters. Zum Nachlesen: TirSOG §81 Abs.2.",
+    "hauptquelle": "TirSOG §81 Abs.2",
+    "id": "C31-L3-010",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Betriebsbeiträge werden bis Ende Juli des Folgejahres per Bescheid vorgeschrieben.",
+      "Investitionsbeiträge folgen dem Baufortschritt, am Ende mit Gesamtabrechnung.",
+      "Betrieb darf gesammelt nur alle fünf Jahre vorgeschrieben werden.",
+      "Vorauszahlungen gibt es nur bei Übersteigen der Geldmittel des Erhalters.",
+      "Teilbeträge werden bar auf die Hand ohne jede Frist fällig.",
+      "Die Gemeinden brauchen keine Vorschau für ihren Haushalt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jahresfrist und Bescheidform sind fix.",
+      "Richtig: Teilbeträge plus Schlussabrechnung.",
+      "Falsch: Jährliche Abrechnung ist verlangt.",
+      "Richtig: Nur bei finanzieller Überforderung zulässig.",
+      "Falsch: Fälligkeit vier Wochen nach Bescheid.",
+      "Falsch: Rechtzeitige Vorschau ist vorgeschrieben."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Schulerhalter schreibt Betriebskosten drei Jahre rückwirkend vor und verlangt Vorauszahlungen für den Zubau, obwohl seine Kasse voll ist. Die Nachbargemeinden rügen Fristen, Baufortschritt und die fehlende Haushaltsvorschau.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Bei kleinem Einwohnerminus entfällt die Erstattung, sonst wird mit fünf Prozent je Besuchsjahr abgeschrieben. Den Rest tragen die übrigen Beitragspflichtigen, ein Vertrag bleibt möglich. Zum Nachlesen: TirSOG §82 Abs.4.",
+    "hauptquelle": "TirSOG §82 Abs.4",
+    "id": "C31-L3-011",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Jedes Besuchsjahr mindert den Beitrag um fünf Prozent Abschreibung.",
+      "Der volle Betrag plus Zinsen wird immer zurückgezahlt.",
+      "Bei höchstens zwanzig Prozent Einwohnerminus entfällt die Erstattung.",
+      "Auch nach dreißig Jahren gibt es ungekürzte Erstattung.",
+      "Der Restbetrag wird auf die übrigen Beitragspflichtigen umgelegt.",
+      "Eine vertragliche Einigung über die Erstattung ist verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jährliche Abschreibung mindert den Betrag.",
+      "Falsch: Vollersatz plus Zinsen ist nicht vorgesehen.",
+      "Richtig: Geringe Änderung löst keine Erstattung aus.",
+      "Falsch: Nach zwanzig Jahren endet der Anspruch.",
+      "Richtig: Übrige Gemeinden tragen den Rest.",
+      "Falsch: Ein Zivilvertrag ist ausdrücklich zulässig."
+    ],
+    "richtig": [
+      0,
+      2,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Gemeinde scheidet nach fünf Jahren teilweise aus dem Sprengel aus, ihre Einwohnerzahl sinkt dadurch um acht Prozent. Sie verlangt ihre alten Baubeiträge voll plus Zinsen zurück und lehnt jeden Abschlag ab.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Vorschulkinder und bestimmte sprengelfremde Gastschüler bleiben bei der Investitionsrechnung außen vor. Nur die übrigen beitragspflichtigen Schüler tragen den Schlüssel. Zum Nachlesen: TirSOG §80 Abs.5.",
+    "hauptquelle": "TirSOG §80 Abs.5",
+    "id": "C31-L3-012",
+    "level": "L3",
+    "modul_id": "C31",
+    "optionen": [
+      "Richtig.",
+      "Falsch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese Gruppen zählen bei Investition nicht mit.",
+      "Falsch: Die Ausnahme ist ausdrücklich vorgesehen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Streit um den Neubau der Mittelschule behauptet eine Sprengelgemeinde, auch die Vorschulklasse und genehmigte Gastschüler müssten Investitionsbeiträge mittragen. Der Schulerhalter prüft, wer aus der Rechnung fällt.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

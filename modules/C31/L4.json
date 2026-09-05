@@ -1,1 +1,241 @@
-[]
+[
+  {
+    "aufloesung": "Weil die Schule noch nicht voll läuft, wird nach Einwohnern statt nach Schülern umgelegt. Gemeinden im reinen Berechtigungssprengel zählen dabei nur mit sechzig Prozent. Zum Nachlesen: TirSOG §80 Abs.3.",
+    "hauptquelle": "TirSOG §80 Abs.3",
+    "id": "C31-L4-001",
+    "level": "L4",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Umlage folgt starr den aktuellen Schülerzahlen am Stichtag.",
+      "Die Umlage folgt dem Einwohnerverhältnis, Berechtigungsgemeinden nur mit sechzig Prozent.",
+      "Verträge der Gemeinden über die Kosten gehen dieser Auffangregel vor.",
+      "Die Nachbargemeinde zahlt nie, solange nicht alle Stufen laufen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei Anlaufbetrieb greift die Einwohnerformel.",
+      "Richtig: Einwohner­schlüssel mit Abschlag für Berechtigungssprengel.",
+      "Richtig: Schriftliche Verträge haben Vorrang.",
+      "Falsch: Beitragspflicht besteht auch im Anlaufbetrieb."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die neue Mittelschule startet erst mit zwei Stufen, gleichzeitig wurde ihr Sprengel zulasten zweier Umlandgemeinden geändert. Eine Gemeinde liegt nur im Berechtigungssprengel, ein Vertrag über die Baukosten existiert nicht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei unbenützbarem Haus ohne Ersatzräume muss die Schule stillgelegt werden. Fallen die Hinderungsgründe weg, ist die Stilllegung wieder aufzuheben. Zum Nachlesen: TirSOG §22 Abs.1.",
+    "hauptquelle": "TirSOG §22 Abs.1",
+    "id": "C31-L4-002",
+    "level": "L4",
+    "modul_id": "C31",
+    "optionen": [
+      "Der Betrieb läuft trotz Einsturzgefahr einfach weiter.",
+      "Die Schule wird stillgelegt, solange kein Ersatzraum verfügbar ist.",
+      "Die Gemeinde darf die Stilllegung dauerhaft als Sparmodell nutzen.",
+      "Nach Sanierung bleibt die Schule ohne Verfahren geschlossen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gefährdung von Kindern ist keine Option.",
+      "Richtig: Unbenützbarkeit ohne Ersatz erzwingt Stilllegung.",
+      "Falsch: Stilllegung ist nur vorübergehend gedacht.",
+      "Falsch: Bei Wegfall der Gründe ist aufzuheben."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach dem Hochwasser ist das Volksschulgebäude einsturzgefährdet, Ersatzräume gibt es im Ort keine. Der Gemeinderat streitet, ob der Unterricht im nassen Erdgeschoß weiterlaufen soll oder das Haus zu schließen ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Kleinschule ist aufzulassen, weil beide Auflassungsgründe dauerhaft vorliegen. Ihre alten Baubeiträge bekommt die ausscheidende Gemeinde nur anteilig nach Abschreibung zurück. Zum Nachlesen: TirSOG §23 Abs.1.",
+    "hauptquelle": "TirSOG §23 Abs.1",
+    "id": "C31-L4-003",
+    "level": "L4",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Schule bleibt offen, weil jede Kleinschule Bestandsschutz hat.",
+      "Die Schule wird aufgelassen, Erstattung nur anteilig mit Abschreibung.",
+      "Die Auflassung wirkt sofort mitten im Semester ohne Stichtag.",
+      "Die Baubeiträge werden voll plus Zinsen zurückgezahlt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei Dauer­tiefstand plus erreichbarer Nachbarschule ist aufzulassen.",
+      "Richtig: Auflassung plus gekürzte Erstattung binnen Frist.",
+      "Falsch: Wirksamkeit erst zum Schuljahresende nach Stichtagslauf.",
+      "Falsch: Vollersatz mit Zinsen ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Zwergschule liegt drei Jahre unter zehn Kindern, die Nachbarschule ist gut erreichbar, die Zahlen steigen nicht. Die Gemeinde will die Auflassung abwenden und verlangt zugleich ihre Baubeiträge von vor acht Jahren voll zurück.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Trotz genug Anmeldungen scheitert die Pflichtbestimmung an Räumen und Alternativangebot. Ohne Speiseraum und bei freiem Hort nebenan darf die Schule nicht verpflichtend bestimmt werden. Zum Nachlesen: TirSOG §99a Abs.5.",
+    "hauptquelle": "TirSOG §99a Abs.5",
+    "id": "C31-L4-004",
+    "level": "L4",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Schule wird sofort verpflichtend ganztägig, Räume sind egal.",
+      "Die Pflichtbestimmung scheitert an fehlenden Räumen und freiem Alternativangebot.",
+      "Die Anmeldezahl allein erzwingt die Bestimmung ohne weitere Prüfung.",
+      "Der private Hort nebenan ist rechtlich völlig unbeachtlich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Räume sind zwingende Voraussetzung.",
+      "Richtig: Räume und Alternativangebot blockieren die Pflicht.",
+      "Falsch: Mindestzahl plus weitere Voraussetzungen entscheiden.",
+      "Falsch: Ausreichende Alternativangebote schließen die Pflicht aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Achtzehn Eltern melden ihre Kinder zur Nachmittagsbetreuung an, doch die Schule hat keinen Speiseraum und keine Betreuungsräume. Der private Hort nebenan hat freie Plätze in Gehweite, der Bürgermeister will trotzdem per Beschluss verpflichtend bestimmen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Mehrkosten durch den Cluster trägt nicht eine Gemeinde allein, die anderen Erhalter zahlen mit. Ohne Vertrag entscheidet die Kopfquote mal Stichtagsschüler vom ersten Oktober. Zum Nachlesen: TirSOG §86a.",
+    "hauptquelle": "TirSOG §86a",
+    "id": "C31-L4-005",
+    "level": "L4",
+    "modul_id": "C31",
+    "optionen": [
+      "Der Sitzgemeinde des Clusterleiters bleiben alle Mehrkosten allein.",
+      "Die übrigen Erhalter im Cluster leisten Beiträge zu den Mehrkosten.",
+      "Schriftliche Verträge über die Beitragshöhe gehen der Formel vor.",
+      "Ohne Vertrag zählt Kopfquote mal Schüler am ersten Oktober.",
+      "Mehrkosten werden nach Einwohnern des Bezirks pauschal verteilt.",
+      "Der Bund übernimmt Cluster-Mehrkosten automatisch immer voll."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Allein­tragung ist gerade ausgeschlossen.",
+      "Richtig: Beitragsanspruch gegen die weiteren Erhalter.",
+      "Richtig: Vertrag hat Vorrang vor der Formel.",
+      "Richtig: Quote mal Stichtagsschüler ist die Auffangregel.",
+      "Falsch: Bezirkspauschale ist nicht vorgesehen.",
+      "Falsch: Automatische Bundeshaftung gibt es nicht."
+    ],
+    "richtig": [
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Gemeinden führen ihre Volks- und Mittelschulen als Cluster, Leitung und Verwaltung sitzen in der größten Schule. Deren Erhalter verlangt von den beiden anderen einen Anteil an den nachweislichen Leitungs-Mehrkosten, ein Vertrag existiert nicht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Tagesbetreuungs-Aufnahmepflicht begründet die Beitragspflicht der Heimatgemeinde. Ohne Pflicht und Zustimmung gibt es keinen Anspruch, Sprengelgemeinden zahlen für ihre eigenen Kinder. Zum Nachlesen: TirSOG §78 Abs.3.",
+    "hauptquelle": "TirSOG §78 Abs.3",
+    "id": "C31-L4-006",
+    "level": "L4",
+    "modul_id": "C31",
+    "optionen": [
+      "Sprengelgemeinden zahlen Betriebsbeiträge für ihre dort wohnenden Kinder.",
+      "Die Aufnahmepflicht wegen fehlender Tagesbetreuung begründet die Pflicht der Heimatgemeinde.",
+      "Ohne Pflicht und Zustimmung gibt es nur einen freiwilligen Vertrag.",
+      "Eltern einzelner Kinder werden per Bescheid beitragspflichtig.",
+      "Jede Bezirksgemeinde zahlt pauschal ohne jeden Schülerbezug.",
+      "Das Land zahlt automatisch für jede Gemeindeschule mit."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sprengelbezug löst die Pflicht aus.",
+      "Richtig: Pflichtaufnahme zieht die Heimatgemeinde heran.",
+      "Richtig: Ohne Grundlage nur freiwillige Beteiligung.",
+      "Falsch: Eltern sind keine Schuldner.",
+      "Falsch: Ohne Bezug keine Pflicht.",
+      "Falsch: Kein Automatismus zulasten des Landes."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Ein Volksschüler aus der Nachbargemeinde wird aufgenommen, weil sein Heimatsprengel weder schulische Betreuung noch einen passenden Hort bis in den Nachmittag bietet. Die Plätze reichen, keine neue Klasse entsteht, nun streiten beide Gemeinden über den Betriebsbeitrag.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Enteignet werden darf nur für Schulbau, Liegenschaften und Zugänge bei vorliegender Errichtungsbewilligung. Für den Zubau muss zusätzlich die Planbewilligung vorliegen, das Verfahren folgt dem Straßengesetz. Zum Nachlesen: TirSOG §87 Abs.2.",
+    "hauptquelle": "TirSOG §87 Abs.2",
+    "id": "C31-L4-007",
+    "level": "L4",
+    "modul_id": "C31",
+    "optionen": [
+      "Enteignung ist für Zubau, Liegenschaften und Schulzugänge möglich.",
+      "Ohne Errichtungsbewilligung darf nicht enteignet werden.",
+      "Für den Zubau muss zusätzlich die Planunterlagen­bewilligung vorliegen.",
+      "Im Übrigen gilt das Verfahren nach dem Straßengesetz sinngemäß.",
+      "Enteignet werden darf jederzeit auch ohne jedes Verfahren.",
+      "Die Enteignung ersetzt alle Bau- und Planbewilligungen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese Zwecke sind ausdrücklich genannt.",
+      "Richtig: Bewilligung ist Wirksamkeitsvoraussetzung.",
+      "Richtig: Planreife ist beim Bau zusätzlich nötig.",
+      "Richtig: Verweis ins Straßenverfahrensrecht.",
+      "Falsch: Ohne Verfahren keine Enteignung.",
+      "Falsch: Bewilligungen bleiben daneben erforderlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für den dringend nötigen Zubau der Mittelschule will die Gemeinde ein Nachbargrundstück enteignen. Weder die Errichtung noch die Pläne sind bisher bewilligt, der Eigentümer wehrt sich gegen den Schnellzugriff.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Nach zwanzig Jahren endet der Erstattungsanspruch, davor wird jährlich abgeschrieben. Ein ungekürzter Vollersatz nach Fristablauf ist daher ausgeschlossen. Zum Nachlesen: TirSOG §82 Abs.1.",
+    "hauptquelle": "TirSOG §82 Abs.1",
+    "id": "C31-L4-008",
+    "level": "L4",
+    "modul_id": "C31",
+    "optionen": [
+      "Richtig.",
+      "Falsch."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nach Fristende gibt es keinen Anspruch mehr.",
+      "Richtig: Vollersatz nach über zwanzig Jahren ist ausgeschlossen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Gemeinde scheidet nach 25 Jahren aus dem Sprengel aus und verlangt ihre alten Baubeiträge ungekürzt zurück. Der Schulerhalter wendet ein, die Frist sei längst abgelaufen und jährlich werde abgeschrieben.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]
