@@ -1,1 +1,563 @@
-[]
+[
+  {
+    "aufloesung": "Die Direktion prüft Anordnung, Pflichtcharakter und Reihenfolge. Supplierstunden werden angeordnet, sind auch fachfremd Dienstpflicht, und zuerst kommen jene dran, deren Kontingent noch offen ist. Zum Nachlesen: LDG §43 Abs.4.",
+    "hauptquelle": "LDG §43 Abs.4",
+    "id": "B33-L2-001",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Supplierstunde wird von der Schulleitung angeordnet und ist zu halten.",
+      "Auch fachfremder Unterricht ist im Bedarfsfall zu übernehmen.",
+      "Zuerst werden Lehrpersonen mit noch offenem Pflichtkontingent herangezogen.",
+      "Supplierstunden sind freiwillig und können ohne Grund abgelehnt werden.",
+      "Vertreten darf nur, wer das Fach studiert hat.",
+      "Der Vertretungsplan braucht keine Regeln, Beliebtheit genügt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Anordnung und Pflicht liefe kein Vertretungsplan.",
+      "Richtig: Die Fachfremd-Pflicht sichert die Betreuung der Klassen.",
+      "Richtig: Der Vorrang der offenen Kontingente steht ausdrücklich im Gesetz.",
+      "Falsch: Freiwilligkeit würde die Versorgung bei Krankenständen verhindern.",
+      "Falsch: Das Studium begrenzt die Supplierpflicht im Bedarf nicht.",
+      "Falsch: Beliebtheit ist kein dienstrechtliches Einteilungskriterium."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Eine Direktorin will ihren Vertretungsplan rechtssicher aufstellen und prüft anhand einer Checkliste, worauf es bei der Anordnung von Supplierstunden ankommt. Welche Punkte gehören auf diese Checkliste?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §50 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Die Abrechnung folgt dem Kontingent und der Überschreitung. Die ersten 20 Stunden sind unvergütete Pflicht, jede weitere Vertretungsstunde wird besonders vergütet, und Vollzeitwerte gelten bei Teilzeit nur aliquot. Zum Nachlesen: LDG §50 Abs.4.",
+    "hauptquelle": "LDG §50 Abs.4",
+    "id": "B33-L2-002",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Die ersten 20 Vertretungsstunden im Jahr sind unvergütete Pflicht.",
+      "Jede Stunde über dem Kontingent wird besonders vergütet.",
+      "Bei Teilzeit gilt das Kontingent nur im aliquoten Ausmaß.",
+      "Jede einzelne Vertretungsstunde wird von der ersten Minute an bezahlt.",
+      "Erst ab der 50. Vertretungsstunde gibt es Geld.",
+      "Jede Stunde zählt doppelt, nach zehn Stunden ist man fertig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Pflichtkontingent ist die Basis jeder Abrechnung.",
+      "Richtig: Die Überschreitung löst den Vergütungsanspruch aus.",
+      "Richtig: Teilzeit aliquotiert auch die Abrechnungsschwelle.",
+      "Falsch: Die ersten Stunden sind gerade unvergütet.",
+      "Falsch: Eine 50-Stunden-Schwelle existiert nicht.",
+      "Falsch: Doppelzählung kennt das Gesetz nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Ein Administrator rechnet am Schuljahresende die Supplierstunden ab und geht eine Checkliste durch: Kontingentstand prüfen, Überschreitung feststellen, Teilzeit berücksichtigen. Welche Aussagen treffen dabei zu?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §50 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Die Dauervertretung braucht Änderung, Dauer und Überschreitung. Eine unbedingt erforderliche Änderung der Einteilung, dauernder Unterricht über dem zugewiesenen Ausmaß und die besondere Vergütung gehören zusammen. Zum Nachlesen: LDG §50 Abs.3.",
+    "hauptquelle": "LDG §50 Abs.3",
+    "id": "B33-L2-003",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Lehrfächerverteilung wird unbedingt erforderlich geändert, etwa wegen Langzeitkrankenstand.",
+      "Der Unterricht erfolgt dauernd über das zugewiesene Stundenausmaß hinaus.",
+      "Für die Mehrstunden gebührt die besondere Vergütung statt der Nebengebühren.",
+      "Einzelne gelegentliche Supplierstunden lösen schon diese Vergütung aus.",
+      "Die Vergütung gibt es nur bei freiwilliger Meldung für die Vertretung.",
+      "Eine Änderung der Einteilung ist dafür nie nötig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die unbedingt erforderliche Änderung ist der Auslöser.",
+      "Richtig: Dauer plus Überschreitung des eigenen Ausmaßes sind entscheidend.",
+      "Richtig: Statt Nebengebühren tritt die besondere Vergütung.",
+      "Falsch: Gelegentliche Stunden laufen über das normale Kontingent.",
+      "Falsch: Freiwilligkeit ist keine Voraussetzung der Vergütung.",
+      "Falsch: Ohne Einteilungsänderung bleibt es bei Einzelvertretungen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "An einer Mittelschule fällt ein Kollege für den Rest des Jahres aus. Eine Lehrerin übernimmt seine Klasse dauerhaft mit geändertem Stundenplan. Die Direktion prüft, ob eine vergütungspflichtige Dauervertretung vorliegt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Mitfahrt auf die Schulveranstaltung ist streng geregelt. Anordnung nur bei Unaufschiebbarkeit und pädagogischer Notwendigkeit, höchstens zehn Stunden pro Tag und Abzug ersatzlos entfallener eigener Stunden. Zum Nachlesen: LDG §50 Abs.7.",
+    "hauptquelle": "LDG §50 Abs.7",
+    "id": "B33-L2-004",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Vertretung darf nur bei Unaufschiebbarkeit und pädagogischer Notwendigkeit angeordnet werden.",
+      "Die Vergütung beträgt höchstens zehn Stunden pro Tag.",
+      "Ersatzlos entfallene eigene Stunden werden von der Vergütung abgezogen.",
+      "Jede Begleitung auf Schulveranstaltungen wird unbegrenzt vergütet.",
+      "Die Anordnung ist auch aus reiner Bequemlichkeit zulässig.",
+      "Entfallene eigene Stunden erhöhen die Vergütung zusätzlich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beide Voraussetzungen müssen gleichzeitig vorliegen.",
+      "Richtig: Zehn Stunden deckeln jeden einzelnen Tag.",
+      "Richtig: Was ersatzlos entfällt, mindert die Abgeltung.",
+      "Falsch: Unbegrenzt wird hier gerade nicht vergütet.",
+      "Falsch: Bequemlichkeit ersetzt Notwendigkeit nicht.",
+      "Falsch: Entfallene Stunden werden abgezogen, nicht draufgeschlagen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "Für eine Skikurswoche springt ein Lehrer für einen erkrankten Kollegen ein. Die Direktion geht die Checkliste für Vertretungen auf Schulveranstaltungen durch: Zulässigkeit der Anordnung, Höhe der Vergütung, Anrechnung entfallener Stunden.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Krankheit stoppt die Vergütung nicht, sie kürzt sie nur tageweise. Dauernde Mehrstunden werden bei Erkrankung oder Pflegefreistellung weiterbezahlt, pro Abwesenheitstag entfällt ein Fünftel der Wochenvergütung, bei Sechs-Tage-Woche ein Sechstel. Zum Nachlesen: LDG §50 Abs.9.",
+    "hauptquelle": "LDG §50 Abs.9",
+    "id": "B33-L2-005",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Vergütung für dauernde Mehrstunden läuft bei Krankheit weiter.",
+      "Pro Abwesenheitstag kürzt sich die Wochenvergütung um ein Fünftel.",
+      "Bei Unterricht an sechs Tagen beträgt die Kürzung ein Sechstel pro Tag.",
+      "Bei Krankheit entfällt die Vergütung für das ganze Monat.",
+      "Pflegefreistellung beendet den Vergütungsanspruch sofort.",
+      "Die Kürzung legt die Direktion nach Gefühl fest."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Weiterzahlung trotz Abwesenheit ist der Grundsatz.",
+      "Richtig: Die Fünftelregel gilt pro versäumtem Tag.",
+      "Richtig: Sechs-Tage-Lehrer werden mit Sechsteln abgerechnet.",
+      "Falsch: Eine Monatssperre sieht das Gesetz nicht vor.",
+      "Falsch: Pflegefreistellung wirkt genau wie Erkrankung.",
+      "Falsch: Die Kürzungssätze sind fix und kein Ermessen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Eine Lehrerin mit dauernden Mehrstunden ist zwei Tage einer Woche krank, eine andere nimmt Pflegefreistellung. Die Direktion prüft, wie sich Abwesenheiten auf die Mehrdienstleistungsvergütung auswirken.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Über der Obergrenze wird nur im Notfall angeordnet. An Volksschulen darf die Überschreitung grundsätzlich erst kommen, wenn alle Vollzeitkräfte im Höchstausmaß und alle Teilzeitkräfte aliquot eingesetzt sind, sonst nur bei zwingender Notwendigkeit. Zum Nachlesen: LDG §50 Abs.8.",
+    "hauptquelle": "LDG §50 Abs.8",
+    "id": "B33-L2-006",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Alle Vollzeitkräfte müssen im höchsten Unterrichtsausmaß verwendet sein.",
+      "Alle Teilzeitkräfte müssen mit ihrem aliquoten Anteil verwendet sein.",
+      "Ausnahmen gibt es nur bei zwingender Notwendigkeit für den Schulbetrieb.",
+      "Die Obergrenze darf jederzeit überschritten werden, wenn es praktisch ist.",
+      "Teilzeitkräfte bleiben bei dieser Prüfung außer Betracht.",
+      "Die Direktion darf die Obergrenze ohne jede Voraussetzung sprengen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Volle Auslastung der Vollzeitkräfte ist die erste Hürde.",
+      "Richtig: Auch Teilzeitkräfte zählen mit ihrem aliquoten Anteil.",
+      "Richtig: Nur Zwingendes und Unvermeidbares rechtfertigt die Ausnahme.",
+      "Falsch: Praktische Gründe allein genügen gerade nicht.",
+      "Falsch: Teilzeitkräfte sind in die Prüfung einzubeziehen.",
+      "Falsch: Voraussetzungslos geht hier gar nichts."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Volksschuldirektorin will einem Lehrer dauernde Stunden über der Obergrenze geben, obwohl andere Kolleginnen noch Luft in ihrer Einteilung haben. Sie prüft die Checkliste für diese Anordnung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Das Zeitkonto lebt von Frist und Unwiderruflichkeit. Die Erklärung gilt für ein Unterrichtsjahr, ist bis Ende September abzugeben und unwiderruflich, der Verbrauch setzt unter anderem das vollendete 50. Lebensjahr und einen rechtzeitigen Antrag voraus. Zum Nachlesen: LDG §50 Abs.13.",
+    "hauptquelle": "LDG §50 Abs.13",
+    "id": "B33-L2-007",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Erklärung bezieht sich auf ein Unterrichtsjahr und ist unwiderruflich.",
+      "Abgabefrist ist Ende September des betreffenden Unterrichtsjahres.",
+      "Der Verbrauch setzt das vollendete 50. Lebensjahr und einen Antrag bis Anfang März des Vorjahres voraus.",
+      "Die Erklärung kann jederzeit widerrufen und neu abgegeben werden.",
+      "Das Guthaben kann schon mit 40 Jahren als Freistellung verbraucht werden.",
+      "Eine Nachbesetzung der frei werdenden Stunden ist niemals erforderlich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein Jahr Bindung ohne Rücktrittsrecht lautet die Regel.",
+      "Richtig: Wer den Stichtag versäumt, ist für das Jahr draußen.",
+      "Richtig: Alter, Antrag und Nachbesetzung sichern den Verbrauch ab.",
+      "Falsch: Unwiderruflich heißt gerade kein Widerruf.",
+      "Falsch: Vor dem 50. Geburtstag gibt es keinen Verbrauch.",
+      "Falsch: Die Nachbesetzung ist grundsätzlich gerade erforderlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Ein Lehrer will Mehrstunden statt auszahlen lieber ansparen und später als Freistellung nützen. Die Direktion erklärt ihm die Checkliste des Zeitkontomodells: Erklärung, Frist, Verbrauchsvoraussetzungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §50 Abs.12",
+      "LDG §50 Abs.15"
+    ]
+  },
+  {
+    "aufloesung": "Ferien schützen, aber sie schotten nicht ab. Beurlaubung in den Ferien, Dienstpflicht bei besonderen Verpflichtungen wie Prüfungen und keine Pflicht an schulfreien Tagen außer bei besonderen Verhältnissen gehören zusammen. Zum Nachlesen: LDG §56 Abs.1.",
+    "hauptquelle": "LDG §56 Abs.1",
+    "id": "B33-L2-008",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Während der Schulferien ist man grundsätzlich vom Dienst beurlaubt.",
+      "Prüfungen und die Vertretung der Leitung sind besondere Verpflichtungen in den Ferien.",
+      "An sonstigen schulfreien Tagen besteht ohne besondere Verhältnisse keine Dienstpflicht.",
+      "In den Ferien darf niemand je zu einem Dienst herangezogen werden.",
+      "Prüfungen müssen in den Ferien ersatzlos entfallen.",
+      "Schulfreie Tage sind immer automatisch dienstfrei ohne jede Ausnahme."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Beurlaubung ist der Ausgangspunkt jeder Ferienplanung.",
+      "Richtig: Genau diese Beispiele nennt das Gesetz als Ausnahmen.",
+      "Richtig: Nur besondere Verhältnisse begründen dort eine Pflicht.",
+      "Falsch: Besondere Verpflichtungen durchbrechen die Beurlaubung.",
+      "Falsch: Entfallen müssen Prüfungen deswegen nicht.",
+      "Falsch: Besondere dienstliche Verhältnisse gelten auch dort."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor den Sommerferien fragt das Kollegium, was in den Ferien eigentlich gilt: Erreichbarkeit, Prüfungseinteilungen, schulfreie Tage im Jahr. Die Direktion stellt die Ferien-Checkliste zusammen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §56 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Der Leiter trägt die Ferienverantwortung persönlich. Je drei Werktage Anwesenheit am Anfang und Ende der Hauptferien, Sicherung unaufschiebbarer Geschäfte und gleichmäßige Heranziehung unter Rücksicht auf Wünsche sind seine Checkliste. Zum Nachlesen: LDG §56 Abs.3.",
+    "hauptquelle": "LDG §56 Abs.3",
+    "id": "B33-L2-009",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Der Leiter ist in den ersten drei Werktagen der Hauptferien anwesend.",
+      "Der Leiter ist in den letzten drei Werktagen der Hauptferien anwesend.",
+      "Unaufschiebbare Geschäfte sichert er ab und zieht Lehrer möglichst gleichmäßig unter Rücksicht auf Wünsche heran.",
+      "Der Leiter kann die ganzen Ferien abwesend und unerreichbar sein.",
+      "Feriendienste treffen immer dieselbe dienstjüngste Person.",
+      "Wünsche der Lehrer sind bei der Einteilung unbeachtlich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Ferienstart gehört zur Leiterpflicht.",
+      "Richtig: Auch das Ferienende gehört zur Leiterpflicht.",
+      "Richtig: Gleichmaß plus Wünsche lautet die Verteilregel.",
+      "Falsch: Dauerabwesenheit verletzt die Anwesenheitspflicht.",
+      "Falsch: Immer dieselbe Person verletzt das Gleichmäßigkeitsgebot.",
+      "Falsch: Wünsche sind tunlichst zu berücksichtigen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine neue Leiterin plant ihre Sommerferien und die Vertretung an der Schule: eigene Anwesenheit, unaufschiebbare Geschäfte, Einteilung des Kollegiums. Welche Punkte muss ihre Checkliste enthalten?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §56 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Die Rückberufung ist nur im Notfall erlaubt und kostet nichts extra. Wichtige dienstliche Gründe, schnellstmögliche Beendigung und Ersatz der unvermeidlichen Mehrauslagen auch für Angehörige bei Unzumutbarkeit bilden die Checkliste. Zum Nachlesen: LDG §56 Abs.5.",
+    "hauptquelle": "LDG §56 Abs.5",
+    "id": "B33-L2-010",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Rückberufung aus den Ferien braucht wichtige dienstliche Gründe.",
+      "Sie ist zu beenden, sobald es der Dienst gestattet.",
+      "Unvermeidliche Mehrauslagen werden ersetzt, bei Unzumutbarkeit auch für die Angehörigen.",
+      "Zurückberufen darf man jederzeit ohne jeden Grund.",
+      "Stornokosten trägt immer der Lehrer selbst.",
+      "Die Familie wird beim Kostenersatz grundsätzlich nie berücksichtigt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne wichtigen Grund gibt es keine Rückberufung.",
+      "Richtig: Die Belastung ist so kurz wie möglich zu halten.",
+      "Richtig: Mehrauslagen plus Familie bei Unzumutbarkeit werden ersetzt.",
+      "Falsch: Grundlose Rückberufungen sind unzulässig.",
+      "Falsch: Unvermeidliche Kosten trägt gerade der Dienstgeber.",
+      "Falsch: Angehörige sind bei Unzumutbarkeit ausdrücklich einbezogen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mitten in den Ferien fällt eine Prüfungskommission aus und ein Lehrer soll aus dem Urlaub zurückgeholt werden. Die Direktion prüft Voraussetzungen, Dauer und Kostenfolgen der Rückberufung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §56 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Teilzeit wird aliquot abgerechnet, aber nicht überall. Schwellen und Stundenwerte gelten im Teilzeitausmaß, die Stunden für Vorstand und Klassenführung bleiben ungekürzt, und der Stundenplan nimmt auf persönliche Verhältnisse Rücksicht. Zum Nachlesen: LDG §47 Abs.3a.",
+    "hauptquelle": "LDG §47 Abs.3a",
+    "id": "B33-L2-011",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Stundenwerte und Schwellen gelten im aliquoten Teilzeitausmaß.",
+      "Die 66 Stunden für Vorstand und Klassenführung werden nicht aliquotiert.",
+      "Bei der Stundenplaneinteilung ist auf persönliche Verhältnisse Rücksicht zu nehmen.",
+      "Teilzeitkräfte haben dieselben vollen Schwellen wie Vollzeitkräfte.",
+      "Das Vorstandskontingent wird bei Teilzeit einfach halbiert.",
+      "Persönliche Gründe spielen bei der Einteilung keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Aliquotierung ist der Grundsatz bei herabgesetzter Norm.",
+      "Richtig: Die Ausnahme für Vorstand und Klassenführung steht ausdrücklich im Gesetz.",
+      "Richtig: Rücksicht soweit keine wichtigen dienstlichen Interessen entgegenstehen.",
+      "Falsch: Volle Schwellen würden Teilzeitkräfte benachteiligen.",
+      "Falsch: Halbiert wird dieses Kontingent gerade nicht.",
+      "Falsch: Persönliche Verhältnisse sind ausdrücklich zu berücksichtigen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin mit halber Lehrverpflichtung ist zusätzlich Klassenvorständin. Die Direktion prüft die Teilzeit-Checkliste: Abrechnung der Supplierstunden, Vorstandskontingent, Gestaltung ihres Stundenplans.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §50 Abs.6",
+      "LDG §47 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Manches darf nur mit Zustimmung angeordnet werden. Individuelle Lernzeit, Freizeitbereich der Tagesbetreuung und der zusätzliche Einsatz in Förderklassen ohne Sonderausbildung brauchen das Einverständnis der Lehrperson. Zum Nachlesen: LDG §43 Abs.5.",
+    "hauptquelle": "LDG §43 Abs.5",
+    "id": "B33-L2-012",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Die individuelle Lernzeit in ganztägigen Formen braucht die Zustimmung.",
+      "Die Beschäftigung im Freizeitbereich der Tagesbetreuung braucht die Zustimmung.",
+      "Der zusätzliche Einsatz in Klassen mit Förderbedarf ohne Sonderausbildung braucht die Zustimmung.",
+      "Alles darf jederzeit auch gegen den Willen angeordnet werden.",
+      "Zustimmung ist nur bei Teilzeitkräften nötig.",
+      "Die gegenstandsbezogene Lernzeit braucht ebenfalls immer eine Zustimmung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Zustimmung keine individuelle Lernzeit.",
+      "Richtig: Der Freizeitbereich ist zustimmungspflichtig.",
+      "Richtig: Der Förderklassen-Einsatz ohne Ausbildung ist zustimmungspflichtig.",
+      "Falsch: Genau diese drei Fälle sind dem Direktionswillen entzogen.",
+      "Falsch: Auf das Beschäftigungsausmaß kommt es hier nicht an.",
+      "Falsch: Die gegenstandsbezogene Lernzeit zählt normal zur Unterrichtsverpflichtung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Direktion besetzt Stunden in der ganztägigen Betreuung und einer Integrationsklasse. Sie prüft, bei welchen Einsätzen sie die Zustimmung der Lehrpersonen einholen muss und wo sie frei einteilen darf.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §43 Abs.6",
+      "LDG §43 Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Auch die Leitung suppliert im Bedarfsfall mit. Befreiung vom regelmäßigen Unterricht bei mehr als sieben Klassen, unvergütete Vertretung bis zum festgelegten Wochenausmaß und die fiktive Pflicht freigestellter Leiter gehören zur Checkliste. Zum Nachlesen: LDG §51 Abs.7.",
+    "hauptquelle": "LDG §51 Abs.7",
+    "id": "B33-L2-013",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Leiter großer Schulen mit mehr als sieben Klassen sind vom regelmäßigen Unterricht befreit.",
+      "Der Leiter vertritt Abwesende im Bedarfsfall bis zum festgelegten Wochenausmaß ohne Vergütung.",
+      "Freigestellte Leiter vertreten bis zu dem Ausmaß, das ohne Freistellung gelten würde.",
+      "Leiter sind von jeder Vertretung ausgenommen.",
+      "Jede Leitungsvertretung wird automatisch vergütet.",
+      "Kleine Schulen kennen keine Vertretungspflicht der Leitung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Befreiung greift ab mehr als sieben Klassen.",
+      "Richtig: Der sechsunddreißigste Teil der Jahresverpflichtung pro Woche gilt unvergütet.",
+      "Richtig: Die Fiktion sichert die Vertretung auch bei Freistellung.",
+      "Falsch: Eine Ausnahme von der Vertretung gibt es für Leiter nicht.",
+      "Falsch: Innerhalb des Pflichtausmaßes gibt es gerade kein Geld.",
+      "Falsch: Die Pflicht hängt nicht von der Schulgröße ab."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An einer großen Mittelschule ist der Leiter vom Unterricht freigestellt, an einer kleinen Volksschule unterrichtet die Leiterin ihre Klasse nur teilweise. Das Kollegium fragt, wann die Leitung selbst supplieren muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §51 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Rückkehr und Teilzeit werden besonders geschont. In der Wiedereingliederung ist außer einer Supplierstunde pro Woche keine Mehrleistung anordenbar, und Teilzeitkräfte werden nach Möglichkeit weniger zu Mehrdiensten herangezogen als Vollzeitkräfte. Zum Nachlesen: LDG §46b Abs.4.",
+    "hauptquelle": "LDG §46b Abs.4",
+    "id": "B33-L2-014",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "In der Wiedereingliederung darf höchstens eine Supplierstunde pro Woche angeordnet werden.",
+      "Die anteilige Supplierverpflichtung bleibt daneben bestehen.",
+      "Teilzeitkräfte werden nach Möglichkeit weniger zu Mehrdiensten herangezogen.",
+      "In der Wiedereingliederung sind unbegrenzt Mehrstunden anordenbar.",
+      "Die anteilige Supplierpflicht entfällt in der Wiedereingliederung ganz.",
+      "Teilzeitkräfte sind vorrangig für alle Mehrdienste einzuplanen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eine Stunde pro Woche ist die einzige zulässige Mehrleistung.",
+      "Richtig: Das anteilige Pflichtkontingent läuft trotzdem weiter.",
+      "Richtig: Die Schonregel schützt Teilzeitkräfte ausdrücklich.",
+      "Falsch: Unbegrenzt geht in der Rückkehrphase gerade nicht.",
+      "Falsch: Unberührt heißt, dass die Pflicht bestehen bleibt.",
+      "Falsch: Vorrangig verplant werden Teilzeitkräfte gerade nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer kehrt in Wiedereingliederungsteilzeit zurück, eine Kollegin arbeitet dauerhaft halbtags. Die Direktion prüft, wie viele zusätzliche Supplierstunden beiden jeweils zugemutet werden dürfen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §47 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Fairness im Vertretungsplan hat drei Säulen. Offene Kontingente zuerst, Rücksicht auf persönliche Verhältnisse und Schonung von Teilzeitkräften machen die Einteilung rechtssicher und akzeptiert. Zum Nachlesen: LDG §50 Abs.4.",
+    "hauptquelle": "LDG §50 Abs.4",
+    "id": "B33-L2-015",
+    "level": "L2",
+    "modul_id": "B33",
+    "optionen": [
+      "Lehrer mit noch offenem Pflichtkontingent werden zuerst herangezogen.",
+      "Persönliche Verhältnisse werden bei der Einteilung berücksichtigt.",
+      "Teilzeitkräfte werden nach Möglichkeit bei Mehrdiensten geschont.",
+      "Eingeteilt wird rein alphabetisch, der Rest ist egal.",
+      "Unbeliebte Kolleginnen bekommen als Denkzettel alle Vertretungen.",
+      "Junge Lehrer vertreten immer, ältere grundsätzlich nie."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Vorrang der offenen Kontingente ist der erste Fairnessanker.",
+      "Richtig: Rücksicht soweit dienstlich möglich ist der zweite Anker.",
+      "Richtig: Die Teilzeit-Schonung ist der dritte Anker.",
+      "Falsch: Das Alphabet ist kein dienstrechtliches Kriterium.",
+      "Falsch: Strafvertretungen sind unzulässig und demotivierend.",
+      "Falsch: Das Alter verteilt die Supplierstunden nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Nach Beschwerden über ungerechte Vertretungspläne führt eine Schule Fairnessregeln ein: Reihenfolge der Heranziehung, Rücksicht auf Lebenslagen, Schutz von Teilzeitkräften. Welche Grundsätze tragen wirklich?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §47 Abs.1",
+      "LDG §47 Abs.4"
+    ]
+  }
+]
