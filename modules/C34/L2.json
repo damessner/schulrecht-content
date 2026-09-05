@@ -1,1 +1,521 @@
-[]
+[
+  {
+    "aufloesung": "Bei der Errichtung ist festzulegen, welche Schulen verbunden werden, wie der Cluster heißt, wo die Leitung sitzt und ab wann er gilt. Nur diese vier Punkte machen den Start vollständig. Zum Nachlesen: LDG §26c Abs.2.",
+    "hauptquelle": "LDG §26c Abs.2",
+    "id": "C34-L2-001",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Welche Schulen zum Cluster zusammengefasst werden",
+      "Welche Bezeichnung der Cluster trägt",
+      "An welcher Schule die Cluster-Leitung eingerichtet wird",
+      "Zu welchem Zeitpunkt die Errichtung wirksam wird",
+      "Welche Lieblingsspeise die Leitung hat",
+      "Welche Schulfarbe die Busse bekommen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die beteiligten Schulen sind festzulegen.",
+      "Richtig: Die Bezeichnung gehört zur Errichtung dazu.",
+      "Richtig: Der Leitungssitz ist festzulegen.",
+      "Richtig: Der Wirksamkeitszeitpunkt ist festzulegen.",
+      "Falsch: Speisevorlieben haben keine rechtliche Bedeutung.",
+      "Falsch: Busfarben gehören nicht zur Errichtung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Bildungsdirektion bereitet die Errichtung eines Clusters aus zwei Volksschulen und einer Mittelschule vor. Die Sachbearbeiterin erstellt eine Checkliste, was in der Errichtung unbedingt festzulegen ist.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Vor der Verordnung sind Erhalter, Foren oder Ausschüsse der betroffenen Schulen und die zuständigen Zentralausschüsse zu hören. Wer diese drei Gruppen vergisst, arbeitet mit einer lückenhaften Checkliste. Zum Nachlesen: TirSOG §69b Abs.2.",
+    "hauptquelle": "TirSOG §69b Abs.2",
+    "id": "C34-L2-002",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Schulerhalter der betroffenen Schulen",
+      "Die Schulforen oder Schulgemeinschaftsausschüsse der betroffenen Schulen",
+      "Die zuständigen Zentralausschüsse nach dem Personalvertretungsrecht",
+      "Die Nachbargemeinden ohne jede betroffene Schule",
+      "Ein zufällig gewählter Elternteil eines anderen Bezirks"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erhalter sind anzuhören.",
+      "Richtig: Foren oder Ausschüsse sind anzuhören.",
+      "Richtig: Zentralausschüsse sind anzuhören.",
+      "Falsch: Unbeteiligte Gemeinden gehören nicht dazu.",
+      "Falsch: Zufallspersonen ersetzen die Gremien nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor der geplanten Clusterverordnung will die Behörde niemanden vergessen und prüft ihre Anhörungsliste. Das Team streicht und ergänzt Namen für das vorgeschriebene Hearing.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Rahmen verlangt höchstens acht möglichst unterschiedliche Schulen mit 200 bis 2500 Kindern und die Einbeziehung von Sonderschulen nach Möglichkeit. Fixe Einheitsgrößen oder Ein-Schulart-Gebote stimmen nicht. Zum Nachlesen: TirSOG §69b Abs.3.",
+    "hauptquelle": "TirSOG §69b Abs.3",
+    "id": "C34-L2-003",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Höchstens acht Schulen möglichst unterschiedlicher Schularten",
+      "Insgesamt 200 bis 2500 Schülerinnen und Schüler",
+      "Sonderschulen sind nach Möglichkeit einzubeziehen",
+      "Jeder Cluster braucht genau acht gleiche Schulen",
+      "Cluster sind nur bis 50 Kinder zulässig"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Acht Schulen als Obergrenze mit Schulartenmix gilt.",
+      "Richtig: Der Korridor von 200 bis 2500 Kindern gilt.",
+      "Richtig: Sonderschulen einbeziehen dient der Inklusion.",
+      "Falsch: Genau acht gleiche Schulen sind nicht verlangt.",
+      "Falsch: Eine 50er-Obergrenze gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Ein Bezirk plant einen Verbund aus vier Pflichtschulen unterschiedlicher Art mit rund 800 Kindern plus Sonderschulklasse. Eine Arbeitsgruppe prüft, welche Größen- und Mixregeln dabei einzuhalten sind.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Zustimmung der Zentralausschüsse ist bei Clustern unter 200, über 1300 oder mit mehr als drei Schulen nötig. Wer diese Schwellen kennt, erkennt den zustimmungspflichtigen Sonderfall sofort. Zum Nachlesen: TirSOG §69b Abs.3.",
+    "hauptquelle": "TirSOG §69b Abs.3",
+    "id": "C34-L2-004",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Cluster mit weniger als 200 Schülerinnen und Schülern",
+      "Cluster mit mehr als 1300 Schülerinnen und Schülern",
+      "Cluster mit mehr als drei beteiligten Schulen",
+      "Jeder Cluster mit genau 500 Kindern automatisch",
+      "Cluster aus zwei Schulen mit 600 Kindern"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unter 200 braucht es die Zustimmung.",
+      "Richtig: Über 1300 braucht es die Zustimmung.",
+      "Richtig: Mehr als drei Schulen löst die Pflicht aus.",
+      "Falsch: Genau 500 Kinder sind kein Sonderfall.",
+      "Falsch: Zwei Schulen mit 600 Kindern bleiben Normalfall."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Geplant ist ein großer Verbund aus fünf Pflichtschulen mit etwa 1600 Kindern. Die Personalvertretung prüft, ob ihre Zustimmung für diesen Sonderfall erforderlich ist.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Anzustreben ist der Cluster bei höchstens fünf Kilometern Abstand, einer Schule unter 100 Kindern und merklichem Rückgang in drei Jahren. Bei Berufsschulen kommen zusätzliche Zustimmungen dazu. Zum Nachlesen: TirSOG §69b Abs.4.",
+    "hauptquelle": "TirSOG §69b Abs.4",
+    "id": "C34-L2-005",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Schulen liegen höchstens fünf Straßenkilometer auseinander",
+      "Zumindest eine Schule umfasst weniger als 100 Kinder",
+      "An einer Schule ist die Zahl in drei Jahren tendenziell merklich gesunken",
+      "Alle Schulen liegen mindestens 100 Kilometer auseinander",
+      "Alle Schulen sind in drei Jahren stark gewachsen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fünf Kilometer Nähe ist ein Kriterium.",
+      "Richtig: Unter 100 Kinder ist ein Kriterium.",
+      "Richtig: Merklicher Rückgang in drei Jahren ist ein Kriterium.",
+      "Falsch: Riesige Entfernungen sprechen gegen das Anstreben.",
+      "Falsch: Starkes Wachstum löst den Fall nicht aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zwei Dorfschulen liegen vier Kilometer auseinander, die kleinere hat 70 Kinder und schrumpft seit Jahren deutlich. Der Erhalter fragt, ob genau diese Lage als Musterfall für einen Cluster gilt.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Freiwillige Cluster brauchen die Zustimmung aller Konferenzen nach Beratung, aller Erhalter und einen überzeugenden Organisationsplan. Fehlt einer dieser Punkte, darf der Verbund nicht gebildet werden. Zum Nachlesen: TirSOG §69b Abs.5.",
+    "hauptquelle": "TirSOG §69b Abs.5",
+    "id": "C34-L2-006",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Alle Schulkonferenzen stimmen nach Beratung mit Foren oder Ausschüssen zu",
+      "Alle Schulerhalter stimmen der Bildung zu",
+      "Ein Organisationsplan macht den Cluster pädagogisch und organisatorisch zweckmäßig",
+      "Eine einzelne Lehrperson stimmt allein zu",
+      "Der Plan wird bewusst weggelassen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Konferenzen nach Beratung sind nötig.",
+      "Richtig: Alle Erhalter müssen zustimmen.",
+      "Richtig: Der überzeugende Organisationsplan ist Pflicht.",
+      "Falsch: Eine Einzelstimme ersetzt die Gremien nicht.",
+      "Falsch: Ohne Plan geht die freiwillige Bildung nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Drei engagierte Schulen wollen ohne äußeren Druck freiwillig einen Cluster gründen. Ihre Checkliste für das Verfahren soll alle nötigen Zustimmungen und Unterlagen enthalten.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Cluster-Leitung führt pädagogisch, rechtlich-organisatorisch, personell und wirtschaftlich und vertritt den Verbund nach außen. Wer nur Verwaltung oder nur Unterricht sieht, verkürzt die Aufgabe. Zum Nachlesen: LDG §26d Abs.4.",
+    "hauptquelle": "LDG §26d Abs.4",
+    "id": "C34-L2-007",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Leitung in pädagogischer Hinsicht",
+      "Leitung in rechtlich-organisatorisch-administrativer Hinsicht",
+      "Leitung in personeller und wirtschaftlicher Hinsicht",
+      "Vertretung der zusammengefassten Schulen nach außen",
+      "Ausschließlich Hausmeisterdienste ohne Leitungsaufgaben",
+      "Nur private Freizeitgestaltung des Kollegiums"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Pädagogische Leitung gehört dazu.",
+      "Richtig: Rechtlich-organisatorische Leitung gehört dazu.",
+      "Richtig: Personelle und wirtschaftliche Leitung gehören dazu.",
+      "Richtig: Vertretung des Verbunds nach außen gehört dazu.",
+      "Falsch: Reine Hausmeistertätigkeit trifft die Funktion nicht.",
+      "Falsch: Freizeitgestaltung ist keine Leitungsaufgabe."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die frisch bestellte Cluster-Leiterin erstellt ihr Aufgabenprofil für drei Standorte. Sie will nichts Wichtiges übersehen und sammelt die Kernbereiche ihrer Gesamtverantwortung.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Cluster-Leitung behält alle Schulleitungsaufgaben und darf einzelne davon an Bereichsleitungen übertragen. Bereichsleitungen handeln dabei immer nach ihren Vorgaben und dem Organisationsplan. Zum Nachlesen: TirSOG §69b Abs.8/SchUG §55d.",
+    "hauptquelle": "TirSOG §69b Abs.8",
+    "id": "C34-L2-008",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Alle Schulleitungsaufgaben liegen grundsätzlich bei der Cluster-Leitung",
+      "Einzelne Angelegenheiten können an Bereichsleitungen übertragen werden",
+      "Bereichsleitungen arbeiten nach Vorgaben der Cluster-Leitung und dem Organisationsplan",
+      "Bereichsleitungen sind der Cluster-Leitung übergeordnet und weisungsfrei",
+      "Die Cluster-Leitung darf niemals etwas übertragen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gesamtzuständigkeit bleibt bei der Leitung.",
+      "Richtig: Einzelübertragung ist ausdrücklich möglich.",
+      "Richtig: Vorgaben und Organisationsplan binden die Bereiche.",
+      "Falsch: Überordnung und Weisungsfreiheit stimmen nicht.",
+      "Falsch: Ein Übertragungsverbot gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einem neuen Cluster soll geklärt werden, wer die Vertretungseinteilung und kleinere Leitungsaufgaben am Teilstandort übernimmt. Leitung und Bereichsleitung streiten über ihre jeweiligen Zuständigkeiten.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "SchUG §55d"
+    ],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Zum Bereich gehören Krisen-Support am Standort, Mitarbeit im Qualitätsteam, Diensteinteilung bei Absenzen und Einführung neuer Lehrpersonen. Große Haushalts- oder Bestellentscheidungen des Clusters gehören nicht dazu. Zum Nachlesen: SchUG §55d.",
+    "hauptquelle": "SchUG §55d",
+    "id": "C34-L2-009",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Pädagogischer Support und Krisenmanagement am Standort",
+      "Mitarbeit im Qualitätsmanagement- und Qualitätssicherungsteam des Clusters",
+      "Diensteinteilung bei akuten Absenzen am Standort",
+      "Einführung neuer Lehrpersonen in die Arbeitsbereiche",
+      "Alleinige Beschlussfassung über den Landeshaushalt",
+      "Eigenmächtige Auflösung des Schulclusters"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Support und Krisenmanagement gehören dazu.",
+      "Richtig: Mitarbeit im Qualitätsteam gehört dazu.",
+      "Richtig: Diensteinteilung bei Absenzen gehört dazu.",
+      "Richtig: Einführung neuer Lehrpersonen gehört dazu.",
+      "Falsch: Haushaltsbeschlüsse liegen nicht beim Bereich.",
+      "Falsch: Auflösen kann der Bereich nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine neue Bereichsleiterin an einem Teilstandort fragt, welche Aufgaben sie nach dem Organisationsplan konkret übernehmen soll. Sie will ihren Alltag von den Aufgaben der Cluster-Leitung sauber abgrenzen.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Über 200 Kindern ist je Schule außer am Leitungssitz eine Bereichsleitung zu bestellen, darunter kann sie bestellt werden. Am Sitz der Cluster-Leitung gibt es keine eigene Bereichsleitung. Zum Nachlesen: LDG §26c Abs.9.",
+    "hauptquelle": "LDG §26c Abs.9",
+    "id": "C34-L2-010",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "An Schulen über 200 Kindern ist je eine Bereichsleitung zu bestellen",
+      "An Schulen bis 200 Kindern kann eine Bereichsleitung bestellt werden",
+      "An der Schule mit der Cluster-Leitung ist keine Bereichsleitung vorzusehen",
+      "An jeder Schule sind zwingend drei Bereichsleitungen zu bestellen",
+      "Bereichsleitungen sind grundsätzlich verboten"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Über 200 Kindern gilt die Bestellpflicht.",
+      "Richtig: Bis 200 Kindern besteht die Kann-Option.",
+      "Richtig: Am Leitungssitz entfällt die Bereichsleitung.",
+      "Falsch: Drei pro Schule sind nicht vorgeschrieben.",
+      "Falsch: Verboten sind Bereichsleitungen keineswegs."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Cluster umfasst eine große Mittelschule als Leitungssitz, eine Volksschule mit 300 Kindern und eine Kleinschule mit 90 Kindern. Die Leitung prüft, wo sie Bereichsleitungen einrichten muss oder kann.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Mit der Errichtung enden die alten Leitungsfunktionen und im ersten Jahr übernehmen die bisherigen Leitungen die Bereiche. So bleibt Erfahrung an den Standorten erhalten. Zum Nachlesen: LDG §26c Abs.12.",
+    "hauptquelle": "LDG §26c Abs.12",
+    "id": "C34-L2-011",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Mit der Errichtung endet die Funktion der bisherigen Schulleitungen",
+      "Alte Leitungsfunktionen werden nicht nachbesetzt",
+      "Im ersten Jahr werden die bisherigen Leitungen mit den Bereichsleitungen betraut",
+      "Alle bisherigen Leitungen behalten automatisch für immer beide Funktionen",
+      "Neue Bereichsleitungen werden im ersten Jahr strikt verboten"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Alte Leitungsfunktionen enden mit der Errichtung.",
+      "Richtig: Nachbesetzung findet nicht statt.",
+      "Richtig: Übergangslösung im ersten Jahr sichert Kontinuität.",
+      "Falsch: Dauerhafte Doppelfunktion ist nicht vorgesehen.",
+      "Falsch: Ein Verbot neuer Bereiche gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Huber leitete bisher eine kleine Volksschule, die nun Teil eines größeren Clusters wird. Er fragt, was mit seiner bisherigen Funktion passiert und welche Rolle er im ersten Jahr übernehmen kann.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Wochenstundenreste dürfen für Leitungsentlastung, ab Jahr zwei für Sekretariat und für pädagogische Projekte verwendet werden. Sekretariatsstunden sind je angefangener 200er-Gruppe anteilig zu binden. Zum Nachlesen: LDG §26c Abs.6 und Abs.8/TirSOG §69b Abs.7.",
+    "hauptquelle": "LDG §26c Abs.8",
+    "id": "C34-L2-012",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Minderung der Unterrichtsverpflichtung der Cluster-Leitung",
+      "Ab dem zweiten Jahr Bereitstellung von Sekretariatspersonal",
+      "Anrechnung für pädagogisch-didaktische Projekte und Schulentwicklung",
+      "Auszahlung als Barprämie an beliebige Privatpersonen",
+      "Ankauf privater Fahrzeuge für das Kollegium"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Leitungsentlastung ist eine zulässige Verwendung.",
+      "Richtig: Sekretariat ab Jahr zwei ist zulässig.",
+      "Richtig: Projektanrechnung für Unterricht und Entwicklung ist zulässig.",
+      "Falsch: Barprämien an Private sind nicht vorgesehen.",
+      "Falsch: Private Fahrzeuge gehören nicht dazu."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Stundenverteilung bleiben einem Cluster noch Reststunden übrig. Die Leitung prüft mit dem Verwaltungsteam, wofür sie diese Stunden nach dem Organisationsplan rechtmäßig einsetzen darf.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "TirSOG §69b Abs.7"
+    ],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Für die Cluster-Leitung kommen nur Bewerber mit Managementkurs oder Führungslehrgang in Betracht, bei Minderheitenschulen zusätzlich mit Sprachnachweis. Ohne diese Nachweise scheidet eine Bewerbung aus. Zum Nachlesen: LDG §26d Abs.2 und Abs.3.",
+    "hauptquelle": "LDG §26d Abs.2",
+    "id": "C34-L2-013",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Erfolgreiche Teilnahme am Schulmanagementkurs",
+      "Erfolgreicher Hochschullehrgang professionelles Führen von Schulen",
+      "Bei Minderheitenschulen Nachweis der Minderheitensprache ab Niveau B1",
+      "Allein die längste Dienstzeit ohne jede Ausbildung",
+      "Ausschließlich ein Losentscheid ohne Qualifikation"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Managementkurs ist eine Zugangsvoraussetzung.",
+      "Richtig: Der Führungslehrgang ist die Alternative dazu.",
+      "Richtig: Sprachnachweis gilt bei Minderheitenschulen zusätzlich.",
+      "Falsch: Dienstalter allein ersetzt die Ausbildung nicht.",
+      "Falsch: Losen ersetzt keine Qualifikation."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Auf die ausgeschriebene Cluster-Leitung bewerben sich mehrere erfahrene Lehrpersonen mit unterschiedlichen Ausbildungen. Die Kommission prüft, welche Qualifikationsnachweise für die Auswahl überhaupt in Betracht kommen.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "LDG §26d Abs.3"
+    ],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Gemischte Cluster brauchen die Zustimmung aller Erhalter, folgen dem Bundesrecht bei der Bildung und benötigen Leitung, Organisationsplan und geregelte Ressourcen. Einseitiges Vorgehen genügt nicht. Zum Nachlesen: TirSOG §69c/LDG §26f.",
+    "hauptquelle": "TirSOG §69c",
+    "id": "C34-L2-014",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Alle Schulerhalter der betroffenen Schulen stimmen zu",
+      "Für die Bildung gelten die schulorganisationsrechtlichen Bestimmungen des Bundes",
+      "Es gibt eine Cluster-Leitung und einen Organisationsplan",
+      "Eine einzelne Schule ordnet den gemischten Cluster allein an",
+      "Weder Leitung noch Plan noch Ressourcen sind nötig"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zustimmung aller Erhalter ist nötig.",
+      "Richtig: Bundesrecht gilt für die Bildung.",
+      "Richtig: Leitung und Plan bleiben Pflicht.",
+      "Falsch: Einseitiges Anordnen reicht nicht.",
+      "Falsch: Ohne Leitung und Ressourcen geht es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Eine Mittelschule und ein Gymnasium am selben Campus prüfen einen gemeinsamen Verbund über Landes- und Bundeszuständigkeit hinweg. Beide Erhalter wollen wissen, welche Bedingungen dafür erfüllt sein müssen.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "LDG §26f Abs.2"
+    ],
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Foren oder Ausschüsse können ihre Zuständigkeit auf den Clusterbeirat übertragen, und Versetzungen aus dem Cluster brauchen die Zustimmung der Lehrperson. Mitbestimmung und Schutz bleiben also im Verbund erhalten. Zum Nachlesen: TirSOG §69b Abs.9/LDG §26c Abs.10.",
+    "hauptquelle": "TirSOG §69b Abs.9",
+    "id": "C34-L2-015",
+    "level": "L2",
+    "modul_id": "C34",
+    "optionen": [
+      "Schulforum oder Ausschuss kann seine Zuständigkeit dem Clusterbeirat übertragen",
+      "Der Clusterbeirat tritt dann an die Stelle des jeweiligen Forums oder Ausschusses",
+      "Lehrpersonen mit schulfester Stelle brauchen für Verwendung außerhalb des Clusters ihre Zustimmung",
+      "Der Clusterbeirat wird ersatzlos abgeschafft",
+      "Lehrpersonen können jederzeit zwangsweise überallhin versetzt werden"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Übertragung auf den Beirat ist möglich.",
+      "Richtig: Der Beirat tritt dann an deren Stelle.",
+      "Richtig: Zustimmung schützt vor Außenverwendung.",
+      "Falsch: Abschaffung des Beirats ist nicht vorgesehen.",
+      "Falsch: Zwangsversetzung ohne Zustimmung gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern und Personal eines neuen Clusters fragen, was aus ihren Mitbestimmungsrechten wird und ob Lehrpersonen nun beliebig an andere Schulen versetzt werden dürfen. Die Leitung erstellt ein Merkblatt zu Beirat und Versetzungsschutz.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "LDG §26c Abs.10"
+    ],
+    "typ": "multiple"
+  }
+]

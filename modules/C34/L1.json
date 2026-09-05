@@ -1,1 +1,461 @@
-[]
+[
+  {
+    "aufloesung": "Der Cluster ist nur ein organisatorischer Verbund, jede Schule bleibt rechtlich eine eigene Schule. Dienststelle für das Personal ist aber der Cluster als Ganzes. Zum Nachlesen: TirSOG §69b Abs.1/LDG §26c Abs.1.",
+    "hauptquelle": "TirSOG §69b Abs.1",
+    "id": "C34-L1-001",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Ja, im Cluster verschmelzen die Schulen zu einer einzigen neuen Schule ohne eigene Identität.",
+      "Nein, die zusammengefassten Schulen bleiben Schulen im schulrechtlichen Sinn und arbeiten nur im Verbund zusammen.",
+      "Ja, die Schulen verlieren alle eigenen Gremien und Bezeichnungen sofort.",
+      "Nein, ein Cluster ist nur ein loser Gesprächskreis ohne jede Organisation."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Verschmelzung zu einer Schule findet nicht statt.",
+      "Richtig: Schulen bleiben bestehen und kooperieren im Verbund.",
+      "Falsch: Eigene Gremien und Namen bleiben grundsätzlich erhalten.",
+      "Falsch: Der Cluster ist ein geregelter organisatorischer Verbund."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Direktorin Berger hört, dass ihre Volksschule und die Nachbar-Mittelschule künftig als Schulcluster geführt werden sollen. Sie fragt, ob ihre Schule dann rechtlich überhaupt noch existiert.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "LDG §26c Abs.1"
+    ],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Pflichtschul-Cluster müssen diese Bezeichnung tragen, ergänzt um einen passenden Zusatz. So erkennen alle sofort, dass mehrere Schulen gemeinsam geführt werden. Zum Nachlesen: TirSOG §69b Abs.1.",
+    "hauptquelle": "TirSOG §69b Abs.1",
+    "id": "C34-L1-002",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Schulen dürfen jeden beliebigen Fantasienamen ohne Schulart wählen.",
+      "Der Verbund heißt Pflichtschul-Cluster, allenfalls mit einem Zusatz zu Region oder Ausrichtung.",
+      "Der Verbund behält einfach den Namen der größten Schule ohne Zusatz.",
+      "Ein besonderer Name ist verboten, alles läuft namenlos weiter."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beliebige Namen ohne Regeln sind nicht vorgesehen.",
+      "Richtig: Pflichtschul-Cluster mit möglichem Zusatz ist die Bezeichnung.",
+      "Falsch: Einfach den größten Namen übernehmen genügt nicht.",
+      "Falsch: Namenlos weiterarbeiten ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zwei kleine Pflichtschulen in einem Tal sollen künftig gemeinsam auftreten und brauchen ein Schild am Eingang. Das Team rätselt, wie sich so ein Verbund offiziell nennen darf.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Bildung eines Clusters erfolgt durch Verordnung der Bildungsdirektion. Niemand sonst kann den Verbund rechtswirksam gründen. Zum Nachlesen: TirSOG §69b Abs.2.",
+    "hauptquelle": "TirSOG §69b Abs.2",
+    "id": "C34-L1-003",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Die beiden Direktoren gründen den Cluster per Handschlag untereinander.",
+      "Die Bildungsdirektion bildet den Cluster durch eine Verordnung.",
+      "Die Gemeinde beschließt den Cluster allein per Gemeinderatsbeschluss.",
+      "Die Elternversammlung ruft den Cluster per Abstimmung aus."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Handschlag der Leitungen gründet keinen Cluster.",
+      "Richtig: Nur die Verordnung der Bildungsdirektion bildet den Cluster.",
+      "Falsch: Die Gemeinde allein kann das nicht beschließen.",
+      "Falsch: Elternabstimmung gründet keinen Cluster."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Bürgermeister und zwei Schulleitungen sind sich einig und wollen rasch einen Schulcluster starten. Sie fragen, wer den Verbund eigentlich rechtswirksam errichten muss.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Vor der Entscheidung muss die Bildungsdirektion Schulerhalter, Schulforen oder Schulgemeinschaftsausschüsse und die zuständigen Zentralausschüsse hören. Ohne diese Anhörung ist das Verfahren fehlerhaft. Zum Nachlesen: TirSOG §69b Abs.2.",
+    "hauptquelle": "TirSOG §69b Abs.2",
+    "id": "C34-L1-004",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Niemand muss gehört werden, die Behörde entscheidet allein im Stillen.",
+      "Zu hören sind die Schulerhalter, die Schulforen oder Schulgemeinschaftsausschüsse und die zuständigen Zentralausschüsse.",
+      "Es genügt ein kurzes Telefonat mit einer einzelnen Lehrperson.",
+      "Nur der Bürgermeister der größten Gemeinde wird informiert."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ganz ohne Anhörung geht es nicht.",
+      "Richtig: Erhalter, Foren oder Ausschüsse und Zentralausschüsse sind zu hören.",
+      "Falsch: Ein Einzelgespräch ersetzt die Anhörung nicht.",
+      "Falsch: Nur einen Bürgermeister informieren genügt nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die Bildungsdirektion plant einen Cluster aus drei Pflichtschulen im Bezirk. Eine Lehrerin fragt, ob Eltern, Erhalter und Personalvertretung vorher überhaupt etwas dazu sagen dürfen.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ein Cluster umfasst höchstens acht Schulen möglichst unterschiedlicher Schularten mit insgesamt 200 bis 2500 Kindern. Diese Grenzen sichern überschaubare und arbeitsfähige Verbünde. Zum Nachlesen: TirSOG §69b Abs.3.",
+    "hauptquelle": "TirSOG §69b Abs.3",
+    "id": "C34-L1-005",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Größe ist völlig egal, auch zwanzig Schulen mit 5000 Kindern gehen immer.",
+      "Ein Cluster umfasst höchstens acht Schulen mit 200 bis 2500 Schülerinnen und Schülern.",
+      "Jeder Cluster braucht genau zehn Schulen mit exakt 1000 Kindern.",
+      "Mehr als zwei Schulen dürfen niemals verbunden werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beliebig groß darf ein Cluster nicht werden.",
+      "Richtig: Höchstens acht Schulen und 200 bis 2500 Kinder sind der Rahmen.",
+      "Falsch: Fixe Zehnerzahl mit Tausend Kindern gibt es nicht.",
+      "Falsch: Zwei Schulen als Obergrenze stimmen nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "In einer Region sollen fünf Pflichtschulen mit zusammen rund 900 Kindern zu einem Verbund zusammengefasst werden. Ein Schulerhalter zweifelt, ob so viele Schulen gemeinsam überhaupt zulässig sind.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei schwieriger geografischer Lage darf ein Cluster auch unter 200 Kindern gebildet werden. Voraussetzung bleibt, dass Ausstattung und sinnvoller Personaleinsatz gesichert sind. Zum Nachlesen: TirSOG §69b Abs.3.",
+    "hauptquelle": "TirSOG §69b Abs.3",
+    "id": "C34-L1-006",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Unter 200 Kindern ist ein Cluster ausnahmslos verboten.",
+      "Bei schwieriger geografischer Lage geht ein Cluster auch unter 200 Kindern, wenn Ausstattung und Personaleinsatz gesichert sind.",
+      "Unter 200 Kindern entscheidet allein das Wetter über den Cluster.",
+      "Kleine Standorte müssen immer geschlossen statt geclustert werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein striktes Verbot für kleine Verbünde gibt es nicht.",
+      "Richtig: Geografische Lage plus gesicherte Ausstattung erlaubt die Ausnahme.",
+      "Falsch: Wetter spielt rechtlich keine Rolle.",
+      "Falsch: Schließung ist nicht die vorgeschriebene Folge."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Drei Bergschulen kommen gemeinsam nur auf 160 Kinder, ein größerer Verbund ist wegen der Täler nicht sinnvoll möglich. Die Gemeinden fragen, ob ein Cluster trotzdem in Betracht kommt.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Sonderschulen sind nach Möglichkeit in den Cluster einzubeziehen. Damit wird der Inklusionsgedanke im Verbund gestärkt. Zum Nachlesen: TirSOG §69b Abs.3.",
+    "hauptquelle": "TirSOG §69b Abs.3",
+    "id": "C34-L1-007",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Sonderschulen dürfen niemals in einem Cluster mitmachen.",
+      "Sonderschulen sind zum Zweck der Inklusion nach Möglichkeit einzubeziehen.",
+      "Sonderschulen werden automatisch zu Berufsschulen umgewandelt.",
+      "Nur Sonderschulen dürfen Cluster bilden, alle anderen nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Verbot für Sonderschulen besteht nicht.",
+      "Richtig: Einbeziehung nach Möglichkeit stärkt die Inklusion.",
+      "Falsch: Umwandlung in Berufsschulen findet nicht statt.",
+      "Falsch: Cluster nur aus Sonderschulen sind nicht verlangt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Bei der Clusterplanung im Bezirk liegt eine Sonderschule mitten zwischen zwei Volksschulen. Eltern fragen, ob diese Schule überhaupt Teil des gemeinsamen Verbunds werden kann.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei sehr kleinen, sehr großen oder aus mehr als drei Schulen bestehenden Clustern müssen die zuständigen Zentralausschüsse zustimmen. Diese Sonderfälle brauchen also eine zusätzliche Absicherung. Zum Nachlesen: TirSOG §69b Abs.3.",
+    "hauptquelle": "TirSOG §69b Abs.3",
+    "id": "C34-L1-008",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Personalvertretung wird bei der Clusterbildung nie beteiligt.",
+      "Für Cluster unter 200, über 1300 oder mit mehr als drei Schulen braucht es die Zustimmung der zuständigen Zentralausschüsse.",
+      "Der Hausmeister allein genehmigt jeden Cluster.",
+      "Nur die Schülerinnen und Schüler stimmen schriftlich über jeden Cluster ab."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ganz ohne Personalvertretung läuft das Verfahren nicht.",
+      "Richtig: Kleine, große und schulreiche Verbünde brauchen deren Zustimmung.",
+      "Falsch: Der Hausmeister entscheidet das nicht allein.",
+      "Falsch: Eine Schülerabstimmung ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Geplant ist ein Verbund aus fünf Pflichtschulen mit rund 1500 Kindern. Ein Personalvertreter behauptet, seine Ebene müsse bei so einem großen Verbund zustimmen, die Behörde sieht das locker.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Liegen Nähe, Kleinheit und merklicher Schülerrückgang gemeinsam vor, ist die Clusterbildung jedenfalls anzustreben. Bei Berufsschulen kommen noch eigene Zustimmungen dazu. Zum Nachlesen: TirSOG §69b Abs.4.",
+    "hauptquelle": "TirSOG §69b Abs.4",
+    "id": "C34-L1-009",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Entfernung und Schülerzahlen spielen für Cluster überhaupt keine Rolle.",
+      "Die Bildung ist jedenfalls anzustreben, wenn nahe Schulen vorliegen, eine unter 100 Kindern hat und eine in drei Jahren merklich geschrumpft ist.",
+      "Jede Schule mit mehr als 500 Kindern muss zwingend geclustert werden.",
+      "Nur Schulen direkt am See dürfen Cluster bilden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Entfernung und Zahlen sind gerade wichtig.",
+      "Richtig: Nähe plus Kleinstschule plus Schrumpfung löst das Anstreben aus.",
+      "Falsch: Große Schulen trifft keine Clusterpflicht.",
+      "Falsch: Die Lage am See ist kein Kriterium."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zwei Nachbarschulen liegen drei Kilometer auseinander, eine hat nur 80 Kinder und verliert seit Jahren deutlich an Anmeldungen. Der Erhalter fragt, ob hier ein Cluster besonders gewünscht ist.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Freiwillige Cluster brauchen die Zustimmung aller Schulkonferenzen nach Beratung mit Foren oder Ausschüssen, aller Schulerhalter und einen überzeugenden Organisationsplan. Erst dann darf der Verbund gebildet werden. Zum Nachlesen: TirSOG §69b Abs.5.",
+    "hauptquelle": "TirSOG §69b Abs.5",
+    "id": "C34-L1-010",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Eine einzige Schule kann den Cluster für alle anderen anordnen.",
+      "Alle Schulkonferenzen nach Beratung, alle Schulerhalter und ein zweckmäßiger Organisationsplan müssen zusammenkommen.",
+      "Es genügt, wenn eine Lehrperson laut dafür ist.",
+      "Der Zufall entscheidet per Los über jeden freiwilligen Cluster."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einseitiges Anordnen reicht nicht.",
+      "Richtig: Dreifache Zustimmung plus guter Organisationsplan ist nötig.",
+      "Falsch: Eine Einzelstimme gründet keinen Verbund.",
+      "Falsch: Losen ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Drei Schulteams möchten freiwillig einen Cluster gründen, obwohl kein akuter Schrumpfungsdruck besteht. Sie fragen, welche Zustimmungen und Unterlagen sie dafür wirklich brauchen.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Bildungsdirektion bestellt für jeden Cluster eine Leitung und stellt ihr die nötigen Verwaltungs- und Managementressourcen bereit. Ohne Leitung und Ressourcen startet kein Verbund. Zum Nachlesen: TirSOG §69b Abs.6.",
+    "hauptquelle": "TirSOG §69b Abs.6",
+    "id": "C34-L1-011",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Ein Cluster kommt ganz ohne Leitung aus.",
+      "Die Bildungsdirektion bestellt eine Cluster-Leitung und gibt ihr die nötigen Personalressourcen für Verwaltung und Management.",
+      "Die Leitung wird unter den Kindern ausgelost.",
+      "Jede Schule behält einfach ihre alte Leitung unverändert nebeneinander weiter."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Leitungslos läuft kein Cluster.",
+      "Richtig: Bestellung plus Ressourcen durch die Bildungsdirektion ist vorgesehen.",
+      "Falsch: Auslosen unter Kindern findet nicht statt.",
+      "Falsch: Alte Leitungen nebeneinander weiterführen widerspricht dem Modell."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Hofer soll Leiterin eines neuen Clusters aus zwei Volksschulen und einer Mittelschule werden. Sie fragt, wer sie bestellt und womit sie eigentlich arbeiten soll.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "LDG §26d Abs.1"
+    ],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Cluster-Leitung legt in einem Organisationsplan den Ressourceneinsatz fest und bestellt die nötigen Bereichsleitungen. Übrige Lehrstunden fließen in Unterrichts- und Schulentwicklungsprojekte. Zum Nachlesen: TirSOG §69b Abs.7/LDG §26c Abs.7.",
+    "hauptquelle": "TirSOG §69b Abs.7",
+    "id": "C34-L1-012",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Leitung verteilt alles nach Lust und Laune ohne jeden Plan.",
+      "Die Leitung legt einen Organisationsplan fest und bestellt die erforderlichen Bereichsleitungen.",
+      "Bereichsleitungen wählen sich selbst ohne jede Bestellung.",
+      "Der Organisationsplan ist verboten und darf nie geschrieben werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Willkür ohne Plan ist nicht erlaubt.",
+      "Richtig: Organisationsplan plus Bestellung der Bereichsleitungen ist Aufgabe der Leitung.",
+      "Falsch: Selbstwahl ohne Bestellung gibt es nicht.",
+      "Falsch: Verboten ist der Plan ganz sicher nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die neue Cluster-Leiterin überlegt, wie sie Sekretariatsstunden und Anrechnungsstunden auf die drei Standorte verteilen soll. Eine Kollegin meint, dafür brauche es ein geordnetes Konzept mit klaren Ansprechpersonen.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "LDG §26c Abs.7"
+    ],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Cluster-Leitung besorgt alle Angelegenheiten, die sonst der Schulleitung zustehen, und darf einzelne davon an Bereichsleitungen übertragen. Die Gesamtverantwortung bleibt aber bei ihr. Zum Nachlesen: TirSOG §69b Abs.8.",
+    "hauptquelle": "TirSOG §69b Abs.8",
+    "id": "C34-L1-013",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Die Bereichsleitung übernimmt automatisch alles und die Cluster-Leitung hat nichts mehr zu sagen.",
+      "Die Cluster-Leitung besorgt alle Schulleitungsaufgaben und kann einzelne davon an Bereichsleitungen übertragen.",
+      "Niemand darf irgendetwas an eine Bereichsleitung weitergeben.",
+      "Die Bereichsleitung steht über der Cluster-Leitung und erteilt ihr Weisungen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Automatische Totalübertragung gibt es nicht.",
+      "Richtig: Gesamtzuständigkeit plus mögliche Einzelübertragung trifft zu.",
+      "Falsch: Übertragung ist ausdrücklich möglich.",
+      "Falsch: Umgekehrte Hierarchie besteht nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einem Clusterstandort soll die Bereichsleiterin die Vertretungseinteilung bei plötzlichen Ausfällen übernehmen. Das Team fragt, ob die Cluster-Leiterin solche Aufgaben überhaupt abgeben darf.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "SchUG §55d"
+    ],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Übrige Lehrstunden sind für pädagogische und fachdidaktische Projekte der Unterrichtsorganisation und Schulentwicklung zu verwenden. Sie versickern nicht beliebig im Alltag. Zum Nachlesen: TirSOG §69b Abs.7/LDG §26c Abs.8.",
+    "hauptquelle": "TirSOG §69b Abs.7",
+    "id": "C34-L1-014",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Übrige Stunden verfallen ersatzlos und dürfen nie genutzt werden.",
+      "Übrige Stunden sind für pädagogische und fachdidaktische Projekte der Unterrichtsorganisation und Schulentwicklung zu verwenden.",
+      "Übrige Stunden bekommt automatisch die größte Schule als Freizeitbonus.",
+      "Übrige Stunden werden an Fremdfirmen verkauft."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Verfallen lassen ist nicht vorgesehen.",
+      "Richtig: Projektbindung für Unterricht und Schulentwicklung gilt.",
+      "Falsch: Freizeitbonus für die größte Schule gibt es nicht.",
+      "Falsch: Verkauf an Firmen findet nicht statt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach Abzug von Leitung und Sekretariat bleiben in einem Cluster noch einige Lehrstunden übrig. Das Team diskutiert, ob man damit ein gemeinsames Leseförderprojekt über alle Standorte aufbauen darf.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "LDG §26c Abs.8"
+    ],
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Gemischte Cluster aus Pflicht- und Bundesschulen brauchen die Zustimmung aller Schulerhalter und folgen bei der Bildung dem Bundesrecht. Leitung und Organisationsplan sind auch hier Pflicht. Zum Nachlesen: TirSOG §69c/LDG §26f.",
+    "hauptquelle": "TirSOG §69c",
+    "id": "C34-L1-015",
+    "level": "L1",
+    "modul_id": "C34",
+    "optionen": [
+      "Pflicht- und Bundesschulen dürfen niemals gemeinsam geclustert werden.",
+      "Pflicht- und Bundesschulen können mit Zustimmung aller Erhalter nach Bundesrecht gemeinsam geclustert werden.",
+      "Eine Bundesschule schluckt dabei automatisch alle Pflichtschulen auf.",
+      "Gemischte Cluster brauchen weder Leitung noch Organisationsplan."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein generelles Verbot für gemischte Verbünde gibt es nicht.",
+      "Richtig: Zustimmung aller Erhalter plus Bundesrecht plus Leitung und Plan trifft zu.",
+      "Falsch: Automatisches Aufsaugen findet nicht statt.",
+      "Falsch: Leitung und Plan bleiben auch hier Pflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Eine Mittelschule und ein benachbartes Gymnasium wollen enger zusammenarbeiten und überlegen einen gemeinsamen Verbund. Die Erhalter fragen, ob Pflicht- und Bundesschulen überhaupt gemeinsam in einen Cluster dürfen.",
+    "stand": "04.09.2026",
+    "zusatzquellen": [
+      "LDG §26f Abs.1"
+    ],
+    "typ": "single"
+  }
+]
