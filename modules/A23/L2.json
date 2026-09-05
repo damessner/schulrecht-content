@@ -1,1 +1,485 @@
-[]
+[
+  {
+    "aufloesung": "Der Aufsichtsplan ist verbindlich einzuhalten und Abweichungen sind abzusprechen. Nur so bleiben alle Bereiche abgedeckt und Lücken werden sichtbar. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "A23-L2-001",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Die eingeteilte Aufsicht wird pünktlich und vollständig wahrgenommen.",
+      "Abweichungen vom Aufsichtsplan werden vorher mit der Leitung oder Vertretung abgesprochen.",
+      "Jede Lehrperson sucht sich spontan aus, wo sie gerade Aufsicht führt.",
+      "Unbeliebte Aufsichtsbereiche lässt man regelmäßig einfach aus.",
+      "Nach der Einteilung schaut niemand mehr auf den Plan."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Pünktlichkeit und Vollständigkeit sichern die Abdeckung.",
+      "Richtig: Abgesprochene Änderungen halten den Plan verlässlich.",
+      "Falsch: Beliebige Auswahl erzeugt Lücken an ungeliebten Stellen.",
+      "Falsch: Auslassen gefährdet genau die neuralgischen Bereiche.",
+      "Falsch: Ohne Blick auf den Plan zerfällt die Einteilung."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Mittelschule häufen sich Rangeleien, weil Aufsichtsbereiche oft unbesetzt sind. Die Direktion prüft, wie der Aufsichtsplan künftig verlässlich eingehalten werden kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Bei Verhinderung ist rechtzeitig für Vertretung zu sorgen und die Übergabe zu sichern. Die Aufsicht darf nie einfach ausfallen. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "A23-L2-002",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Die Verhinderung wird rechtzeitig gemeldet, damit Ersatz eingeteilt werden kann.",
+      "Die Aufsicht wird persönlich übergeben, notfalls über die Leitung organisiert.",
+      "Bei Krankheit fällt die Aufsicht stillschweigend aus, das merkt schon niemand.",
+      "Die Vertretung erfährt erst hinterher zufällig von ihrem Einsatz.",
+      "Man verlässt sich darauf, dass schon irgendein Kollege einspringt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rechtzeitige Meldung ermöglicht geordneten Ersatz.",
+      "Richtig: Persönliche Übergabe oder Organisation über die Leitung sichert die Lücke.",
+      "Falsch: Stillschweigender Ausfall hinterlässt unbesetzte Bereiche.",
+      "Falsch: Zufällige Information ist keine verlässliche Einteilung.",
+      "Falsch: Hoffen ersetzt keine gesicherte Vertretung."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Sommer erkrankt morgens und meldet sich nicht ab, seine Pausenaufsicht am Stiegenhaus bleibt unbesetzt. Dort kommt es zu einem gefährlichen Gedränge.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Kritische Stellen wie Stiegen, Gänge und Ausgänge brauchen gezielte Aufsicht und klare Regeln. Dort entstehen durch Gedränge die häufigsten Unfälle. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-003",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "An Stiegen und Engstellen wird gezielt Aufsicht positioniert.",
+      "Klare Regeln wie Rechtsgehen und kein Rennen werden eingefordert.",
+      "Gedränge an der engen Stiege beobachtet man passiv vom Gangende aus.",
+      "Rennen und Schubsen auf der Stiege lässt man als Spiel durchgehen.",
+      "Ausgänge bleiben beim Pausenansturm unbeaufsichtigt und verstopft."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gezielte Positionierung deckt die gefährlichsten Stellen ab.",
+      "Richtig: Klare eingeforderte Regeln verhindern Gedrängeunfälle.",
+      "Falsch: Passive Distanzbeobachtung greift im Ernstfall zu spät.",
+      "Falsch: Schubsen auf Stiegen ist lebensgefährlich, kein Spiel.",
+      "Falsch: Unbeaufsichtigte verstopfte Ausgänge sind ein Unfallrisiko."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "In der großen Pause drängen über zweihundert Kinder gleichzeitig über ein enges Stiegenhaus. Es kommt regelmäßig zu Stürzen und Prellungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Baustellen und Gefahrenstellen sind abzusperren und die Schüler klar zu unterweisen. Neugier zieht Kinder gerade an abgesperrte Bereiche. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-004",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Der Baustellenbereich wird abgesperrt und die Absperrung kontrolliert.",
+      "Die Schüler werden klar unterwiesen, den Bereich zu meiden.",
+      "Die Aufsicht postiert sich mit Blick auf die Gefahrenstelle.",
+      "Absperrbänder nimmt man weg, damit die Kinder abkürzen können.",
+      "Gerüste sind ein willkommener Kletterpark für Mutproben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Absperrung plus Kontrolle hält Kinder vom Gefahrenbereich fern.",
+      "Richtig: Klare Unterweisung schafft verständliche Verbote.",
+      "Richtig: Positionierung mit Blick auf die Stelle sichert die Einhaltung.",
+      "Falsch: Absperrungen zu entfernen lädt zum Betreten der Baustelle ein.",
+      "Falsch: Gerüste als Kletterpark zu dulden ist grob pflichtwidrig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am Schulhof steht wegen Sanierungsarbeiten ein eingerüsteter Trakt mit offenem Materiallager. Kinder klettern in den Pausen neugierig über die Absperrung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Sportgeräte sind vor Gebrauch zu prüfen und Mängel sofort zu melden und zu sperren. Defekte Geräte dürfen nicht weiter benutzt werden. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-005",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Geräte werden vor dem Einsatz auf Schäden und Standfestigkeit geprüft.",
+      "Defekte Geräte werden gesperrt und der Mangel wird gemeldet.",
+      "Die Schüler werden in sichere Handhabung und Mattenlage eingewiesen.",
+      "Wackelige Kästen benutzt man weiter, bis wirklich etwas passiert.",
+      "Gerissene Seile ignoriert man, solange sie noch irgendwie halten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Prüfung vor Gebrauch erkennt Schäden rechtzeitig.",
+      "Richtig: Sperren und Melden verhindert Weiterbenutzung defekter Geräte.",
+      "Richtig: Einweisung plus Mattenlage mindert das Verletzungsrisiko.",
+      "Falsch: Weiterbenutzung wackeliger Geräte nimmt Unfälle in Kauf.",
+      "Falsch: Gerissene Seile können reißen und müssen sofort ausscheiden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Turnsaal wackelt ein Kasten bedenklich und ein Kletterseil ist angerissen. Der Lehrer will die Geräte trotzdem wie gewohnt im Stationsbetrieb einsetzen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Veranstaltungen brauchen Vorbereitung mit Route, Regeln und Notfallplan. Wer vorher klärt, verhindert Chaos unterwegs. Zum Nachlesen: SchUG §43 Abs.1.",
+    "hauptquelle": "SchUG §43 Abs.1",
+    "id": "A23-L2-006",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Route, Treffpunkte und Zählpunkte werden vorher festgelegt.",
+      "Verhaltensregeln und Notfallnummern werden mit den Schülern besprochen.",
+      "Erste-Hilfe-Ausrüstung und Handy für Notrufe werden mitgenommen.",
+      "Man bricht einfach auf und sieht unterwegs, was passiert.",
+      "Zählen unterwegs ist übertrieben und entfällt komplett."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Festgelegte Route und Zählpunkte halten die Gruppe zusammen.",
+      "Richtig: Besprochene Regeln und Nummern geben Orientierung im Ernstfall.",
+      "Richtig: Ausrüstung und erreichbares Telefon sichern schnelle Hilfe.",
+      "Falsch: Ohne Planung drohen Verlorengehen und Chaos.",
+      "Falsch: Regelmäßiges Zählen bemerkt Fehlen sofort."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Klasse plant einen Lehrausgang in ein unübersichtliches Waldgelände. Beim letzten Ausflug hatten sich zwei Kinder unbemerkt von der Gruppe entfernt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Beim Bustransport braucht es Ordnung mit Zählen, Anschnallen und klarer Sitzordnung. Ein- und Ausstieg sind die gefährlichsten Momente. Zum Nachlesen: SchUG §43 Abs.1.",
+    "hauptquelle": "SchUG §43 Abs.1",
+    "id": "A23-L2-007",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Vor Abfahrt und nach Ankunft wird die Gruppe gezählt.",
+      "Anschnallpflicht und Sitzenbleiben werden durchgesetzt.",
+      "Aus- und Einstieg erfolgen geordnet unter Aufsicht an sicherer Stelle.",
+      "Kinder springen schon während der Anfahrt aus dem haltenden Bus.",
+      "Gezählt wird nie, es findet sich schon jeder irgendwie ein."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zählen sichert Vollständigkeit bei jedem Wechsel.",
+      "Richtig: Anschnallen und Sitzenbleiben schützen während der Fahrt.",
+      "Richtig: Geordneter Ein- und Ausstieg an sicherer Stelle mindert Gefahr.",
+      "Falsch: Herausspringen aus dem Bus ist lebensgefährlich.",
+      "Falsch: Ohne Zählen bleibt Fehlen unbemerkt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Bei einem Ausflug mit dem Reisebus herrscht Chaos: Kinder rennen beim Halt auf die Straße, niemand weiß, ob alle eingestiegen sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Am Wasser gelten klare Grenzen, ständige Beobachtung und Nichtschwimmer-Schutz. Keine Methode ersetzt die ungeteilte Aufmerksamkeit. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-008",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Der erlaubte Bereich wird klar abgegrenzt und erklärt.",
+      "Die Wasserfläche wird ständig im Blick behalten, kein Handy nebenbei.",
+      "Nichtschwimmer bleiben im Flachbereich und werden besonders beaufsichtigt.",
+      "Wetttauchen in unbekannte Gewässer fördert den Mut der Kinder.",
+      "Eine Lehrperson reicht für vierzig Kinder am See völlig aus."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgegrenzte Bereiche geben klare Grenzen vor.",
+      "Richtig: Ungeteilte Aufmerksamkeit erkennt Notlagen sofort.",
+      "Richtig: Flachbereich plus besondere Beachtung schützt Nichtschwimmer.",
+      "Falsch: Wetttauchen in unbekannte Gewässer ist lebensgefährlich.",
+      "Falsch: Eine Person kann vierzig Kinder am Wasser nicht sichern."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einem Badeausflug an einen See verteilen sich dreißig Schüler weit über Ufer und Steg. Eine Lehrperson telefoniert am Ufer, Nichtschwimmer treiben auf Luftmatratzen hinaus.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Unfallablauf heißt sichern, versorgen, melden und dokumentieren. Jede Stufe baut auf der vorherigen auf. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-009",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Die Unfallstelle wird gesichert und das verletzte Kind betreut.",
+      "Erste Hilfe wird geleistet und nötigenfalls der Notruf abgesetzt.",
+      "Leitung und Eltern werden informiert, der Hergang wird festgehalten.",
+      "Man wartet ab, ob sich das Kind von selbst erholt.",
+      "Die Klasse filmt den Vorfall für die Klassengruppe."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sichern und Betreuen stehen am Anfang jeder Hilfe.",
+      "Richtig: Erste Hilfe plus Notruf bei Bedarf sichert Versorgung.",
+      "Richtig: Information und Festhaltung schließen den Ablauf ab.",
+      "Falsch: Abwarten verzögert Hilfe und gefährdet das Kind.",
+      "Falsch: Filmen hilft nicht und verletzt die Würde des Kindes."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schüler Paul bleibt nach einem Sturz vom Reck bewusstlos am Boden liegen, die Mitschüler stehen ratlos herum. Der Lehrer muss jetzt die richtigen Schritte setzen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Notfallausrüstung muss bekannt, erreichbar und einsatzbereit sein. Im Ernstfall zählt jede Minute. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-010",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Der Standort des Verbandkastens und des Defibrillators ist bekannt.",
+      "Notrufnummern und der genaue Schulstandort liegen griffbereit.",
+      "Der Verbandkasten wird regelmäßig auf Vollständigkeit geprüft.",
+      "Niemand weiß, wo der Verbandkasten ist, man sucht erst im Ernstfall.",
+      "Notrufe unterlässt man, um keine Umstände zu machen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bekannte Standorte sparen im Notfall entscheidende Minuten.",
+      "Richtig: Nummer plus genaue Adresse ermöglichen rasche Alarmierung.",
+      "Richtig: Regelmäßige Prüfung hält das Material einsatzbereit.",
+      "Falsch: Erst im Ernstfall zu suchen verzögert die Hilfe.",
+      "Falsch: Nötige Notrufe zu unterlassen gefährdet das Kind."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer tiefen Schnittwunde in der Werksstunde sucht der Lehrer minutenlang vergeblich nach Verbandszeug, die Notrufnummer muss erst gegoogelt werden.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Unfallbericht hält Zeit, Ort, Hergang, Beteiligte und Maßnahmen sachlich fest. Sachlichkeit und Vollständigkeit sichern Erinnerung und Abwicklung. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-011",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Zeit, Ort und genaue Unfallstelle werden festgehalten.",
+      "Hergang und beteiligte Personen werden sachlich beschrieben.",
+      "Verletzung, Erstmaßnahmen und Verständigungen werden vermerkt.",
+      "Schuldzuweisungen und Vermutungen schmücken den Bericht aus.",
+      "Der Bericht wird erst Monate später aus dem Gedächtnis ergänzt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeit und Ort verankern den Vorfall nachvollziehbar.",
+      "Richtig: Sachliche Hergangsbeschreibung statt Wertung ist gefordert.",
+      "Richtig: Maßnahmen und Verständigungen belegen die Fürsorge.",
+      "Falsch: Schuldzuweisungen haben im sachlichen Bericht nichts verloren.",
+      "Falsch: Späte Ergänzung verfälscht die Erinnerung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Pausenunfall mit Armbruch verlangt die Versicherung eine genaue Schilderung. Der Lehrer hatte nur mündlich erzählt und nichts aufgeschrieben.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Zeugen und Spuren sind rasch und sachlich zu sichern. Später lässt sich nichts mehr rekonstruieren. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-012",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Namen anwesender Zeugen werden zeitnah notiert.",
+      "Die Unfallstelle wird bei Bedarf fotografiert und unverändert belassen.",
+      "Eigene Beobachtungen werden von Hörensagen getrennt festgehalten.",
+      "Zeugen werden gemeinsam auf eine einheitliche Version eingeschworen.",
+      "Spuren beseitigt man sofort, damit der Betrieb weiterläuft."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeitnahe Zeugennamen sichern spätere Aufklärung.",
+      "Richtig: Fotos und unveränderte Stelle erhalten Beweise.",
+      "Richtig: Trennung von Beobachtung und Hörensagen bleibt sachlich.",
+      "Falsch: Absprechen verfälscht Aussagen und ist unzulässig.",
+      "Falsch: Spuren zu beseitigen vernichtet wichtige Beweise."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Sturz im Stiegenhaus mit Kopfverletzung gibt es widersprüchliche Erzählungen. Niemand hat Zeugen notiert, die Stelle wurde sofort gewischt und freigegeben.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Eltern werden rasch, sachlich und ohne Schuldzuweisung informiert und das Gespräch wird vermerkt. Sachlichkeit schützt Kind und Schule. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-013",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Die Eltern werden rasch über Hergang und Zustand des Kindes informiert.",
+      "Die Information bleibt sachlich und ohne vorverurteilende Schuldzuweisung.",
+      "Gesprächszeitpunkt und Inhalt werden kurz für die Akte vermerkt.",
+      "Man wartet tagelang, bis Gras über die Sache gewachsen ist.",
+      "Den Eltern erzählt man eine beschönigte Version ohne Verletzung.",
+      "Die Information erfolgt nur über Mitschüler und Gerüchte."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rasche Information schafft Vertrauen und Handlungsfähigkeit.",
+      "Richtig: Sachlichkeit ohne Vorverurteilung schützt alle Beteiligten.",
+      "Richtig: Kurzer Aktenvermerk belegt die erfolgte Information.",
+      "Falsch: Tagelanges Warten verunsichert und verletzt die Fürsorge.",
+      "Falsch: Beschönigen zerstört Vertrauen und kann schaden.",
+      "Falsch: Gerüchte ersetzen keine direkte Elterninformation."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der neunjährige Felix zieht sich beim Fußball eine Platzwunde zu, die genäht werden muss. Die Mutter erfährt erst abends über andere Eltern davon und ist entsetzt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Schülerunfälle sind für die Versicherung zeitnah und vollständig zu melden. Nur gemeldete Unfälle können ordentlich abgewickelt werden. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L2-014",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Der Unfall wird zeitnah an die zuständige Versicherung gemeldet.",
+      "Unfallbericht und ärztliche Unterlagen werden vollständig beigelegt.",
+      "Die Leitung prüft und bestätigt die Meldung vor der Weiterleitung.",
+      "Versicherungsmeldungen unterlässt man grundsätzlich aus Bequemlichkeit.",
+      "Man meldet erst nach einem Jahr, wenn die Eltern drängen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeitnahe Meldung sichert Ansprüche und Fristen.",
+      "Richtig: Vollständige Unterlagen beschleunigen die Abwicklung.",
+      "Richtig: Prüfung und Bestätigung durch die Leitung sichern Qualität.",
+      "Falsch: Unterlassen aus Bequemlichkeit schadet dem verletzten Kind.",
+      "Falsch: Jahreslanges Zuwarten gefährdet Ansprüche und Erinnerung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Armbruch beim Schikurs entstehen hohe Behandlungskosten. Die Schule hatte den Unfall nie an die Versicherung gemeldet, Unterlagen fehlen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Gefahrensituationen werden gemeldet, abgesichert und nachverfolgt. Melden allein ohne Absicherung genügt nicht. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "A23-L2-015",
+    "level": "L2",
+    "modul_id": "A23",
+    "optionen": [
+      "Die Gefahrenstelle wird sofort der Leitung gemeldet.",
+      "Bis zur Behebung wird die Stelle abgesichert und beaufsichtigt.",
+      "Die Behebung wird nachverfolgt und das Ergebnis festgehalten.",
+      "Lose Bodenplatten meldet man nie, das regelt sich von selbst.",
+      "Man warnt niemanden, um keine Panik zu erzeugen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sofortige Meldung stößt die Behebung an.",
+      "Richtig: Absicherung bis zur Behebung schützt vor weiteren Unfällen.",
+      "Richtig: Nachverfolgung plus Vermerk schließt den Vorgang ab.",
+      "Falsch: Schweigen lässt die Stolperfalle für den nächsten Unfall liegen.",
+      "Falsch: Sachliche Warnung ist Fürsorge, keine Panikmache."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am Haupteingang haben sich Bodenplatten gelockert, zwei Schüler sind bereits gestolpert. Die Aufsicht kennt die Stelle, hat aber nichts unternommen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

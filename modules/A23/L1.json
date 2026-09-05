@@ -1,1 +1,429 @@
-[]
+[
+  {
+    "aufloesung": "Die Lehrerin muss die Klasse während der Unterrichtszeit beaufsichtigen und darf sie nicht allein lassen. Aufsicht gehört zu den lehramtlichen Pflichten und gilt für Unterricht, Pausen und Veranstaltungen. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "A23-L1-001",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Das ist in Ordnung, weil ältere Volksschulkinder sich selbst beaufsichtigen können.",
+      "Die Lehrerin verletzt ihre Aufsichtspflicht, die Klasse darf nicht unbeaufsichtigt bleiben.",
+      "Nur in der Pause braucht es Aufsicht, im Unterricht reicht ein Arbeitsauftrag.",
+      "Unbeaufsichtigt lassen ist zulässig, wenn die Klasse brav ist."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch ältere Volksschulkinder brauchen eine verantwortliche Aufsichtsperson.",
+      "Richtig: Aufsicht während der Unterrichtszeit ist lehramtliche Pflicht.",
+      "Falsch: Die Pflicht gilt für Unterricht und Pause gleichermaßen.",
+      "Falsch: Braves Verhalten hebt die Aufsichtspflicht nicht auf."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Lehrerin Huber lässt ihre zweite Volksschulklasse während der Unterrichtszeit allein im Klassenzimmer, um in Ruhe Kopien zu holen. In der Zeit klettert ein Schüler aufs Fensterbrett.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei Erstklässlern ist besonders enge und lückenlose Aufsicht erforderlich. Je jünger und unerfahrener die Kinder sind, desto intensiver muss die Beaufsichtigung ausfallen. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-002",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Erstklässler brauchen dieselbe lockere Aufsicht wie Maturanten.",
+      "Bei sechsjährigen Schulanfängern ist besonders enge und lückenlose Aufsicht nötig.",
+      "Anfängerklassen dürfen sich in den ersten Wochen selbst organisieren.",
+      "Aufsicht hängt nur von der Klassengröße ab, nicht vom Alter."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sechsjährige brauchen deutlich engere Aufsicht als ältere Schüler.",
+      "Richtig: Junges Alter und wenig Erfahrung verlangen intensive Beaufsichtigung.",
+      "Falsch: Gerade am Anfang braucht es klare Führung und ständige Präsenz.",
+      "Falsch: Alter und Reife bestimmen das nötige Aufsichtsmaß wesentlich mit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Lehrer Berger lässt seine erste Klasse in der ersten Schulwoche allein am Gang warten, während er das Konferenzzimmer aufsucht. Zwei Schulanfänger verlaufen sich im Schulhaus und weinen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Auch bei reiferen Schülern bleibt die Aufsichtspflicht bestehen, sie wird nur altersgerecht lockerer. Mehr Eigenverantwortung ersetzt die verantwortliche Aufsichtsperson nicht. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-003",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Bei Oberstufenschülern entfällt jede Aufsichtspflicht vollständig.",
+      "Reife Schüler dürfen alles allein entscheiden, Lehrer sind nur Gäste.",
+      "Auch bei reiferen Schülern bleibt die Aufsicht bestehen, nur altersgerecht gelockert.",
+      "Ab der neunten Schulstufe haftet die Schule für gar nichts mehr."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Pflicht entfällt nicht, sie wird nur altersgerecht angepasst.",
+      "Falsch: Eigenverantwortung ergänzt die Aufsicht, ersetzt sie aber nicht.",
+      "Richtig: Das Aufsichtsmaß richtet sich nach Alter und Reife, die Pflicht bleibt.",
+      "Falsch: Eine solche pauschale Haftungsfreigrenze gibt es nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Egger verlässt bei einem Oberstufenpraktikum das Laborgebäude vollständig, weil die siebzehnjährigen Schüler seiner Meinung nach ohnehin alles allein können. Ein Schüler verletzt sich an einem Gerät.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die eingeteilte Pausenaufsicht am Hof muss tatsächlich wahrgenommen werden. Pausen gehören zur Aufsichtszeit, gerade am Hof mit vielen Kindern und Bewegung. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "A23-L1-004",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Die Pausenaufsicht am Hof muss verlässlich wahrgenommen werden.",
+      "Pausenaufsichten sind freiwillig und können bei Müdigkeit entfallen.",
+      "Am Hof beaufsichtigen sich die Kinder gegenseitig, das genügt.",
+      "Nur bei Regen braucht es eine Aufsicht am Hof."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eingeteilte Pausenaufsichten sind verbindlicher Dienst.",
+      "Falsch: Müdigkeit entbindet nicht von der eingeteilten Aufsicht.",
+      "Falsch: Gegenseitige Beaufsichtigung ersetzt keine verantwortliche Person.",
+      "Falsch: Gerade bei vollem Hofbetrieb braucht es die Aufsicht immer."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Falk bleibt trotz eingeteilter Hofaufsicht im Konferenzzimmer beim Kaffee. Am unbeaufsichtigten Hof stürzt ein Mädchen bei einer wilden Verfolgungsjagd und bricht sich den Arm.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Auf dem Gang mit Gedränge muss die Aufsicht aktiv für Ordnung sorgen und einschreiten. Wegschauen bei Rangeleien verletzt die Aufsichtspflicht. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-005",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Wegschauen ist richtig, weil Raufereien zum Schulalltag gehören.",
+      "Die Aufsicht muss aktiv einschreiten und gefährliche Rangeleien unterbinden.",
+      "Eingreifen ist nur nötig, wenn bereits Blut fließt.",
+      "Gangaufsicht bedeutet nur Anwesenheit, Handeln ist freiwillig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bekannte Gefahren verlangen gerade aktives Handeln.",
+      "Richtig: Gefährliche Rangeleien sind zu unterbinden, notfalls Hilfe zu holen.",
+      "Falsch: Gewartet wird nicht bis zur Verletzung, vorher ist einzugreifen.",
+      "Falsch: Aufsicht heißt auch handeln, nicht nur dabeistehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "VS"
+    ],
+    "situation": "Lehrerin Gruber steht bei ihrer Gangaufsicht daneben und schaut aufs Handy, während zwei Buben direkt vor ihr ringen und einer die Treppe hinunterzustürzen droht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Klasse darf beim Stundenwechsel nicht sich selbst überlassen werden, die Aufsicht muss lückenlos übergeben werden. Aufsichtslücken zwischen zwei Stunden sind zu vermeiden. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "A23-L1-006",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Zwischen zwei Stunden braucht es keine Aufsicht, die Zeit gehört den Schülern.",
+      "Die Lehrerin darf einfach gehen, der Nächste kommt irgendwann.",
+      "Die Aufsicht muss lückenlos übergeben werden, die Klasse bleibt nicht allein.",
+      "Nur in der Volksschule braucht es eine Übergabe, sonst nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch kurze Zwischenzeiten brauchen eine geregelte Aufsicht.",
+      "Falsch: Einfach zu gehen hinterlässt eine pflichtwidrige Aufsichtslücke.",
+      "Richtig: Lückenlose Übergabe zwischen den Lehrpersonen ist erforderlich.",
+      "Falsch: Die Übergabepflicht gilt für alle Schularten."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Hofer verlässt nach dem Läuten sofort die dritte Klasse, die nächste Lehrerin kommt erst zehn Minuten später. In der Zwischenzeit werfen Schüler Stühle um.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Auf Schulveranstaltungen außerhalb der Schule gilt eine erhöhte Aufsichtspflicht. Fremde Umgebung, Verkehr und neue Gefahren verlangen besonders sorgfältige Beaufsichtigung. Zum Nachlesen: SchUG §43 Abs.1.",
+    "hauptquelle": "SchUG §43 Abs.1",
+    "id": "A23-L1-007",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Außerhalb der Schule entfällt die Aufsicht, das ist Privatsache.",
+      "Auf dem Wandertag gilt eine erhöhte Aufsichtspflicht wegen fremder Umgebung und Verkehr.",
+      "Bei Veranstaltungen beaufsichtigen die Eltern von zu Hause aus.",
+      "Wandertage sind Freizeit, Aufsicht wäre übertrieben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch außerhalb des Schulhauses bleibt die Schule verantwortlich.",
+      "Richtig: Fremde Umgebung und Verkehr verlangen besonders sorgfältige Aufsicht.",
+      "Falsch: Die Aufsicht liegt bei den begleitenden Lehrpersonen, nicht bei Eltern daheim.",
+      "Falsch: Gerade draußen braucht es wegen neuer Gefahren mehr Aufsicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Bei einem Wandertag mit einer dritten Volksschulklasse lässt der Begleitlehrer die Kinder an einer stark befahrenen Straße allein vorauslaufen, um hinten in Ruhe zu plaudern. Ein Kind läuft auf die Fahrbahn.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Beim Schwimmen ist wegen der Lebensgefahr besonders strenge und lückenlose Aufsicht nötig. Wassersituationen verlangen ständige Beobachtung und klare Regeln. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-008",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Im Schwimmbad reicht es, wenn der Bademeister irgendwo anwesend ist.",
+      "Schwimmen ist wie Pause, die Kinder schwimmen frei nach Lust.",
+      "Beim Schwimmen ist besonders strenge, lückenlose Aufsicht durch die Begleitpersonen nötig.",
+      "Nichtschwimmer brauchen keine besondere Beachtung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Bademeister ersetzt nicht die Aufsicht der Begleitpersonen.",
+      "Falsch: Wasser bedeutet Lebensgefahr, freies Treibenlassen ist pflichtwidrig.",
+      "Richtig: Ständige Beobachtung und klare Regeln sind wegen der Gefahr nötig.",
+      "Falsch: Gerade Nichtschwimmer brauchen besondere Beachtung und Abgrenzung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Berger sitzt beim Schwimmunterricht mit einer Anfängergruppe im Buffet und liest Zeitung, während ein Nichtschwimmer unbemerkt ins tiefe Becken watet.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Nach einem Sturz mit Kopfverletzung muss sofort Erste Hilfe geleistet und Hilfe geholt werden. Abwarten und Weiterunterrichten verletzt die Fürsorgepflicht gegenüber dem verletzten Schüler. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-009",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Weiterunterrichten ist richtig, Kopfverletzungen heilen von selbst.",
+      "Das Kind soll sich still in die Ecke setzen und abwarten.",
+      "Sofort Erste Hilfe leisten, das Kind beaufsichtigen und Hilfe holen ist Pflicht.",
+      "Erste Hilfe dürfen nur Ärzte leisten, Lehrer schauen zu."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kopfverletzungen können gefährlich sein, Abwarten ist pflichtwidrig.",
+      "Falsch: Alleinlassen ohne Versorgung gefährdet das verletzte Kind.",
+      "Richtig: Versorgen, beaufsichtigen und Hilfe holen ist die richtige Reihenfolge.",
+      "Falsch: Zumutbare Erste Hilfe durch Laien ist Pflicht, nicht Zuschauen."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schüler Jonas stürzt im Turnsaal schwer auf den Kopf und bleibt benommen liegen. Der Lehrer will erst die Stunde fertig halten und kümmert sich nicht um den Jungen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Jeder Schülerunfall muss unverzüglich der Leitung gemeldet werden. Die Meldung sichert Versorgung, Elterninformation und Dokumentation. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-010",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Unfälle meldet man nur, wenn die Eltern zufällig fragen.",
+      "Jeder Schülerunfall ist unverzüglich der Schulleitung zu melden.",
+      "Eine Meldung ist erst am Schuljahresende nötig.",
+      "Kleine Unfälle verschwinden am besten ohne jede Meldung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auf Zufall zu warten verzögert Versorgung und Information.",
+      "Richtig: Unverzügliche Meldung sichert Versorgung und weitere Schritte.",
+      "Falsch: Monate zu warten macht jede Aufklärung unmöglich.",
+      "Falsch: Auch kleine Unfälle gehören gemeldet und festgehalten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Zusammenstoß am Gang blutet Schülerin Lena stark aus der Nase und klagt über Schwindel. Der Aufsichtslehrer schickt sie allein zurück in die Klasse und meldet niemandem etwas.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Eltern des verletzten Kindes sind rasch über den Unfall zu informieren. Eltern müssen wissen, was passiert ist und wie es ihrem Kind geht. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-011",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Eltern erfahren Unfälle am besten über Gerüchte anderer Kinder.",
+      "Die Eltern des verletzten Kindes sind rasch und sachlich zu informieren.",
+      "Eltern anzurufen stört den Schulbetrieb und entfällt daher.",
+      "Informiert wird nur, wenn das Kind ausdrücklich zustimmt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerüchte verunsichern, die Schule muss selbst sachlich informieren.",
+      "Richtig: Rasche sachliche Information der Eltern ist erforderlich.",
+      "Falsch: Die Information der Eltern geht dem ungestörten Betrieb vor.",
+      "Falsch: Bei verletzten Minderjährigen werden die Eltern informiert."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der achtjährige Tobias bricht sich am Klettergerüst den Unterarm. Die Schule versorgt ihn notdürftig, informiert aber niemanden, sodass die Mutter erst bei Schulschluss vom weinenden Kind erfährt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ein plötzlich erkranktes Kind darf nicht allein nach Hause geschickt werden. Es ist zu beaufsichtigen, bis die Abholung durch die Eltern gesichert ist. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-012",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Ein fieberndes siebenjähriges Kind darf allein quer durch die Stadt heimgeschickt werden.",
+      "Kranke Kinder warten grundsätzlich unbeaufsichtigt vor der Schule.",
+      "Das erkrankte Kind ist zu beaufsichtigen, bis die Abholung gesichert ist.",
+      "Krankheit ist Privatsache, die Schule hat damit nichts zu tun."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein krankes kleines Kind allein wegzuschicken gefährdet es.",
+      "Falsch: Unbeaufsichtigtes Wartenlassen verletzt die Fürsorgepflicht.",
+      "Richtig: Beaufsichtigen und Abholung sichern, so ist es richtig.",
+      "Falsch: Erkrankt ein Kind in der Schule, muss die Schule Fürsorge tragen."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Die siebenjährige Mia erbricht im Unterricht und hat hohes Fieber. Die Lehrerin schickt sie allein mit der Straßenbahn nach Hause, ohne die Eltern zu verständigen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei vereistem Hof muss die Aufsicht verstärkt und gefährliche Bereiche gesperrt oder umgangen werden. Erkennbare Glätte verlangt konkrete Schutzmaßnahmen. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-013",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Bei Glatteis lässt man die Kinder wie immer allein über den vereisten Hof rennen.",
+      "Glätte ist Schicksal, Aufsicht kann da gar nichts tun.",
+      "Bei vereistem Hof ist verstärkt Aufsicht zu führen und Gefährliches zu sperren.",
+      "Kinder lernen durch Stürze, Warnungen wären übertrieben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erkennbare Glätte verlangt gerade mehr Aufsicht und Absperrung.",
+      "Falsch: Warnen, sperren und beaufsichtigen mindern die Gefahr deutlich.",
+      "Richtig: Verstärkte Aufsicht plus Absperrung gefährlicher Stellen ist nötig.",
+      "Falsch: Aus Stürzen lernen zu lassen gefährdet die Kinder pflichtwidrig."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der Schulhof ist nach einer Frostnacht spiegelglatt, mehrere Kinder sind schon ausgerutscht. Die Hofaufsicht bleibt im warmen Gang stehen und lässt die Kinder weiter über die Eisfläche toben.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei entfallenen Stunden müssen jüngere Schüler weiter beaufsichtigt werden. Sie dürfen nicht einfach ohne Betreuung weggeschickt oder sich selbst überlassen werden. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-014",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Entfällt die Stunde, dürfen auch Erstklässler sofort allein nach Hause laufen.",
+      "Bei Stundenentfall endet jede Verantwortung der Schule automatisch.",
+      "Jüngere Schüler sind bei Stundenentfall weiter zu beaufsichtigen.",
+      "Kinderbetreuung bei Entfall ist reine Elternsache während des Vormittags."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kleine Kinder dürfen nicht einfach unbeaufsichtigt weggeschickt werden.",
+      "Falsch: Die Verantwortung für anvertraute junge Schüler bleibt bestehen.",
+      "Richtig: Weiterbeaufsichtigung bis zur geordneten Übergabe ist nötig.",
+      "Falsch: Während der Unterrichtszeit trägt die Schule die Aufsicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "In einer ersten Volksschulklasse entfällt unangekündigt die letzte Stunde. Die Lehrerin schickt die Sechsjährigen ohne Verständigung der Eltern allein aus dem Schulhaus.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Nach einem Unfall gehört der Hergang schriftlich festgehalten. Eine kurze sachliche Aufzeichnung sichert Erinnerung und Versicherungsabwicklung. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L1-015",
+    "level": "L1",
+    "modul_id": "A23",
+    "optionen": [
+      "Aufschreiben ist überflüssig, man merkt sich alles auch so.",
+      "Unfallhergänge dürfen nie festgehalten werden.",
+      "Jeder Unfallhergang ist sachlich und zeitnah schriftlich festzuhalten.",
+      "Dokumentiert wird nur, wenn ein Anwalt schreibt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Aufzeichnung verblasst die Erinnerung und nichts ist nachweisbar.",
+      "Falsch: Sachliche Festhaltung ist gerade nötig und zulässig.",
+      "Richtig: Zeitnahe sachliche Aufzeichnung sichert Erinnerung und Abwicklung.",
+      "Falsch: Gewartet wird auf niemanden, dokumentiert wird sofort."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schüler David verletzt sich in der Pause am Turngerät. Der Lehrer versorgt ihn, schreibt aber trotz Rückfragen der Mutter nichts auf, sodass später niemand mehr weiß, wie es passiert ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
