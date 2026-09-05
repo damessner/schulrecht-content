@@ -1,1 +1,555 @@
-[]
+[
+  {
+    "aufloesung": "Zumutbar ist der Weg nur bei sicherem Hin- und Rückweg passend zur Reife, ohne deutlichen Schaden für den Erfolg und in der Zeit. Zum Nachlesen: TirSOG §100.",
+    "hauptquelle": "TirSOG §100",
+    "id": "C36-L2-001",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Das Kind muss Hinweg und Rückweg bewältigen können, nicht nur eine Richtung.",
+      "Der Weg muss zur körperlichen und geistigen Reife des Kindes passen.",
+      "Der Weg darf Leben und Gesundheit nicht gefährden.",
+      "Der Weg darf den Schulerfolg nicht erheblich beeinträchtigen.",
+      "Es genügt, wenn sportliche Eltern den Weg für zumutbar halten.",
+      "Die Meinung der Mitschüler entscheidet über die Zumutbarkeit."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beide Richtungen zählen.",
+      "Richtig: Die Reife des Kindes ist Maßstab.",
+      "Richtig: Gefährdung schließt Zumutbarkeit aus.",
+      "Richtig: Deutlicher Schaden für den Erfolg spricht gegen Zumutbarkeit.",
+      "Falsch: Maßstab ist das Kind, nicht die Eltern.",
+      "Falsch: Mitschüler entscheiden das nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bist Schulleiterin und prüfst für mehrere Erstklässler aus einem Weiler, ob ihr täglicher Fußweg zur Schule als zumutbar gelten kann. Du gehst dabei eine gedankliche Prüfliste durch.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Jede Strecke muss regelmäßig in der Zeit bleiben, mit einer Stunde als Grenze und 80 Minuten in der Polytechnischen Schule. Zum Nachlesen: TirSOG §100 lit.b.",
+    "hauptquelle": "TirSOG §100 lit.b",
+    "id": "C36-L2-002",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Jede einzelne Wegstrecke muss für sich in der Zeit bleiben.",
+      "Die Grenze liegt bei einer Stunde pro Strecke.",
+      "Für Schüler einer Polytechnischen Schule gelten 80 Minuten pro Strecke.",
+      "Die Zeit muss regelmäßig, also im Alltag, nicht nur einmal bei Schönwetter, haltbar sein.",
+      "Hinweg und Rückweg dürfen einfach zusammengerechnet werden.",
+      "Einmal im Jahr rechtzeitig anzukommen genügt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hinweg und Rückweg werden einzeln geprüft.",
+      "Richtig: Eine Stunde ist die Grundgrenze.",
+      "Richtig: Die Polytechnische Schule hat die längere Grenze.",
+      "Richtig: Regelmäßige Machbarkeit ist verlangt.",
+      "Falsch: Zusammenrechnen ist nicht erlaubt.",
+      "Falsch: Einmaliges Schaffen genügt nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vater rechnet vor, sein Sohn brauche hin 20 und zurück 70 Minuten, zusammen also im Schnitt 45 Minuten. Du prüfst als Behörde die Zeitregeln für beide Schulwege genau.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Gefährliche oder überfordernde Wege sind unzumutbar, auch wenn sie kurz wären. Zum Nachlesen: TirSOG §100 lit.a.",
+    "hauptquelle": "TirSOG §100 lit.a",
+    "id": "C36-L2-003",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Unbeleuchtete Schnellstraße ohne Gehsteig und ohne sichere Querung für ein Volksschulkind.",
+      "Reißender Bach auf dem Schulweg ohne Brücke und ohne Sicherung.",
+      "Weg, der das kleine Kind täglich so erschöpft, dass der Schulerfolg deutlich leidet.",
+      "Weg, der für die Reife eines Siebenjährigen eindeutig zu anspruchsvoll ist.",
+      "Kurzer ebener Gehsteig ohne jede Gefahrenstelle.",
+      "Begleiteter Sammelweg mit sicherer Querungshilfe."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das gefährdet Leben und Gesundheit.",
+      "Richtig: Das ist eine klare Gefährdung.",
+      "Richtig: Deutlicher Schaden für den Erfolg macht unzumutbar.",
+      "Richtig: Überforderung der Reife spricht gegen Zumutbarkeit.",
+      "Falsch: Ein sicherer kurzer Gehsteig ist zumutbar.",
+      "Falsch: Gesicherte Begleitung spricht für Zumutbarkeit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Familien aus einer Streusiedlung schildern ihre Schulwege: Schnellstraße ohne Gehsteig, Bach ohne Brücke, völlig erschöpfte Kinder nach langem Marsch. Du sortierst, welche Fälle klar gegen Zumutbarkeit sprechen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Zuschuss hilft Gemeinden bei Beförderungskosten für Kinder, deren Weg ohne Verkehrsmittel nicht zumutbar wäre, unter Beachtung der Finanzkraft. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C36-L2-004",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Schulweg der Kinder wäre ohne Verkehrsmittel nicht zumutbar.",
+      "Die Gemeinde oder der Gemeindeverband trägt Beförderungskosten für diese Schüler.",
+      "Das Land gewährt den Zuschuss als Träger von Privatrechten.",
+      "Die Finanzkraft der Gemeinde wird berücksichtigt.",
+      "Jede Familie mit Auto bekommt automatisch Geld.",
+      "Auch bei bequem zu Fuß machbarem Weg gibt es den Zuschuss."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unzumutbarkeit ohne Verkehrsmittel ist Voraussetzung.",
+      "Richtig: Gefördert werden Kosten der Gemeinden und Verbände.",
+      "Richtig: Das Land handelt dabei als Träger von Privatrechten.",
+      "Richtig: Finanzschwäche wird berücksichtigt.",
+      "Falsch: Autobesitz löst keinen Zuschuss aus.",
+      "Falsch: Zumutbarer Fußweg braucht keine Beförderungshilfe."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine finanzschwache Gemeinde organisiert einen Schulbus für Kinder aus Weilern ohne zumutbaren Fußweg und stellt ein Ansuchen um Landesgeld. Du prüfst die Voraussetzungen für diesen Zuschuss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Zuständig ist die Bildungsdirektion mit Antrag dort und Richtlinien zu Verfahren, Höhe und Voraussetzungen. Zum Nachlesen: TirSOG §101 Abs.2 und Abs.3.",
+    "hauptquelle": "TirSOG §101 Abs.3",
+    "id": "C36-L2-005",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Zuschuss ist bei der Bildungsdirektion zu beantragen.",
+      "Die Bildungsdirektion erlässt Richtlinien über das Verfahren.",
+      "Die Richtlinien regeln Höhe und Voraussetzungen der Zuschüsse.",
+      "Antragsberechtigt sind Gemeinden und Gemeindeverbände mit Beförderungskosten.",
+      "Der Antrag geht an das Busunternehmen.",
+      "Eltern beantragen den Gemeindezuschuss direkt für sich beim Fahrer."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Bildungsdirektion ist die Antragsstelle.",
+      "Richtig: Sie regelt das Verfahren per Richtlinie.",
+      "Richtig: Höhe und Voraussetzungen stehen in den Richtlinien.",
+      "Richtig: Gemeinden und Verbände sind die Zuschussempfänger.",
+      "Falsch: Das Busunternehmen bewilligt keine Landeszuschüsse.",
+      "Falsch: Dieser Zuschuss läuft über die Gemeinde, nicht über den Fahrer."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein neuer Amtsleiter will das Ansuchen um Beförderungszuschüsse sauber aufsetzen und fragt, wer wohin beantragen muss und wo Verfahren, Höhe und Voraussetzungen stehen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §101 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Beihilfe setzt Pflichtschulalter, fehlenden zumutbaren Weg und deshalb nötige auswärtige Unterbringung im eigenen Sprengel voraus. Zum Nachlesen: TirSOG §102 Abs.1.",
+    "hauptquelle": "TirSOG §102 Abs.1",
+    "id": "C36-L2-006",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Das Kind unterliegt der allgemeinen Schulpflicht.",
+      "Der Besuch einer Pflichtschule ist vom Wohnort aus auf zumutbarem Weg nicht möglich.",
+      "Das Kind muss deshalb zum Besuch seiner Sprengelschule außerhalb des Wohnortes untergebracht werden.",
+      "Die Beihilfe deckt Unterbringung und Verpflegung ab und geht an die Unterhaltspflichtigen.",
+      "Es genügt, dass den Eltern eine nähere Wunschschule lieber wäre.",
+      "Freiwilliges Internat bei bequemem Tagesweg genügt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Regel gilt für schulpflichtige Kinder.",
+      "Richtig: Fehlender zumutbarer Weg ist Kernvoraussetzung.",
+      "Richtig: Nötige auswärtige Unterbringung für die Sprengelschule gehört dazu.",
+      "Richtig: Unterhaltspflichtige bekommen Hilfe für Wohnen und Essen.",
+      "Falsch: Liebhaberei ohne Wegproblem genügt nicht.",
+      "Falsch: Bequemer Tagesweg schließt die Beihilfe aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Familien beantragen eine Unterbringungsbeihilfe: eine vom abgelegenen Berghof ohne vernünftigen Schulweg, eine aus der Stadt mit kurzer sicherer Wegstrecke aber Wunsch nach Internat. Du trennst die berechtigten von den unberechtigten Fällen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Es gibt die Hälfte der Kosten bis zu einem gedeckelten Höchstbetrag, der bei längerem Entfall im Monat sinkt. Zum Nachlesen: TirSOG §102 Abs.2.",
+    "hauptquelle": "TirSOG §102 Abs.2",
+    "id": "C36-L2-007",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Die Beihilfe beträgt die Hälfte der Kosten für Unterbringung und Verpflegung.",
+      "Sie ist gedeckelt mit monatlich höchstens einem Viertel des festgesetzten Heimkostenbeitrags.",
+      "Entfällt die auswärtige Unterbringung in einem Monat länger als eine Woche, sinkt der Höchstbetrag entsprechend.",
+      "Es werden nur Kosten aus der nötigen Unterbringung außerhalb des Wohnortes gezählt.",
+      "Es gibt immer die vollen Kosten ohne Deckel.",
+      "Taschengeld und Urlaubsreisen werden mitgezählt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Hälfte der echten Kosten ist die Basis.",
+      "Richtig: Der Viertel-Deckel begrenzt monatlich.",
+      "Richtig: Längerer Entfall im Monat kürzt den Höchstbetrag.",
+      "Richtig: Nur die nötigen auswärtigen Wohn- und Essenskosten zählen.",
+      "Falsch: Volle Kosten ohne Deckel gibt es nicht.",
+      "Falsch: Fremde Privatausgaben zählen nicht dazu."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Mutter rechnet die Beihilfe für ihre auswärts wohnende Tochter aus, die im November zwei Wochen krank zu Hause war. Du erklärst ihr Höhe, Deckel und die Kürzung bei Abwesenheit.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Antrag läuft bei der Bildungsdirektion mit klarer Frist und hartem Verfall bei Verspätung. Zum Nachlesen: TirSOG §102 Abs.3.",
+    "hauptquelle": "TirSOG §102 Abs.3",
+    "id": "C36-L2-008",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Antragssteller sind die Unterhaltspflichtigen.",
+      "Der Antrag ist bei der Bildungsdirektion einzubringen.",
+      "Frühestens ist der Antrag nach Ende des Unterrichtsjahres möglich.",
+      "Spätestens läuft die Frist mit Ablauf des Kalenderjahres, in das das Unterrichtsjahresende fällt, sonst verfällt der Anspruch.",
+      "Der Antrag kann beliebig viele Jahre später gestellt werden.",
+      "Mündliches Zurufen am Schulhof genügt als Antrag."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Unterhaltspflichtigen stellen den Antrag.",
+      "Richtig: Die Bildungsdirektion ist zuständig.",
+      "Richtig: Vor Unterrichtsjahresende ist es zu früh.",
+      "Richtig: Verspätung über das Jahresende kostet den Anspruch.",
+      "Falsch: Jahre später ist der Anspruch verloren.",
+      "Falsch: Es braucht einen echten Antrag bei der Behörde."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vater will die Unterbringungsbeihilfe schon zu Schulbeginn im Voraus und nur mündlich beim Lehrer beantragen. Du erklärst ihm Wer, Wo und Bis-wann für den richtigen Antrag.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Heime für Volks-, Sonder-, Mittel- und Polytechnische Schüler werden selbständig oder im Verbund mit einer Schule geführt. Zum Nachlesen: TirSOG §118.",
+    "hauptquelle": "TirSOG §118",
+    "id": "C36-L2-009",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Heime für Schüler von Volks- und Sonderschulen fallen unter die Regel.",
+      "Heime für Schüler von Mittelschulen und Polytechnischen Schulen fallen unter die Regel.",
+      "Sie werden als selbständige Schülerheime geführt.",
+      "Sie können im organisatorischen Zusammenhang mit einer solchen Schule geführt werden.",
+      "Heime sind nur als börsennotierte Aktiengesellschaft zulässig.",
+      "Heime dürfen nur im Ausland betrieben werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Volks- und Sonderschüler sind Zielgruppe.",
+      "Richtig: Mittel- und Polytechnische Schüler sind Zielgruppe.",
+      "Richtig: Selbständige Führung ist eine Form.",
+      "Richtig: Verbund mit einer Schule ist die andere Form.",
+      "Falsch: Eine Rechtsform Börse ist nicht verlangt.",
+      "Falsch: Inlandsheime sind der Normalfall."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Gemeinderat plant ein Heim für Volks- und Mittelschüler und streitet, ob es selbständig oder an eine Schule angegliedert sein muss. Du klärst die zulässigen Organisationsformen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Für Sonderschüler mit ungesicherter Unterbringung muss das Land Heime schaffen. Zum Nachlesen: TirSOG §119 Abs.1.",
+    "hauptquelle": "TirSOG §119 Abs.1",
+    "id": "C36-L2-010",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Die Pflicht betrifft die Unterbringung von Schulpflichtigen, die für eine Sonderschule in Betracht kommen.",
+      "Sie greift, soweit deren Unterbringung nicht anderweitig sichergestellt ist.",
+      "Verpflichteter ist das Land.",
+      "Bei gesicherter anderweitiger Unterbringung entfällt die Pflicht.",
+      "Das Land muss nie Heime errichten.",
+      "Die Pflicht gilt nur für erwachsene Studierende."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sonderschüler sind der Pflichtfall.",
+      "Richtig: Ungesicherte Unterbringung löst die Pflicht aus.",
+      "Richtig: Das Land ist verpflichtet.",
+      "Richtig: Sichere andere Unterbringung beendet die Pflicht.",
+      "Falsch: Genau dort besteht die Pflicht.",
+      "Falsch: Es geht um Schulpflichtige."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für zwei Sonderschüler mit langem unzumutbarem Anfahrtsweg ist die Unterbringung ungeklärt, ein dritter ist bei Verwandten nahe der Schule sicher untergebracht. Du prüfst, für wen die Heimpflicht des Landes greift.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Ohne Pflichtfall darf bei dauerndem Bedarf errichtet werden, durch Land, Gemeinden oder Verbände. Zum Nachlesen: TirSOG §119 Abs.2.",
+    "hauptquelle": "TirSOG §119 Abs.2",
+    "id": "C36-L2-011",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Besteht keine Pflicht, kann das Land Heime errichten, wenn sonst Volks-, Sonder-, Mittel- oder Polytechnischen Schülern der Schulbesuch nicht möglich wäre.",
+      "Es muss ein Bedarf für die dauernde Führung des Heimes bestehen.",
+      "Unter dieser Voraussetzung können auch Gemeinden oder Gemeindeverbände Heime errichten.",
+      "Für das Verfahren gilt die Errichtungsregel für Schulen sinngemäß.",
+      "Ein Heim darf nur für eine einzige Woche errichtet werden.",
+      "Jeder Private darf ohne jede Voraussetzung ein öffentliches Heim errichten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fehlende Erreichbarkeit der Schule ist der Anlass.",
+      "Richtig: Dauerhafter Bedarf ist verlangt.",
+      "Richtig: Auch Gemeinden und Verbände dürfen dann errichten.",
+      "Richtig: Das Schulerrichtungsverfahren gilt sinngemäß.",
+      "Falsch: Gefragt ist dauernde Führung, keine Wochenaktion.",
+      "Falsch: Voraussetzungen und Verfahren gelten auch hier."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Talschaft will dauerhaft ein kleines Schülerheim für Mittel- und Volksschüler aus Weilern ohne vernünftigen Schulweg. Du prüfst, wer ohne strikte Pflicht errichten darf und was dafür nötig ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Beitrag wird per Verordnung höchstens kostendeckend festgesetzt, monatlich nachhinein eingehoben und notfalls gerichtlich eingetrieben. Zum Nachlesen: TirSOG §122.",
+    "hauptquelle": "TirSOG §122 Abs.2",
+    "id": "C36-L2-012",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Heimerhalter setzt die Beiträge per Verordnung fest.",
+      "Die Festsetzung darf höchstens kostendeckend sein.",
+      "Eingehoben wird monatlich im Nachhinein.",
+      "Für die Einbringung steht der ordentliche Rechtsweg offen.",
+      "Der Beitrag darf beliebig hoch über den Kosten liegen.",
+      "Eingehoben wird zehn Jahre im Voraus."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verordnung des Heimerhalters ist die Form.",
+      "Richtig: Kostendeckung ist die Obergrenze.",
+      "Richtig: Monatlich nachhinein ist der Rhythmus.",
+      "Richtig: Offene Beiträge laufen über die ordentlichen Gerichte.",
+      "Falsch: Über den Kosten liegt Willkür, keine Deckung.",
+      "Falsch: Vorauszahlung für Jahre ist nicht vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Heimleitung erstellt erstmals die Beitragsverordnung für ihr Schülerheim und will Festsetzung, Obergrenze, Zahlungsrhythmus und Eintreibung rechtssicher regeln.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §122 Abs.1",
+      "TirSOG §122 Abs.3",
+      "TirSOG §122 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Bei schwacher Finanzlage, großer Familie oder gutem Lernerfolg kann der Beitrag ganz oder teilweise erlassen werden. Zum Nachlesen: TirSOG §122 Abs.2.",
+    "hauptquelle": "TirSOG §122 Abs.2",
+    "id": "C36-L2-013",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Geringes Einkommen des Unterhaltspflichtigen kann zum Verzicht führen.",
+      "Geringes Vermögen und belastende Familienverhältnisse zählen mit.",
+      "Auch der Lernerfolg des Schülers darf berücksichtigt werden.",
+      "Der Verzicht kann ganz oder nur teilweise ausgesprochen werden.",
+      "Die Haarfarbe des Schülers entscheidet über den Erlass.",
+      "Gute Beziehungen zum Bürgermeister sind Voraussetzung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einkommen ist ein Kriterium.",
+      "Richtig: Vermögen und Familie zählen dazu.",
+      "Richtig: Der Lernerfolg spielt mit.",
+      "Richtig: Ganz- oder Teilverzicht sind beide möglich.",
+      "Falsch: Äußerlichkeiten spielen keine Rolle.",
+      "Falsch: Beziehungen ersetzen keine Kriterien."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Heimfamilien bitten um Nachlass: eine einkommensschwache Großfamilie, ein Alleinverdiener mit Schulden und ein sehr guter Schüler aus bescheidenen Verhältnissen. Du prüfst die Erlasskriterien.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Unterricht ist gratis, Heim, Essen und Betreuung kosten Beitrag, Bedürftige bekommen Hilfe. Zum Nachlesen: TirSOG §8.",
+    "hauptquelle": "TirSOG §8",
+    "id": "C36-L2-014",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Der reine Schulbesuch ist für alle Schüler unentgeltlich.",
+      "Verpflegungs- und Betreuungsbeiträge an ganztägigen Schulen bleiben zulässig.",
+      "Für Heimunterbringung mit Verpflegung und Betreuung wird ein Heimkostenbeitrag eingehoben.",
+      "Wer den Weg nicht schafft und auswärts wohnen muss, kann eine Beihilfe zu Wohnen und Essen bekommen.",
+      "Für Mathematik wird extra Schulgeld verlangt.",
+      "Wer kein Geld hat, wird vom Unterricht ausgeschlossen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unterricht kostet grundsätzlich nichts.",
+      "Richtig: Essen und Betreuung dürfen etwas kosten.",
+      "Richtig: Heim kostet einen Beitrag.",
+      "Richtig: Bedürftige Wegfälle bekommen die Unterbringungsbeihilfe.",
+      "Falsch: Einzelne Fächer kosten kein Extra-Geld.",
+      "Falsch: Geldmangel schließt niemanden vom Unterricht aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Elternabend im Schülerheim: Viele glauben, mit gratis Unterricht sei auch Heim, Essen und Betreuung gratis. Du stellst richtig, wofür gezahlt wird und welche Hilfen es gibt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §122 Abs.1",
+      "TirSOG §102 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Heime stehen allen offen, Heimschulen bekommen Erleichterungen bei An- und Abreise, die Aufsicht liegt bei der Bildungsdirektion. Zum Nachlesen: TirSOG §7.",
+    "hauptquelle": "TirSOG §7",
+    "id": "C36-L2-015",
+    "level": "L2",
+    "modul_id": "C36",
+    "optionen": [
+      "Schulen und Schülerheime sind allgemein zugänglich, ohne Unterschied von Geburt, Geschlecht, Sprache oder Bekenntnis.",
+      "Schulen mit überwiegend Heimschülern können am 23. Dezember und 7. Jänner für schulfrei erklärt werden, um An- und Abreise zu erleichtern.",
+      "Die Aufsicht über die gesetzlichen Schul- und Heimerhalter liegt bei der Bildungsdirektion.",
+      "Ein Heim ist aufzulassen, wenn die Errichtungsvoraussetzungen voraussichtlich dauernd weggefallen sind.",
+      "Heime dürfen nach Belieben Herkunftsgruppen ausschließen.",
+      "Heimschüler müssen an allen Fenstertagen anreisen, Erleichterungen sind verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Offene Zugänglichkeit gilt auch für Heime.",
+      "Richtig: Die zwei Reisetage können für Heimschulen schulfrei sein.",
+      "Richtig: Die Bildungsdirektion beaufsichtigt auch die Heimerhalter.",
+      "Richtig: Dauerhafter Wegfall der Voraussetzungen beendet das Heim.",
+      "Falsch: Ausschluss nach Herkunft verstößt gegen die Zugänglichkeit.",
+      "Falsch: Genau diese Erleichterung ist vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor Weihnachten streiten Eltern, Heimleitung und Gemeinde: Dürfen alle Kinder ins Heim, darf die Heimschule für die Anreise freigeben und wer beaufsichtigt das Heim überhaupt? Du klärst die drei Punkte.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §110 Abs.5",
+      "TirSOG §105",
+      "TirSOG §120 Abs.1"
+    ]
+  }
+]
