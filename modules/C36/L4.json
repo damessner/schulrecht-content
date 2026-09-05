@@ -1,1 +1,265 @@
-[]
+[
+  {
+    "aufloesung": "Der Weg bleibt unzumutbar, der Unfall bestätigt nur die Gefahr. Die Zeit heilt die Lebensgefahr nicht, zu prüfen sind Beförderung oder auswärtige Unterbringung statt weiterer Zumutung. Zum Nachlesen: TirSOG §100 lit.a.",
+    "hauptquelle": "TirSOG §100 lit.a",
+    "id": "C36-L4-001",
+    "level": "L4",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Weg ist zumutbar, weil er mit 30 Minuten deutlich unter der Stundengrenze liegt.",
+      "Der Weg ist unzumutbar, weil ein siebenjähriges Kind ihn nicht ohne Gefährdung von Leben oder Gesundheit bewältigen kann, der Unfall belegt die Gefahr.",
+      "Nach einem Unfall wird jeder Weg automatisch für alle Kinder unzumutbar.",
+      "Mit einer reflektierenden Jacke wäre dieselbe Schnellstraße für ein siebenjähriges Kind sicher zumutbar."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kurze Zeit heilt eine echte Lebensgefahr nicht.",
+      "Richtig: Gefährdung nach Reife des Kindes schlägt die Zeit, Unfall als Beleg.",
+      "Falsch: Es bleibt eine Einzelfall­prüfung nach Reife und Gefahr.",
+      "Falsch: Ausrüstung beseitigt diese Straßen­gefahr nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Die siebenjährige Lilly wird auf ihrem 30-minütigen Schulweg entlang einer unbeleuchteten Schnellstraße ohne Gehsteig von einem Auto gestreift und verletzt. Die Gemeinde meint, unter einer Stunde müsse sie weiterlaufen, die Eltern verlangen Bus oder Unterbringung und verweisen auf die Aufsicht und die Unfallgefahr.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §100 lit.b"
+    ]
+  },
+  {
+    "aufloesung": "Die Eltern haben keinen Direktanspruch gegen das Land. Die Beförderung trägt die Gemeinde, das Land hilft ihr nur als Kann-Leistung bei unzumutbarem Weg ohne Verkehrsmittel. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C36-L4-002",
+    "level": "L4",
+    "modul_id": "C36",
+    "optionen": [
+      "Die Eltern können die vollen Taxikosten direkt beim Land einklagen.",
+      "Die Gemeinde trägt die Beförderung, das Land kann ihr dazu einen Zuschuss gewähren, wenn der Weg ohne Verkehrsmittel nicht zumutbar wäre.",
+      "Bei unzumutbarem Weg darf das Kind einfach zu Hause bleiben, Aufsicht und Schulpflicht entfallen.",
+      "Der Busunternehmer entscheidet allein über Zuschüsse des Landes."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Direktanspruch der Eltern besteht nicht.",
+      "Richtig: Gemeinde­aufgabe plus Kann-Zuschuss des Landes trifft die Lage.",
+      "Falsch: Schulpflicht und Aufsicht entfallen dadurch nicht.",
+      "Falsch: Antrag und Richtlinien liegen bei der Bildungsdirektion."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Beinahe-Unfall auf einem als unzumutbar festgestellten Schulweg will die Gemeinde keinen Bus zahlen und verweist die verängstigten Eltern direkt ans Land. Die Eltern fragen, wen sie auf Beförderung und Aufsicht auf dem gefährlichen Weg in Anspruch nehmen können.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §101 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Höchstbetrag schmilzt für den Unfallmonat entsprechend. Entfällt die Unterbringung mehr als eine Woche, vermindert sich der gedeckelte Höchstbetrag, die Hälfte der echten Kosten bleibt die Basis. Zum Nachlesen: TirSOG §102 Abs.2.",
+    "hauptquelle": "TirSOG §102 Abs.2",
+    "id": "C36-L4-003",
+    "level": "L4",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Höchstbetrag bleibt trotz dreiwöchiger Heimabwesenheit voll bestehen.",
+      "Der Höchstbetrag vermindert sich entsprechend, weil die Unterbringung mehr als eine Woche entfallen ist.",
+      "Nach einem Unfall gibt es automatisch die doppelten Kosten ersetzt.",
+      "Die Beihilfe wird ohne Antrag automatisch mit dem Unfallbericht ausbezahlt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Längere Abwesenheit kürzt den Höchstbetrag.",
+      "Richtig: Mehr als eine Woche daheim senkt den Deckel.",
+      "Falsch: Es bleibt bei der Hälfte mit Deckel.",
+      "Falsch: Ohne fristgerechten Antrag bei der Bildungsdirektion verfällt alles."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Heimschüler Noah bricht sich auf der Stiege im Schülerheim das Bein und liegt drei Wochen des Monats zu Hause statt in der auswärtigen Unterbringung nahe seiner Sprengelschule. Die Eltern verlangen trotzdem den vollen monatlichen Höchstbetrag der Unterbringungs­hilfe.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §102 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Weg ist unzumutbar, weil 90 Minuten die 80-Minuten-Grenze sprengen. Muss der Schüler deshalb im Sprengel auswärts wohnen, löst das die Beihilfe an die Unterhaltspflichtigen aus. Zum Nachlesen: TirSOG §102 Abs.1.",
+    "hauptquelle": "TirSOG §102 Abs.1",
+    "id": "C36-L4-004",
+    "level": "L4",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Weg ist zumutbar, weil Jugendliche alles schaffen müssen.",
+      "Der Weg ist unzumutbar und löst bei nötiger auswärtiger Unterbringung im Sprengel die Beihilfe zu Unterbringung und Verpflegung aus.",
+      "Die 80-Minuten-Grenze gilt nur im Winter, im Sommer sind 90 Minuten zumutbar.",
+      "Eine Beihilfe gibt es nur bei Besuch einer Schule außerhalb des eigenen Sprengels."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch dort gilt die klare Zeitgrenze.",
+      "Richtig: Zeit­überschreitung plus nötige Sprengel-Unterbringung trifft die Regel.",
+      "Falsch: Die Grenze gilt das ganze Jahr und regelmäßig.",
+      "Falsch: Es geht gerade um die Sprengelschule."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "PTS"
+    ],
+    "situation": "Der 16-jährige Polytechnik­schüler Jan braucht pro Strecke regelmäßig 90 Minuten und muss daher während der Woche nahe seiner Sprengelschule auswärts wohnen. Nach einem Erschöpfungs­zusammenbruch auf dem langen Weg fragen die Eltern nach einer Kosten­hilfe.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §100 lit.b"
+    ]
+  },
+  {
+    "aufloesung": "Der Weg scheitert an Sicherheit und Schulerfolg zugleich. Beide Richtungen müssen regelmäßig und der Reife entsprechend ohne Gefahr und ohne deutlichen Leistungs­einbruch zu schaffen sein. Zum Nachlesen: TirSOG §100 lit.a.",
+    "hauptquelle": "TirSOG §100 lit.a",
+    "id": "C36-L4-005",
+    "level": "L4",
+    "modul_id": "C36",
+    "optionen": [
+      "Hinweg und Rückweg müssen der körperlichen und geistigen Reife entsprechend ohne Gefährdung zu bewältigen sein.",
+      "Eine erhebliche Beeinträchtigung des Schulerfolges durch Erschöpfung macht den Weg unzumutbar, auch wenn die Zeit passt.",
+      "Jede Strecke muss regelmäßig innerhalb der Zeitgrenze bleiben, bei Volksschule und Mittelschule innerhalb einer Stunde.",
+      "Der kurze Hinweg gleicht einen zu langen Rückweg immer aus.",
+      "Aufsichtspflichten und Unfallgefahren auf dem Weg sind für die Zumutbarkeit egal.",
+      "Die Reife des Kindes spielt keine Rolle, alle Altersstufen werden gleich behandelt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Reife plus Ungefährdung für beide Richtungen.",
+      "Richtig: Leistungs­einbruch durch den Weg schließt Zumutbarkeit aus.",
+      "Richtig: Jede Strecke einzeln und regelmäßig in der Zeit.",
+      "Falsch: Jede Richtung muss für sich passen.",
+      "Falsch: Gerade Gefahr und Aufsicht sprechen gegen Zumutung.",
+      "Falsch: Die Reife ist ausdrücklicher Maßstab."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die neunjährige Sophie geht morgens 50 Minuten bergab zur Schule, quält sich mittags 65 Minuten bergauf zurück, schläft über den Aufgaben ein und rutscht in den Noten ab. Auf dem Rückweg gab es schon einen Fahrrad­unfall, die Aufsicht auf dem einsamen Weg ist ungeklärt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §100 lit.b"
+    ]
+  },
+  {
+    "aufloesung": "Nach dem Unfall hilft nur der geordnete Förderweg. Das Land kann der Gemeinde helfen, nicht den Eltern direkt, nach Richtlinien der Bildungsdirektion und mit Blick auf die Finanzkraft. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C36-L4-006",
+    "level": "L4",
+    "modul_id": "C36",
+    "optionen": [
+      "Zuschüsse sind eine Kann-Leistung des Landes als Träger von Privatrechten an Gemeinden und Gemeindeverbände.",
+      "Voraussetzung ist ein Schulweg, der ohne Benützung eines Verkehrsmittels nicht zumutbar wäre.",
+      "Die Finanzkraft der Gemeinde beziehungsweise der Verbandsgemeinden ist zu berücksichtigen, die Bildungsdirektion erlässt Richtlinien und nimmt die Anträge entgegen.",
+      "Eltern haben einen direkten Anspruch auf das teuerste Taxi ihrer Wahl gegen das Land.",
+      "Nach einem Unfall auf dem Schulweg entfällt jede Prüfung, das Land zahlt automatisch alles.",
+      "Auch ein bequem zumutbarer Zehn-Minuten-Weg löst volle Zuschüsse aus."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kann-Hilfe an die Gemeinde, kein Muss.",
+      "Richtig: Unzumutbar ohne Fahrzeug ist die Schwelle.",
+      "Richtig: Finanzkraft plus Richtlinien plus Antragsweg stimmen.",
+      "Falsch: Direktanspruch der Eltern besteht nicht.",
+      "Falsch: Unfall ersetzt die Zumutbarkeits­prüfung nicht.",
+      "Falsch: Zumutbarer Weg löst nichts aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Schulweg­unfall verlangen Eltern den teuersten Taxidienst direkt vom Land, die Gemeinde will ohne Antrag Geld und ohne Blick auf ihre gute Finanzlage. Du sollst als Sachbearbeiter den Transfer von Unfall und Aufsicht zur richtigen Förder­prüfung ordnen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §101 Abs.2",
+      "TirSOG §101 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Das Heim trägt die sichere Unterbringung mit gedeckeltem Beitrag. Es kann selbständig oder im Schulzusammenhang geführt werden, baulich gelten die Schul­standards sinngemäß und der Beitrag ist sozial abfederbar. Zum Nachlesen: TirSOG §118.",
+    "hauptquelle": "TirSOG §118",
+    "id": "C36-L4-007",
+    "level": "L4",
+    "modul_id": "C36",
+    "optionen": [
+      "Schülerheime werden als selbständige Heime oder im organisatorischen Zusammenhang mit einer Schule geführt.",
+      "Für Bau, Einrichtung und Widmung der Heime gelten die Schul­bestimmungen sinngemäß, für Zugänge gilt die Enteignungs­regel sinngemäß.",
+      "Der Heimerhalter hebt höchstens kostendeckend per Verordnung einen monatlich nachhinein fälligen Beitrag ein, mit möglichem Erlass nach Einkommen, Vermögen, Familie und Lernerfolg, im Streit steht der Gerichts­weg offen.",
+      "Heime dürfen Kinder nach Herkunft ablehnen, Aufsicht spielt dort keine Rolle.",
+      "Der reine Schulbesuch kostet Schulgeld, erst das Heim ist gratis.",
+      "Nach einem Heimaus­schluss schuldet niemand mehr etwas, auch nicht für echte Heimtage."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Selbständig oder schul­verbunden ist die Form.",
+      "Richtig: Baustandards und Zugangs­regeln gelten sinngemäß.",
+      "Richtig: Gedeckelter Beitrag mit Sozial­klausel, Nachhinein und Gerichts­weg.",
+      "Falsch: Heime sind allgemein zugänglich, Aufsicht bleibt Pflicht.",
+      "Falsch: Umgekehrt ist der Unterricht gratis, Heim kostet.",
+      "Falsch: Echte Heimtage bleiben bis zum Ausschluss geschuldet."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Treppen­sturz im Schülerheim mit Aufsichtslücke streiten alle: Eltern halten Heime für gratis und verweigern jede Zahlung, ein Mandatar will Kinder nach Herkunft auswählen, die Heimleitung prüft Bau­zustand, Zugangs­weg und Beitrags­erlass für eine einkommens­schwache Familie.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §121 Abs.1",
+      "TirSOG §122 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Der Heimaufenthalt ersetzt die Zumutbarkeits­prüfung nicht, Gefahr, Reife, Schulerfolg und Zeit bleiben für jeden Weg zu prüfen. Zum Nachlesen: TirSOG §100.",
+    "hauptquelle": "TirSOG §100",
+    "id": "C36-L4-008",
+    "level": "L4",
+    "modul_id": "C36",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Heim löst die Weg­prüfung mit Aufsicht und Unfall­schutz nicht ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Behauptung einer Heimleitung nach einem Unfall am Heimweg: Wer im Heim wohnt, hat damit jeden Schulweg automatisch zumutbar, Aufsicht und Unfallgefahr spielen dann keine Rolle mehr.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

@@ -1,1 +1,398 @@
-[]
+[
+  {
+    "aufloesung": "Der Weg ist unzumutbar, obwohl die Zeit unter einer Stunde liegt. Die Sicherheit geht der Zeit vor, beide Bedingungen müssen gemeinsam erfüllt sein. Zum Nachlesen: TirSOG §100 lit.a.",
+    "hauptquelle": "TirSOG §100 lit.a",
+    "id": "C36-L3-001",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Weg ist zumutbar, weil 40 Minuten pro Strecke unter der Stundengrenze liegen.",
+      "Der Weg ist unzumutbar, weil er Leben und Gesundheit eines siebenjährigen Kindes gefährdet.",
+      "Eine Warnweste und gutes Zureden machen jeden gefährlichen Weg zumutbar.",
+      "Nur die Hinwegzeit entscheidet, die Gefährlichkeit spielt keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Zeit allein heilt eine echte Lebensgefahr nicht.",
+      "Richtig: Gefährdung von Leben oder Gesundheit schließt Zumutbarkeit aus.",
+      "Falsch: Ausrüstung beseitigt diese Straßen­gefahr nicht.",
+      "Falsch: Sicherheit und Zeit gelten kumulativ für beide Richtungen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Die siebenjährige Anna braucht zu Fuß nur 40 Minuten zur Volksschule, muss aber täglich ein langes Stück stark befahrene Bundesstraße ohne Gehsteig und ohne gesicherte Querung gehen. Die Gemeinde meint, unter einer Stunde sei jeder Weg automatisch zuzumuten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §100 lit.b"
+    ]
+  },
+  {
+    "aufloesung": "Der Weg ist unzumutbar, weil er den Schulerfolg erheblich beeinträchtigt. Auch ein zeitlich passender Weg scheitert an der Erschöpfung mit Noteneinbruch. Zum Nachlesen: TirSOG §100 lit.a.",
+    "hauptquelle": "TirSOG §100 lit.a",
+    "id": "C36-L3-002",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Weg ist zumutbar, weil jede Strecke unter einer Stunde bleibt.",
+      "Der Weg ist unzumutbar, weil das Kind ihn seiner Reife entsprechend nicht ohne erhebliche Beeinträchtigung des Schulerfolges bewältigt.",
+      "Erst ab zwei Stunden pro Strecke wird der Schulerfolg beachtet.",
+      "Kopfschmerzen und Dauermüdigkeit sind für die Zumutbarkeit unbeachtlich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Zeitgrenze allein genügt nicht.",
+      "Richtig: Erhebliche Beeinträchtigung des Schulerfolges macht unzumutbar.",
+      "Falsch: Die Beeinträchtigung zählt unabhängig von starren Stundenwerten.",
+      "Falsch: Genau solche Folgen sind der Maßstab der Regel."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der zehnjährige Ben braucht pro Strecke 55 Minuten über einen steilen Bergweg, kommt täglich völlig erschöpft an, schläft über den Hausaufgaben ein und seine Leistungen sind deutlich abgefallen. Die Schule meint, unter einer Stunde sei alles zumutbar.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Weg ist noch zumutbar, weil für die Polytechnische Schule 80 Minuten pro Strecke gelten. Die längere Grenze trägt dem Alter und der Schulart Rechnung. Zum Nachlesen: TirSOG §100 lit.b.",
+    "hauptquelle": "TirSOG §100 lit.b",
+    "id": "C36-L3-003",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Weg ist unzumutbar, weil jede Strecke über einer Stunde automatisch zu lang ist.",
+      "Der Weg ist zumutbar, weil in der Polytechnischen Schule jede Strecke regelmäßig innerhalb von 80 Minuten bleiben darf.",
+      "Für die Polytechnische Schule gibt es überhaupt keine Zeitgrenze.",
+      "Entscheidend ist allein die Kilometerzahl, die Wegzeit spielt keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für diese Schulart gilt die verlängerte Grenze.",
+      "Richtig: 78 Minuten liegen innerhalb der 80-Minuten-Grenze.",
+      "Falsch: Auch dort gibt es eine klare Zeitgrenze.",
+      "Falsch: Maßstab ist die regelmäßige Wegzeit pro Strecke."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "PTS"
+    ],
+    "situation": "Der 16-jährige David besucht die Polytechnische Schule und braucht für den einfachen Weg mit Bus und Fußweg regelmäßig 78 Minuten. Seine Eltern meinen, alles über einer Stunde sei überall unzumutbar.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Versagung ist richtig, weil der Weg zu Fuß gut zumutbar ist. Das Land darf nur bei Wegen helfen, die ohne Verkehrsmittel nicht zumutbar wären, und auch dann nur als Kann-Leistung an die Gemeinde. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C36-L3-004",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Die Versagung ist falsch, weil jeder Schulbus automatisch einen Landeszuschuss auslöst.",
+      "Die Versagung ist richtig, weil der Weg ohne Verkehrsmittel zumutbar ist und das Land nur dann als Kann-Leistung helfen darf.",
+      "Die Versagung ist falsch, weil die Eltern einen direkten Anspruch auf volle Buskosten gegen das Land haben.",
+      "Die Versagung ist falsch, weil die Finanzkraft der Gemeinde dabei nie eine Rolle spielen darf."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne unzumutbaren Weg gibt es keinen Zuschussgrund.",
+      "Richtig: Zumutbarer Weg plus Kann-Leistung tragen die Versagung.",
+      "Falsch: Anspruchs­berechtigt sind Gemeinden und Verbände, nicht Eltern direkt.",
+      "Falsch: Die Finanzkraft ist gerade zu berücksichtigen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine finanzstarke Gemeinde richtet für Kinder mit ebenem 15-minütigem Gehweg einen teuren Taxidienst ein und verlangt dafür einen Landeszuschuss zu den Beförderungskosten. Die Förderstelle versagt den Zuschuss, die Gemeinde protestiert.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Beihilfe ist zu gewähren, weil der Pflichtschulbesuch vom Wohnort aus auf keinem zumutbaren Weg möglich ist und das Kind deshalb im Sprengel auswärts wohnen muss. Sie beträgt die Hälfte der Kosten mit gedeckeltem Höchstbetrag. Zum Nachlesen: TirSOG §102 Abs.1.",
+    "hauptquelle": "TirSOG §102 Abs.1",
+    "id": "C36-L3-005",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Kein Anspruch, weil auswärtiges Wohnen immer reine Privatsache bleibt.",
+      "Anspruch auf Beihilfe zu Unterbringung und Verpflegung, weil kein zumutbarer Weg zur Sprengelschule besteht und die auswärtige Unterbringung deshalb nötig ist.",
+      "Anspruch nur bei Besuch einer Wunschschule außerhalb des eigenen Sprengels.",
+      "Anspruch in voller Kostenhöhe ohne jede Obergrenze."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Genau diese Notlage löst die Beihilfe aus.",
+      "Richtig: Unzumutbarer Weg plus nötige Unterbringung im Sprengel trifft die Regel.",
+      "Falsch: Es geht um die Sprengelschule, nicht um Wunschschulen.",
+      "Falsch: Es gibt nur die Hälfte mit Höchstbetrag."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tochter Eva wohnt auf einem abgelegenen Berghof, von dem aus sie keine Pflichtschule ihres Sprengels auf einem vernünftigen Weg erreichen kann. Sie wohnt daher während der Schulzeit bei einer Tante nahe der Sprengelschule, die Eltern beantragen eine Kosten­hilfe.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §102 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Der Rauswurf aus dem Heim lässt die Kostenpflicht für die tatsächlich erbrachte Unterbringung unberührt. Der Beitrag wird nur für echte Heimtage monatlich im Nachhinein verlangt, der reine Unterricht bleibt gratis. Zum Nachlesen: TirSOG §122 Abs.1.",
+    "hauptquelle": "TirSOG §122 Abs.1",
+    "id": "C36-L3-006",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Mit dem Rauswurf entfällt der Heimbeitrag rückwirkend für das ganze Jahr.",
+      "Der Beitrag bleibt für die tatsächliche Unterbringung bis zum Ausschluss geschuldet und wird monatlich im Nachhinein eingehoben, der Schulbesuch selbst bleibt unentgeltlich.",
+      "Wegen der Gratis-Schule darf für Heim, Essen und Betreuung nie etwas verlangt werden.",
+      "Über den Beitrag entscheidet allein das Taschengeld des Schülers."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Rückwirkung gibt es nicht, nur echte Heimtage zählen.",
+      "Richtig: Echte Leistung plus Nachhinein-Abrechnung bei gratis Unterricht trifft die Regel.",
+      "Falsch: Heim, Verpflegung und Betreuung kosten einen Beitrag.",
+      "Falsch: Schuldner sind die Unterhaltspflichtigen per Bescheid oder Klage."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der 14-jährige Felix wird nach wiederholten schweren Verstößen gegen die Heimordnung aus dem Schülerheim ausgeschlossen. Seine Eltern meinen, damit sei auch der bereits vorgeschriebene Heimbeitrag hinfällig und Heime müssten ohnehin gratis sein.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §8",
+      "TirSOG §122 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Weg scheitert an beiden Sicherungen zugleich. Zeit und Sicherheit gelten kumulativ für Hinweg und Rückweg bei regelmäßiger Bewältigung nach der Reife des Kindes. Zum Nachlesen: TirSOG §100.",
+    "hauptquelle": "TirSOG §100",
+    "id": "C36-L3-007",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Hinweg und Rückweg müssen beide der Reife des Kindes entsprechend ohne Gefährdung von Leben oder Gesundheit zu bewältigen sein.",
+      "Jede einzelne Wegstrecke muss regelmäßig innerhalb der Zeitgrenze bleiben, bei Volksschule und Mittelschule innerhalb einer Stunde.",
+      "Eine erhebliche Beeinträchtigung des Schulerfolges durch den Weg macht ihn unzumutbar.",
+      "Es genügt, wenn der Hinweg in der Zeit bleibt, der Rückweg ist egal.",
+      "Einmal im Jahr muss der Weg irgendwie zu schaffen sein, Regelmäßigkeit ist egal.",
+      "Die körperliche und geistige Reife des Kindes spielt für die Zumutbarkeit keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beide Richtungen müssen sicher zu schaffen sein.",
+      "Richtig: Jede Strecke muss einzeln und regelmäßig in der Zeit bleiben.",
+      "Richtig: Deutlicher Schaden für den Schulerfolg schließt Zumutbarkeit aus.",
+      "Falsch: Hinweg und Rückweg zählen gleich.",
+      "Falsch: Verlangt ist die regelmäßige Bewältigung.",
+      "Falsch: Die Reife ist ausdrücklicher Maßstab."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Als Schulreferent prüfst du einen streitigen Fall: Ein neunjähriges Kind braucht pro Strecke knapp unter einer Stunde, geht aber über eine ungesicherte Schnellstraße, kommt völlig erschöpft an und fällt in den Leistungen stark ab. Die Eltern und die Gemeinde streiten über die Zumutbarkeit.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Zuschuss scheitert hier an allen Ecken. Er ist eine Kann-Leistung an Gemeinden bei ohne Verkehrsmittel unzumutbarem Weg, mit Finanzkraft­prüfung und Richtlinien der Bildungsdirektion. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C36-L3-008",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Das Land kann Zuschüsse gewähren, muss es aber nicht, es handelt sich um eine Kann-Leistung als Träger von Privatrechten.",
+      "Zuschüsse gibt es nur an Gemeinden und Gemeindeverbände für Schüler, deren Weg ohne Verkehrsmittel nicht zumutbar wäre.",
+      "Bei der Gewährung ist die Finanzkraft der Gemeinde beziehungsweise der Verbandsgemeinden zu berücksichtigen.",
+      "Eltern haben einen direkten Vollkosten­anspruch gegen das Land für jedes Taxi ihrer Wahl.",
+      "Der Antrag ist formlos beim Busfahrer zu stellen, Richtlinien der Bildungsdirektion gibt es keine.",
+      "Auch bei zumutbarem Fußweg von zehn Minuten muss das Land jeden Bus voll zahlen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kann statt Muss ist der Ausgangspunkt.",
+      "Richtig: Nur Gemeinden und Verbände bei unzumutbarem Weg ohne Fahrzeug.",
+      "Richtig: Finanzkraft schützt gerade schwächere Gemeinden.",
+      "Falsch: Direktanspruch der Eltern besteht nicht.",
+      "Falsch: Antrag und Richtlinien liegen bei der Bildungsdirektion.",
+      "Falsch: Zumutbarer Weg löst keinen Zuschuss aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Gemeinden streiten nach versagten Beförderungs­zuschüssen: eine hatte nur kurze zumutbare Fußwege, eine schickte die Elternrechnung direkt ans Land, eine berief sich auf einen angeblichen Vollkosten­anspruch ohne Finanzkraft­prüfung. Du ordnest die Rechtslage.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §101 Abs.2",
+      "TirSOG §101 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Beihilfe wird hier gekürzt und droht wegen Verspätung ganz zu verfallen. Sie deckt nur die Hälfte mit Höchstbetrag, schmilzt bei langer Abwesenheit und verfällt bei Fristversäumnis. Zum Nachlesen: TirSOG §102 Abs.2.",
+    "hauptquelle": "TirSOG §102 Abs.2",
+    "id": "C36-L3-009",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Die Beihilfe beträgt nur die Hälfte der Unterbringungs- und Verpflegungskosten, höchstens monatlich ein Viertel des festgesetzten Heimkostenbeitrags.",
+      "Entfällt die auswärtige Unterbringung in einem Monat mehr als eine Woche, vermindert sich der Höchstbetrag entsprechend.",
+      "Der Antrag muss frühestens nach Ende des Unterrichtsjahres und spätestens bis Jahresende bei der Bildungsdirektion einlangen, sonst verfällt der Anspruch.",
+      "Es werden immer die vollen Kosten ohne Obergrenze ersetzt.",
+      "Lange Heimaufenthalte zu Hause lassen den Höchstbetrag unberührt.",
+      "Der Antrag kann noch Jahre später ohne Folgen gestellt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hälfte mit gedeckeltem Höchstbetrag ist die Formel.",
+      "Richtig: Längere Abwesenheit kürzt den Höchstbetrag.",
+      "Richtig: Fristversäumnis vernichtet den Anspruch.",
+      "Falsch: Volle Kosten ohne Deckel gibt es nicht.",
+      "Falsch: Genau dann sinkt der Höchstbetrag.",
+      "Falsch: Nach Jahresende droht der Totalverlust."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sohn Jonas war wegen Krankheit drei Wochen des Monats zu Hause statt in der auswärtigen Unterbringung, die Eltern verlangen trotzdem den vollen Höchstbetrag und wollen den Antrag erst im übernächsten Jahr stellen. Die Sachbearbeiterin prüft Kürzung und Frist als Grenzfall.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §102 Abs.1",
+      "TirSOG §102 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Gemeinde hat keine Pflicht, aber eine klare Möglichkeit. Das Land muss nur für Sonderschul­kinder mit ungesicherter Unterbringung Heime schaffen, sonst braucht es dauernden Bedarf und das ordentliche Verfahren. Zum Nachlesen: TirSOG §119 Abs.1.",
+    "hauptquelle": "TirSOG §119 Abs.1",
+    "id": "C36-L3-010",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Das Land muss Schülerheime für Schulpflichtige errichten, die für eine Sonderschule in Betracht kommen, soweit deren Unterbringung nicht anderweitig sichergestellt ist.",
+      "Ohne diese Pflichtlage kann das Land Heime errichten, wenn dauernd Bedarf besteht, weil sonst der Besuch von Volks-, Sonder-, Mittel- oder Polytechnischer Schule nicht möglich wäre.",
+      "Unter derselben Bedingung können auch Gemeinden oder Gemeindeverbände Schülerheime errichten.",
+      "Jede Gemeinde muss ohne jeden Bedarf ein eigenes Schülerheim bauen.",
+      "Für die Errichtung braucht es nie ein Verfahren.",
+      "Heime sind nur für volljährige Studierende zulässig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sonderschul­bedarf plus ungesicherte Unterbringung löst die Muss-Regel aus.",
+      "Richtig: Dauer­bedarf wegen sonst unmöglichen Schulbesuchs trägt die Kann-Regel des Landes.",
+      "Richtig: Gemeinden und Verbände dürfen unter gleicher Voraussetzung errichten.",
+      "Falsch: Ohne Bedarf besteht keine Baupflicht.",
+      "Falsch: Das Verfahren läuft sinngemäß wie bei Schulen.",
+      "Falsch: Heime dienen gerade schulpflichtigen Kindern."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine kleine Gemeinde will trotz geringer Nachfrage ein eigenes Schülerheim bauen und beruft sich auf eine angebliche Baupflicht, daneben suchen Eltern eines Sonderschulkindes ohne jede Unterbringungs­möglichkeit einen Heimplatz. Du trennst Muss von Kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §119 Abs.2",
+      "TirSOG §119 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Beitrag bleibt auch nach dem Rauswurf für echte Heimtage geschuldet. Er ist gedeckelt, sozial abfederbar, monatlich im Nachhinein fällig und notfalls gerichtlich durchsetzbar. Zum Nachlesen: TirSOG §122 Abs.2.",
+    "hauptquelle": "TirSOG §122 Abs.2",
+    "id": "C36-L3-011",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Der Heimerhalter hebt von den Unterhaltspflichtigen einen Beitrag für Unterbringung, Verpflegung und Betreuung ein, höchstens kostendeckend per Verordnung.",
+      "Von der Einhebung kann je nach Einkommen, Vermögen, Familienverhältnissen und Lernerfolg ganz oder teilweise abgesehen werden.",
+      "Der Beitrag ist monatlich im Nachhinein einzuheben, für die Einbringung steht der ordentliche Rechtsweg offen.",
+      "Heim, Essen und Betreuung sind wegen der Gratis-Schule immer völlig kostenlos.",
+      "Der individuelle Rauswurf eines Schülers ist dasselbe wie die Auflassung des ganzen Heimes.",
+      "Ein Heim ist aufzulassen, sobald ein einziges Kind einen Tag fehlt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gedeckelter Beitrag per Verordnung von den Unterhaltspflichtigen.",
+      "Richtig: Soziallage plus Lernerfolg können zum Erlass führen.",
+      "Richtig: Nachhinein plus Gerichts­weg ist das Verfahren.",
+      "Falsch: Gratis ist nur der Unterricht, nicht Heim und Essen.",
+      "Falsch: Auflassung braucht dauernden Wegfall beider Errichtungs­voraussetzungen.",
+      "Falsch: Einzelne Fehltage lösen keine Auflassung aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach dem Ausschluss von Heimschüler Leon streiten Eltern und Heimerhalter über Nachzahlung, Erlass wegen geringem Einkommen und angeblicher Gratis-Unterbringung. Gleichzeitig meint ein Gemeinderat, ein einzelner Rauswurf löse die Auflassung des ganzen Heimes aus.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §122 Abs.1",
+      "TirSOG §122 Abs.3",
+      "TirSOG §120 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Zuschüsse sind eine Kann-Leistung an Gemeinden bei ohne Verkehrsmittel unzumutbarem Weg, Eltern haben keinen direkten Vollkosten­anspruch. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C36-L3-012",
+    "level": "L3",
+    "modul_id": "C36",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Kein Eltern-Direktanspruch, nur Kann-Hilfe an die Gemeinde bei unzumutbarem Weg."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Stammtischfrage eines Vaters: Jeder 45-minütige Schulweg löst einen direkten Anspruch der Eltern auf volle Taxikosten gegen das Land aus, die Gemeinde geht das nichts an.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]
