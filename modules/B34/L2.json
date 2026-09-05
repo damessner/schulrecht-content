@@ -1,1 +1,509 @@
-[]
+[
+  {
+    "aufloesung": "Betroffene können sich innerbetrieblich und bei der Gleichbehandlungskommission beschweren. Der richtige Weg ist: Vorfall festhalten, Vertrauensperson oder Direktion einschalten und die zuständige Stelle befassen. Einschüchterung ist verboten. Zum Nachlesen: B-GlBG §9.",
+    "hauptquelle": "B-GlBG §9",
+    "id": "B34-L2-001",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Vorfall mit Datum, Ort und Beteiligten schriftlich festhalten.",
+      "Sich an Direktion, Vertrauensperson oder Gleichbehandlungsbeauftragte wenden.",
+      "Beschwerde bei der zuständigen Gleichbehandlungskommission einbringen.",
+      "Abwarten, bis sich die Belästigung von selbst erledigt.",
+      "Betroffene Kolleginnen einschüchtern, damit sie schweigen.",
+      "Beweise vernichten, um das Team zu schützen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schriftliche Festhaltung sichert den Beschwerdeweg.",
+      "Richtig: Innerbetriebliche Ansprechstellen sind erste Anlaufstellen.",
+      "Richtig: Die Kommission prüft Gleichbehandlungsverletzungen.",
+      "Falsch: Zuwarten lässt die Pflichtverletzung andauern.",
+      "Falsch: Einschüchterung ist selbst eine verbotene Vergeltung.",
+      "Falsch: Beweise zu vernichten behindert die Klärung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Kollegin wird wiederholt durch herabwürdigende Sprüche eines Vorgesetzten bloßgestellt und will sich wehren. Im Konferenzzimmer kursieren widersprüchliche Ratschläge, was sie tun soll und wohin sie sich wenden kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Direktion muss Hinweise ernst nehmen, dokumentieren und rasch klären. Zum korrekten Vorgehen gehören: Anhörung beider Seiten, Schutz vor Vergeltung und sachliche Maßnahmen. Wegsehen ist pflichtwidrig. Zum Nachlesen: LDG §29a.",
+    "hauptquelle": "LDG §29a",
+    "id": "B34-L2-002",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Hinweise auf Ausgrenzung ernst nehmen und den Sachverhalt klären.",
+      "Beide Seiten anhören und Feststellungen schriftlich festhalten.",
+      "Betroffene vor Nachteilen wegen ihrer Meldung schützen.",
+      "Den Fall als privaten Streit abtun und nichts unternehmen.",
+      "Die meldende Person zur Strafe schlechter einteilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hinweise auf Würdeverletzungen sind aufklärungspflichtig.",
+      "Richtig: Faire Klärung braucht Anhörung und Dokumentation.",
+      "Richtig: Schutz vor Vergeltung gehört zum Verfahren.",
+      "Falsch: Als Privatsache abtun verletzt die Fürsorgepflicht.",
+      "Falsch: Strafmaßnahmen nach einer Meldung sind verbotene Vergeltung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Direktion erfährt, dass ein Teammitglied systematisch aus Verteilern gelöscht und in Besprechungen lächerlich gemacht wird. Die Leitung fragt sich, welche Schritte sie setzen muss und was sie keinesfalls tun darf.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Gleichbehandlung beginnt bei der eigenen Dokumentation. Wer Auswahl- und Beurteilungsentscheidungen sachlich begründet und nachvollziehbar festhält, kann Diskriminierungsvorwürfe entkräften. Pauschale Merkmale ohne Sachbezug sind unzulässig. Zum Nachlesen: B-GlBG §3.",
+    "hauptquelle": "B-GlBG §3",
+    "id": "B34-L2-003",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Auswahlentscheidungen mit sachlichen Kriterien begründen und festhalten.",
+      "Beurteilungen nachvollziehbar dokumentieren statt aus dem Bauch zu entscheiden.",
+      "Gleiche Maßstäbe für alle anlegen und Abweichungen sachlich erklären.",
+      "Herkunft oder Geschlecht als Auswahlkriterium in die Liste schreiben.",
+      "Entscheidungen nur mündlich treffen, damit nichts nachprüfbar ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sachliche Begründung belegt die Gleichbehandlung.",
+      "Richtig: Nachvollziehbare Dokumentation schützt vor Vorwürfen.",
+      "Richtig: Einheitliche Maßstäbe sichern faire Verfahren.",
+      "Falsch: Verbotene Merkmale dürfen nie Entscheidungskriterien sein.",
+      "Falsch: Fehlende Nachvollziehbarkeit erschwert die Rechtfertigung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Fachgruppe verteilt Zusatzstunden, Funktionen und Lob sehr ungleich. Nach Beschwerden will die Koordinatorin künftig so dokumentieren, dass jede Entscheidung als sachlich und diskriminierungsfrei nachvollziehbar ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Verschwiegenheit heißt: nur an Berechtigte, nur das Nötige. Lehrpersonen geben Auskünfte nur an Erziehungsberechtigte oder zuständige Stellen weiter und halten alles andere zurück. Gefälligkeit und Neugier sind keine Grundlage. Zum Nachlesen: LDG §31.",
+    "hauptquelle": "LDG §31",
+    "id": "B34-L2-004",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Auskünfte über Schüler nur an Erziehungsberechtigte oder zuständige Stellen geben.",
+      "Anfragen Unbefugter höflich ablehnen und auf den Dienstweg verweisen.",
+      "Auch am Telefon keine Noten oder Gutachten an Fremde weitergeben.",
+      "Nachbarn aus Gefälligkeit über Familienprobleme eines Schülers informieren.",
+      "Konferenzergebnisse im Wirtshaus ausführlich weitererzählen.",
+      "Klassenlisten mit Adressen an Werbetreibende aushändigen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Empfänger müssen zur Auskunft berechtigt sein.",
+      "Richtig: Ablehnung mit Dienstweg schützt die Verschwiegenheit.",
+      "Richtig: Der Übermittlungsweg ändert nichts an der Vertraulichkeit.",
+      "Falsch: Gefälligkeit hebt die Schweigepflicht nicht auf.",
+      "Falsch: Dienstliche Beratungen bleiben vertraulich.",
+      "Falsch: Adressweitergabe an Dritte ist unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Berger bekommt ständig Anfragen von Nachbarn, Verwandten und Bekannten über Noten und Familienverhältnisse einzelner Schüler. Er will eine klare Checkliste, wem er was sagen darf und was er ablehnen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Schülerdaten sind zweckgebunden, sparsam und richtig zu verarbeiten. Erlaubt ist, was für den schulischen Auftrag nötig, sachlich richtig und gesichert ist. Private Nutzung, Sammelwut und Weitergabe ohne Grundlage sind verboten. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "B34-L2-005",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Daten nur für den schulischen Zweck verwenden, für den sie erhoben wurden.",
+      "Nur die Daten erheben, die für die Aufgabe wirklich erforderlich sind.",
+      "Unrichtige Daten richtigstellen und nicht mehr nötige Daten löschen.",
+      "Klassenkontakte für private Werbung und Nebenjobs nutzen.",
+      "Gesundheitsdetails aller Kinder auf Vorrat sammeln.",
+      "Notenlisten ungeschützt mit Dritten teilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zweckbindung begrenzt jede Verwendung.",
+      "Richtig: Sparsamkeit verbietet überschießende Erhebungen.",
+      "Richtig: Richtigkeit und Speicherbegrenzung sind Grundsätze.",
+      "Falsch: Private Nutzung schulischer Kontakte ist zweckwidrig.",
+      "Falsch: Vorratsdatensammlung ohne Zweck ist unzulässig.",
+      "Falsch: Ungeschützte Weitergabe verletzt Vertraulichkeit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schule erstellt eine Checkliste für den Umgang mit Schülerdaten im Alltag. Das Team prüft, welche Grundsätze bei jeder Erhebung und Verwendung von Namen, Noten und Kontakten gelten und welche Praktiken ausscheiden.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Fotos und Nachrichten brauchen eine Grundlage und sichere Wege. Veröffentlichungen setzen Einwilligung voraus, Klassengruppen gehören auf dienstliche Kanäle und Einzelbilder nicht ins Netz. Bequemlichkeit ersetzt keine Einwilligung. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "B34-L2-006",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Erkennbare Kinderfotos nur mit Einwilligung veröffentlichen.",
+      "Für Klassenkommunikation dienstliche Kanäle statt privater Profile nutzen.",
+      "Einzelne Kinder nicht in öffentlichen Gruppen bloßstellen.",
+      "Wandertagfotos ohne Zustimmung auf das private Profil stellen.",
+      "Schweigen der Eltern automatisch als Zustimmung werten.",
+      "Krankheitsdetails eines Kindes in die Klassengruppe schreiben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bildveröffentlichung braucht Einwilligung oder Grundlage.",
+      "Richtig: Dienstliche Kanäle schützen Daten besser als private.",
+      "Richtig: Bloßstellung verletzt Würde und Datenschutz.",
+      "Falsch: Private Profile machen die Veröffentlichung nicht zulässig.",
+      "Falsch: Schweigen ist keine Einwilligung.",
+      "Falsch: Gesundheitsdaten sind besonders schützenswert."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Nach einem Wandertag kursieren Fotos mit erkennbaren Gesichtern und gesundheitliche Details eines Kindes in privaten Nachrichten und auf öffentlichen Profilen. Die Schule legt fest, was künftig erlaubt ist und was nicht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Auskunftsersuchen sind zu prüfen und fristgerecht zu beantworten. Berechtigte erfahren, welche Daten gespeichert sind, woher sie stammen und wem sie übermittelt wurden. Identitätsprüfung und Dokumentation gehören dazu. Zum Nachlesen: DSGVO Art. 15.",
+    "hauptquelle": "DSGVO Art. 15",
+    "id": "B34-L2-007",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Berechtigung und Identität der anfragenden Person prüfen.",
+      "Mitzuteilen, welche Daten zu welchem Zweck gespeichert sind.",
+      "Empfänger früherer Weitergaben und Speicherdauer nennen.",
+      "Anfragen wochenlang liegen lassen, bis sie vergessen sind.",
+      "Auskunft an unbeteiligte Dritte statt an die Berechtigten geben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Prüfung der Berechtigung schützt vor Falschauskunft.",
+      "Richtig: Umfang und Zweck gehören zum Kern der Auskunft.",
+      "Richtig: Herkunft, Empfänger und Dauer sind mitzuteilen.",
+      "Falsch: Liegenlassen verletzt das Auskunftsrecht.",
+      "Falsch: Auskunft steht nur den Berechtigten zu."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Erziehungsberechtigter verlangt schriftlich Auskunft über alle in der Schule gespeicherten Daten seines Kindes und deren Weitergabe. Das Sekretariat erstellt eine Checkliste für die korrekte Bearbeitung solcher Ersuchen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Datensicherheit ist Alltagspflicht jeder Lehrperson. Geräte sperren, Passwörter schützen, Ausdrucke wegsperren und fremde Einsicht verhindern. Offen liegen gelassene Daten sind bereits ein Verstoß. Zum Nachlesen: DSGVO Art. 32.",
+    "hauptquelle": "DSGVO Art. 32",
+    "id": "B34-L2-008",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Laptop und Handy bei Abwesenheit sperren.",
+      "Ausdrucke mit Noten und Gutachten unter Verschluss halten.",
+      "Passwörter geheim halten und nicht weitergeben.",
+      "Entsperrte Geräte mit Notenlisten offen am Pult liegen lassen.",
+      "Förderpläne zur Einsicht für die ganze Klasse auflegen.",
+      "Fremden Personen Einblick in Verwaltungsprogramme gewähren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sperren verhindert unbefugte Einsichtnahme.",
+      "Richtig: Sichere Verwahrung schützt Papierdaten.",
+      "Richtig: Geheimhaltung der Zugänge ist Mindestmaßnahme.",
+      "Falsch: Offen zugängliche Daten verstoßen gegen die Sicherungspflicht.",
+      "Falsch: Förderpläne sind vertraulich und nicht für Mitschüler.",
+      "Falsch: Fremde haben keinen Zugang zu Verwaltungsdaten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer Schule konnten Besucher mehrfach Notenlisten am offenen Laptop und Gutachten am Pult mitlesen. Das Team stellt eine Checkliste für den sicheren Umgang mit Geräten und Papier im Unterrichtsalltag zusammen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Nach einem Datenfehler zählen Eindämmung, Meldung und Dokumentation. Betroffene Geräte sichern, Vorfall der Direktion melden und aufarbeiten, Betroffene bei hohem Risiko informieren. Vertuschen verschlimmert die Lage. Zum Nachlesen: DSGVO Art. 33.",
+    "hauptquelle": "DSGVO Art. 33",
+    "id": "B34-L2-009",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Weitere Verbreitung stoppen, etwa durch Löschen falsch versandter Nachrichten.",
+      "Vorfall unverzüglich der Direktion und dem Datenschutzverantwortlichen melden.",
+      "Art, Umfang und Folgen des Vorfalls schriftlich dokumentieren.",
+      "Betroffene bei hohem Risiko für ihre Daten verständigen.",
+      "Den Vorfall verschweigen, solange sich niemand beschwert.",
+      "Verlorene Datenträger ignorieren, weil Suchen zu aufwendig ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eindämmung begrenzt den Schaden.",
+      "Richtig: Rasche Meldung ermöglicht fristgerechte Schritte.",
+      "Richtig: Dokumentation ist Grundlage jeder Aufarbeitung.",
+      "Richtig: Bei hohem Risiko ist Benachrichtigung geboten.",
+      "Falsch: Verschweigen verletzt Melde- und Schutzpflichten.",
+      "Falsch: Verlust ist ein meldepflichtiger Vorfall, kein Bagatellfall."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer sendet versehentlich eine Datei mit Noten und Förderbedarfen an den falschen Verteiler und verliert danach einen USB-Stick mit Klassenlisten. Die Schule prüft die Checkliste für solche Datenpannen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Gleiche Eignung, gleiche Chance: Einteilungen und Funktionen folgen sachlichen Kriterien. Geschlecht, Alter, Herkunft oder Religion dürfen keine Rolle spielen, Ausnahmen brauchen sachliche Gründe im Einzelfall. Zum Nachlesen: B-GlBG §3.",
+    "hauptquelle": "B-GlBG §3",
+    "id": "B34-L2-010",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Aufgaben nach Eignung und Belastungsgesichtspunkten verteilen.",
+      "Beliebte und unbeliebte Dienste gerecht auf alle aufteilen.",
+      "Absagen sachlich begründen statt mit Geschlecht oder Alter.",
+      "Maschinenarbeit grundsätzlich nur an Burschen und Männer vergeben.",
+      "Ältere Kollegen pauschal von Begleitungen ausschließen.",
+      "Fastenden Schülern schlechtere Rollen bei Aufführungen zuteilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sachliche Kriterien sichern Gleichbehandlung.",
+      "Richtig: Faire Lastenverteilung verhindert Benachteiligung.",
+      "Richtig: Nachvollziehbare Gründe ersetzen verbotene Merkmale.",
+      "Falsch: Zuteilung nach Geschlecht ist verbotene Diskriminierung.",
+      "Falsch: Pauschale Altersgrenzen sind unzulässig.",
+      "Falsch: Religion darf bei Zuteilungen keine Rolle spielen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Koordinator verteilt Laborstunden, Begleitungen und Rollen bei der Schulaufführung auffällig einseitig nach Geschlecht, Alter und Herkunft. Das Team erarbeitet Grundsätze für eine diskriminierungsfreie Einteilung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Belästigung erkennen heißt: auf Unerwünschtheit und Würdeverletzung achten. Entscheidend ist, ob das Verhalten unerwünscht ist und herabwürdigt oder einschüchtert, nicht ob es als Scherz gemeint war. Betroffene definieren die Grenze mit. Zum Nachlesen: B-GlBG §8.",
+    "hauptquelle": "B-GlBG §8",
+    "id": "B34-L2-011",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Unerwünschte anzügliche Bemerkungen trotz Ablehnung fortsetzen.",
+      "Herabwürdigende Gesten und Bloßstellung vor anderen.",
+      "Einschüchterung durch Androhung dienstlicher Nachteile.",
+      "Einvernehmlicher freundlicher Umgang unter Kollegen.",
+      "Sachliche dienstliche Kritik in angemessenem Ton."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fortsetzung trotz Ablehnung kennzeichnet Belästigung.",
+      "Richtig: Bloßstellung verletzt die Würde.",
+      "Richtig: Drohungen schaffen ein einschüchterndes Umfeld.",
+      "Falsch: Einvernehmlicher Umgang ist keine Belästigung.",
+      "Falsch: Sachliche Kritik in gutem Ton bleibt zulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Kollegium ist umstritten, wo lockerer Umgang aufhört und Belästigung beginnt. Eine Fortbildung erstellt eine Checkliste, welche Verhaltensweisen als Belästigung gelten und welche zum normalen Umgang gehören.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Zeugen dürfen nicht schweigen, sondern müssen unterstützen und melden. Richtig sind: Betroffene ernst nehmen, Vorfälle festhalten und an die zuständige Stelle weitergeben. Mitmachen oder Decken macht mitschuldig. Zum Nachlesen: LDG §29a.",
+    "hauptquelle": "LDG §29a",
+    "id": "B34-L2-012",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Betroffene ernst nehmen und Unterstützung anbieten.",
+      "Eigene Beobachtungen mit Datum und Fakten festhalten.",
+      "Vorfall an Direktion oder Vertrauensstelle weiterleiten.",
+      "Bei Schikanen mitlachen, um sich nicht unbeliebt zu machen.",
+      "Betroffene zum Schweigen drängen, um das Team zu schonen.",
+      "Beweismittel beiseiteschaffen und Absprachen treffen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ernstnehmen und Beistehen durchbricht die Ausgrenzung.",
+      "Richtig: Faktennotizen sichern die Klärung.",
+      "Richtig: Meldung an Zuständige ist geboten.",
+      "Falsch: Mitlachen verstärkt die Würdeverletzung.",
+      "Falsch: Schweigedruck schützt Täter, nicht Betroffene.",
+      "Falsch: Verdunkelung behindert das Verfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mehrere Kollegen beobachten seit Wochen, wie ein Teammitglied ausgegrenzt und vor der Klasse bloßgestellt wird. Sie fragen sich, was von unbeteiligten Zeugen erwartet wird und welches Verhalten ausscheidet.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Konferenzen und Beratungsgremien bleiben vertraulich. Was über einzelne Schüler oder Kollegen beraten wird, darf den Raum nicht verlassen. Austausch mit Zuständigen ja, Tratsch im Umfeld nein. Zum Nachlesen: LDG §31.",
+    "hauptquelle": "LDG §31",
+    "id": "B34-L2-013",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Inhalte über einzelne Schüler aus Beratungen vertraulich behandeln.",
+      "Austausch nur mit den für den Fall zuständigen Personen führen.",
+      "Protokolle und Unterlagen sicher aufbewahren und nicht weitergeben.",
+      "Abstimmungsverhalten einzelner Kollegen nach außen weitererzählen.",
+      "Förderbedarfe einzelner Kinder im Elternchat ausbreiten.",
+      "Gutachten kopieren und an Bekannte verteilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beratungsinhalte über Einzelne sind geheim zu halten.",
+      "Richtig: Begrenzter Empfängerkreis wahrt die Verschwiegenheit.",
+      "Richtig: Sichere Verwahrung verhindert unbefugte Einsicht.",
+      "Falsch: Interne Beratung bleibt intern.",
+      "Falsch: Förderbedarfe gehören nicht in öffentliche Chats.",
+      "Falsch: Weitergabe von Gutachten an Unbefugte ist pflichtwidrig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer Klassenkonferenz über Fördermaßnahmen und disziplinäre Vorfälle sickern Details zu Eltern und Nachbarschaft durch. Die Schule klärt, was aus vertraulichen Beratungen weitergegeben werden darf und was nicht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Elternabende und Sprechstunden brauchen Diskretion. Persönliche Angelegenheiten einzelner Kinder gehören ins Einzelgespräch, nicht vor die versammelte Runde. Aushänge und Listen sind zu anonymisieren. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "B34-L2-014",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Einzelfälle nur im vertraulichen Einzelgespräch besprechen.",
+      "Aushänge und Listen ohne sensible Details gestalten.",
+      "Anwesenheits- und Notenlisten nicht öffentlich aushängen.",
+      "Lernschwächen einzelner Kinder vor allen Eltern erörtern.",
+      "Noten aller Schüler laut in der Klasse verlesen und aushängen.",
+      "Familienprobleme eines Kindes als Beispiel vor der Runde schildern."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einzelgespräche wahren Vertraulichkeit und Würde.",
+      "Richtig: Sparsame Aushänge schützen Daten.",
+      "Richtig: Öffentliche Listen verletzen Vertraulichkeit.",
+      "Falsch: Bloßstellung vor anderen ist würdelos und unzulässig.",
+      "Falsch: Noten sind keine öffentlichen Informationen.",
+      "Falsch: Familienumstände sind keine Anschauungsbeispiele."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Bei einem Elternabend bespricht eine Lehrperson Lernschwächen und Familienprobleme einzelner Kinder vor allen Anwesenden und hängt danach die Notenliste ans schwarze Brett. Die Schule legt diskrete Standards fest.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Barrierefreiheit und Einbeziehung sind Dienstpflicht. Veranstaltungen sind so zu planen, dass alle teilnehmen können, Hilfen sind zu organisieren und Alternativen anzubieten. Bequemlichkeit ist kein Ausschlussgrund. Zum Nachlesen: B-GlBG §7.",
+    "hauptquelle": "B-GlBG §7",
+    "id": "B34-L2-015",
+    "level": "L2",
+    "modul_id": "B34",
+    "optionen": [
+      "Veranstaltungsorte auf Zugänglichkeit prüfen und barrierearme Wege wählen.",
+      "Notwendige Hilfen und Begleitung rechtzeitig organisieren.",
+      "Gleichwertige Alternativen anbieten, wenn einzelne Programmpunkte nicht zugänglich sind.",
+      "Betroffene pauschal von der Teilnahme ausschließen.",
+      "Mehrbedarf als alleinigen Grund für Ausschluss nennen.",
+      "Teilnahme von einer Abstimmung der Klasse abhängig machen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zugängliche Planung sichert Teilhabe.",
+      "Richtig: Organisierte Hilfen sind zumutbare Vorkehrungen.",
+      "Richtig: Alternativen verhindern Ausgrenzung.",
+      "Falsch: Pauschalausschluss wegen Behinderung ist verboten.",
+      "Falsch: Aufwand allein rechtfertigt keinen Ausschluss.",
+      "Falsch: Über Teilhaberechte wird nicht abgestimmt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für die kommende Projektwoche meldet sich ein Schüler mit Gehbehinderung an. Das Organisationsteam erstellt eine Checkliste, wie die Woche so geplant wird, dass er voll teilnehmen kann und niemand ausgeschlossen wird.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

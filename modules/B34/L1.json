@@ -1,1 +1,427 @@
-[]
+[
+  {
+    "aufloesung": "Moser muss die Einteilung sofort ändern und alle gleich behandeln. Im Dienst darf niemand wegen des Geschlechts benachteiligt werden, auch nicht bei der Verteilung von Aufgaben und Funktionen. Tradition oder Bequemlichkeit rechtfertigen das nicht. Zum Nachlesen: B-GlBG §3.",
+    "hauptquelle": "B-GlBG §3",
+    "id": "B34-L1-001",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Die Einteilung ist zulässig, weil sie sich in der Praxis bewährt hat.",
+      "Moser benachteiligt wegen des Geschlechts und muss die Aufgaben gerecht verteilen.",
+      "Das wäre erst ein Problem, wenn sich jemand schriftlich beschwert.",
+      "Bei freiwilligen Zusatzaufgaben gilt das Benachteiligungsverbot nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bewährte Praxis rechtfertigt keine Benachteiligung wegen des Geschlechts.",
+      "Richtig: Unterschiedliche Zuteilung nach Geschlecht ist verbotene Diskriminierung.",
+      "Falsch: Das Verbot gilt unabhängig davon, ob sich jemand beschwert.",
+      "Falsch: Auch bei Zusatzaufgaben darf das Geschlecht keine Rolle spielen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Fachkoordinator Moser vergibt die beliebten Labor- und EDV-Stunden grundsätzlich nur an männliche Kollegen, Kolleginnen bekommen Vertretungen und Aufräumdienste. Auf Nachfrage sagt er, Männer könnten mit der Technik einfach besser umgehen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Schulleitung muss die Bewerbung nach Eignung beurteilen. Niemand darf wegen des Alters benachteiligt werden, etwa durch pauschale Altersgrenzen bei Bewerbungen oder Zuteilungen. Entscheidend sind Eignung und Leistung. Zum Nachlesen: B-GlBG §4.",
+    "hauptquelle": "B-GlBG §4",
+    "id": "B34-L1-002",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Ältere Bewerber pauschal auszuschließen ist eine verbotene Benachteiligung wegen des Alters.",
+      "Bei Klassenfahrten mit viel Bewegung sind Altersgrenzen immer zulässig.",
+      "Das Team darf abstimmen, ob es lieber junge Kollegen aufnimmt.",
+      "Wer kurz vor der Pension steht, hat keinen Anspruch auf gleiche Behandlung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Pauschale Altersgrenzen verstoßen gegen das Benachteiligungsverbot.",
+      "Falsch: Auch dort braucht es sachliche Gründe im Einzelfall, keine Pauschalregel.",
+      "Falsch: Über Diskriminierung lässt sich nicht per Abstimmung entscheiden.",
+      "Falsch: Das Verbot schützt ältere Bedienstete genauso wie jüngere."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für die Begleitung der Skikurswoche sucht die Direktion eine Begleitlehrperson. Die engagierte Bewerbung eines 61-jährigen Kollegen wird ungeprüft abgelehnt mit der Begründung, man wolle nur Leute unter vierzig mitnehmen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Hofer muss die Schülerin wie alle anderen behandeln. Weder Herkunft noch Sprache oder Hautfarbe dürfen im dienstlichen Umgang zu Benachteiligungen führen. Auch gut gemeinte Sonderregeln sind verboten, wenn sie ausgrenzen. Zum Nachlesen: B-GlBG §5.",
+    "hauptquelle": "B-GlBG §5",
+    "id": "B34-L1-003",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Herkunft darf bei der Klasseneinteilung als Sortierkriterium verwendet werden.",
+      "Hofer benachteiligt wegen der Herkunft und muss die Ausgrenzung beenden.",
+      "Solange die Noten stimmen, ist eine getrennte Behandlung unproblematisch.",
+      "Die Klasse darf mehrheitlich über getrennte Gruppen entscheiden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Herkunft und Sprache sind keine zulässigen Sortierkriterien.",
+      "Richtig: Ausgrenzung wegen Herkunft verstößt gegen das Gleichbehandlungsgebot.",
+      "Falsch: Gute Noten heilen eine diskriminierende Behandlung nicht.",
+      "Falsch: Mehrheitsbeschlüsse rechtfertigen keine Diskriminierung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Hofer setzt eine Schülerin mit anderer Muttersprache dauerhaft allein in die letzte Reihe und schließt sie von Gruppenarbeiten aus, weil die Verständigung angeblich zu mühsam sei. Die Schülerin zieht sich immer mehr zurück.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Egger muss den Schüler einbeziehen und angemessene Vorkehrungen treffen. Eine Benachteiligung wegen einer Behinderung ist verboten, erst recht aus reiner Bequemlichkeit bei der Planung. Barrieren sind soweit zumutbar zu beseitigen. Zum Nachlesen: B-GlBG §7.",
+    "hauptquelle": "B-GlBG §7",
+    "id": "B34-L1-004",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Der Ausschluss ist zulässig, weil die Planung sonst zu aufwendig wäre.",
+      "Bei freiwilligen Schulveranstaltungen gilt das Verbot nicht.",
+      "Egger benachteiligt wegen der Behinderung und muss den Schüler einbeziehen.",
+      "Die Eltern der anderen Kinder dürfen über die Teilnahme mitentscheiden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Planungsaufwand allein rechtfertigt keinen Ausschluss wegen Behinderung.",
+      "Falsch: Das Verbot gilt auch bei Ausflügen und Schulveranstaltungen.",
+      "Richtig: Der Ausschluss trotz möglicher Vorkehrungen ist verbotene Diskriminierung.",
+      "Falsch: Dritte entscheiden nicht über die Gleichbehandlung eines Kindes."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Egger streicht einen Schüler mit Gehbehinderung von der Projektwoche, obwohl der Veranstaltungsort stufenlos erreichbar wäre. Er will sich Absprachen mit Busunternehmen und Herberge ersparen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Wieser muss die Herabsetzung sofort beenden. Niemand darf im Dienst wegen Religion oder Weltanschauung benachteiligt oder der Lächerlichkeit preisgegeben werden. Humor oder Unwissen entschuldigen das nicht. Zum Nachlesen: B-GlBG §6.",
+    "hauptquelle": "B-GlBG §6",
+    "id": "B34-L1-005",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Spott über religiöse Bräuche ist erlaubt, wenn die Klasse darüber lacht.",
+      "Religion ist Privatsache, deshalb greift das Verbot in der Schule nicht.",
+      "Wieser benachteiligt wegen der Religion und muss damit sofort aufhören.",
+      "Fastende Schüler dürfen strenger benotet werden, weil sie müder wirken."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gelächter der Klasse rechtfertigt keine Herabsetzung wegen Glaubens.",
+      "Falsch: Das Verbot gilt gerade auch im Unterricht und im Umgang mit Schülern.",
+      "Richtig: Benachteiligung und Bloßstellung wegen Religion sind verboten.",
+      "Falsch: Die Benotung darf nicht von der Religionsausübung abhängen."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Professor Wieser zieht im Unterricht wiederholt eine Schülerin wegen ihres Kopftuchs auf und verlangt, dass sie ihre religiösen Bräuche vor der Klasse rechtfertigt. Die Schülerin meldet sich kaum mehr.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Verhalten ist zu stoppen und der Vorfall zu melden. Unerwünschte anzügliche Bemerkungen und Berührungen, die die Würde verletzen, sind Belästigung und im Dienst verboten. Wegschauen oder Verharmlosen ist pflichtwidrig. Zum Nachlesen: B-GlBG §8.",
+    "hauptquelle": "B-GlBG §8",
+    "id": "B34-L1-006",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Solche Sprüche gehören zum lockeren Ton im Konferenzzimmer und sind hinzunehmen.",
+      "Belästigung liegt nur vor, wenn jemand körperlich verletzt wird.",
+      "Das ist Belästigung und muss unterbunden und gemeldet werden.",
+      "Betroffene müssen sich zuerst allein wehren, bevor die Dienststelle handelt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Lockerer Ton entschuldigt keine würdelverletzenden Anzüglichkeiten.",
+      "Falsch: Auch Worte und Gesten können die Würde schwer verletzen.",
+      "Richtig: Unerwünschtes herabwürdigendes Verhalten ist Belästigung und zu stoppen.",
+      "Falsch: Die Dienststelle muss von sich aus einschreiten, nicht erst nach Selbstwehr."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Kollege macht gegenüber einer jungen Kollegin ständig anzügliche Witze über ihr Aussehen und berührt sie trotz deutlicher Ablehnung am Arm. Sie traut sich kaum mehr in die Pause.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Direktion muss sofort einschreiten und den Vorfall klären. Wer systematisch ausgegrenzt, bloßgestellt oder schikaniert wird, erleidet eine Würdeverletzung, die Vorgesetzte nicht dulden dürfen. Zusehen genügt nicht. Zum Nachlesen: LDG §29a.",
+    "hauptquelle": "LDG §29a",
+    "id": "B34-L1-007",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Das ist ein normaler Einstand, den jede neue Kraft aushalten muss.",
+      "Solange nur Worte fallen, liegt kein pflichtwidriges Verhalten vor.",
+      "Die Schulleitung muss einschreiten, das systematische Ausgrenzen ist verboten.",
+      "Die Direktion darf sich in Konflikte unter Kollegen nicht einmischen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schikane wird nicht dadurch zulässig, dass sie als Einstand gilt.",
+      "Falsch: Auch seelische Herabsetzung und Ausgrenzung verletzen die Würde.",
+      "Richtig: Vorgesetzte müssen achtungsvolle Zusammenarbeit sichern und eingreifen.",
+      "Falsch: Gerade bei Konflikten im Team ist Einschreiten gefordert."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Seit Monaten wird eine neue Kollegin aus allen Nachrichtenverteilern gelöscht, in Besprechungen ausgelacht und vor der Klasse bloßgestellt. Die Schulleitung weiß davon, unternimmt aber nichts.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Aigner darf wegen ihrer Beschwerde nicht benachteiligt werden. Wer sich über Diskriminierung oder Belästigung beschwert, steht unter besonderem Schutz vor Rachemaßnahmen wie schlechteren Einteilungen. Solche Nachteile sind verboten. Zum Nachlesen: B-GlBG §9.",
+    "hauptquelle": "B-GlBG §9",
+    "id": "B34-L1-008",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Die schlechtere Einteilung ist zulässig, weil Beschwerden das Klima belasten.",
+      "Aigner wurde wegen ihrer Beschwerde benachteiligt, das ist verboten.",
+      "Wer sich beschwert, muss mit Nachteilen rechnen und sie hinnehmen.",
+      "Erst nach einem Gerichtsurteil gilt der Schutz vor Benachteiligung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Belastetes Klima rechtfertigt keine Rachemaßnahme nach einer Beschwerde.",
+      "Richtig: Nachteile als Reaktion auf eine Beschwerde sind verbotene Vergeltung.",
+      "Falsch: Der Schutz greift gerade, damit sich Betroffene ohne Angst melden.",
+      "Falsch: Der Schutz besteht ab der Beschwerde, nicht erst nach einem Urteil."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Aigner meldet herabwürdigende Sprüche eines Vorgesetzten. Kurz danach verliert sie ohne sachlichen Grund ihre Klassenvorstandsfunktion und bekommt nur noch unbeliebte Vertretungsstunden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Gruber darf die Daten nur für den schulischen Zweck verwenden, für den sie anvertraut wurden. Personenbezogene Daten von Schülern sind zweckgebunden und rechtmäßig zu verarbeiten, private Nutzung ist untersagt. Vertrauensbruch schadet der ganzen Schule. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "B34-L1-009",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Klassenlisten dürfen privat für Werbung genutzt werden, solange niemand klagt.",
+      "Gruber darf Schülerdaten nur für schulische Zwecke verwenden, private Nutzung ist verboten.",
+      "Solange die Daten nur am privaten Handy bleiben, ist die Nutzung egal.",
+      "Telefonnummern aus der Schulverwaltung sind frei verfügbares Allgemeingut."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schulische Kontaktdaten sind kein Werbeverteiler für private Zwecke.",
+      "Richtig: Zweckbindung und Rechtmäßigkeit verbieten private Verwendung.",
+      "Falsch: Auch die Speicherung am privaten Handy ist eine zweckwidrige Verarbeitung.",
+      "Falsch: Verwaltungsdaten bleiben geschützte Daten und werden nicht Allgemeingut."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber kopiert Telefonnummern und Adressen aus der Klassenliste auf sein privates Handy und wirbt per Nachricht für sein privates Nachhilfeangebot. Einige Eltern beschweren sich über die unerwünschten Nachrichten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Berger darf nur die Daten erheben, die für die Aufgabe wirklich nötig sind. Es gilt der Grundsatz der Sparsamkeit: so wenige Daten wie möglich, so viele wie nötig. Neugier oder Vorsicht rechtfertigen keine Sammelwut. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "B34-L1-010",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Berger verletzt den Grundsatz der Sparsamkeit und muss die Übung auf das Nötige beschränken.",
+      "Mehr Daten sind immer besser, Vorratsspeicherung ist empfohlen.",
+      "Gesundheitsfragen an alle sind zulässig, wenn sie nur freiwillig beantwortet werden sollen.",
+      "Einmal erhobene Daten dürfen für alle künftigen Zwecke aufbewahrt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Datenminimierung verlangt Beschränkung auf das Erforderliche.",
+      "Falsch: Vorratsspeicherung ohne Zweck verstößt gegen die Sparsamkeit.",
+      "Falsch: Auch scheinbar freiwillige Gesundheitsfragen an alle sind zu weitgehend.",
+      "Falsch: Aufbewahrung braucht einen konkreten Zweck und eine Frist."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Berger lässt alle Eltern zu Schulbeginn einen langen Fragebogen ausfüllen mit Beruf, Einkommen, Krankheiten und Familienverhältnissen, obwohl sie nur Notfallkontakte für Ausflüge braucht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Steiner muss die Verschwiegenheit wahren und darf dienstliche Geheimnisse nicht ausplaudern. Alles, was Lehrpersonen in Ausübung des Dienstes anvertraut wird, bleibt vertraulich. Das gilt auch am Stammtisch und in der Familie. Zum Nachlesen: LDG §31.",
+    "hauptquelle": "LDG §31",
+    "id": "B34-L1-011",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Im Freundeskreis darf man über dienstliche Fälle offen sprechen.",
+      "Steiner verletzt die Verschwiegenheitspflicht und muss damit aufhören.",
+      "Solange keine Namen genannt werden, ist das Ausplaudern erlaubt.",
+      "Die eigene Familie zählt nicht und darf alles erfahren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch im privaten Umfeld bleiben dienstliche Geheimnisse geschützt.",
+      "Richtig: Das Ausplaudern anvertrauter dienstlicher Angelegenheiten ist pflichtwidrig.",
+      "Falsch: Auch ohne Namen sind Betroffene oft erkennbar, das Risiko zählt.",
+      "Falsch: Die Pflicht gilt gegenüber jedermann außerhalb des Dienstes."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Steiner erzählt abends im Wirtshaus ausführlich über Lernschwierigkeiten, Familienprobleme und Konferenzergebnisse einzelner Schüler. Am nächsten Tag wissen es bereits andere Eltern.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Pichler darf keine Auskünfte an Unbefugte geben. Noten, Gutachten und Familienumstände sind vertraulich und nur Berechtigten wie den Erziehungsberechtigten mitzuteilen. Gefälligkeit wiegt dabei nichts. Zum Nachlesen: LDG §31.",
+    "hauptquelle": "LDG §31",
+    "id": "B34-L1-012",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Pichler darf aus Gefälligkeit Auskunft geben, wenn der Nachbar nett fragt.",
+      "Noten und Gutachten dürfen nur an Berechtigte weitergegeben werden, nicht an Nachbarn.",
+      "Solange die Auskunft am Telefon erfolgt, ist sie unproblematisch.",
+      "Was in der Klasse ohnehin jeder weiß, darf auch an Außenstehende erzählt werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gefälligkeit hebt die Verschwiegenheitspflicht nicht auf.",
+      "Richtig: Auskünfte über Schüler stehen nur Berechtigten zu.",
+      "Falsch: Der Übermittlungsweg ändert nichts an der Unbefugnis des Empfängers.",
+      "Falsch: Gerüchte in der Klasse machen Daten nicht zur freien Auskunft."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein neugieriger Nachbar ruft Lehrer Pichler an und fragt nach Noten und familiären Schwierigkeiten eines Schülers. Pichler gibt bereitwillig Auskunft, weil er den Nachbarn gut kennt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Kaufmann darf Fotos nur mit Einwilligung oder klarer Rechtsgrundlage veröffentlichen. Bilder von Kindern sind besonders sensibel und gehören nicht ohne Zustimmung ins Netz. Ein Gruppenfoto ersetzt keine Einwilligung. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "B34-L1-013",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Fotos dürfen ohne Weiteres auf privaten Konten veröffentlicht werden.",
+      "Kaufmann braucht für die Veröffentlichung eine Einwilligung oder Rechtsgrundlage.",
+      "Wer nicht widerspricht, stimmt automatisch einer Veröffentlichung zu.",
+      "Bei Klassenfotos entfällt der Schutz, weil viele Personen abgebildet sind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Private Konten machen die Veröffentlichung nicht zulässig.",
+      "Richtig: Ohne Einwilligung oder Grundlage ist die Veröffentlichung unzulässig.",
+      "Falsch: Schweigen gilt nicht als Zustimmung zur Veröffentlichung.",
+      "Falsch: Auch Gruppenbilder brauchen eine Grundlage für die Veröffentlichung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrer Kaufmann stellt Fotos vom Wandertag mit klar erkennbaren Gesichtern auf sein öffentlich einsehbares Profil in einem sozialen Netzwerk. Mehrere Eltern hatten einer Veröffentlichung nie zugestimmt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Moser muss die Daten schützen und darf den Zugang nicht offen lassen. Personenbezogene Daten sind durch passende Maßnahmen vor Einsicht Unbefugter zu sichern, auch im hektischen Schulalltag. Bequemlichkeit entschuldigt das nicht. Zum Nachlesen: DSGVO Art. 32.",
+    "hauptquelle": "DSGVO Art. 32",
+    "id": "B34-L1-014",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Offene Laptops mit Schülerdaten in der Klasse sind ein akzeptables Restrisiko.",
+      "Moser muss den Zugang sperren und Ausdrucke sicher verwahren.",
+      "Solange nichts abhandenkommt, ist die offene Aufbewahrung zulässig.",
+      "Schüler dürfen Förderpläne von Mitschülern einsehen, das fördert Offenheit."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Offen zugängliche Daten verstoßen gegen die Sicherungspflicht.",
+      "Richtig: Sperren und sicheres Verwahren sind die verlangte Mindestvorsorge.",
+      "Falsch: Es kommt auf die Vorsorge an, nicht erst auf den eingetretenen Schaden.",
+      "Falsch: Förderpläne sind vertraulich und nicht für Mitschüler bestimmt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Moser lässt in der Pause regelmäßig ihren entsperrten Laptop mit Notenlisten und Förderplänen sowie ausgedruckte Gutachten offen auf dem Pult liegen. Schüler und Besucher können alles mitlesen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Direktion muss das Ersuchen prüfen und dem Berechtigten Auskunft geben. Betroffene haben das Recht zu erfahren, welche Daten über sie gespeichert sind und wozu sie dienen. Verzögern oder Abwimmeln ist unzulässig. Zum Nachlesen: DSGVO Art. 15.",
+    "hauptquelle": "DSGVO Art. 15",
+    "id": "B34-L1-015",
+    "level": "L1",
+    "modul_id": "B34",
+    "optionen": [
+      "Das Ersuchen darf ignoriert werden, weil es Mehrarbeit verursacht.",
+      "Der Vater muss zuerst einen Anwalt einschalten, sonst gibt es keine Auskunft.",
+      "Die Schule muss prüfen und dem Berechtigten Auskunft über gespeicherte Daten geben.",
+      "Auskunft gibt es nur, wenn die Direktion den Vater für vertrauenswürdig hält."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mehrarbeit hebt das Auskunftsrecht nicht auf.",
+      "Falsch: Das Recht steht den Betroffenen unmittelbar zu, ohne Anwaltszwang.",
+      "Richtig: Berechtigte Ersuchen sind zu prüfen und zu beantworten.",
+      "Falsch: Auf die Einschätzung der Person kommt es nicht an."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Vater bittet schriftlich um Auskunft, welche Daten über seinen Sohn in der Schulverwaltung gespeichert sind und an wen sie weitergegeben wurden. Das Sekretariat lässt die Anfrage wochenlang unbeantwortet liegen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
