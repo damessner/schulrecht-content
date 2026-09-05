@@ -1,1 +1,267 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §58 Abs.1",
+    "id": "B27-L4-001",
+    "level": "L4",
+    "modul_id": "B27",
+    "optionen": [
+      "Sie behält während der Karenz die vollen Bezüge, weil jede Beurlaubung bezahlt bleibt.",
+      "Ihre Bezüge entfallen während der Karenz und nur Sonderurlaub wäre voll bezahlt.",
+      "Die Bezüge werden während der Karenz automatisch halbiert und später nachgezahlt.",
+      "Karenz und Sonderurlaub sind besoldungsrechtlich völlig gleichgestellt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Karenz bedeutet gerade Urlaub gegen Entfall der Bezüge.",
+      "Richtig: Karenz ist unbezahlt, volle Bezüge gibt es nur beim bewilligten Sonderurlaub.",
+      "Falsch: Eine Halbierung mit Nachzahlung ist für die Karenz nicht vorgesehen.",
+      "Falsch: Beide unterscheiden sich wesentlich gerade bei den Bezügen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Kaufmann lässt sich für zwei Jahre unbezahlt vom Dienst freistellen, um im Ausland zu arbeiten, und rechnet fest mit weiterlaufendem vollem Gehalt plus Vorrückung wie bisher. Als die Bezüge ausbleiben, beantragt sie rückwirkend die Umdeutung in Sonderurlaub und beruft sich auf ihren guten Anlass. Die Gehaltsstelle prüft Karenzfolgen und Besoldung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §57 Abs.2"
+    ],
+    "aufloesung": "Kaufmann geht fehl, denn ihre Freistellung ist eine unbezahlte Karenz ohne Bezüge und ohne automatische Dienstzeitwirkung. Volle Bezüge wären nur bei bewilligtem Sonderurlaub geblieben, eine Umdeutung im Nachhinein gibt es nicht. Zum Nachlesen: LDG §58 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §58a Abs.2",
+    "id": "B27-L4-002",
+    "level": "L4",
+    "modul_id": "B27",
+    "optionen": [
+      "Alle vier Jahre zählen automatisch voll für Vorrückung und Ruhegenuss ohne Deckel und Antrag.",
+      "Für die Vorrückung zählen solche Karenzen zusammen höchstens fünf Jahre und die Ruhegenussanrechnung braucht einen Antrag.",
+      "Ausbildungskarenzen sind unbegrenzt anrechenbar, nur Auslandskarenzen sind gedeckelt.",
+      "Ein Antrag ist überflüssig, weil die Personalstelle alles von selbst erkennt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Weder Vorrückung noch Ruhegenuss laufen bei Karenz automatisch und unbegrenzt.",
+      "Richtig: Der Fünfjahresdeckel und das Antragserfordernis begrenzen die Anrechnung.",
+      "Falsch: Auch Ausbildungskarenzen sind mit höchstens drei Jahren gedeckelt.",
+      "Falsch: Ohne Antrag gibt es keine Ruhegenussanrechnung für diese Karenzen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Langer war drei Jahre für eine dienstliche Zusatzausbildung und danach ein weiteres Jahr für eine Einrichtung im Ausland in Karenz. Nun verlangt er die volle automatische Anrechnung aller vier Jahre für Vorrückung und Pension ohne eigenen Antrag und plant bereits die nächste mehrjährige Karenz im Vertrauen auf weitere Vollanrechnung. Die Personalstelle prüft Deckel und Antragserfordernis.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Langer irrt über den Automatismus, denn förderliche Karenzen sind für die Vorrückung auf fünf Jahre gedeckelt und brauchen für den Ruhegenuss einen Antrag. Seine vier Jahre passen noch in den Deckel, weitere Jahre liefen ins Leere. Zum Nachlesen: LDG §58a Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §58b Abs.1",
+    "id": "B27-L4-003",
+    "level": "L4",
+    "modul_id": "B27",
+    "optionen": [
+      "Ihr bisheriger Arbeitsplatz mit Klasse und Stundenplan bleibt unangetastet für sie reserviert.",
+      "Mit der langen Karenz ist grundsätzlich die Abberufung vom Arbeitsplatz verbunden und dieselbe Klasse ist nicht garantiert.",
+      "Eine Abberufung ist nur mit ihrer schriftlichen Zustimmung möglich.",
+      "Nach jeder Karenz besteht Anspruch auf einen besseren Arbeitsplatz als Ausgleich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Lange Karenz löst grundsätzlich die Abberufung vom bisherigen Arbeitsplatz aus.",
+      "Richtig: Über sechs Monate Karenz kosten grundsätzlich den bisherigen Platz, nur Schutz-Karenz schützt.",
+      "Falsch: Die Abberufung tritt kraft Regelung ein und braucht keine Zustimmung.",
+      "Falsch: Einen Anspruch auf Aufstieg als Karenzausgleich gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Volksschullehrerin Mayer tritt eine neunmonatige unbezahlte Auszeit für private Pläne an und verlangt von der Direktion die schriftliche Garantie, dass ihre Klasse, ihr Stundenplan und ihr Arbeitszimmer inzwischen von niemandem angerührt werden. Nach der Rückkehr will sie nahtlos dort weiterarbeiten und beruft sich auf ein Rückkehrrecht wie nach der Geburt eines Kindes. Die Direktion prüft Arbeitsplatzschicksal und Rückkehrrecht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §58b Abs.2"
+    ],
+    "aufloesung": "Mayer hat keinen Anspruch auf Einfrieren ihres Platzes, denn die lange private Karenz löst grundsätzlich die Abberufung aus. Ein geschütztes Rückkehrrecht an die Schule gilt nur nach Schutz-Karenz wegen Mutterschutz oder Väterkarenz. Zum Nachlesen: LDG §58b Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §58c Abs.4",
+    "id": "B27-L4-004",
+    "level": "L4",
+    "modul_id": "B27",
+    "optionen": [
+      "Die Meldung ist entbehrlich, weil die Behörde den Wegfall von selbst bemerkt.",
+      "Sie muss den Wegfall innerhalb von zwei Wochen melden und die Ruhegenussanrechnung endet mit dem Wegfallmonat.",
+      "Es genügt eine beiläufige Mitteilung ein halbes Jahr später beim nächsten Kontakt.",
+      "Die Karenz läuft nach Wegfall des Grundes einfach als bezahlter Sonderurlaub weiter."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Wegfall der Karenzvoraussetzungen ist ausdrücklich und rasch zu melden.",
+      "Richtig: Zweiwochenmeldung und Ende der Ruhegenusszeit im Wegfallmonat sichern das System ab.",
+      "Falsch: Verspätete beiläufige Hinweise wahren die Zweiwochenfrist nicht.",
+      "Falsch: Ohne Grund keine Karenz und schon gar keine Umwandlung in bezahlten Urlaub."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Novak pflegt in unbezahlter Pflegekarenz seine Mutter mit hohem Pflegebedarf, die zugleich seine ruhegenussfähige Dienstzeit sichert. Als die Mutter ins Heim übersiedelt und die häusliche Pflege durch ihn endet, meldet er monatelang nichts und geht weiter von der Karenz mit Pensionswirkung aus. Die Personalstelle entdeckt den Wechsel erst bei einer Kontrolle und prüft Meldepflicht und Dienstzeitfolge.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §58c Abs.6"
+    ],
+    "aufloesung": "Novak verletzt die Meldepflicht, denn der Wegfall der Pflegevoraussetzungen ist binnen zwei Wochen zu melden. Die Berücksichtigung als Ruhegenusszeit endet mit dem Monat des Wegfalls. Zum Nachlesen: LDG §58c Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §58a Abs.1",
+    "id": "B27-L4-005",
+    "level": "L4",
+    "modul_id": "B27",
+    "optionen": [
+      "Während der Karenz entfallen die Bezüge und die Zeit bleibt für zeitabhängige Rechte grundsätzlich unberücksichtigt.",
+      "Eine Vorrückungsanrechnung gibt es nur für bestimmte förderliche Karenzen und nur bis zum gesetzlichen Höchstausmaß.",
+      "Die Anrechnung als Ruhegenusszeit für diese Karenzen braucht einen eigenen Antrag.",
+      "Jede private Karenz zählt automatisch voll für Vorrückung, Besoldungsdienstalter und Pension.",
+      "Bezüge laufen in der Karenz unverändert weiter wie im aktiven Dienst.",
+      "Ohne Antrag rechnet die Behörde jede Karenz von selbst voll an."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bezügeentfall und grundsätzliches Ausblenden prägen die Karenz besoldungsrechtlich.",
+      "Richtig: Nur förderliche Tatbestände wie Ausbildung oder Auslandstätigkeit sind gedeckelt anrechenbar.",
+      "Richtig: Die Ruhegenussanrechnung setzt einen Antrag der Lehrkraft voraus.",
+      "Falsch: Private Karenzen ohne Fördertatbestand bleiben für Vorrückung und Dienstalter außen vor.",
+      "Falsch: Gerade der Bezügeentfall unterscheidet die Karenz vom Sonderurlaub.",
+      "Falsch: Ohne Antrag gibt es keine Anrechnung als Ruhegenusszeit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule plant ein Kollege eine zweijährige private Auslandskarenz und rechnet mit vollem Gehalt, lückenloser Vorrückung und automatischer Pensionsanrechnung. Die Personalvertretung legt ihm eine Liste mit sechs Aussagen zu Bezügen, Vorrückung und Ruhegenuss vor und bittet um Prüfung. Wähle alle Aussagen, die die Karenzfolgen richtig beschreiben.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58 Abs.1",
+      "LDG §58a Abs.3"
+    ],
+    "aufloesung": "Der Plan ist besoldungsrechtlich eine Nullrunde mit Bezügeentfall und ohne automatische Dienstzeitwirkung. Nur förderliche Karenzen zählen gedeckelt für die Vorrückung und brauchen für den Ruhegenuss einen Antrag. Zum Nachlesen: LDG §58a Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §58d Abs.6",
+    "id": "B27-L4-006",
+    "level": "L4",
+    "modul_id": "B27",
+    "optionen": [
+      "Das Sabbatical endet bei Karenz oder gänzlicher Dienstfreistellung, sobald der Anlass einen Monat überschreitet.",
+      "Auch Suspendierung und unentschuldigte Abwesenheit über einen Monat beenden das Sabbatical.",
+      "Während der Dienstleistungszeit gilt die volle Jahresnorm und die Bezüge sind über die Rahmenzeit anteilig gekürzt.",
+      "Karenz und Sabbatical laufen problemlos nebeneinander weiter ohne jede Wechselwirkung.",
+      "Während des Freijahres darf die Lehrkraft beliebig zur Vertretung herangezogen werden.",
+      "Das Freijahr darf in kleine Teile zerstückelt über viele Jahre verteilt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Längere Karenz sprengt das Sabbatical und beendet das Modell.",
+      "Richtig: Auch Dienstenthebung und unentschuldigtes Fehlen über einen Monat beenden es.",
+      "Richtig: Volle Leistung in der Dienstphase und gekürzte Bezüge über alles prägen das Modell.",
+      "Falsch: Karenz beendet das Sabbatical gerade und läuft nicht daneben weiter.",
+      "Falsch: Im Freijahr ist keine Heranziehung zum Dienst erlaubt.",
+      "Falsch: Das Freijahr ist ungeteilt zu verbrauchen und nicht zu zerstückeln."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS",
+      "MS"
+    ],
+    "situation": "Professorin Oswald befindet sich in der Dienstphase eines vereinbarten Sabbatical-Modells mit fünfjähriger Rahmenzeit, als sie eine einjährige unbezahlte Karenz für ein Auslandsprojekt antreten will und gleichzeitig mit einer längeren unentschuldigten Abwesenheit liebäugelt. Sie meint, Freijahr, Karenz und Bezüge liefen unabhängig nebeneinander und das Freijahr bleibe unberührt. Wähle alles, was das Schicksal von Sabbatical, Dienst und Bezügen richtig beschreibt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58 Abs.1"
+    ],
+    "aufloesung": "Oswalds Plan sprengt das Sabbatical, denn längere Karenz und längere unentschuldigte Abwesenheit beenden es. Das Modell lebt von voller Dienstleistung in der Dienstphase bei anteilig gekürzten Bezügen über die ganze Rahmenzeit. Zum Nachlesen: LDG §58d Abs.6."
+  },
+  {
+    "hauptquelle": "LDG §59 Abs.9",
+    "id": "B27-L4-007",
+    "level": "L4",
+    "modul_id": "B27",
+    "optionen": [
+      "Pflegefreistellung ist ein bezahlter Anspruch und wird in vollen Unterrichtsstunden verbraucht.",
+      "Ändert sich das Stundenausmaß im Schuljahr, wird bereits verbrauchte Pflegefreistellung anteilig umgerechnet.",
+      "Die erweiterte Freistellung für kleine oder behinderte Kinder setzt den Verbrauch des Grundkontingents voraus.",
+      "Pflegefreistellung ist wie Karenz immer unbezahlt und ohne Anspruch.",
+      "Angebrochene Minutenbruchteile verfallen ersatzlos zugunsten des Dienstgebers.",
+      "Nach Verbrauch des Kontingents füllt es sich bei jedem neuen Schnupfen von selbst wieder auf."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bezahlter Anspruch und stundenweiser Verbrauch sind das Gegenstück zur unbezahlten Karenz.",
+      "Richtig: Die Umrechnung hält das Kontingent bei Stundenänderungen gerecht und vergleichbar.",
+      "Richtig: Erst nach Verbrauch des Grundanspruchs öffnet sich die Erweiterung für die genannten Kinder.",
+      "Falsch: Pflegefreistellung ist gerade bezahlt und anspruchsgebunden, Karenz ist unbezahlt.",
+      "Falsch: Bruchteile werden auf volle Unterrichtsstunden aufgerundet und verfallen nicht.",
+      "Falsch: Ohne erweiterten Anlass füllt sich ein verbrauchtes Kontingent nicht von selbst nach."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Berufsschullehrer Petz ändert im laufenden Schuljahr sein Lehrverpflichtungsausmaß, hat bereits Pflegefreistellung für seine erkrankte Frau verbraucht und pflegt nun zusätzlich seinen schwer behinderten Sohn mit erhöhter Beihilfe. Er vergleicht bezahlte Freistellung und unbezahlte Karenz und rechnet mit Stundenverbrauch, Umrechnung und Erweiterung. Wähle alles Zutreffende zu Anspruch, Verbrauch und Besoldungswirkung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §59 Abs.4",
+      "LDG §59 Abs.8"
+    ],
+    "aufloesung": "Petz behält für die Freistellung seine Bezüge und verbraucht sie stundenweise mit Umrechnung bei Stundenänderung. Nach Verbrauch des Grundkontingents trägt ihn die Erweiterung für das behinderte Kind, anders als die unbezahlte Karenz. Zum Nachlesen: LDG §59 Abs.9."
+  },
+  {
+    "hauptquelle": "LDG §58a Abs.1",
+    "id": "B27-L4-008",
+    "level": "L4",
+    "modul_id": "B27",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Karenz bleibt grundsätzlich unberücksichtigt und wird nicht automatisch angerechnet.",
+      "Richtig erkannt: Nur bestimmte förderliche Karenzen zählen gedeckelt und teils nur auf Antrag."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Personalstelle: Eine Kollegin behauptet, jede Karenz zähle von selbst voll für Gehalt, Vorrückung und Pension, weil das Dienstverhältnis ja formal weiterbestehe.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "LDG §58 Abs.1"
+    ],
+    "aufloesung": "Die Behauptung ist falsch, denn Karenzzeit bleibt für zeitabhängige Rechte grundsätzlich unberücksichtigt. Nur förderliche Karenzen zählen gedeckelt für die Vorrückung und für den Ruhegenuss braucht es einen Antrag. Zum Nachlesen: LDG §58a Abs.1."
+  }
+]

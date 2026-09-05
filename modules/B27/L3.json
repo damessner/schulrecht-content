@@ -1,1 +1,378 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §57 Abs.3",
+    "id": "B27-L3-001",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Die Ablehnung ist rechtswidrig, weil jeder beantragte Sonderurlaub automatisch zu gewähren ist.",
+      "Die Ablehnung ist rechtmäßig, weil zwingende dienstliche Erfordernisse der Gewährung entgegenstehen.",
+      "Die Direktion muss den Sonderurlaub gewähren und dafür die Abschlussprüfungen einfach verschieben.",
+      "Der Lehrer kann den Sonderurlaub ersatzweise eigenmächtig antreten, wenn er ihn für sinnvoll hält."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sonderurlaub ist eine Kann-Gewährung und kein Automatismus.",
+      "Richtig: Zwingende dienstliche Erfordernisse sperren die Gewährung des Sonderurlaubs.",
+      "Falsch: Prüfungen und Pflichtbetrieb werden nicht für einen Fortbildungswunsch verschoben.",
+      "Falsch: Eigenmächtiger Antritt ohne Bewilligung ist kein Sonderurlaub."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Mittelschullehrer Brunner beantragt für die Wochen der Abschlussprüfungen einen vierwöchigen Sonderurlaub für einen privaten Sprachkurs im Ausland. Die Direktion lehnt ab, weil in dieser Zeit alle Lehrkräfte für Prüfungen und Aufsicht gebraucht werden und kein Ersatz verfügbar ist. Brunner beharrt, sein Wunsch müsse trotzdem bewilligt werden.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Ablehnung ist rechtmäßig, weil der Prüfungsbetrieb als zwingendes Erfordernis entgegensteht. Sonderurlaub gibt es nur auf Ansuchen bei passendem Anlass und ohne Kollision mit dem Pflichtbetrieb. Zum Nachlesen: LDG §57 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §57 Abs.4",
+    "id": "B27-L3-002",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Alle Wünsche sind zu bewilligen, weil die Gesamtdauer im Kalenderjahr unbegrenzt ist.",
+      "Die Sonderurlaube sind auf das Ausmaß von zwölf Wochen im Kalenderjahr begrenzt und der Überhang ist abzuweisen.",
+      "Die Grenze gilt nur für Urlaube im Sommer und nicht für Fortbildungen im Winter.",
+      "Private und familiäre Anlässe zählen für die Gesamtdauer nicht mit."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Gesamtdauer aller Sonderurlaube im Kalenderjahr ist gedeckelt.",
+      "Richtig: Zwölf Wochen regelmäßige Dienstzeit sind die Obergrenze für das ganze Kalenderjahr.",
+      "Falsch: Die Grenze gilt unterschiedslos für alle bewilligten Sonderurlaube des Jahres.",
+      "Falsch: Jeder bewilligte Sonderurlaub zählt für die Gesamtdauer mit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BS",
+      "BHS"
+    ],
+    "situation": "Berufsschullehrer Czerny hat im laufenden Kalenderjahr bereits neun Wochen Sonderurlaub für Familienangelegenheiten und Fortbildung erhalten. Nun beantragt er für denselben Anlasskomplex weitere fünf Wochen bis zum Jahresende und meint, die bisherige Bewilligung garantiere auch den Rest. Die Direktion prüft den Jahres-Grenzfall.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Der Überhang ist abzuweisen, weil die Zwölf-Wochen-Grenze im Kalenderjahr bereits erreicht wäre. Auch passende Anlässe helfen nicht über die Jahresobergrenze hinweg. Zum Nachlesen: LDG §57 Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §59 Abs.3",
+    "id": "B27-L3-003",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Er hat weiter bezahlte Pflegefreistellung ohne jede Grenze, solange er eine Erkrankung nennt.",
+      "Sein Anspruch ist ausgeschöpft und ohne erweiterten Anlass gibt es keine weitere bezahlte Freistellung.",
+      "Die Direktion muss die Überschreitung aus Kollegialität stillschweigend dulden.",
+      "Jede weitere Abwesenheit gilt automatisch als entschuldigte Pflegefreistellung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Pflegefreistellung ist auf ein festes Stundenkontingent je Schuljahr begrenzt.",
+      "Richtig: Nach Verbrauch des Kontingents braucht es einen eigenen erweiterten Anlass für mehr.",
+      "Falsch: Kollegialität ersetzt nicht das gesetzliche Höchstausmaß.",
+      "Falsch: Ohne Deckung durch das Kontingent ist weitere Abwesenheit nicht automatisch entschuldigt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Volksschullehrerin Dober hat ihr gesamtes Stundenkontingent für Pflegefreistellung in diesem Schuljahr bereits für die Pflege ihres erkrankten Mannes verbraucht. Nun will sie für zwei weitere Wochen bezahlt fernbleiben, obwohl ihr Sohn längst volljährig und gesund ist und kein neuer Pflegeanlass für ein kleines oder behindertes Kind vorliegt. Sie meint, das Kontingent fülle sich bei Bedarf von selbst nach.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Dobers Anspruch ist ausgeschöpft, weitere bezahlte Pflegefreistellung steht ihr ohne erweiterten Anlass nicht zu. Das Kontingent je Schuljahr ist fix und füllt sich nicht bei Bedarf nach. Zum Nachlesen: LDG §59 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §58c Abs.3",
+    "id": "B27-L3-004",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Der Antritt zum Wunschtermin ist gesichert, weil Anträge auf Pflegekarenz immer sofort wirken.",
+      "Der Antrag ist verspätet, weil eine mehr als dreimonatige Pflegekarenz zwei Monate vorher zu beantragen ist.",
+      "Die Frist gilt nur für kurze Karenzen und nicht für eine halbjährige Pflege.",
+      "Eine mündliche Ankündigung am Vortag ersetzt den fristgerechten Antrag."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Längere Pflegekarenzen brauchen einen rechtzeitigen Vorlauf für Planung und Vertretung.",
+      "Richtig: Über drei Monate Dauer verlangt der Antrag zwei Monate Vorlauf vor dem Wunschtermin.",
+      "Falsch: Gerade die lange Pflegekarenz löst die Zweimonatsfrist aus.",
+      "Falsch: Ankündigungen in letzter Minute wahren die Antragsfrist nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Ertl will seine pflegebedürftige Mutter mit hohem Pflegebedarf ein halbes Jahr zu Hause betreuen und stellt den Antrag auf unbezahlte Pflegekarenz erst drei Wochen vor dem gewünschten Beginn. Die Bildungsdirektion hält ihm entgegen, die Vertretung lasse sich so kurzfristig nicht sichern. Ertl meint, die Frist gelte für ihn nicht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Ertls Wunschtermin ist nicht gesichert, weil der Antrag für diese lange Pflegekarenz deutlich zu spät kam. Längere Pflegekarenzen sind zwei Monate vor dem gewollten Beginn zu beantragen. Zum Nachlesen: LDG §58c Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §58e Abs.1",
+    "id": "B27-L3-005",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Er hat Anspruch auf den Frühkarenzurlaub, weil die Vaterschaft allein immer genügt.",
+      "Er hat keinen Anspruch, weil er mit Mutter und Kind nicht im gemeinsamen Haushalt lebt.",
+      "Der gemeinsame Haushalt ist entbehrlich, wenn der Vater Unterhalt zahlt.",
+      "Ein kurzer Besuch am Wochenende ersetzt den geforderten gemeinsamen Haushalt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vaterschaft allein ohne die geforderte Lebens- und Haushaltsgemeinschaft genügt nicht.",
+      "Richtig: Ohne gemeinsamen Haushalt mit Mutter und Kind besteht dieser Anspruch nicht.",
+      "Falsch: Unterhaltszahlung ersetzt die geforderte Haushaltsgemeinschaft nicht.",
+      "Falsch: Besuche sind kein gemeinsamer Haushalt im geforderten Sinn."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Feiler ist Vater eines Neugeborenen geworden, lebt aber in einer eigenen Wohnung in einer anderen Stadt und nicht mit der Mutter und dem Kind zusammen. Er beantragt einen Monat unbezahlten Frühkarenzurlaub direkt nach der Geburt und verweist nur auf seine Vaterschaft. Die Direktion prüft die Haushaltsvoraussetzung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Feiler hat in dieser Wohnkonstellation keinen Anspruch auf den beantragten Frühkarenzurlaub. Gefordert ist das Leben mit Mutter und Kind in Ehe, Partnerschaft oder Lebensgemeinschaft im gemeinsamen Haushalt. Zum Nachlesen: LDG §58e Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §56 Abs.5",
+    "id": "B27-L3-006",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Die Rückberufung ist unzulässig, weil Ferien den Dienst für immer ausschließen.",
+      "Die Rückberufung ist zulässig, weil ein wichtiger dienstlicher Grund sie erfordert, und sie ist rasch zu beenden.",
+      "In den Ferien darf nur freiwillig gearbeitet werden und jede Anordnung ist unbeachtlich.",
+      "Einmal zurückberufen muss der Lehrer bis zum Schulbeginn durchgehend Dienst versehen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ferien schützen nicht absolut, wichtige dienstliche Gründe erlauben die Rückberufung.",
+      "Richtig: Wichtige dienstliche Gründe tragen die Rückberufung und sie endet bei Wegfall des Grundes.",
+      "Falsch: Die Rückberufung ist eine bindende Anordnung und keine Bitte um Freiwilligkeit.",
+      "Falsch: Die Rückberufung ist zu beenden, sobald es der Dienst gestattet."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Maturalehrerin Gruber verbringt die Hauptferien mit ihrer Familie am See, als sie wegen plötzlicher Prüfungsnot und Ausfall aller Ersatzkräfte für drei Tage zur Abhaltung unaufschiebbarer Prüfungen zurückgerufen wird. Sie weigert sich mit dem Argument, in den Ferien sei sie grundsätzlich unerreichbar. Die Direktion besteht auf der kurzen Rückberufung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Gruber muss der kurzen Rückberufung Folge leisten, weil die Prüfungsnot ein wichtiger dienstlicher Grund ist. Die Rückberufung ist auf das unbedingt nötige Maß zu beschränken. Zum Nachlesen: LDG §56 Abs.5."
+  },
+  {
+    "hauptquelle": "LDG §59 Abs.1",
+    "id": "B27-L3-007",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Notwendige Pflege der erkrankten Ehefrau, mit der der Lehrer verheiratet ist.",
+      "Betreuung des eigenen Kindes, weil die bisherige Betreuungsperson wegen Krankheit ausfällt.",
+      "Begleitung des achtjährigen erkrankten Kindes bei einem stationären Krankenhausaufenthalt.",
+      "Begleitung des vierzehnjährigen erkrankten Kindes bei einem stationären Krankenhausaufenthalt.",
+      "Betreuung eines gesunden Kindes, weil gerade keine Freizeitaktivität angeboten wird.",
+      "Pflege eines entfernten Bekannten ohne Verwandtschaft und ohne gemeinsamen Haushalt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die notwendige Pflege erkrankter naher Angehöriger ist der Kernfall des Anspruchs.",
+      "Richtig: Der Ausfall der ständigen Betreuungsperson eröffnet die Betreuungsfreistellung für das Kind.",
+      "Richtig: Die Begleitung kleiner Kinder bei stationärem Aufenthalt ist ausdrücklich erfasst.",
+      "Falsch: Für die Begleitung bei stationärem Aufenthalt gilt eine Altersgrenze im Kindesalter.",
+      "Falsch: Ohne Erkrankung, Unfall oder Betreuungsausfall fehlt der Anlass für die Freistellung.",
+      "Falsch: Ohne Angehörigenstellung und ohne Haushaltsgemeinschaft besteht kein Anspruch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Lehrerzimmer streiten mehrere Kolleginnen, in welchen Fällen bezahlte Pflegefreistellung wegen nachgewiesener Verhinderung zusteht. Eine Liste mit sechs Alltagsfällen liegt am Tisch, von der kranken Partnerin über den Ausfall der Tagesmutter bis zur Begleitung bei Krankenhausaufenthalten. Wähle alle Fälle mit Anspruch.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Anspruch besteht für die kranke Ehefrau, für das Kind nach Ausfall der Betreuungsperson und für die Begleitung des kleinen Kindes bei stationärem Aufenthalt. Freizeitwünsche, ältere Kinder bei Begleitung und fremde Personen sind nicht erfasst. Zum Nachlesen: LDG §59 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §59 Abs.4",
+    "id": "B27-L3-008",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Das Grundkontingent ist bereits verbraucht und der Lehrer ist erneut verhindert.",
+      "Es geht um die notwendige Pflege des im gemeinsamen Haushalt lebenden achtjährigen Kindes.",
+      "Es geht um die notwendige Pflege eines Kindes, für das erhöhte Familienbeihilfe gewährt wird.",
+      "Das Kind ist volljährig und gesund und braucht nur Hilfe bei den Hausaufgaben.",
+      "Das Grundkontingent ist noch völlig unberührt und soll für später aufgespart werden.",
+      "Es geht um die Pflege eines gesunden Erwachsenen ohne Behinderung im eigenen Haushalt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die erweiterte Freistellung setzt den Verbrauch des Grundanspruchs voraus.",
+      "Richtig: Kleine Kinder im gemeinsamen Haushalt sind der typische erweiterte Anlass.",
+      "Richtig: Erhöhte Familienbeihilfe wegen Behinderung eröffnet die erweiterte Freistellung zusätzlich.",
+      "Falsch: Hausaufgabenhilfe bei gesunden Volljährigen ist kein erweiterter Pflegeanlass.",
+      "Falsch: Ohne Verbrauch des Grundkontingents greift die Erweiterung nicht.",
+      "Falsch: Gesunde Erwachsene ohne den genannten Anlass lösen die Erweiterung nicht aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrer Hartl hat sein diesjähriges Pflegekontingent für die Betreuung seines erkrankten Vaters vollständig aufgebraucht. Nun erkrankt zusätzlich seine achtjährige Tochter im gemeinsamen Haushalt schwer und braucht notwendige Pflege zu Hause. Er prüft, ob über das verbrauchte Kontingent hinaus noch einmal bezahlte Freistellung möglich ist. Wähle alles, was die erweiterte Freistellung eröffnet.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Hartl kann die erweiterte Freistellung bekommen, weil das Grundkontingent verbraucht ist und ein kleines Kind im Haushalt notwendige Pflege braucht. Auch ein behindertes Kind mit erhöhter Beihilfe wäre ein solcher Anlass. Zum Nachlesen: LDG §59 Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §58 Abs.3",
+    "id": "B27-L3-009",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Karenzurlaub endet spätestens nach zehn Jahren Gesamtdauer aus früheren Karenzen und Freistellungen.",
+      "Mit Antritt einer mehr als sechsmonatigen Karenz ist grundsätzlich die Abberufung vom Arbeitsplatz verbunden.",
+      "Nach Karenz wegen Mutterschutz oder Väterkarenz darf der alte Arbeitsplatz nicht dauerhaft nachbesetzt werden.",
+      "Karenz kann beliebig oft und zeitlich unbegrenzt aneinandergereiht werden.",
+      "Nach jeder Karenz besteht automatisch Anspruch auf dieselbe Klasse und denselben Stundenplan.",
+      "Eine Abberufung vom Arbeitsplatz ist bei Karenz grundsätzlich ausgeschlossen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zehn Jahre Gesamtdauer bilden die absolute Schranke für den Karenzurlaub.",
+      "Richtig: Lange Karenzen lösen grundsätzlich die Abberufung vom bisherigen Arbeitsplatz aus.",
+      "Richtig: Nach Schutz-Karenz bleibt der Arbeitsplatz geschützt und es gilt ein Rückkehrrecht an die Schule.",
+      "Falsch: Die Gesamtdauer ist gedeckelt und nicht beliebig stapelbar.",
+      "Falsch: Dieselbe Klasse und derselbe Plan sind nach langer Abwesenheit nicht garantiert.",
+      "Falsch: Gerade bei langer Karenz ist die Abberufung der Regelfall."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Professorin Irschik plant nach mehreren früheren Karenzen eine weitere mehrjährige unbezahlte Auszeit und verlangt gleichzeitig die Garantie, dass ihre Schule, ihre Klasse und ihr Stundenplan inzwischen unangetastet bleiben. Die Direktion prüft Dauergrenze, Arbeitsplatzschicksal und Rückkehrrechte. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58b Abs.1",
+      "LDG §58b Abs.2"
+    ],
+    "aufloesung": "Irschiks Auszeit stößt an die Zehnjahresgrenze und kostet grundsätzlich den bisherigen Arbeitsplatz. Nur nach Schutz-Karenz bleibt der Platz geschützt und es gilt das Rückkehrrecht an die Schule. Zum Nachlesen: LDG §58 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §58a Abs.2",
+    "id": "B27-L3-010",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Karenzzeit bleibt für zeitabhängige Rechte grundsätzlich unberücksichtigt.",
+      "Ausbildungs- und Auslands-Karenzen zählen für die Vorrückung zusammen höchstens fünf Jahre, Ausbildung höchstens drei.",
+      "Pflegekarenz gilt als ruhegenussfähige Dienstzeit, sonst aber nicht für dienstabhängige Rechte.",
+      "Jede Karenz zählt automatisch voll für Vorrückung und alle Dienstalterrechte.",
+      "Pflegekarenz ist pensionsrechtlich immer wirkungslos und nie anrechenbar.",
+      "Für die Anrechnung als Ruhegenusszeit genügt bloßes Abwarten ohne Antrag."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Grundsatz ist das Ausblenden der Karenz für dienstzeitabhängige Rechte.",
+      "Richtig: Nur bestimmte förderliche Karenzen sind gedeckelt auf die Vorrückung anrechenbar.",
+      "Richtig: Pflegekarenz sichert die Ruhegenussfähigkeit, aber sonst keine Dienstalterrechte.",
+      "Falsch: Eine automatische Vollanrechnung jeder Karenz gibt es nicht.",
+      "Falsch: Pflegekarenz ist gerade als Ruhegenusszeit anerkannt.",
+      "Falsch: Die Ruhegenussanrechnung braucht einen eigenen Antrag der Lehrkraft."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Zwei Kolleginnen vergleichen ihre Pläne: eine will drei Jahre für eine dienstliche Zusatzausbildung in Karenz gehen, die andere pflegt ein behindertes Kind in Pflegekarenz. Beide meinen, jede Karenz zähle automatisch voll für Vorrückung und Pension. Die Personalstelle prüft Grundsatz, Deckel und Antragserfordernis. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58c Abs.5"
+    ],
+    "aufloesung": "Beide irren über den Automatismus, denn Karenz bleibt grundsätzlich unberücksichtigt. Nur förderliche Karenzen zählen gedeckelt für die Vorrückung und Pflegekarenz sichert auf Antrag die Ruhegenusszeit. Zum Nachlesen: LDG §58a Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §58d Abs.1",
+    "id": "B27-L3-011",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Es besteht bereits ein mindestens fünfjähriges Dienstverhältnis als Landeslehrerin.",
+      "Es stehen keine wichtigen dienstlichen Gründe entgegen und die Vertretung ist gesichert.",
+      "Die Freistellung liegt in einer Rahmenzeit von zwei bis fünf Schuljahren und wird ungeteilt verbraucht.",
+      "Ein einjähriges Dienstverhältnis genügt für das Sabbatical allemal.",
+      "Die Freistellung darf beliebig gestückelt und nebenbei mit Diensten vermischt werden.",
+      "Die Freistellung kann sofort ohne jede vorherige Dienstleistungszeit angetreten werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fünf Dienstjahre sind die Eintrittsschwelle für das Sabbatical.",
+      "Richtig: Ohne dienstliche Sperre und mit gesicherter Vertretung steht dem Modell nichts im Weg.",
+      "Richtig: Rahmenzeit und ungeteilter Verbrauch prägen das Sabbatical.",
+      "Falsch: Ein einziges Dienstjahr erreicht die Schwelle bei weitem nicht.",
+      "Falsch: Stückeln und Vermischen widersprechen dem ungeteilten Freijahr.",
+      "Falsch: Je nach Rahmen braucht es ein oder zwei Jahre Dienst vor dem Freijahr."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Jovanovic steht seit acht Jahren im Schuldienst und will ein Schuljahr gegen gekürzte Bezüge freinehmen, während sie in den übrigen Jahren der Rahmenzeit voll unterrichtet. Die Vertretung für das Freijahr wäre über eine geeignete Kollegin gesichert. Sie prüft mit der Direktion die Voraussetzungen für das Freijahr-Modell. Wähle alles, was dafür erfüllt sein muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Jovanovic erfüllt die Schwelle und das Modell passt, weil Dienstjahre, Rahmenzeit und Vertretung stimmen. Entscheidend sind fünf Dienstjahre, eine Rahmenzeit von zwei bis fünf Jahren und der ungeteilte Verbrauch. Zum Nachlesen: LDG §58d Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §57 Abs.3",
+    "id": "B27-L3-012",
+    "level": "L3",
+    "modul_id": "B27",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Sonderurlaub ist kein Wunschautomat, sondern eine Kann-Gewährung.",
+      "Richtig erkannt: Zwingende dienstliche Erfordernisse sperren den Sonderurlaub auch bei gutem Anlass."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, bei wichtigem persönlichem Anlass müsse Sonderurlaub immer bewilligt werden, selbst wenn der Unterricht dann ersatzlos ausfällt und keine Vertretung möglich ist.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, denn auch ein guter Anlass überwindet keine zwingenden dienstlichen Erfordernisse. Sonderurlaub darf nur ohne solche Sperre und in angemessener Dauer gewährt werden. Zum Nachlesen: LDG §57 Abs.3."
+  }
+]
