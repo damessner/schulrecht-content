@@ -1,1 +1,494 @@
-[]
+[
+  {
+    "aufloesung": "Bei getrennter Abfolge ist die Anmeldung befristet, tageweise wählbar und nach Frist nur ohne neue Gruppe möglich. So bleibt die Gruppeneinteilung planbar. Zum Nachlesen: TirSOG §99e Abs.1, SchUG §12a Abs.1.",
+    "hauptquelle": "SchUG §12a Abs.1",
+    "id": "C35-L2-001",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Die Anmeldung erfolgt bei der Schuleinschreibung oder in einer Wochenfrist mit Sonntag.",
+      "Die Anmeldung kann alle Tage oder nur einzelne Wochentage umfassen.",
+      "Die Anmeldung gilt nur für das betreffende Unterrichtsjahr.",
+      "Nach der Frist geht eine Anmeldung nur ohne zusätzliche Gruppe.",
+      "Die Anmeldung gilt automatisch bis zum Ende der Schulpflicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese zwei Zeitfenster sieht das Verfahren vor.",
+      "Richtig: Tageweise Wahl ist bei getrennter Abfolge möglich.",
+      "Richtig: Jedes Jahr ist neu anzumelden.",
+      "Richtig: Späte Anmeldungen dürfen keine neue Gruppe erzwingen.",
+      "Falsch: Die Geltung endet mit dem Unterrichtsjahr."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Direktorin Mair erstellt ein Infoblatt für Eltern zur Anmeldung in den Betreuungsteil bei getrennter Abfolge. Sie will Fristen, Tagewahl, Geltungsdauer und Nachzügler korrekt darstellen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Verschränkt bedeutet volle Woche für die ganze Schuldauer, angemeldet wird wie sonst auch. Einzelne Tage sind dort ausgeschlossen. Zum Nachlesen: TirSOG §99e Abs.2, SchUG §12a Abs.1.",
+    "hauptquelle": "SchUG §12a Abs.1",
+    "id": "C35-L2-002",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Die Anmeldung kann nur für alle Schultage der Woche gelten.",
+      "Sie gilt für die Dauer des Besuchs dieser Schule.",
+      "Anmeldung bei Einschreibung oder in der Wochenfrist mit Sonntag.",
+      "Man kann einzelne Tage frei abwählen.",
+      "Man kann jährlich neu zwischen Tagen wählen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Teilanmeldung ist verschränkt ausgeschlossen.",
+      "Richtig: Keine jährliche Neuanmeldung wie bei getrennter Abfolge.",
+      "Richtig: Das Zeitfenster gilt auch für die verschränkte Form.",
+      "Falsch: Einzelne Tage abzuwählen widerspricht der verschränkten Form.",
+      "Falsch: Die Bindung läuft über die Schuldauer."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Hofer wechselt ihr Kind in eine verschränkt geführte Klasse und fragt, ob die Nachmittagsanmeldung tageweise geht und wie lange sie bindet. Die Lehrerin prüft die Checkliste für verschränkte Klassen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Ausstieg gelingt nur zum Semesterende mit Dreiwochefrist oder aus triftigen Gründen. Ohne reine Unterrichtsklassen bleibt sonst nur die Schulabmeldung. Zum Nachlesen: TirSOG §99e Abs.1, SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "id": "C35-L2-003",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Abmeldung zum Ende des ersten Semesters ist möglich.",
+      "Sie muss spätestens drei Wochen vor Semesterende erklärt werden.",
+      "Außerhalb davon nur aus besonders berücksichtigungswürdigen Gründen.",
+      "Gibt es keine reinen Unterrichtsklassen, bleibt nur die Schulabmeldung.",
+      "Ein formloser Ausstieg mitten im Monat ist jederzeit möglich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das ist der ordentliche Abmeldetermin.",
+      "Richtig: Die Dreiwochefrist ist einzuhalten.",
+      "Richtig: Härtefälle sind die einzige Ausnahme daneben.",
+      "Richtig: Ohne Alternative hängt der Unterricht am Betreuungsteil.",
+      "Falsch: Fristlos mitten im Monat geht es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Familien wollen ihre Kinder zu unterschiedlichen Zeitpunkten vom Betreuungsteil abmelden: eine ordentlich zu Semesterende, eine fristlos im Oktober aus Bequemlichkeit, eine wegen eines beruflichen Umzugs. Die Direktion prüft, was jeweils gilt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Schulübergreifend darf zusammengefasst werden, wenn die Mindestzahl sonst fehlt und der Weg zumutbar bleibt. So bleiben kleine Standorte versorgt. Zum Nachlesen: TirSOG §99a Abs.3 bis Abs.5.",
+    "hauptquelle": "TirSOG §99a Abs.3",
+    "id": "C35-L2-004",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Zusammenfassung mehrerer Schulen, wenn die Mindestzahl sonst fehlt.",
+      "Erreichbarkeit der Ganztagsschule binnen einer halben Stunde zumutbarem Weg.",
+      "Räumlichkeiten müssen geeignet sein und Horte dürfen nicht ausreichen.",
+      "Die Bildungsdirektion wird drei Monate vorher mit Eltern- und Lehrerstellungnahme informiert.",
+      "Jede Schule braucht zwingend einen eigenen Koch im Keller."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau dafür ist die schulübergreifende Führung da.",
+      "Richtig: Die Halbstunden-Erreichbarkeit ist Voraussetzung.",
+      "Richtig: Räume und fehlende Alternativen sind Pflichtkriterien.",
+      "Richtig: Anzeige mit Stellungnahmen drei Monate vorher ist nötig.",
+      "Falsch: Einen eigenen Koch schreibt das Gesetz so nicht vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zwei kleine Volksschulen schaffen allein je nur acht Betreuungskinder. Der Bürgermeister schlägt vor, den Betreuungsteil an einem Standort gemeinsam zu führen, und fragt, welche Voraussetzungen dafür erfüllt sein müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Betreuungsteil startet ab sieben Kindern, die Gruppen werden tageweise gebildet und der Erhalter wird gehört. So bleibt der Betrieb gesichert und planbar. Zum Nachlesen: TirSOG §99e Abs.1, Abs.4 und Abs.6.",
+    "hauptquelle": "TirSOG §99e Abs.1",
+    "id": "C35-L2-005",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Betreuungsteil wird ab sieben angemeldeten Kindern geführt.",
+      "Die Schüler werden im Betreuungsteil tageweise zu Gruppen zusammengefasst.",
+      "Vor der Entscheidung über die Führung wird der Schulerhalter gehört.",
+      "Der Betreuungsteil startet schon mit einem einzigen Kind.",
+      "Die Gruppen werden für das ganze Jahr unveränderbar eingefroren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sieben Kinder sind die Startschwelle, drei an Sonderschulen.",
+      "Richtig: Tageweise Gruppenbildung ist vorgeschrieben.",
+      "Richtig: Anhörung des Erhalters vor der Führungsentscheidung.",
+      "Falsch: Ein Kind allein genügt für die Führung nicht.",
+      "Falsch: Die Gruppen werden tageweise gebildet, nicht eingefroren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sechs Kinder sind für den Nachmittag angemeldet, zwei weitere überlegen noch. Direktor Huber fragt, ab wann er den Betreuungsteil führen darf, wie er Gruppen bildet und wen er vorher einbinden muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Verschränkt braucht Vollanmeldung der Klasse plus Zweidrittelzustimmung von Eltern und Lehrern. Fehlt etwas davon, bleibt es bei getrennter Abfolge. Zum Nachlesen: TirSOG §99e Abs.2 und Abs.3.",
+    "hauptquelle": "TirSOG §99e Abs.2",
+    "id": "C35-L2-006",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Alle Kinder der Klasse sind die ganze Woche angemeldet.",
+      "Mindestens zwei Drittel der Eltern sprechen sich dafür aus.",
+      "Mindestens zwei Drittel der betroffenen Lehrer sprechen sich dafür aus.",
+      "Sonst wird getrennt nacheinander geführt.",
+      "Es genügt die Stimme des Bürgermeisters allein."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vollanmeldung der ganzen Klasse ist Pflicht.",
+      "Richtig: Zweidrittel der Eltern müssen zustimmen.",
+      "Richtig: Zweidrittel der Lehrer müssen zustimmen.",
+      "Richtig: Ohne diese Voraussetzungen gilt die getrennte Abfolge.",
+      "Falsch: Der Bürgermeister kann das nicht allein bestimmen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Klasse will auf verschränkte Abfolge umstellen. Die Direktion führt eine Befragung durch: fast alle Kinder wären voll angemeldet, die Eltern sind mehrheitlich dafür, im Kollegium gibt es Zweifel über die nötigen Mehrheiten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Verordnung deckelt kostendeckend, sichert Sozialfälle ab und bindet Forum und Beitragsgemeinden ein. So bleiben Beiträge fair und rechtmäßig. Zum Nachlesen: TirSOG §99i Abs.2.",
+    "hauptquelle": "TirSOG §99i Abs.2",
+    "id": "C35-L2-007",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Beitrag wird höchstens kostendeckend festgesetzt.",
+      "Entfall oder Ermäßigung nach Einkommen, Vermögen und Familie ist vorzusehen.",
+      "Schulforum und beitragspflichtige Gebietskörperschaften werden vorher gehört.",
+      "Die Festsetzung erfolgt per Verordnung des Schulerhalters.",
+      "Der Bürgermeister legt die Höhe täglich per Zuruf fest."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kostendeckung ist die Obergrenze.",
+      "Richtig: Die Sozialklausel ist Pflichtinhalt.",
+      "Richtig: Anhörung vor Erlassung ist vorgeschrieben.",
+      "Richtig: Verordnungsform ist erforderlich.",
+      "Falsch: Täglicher Zuruf ist keine Verordnung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde will erstmals eine Beitragsverordnung für Essen und Betreuung erlassen. Der Amtsleiter fragt, was hineingehört: Obergrenze, Sozialfälle, Anhörungen und die richtige Form des Beschlusses.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Kassiert wird monatlich rückwirkend, gestritten wird vor dem ordentlichen Gericht und Material wird sparsam eingekauft. Das schützt Eltern vor Übervorteilung. Zum Nachlesen: TirSOG §99i Abs.3 bis Abs.5.",
+    "hauptquelle": "TirSOG §99i Abs.3",
+    "id": "C35-L2-008",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Beitrag wird monatlich im Nachhinein eingehoben.",
+      "Lernmittelbeiträge sind höchstens kostendeckend bei sparsamem Einkauf.",
+      "Streit über Beiträge gehört vor den ordentlichen Rechtsweg.",
+      "Vorauskasse für ein halbes Jahr ist zulässig.",
+      "Bei Zahlungsverzug darf sofort die Schulaussperrung verhängt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abrechnung erfolgt rückwirkend pro Monat.",
+      "Richtig: Kostendeckel plus Sparsamkeit gelten für Lernmittel.",
+      "Richtig: Kein Verwaltungs-, sondern Gerichtsverfahren.",
+      "Falsch: Vorauskasse widerspricht der Nachhinein-Regel.",
+      "Falsch: Eine solche Sanktion sieht das Gesetz nicht vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Familie weigert sich, die Betreuungsrechnung zu zahlen, weil sie die Höhe für willkürlich hält und Vorauskasse verlangt wurde. Die Gemeinde fragt, wie Einhebung, Lernmittel und Rechtsweg korrekt laufen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Im Freizeitbereich dürfen Lehrer, Erzieher, Lernhilfe, Freizeitpädagogen und sonstige pädagogisch Qualifizierte arbeiten. Die Auswahl trifft der Schulerhalter als Dienstgeber. Zum Nachlesen: TirSOG §6 Abs.3.",
+    "hauptquelle": "TirSOG §6 Abs.3",
+    "id": "C35-L2-009",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Lehrer dürfen im Freizeitbereich eingesetzt werden.",
+      "Erzieher und Erzieher für die Lernhilfe sind zulässig.",
+      "Freizeitpädagogen gehören zum vorgesehenen Personal.",
+      "Sonstige pädagogisch qualifizierte Personen sind zulässig.",
+      "Jede zufällige Passantin darf ohne Prüfung Aufsicht führen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lehrer sind eine zulässige Personengruppe.",
+      "Richtig: Beide Erzieherformen sind vorgesehen.",
+      "Richtig: Freizeitpädagogen sind Kerngruppe des Freizeitbereichs.",
+      "Richtig: Qualifizierte Sonstige mit Vertrauensprüfung dürfen ran.",
+      "Falsch: Unbeteiligte ohne Qualifikation und Prüfung sind ausgeschlossen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Für den Freizeitbereich am Nachmittag sucht die Gemeinde Personal: eine Lehrerin für Spielstunden, einen Erzieher, eine Freizeitpädagogin und eine pensionierte Bastlerin aus dem Ort. Der Gemeinderat fragt, wer davon zulässig ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Externe ohne Gebietskörperschaft als Dienstgeber brauchen frische Strafregisternachweise ohne Eintragungen. Erst dann dürfen sie in die Betreuung. Zum Nachlesen: TirSOG §6 Abs.4.",
+    "hauptquelle": "TirSOG §6 Abs.4",
+    "id": "C35-L2-010",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Schulerhalter prüft vor Dienstantritt die Vertrauenswürdigkeit.",
+      "Nachweis durch Strafregisterbescheinigung ohne Verurteilungen.",
+      "Die Nachweise dürfen höchstens drei Monate alt sein.",
+      "Gilt nur für Externe, nicht für Personal einer Gebietskörperschaft.",
+      "Ein zehn Jahre alter Auszug genügt auf Dauer."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Prüfung vor dem ersten Dienst ist Pflicht.",
+      "Richtig: Saubere Bescheinigung belegt die Vertrauenswürdigkeit.",
+      "Richtig: Ältere Nachweise werden nicht anerkannt.",
+      "Richtig: Gemeinde- und Verbandsbedienstete sind ausgenommen.",
+      "Falsch: Zehn Jahre alte Auszüge sind längst verfallen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein privater Sporttrainer soll zweimal wöchentlich die Freizeitgruppe übernehmen, angestellt über einen Verein. Die Direktorin fragt, welche Vertrauensnachweise sie vor seinem ersten Einsatz verlangen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Stellt das Land Freizeitpersonal bei, zahlt der Erhalter alles zurück, abgerechnet per Bescheid bis Ende Februar. Säumige Beträge werden einen Monat später fällig. Zum Nachlesen: TirSOG §99g Abs.1 und Abs.4.",
+    "hauptquelle": "TirSOG §99g Abs.1",
+    "id": "C35-L2-011",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Schulerhalter ersetzt den Personalaufwand samt Dienstgeberbeiträgen zur Gänze.",
+      "Die Vorschreibung erfolgt per Bescheid bis Ende Februar des Folgejahres.",
+      "Der Betrag wird vier Wochen nach Bescheiderlassung fällig.",
+      "Das Land schenkt den Aufwand bei guter Führung.",
+      "Die Gemeinde darf die Rechnung einfach ignorieren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Voller Ersatz inklusive aller Dienstgeberbeiträge.",
+      "Richtig: Bescheidtermin Ende Februar ist einzuhalten.",
+      "Richtig: Vierwochenfrist bis zur Fälligkeit läuft ab Erlassung.",
+      "Falsch: Einen Erlass aus Kulanz sieht das Gesetz nicht vor.",
+      "Falsch: Ignorieren macht den Bescheid nicht unwirksam."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Das Land hat zwei Erzieher für den Freizeitbereich beigestellt und schickt der Gemeinde im März eine saftige Ersatzrechnung. Der Bürgermeister hält den Kostenersatz für freiwillig und will die Zahlung verweigern.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Leitung wird auf Vorschlag der Schulleitung bestellt und muss zur Schulgröße passen, Gebietskörperschaften werden gehört. So ist die Koordination gesichert. Zum Nachlesen: TirSOG §99f.",
+    "hauptquelle": "TirSOG §99f",
+    "id": "C35-L2-012",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Bestellung auf Vorschlag der Schulleitung.",
+      "Zulässig sind Lehrer, Erzieher oder Freizeitpädagogen bei Erhalterbestellung.",
+      "Nur bei Zweckmäßigkeit nach Klassen- und Gruppenzahl.",
+      "Sprengelzugehörige Gebietskörperschaften werden vorher gehört.",
+      "Die Kinder wählen die Leitung per Klassenabstimmung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Vorschlag kommt von der Schulleitung.",
+      "Richtig: Dieser Personenkreis darf bestellt werden.",
+      "Richtig: Größe der Schule begrenzt die Leitungsbestellung.",
+      "Richtig: Anhörung der Gebietskörperschaften ist vorgesehen.",
+      "Falsch: Eine Kinderwahl ist kein Bestellverfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer großen ganztägigen Schule mit acht Nachmittagsgruppen soll erstmals eine eigene Leitung für den Betreuungsteil bestellt werden. Das Kollegium fragt nach Verfahren, Personenkreis und Mitsprache.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Ganztag starten oder beenden meldet der Erhalter drei Monate vorher mit Stellungnahmen an, die Behörde kann binnen zwei Monaten untersagen. Schweigen gilt als Zustimmung. Zum Nachlesen: TirSOG §99d Abs.1 und Abs.2.",
+    "hauptquelle": "TirSOG §99d Abs.1",
+    "id": "C35-L2-013",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Anzeige drei Monate vor Start oder Einstellung des Ganztags.",
+      "Nachweis der Voraussetzungen plus Stellungnahmen von Eltern und Lehrern.",
+      "Untersagung binnen zwei Monaten bei fehlenden Voraussetzungen.",
+      "Ohne Untersagung darf gestartet oder eingestellt werden.",
+      "Der Start gelingt per Handschlag ohne jede Meldung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dreimonatsfrist vor der Umstellung ist einzuhalten.",
+      "Richtig: Nachweise und beide Stellungnahmen gehören dazu.",
+      "Richtig: Zweimonatsfrist für die Untersagung läuft ab Anzeige.",
+      "Richtig: Schweigen der Behörde gibt den Weg frei.",
+      "Falsch: Formlose Absprachen ersetzen die Anzeige nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde will ihre Volksschule ab Herbst ganztägig führen und hat Räume und Personal grob geklärt. Der Bürgermeister fragt, was er der Bildungsdirektion wann melden muss und was passiert, wenn diese nicht reagiert.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Fällt die Grundlage dauerhaft weg, muss der Ganztag aufgehoben werden, notfalls ordnet es die Behörde nach Anhörung an. Rutscht man nur auf freiwilliges Niveau, darf er bleiben. Zum Nachlesen: TirSOG §99c.",
+    "hauptquelle": "TirSOG §99c Abs.1",
+    "id": "C35-L2-014",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Aufhebungspflicht bei dauerhaftem Wegfall der Voraussetzungen.",
+      "Herabstufung auf freiwilligen Ganztag bleibt möglich.",
+      "Anordnung durch die Bildungsdirektion bei Untätigkeit des Erhalters.",
+      "Vorherige Anhörung von Schulforum oder Schulgemeinschaftsausschuss.",
+      "Bei einem Regentag wird der Ganztag sofort beendet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dauerhafter Wegfall beendet die Ganztagsbestimmung.",
+      "Richtig: Freiwillige Voraussetzungen können den Betrieb retten.",
+      "Richtig: Die Behörde greift bei säumigem Erhalter ein.",
+      "Richtig: Forum oder Ausschuss sind vorher zu hören.",
+      "Falsch: Wetter ist kein Aufhebungsgrund."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Betreuungszahlen brechen dauerhaft ein, nur sechs Kinder bleiben übrig, Personal und Räume wären aber noch da. Der Gemeinderat fragt, ob der Ganztag enden muss oder freiwillig weiterlaufen darf und wer das entscheidet.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Schulbesuch bleibt gratis, nur Essen, Betreuung und Lernmittel im Ganztag kosten extra. Für das Mittagessen muss der Erhalter aktiv vorsorgen. Zum Nachlesen: TirSOG §8, TirSOG §2 Abs.2.",
+    "hauptquelle": "TirSOG §8",
+    "id": "C35-L2-015",
+    "level": "L2",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Schulbesuch selbst bleibt unentgeltlich.",
+      "Verpflegungs-, Betreuungs- und Lernmittelbeiträge bleiben ausgenommen.",
+      "Der Schulerhalter sorgt bei Ganztag für die Verpflegung vor.",
+      "Schulgeld für den Vormittagsunterricht darf zusätzlich verlangt werden.",
+      "Eltern müssen täglich selbst warm kochen und liefern."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unentgeltlichkeit gilt trotz Ganztags grundsätzlich.",
+      "Richtig: Genau diese Beiträge sind vom Gratisgrundsatz ausgenommen.",
+      "Richtig: Verpflegungsvorsorge ist Erhalterpflicht im Ganztag.",
+      "Falsch: Allgemeines Schulgeld bleibt unzulässig.",
+      "Falsch: Selbstversorgungspflicht der Eltern gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eltern einer ganztägigen Mittelschule verweigern jede Zahlung mit dem Argument, Schule müsse gratis sein, und bringen kein Mittagessen mit. Direktion und Gemeinde klären, was gratis ist und wer für das Essen sorgen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

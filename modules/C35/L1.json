@@ -1,1 +1,427 @@
-[]
+[
+  {
+    "aufloesung": "Die Schule wird in einen Unterrichtsteil und einen Betreuungsteil gegliedert. Der Vormittag bleibt Unterricht, der Nachmittag ist Betreuung mit Lernzeit und Freizeit. Zum Nachlesen: TirSOG §99a Abs.1.",
+    "hauptquelle": "TirSOG §99a Abs.1",
+    "id": "C35-L1-001",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Die Schule gliedert sich in einen Unterrichtsteil und einen Betreuungsteil.",
+      "Die Schule besteht nur aus verlängertem Vormittagsunterricht.",
+      "Der Nachmittag ersetzt den Vormittagsunterricht vollständig.",
+      "Ganztägig bedeutet bloß ein freiwilliges Sportangebot am Abend."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese Zweiteilung macht eine ganztägige Schule aus.",
+      "Falsch: Längerer Vormittag allein ist noch kein Ganztag.",
+      "Falsch: Der Unterrichtsteil bleibt bestehen und wird ergänzt.",
+      "Falsch: Ein Abendkurs ist keine ganztägige Schulform."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Direktorin Mair erklärt den Eltern in Kematen, was an der neuen ganztägigen Volksschule anders läuft: Die Kinder haben vormittags normalen Unterricht und werden nachmittags in der Schule betreut, mit Lernen und Spielen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Schulerhalter muss die Schule als ganztägig bestimmen, wenn mindestens 15 Kinder die Tagesbetreuung nutzen werden. Erst dann besteht eine gesetzliche Pflicht zum Ganztag. Zum Nachlesen: TirSOG §99a Abs.2.",
+    "hauptquelle": "TirSOG §99a Abs.2",
+    "id": "C35-L1-002",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Schon ab drei Anmeldungen muss der Ganztag verpflichtend kommen.",
+      "Erst ab 15 zu erwartenden Betreuungskindern ist der Ganztag Pflicht.",
+      "Der Bürgermeister entscheidet völlig frei ohne jede Mindestzahl.",
+      "Nur bei über 50 Kindern darf ganztägig geführt werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Drei Kinder reichen nur für eine freiwillige Führung.",
+      "Richtig: Fünfzehn erwartete Kinder lösen die Bestimmungspflicht aus.",
+      "Falsch: Die Mindestzahl ist gesetzlich vorgegeben, nicht beliebig.",
+      "Falsch: Eine so hohe Schwelle sieht das Gesetz nicht vor."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "In einer Volksschule mit 40 Kindern melden 16 Eltern Bedarf für die Nachmittagsbetreuung an. Der Bürgermeister fragt, ob er die Schule nun zwingend als ganztägige Schule führen muss oder ob er noch abwarten darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "An Sonderschulen genügen sieben zu erwartende Betreuungskinder für die Pflicht zum Ganztag. Die Schwelle ist wegen der kleineren Klassen niedriger. Zum Nachlesen: TirSOG §99a Abs.2.",
+    "hauptquelle": "TirSOG §99a Abs.2",
+    "id": "C35-L1-003",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Auch dort gelten starr 15 Kinder wie an jeder anderen Schule.",
+      "Sieben zu erwartende Betreuungskinder lösen die Pflicht aus.",
+      "Sonderschulen dürfen niemals ganztägig geführt werden.",
+      "Es genügt ein einziges Kind für die Pflicht zum Ganztag."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Für Sonderschulen gilt eine niedrigere Schwelle.",
+      "Richtig: Sieben erwartete Kinder genügen an Sonderschulen.",
+      "Falsch: Auch Sonderschulen können ganztägig geführt werden.",
+      "Falsch: Ein Kind allein löst keine Bestimmungspflicht aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer kleinen Sonderschule wünschen sieben Eltern eine Nachmittagsbetreuung für ihre Kinder. Die Direktorin ist unsicher, ob die niedrigere Schülerzahl für eine verpflichtende ganztägige Führung ausreicht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Freiwillig darf der Schulerhalter schon ab sieben erwarteten Betreuungskindern ganztägig führen, an Sonderschulen ab drei. Er muss dafür aber Personal und Räume sicherstellen. Zum Nachlesen: TirSOG §99b Abs.1.",
+    "hauptquelle": "TirSOG §99b Abs.1",
+    "id": "C35-L1-004",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Nein, unter 15 Kindern ist Ganztag ausnahmslos verboten.",
+      "Ja, freiwillig geht es schon ab sieben erwarteten Kindern.",
+      "Ja, aber nur wenn alle Eltern des Ortes zustimmen.",
+      "Nein, freiwilliger Ganztag existiert rechtlich gar nicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Unter 15 ist nur die Pflicht weg, nicht die Möglichkeit.",
+      "Richtig: Ab sieben Kindern darf freiwillig ganztägig geführt werden.",
+      "Falsch: Einstimmigkeit aller Eltern ist nicht verlangt.",
+      "Falsch: Die freiwillige Bestimmung ist ausdrücklich vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Neun Eltern einer kleinen Volksschule bitten die Gemeinde um eine Nachmittagsbetreuung. Der Gemeinderat meint, unter 15 Kindern sei ganztägige Schule rechtlich überhaupt nicht möglich.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Unterrichts- und Betreuungsteil laufen entweder getrennt nacheinander oder verschränkt im Wechsel. Getrennt ist der Regelfall, verschränkt braucht besondere Zustimmung. Zum Nachlesen: TirSOG §99e Abs.1 bis Abs.3.",
+    "hauptquelle": "TirSOG §99e Abs.1",
+    "id": "C35-L1-005",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Getrennt nacheinander oder verschränkt im Wechsel.",
+      "Nur als reiner Nachmittagsunterricht ohne Betreuung.",
+      "Nur als Internat mit Übernachtung der Kinder.",
+      "Ausschließlich als Fernunterricht von zu Hause aus."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese beiden Organisationsformen sieht das Gesetz vor.",
+      "Falsch: Reiner Nachmittagsunterricht ist kein Betreuungsteil.",
+      "Falsch: Ganztag verlangt keine Übernachtung.",
+      "Falsch: Betreuung findet in der Schule statt, nicht daheim."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern fragen Direktor Huber, wie der Tagesablauf an der ganztägigen Mittelschule aussieht: ob Unterricht und Betreuung strikt nacheinander kommen oder ob sich Lernen, Mittagessen und Freizeit über den Tag abwechseln dürfen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Verschränkt darf eine Klasse nur laufen, wenn alle Kinder die ganze Woche angemeldet sind und je zwei Drittel der Eltern und Lehrer dafür stimmen. Fehlt eine Voraussetzung, bleibt es bei getrennter Abfolge. Zum Nachlesen: TirSOG §99e Abs.2.",
+    "hauptquelle": "TirSOG §99e Abs.2",
+    "id": "C35-L1-006",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Direktor darf das allein für einzelne Kinder anordnen.",
+      "Alle Kinder sind die ganze Woche angemeldet und je zwei Drittel der Eltern und Lehrer stimmen zu.",
+      "Es genügt, wenn die Hälfte der Kinder an zwei Tagen bleibt.",
+      "Verschränkt ist immer verboten und nie zulässig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleinentscheidung und Einzelkinder reichen nicht aus.",
+      "Richtig: Vollanmeldung plus Zweidrittelzustimmung beider Seiten ist nötig.",
+      "Falsch: Halbe Teilnahme erfüllt die Voraussetzungen nicht.",
+      "Falsch: Verschränkt ist zulässig, aber an Bedingungen geknüpft."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine dritte Klasse soll Unterricht, Mittagessen und Freizeit im Wechsel über den Tag verteilen. Zwei Eltern sind dagegen und drei Kinder wären nur an einzelnen Tagen für den Nachmittag gemeldet.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Betreuungsteil braucht eine eigene Anmeldung und gilt bei getrennter Abfolge nur für das laufende Unterrichtsjahr. Eltern können dabei alle Tage oder nur einzelne Wochentage wählen. Zum Nachlesen: TirSOG §99e Abs.1, SchUG §12a Abs.1.",
+    "hauptquelle": "SchUG §12a Abs.1",
+    "id": "C35-L1-007",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Jedes Schulkind ist automatisch ohne Anmeldung dabei.",
+      "Es braucht eine Anmeldung, gültig für das laufende Jahr, auch für einzelne Tage möglich.",
+      "Die Anmeldung gilt automatisch für die gesamte Volksschulzeit.",
+      "Nur Kinder mit Fünfern im Zeugnis dürfen sich anmelden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Anmeldung gibt es keinen Betreuungsteilbesuch.",
+      "Richtig: Jahresbezogene Anmeldung, auch tageweise wählbar.",
+      "Falsch: Bei getrennter Abfolge gilt sie nur ein Jahr.",
+      "Falsch: Noten spielen für die Anmeldung keine Rolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Egger möchte ihren Sohn nur dienstags und donnerstags für den Nachmittag an der ganztägigen Volksschule anmelden, weil Oma die anderen Tage übernimmt. Das Sekretariat behauptet, es gehe nur die ganze Woche oder gar nicht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei verschränkter Abfolge muss die Anmeldung für alle Schultage gelten und wirkt für die gesamte Schuldauer an dieser Schule. Einzelne Tage zu wählen ist dort nicht möglich. Zum Nachlesen: TirSOG §99e Abs.2, SchUG §12a Abs.1.",
+    "hauptquelle": "SchUG §12a Abs.1",
+    "id": "C35-L1-008",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Auch verschränkt kann man einzelne Tage frei wählen.",
+      "Verschränkt gilt die Anmeldung für alle Schultage und die ganze Schuldauer.",
+      "Verschränkt braucht man gar keine Anmeldung.",
+      "Man kann wöchentlich zwischen verschränkt und getrennt wechseln."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Tageweise Wahl gibt es nur bei getrennter Abfolge.",
+      "Richtig: Volle Woche und Dauer des Schulbesuchs sind Pflicht.",
+      "Falsch: Auch verschränkt ist eine Anmeldung nötig.",
+      "Falsch: Die Organisationsform wechselt nicht wöchentlich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Hofer meldet ihre Tochter in einer verschränkt geführten Klasse an und bittet darum, den Freitagnachmittag auszunehmen, weil das Kind da zum Musikunterricht geht. Die Klassenlehrerin lehnt die Teilanmeldung ab.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Während des Jahres ist eine Abmeldung nur zum Ende des ersten Semesters möglich, spätestens drei Wochen davor. Sonst geht es nur aus besonders berücksichtigungswürdigen Gründen. Zum Nachlesen: TirSOG §99e Abs.1, SchUG §12a Abs.2.",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "id": "C35-L1-009",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Man kann jederzeit formlos von heute auf morgen abmelden.",
+      "Die Abmeldung geht nur zum Semesterende, drei Wochen vorher, sonst nur aus triftigen Gründen.",
+      "Eine Abmeldung ist das ganze Jahr über völlig ausgeschlossen.",
+      "Abmelden darf sich nur, wer die Schule ganz verlässt, ohne Ausnahme."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein fristloser Ausstieg mitten im Semester ist nicht vorgesehen.",
+      "Richtig: Semesterende mit Dreiwochefrist, sonst nur in Härtefällen.",
+      "Falsch: Zum Semesterende ist die Abmeldung möglich.",
+      "Falsch: Bei Härtefällen geht es auch ohne Schulwechsel."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im November will Familie Gruber ihren Sohn wegen eines neuen Hobbys am Mittwoch vom Betreuungsteil abmelden. Die Direktion erklärt, mitten im Semester sei das grundsätzlich nicht möglich, und die Familie hält das für Schikane.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Für Unterbringung, Essen und Betreuung im Freizeitbereich darf der Schulerhalter Beiträge einheben. Er muss sie per Verordnung höchstens kostendeckend festsetzen. Zum Nachlesen: TirSOG §99i Abs.1 und Abs.2.",
+    "hauptquelle": "TirSOG §99i Abs.2",
+    "id": "C35-L1-010",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Die Gemeinde darf frei Fantasiepreise ohne jede Grenze verlangen.",
+      "Der Beitrag ist per Verordnung höchstens kostendeckend festzusetzen.",
+      "Beiträge sind generell verboten, alles muss gratis sein.",
+      "Den Preis würfeln die Kinder in der Freizeit selbst aus."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Willkürpreise sind unzulässig, Kostendeckung ist die Obergrenze.",
+      "Richtig: Verordnung mit Kostendeckelung ist vorgeschrieben.",
+      "Falsch: Für Essen und Betreuung sind Beiträge erlaubt.",
+      "Falsch: Die Festsetzung obliegt dem Schulerhalter per Verordnung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eltern staunen über die Monatsrechnung für Mittagessen und Nachmittagsbetreuung an der ganztägigen Schule. Im Elternabend fällt der Satz, die Gemeinde könne ohnehin verlangen, was sie wolle.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Beitragsverordnung muss Ermäßigungen oder einen Entfall nach Einkommen, Vermögen und Familiensituation vorsehen. Bedürftige Familien dürfen nicht ausgeschlossen werden. Zum Nachlesen: TirSOG §99i Abs.2.",
+    "hauptquelle": "TirSOG §99i Abs.2",
+    "id": "C35-L1-011",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Alle zahlen starr den vollen Satz, egal wie die Lage daheim ist.",
+      "Ermäßigung oder Entfall nach Einkommen, Vermögen und Familie muss vorgesehen sein.",
+      "Nur Lehrerfamilien bekommen eine Ermäßigung.",
+      "Wer wenig verdient, dessen Kind fliegt aus der Betreuung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Starre Vollzahlung ohne Sozialklausel ist unzulässig.",
+      "Richtig: Die soziale Staffelung ist Pflichtbestandteil der Verordnung.",
+      "Falsch: Eine solche Bevorzugung sieht das Gesetz nicht vor.",
+      "Falsch: Genau das soll die Sozialklausel verhindern."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine alleinerziehende Mutter mit geringem Einkommen bittet um Nachlass beim Betreuungsbeitrag für ihre zwei Kinder. Die Gemeindekasse meint, der Tarif gelte ausnahmslos für alle gleich.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Verpflegungs- und Betreuungsbeitrag wird monatlich im Nachhinein eingehoben. Vorauszahlung für das ganze Semester darf nicht verlangt werden. Zum Nachlesen: TirSOG §99i Abs.3.",
+    "hauptquelle": "TirSOG §99i Abs.3",
+    "id": "C35-L1-012",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Beitrag ist jährlich im Voraus zu zahlen.",
+      "Der Beitrag wird monatlich im Nachhinein eingehoben.",
+      "Es ist nur Barzahlung an die Klassenlehrerin zulässig.",
+      "Der Beitrag wird pro Schulstunde in Münzen kassiert."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vorauszahlung für lange Zeiträume ist nicht vorgesehen.",
+      "Richtig: Monatliche Abrechnung nach erbrachter Leistung.",
+      "Falsch: Der Zahlungsweg ist so nicht vorgeschrieben.",
+      "Falsch: Eine stundenweise Münzkasse sieht das Gesetz nicht vor."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde verlangt von den Eltern im September den gesamten Betreuungsbeitrag für das Wintersemester im Voraus. Familie Pacher fragt, ob sie das wirklich auf einmal zahlen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Für Hefte und Bastelmaterial im Betreuungsteil darf höchstens ein kostendeckender Lernmittelbeitrag verlangt werden. Eingekauft werden muss dabei möglichst sparsam. Zum Nachlesen: TirSOG §99i Abs.4.",
+    "hauptquelle": "TirSOG §99i Abs.4",
+    "id": "C35-L1-013",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Material darf beliebig teuer eingekauft und voll verrechnet werden.",
+      "Höchstens kostendeckend und mit sparsamem Einkauf.",
+      "Lernmittel im Betreuungsteil zahlt immer das Land allein.",
+      "Eltern müssen das Material selbst im Großhandel besorgen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Luxuseinkauf auf Elternkosten ist unzulässig.",
+      "Richtig: Kostendeckel plus Sparsamkeitsgebot gelten gemeinsam.",
+      "Falsch: Der Beitrag der Eltern ist ausdrücklich erlaubt.",
+      "Falsch: Die Anschaffung organisiert die Schule, nicht die Eltern."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Für den Betreuungsteil kauft die Schule teure Markenbastelsets und stellt sie den Eltern voll in Rechnung. Eine Mutter beschwert sich über die üppige Rechnung für Papier und Kleber.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lehrer für Unterricht und Lernzeiten stellt das Land bei, das Personal für den Freizeitbereich stellt der Schulerhalter. Das Land hilft dort nur gegen vollen Kostenersatz aus. Zum Nachlesen: TirSOG §6 Abs.1 bis Abs.3.",
+    "hauptquelle": "TirSOG §6 Abs.3",
+    "id": "C35-L1-014",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Der Bürgermeister stellt auch die Mathelehrerin für den Vormittag an.",
+      "Das Land stellt Unterricht und Lernzeiten bei, den Freizeitbereich der Schulerhalter.",
+      "Die Eltern stellen die Freizeitpädagogen privat an.",
+      "Niemand ist zuständig, der Nachmittag läuft ohne Personal."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vormittagsunterricht ist Landessache, nicht Gemeindesache.",
+      "Richtig: Genau so ist die Personalzuständigkeit geteilt.",
+      "Falsch: Eltern stellen kein Betreuungspersonal an.",
+      "Falsch: Betreuung ohne Personal ist unzulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Bürgermeister will eine Freizeitpädagogin für den Nachmittag anstellen, verlangt aber gleichzeitig vom Land, auch diese Stelle gratis zu besetzen. Die Bildungsdirektion verweist auf die Zuständigkeit der Gemeinde.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Zum Leiter des Betreuungsteiles kann ein Lehrer, Erzieher oder Freizeitpädagoge auf Vorschlag der Schulleitung bestellt werden. Die Bestellung muss nach Klassen- und Gruppenzahl zweckmäßig sein. Zum Nachlesen: TirSOG §99f.",
+    "hauptquelle": "TirSOG §99f",
+    "id": "C35-L1-015",
+    "level": "L1",
+    "modul_id": "C35",
+    "optionen": [
+      "Jeder beliebige Elternteil ernennt sich einfach selbst.",
+      "Bestellt wird auf Vorschlag der Schulleitung, wenn es nach Klassen- und Gruppenzahl zweckmäßig ist.",
+      "Der Hausmeister wird automatisch kraft Amtes Leiter.",
+      "Eine Leitung des Betreuungsteiles ist gesetzlich verboten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Selbsternennung ist kein Bestellverfahren.",
+      "Richtig: Vorschlag der Leitung plus Zweckmäßigkeit sind die Kriterien.",
+      "Falsch: Automatik kraft Amtes gibt es nicht.",
+      "Falsch: Die Leitungsbestellung ist ausdrücklich vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer stark wachsenden ganztägigen Schule mit vielen Nachmittagsgruppen herrscht Chaos, weil niemand den Betreuungsteil koordiniert. Das Kollegium fragt, wer die Leitung übernehmen darf und wie sie bestellt wird.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
