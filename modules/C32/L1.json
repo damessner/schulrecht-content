@@ -1,1 +1,445 @@
-[]
+[
+  {
+    "id": "C32-L1-001",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Familie Gruber wohnt in Dorf A und will den 7-jährigen Sohn lieber in der Volksschule von Dorf B anmelden, weil dort eine Freundin unterrichtet. Der Vater meint, die freie Schulwahl gelte überall.",
+    "optionen": [
+      "Ja, Eltern dürfen die Volksschule im Land frei wählen ohne weitere Voraussetzung.",
+      "Nein, der Sohn muss grundsätzlich die Volksschule besuchen, in deren Gebiet die Familie wohnt, solange die Pflicht nicht anders erfüllt wird.",
+      "Ja, aber nur wenn Dorf B zustimmt und Dorf A eine Gebühr erhält.",
+      "Nein, er muss zu Hause unterrichtet werden."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Freie Wahl ohne Regeln gilt an der Volksschule nicht.",
+      "Richtig: Grundsätzlich erfüllt man die Pflicht in der Schule des Wohngebiets.",
+      "Falsch: Zustimmung gegen Gebühr ist nicht vorgesehen.",
+      "Falsch: Häuslicher Unterricht ist ein eigener Weg mit eigenen Regeln."
+    ],
+    "aufloesung": "Schulpflichtige besuchen die Schule ihres Wohngebiets, Ausnahmen nur nach den Aufnahmeregeln. Zum Nachlesen: TirSOG §25 Abs.2.",
+    "hauptquelle": "TirSOG §25 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-002",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Studentin Berger zieht nur für das Studium mit ihrem 8-jährigen Kind in eine WG im Gebiet einer bestimmten Volksschule und fragt, ob das Kind dort als zugehörig gilt.",
+    "optionen": [
+      "Nein, weil sie nur wegen Ausbildung dort wohnt.",
+      "Ja, auch wer nur wegen des Schulbesuchs im Gebiet wohnt, zählt als zugehörig.",
+      "Nur wenn sie dort den Hauptwohnsitz seit zwei Jahren hat.",
+      "Nur mit Zustimmung des Bürgermeisters der Heimatgemeinde."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch Wohnen nur wegen Schulbesuchs genügt.",
+      "Richtig: Zugehörigkeit hängt am Wohnen im Gebiet, auch nur wegen Schule.",
+      "Falsch: Eine Zweijahresfrist gibt es nicht.",
+      "Falsch: Zustimmung des Heimatbürgermeisters ist hier nicht nötig."
+    ],
+    "aufloesung": "Zugehörig ist, wer im Gebiet wohnt, selbst wenn nur wegen des Schulbesuchs. Zum Nachlesen: TirSOG §25 Abs.4.",
+    "hauptquelle": "TirSOG §25 Abs.4",
+    "zusatzquellen": [
+      "TirSOG §25 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-003",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "In einer Stadt gibt es drei Volksschulen mit einem gemeinsamen Gebiet. Eltern fragen, wer bestimmt, in welche der drei Schulen ihr Sohn gehen muss.",
+    "optionen": [
+      "Die Eltern allein ohne jede Vorgabe.",
+      "Der Bürgermeister nach Anhören der Schulleiter bestimmt die Schule, in Innsbruck nach Anhören der Behörde.",
+      "Die älteste Schule entscheidet für alle.",
+      "Das Los entscheidet immer automatisch."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei gemeinsamem Gebiet gibt es eine Zuteilung.",
+      "Richtig: Bürgermeister teilt nach Anhörung der Leitungen zu.",
+      "Falsch: Kein Vorrecht der ältesten Schule.",
+      "Falsch: Los ist nicht vorgesehen."
+    ],
+    "aufloesung": "Bei gemeinsamem Gebiet teilt der Bürgermeister nach Anhörung zu. Zum Nachlesen: TirSOG §26 Abs.4.",
+    "hauptquelle": "TirSOG §26 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-004",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Gemeinde will die Grenze zwischen zwei Volksschulgebieten neu ziehen. Ein Gemeinderat schlägt vor, ein abgelegenes Weilergebiet keiner Schule zuzuordnen, um Streit zu vermeiden.",
+    "optionen": [
+      "Ja, Lücken sind zulässig wenn es Streit gibt.",
+      "Nein, die Gebiete müssen grundsätzlich lückenlos aneinandergrenzen und einen zumutbaren Weg ermöglichen.",
+      "Ja, wenn die Eltern ein Auto haben.",
+      "Nur wenn die Behörde Urlaub hat."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Lücken lassen ist nicht erlaubt.",
+      "Richtig: Lückenlosigkeit und zumutbarer Weg sind Maßstab.",
+      "Falsch: Autobesitz ändert die Gebietsregel nicht.",
+      "Falsch: Urlaub der Behörde spielt keine Rolle."
+    ],
+    "aufloesung": "Grenzen richten sich nach örtlichen Verhältnissen mit zumutbarem Weg und lückenloser Abdeckung. Zum Nachlesen: TirSOG §26 Abs.1 und Abs.3.",
+    "hauptquelle": "TirSOG §26 Abs.1",
+    "zusatzquellen": [
+      "TirSOG §26 Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-005",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Mutter Hofer arbeitet bis 16.30 Uhr und braucht für ihre Tochter eine Betreuung mit Mittagessen an allen Schultagen bis mindestens 16 Uhr. Im eigenen Schulgebiet gibt es weder eine schulische Betreuung noch einen erreichbaren Hort mit diesem Angebot, die Nachbarschule bietet eine schulische Tagesbetreuung an.",
+    "optionen": [
+      "Die Nachbarschule darf die Tochter grundsätzlich nicht nehmen.",
+      "Die Nachbarschule muss die Tochter aufnehmen, wenn genug Plätze für die eigenen Kinder bleiben und keine neue Klasse nötig wird.",
+      "Die Nachbarschule muss immer aufnehmen, egal wie voll sie ist.",
+      "Nur gegen doppeltes Schulgeld ist die Aufnahme möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Genau für diese Betreuungslage besteht eine Pflicht.",
+      "Richtig: Betreuungsnot plus Platz und keine neue Klasse führt zur Pflicht.",
+      "Falsch: Volle Auslastung und neue Klasse begrenzen die Pflicht.",
+      "Falsch: Geld entscheidet hier nicht."
+    ],
+    "aufloesung": "Bei fehlender Betreuung bis 16 Uhr mit Essen im eigenen Bereich muss die anbietende Schule bei Platz ohne neue Klasse aufnehmen. Zum Nachlesen: TirSOG §28 Abs.2 lit.b.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.b",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-006",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Sohn von Familie Demir braucht als außerordentlich aufgenommener Schüler dringend eine Deutschförderklasse. Die eigene Volksschule bietet weder Klasse noch Kurs an, die Volksschule im Nachbarort hat eine Förderklasse eingerichtet und noch freie Plätze ohne neue Klasse.",
+    "optionen": [
+      "Der Nachbarort darf ihn nicht nehmen, Förderung ist ortsgebunden.",
+      "Der Nachbarort muss ihn aufnehmen, weil das Angebot zu Hause fehlt und dort eingerichtet ist.",
+      "Nur bei Umzug darf er wechseln.",
+      "Nur mit Privattrainer darf er wechseln."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fehlendes Angebot zu Hause öffnet den Weg zum Gastort.",
+      "Richtig: Fehlendes Angebot plus eingerichtete Klasse beim Gast löst Pflicht aus.",
+      "Falsch: Umzug ist nicht nötig.",
+      "Falsch: Privattrainer spielt keine Rolle."
+    ],
+    "aufloesung": "Fehlt Klasse oder Kurs zu Hause und ist das Angebot beim Gast eingerichtet, besteht bei Platz ohne neue Klasse Pflicht. Zum Nachlesen: TirSOG §28 Abs.2 lit.c.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.c",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-007",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Ein Schüler wurde vom Besuch seiner Volksschule ausgeschlossen und kann dort nicht bleiben. Die Behörde hat entschieden, an welcher anderen Volksschule er die Pflicht erfüllen soll. Die dortige Gemeinde will ihn abweisen.",
+    "optionen": [
+      "Die Gemeinde darf immer abweisen.",
+      "Die zugewiesene Schule muss den zugewiesenen Schüler aufnehmen.",
+      "Nur bei guten Noten muss sie aufnehmen.",
+      "Nur nach einem Jahr Wartezeit muss sie aufnehmen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zuweisung ist verbindlich.",
+      "Richtig: Zugewiesene Schüler sind aufzunehmen.",
+      "Falsch: Noten spielen hier keine Rolle.",
+      "Falsch: Wartejahr gibt es nicht."
+    ],
+    "aufloesung": "Von der Behörde zugewiesene Schüler muss der Schulerhalter aufnehmen. Zum Nachlesen: TirSOG §28 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.a",
+    "zusatzquellen": [
+      "TirSOG §28 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-008",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Mutter aus dem Nachbargebiet will ihr Kind wegen der Tagesbetreuung bis 16 Uhr an deiner Schule anmelden. Deine Schule ist bereits so voll, dass dafür eine zusätzliche Klasse aufgemacht werden müsste.",
+    "optionen": [
+      "Trotzdem aufnehmen, Platz spielt nie eine Rolle.",
+      "Nicht aufnehmen, weil die Pflicht bei Betreuung und Sprachförderung nur bei Platz für alle eigenen Kinder und ohne neue Klasse gilt.",
+      "Aufnehmen und die eigenen Kinder wegschicken.",
+      "Nur aufnehmen wenn die Mutter kündigt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Platz und Klassenzahl sind klare Grenzen.",
+      "Richtig: Volle eigene Aufnahme plus keine neue Klasse sind Bedingung.",
+      "Falsch: Eigene Kinder verdrängen ist unzulässig.",
+      "Falsch: Beruf der Mutter ist nicht Maßstab."
+    ],
+    "aufloesung": "Die Betreuungs- und Förderpflicht gilt nur bei Platz für alle eigenen und ohne neue Klasse. Zum Nachlesen: TirSOG §28 Abs.2 letzter Satz.",
+    "hauptquelle": "TirSOG §28 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-009",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eltern Brunner wollen für ihren Sohn einfach die Volksschule im Nachbarort, weil der Schulweg über die Großeltern führt. Kein Betreuungsnotstand, keine Förderklasse, keine Zuweisung liegt vor.",
+    "optionen": [
+      "Der Nachbarort muss in jedem Fall aufnehmen.",
+      "Der Nachbarort kann aufnehmen, wenn keiner der gesetzlichen Hinderungsgründe vorliegt.",
+      "Der Nachbarort darf niemals Gastkinder nehmen.",
+      "Nur bei Schulwechsel ins Ausland ist das möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Pflichtgrund gibt es keine Muss-Aufnahme.",
+      "Richtig: Freiwillige Aufnahme ist möglich, wenn kein Hindernis greift.",
+      "Falsch: Gastkinder sind nicht generell verboten.",
+      "Falsch: Ausland spielt hier keine Rolle."
+    ],
+    "aufloesung": "Ohne Pflichtgrund darf der Schulerhalter Gastkinder aufnehmen, wenn kein Hindernis vorliegt. Zum Nachlesen: TirSOG §28 Abs.3.",
+    "hauptquelle": "TirSOG §28 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-010",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Deine kleine Volksschule hat pro Stufe nur eine jahrgangsgemischte Klasse. Durch den Weggang eines Kindes an die Wunschschule im Nachbarort müssten zwei Stufen zusammengelegt werden. Die Eltern bestehen auf Mitnahme.",
+    "optionen": [
+      "Du musst immer zustimmen.",
+      "Du kannst die freiwillige Aufnahme verweigern, wenn zu Hause eine Zusammenlegung zu einer nicht rein jahrgangsgleichen Klasse nötig würde.",
+      "Du musst die Schule schließen.",
+      "Du musst eine neue Klasse bauen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schutz der Heimatschule geht vor Wunsch.",
+      "Richtig: Drohende Mischung von Stufen zu Hause blockiert die freiwillige Mitnahme.",
+      "Falsch: Schließung ist hier nicht Thema.",
+      "Falsch: Neubau ist keine Pflicht."
+    ],
+    "aufloesung": "Die freiwillige Gastaufnahme scheitert, wenn zu Hause deswegen Stufen gemischt werden müssten. Zum Nachlesen: TirSOG §28 Abs.3 lit.a.",
+    "hauptquelle": "TirSOG §28 Abs.3 lit.a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-011",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Die Volksschule in Talheim hat nur noch 9 Kinder. Würden zwei weitere Kinder an die beliebte Schule im Nachbarort wechseln, wäre der Bestand von Talheim gefährdet. Die Eltern berufen sich auf Wunschschule.",
+    "optionen": [
+      "Wunsch geht immer vor Bestand.",
+      "Die Gastaufnahme kann verweigert werden, wenn die Heimatschule dadurch in ihrem Bestand gefährdet würde.",
+      "Die Heimatschule muss sofort aufgelassen werden.",
+      "Die Eltern müssen Strafe zahlen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bestandsschutz begrenzt den Wunsch.",
+      "Richtig: Gefährdung des Bestands zu Hause ist ein Verweigerungsgrund.",
+      "Falsch: Auflassung folgt eigenen Regeln.",
+      "Falsch: Strafe gibt es keine."
+    ],
+    "aufloesung": "Bei Bestandsgefährdung zu Hause darf die freiwillige Gastaufnahme versagt werden. Zum Nachlesen: TirSOG §28 Abs.3 lit.b.",
+    "hauptquelle": "TirSOG §28 Abs.3 lit.b",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-012",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "An der Wunschschule im Nachbarort würde die Aufnahme eines Gastkindes genau die eine zusätzliche Klasse auslösen, die sonst nicht nötig wäre. Der Schulerhalter zögert.",
+    "optionen": [
+      "Er muss trotzdem aufnehmen.",
+      "Er kann verweigern, weil in der Gastschule keine neue Klasse durch Gastkinder entstehen soll.",
+      "Er muss zwei neue Klassen aufmachen.",
+      "Er muss die Sprengelkinder abweisen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Neue Klasse durch Gastkinder ist ein Stoppsignal.",
+      "Richtig: Vermeidung neuer Klassen beim Gast ist Verweigerungsgrund.",
+      "Falsch: Zwei Klassen sind nicht verlangt.",
+      "Falsch: Eigene Kinder haben Vorrang."
+    ],
+    "aufloesung": "Führt die Gastaufnahme zu einer neuen Klasse beim Gast, darf sie versagt werden. Zum Nachlesen: TirSOG §28 Abs.3 lit.c.",
+    "hauptquelle": "TirSOG §28 Abs.3 lit.c",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-013",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach einem schweren Vorfall wird ein Schüler von seiner Volksschule ausgeschlossen und braucht eine neue Schule außerhalb seines bisherigen Gebiets. Die Eltern fragen, wer das entscheidet.",
+    "optionen": [
+      "Die Eltern allein.",
+      "Die Bildungsdirektion entscheidet, an welcher Schule die Pflicht zu erfüllen ist.",
+      "Die Polizei entscheidet allein.",
+      "Der Bürgermeister des Urlaubsortes entscheidet."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleinwahl gilt nach Ausschluss nicht.",
+      "Richtig: Die Behörde weist der neuen Schule zu.",
+      "Falsch: Polizei weist nicht der Schule zu.",
+      "Falsch: Urlaubsort spielt keine Rolle."
+    ],
+    "aufloesung": "Bei nötiger Zuweisung nach Ausschluss entscheidet die Behörde über die neue Schule. Zum Nachlesen: TirSOG §28 Abs.4.",
+    "hauptquelle": "TirSOG §28 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-014",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Kind Lena hat besonderen Förderbedarf und soll statt der Sonderschule eine geeignete Volksschule außerhalb ihres Gebiets besuchen, weil ihre Heimatschule diese Förderung nicht oder nicht gleich gut bieten kann. Die Eltern fragen, wer die Schule festlegt.",
+    "optionen": [
+      "Niemand, das Kind bleibt ohne Schule.",
+      "Die Bildungsdirektion entscheidet, an welcher geeigneten Volksschule die Pflicht erfüllt wird.",
+      "Die Krankenkasse entscheidet.",
+      "Die Nachbarschule lost aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Klärung bleibt das Kind nicht ohne Schule.",
+      "Richtig: Bei Förderbedarf außerhalb entscheidet die Behörde über die geeignete Schule.",
+      "Falsch: Kasse weist nicht zu.",
+      "Falsch: Los ist nicht vorgesehen."
+    ],
+    "aufloesung": "Kann die Heimatschule nicht gleich fördern, weist die Behörde der geeigneten Schule zu. Zum Nachlesen: TirSOG §28 Abs.4.",
+    "hauptquelle": "TirSOG §28 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L1-015",
+    "modul_id": "C32",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Schülerin Anna erfüllt alle sportlichen Aufnahmekriterien und will in die Sportklasse einer Mittelschule im Nachbargebiet. In ihrem eigenen Gebiet gibt es keine Schule mit sportlichem Schwerpunkt.",
+    "optionen": [
+      "Sie hat keine Chance, Schwerpunkte sind nur für Einheimische.",
+      "Sie muss aufgenommen werden, wenn sie die Kriterien erfüllt, zu Hause kein solches Angebot besteht, Platz für alle Einheimischen mit Kriterien reicht und keine neue Schwerpunktklasse nötig wird.",
+      "Sie muss immer aufgenommen werden, auch bei Überfüllung mit neuer Klasse.",
+      "Nur bei Umzug ist das möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schwerpunktangebote öffnen auch Gästen den Weg.",
+      "Richtig: Kriterien plus fehlendes Angebot zu Hause plus Platz ohne neue Schwerpunktklasse führt zur Pflicht.",
+      "Falsch: Platz und Klassenzahl begrenzen auch hier.",
+      "Falsch: Umzug ist nicht nötig."
+    ],
+    "aufloesung": "Erfüllt das Gastkind die Schwerpunktkriterien und fehlt das Angebot zu Hause, besteht bei Platz ohne neue Schwerpunktklasse Pflicht. Zum Nachlesen: TirSOG §43 Abs.2.",
+    "hauptquelle": "TirSOG §43 Abs.2",
+    "zusatzquellen": [
+      "TirSOG §41 Abs.1"
+    ],
+    "stand": "04.09.2026"
+  }
+]

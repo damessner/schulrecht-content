@@ -1,1 +1,562 @@
-[]
+[
+  {
+    "id": "C32-L2-001",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Du leitest eine Volksschule und hast drei Anträge von Kindern aus fremden Gebieten am Tisch: Zuweisung nach Ausschluss, Wunsch wegen Betreuung bis 16 Uhr, Wunsch wegen Förderklasse. Du sollst die Muss-Fälle sauber von Kann-Fällen trennen.",
+    "optionen": [
+      "Behördlich zugewiesene Schüler nach Ausschluss oder Förderbedarf musst du aufnehmen.",
+      "Betreuungskinder musst du bei fehlendem Angebot zu Hause und eigenem Angebot aufnehmen, wenn Platz reicht und keine neue Klasse entsteht.",
+      "Förderkinder für Klasse oder Kurs musst du bei fehlendem Angebot zu Hause und eingerichtetem Angebot aufnehmen, wenn Platz reicht und keine neue Klasse entsteht.",
+      "Jedes Wunschkind musst du immer aufnehmen, egal wie voll die Schule ist.",
+      "Reine Wunschschule ohne Pflichtgrund musst du immer aufnehmen.",
+      "Bei Muss-Fällen wegen Betreuung und Förderung darfst du Platz und Klassenzahl ignorieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zugewiesene sind aufzunehmen.",
+      "Richtig: Betreuungspflicht gilt mit Platz- und Klassenvorbehalt.",
+      "Richtig: Förderpflicht gilt mit Platz- und Klassenvorbehalt.",
+      "Falsch: Volle Schule und neue Klasse begrenzen die Pflicht.",
+      "Falsch: Reiner Wunsch ist nur eine Kann-Aufnahme.",
+      "Falsch: Platz und Klassenzahl sind gerade dort Bedingung."
+    ],
+    "aufloesung": "Muss gilt für Zugewiesene, Betreuung und Förderung mit Platz ohne neue Klasse, Rest ist Kann. Zum Nachlesen: TirSOG §28 Abs.2.",
+    "hauptquelle": "TirSOG §28 Abs.2",
+    "zusatzquellen": [
+      "TirSOG §28 Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-002",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Vater braucht für seinen Sohn eine Betreuung mit Mittagessen an allen Schultagen bis mindestens 16 Uhr und will die Schule im Nachbarort. Du prüfst als Schulerhalter die Muss-Voraussetzungen für die Betreuungsaufnahme.",
+    "optionen": [
+      "Im eigenen Gebiet gibt es weder eine schulische Tagesbetreuung noch einen erreichbaren Hort mit Betreuung an allen Schultagen bis 16 Uhr samt Mittagessen.",
+      "Deine Schule bietet tatsächlich eine schulische Tagesbetreuung an.",
+      "Alle eigenen Kinder können aufgenommen werden und durch den Gast entsteht keine neue Klasse.",
+      "Es genügt, dass die Eltern die Nachbarschule sympathischer finden.",
+      "Es genügt eine Betreuung nur an zwei Tagen pro Woche.",
+      "Die Pflicht gilt auch bei Überfüllung mit neuer Klasse."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fehlendes Angebot zu Hause ist erste Bedingung.",
+      "Richtig: Eigenes Angebot beim Gast ist zweite Bedingung.",
+      "Richtig: Platz für eigene plus keine neue Klasse ist Grenze.",
+      "Falsch: Sympathie löst keine Pflicht aus.",
+      "Falsch: Verlangt ist tägliches Angebot bis 16 Uhr mit Essen.",
+      "Falsch: Neue Klasse stoppt die Pflicht."
+    ],
+    "aufloesung": "Fehlendes Angebot zu Hause, eigenes Angebot beim Gast sowie Platz ohne neue Klasse prüfen. Zum Nachlesen: TirSOG §28 Abs.2 lit.b.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.b",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-003",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Ein außerordentlich aufgenommener Schüler wegen Sprache soll eine Förderklasse am anderen Standort besuchen, weil die Heimatschule nichts anbietet. Du prüfst die Muss-Aufnahme wegen Sprachförderung.",
+    "optionen": [
+      "Das Kind ist wegen mangelnder Unterrichtssprache außerordentlich aufgenommen und strebt Klasse oder Kurs an.",
+      "An der Schule des eigenen Gebiets kann dieses Angebot nicht genutzt werden.",
+      "Beim Gast ist eine Förderklasse oder ein Förderkurs tatsächlich eingerichtet.",
+      "Alle eigenen Kinder haben Platz und es entsteht keine neue Klasse.",
+      "Es genügt ein allgemeiner Förderwunsch ohne Sprachhintergrund.",
+      "Die Pflicht gilt auch wenn beim Gast gar kein Angebot eingerichtet ist."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Außerordentlich wegen Sprache plus angestrebte Förderung ist Ausgangspunkt.",
+      "Richtig: Fehlendes Angebot zu Hause ist Bedingung.",
+      "Richtig: Eingerichtetes Angebot beim Gast ist Bedingung.",
+      "Richtig: Platz für eigene plus keine neue Klasse begrenzt.",
+      "Falsch: Ohne Sprachhintergrund greift diese Pflicht nicht.",
+      "Falsch: Ohne eingerichtetes Angebot keine Pflicht."
+    ],
+    "aufloesung": "Sprachstatus, fehlendes Angebot zu Hause, eingerichtetes Angebot beim Gast und Platz ohne neue Klasse gehören zusammen. Zum Nachlesen: TirSOG §28 Abs.2 lit.c.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.c",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-004",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eltern wollen aus Komfortgründen die Volksschule im Nachbarort ohne Betreuungsnot, Förderbedarf oder Zuweisung. Du erklärst als Schulerhalter, wann du die freiwillige Aufnahme ablehnen darfst.",
+    "optionen": [
+      "Wenn zu Hause dadurch Klassen zu einer nicht rein jahrgangsgleichen Klasse zusammengelegt werden müssten.",
+      "Wenn die Heimatschule dadurch in ihrem Bestand gefährdet würde.",
+      "Wenn bei dir dadurch eine neue Klasse entstehen würde.",
+      "Wenn die Eltern pünktlich zum Unterricht erscheinen würden.",
+      "Wenn das Kind gute Noten hat.",
+      "Wenn der Schulweg kurz wäre."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schutz vor Stufenmischung zu Hause.",
+      "Richtig: Bestandsschutz der Heimatschule.",
+      "Richtig: Keine neue Klasse beim Gast durch Gäste.",
+      "Falsch: Pünktlichkeit ist kein Hinderungsgrund.",
+      "Falsch: Gute Noten hindern nicht.",
+      "Falsch: Kurzer Weg hindert nicht."
+    ],
+    "aufloesung": "Freiwillige Aufnahme scheitert an Stufenmischung zu Hause, Bestandsgefährdung oder neuer Klasse beim Gast. Zum Nachlesen: TirSOG §28 Abs.3.",
+    "hauptquelle": "TirSOG §28 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-005",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Du musst dem Gemeinderat die Klassenzahl-Grenzen für Gastaufnahmen erklären. Es geht um Betreuung, Förderung, Schwerpunktklassen und reine Wunschaufnahmen.",
+    "optionen": [
+      "Bei Betreuung und Sprachförderung nur aufnehmen, wenn alle eigenen Kinder Platz haben.",
+      "Bei Betreuung und Sprachförderung nur aufnehmen, wenn keine neue Klasse entsteht.",
+      "Bei Schwerpunktklassen nur aufnehmen, wenn alle eigenen mit Kriterien Platz haben und keine neue Schwerpunktklasse entsteht.",
+      "Bei reiner Wunschaufnahme ablehnen dürfen, wenn beim Gast eine neue Klasse entstünde.",
+      "Gastkinder dürfen immer neue Klassen auslösen.",
+      "Eigene Kinder dürfen für Gäste verdrängt werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eigene zuerst ist Grundsatz.",
+      "Richtig: Keine neue Klasse ist Grenze.",
+      "Richtig: Bei Schwerpunkten gilt die Grenze für Schwerpunktklassen.",
+      "Richtig: Neue Klasse beim Gast blockiert freiwillige Aufnahme.",
+      "Falsch: Genau das soll verhindert werden.",
+      "Falsch: Verdrängung eigener ist unzulässig."
+    ],
+    "aufloesung": "Platz für eigene und keine neue Klasse schützen beide Schulen, bei Schwerpunkten bezogen auf Schwerpunktklassen. Zum Nachlesen: TirSOG §28 Abs.2 letzter Satz.",
+    "hauptquelle": "TirSOG §28 Abs.2",
+    "zusatzquellen": [
+      "TirSOG §28 Abs.3 lit.c",
+      "TirSOG §43 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-006",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach einem Ausschluss und bei einem Kind mit Förderbedarf außerhalb des Gebiets fragen Eltern, wer die neue Schule bestimmt und was die Behörde dabei entscheidet.",
+    "optionen": [
+      "Bei nötiger Zuweisung nach Ausschluss an eine Schule außerhalb entscheidet die Behörde.",
+      "Bei Förderbedarf mit geeigneter Schule außerhalb wegen fehlender gleicher Förderung zu Hause entscheidet die Behörde.",
+      "Die Behörde legt fest, an welcher Schule die Pflicht zu erfüllen ist.",
+      "Die Eltern allein bestimmen nach Ausschluss die neue Schule.",
+      "Der Schulerhalter des Wunschortes entscheidet allein über die Zuweisung.",
+      "Eine Zuweisung ist nie nötig, das Kind bleibt ohne Schule."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ausschluss mit Außenbedarf führt zur Behörde.",
+      "Richtig: Förderbedarf mit Außenbedarf führt zur Behörde.",
+      "Richtig: Behörde bestimmt die Pflichterfüllungsschule.",
+      "Falsch: Alleinwahl gilt hier nicht.",
+      "Falsch: Zuweisung ist Behördenentscheidung.",
+      "Falsch: Ohne Schule bleiben ist keine Lösung."
+    ],
+    "aufloesung": "In beiden Außenfällen weist die Behörde der Pflichterfüllungsschule zu. Zum Nachlesen: TirSOG §28 Abs.4.",
+    "hauptquelle": "TirSOG §28 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-007",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Kind Jonas mit Förderbedarf soll statt der Sonderschule eine Volksschule im Nachbargebiet besuchen. Du bereitest das Behördenverfahren vor und listest die Voraussetzungen auf.",
+    "optionen": [
+      "Jonas hat besonderen Förderbedarf und strebt eine geeignete Volksschule außerhalb an.",
+      "An der Schule des eigenen Gebiets kann die Förderung nicht oder nicht gleich gut erfolgen.",
+      "Die Behörde entscheidet über die geeignete Schule.",
+      "Es genügt, dass die Nachbarschule einen schöneren Pausenhof hat.",
+      "Jede beliebige Schule ohne Eignung reicht aus.",
+      "Die Sonderschule muss immer Vorrang haben ohne Prüfung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Förderbedarf plus geeignete Außenschule ist Ausgangspunkt.",
+      "Richtig: Fehlende gleiche Förderung zu Hause ist Kernbedingung.",
+      "Richtig: Behörde trifft die Zuweisungsentscheidung.",
+      "Falsch: Pausenhof ist kein Maßstab.",
+      "Falsch: Eignung der Schule ist verlangt.",
+      "Falsch: Gerade die Alternative zur Sonderschule wird geregelt."
+    ],
+    "aufloesung": "Förderbedarf, fehlende gleiche Förderung zu Hause und geeignete Außenschule führen zur Behördenentscheidung. Zum Nachlesen: TirSOG §28 Abs.4.",
+    "hauptquelle": "TirSOG §28 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-008",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Eltern eines Mittelschulkindes verstehen Pflichtgebiet und Wahlgebiet nicht. Du erklärst am Beispiel ihrer Gemeinde, wie die Gebiete bei der Mittelschule geteilt sein können.",
+    "optionen": [
+      "Jede Mittelschule hat ein Gebiet, das in Pflicht- und Wahlgebiet geteilt sein kann, ohne Teilung gilt alles als Pflichtgebiet.",
+      "Das Pflichtgebiet umfasst die dort wohnenden pflichtigen Kinder, das Wahlgebiet die dort wohnenden berechtigten Kinder.",
+      "Pflichtige und Berechtigte erfüllen die Pflicht grundsätzlich in der Schule ihres jeweiligen Gebiets.",
+      "Für Schwerpunkte Musik, Sport oder Englisch kann ein eigenes Wahlgebiet bestehen, auch ohne lückenlose Nachbarschaft.",
+      "Es gibt nie ein Wahlgebiet.",
+      "Pflicht und Wahl sind immer identisch ohne Unterschied."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Teilung ist möglich, sonst gilt Pflichtgebiet.",
+      "Richtig: Pflichtgebiet für Pflichtige, Wahlgebiet für Berechtigte.",
+      "Richtig: Pflichterfüllung in der Schule des jeweiligen Gebiets.",
+      "Richtig: Schwerpunkt-Wahlgebiete dürfen lückenhaft sein.",
+      "Falsch: Wahlgebiete sind vorgesehen.",
+      "Falsch: Unterschied ist gerade der Sinn der Teilung."
+    ],
+    "aufloesung": "Pflicht- und Wahlgebiet trennen Pflichtige und Berechtigte, Schwerpunkte haben eigene Wahlgebiete. Zum Nachlesen: TirSOG §41.",
+    "hauptquelle": "TirSOG §41",
+    "zusatzquellen": [
+      "TirSOG §42 Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-009",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Schüler Tim erfüllt die sportlichen Kriterien und will in die Sportklasse im Nachbargebiet, weil es zu Hause kein Sportangebot gibt. Du prüfst die Schwerpunkt-Aufnahmepflicht.",
+    "optionen": [
+      "Tim erfüllt die schulrechtlichen Aufnahmekriterien für die Sonderform.",
+      "Im eigenen Gebiet ist der Besuch einer solchen Schule oder Klasse nicht möglich.",
+      "Alle einheimischen Kinder mit Kriterien haben Platz.",
+      "Durch Tim entsteht keine neue als Sonderform geführte Klasse.",
+      "Es genügt, dass Tim die Sportart im Fernsehen mag.",
+      "Die Pflicht gilt auch bei Überfüllung mit neuer Schwerpunktklasse."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erfüllte Kriterien sind erste Bedingung.",
+      "Richtig: Fehlendes Angebot zu Hause ist zweite Bedingung.",
+      "Richtig: Platz für alle Einheimischen mit Kriterien ist Grenze.",
+      "Richtig: Keine neue Schwerpunktklasse ist Grenze.",
+      "Falsch: Interesse ersetzt keine Kriterien.",
+      "Falsch: Neue Schwerpunktklasse stoppt die Pflicht."
+    ],
+    "aufloesung": "Kriterien, fehlendes Angebot zu Hause sowie Platz ohne neue Schwerpunktklasse prüfen. Zum Nachlesen: TirSOG §43 Abs.2.",
+    "hauptquelle": "TirSOG §43 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-010",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Du sollst für Sonderschulen und Polytechnische Schulen erklären, welche Gebiets- und Aufnahmeregeln dort sinngemäß gelten und wo eigene Wahlgebiete möglich sind.",
+    "optionen": [
+      "Für Sonderschulen gelten Pflicht- und Wahlgebiet, Abgrenzung, Festsetzung und Aufnahme sinngemäß wie bei der Mittelschule.",
+      "Für einzelne Stufen einer Sonderschule können eigene Gebiete über mehrere Nachbargebiete hinweg bestehen.",
+      "Für Polytechnische Schulen gelten die Volks schulregeln sinngemäß, für Fachbereiche kann ein eigenes Wahlgebiet ohne Lückenpflicht bestehen.",
+      "Ein eigenes Wahlgebiet für Fachbereiche braucht die Zustimmung der beteiligten Schulerhalter und Gebietskörperschaften.",
+      "Sonderschulen haben nie ein Gebiet.",
+      "Polytechnische Schulen dürfen nie Wahlgebiete haben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verweis auf die Mittelschulregeln.",
+      "Richtig: Stufenweise eigene Gebiete sind möglich.",
+      "Richtig: Fachbereichs-Wahlgebiet ohne Lückenpflicht ist vorgesehen.",
+      "Richtig: Zustimmung der Beteiligten ist nötig.",
+      "Falsch: Gebiete sind auch dort vorgesehen.",
+      "Falsch: Fachbereichs-Wahlgebiet ist ausdrücklich möglich."
+    ],
+    "aufloesung": "Sonderschulen folgen den Mittelschulregeln, Polytechnische den Volksschulregeln, Fachbereiche mit eigenem Wahlgebiet bei Zustimmung. Zum Nachlesen: TirSOG §56 Abs.1.",
+    "hauptquelle": "TirSOG §56 Abs.1",
+    "zusatzquellen": [
+      "TirSOG §69 Abs.2",
+      "TirSOG §69 Abs.3"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-011",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An deinem Standort sind 9 Kinder mit kaum Deutschkenntnissen, die weder als ordentliche noch für einen Kurs in Frage kommen. Du prüfst als Leitung die Einrichtung einer Deutschförderklasse.",
+    "optionen": [
+      "Ab acht solchen Kindern ist eine Förderklasse auch übergreifend über Klassen, Stufen oder Arten einzurichten.",
+      "Die Klasse dauert ein Semester und ist bis zu viermal zu besuchen, bis Kurs oder Regelunterricht möglich ist.",
+      "Bei zu geringer Zahl sind die Kinder grundsätzlich integrativ mit sechs Stunden parallel zum Klassenunterricht zu fördern.",
+      "Die Einrichtung obliegt der Schulleitung.",
+      "Eine Förderklasse dauert immer vier Jahre ohne Überprüfung.",
+      "Unter acht Kindern ist jede Förderung verboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Achter-Schwelle auch übergreifend.",
+      "Richtig: Semesterweise bis max. viermal mit Testergebnissen als Weiche.",
+      "Richtig: Bei kleiner Zahl integrativ mit sechs Parallelstunden.",
+      "Richtig: Leitung richtet ein.",
+      "Falsch: Dauer und Wechsel hängen von Testergebnissen ab.",
+      "Falsch: Bei kleiner Zahl integrativ fördern."
+    ],
+    "aufloesung": "Ab acht Kindern Klasse einrichten, semesterweise bis Kurs oder Regel möglich, sonst integrativ mit Parallelstunden. Zum Nachlesen: TirSOG §96 Abs.2.",
+    "hauptquelle": "TirSOG §96 Abs.2",
+    "zusatzquellen": [
+      "TirSOG §96 Abs.1"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-012",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zehn Kinder können nicht als ordentliche aufgenommen werden, brauchen aber keine eigene Förderklasse. Du organisierst als Leitung einen Deutschförderkurs parallel zum Regelunterricht.",
+    "optionen": [
+      "Ab acht solchen Kindern ist ein Kurs auch übergreifend einzurichten.",
+      "Der Kurs dauert ein bis höchstens zwei Jahre und kann bei erreichter Sprachkompetenz früher enden.",
+      "Im Kurs sind sechs Wochenstunden parallel zu Pflichtgegenständen nach dem Deutsch-Lehrplan zu unterrichten.",
+      "Bei zu geringer Zahl sind die Kinder integrativ in der Klasse zu fördern.",
+      "Der Kurs ersetzt alle Pflichtgegenstände dauerhaft.",
+      "Ein Kurs darf nie parallel zum Unterricht laufen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Achter-Schwelle auch übergreifend.",
+      "Richtig: Ein bis zwei Jahre mit früherem Ende bei Kompetenz.",
+      "Richtig: Sechs Parallelstunden nach Deutsch-Lehrplan.",
+      "Richtig: Bei kleiner Zahl integrativ fördern.",
+      "Falsch: Kurs läuft neben dem Regelbesuch.",
+      "Falsch: Parallelführung ist gerade der Sinn."
+    ],
+    "aufloesung": "Ab acht Kindern Kurs mit sechs Parallelstunden für ein bis zwei Jahre, sonst integrativ. Zum Nachlesen: TirSOG §96 Abs.3.",
+    "hauptquelle": "TirSOG §96 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-013",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eltern fordern eine garantierte Tagesbetreuung an ihrer Schule. Du erklärst dem Schulerhalter, wann er eine Schule verpflichtend als ganztägige Schule bestimmen muss.",
+    "optionen": [
+      "Wenn mindestens 15, an Sonderschulen sieben Kinder eine Betreuung voraussichtlich nutzen werden.",
+      "Wenn die räumlichen Voraussetzungen erfüllt sind und keine ausreichende andere Betreuung in einer halben Stunde erreichbar ist.",
+      "Schulübergreifend kann eine von mehreren Schulen bestimmt werden, wenn die Mindestzahl nur gemeinsam erreicht wird, bei Nichterreichen schon ab zwölf.",
+      "Schulübergreifend müssen die anderen Schulen die Ganztagsschule in einer halben Stunde auf zumutbarem Weg erreichen können.",
+      "Eine Betreuung für zwei Kinder löst schon die Pflicht aus.",
+      "Räume und Erreichbarkeit spielen keine Rolle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mindestzahlen 15 bzw. sieben sind Schwelle.",
+      "Richtig: Räume plus fehlende andere Betreuung sind Zusatzbedingung.",
+      "Richtig: Zusammenfassung und Zwölfer-Regel sind vorgesehen.",
+      "Richtig: Halbstunden-Erreichbarkeit schützt die Kinder.",
+      "Falsch: Zwei reichen nur für Freiwilligkeit nicht Pflicht.",
+      "Falsch: Beide sind Pflichtvoraussetzungen."
+    ],
+    "aufloesung": "Mindestzahlen, Räume, fehlende andere Betreuung und Erreichbarkeit lösen die Bestimmungspflicht aus. Zum Nachlesen: TirSOG §99a.",
+    "hauptquelle": "TirSOG §99a",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-014",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Dein Schulerhalter will freiwillig eine ganztägige Betreuung anbieten und fragt, ab wann der Betreuungsteil läuft und wie getrennt oder verschränkt organisiert wird.",
+    "optionen": [
+      "Freiwillig ab sieben, an Sonderschulen drei zu erwartenden Betreuungskindern bei Personal, Bereitschaft und Räumen.",
+      "Der Betreuungsteil ist zu führen, wenn mindestens sieben, an Sonderschulen drei Kinder angemeldet sind.",
+      "Verschränkt nur wenn alle Kinder der Klasse die ganze Woche angemeldet sind und je zwei Drittel der Eltern und Lehrer dafür sind.",
+      "Sonst getrennt führen und Kinder im Betreuungsteil tageweise zu Gruppen zusammenfassen.",
+      "Verschränkt läuft immer automatisch ohne Zustimmung.",
+      "Gruppenbildung ist verboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Freiwillige Schwelle mit Personal und Bereitschaft.",
+      "Richtig: Führungsschwelle für den Betreuungsteil.",
+      "Richtig: Volle Anmeldung plus Zweidrittel-Zustimmung für verschränkt.",
+      "Richtig: Sonst getrennt mit tageweisen Gruppen.",
+      "Falsch: Ohne Zustimmung keine Verschränkung.",
+      "Falsch: Gruppen sind gerade vorgesehen."
+    ],
+    "aufloesung": "Freiwilligkeit ab sieben bzw. drei, Führung ab Anmeldung, verschränkt nur mit Vollanmeldung und Zweidrittel-Mehrheiten. Zum Nachlesen: TirSOG §99b.",
+    "hauptquelle": "TirSOG §99b",
+    "zusatzquellen": [
+      "TirSOG §99e Abs.1",
+      "TirSOG §99e Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L2-015",
+    "modul_id": "C32",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die Gemeinde will Gebiete ändern und eine Betreuung als ganztägige Schule anzeigen. Du listest, wer Gebiete festsetzt, wer bei gemeinsamem Gebiet zuteilt und was bei der Ganztags-Anzeige gilt.",
+    "optionen": [
+      "Gebiete setzt die Behörde per Verordnung nach Anhören des Schulerhalters und der beteiligten Gebietskörperschaften fest.",
+      "Bei Änderung der Verhältnisse sind die Gebietsgrenzen anzupassen.",
+      "Bei gemeinsamem Gebiet mehrerer Schulen teilt der Bürgermeister nach Anhören der Leitungen zu.",
+      "Die Ganztags-Bestimmung ist drei Monate vorher mit Nachweis und Stellungnahmen von Eltern und Lehrern anzuzeigen und kann binnen zwei Monaten untersagt werden.",
+      "Gebiete legt jeder Schulerhalter allein ohne Verfahren fest.",
+      "Eine Anzeige für Ganztagsbetrieb ist nie nötig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verordnung nach Anhörung ist Verfahren.",
+      "Richtig: Anpassungspflicht bei geänderten Verhältnissen.",
+      "Richtig: Bürgermeister teilt bei gemeinsamem Gebiet zu.",
+      "Richtig: Drei Monate Anzeige mit Beteiligung und Untersagungsfrist.",
+      "Falsch: Alleingang ohne Behörde ist unzulässig.",
+      "Falsch: Anzeige mit Nachweis ist Pflicht."
+    ],
+    "aufloesung": "Gebiete per Verordnung mit Anhörung und Anpassung, Zuteilung durch Bürgermeister, Ganztagsbetrieb mit Anzeige und Untersagungsfrist. Zum Nachlesen: TirSOG §27 Abs.1.",
+    "hauptquelle": "TirSOG §27 Abs.1",
+    "zusatzquellen": [
+      "TirSOG §26 Abs.4",
+      "TirSOG §99d Abs.1"
+    ],
+    "stand": "04.09.2026"
+  }
+]
