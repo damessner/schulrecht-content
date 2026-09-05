@@ -1,1 +1,570 @@
-[]
+[
+  {
+    "aufloesung": "Eine wirksame Fotoerlaubnis nennt den Zweck, bleibt freiwillig, ist vom Rest getrennt und jederzeit widerrufbar. Koppelungen an Vorteile und ewige Unwiderruflichkeit machen sie wertlos. Zum Nachlesen: DSGVO Art. 7.",
+    "hauptquelle": "DSGVO Art. 7",
+    "id": "C37-L2-001",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Der Zweck steht konkret dabei, etwa Homepage und Jahresbericht.",
+      "Die Teilnahme ist freiwillig und hat keine Nachteile bei Nein.",
+      "Die Erklärung steht getrennt von anderen Zetteln und ist verständlich.",
+      "Der Widerruf ist jederzeit möglich und wird erklärt.",
+      "Die Zustimmung wird an die Teilnahme am Schikurs gekoppelt.",
+      "Die Erklärung gilt unwiderruflich bis zum Schulabschluss."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Konkreter Zweck gehört in jede Einwilligung.",
+      "Richtig: Freiwilligkeit ohne Nachteile ist Pflicht.",
+      "Richtig: Getrennt und verständlich sichert die informierte Entscheidung.",
+      "Richtig: Jederzeitiger Widerruf muss möglich sein.",
+      "Falsch: Koppelung zerstört die Freiwilligkeit.",
+      "Falsch: Unwiderruflichkeit ist unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bereitest als Administratorin den Fotoerlaubnis-Zettel für das neue Schuljahr vor. Du gehst gedanklich durch, welche Bausteine hineingehören und welche Formulierungen die Erklärung unwirksam machen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Weitergeben darf die Schule nur, was eine Aufgabe verlangt, auf dem Dienstweg und an zuständige Stellen. Presse, Werbefirmen und Schaukästen gehören nie dazu. Im Zweifel weniger und gezielt. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L2-002",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Meldung der nötigen Daten an die Bildungsdirektion für die Schulverwaltung.",
+      "Weitergabe an die Kinder- und Jugendhilfe bei konkretem Gefährdungsverdacht.",
+      "Übermittlung des Erforderlichen an die aufnehmende Schule beim Wechsel.",
+      "Notenlisten an die Lokalzeitung für einen Schulbericht.",
+      "Klassenadressen an ein Nachhilfeinstitut gegen Bezahlung.",
+      "Noten im Schaukasten der Schule öffentlich aushängen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schulverwaltung auf dem Dienstweg ist zulässig.",
+      "Richtig: Kinderschutz wiegt hier schwer und erlaubt die Weitergabe.",
+      "Richtig: Das Erforderliche wandert mit, nicht mehr.",
+      "Falsch: Presse ist kein Empfänger von Schuldaten.",
+      "Falsch: Adressverkauf ist niemals Schulaufgabe.",
+      "Falsch: Öffentlicher Aushang stellt Daten bloß."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In der Direktionssitzung liegt eine Liste möglicher Datenweitergaben auf dem Tisch, von der Behörde bis zur Zeitung. Du sortierst, welche Weitergaben zulässig sind und welche ausscheiden.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Klassenfotos für die Homepage brauchen vorher eine klare Zustimmung, Nein-Stimmen werden respektiert und Namen nur mit extra Erlaubnis genannt. Schweigen ist keine Zustimmung, auch nicht beim Gruppenbild. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L2-003",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Vor der Veröffentlichung die Einwilligung der Erziehungsberechtigten einholen.",
+      "Kinder ohne Zustimmung nicht erkennbar abbilden.",
+      "Namen nur mit eigener zusätzlicher Erlaubnis dazuschreiben.",
+      "Zweck und Dauer der Veröffentlichung vorher benennen.",
+      "Wer nicht Nein sagt, stimmt automatisch zu.",
+      "Beim Gruppenbild entfällt jede Zustimmungspflicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorher fragen ist der saubere Weg.",
+      "Richtig: Nein heißt nicht abbilden.",
+      "Richtig: Namen brauchen ein eigenes Ja.",
+      "Richtig: Transparenz über Zweck und Dauer gehört dazu.",
+      "Falsch: Schweigen ist keine Einwilligung.",
+      "Falsch: Auch Gruppenbilder brauchen eine Grundlage."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die Schulhomepage soll neue Klassenfotos bekommen, zwei Eltern haben bereits Nein gesagt. Du erstellst die Prüfliste für die Veröffentlichung der Bilder.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "DSGVO Art. 7",
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Digitale Werkzeuge werden vor dem Einsatz geprüft, dienstlich verwaltet und sparsam befüllt. Gratis-Apps ohne Prüfung und private Pflicht-Accounts haben in der Schule nichts verloren. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L2-004",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Datenschutzerklärung und Auftragsverarbeitung vor dem Einsatz prüfen.",
+      "Dienstliche Zugänge verwenden statt privater Konten.",
+      "Nur die Daten eingeben, die das Werkzeug wirklich braucht.",
+      "Erforderliche Einwilligungen vorher einholen und dokumentieren.",
+      "Die erstbeste Gratis-App ohne jede Prüfung einsetzen.",
+      "Alle zwingen, sich mit privatem Konto anzumelden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Prüfung vor Einsatz schützt vor bösen Überraschungen.",
+      "Richtig: Dienstliche Konten trennen Schule und Privatleben.",
+      "Richtig: Sparsamkeit gilt auch in der Cloud.",
+      "Richtig: Nachweise sichern die Einwilligung.",
+      "Falsch: Ungeprüfte Apps riskieren unkontrollierte Abflüsse.",
+      "Falsch: Private Kontopflicht ist unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Euer Kollegium will eine neue Lernplattform und einen Messenger für Hausaufgaben einführen. Du prüfst, worauf bei der Auswahl und Einführung digitaler Werkzeuge zu achten ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "DSGVO Art. 32"
+    ]
+  },
+  {
+    "aufloesung": "Ersuchen werden geprüft, zügig und vollständig beantwortet und dokumentiert. Liegenlassen, Gebühren oder Ausreden sind unzulässig. Die Antwort umfasst Daten, Zweck und Empfänger. Zum Nachlesen: DSGVO Art. 15.",
+    "hauptquelle": "DSGVO Art. 15",
+    "id": "C37-L2-005",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Die Berechtigung und Identität der anfragenden Person prüfen.",
+      "Unverzüglich antworten, spätestens innerhalb eines Monats.",
+      "Vollständig antworten: Daten, Zweck und Empfänger nennen.",
+      "Den Vorgang und die Antwort dokumentieren.",
+      "Das Ersuchen bis nach den Ferien liegen lassen.",
+      "Für die Auskunft eine Bearbeitungsgebühr verlangen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Auskunft bekommt nur die berechtigte Person.",
+      "Richtig: Zügigkeit ist vorgeschrieben, nicht freiwillig.",
+      "Richtig: Vollständigkeit macht das Recht erst wirksam.",
+      "Richtig: Dokumentation sichert den Nachweis.",
+      "Falsch: Liegenlassen verletzt die Pflicht.",
+      "Falsch: Die Auskunft ist grundsätzlich unentgeltlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein schriftliches Auskunftsersuchen eines Vaters liegt im Sekretariat. Du legst fest, in welchen Schritten die Schule solche Ersuchen bearbeitet.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "In den Akt gehören Tatsachen für Unterricht, Förderung und Verwaltung. Vermutungen über Familien und Einkommensdetails haben dort nichts verloren. Sachlich und aufs Nötige beschränkt. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "C37-L2-006",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Anwesenheiten und Entschuldigungen.",
+      "Leistungsstand und Fördermaßnahmen mit Datum.",
+      "Kontaktdaten der Erziehungsberechtigten und Notfallkontakte.",
+      "Behördliche Bescheide zum Schullaufbahnverlauf.",
+      "Vermutungen über Streit und Verhältnisse in der Familie.",
+      "Einkommens- und Vermögensdetails der Eltern."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anwesenheit gehört zur Schuldokumentation.",
+      "Richtig: Förderung wird sachlich mit Datum festgehalten.",
+      "Richtig: Erreichbarkeit ist erforderliche Verwaltung.",
+      "Richtig: Bescheide dokumentieren die Laufbahn.",
+      "Falsch: Vermutungen sind keine Tatsachen und gehören nicht in den Akt.",
+      "Falsch: Einkommen ist für die Schule nicht erforderlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Als neue Klassenvorständin ordnest du die Schülerakten deiner Klasse. Du entscheidest, welche Inhalte hineingehören und welche draußen bleiben müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Aufbewahren mit Frist, danach sicher vernichten: Zeugnisunterlagen lange, Alltagslisten kürzer, Entwürfe nach Übertragung weg. Privatkopien und ewiges Horten sind tabu. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "C37-L2-007",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Zeugnisunterlagen über die vorgeschriebene Frist sicher aufbewahren.",
+      "Anwesenheitslisten nach Fristablauf sicher vernichten.",
+      "Entwürfe nach Übertragung ins Reine löschen.",
+      "Vernichtung sicher durchführen, etwa schreddern oder verlässlich löschen.",
+      "Alles auf ewig aufheben, man weiß ja nie.",
+      "Private Sicherheitskopien auf dem Heimrechner behalten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fristen sichern Nachweis und Ordnung.",
+      "Richtig: Fristablauf bedeutet Vernichten, nicht Sammeln.",
+      "Richtig: Entwürfe haben nach der Reinschrift keinen Zweck mehr.",
+      "Richtig: Sicher vernichten verhindert Mitlesen.",
+      "Falsch: Ewiges Horten verstößt gegen die Speicherbegrenzung.",
+      "Falsch: Privatkopien sind unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Beim Jahresabschluss entrümpelt das Kollegium die Ablagen: Zeugnisunterlagen, alte Anwesenheitslisten, Entwürfe und private Sticks. Du erstellst die Regel für Aufbewahren und Vernichten.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Beim Wechsel wandert nur das Erforderliche auf direktem Dienstweg, die Eltern werden informiert. Gesundheitsdetails ohne Förderbezug und ganze Aktenberge bleiben zurück. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L2-008",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Nur die für Förderung und Unterricht erforderlichen Unterlagen übermitteln.",
+      "Die Eltern über die Übermittlung informieren.",
+      "Den direkten Dienstweg von Schule zu Schule nutzen.",
+      "Gesundheitsdetails ohne Förderbezug weglassen.",
+      "Den gesamten Akt inklusive Entwürfen und Verdachtsnotizen mitschicken.",
+      "Den Akt dem Kind im offenen Kuvert mitgeben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erforderlichkeit begrenzt die Weitergabe.",
+      "Richtig: Transparenz gegenüber den Eltern gehört dazu.",
+      "Richtig: Dienstweg statt Übergabe über Dritte.",
+      "Richtig: Ohne Bezug kein Gesundheitsdatum.",
+      "Falsch: Entwürfe und Verdacht wandern nicht mit.",
+      "Falsch: Offene Übergabe ist unsicher."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "PTS"
+    ],
+    "situation": "Mehrere Abgänger wechseln an weiterführende Schulen. Du legst fest, wie Förderunterlagen und Aktenanteile korrekt an die aufnehmenden Schulen gelangen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Gesundheitsdaten sehen nur Befugte, verschlossen und zweckgebunden, nach Gebrauch werden sie gelöscht. Aushänge, Rundmails und offene Ablagen sind tabu. Zum Nachlesen: DSGVO Art. 9.",
+    "hauptquelle": "DSGVO Art. 9",
+    "id": "C37-L2-009",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Nur die mit der Sache befassten Personen erhalten Zugang.",
+      "Verschlossen und zugriffsgeschützt aufbewahren.",
+      "Kein Aushang und keine Rundsendung der Diagnose.",
+      "Nach Wegfall des Zwecks löschen oder zurückgeben.",
+      "Die Diagnose für alle sichtbar ins Klassenbuch heften.",
+      "Kopien an das gesamte Kollegium verteilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zugang nur für Befugte begrenzen.",
+      "Richtig: Schutz vor Mitlesen ist Pflicht.",
+      "Richtig: Bloßstellung ist immer verboten.",
+      "Richtig: Ohne Zweck keine weitere Speicherung.",
+      "Falsch: Offene Ablage verletzt den besonderen Schutz.",
+      "Falsch: Verteilen an alle ist maßlos."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach mehreren Attesten mit sensiblen Diagnosen erstellst du die Praxisregel für den Umgang mit Gesundheitsdaten in deiner Schule.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Gute Dokumentation ist zeitnah, sachlich, datiert und nachvollziehbar berichtigbar. Diagnosen, Wertungen und frisierte Nachträge haben darin nichts verloren. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "C37-L2-010",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Klassenbuch und Aufzeichnungen zeitnah und vollständig führen.",
+      "Vorfälle sachlich mit Datum und ohne Wertung festhalten.",
+      "Berichtigungen so vornehmen, dass das Ursprüngliche erkennbar bleibt.",
+      "Unrichtiges auf Hinweis richtigstellen.",
+      "Eigene Diagnosen und Charakterurteile in den Akt schreiben.",
+      "Einträge nachträglich stillschweigend umschreiben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zeitnähe sichert Richtigkeit.",
+      "Richtig: Sachlichkeit schützt vor Fehlschlüssen.",
+      "Richtig: Nachvollziehbarkeit erhält Vertrauen.",
+      "Richtig: Richtigstellung ist ein eigenes Recht Betroffener.",
+      "Falsch: Diagnosen stellen nur Fachleute.",
+      "Falsch: Heimliches Umschreiben verfälscht die Akte."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem strittigen Vorfall auf dem Pausenhof zeigt sich, wie wichtig saubere Aufzeichnungen sind. Du formulierst die Regeln für Dokumentation und Berichtigung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "DSGVO Art. 16",
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Auskunft bekommen Berechtigte und Stellen im Rahmen ihrer Aufgaben. Nachbarn, Presse und private Anbieter gehen leer aus. Im Zweifel Berechtigung prüfen statt plaudern. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L2-011",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Die Erziehungsberechtigten zum eigenen Kind.",
+      "Der neue Klassenvorstand im Rahmen seiner dienstlichen Aufgaben.",
+      "Die Schulärztin im Rahmen ihrer schulischen Aufgabe.",
+      "Der neugierige Nachbar am Telefon.",
+      "Die Lokalzeitung für eine Schulstory.",
+      "Der private Nachhilfelehrer ohne Vollmacht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eltern fragen zum eigenen Kind zu Recht.",
+      "Richtig: Dienstliche Nachfolge braucht die nötigen Grundlagen.",
+      "Richtig: Aufgabenrahmen begrenzt auch hier den Zugang.",
+      "Falsch: Neugier begründet kein Auskunftsrecht.",
+      "Falsch: Presse bekommt keine Schuldaten.",
+      "Falsch: Ohne Vollmacht gibt es keine Auskunft."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Innerhalb einer Woche fragen Nachbar, Zeitung, Nachhilfelehrer, Schulärztin und der neue Klassenvorstand nach Daten einzelner Kinder. Du sortierst, wer berechtigt ist und wer nicht.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Widerruf wirkt für die Zukunft: Online-Bilder verschwinden, dem Kind entsteht kein Nachteil, der Vorgang wird festgehalten. Gedrucktes lässt sich nicht einsammeln, umso wichtiger war das vorherige Fragen. Zum Nachlesen: DSGVO Art. 7.",
+    "hauptquelle": "DSGVO Art. 7",
+    "id": "C37-L2-012",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Der Widerruf gilt für die Zukunft und wird umgesetzt.",
+      "Bereits veröffentlichte Online-Fotos werden entfernt.",
+      "Dem Kind entsteht daraus kein Nachteil.",
+      "Der Widerruf wird dokumentiert.",
+      "Alle gedruckten Jahresberichte werden aus den Haushalten eingesammelt.",
+      "Für den Widerruf wird eine Gebühr fällig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zukunftswirkung ist der Kern des Widerrufs.",
+      "Richtig: Was noch entfernbar ist, wird entfernt.",
+      "Richtig: Nachteile als Strafe sind verboten.",
+      "Richtig: Dokumentation sichert den Nachweis.",
+      "Falsch: Verteiltes lässt sich nicht mehr einsammeln.",
+      "Falsch: Der Widerruf ist unentgeltlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Mutter widerruft mitten im Schuljahr die Fotoerlaubnis für ihre Tochter, deren Bild auf der Homepage und im gedruckten Jahresbericht ist. Du klärst die Folgen des Widerrufs.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Schulische Chats laufen über dienstliche Kanäle, freiwillig, mit Alternative und ohne sensible Inhalte. Zwang, Rund-um-die-Uhr-Pflicht und Noten im Chat sind tabu. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L2-013",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Dienstliche Kanäle für schulische Nachrichten nutzen.",
+      "Teilnahme freiwillig lassen und eine Alternative anbieten.",
+      "Keine Noten, Gutachten oder Diagnosen in den Chat stellen.",
+      "Vorab klar informieren und Einwilligungen einholen.",
+      "Alle zur privaten Gruppe mit Lesebestätigung rund um die Uhr zwingen.",
+      "Handynummern aller Kinder für alle sichtbar teilen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dienstweg trennt Schule und Privatleben.",
+      "Richtig: Freiwilligkeit plus Alternative schützt alle.",
+      "Richtig: Sensibles gehört nie in den Chat.",
+      "Richtig: Information vorab schafft Wirksamkeit.",
+      "Falsch: Zwang und Dauerüberwachung sind unzulässig.",
+      "Falsch: Kontakte dürfen nicht verteilt werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Deine Klasse kommuniziert über drei verschiedene private Chatgruppen, inklusive Notenfotos und Handynummern. Du erstellst die Verbindungsregeln für Messenger im Schulalltag.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "DSGVO Art. 32"
+    ]
+  },
+  {
+    "aufloesung": "Bei einer Panne heißt es melden, Risiko einschätzen, Betroffene bei hohem Risiko informieren und alles dokumentieren. Vertuschen verschlimmert die Lage und verletzt eigene Pflichten. Zum Nachlesen: DSGVO Art. 33.",
+    "hauptquelle": "DSGVO Art. 33",
+    "id": "C37-L2-014",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Den Verlust sofort der Direktion melden.",
+      "Einschätzen, welche Daten betroffen sind und welches Risiko besteht.",
+      "Betroffene bei hohem Risiko für ihre Rechte informieren.",
+      "Den Vorfall und die Maßnahmen dokumentieren.",
+      "Den Verlust vertuschen und einfach schweigen.",
+      "Nur einen neuen Stick kaufen und weitermachen wie bisher."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rasche Meldung ermöglicht Gegenmaßnahmen.",
+      "Richtig: Risikoeinschätzung steuert alle weiteren Schritte.",
+      "Richtig: Information schützt Betroffene vor Folgeschäden.",
+      "Richtig: Dokumentation weist das Vorgehen nach.",
+      "Falsch: Vertuschen verletzt Pflichten und Vertrauen.",
+      "Falsch: Weitermachen ohne Aufarbeitung genügt nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer verliert einen unverschlüsselten Stick mit Notenlisten und Förderplänen auf dem Weg zum Auto. Du arbeitest die Checkliste für solche Datenpannen ab.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "DSGVO Art. 34"
+    ]
+  },
+  {
+    "aufloesung": "Mit achtzehn entscheidet der junge Mensch selbst, davor beide Erziehungsberechtigte gleichberechtigt, Dritte nur mit Vollmacht. Automatismen für Stiefeltern oder ewige Elternrechte gibt es nicht. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L2-015",
+    "level": "L2",
+    "modul_id": "C37",
+    "optionen": [
+      "Ab der Volljährigkeit entscheidet die Schülerin oder der Schüler selbst.",
+      "Beide Erziehungsberechtigte sind gleichberechtigt auskunftsberechtigt.",
+      "Dritte wie Nachhilfelehrer brauchen eine Vollmacht oder Zustimmung.",
+      "Die betroffene Person darf die eigene Prüfungsarbeit einsehen.",
+      "Das elterliche Auskunftsrecht endet grundsätzlich nie.",
+      "Der neue Partner eines Elternteils ist automatisch mitberechtigt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Volljährigkeit beendet das elterliche Bestimmungsrecht.",
+      "Richtig: Gleichberechtigung gilt unabhängig vom Wohnort.",
+      "Richtig: Ohne Grundlage keine Auskunft an Dritte.",
+      "Richtig: Eigene Arbeiten darf man selbst sehen.",
+      "Falsch: Mit der Volljährigkeit endet das Elternrecht.",
+      "Falsch: Partnerschaft allein begründet keine Berechtigung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "PTS",
+      "BS",
+      "BHS"
+    ],
+    "situation": "Zum Schuljahresende häufen sich knifflige Auskunftsfälle: volljährige Schüler, getrennt lebende Eltern, neue Partner und externe Nachhilfe. Du fasst die Berechtigungsregeln zusammen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  }
+]
