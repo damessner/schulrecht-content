@@ -1,1 +1,445 @@
-[]
+[
+  {
+    "aufloesung": "Lena darf nur das negative Gebiet Englisch einmal innerhalb von zwei Monaten wiederholen. Die Wiederholung ist auf die nicht bestandenen Gebiete beschränkt und muss vom Schulleiter innerhalb dieser Frist zugelassen werden. Danach ist das Verfahren abgeschlossen. Zum Nachlesen: SchUG §3 Abs.7a",
+    "hauptquelle": "SchUG §3 Abs.7a",
+    "id": "X41-L1-001",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Lena muss die gesamte Einstufungsprüfung in allen Fächern noch einmal ablegen, egal wann.",
+      "Lena darf einmal nur das negative Gebiet Englisch innerhalb von zwei Monaten wiederholen.",
+      "Lena darf beliebig oft und ohne jede Frist jedes Gebiet wiederholen.",
+      "Lena hat nach dem Nichtbestehen keine Wiederholungsmöglichkeit mehr."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wiederholt werden nur die negativen Gebiete, nicht alles.",
+      "Richtig: Einmalige Teilwiederholung innert zwei Monaten ist vorgesehen.",
+      "Falsch: Zahl und Frist der Wiederholung sind begrenzt.",
+      "Falsch: Eine einmalige Wiederholung steht ihr zu."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena, 13 Jahre, legt am 10. September an einer Mittelschule in Innsbruck die Einstufungsprüfung ab und besteht Deutsch und Mathematik, scheitert aber in Englisch mit Nicht genügend. Die Eltern fragen am 12. September, wie es weitergeht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Anmeldefristen sind so zu legen, dass das Aufnahmsverfahren möglichst zu Beginn der Hauptferien abgeschlossen ist. Nur zwingende Gründe wie noch ausstehende Prüfungen rechtfertigen ein späteres Ende. Eine willkürlich späte Fristsetzung ist verfahrensfehlerhaft. Zum Nachlesen: SchUG §5 Abs.1",
+    "hauptquelle": "SchUG §5 Abs.1",
+    "id": "X41-L1-002",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Die Anmeldefristen sind so zu legen, dass das Verfahren möglichst zu Beginn der Hauptferien beendet ist.",
+      "Die Anmeldefristen dürfen beliebig bis in den Oktober erstreckt werden.",
+      "Es braucht gar keine Fristen, Anmeldungen sind das ganze Jahr gleich zu behandeln.",
+      "Die Fristen legt jede Familie für sich selbst fest."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Abschluss zu Ferienbeginn ist das gesetzliche Ziel.",
+      "Falsch: Beliebiges Hinausschieben verletzt das Verfahren.",
+      "Falsch: Geordnete Fristen sind vorgeschrieben.",
+      "Falsch: Die Schule legt die Fristen fest, nicht die Familien."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "AHS",
+      "MS"
+    ],
+    "situation": "Ein Gymnasium in Innsbruck setzt die Anmeldefrist für die ersten Klassen so fest, dass über die Aufnahme erst Mitte Oktober entschieden wird, obwohl alle Prüfungen längst abgeschlossen sind. Eine Mutter meldet ihre Tochter am 20. Jänner an und wundert sich über den späten Termin.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Wahl ist innerhalb einer vom Schulleiter zu Beginn des zweiten Semesters der vorangehenden Stufe gesetzten Frist von mindestens drei Tagen und längstens einer Woche zu treffen. Erfolgt keine Wahl, teilt der Schulleiter zu. Eine verspätete Wahl nach Fristende muss nicht mehr berücksichtigt werden. Zum Nachlesen: SchUG §11 Abs.2",
+    "hauptquelle": "SchUG §11 Abs.2",
+    "id": "X41-L1-003",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Es gibt keine Frist, die Wahl kann noch im September des Folgejahres geändert werden.",
+      "Die Wahl muss innerhalb der gesetzten Frist von mindestens drei Tagen und längstens einer Woche getroffen werden.",
+      "Die Wahl gilt nur, wenn sie am selben Tag der Ankündigung erfolgt.",
+      "Die Wahl kann nur vom Klassenvorstand getroffen werden, Eltern haben keine Frist."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nach Fristende besteht kein Anspruch auf Berücksichtigung.",
+      "Richtig: Genau diese kurze Wahlfrist ist einzuhalten.",
+      "Falsch: Mindestens drei Tage Bedenkzeit sind garantiert.",
+      "Falsch: Die Wahl trifft der Schüler, die Frist setzt der Schulleiter."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Jonas besucht die 6. Klasse eines Gymnasiums in Hall. Der Schulleiter setzt zu Beginn des zweiten Semesters am 9. Februar eine fünftägige Frist für die Wahl des alternativen Pflichtgegenstandes. Jonas gibt seine Wahl erst am 10. März ab und besteht auf Berücksichtigung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Anmeldung zum Freigegenstand ist innerhalb der gesetzten Frist von mindestens drei Tagen und längstens einer Woche zu erklären und gilt nur für das nächste Unterrichtsjahr. Nach Fristende ist eine Anmeldung nur zulässig, wenn dadurch keine Klassenteilung nötig wird. Eine Garantie auf späte Aufnahme gibt es nicht. Zum Nachlesen: SchUG §12 Abs.1",
+    "hauptquelle": "SchUG §12 Abs.1",
+    "id": "X41-L1-004",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Die Anmeldung gilt automatisch für die gesamte Schullaufbahn ohne jede Frist.",
+      "Die Anmeldung ist innerhalb der Frist von mindestens drei Tagen und längstens einer Woche zu erklären und gilt nur für das nächste Jahr.",
+      "Eine Nachmeldung nach Fristende muss immer angenommen werden.",
+      "Freigegenstände brauchen keine Anmeldung, man kommt einfach unangemeldet dazu."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Anmeldung gilt nur für ein Jahr und braucht eine Frist.",
+      "Richtig: Frist einhalten, Wirkung nur für das nächste Jahr.",
+      "Falsch: Nach Fristende nur ohne Teilungsfolge, sonst Ablehnung.",
+      "Falsch: Ohne Anmeldung keine geordnete Teilnahme."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selina, 15 Jahre, will ab September den Freigegenstand Italienisch besuchen. Die Schule setzt im Februar eine einwöchige Anmeldefrist fest. Selina meldet sich erst am 20. September an, dadurch würde eine zusätzliche Gruppe geteilt werden müssen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Anmeldung zum Betreuungsteil ist innerhalb einer Frist von mindestens drei Tagen und längstens einer Woche möglich, die einen Sonntag einschließen muss. Sie gilt nur für das betreffende Unterrichtsjahr. Eine verspätete Anmeldung ist nur ohne personelle oder räumliche Mehrbelastung zulässig. Zum Nachlesen: SchUG §12a Abs.1",
+    "hauptquelle": "SchUG §12a Abs.1",
+    "id": "X41-L1-005",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Die Anmeldung zum Betreuungsteil ist an keine Frist gebunden und gilt für immer.",
+      "Die Anmeldung erfolgt innerhalb der Frist von mindestens drei Tagen und längstens einer Woche mit einem Sonntag darin und gilt nur für das laufende Jahr.",
+      "Die Anmeldung muss ein volles Kalenderjahr vorher erfolgen.",
+      "Die Anmeldung gilt nur, wenn sie täglich erneuert wird."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Frist und Jahresbindung sind einzuhalten.",
+      "Richtig: Kurze Frist mit Sonntag und Jahresgeltung trifft zu.",
+      "Falsch: Ein Jahr Vorlauf ist nicht verlangt.",
+      "Falsch: Tägliche Erneuerung ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Gruber meldet Sohn Felix, 7 Jahre, am 25. März für den Betreuungsteil der ganztägigen Volksschule in Innsbruck an. Der Schulleiter hatte Anfang März eine fünftägige Frist von Montag bis Freitag ohne einen Sonntag angesetzt und die Anmeldung danach abgelehnt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Abmeldung vom Betreuungsteil an ganztägigen Pflichtschulen kann im Laufe des ersten Semesters erfolgen, muss aber spätestens drei Wochen vor Ende des ersten Semesters einlangen. Eine Abmeldung am letzten Schultag vor den Semesterferien ist daher verspätet. Die Bindung sichert Planung und Personal. Zum Nachlesen: SchUG §12a Abs.2",
+    "hauptquelle": "SchUG §12a Abs.2",
+    "id": "X41-L1-006",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Die Abmeldung ist jederzeit ohne jede Frist möglich.",
+      "Die Abmeldung muss spätestens drei Wochen vor Ende des ersten Semesters erfolgen.",
+      "Die Abmeldung ist nur in den Sommerferien zulässig.",
+      "Die Abmeldung gilt erst nach Genehmigung durch die Bildungsdirektion ein Jahr später."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Dreiwochenfrist vor Semesterende ist verbindlich.",
+      "Richtig: Genau diese Frist sichert die Planbarkeit.",
+      "Falsch: Das erste Semester ist der Abmeldezeitraum, nicht die Ferien.",
+      "Falsch: Ein Jahr Wartezeit und Behördenweg sind nicht nötig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Mutter Hofer will Tochter Anna am 5. Februar, zwei Tage vor Ende des ersten Semesters, vom Betreuungsteil einer ganztägigen Mittelschule in Schwaz abmelden. Die Schule verweist auf die versäumte Frist und lehnt die sofortige Abmeldung ab.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Jede Verhinderung ist dem Klassenvorstand oder Schulleiter ohne Aufschub unter Angabe des Grundes zu melden, mündlich oder schriftlich. Erst diese unverzügliche Meldung macht das Fernbleiben zur gerechtfertigten Verhinderung. Schweigen über mehrere Tage ist eine Fristversäumnis mit Folgen. Zum Nachlesen: SchUG §45 Abs.3",
+    "hauptquelle": "SchUG §45 Abs.3",
+    "id": "X41-L1-007",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Die Schule muss erst nach zwei Wochen informiert werden.",
+      "Jede Verhinderung ist ohne Aufschub unter Angabe des Grundes zu melden.",
+      "Eine Meldung ist nur am Schuljahresende nötig.",
+      "Nur schriftliche Meldungen per Brief nach einem Monat zählen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zwei Wochen Schweigen ist viel zu spät.",
+      "Richtig: Unverzügliche Meldung mit Grund ist Pflicht.",
+      "Falsch: Am Jahresende ist die Meldung wertlos.",
+      "Falsch: Auch mündlich oder rasch schriftlich zählt, aber sofort."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Moritz, 12 Jahre, erkrankt am Montag, dem 6. Oktober. Die Eltern melden sich erstmals am Freitag, dem 17. Oktober, beim Klassenvorstand und wundern sich über einen Vermerk über unentschuldigtes Fernbleiben.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Bei länger als einer Woche dauernder Erkrankung oder häufigem kürzerem Fernbleiben kann bei Zweifeln ein ärztliches Zeugnis verlangt werden. Das Zeugnis klärt, ob wirklich Krankheit vorlag. Ohne das verlangte Zeugnis bleibt das Fernbleiben ungerechtfertigt. Zum Nachlesen: SchUG §45 Abs.3",
+    "hauptquelle": "SchUG §45 Abs.3",
+    "id": "X41-L1-008",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Ein ärztliches Zeugnis darf niemals verlangt werden.",
+      "Bei mehr als einer Woche Krankheit oder häufigem Kurzfernbleiben kann bei Zweifeln ein ärztliches Zeugnis verlangt werden.",
+      "Ein Zeugnis ist schon ab der ersten Stunde immer Pflicht.",
+      "Nur die Eltern entscheiden, ob je ein Zeugnis nötig ist."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei Zweifeln ist das Verlangen zulässig.",
+      "Richtig: Genau in diesen Fällen sichert das Zeugnis die Klärung.",
+      "Falsch: Ab der ersten Stunde ist es nicht automatisch Pflicht.",
+      "Falsch: Die Schule entscheidet bei Zweifeln, nicht allein die Eltern."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lukas fehlt vom 3. bis zum 14. November ununterbrochen und davor schon mehrmals jeweils einen Tag. Der Klassenvorstand zweifelt an einer echten Erkrankung und verlangt am 15. November ein ärztliches Zeugnis. Die Eltern verweigern es grundsätzlich.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Bleibt ein Schüler einer mittleren oder höheren Schule länger als eine Woche oder fünf nicht zusammenhängende Tage oder dreißig Stunden unentschuldigt fern und trifft auch auf schriftliche Aufforderung binnen einer Woche keine Mitteilung ein, gilt er als abgemeldet. Die Wiederaufnahme braucht dann eine Bewilligung des Schulleiters. Zum Nachlesen: SchUG §45 Abs.5",
+    "hauptquelle": "SchUG §45 Abs.5",
+    "id": "X41-L1-009",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Unentschuldigtes Fehlen hat nie Folgen, der Platz bleibt automatisch frei.",
+      "Nach über einer Woche unentschuldigtem Fehlen plus ergebnisloser schriftlicher Aufforderung mit einer Woche Frist gilt der Schüler als abgemeldet.",
+      "Schon ein einziger unentschuldigter Tag führt sofort zur Abmeldung.",
+      "Eine Abmeldung ist nur mit Unterschrift der Eltern möglich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Langes Schweigen beendet das Schulverhältnis automatisch.",
+      "Richtig: Genau diese Fristenkette führt zur Abmeldung.",
+      "Falsch: Ein Tag löst die Kette noch nicht aus.",
+      "Falsch: Hier wirkt die Frist auch ohne Unterschrift."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS",
+      "BS"
+    ],
+    "situation": "Nina, 16 Jahre, fehlt ab 5. Mai ununterbrochen unentschuldigt an einer Handelsakademie in Innsbruck. Die Schule fordert sie am 14. Mai schriftlich zur Mitteilung binnen einer Woche auf. Bis 22. Mai trifft nichts ein, Nina erscheint erst am 2. Juni wieder.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Feststellungsprüfung muss dem Schüler zwei Wochen vorher angekündigt werden, damit Vorbereitung möglich ist. Eine kurzfristige Ansetzung verletzt das Verfahren. Die Zweiwochenfrist schützt die Fairness der Prüfung. Zum Nachlesen: SchUG §20 Abs.2",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "id": "X41-L1-010",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Die Prüfung kann ohne jede Ankündigung sofort stattfinden.",
+      "Der Schüler ist zwei Wochen vorher von der Feststellungsprüfung zu verständigen.",
+      "Es genügt eine Ankündigung fünf Minuten vor Beginn.",
+      "Die Verständigung erfolgt erst nach der Prüfung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Vorlauf ist die Prüfung verfahrensfehlerhaft.",
+      "Richtig: Zwei Wochen Vorbereitung sind garantiert.",
+      "Falsch: Fünf Minuten sind kein fairer Vorlauf.",
+      "Falsch: Nachträgliche Info ersetzt die Frist nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Emre war von Jänner bis März lange krank und soll nun am 20. April eine Feststellungsprüfung ablegen. Die Schule verständigt ihn erstmals am 17. April und besteht auf dem Termin.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die gestundete Nachtragsprüfung darf auf mindestens acht und höchstens zwölf Wochen hinausgeschoben werden, bei lehrgangsmäßigen Berufsschulen höchstens bis zum nächsten Lehrgang. Eine Stundung auf ein halbes Jahr überschreitet diese Frist. Die Befristung sichert einen zeitnahen Abschluss. Zum Nachlesen: SchUG §20 Abs.3",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "id": "X41-L1-011",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Die Stundung ist auf mindestens acht und höchstens zwölf Wochen begrenzt.",
+      "Die Stundung kann beliebig auf ein Jahr erstreckt werden.",
+      "Eine Stundung ist überhaupt unzulässig.",
+      "Die Stundung dauert immer genau einen Tag."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau dieser Korridor ist einzuhalten.",
+      "Falsch: Ein Jahr sprengt die Höchstfrist deutlich.",
+      "Falsch: Bei Erfolgsaussicht ist die Stundung vorgesehen.",
+      "Falsch: Ein Tag unterschreitet die Mindestfrist."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "David soll nach langer Krankheit eine Nachtragsprüfung ablegen. Der Schulleiter stundet sie am 10. Oktober auf Ende April des Folgejahres, also auf fast sechs Monate. David fragt, ob diese lange Frist in Ordnung ist.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Nach nicht bestandener Nachtragsprüfung ist der Schüler auf Antrag innerhalb von zwei Wochen zur Wiederholung zuzulassen, der Antrag ist spätestens am dritten Tag nach der Prüfung zu stellen. Ein späterer Antrag ist verspätet und abzuweisen. Beide Fristen sichern ein zügiges Verfahren. Zum Nachlesen: SchUG §20 Abs.3",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "id": "X41-L1-012",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Der Antrag kann irgendwann im Schuljahr gestellt werden.",
+      "Der Antrag ist spätestens am dritten Tag nach der Prüfung zu stellen, die Zulassung erfolgt innerhalb von zwei Wochen.",
+      "Der Antrag muss vor der Prüfung gestellt werden.",
+      "Eine Wiederholung der Nachtragsprüfung ist nie zulässig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Irgendwann ist zu spät, der dritte Tag ist die Grenze.",
+      "Richtig: Antragsfrist plus Zulassungsfrist greifen ineinander.",
+      "Falsch: Vor der Prüfung ist der Antrag sinnlos.",
+      "Falsch: Eine Wiederholung auf Antrag ist vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sara besteht die Nachtragsprüfung in Mathematik am 12. Mai nicht. Sie stellt den Antrag auf Wiederholung erst am 20. Mai und verlangt Zulassung binnen zwei Wochen. Die Schule lehnt wegen Verspätung ab.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Widerspruch ist schriftlich in jeder technisch möglichen Form außer E-Mail innerhalb von fünf Tagen bei der Schule einzubringen. Die Frist beginnt bei mündlicher Verkündung sofort, bei schriftlicher Ausfertigung mit der Zustellung. Ein E-Mail oder ein verspäteter Brief wahrt die Frist nicht. Zum Nachlesen: SchUG §71 Abs.1",
+    "hauptquelle": "SchUG §71 Abs.1",
+    "id": "X41-L1-013",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Der Widerspruch kann formlos per E-Mail innerhalb eines Monats eingebracht werden.",
+      "Der Widerspruch ist schriftlich außer per E-Mail innerhalb von fünf Tagen bei der Schule einzubringen.",
+      "Der Widerspruch braucht keine Frist und keine Form.",
+      "Der Widerspruch ist nur mündlich am Gang möglich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: E-Mail ist ausgeschlossen und ein Monat ist zu spät.",
+      "Richtig: Schriftform ohne E-Mail plus Fünftagesfrist trifft zu.",
+      "Falsch: Form und Frist sind zwingend.",
+      "Falsch: Mündlich am Gang wahrt die Frist nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tobias erhält am Montag, dem 4. Mai, die schriftliche Entscheidung über die nicht bestandene Aufnahmsprüfung zugestellt. Er schickt erst am 12. Mai ein E-Mail an die Schule und hält den Widerspruch für rechtzeitig.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Für die Aufnahme als Landeslehrer dürfen ausschließlich Bewerber mit gültiger, also fristgerecht eingebrachter Bewerbung herangezogen werden. Eine verspätete Bewerbung scheidet aus dem Verfahren aus. Die Bewerbungsfrist sichert Chancengleichheit. Zum Nachlesen: LDG §4b Abs.1",
+    "hauptquelle": "LDG §4b Abs.1",
+    "id": "X41-L1-014",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Verspätete Bewerbungen sind genauso zu reihen wie fristgerechte.",
+      "Es dürfen nur Bewerber mit gültiger, fristgerechter Bewerbung herangezogen werden.",
+      "Fristen gelten nur für interne Bewerber, externe sind immer zulässig.",
+      "Die Schulleitung darf frei Fristen erfinden und brechen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Verspätung nimmt der Bewerbung die Gültigkeit.",
+      "Richtig: Nur gültige Bewerbungen kommen in die Auswahl.",
+      "Falsch: Die Frist gilt für alle Bewerber gleich.",
+      "Falsch: Die Frist steht in der Ausschreibung und ist verbindlich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Planstelle in Kufstein ist mit Bewerbungsfrist bis 14. März ausgeschrieben. Herr Berger reicht sein Gesuch am 28. März ein und verlangt, gleichwertig gereiht zu werden.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §4a Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Frühkarenzurlaub für den Vater ist rechtzeitig im Voraus zu melden, damit die Schule Vertretung und Dienstplan sichern kann. Eine Meldung erst am Tag der Geburt wahrt die Frist nicht. Ohne fristgerechte Meldung kann der Antritt verweigert oder verschoben werden. Zum Nachlesen: LDG §58e",
+    "hauptquelle": "LDG §58e",
+    "id": "X41-L1-015",
+    "level": "L1",
+    "modul_id": "X41",
+    "optionen": [
+      "Der Frühkarenzurlaub kann ohne jede Meldung jederzeit angetreten werden.",
+      "Der Frühkarenzurlaub ist rechtzeitig im Voraus zu melden, sonst kann der Antritt verweigert werden.",
+      "Der Frühkarenzurlaub muss ein Jahr nach der Geburt gemeldet werden.",
+      "Eine Meldung ist nur mündlich Jahre später nötig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Meldung keine planbare Freistellung.",
+      "Richtig: Rechtzeitige Vorabmeldung sichert Anspruch und Planung.",
+      "Falsch: Ein Jahr danach ist die Frist längst verstrichen.",
+      "Falsch: Es braucht eine rechtzeitige Meldung im Voraus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Herr Mayr erwartet mit seiner Partnerin ein Kind mit Geburtstermin 18. November. Er meldet den beabsichtigten Frühkarenzurlaub erstmals am Morgen der Geburt und verlangt sofortige Freistellung ab demselben Tag.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  }
+]
