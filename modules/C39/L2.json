@@ -1,1 +1,560 @@
-[]
+[
+  {
+    "aufloesung": "Zum Aufnahmeantrag gehören Antrag, Meldezettel, Schulbestätigung und Begründung des Bedarfs. Zum Nachlesen: TirSOG §120 Abs.1.",
+    "hauptquelle": "TirSOG §120 Abs.1",
+    "id": "C39-L2-001",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Schriftlicher Aufnahmeantrag der Eltern",
+      "Meldezettel und Nachweis des Wohnortes",
+      "Schulbesuchsbestätigung der Sprengelschule",
+      "Begründung, warum der Heimplatz gebraucht wird",
+      "Beglaubigter Stammbaum bis 1800",
+      "Kaufvertrag für ein Auto"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der schriftliche Antrag startet das Verfahren.",
+      "Richtig: Der Wohnort belegt die Wegsituation.",
+      "Richtig: Die Schulbestätigung klärt Zuständigkeit und Bedarf.",
+      "Richtig: Die Begründung zeigt die Angewiesenheit auf den Platz.",
+      "Falsch: Ein Stammbaum ist nicht nötig.",
+      "Falsch: Ein Auto hat mit der Aufnahme nichts zu tun."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Steinacher will Tochter Anna für das Schülerheim anmelden und fragt die Heimleitung, welche Unterlagen sie für einen vollständigen Aufnahmeantrag bereitlegen soll.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Beihilfeantrag braucht Rechnungen, Zahlungsbelege, Schulbestätigung und fristgerechte Einreichung bei der Bildungsdirektion. Zum Nachlesen: TirSOG §102 Abs.3.",
+    "hauptquelle": "TirSOG §102 Abs.3",
+    "id": "C39-L2-002",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Rechnungen über Unterbringung und Verpflegung",
+      "Zahlungsbelege für das abgelaufene Unterrichtsjahr",
+      "Bestätigung über den Pflichtschulbesuch",
+      "Einreichung nach Unterrichtsjahresende bis Jahresende bei der Bildungsdirektion",
+      "Mündlicher Zuruf beim Busfahrer",
+      "Antrag erst fünf Jahre später"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rechnungen belegen die Kosten.",
+      "Richtig: Belege zeigen die tatsächliche Zahlung.",
+      "Richtig: Die Schulbestätigung belegt den Anlass.",
+      "Richtig: Frist und Stelle entscheiden über den Anspruch.",
+      "Falsch: Ein Zuruf ersetzt keinen Antrag.",
+      "Falsch: Verspätete Anträge verfallen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern Brunner haben ihre Tochter auswärts bei einer Gastfamilie untergebracht und wollen die Kostenhilfe beantragen. Sie fragen, was in eine vollständige Antragsmappe gehört und wohin sie muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Heimordnung regelt Lernzeiten, Nachtruhe, Ausgang, Besuch, Sicherheit und Krankmeldung. Zum Nachlesen: TirSOG §121 Abs.1.",
+    "hauptquelle": "TirSOG §121 Abs.1",
+    "id": "C39-L2-003",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Feste Lern- und Aufgabenzeiten",
+      "Nachtruhe und Ruhezeiten im Haus",
+      "Ausgangs- und Rückkehrregeln",
+      "Besuchszeiten und Anmeldung von Besuch",
+      "Sicherheits- und Brandschutzregeln",
+      "Freie Wahl der Schulnoten durch die Kinder"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lernzeiten sichern den Schulerfolg.",
+      "Richtig: Nachtruhe schützt alle Bewohner.",
+      "Richtig: Ausgangsregeln sichern die Aufsicht.",
+      "Richtig: Besuchsregeln schützen den Heimalltag.",
+      "Richtig: Sicherheit geht alle an.",
+      "Falsch: Noten werden in der Schule vergeben, nicht im Heim gewählt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Neuling Tim bekommt die Hausordnung seines Schülerheims in die Hand und liest sie mit seinen Eltern durch. Sie fragen, welche Punkte typischerweise in einer solchen Ordnung stehen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Beförderungsbedarf hängt von Unzumutbarkeit ohne Verkehrsmittel, Wegzeit, Gefährdung und Reife des Kindes ab. Zum Nachlesen: TirSOG §100 lit.a.",
+    "hauptquelle": "TirSOG §100 lit.a",
+    "id": "C39-L2-004",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Weg ohne Verkehrsmittel nicht vernünftig zu schaffen",
+      "Regelmäßige Wegzeit sprengt die Zumutbarkeitsgrenze",
+      "Weg gefährdet Leben oder Gesundheit des Kindes",
+      "Reife und Alter des Kindes passen nicht zum Weg",
+      "Kind hat keine Lust auf Gehen",
+      "Eltern wünschen ein größeres Auto"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unvernünftige Bewältigung ohne Verkehrsmittel ist der Kern.",
+      "Richtig: Überlange Wegzeiten machen den Weg unzumutbar.",
+      "Richtig: Gefährdung schließt Zumutbarkeit aus.",
+      "Richtig: Reife und Alter zählen bei der Beurteilung mit.",
+      "Falsch: Unlust allein begründet keinen Beförderungsfall.",
+      "Falsch: Autowünsche der Eltern sind unbeachtlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Kinder einer Streusiedlung brauchen sehr lange zur Schule, ein Teilstück führt über eine gefährliche Straße ohne Gehsteig. Die Eltern fragen, welche Prüfpunkte über eine organisierte Beförderung entscheiden.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §100 lit.b",
+      "TirSOG §101 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Eltern melden Krankheit, Abwesenheiten und Abholungen und halten Ordnung und Termine ein. Zum Nachlesen: TirSOG §121 Abs.2.",
+    "hauptquelle": "TirSOG §121 Abs.2",
+    "id": "C39-L2-005",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Krankheit und voraussichtliche Dauer rasch melden",
+      "Abwesenheiten am Wochenende vorher ankündigen",
+      "Abholungen und Rückkehrzeiten klar absprechen",
+      "Heimordnung und Termine einhalten",
+      "Heimkostenbeitrag pünktlich zahlen",
+      "Heimzimmer nach eigenem Geschmack umbauen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rasche Krankmeldung sichert Betreuung und Aufsicht.",
+      "Richtig: Angekündigte Abwesenheit verhindert Suchaktionen.",
+      "Richtig: Klare Abholregeln schützen das Kind.",
+      "Richtig: Ordnung und Termine tragen den Alltag.",
+      "Richtig: Pünktliche Zahlung gehört zu den Elternpflichten.",
+      "Falsch: Umbauten sind ohne Zustimmung nicht erlaubt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tochter Sarah lebt unter der Woche im Heim, die Eltern fahren sie oft freitags früher ab und bringen sie sonntags zurück. Sie fragen, welche Mitwirkungspflichten sie im Heimalltag konkret treffen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Eltern dürfen Auskünfte, Gespräche, Einsicht in Regeln und Mitwirkung über Vertretungen verlangen. Zum Nachlesen: TirSOG §120 Abs.3.",
+    "hauptquelle": "TirSOG §120 Abs.3",
+    "id": "C39-L2-006",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Auskunft über Betreuung und Lernhilfe des Kindes",
+      "Information bei besonderen Vorfällen mit dem Kind",
+      "Einsicht in Heimordnung und Tagesablauf",
+      "Gespräche mit Heimleitung und Betreuungspersonen",
+      "Alleinige Festlegung aller Heimregeln durch einzelne Eltern",
+      "Einsicht in Akten fremder Kinder"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Auskunft über das eigene Kind steht zu.",
+      "Richtig: Bei Vorfällen wird informiert.",
+      "Richtig: Regeln und Ablauf sind transparent.",
+      "Richtig: Gespräche gehören zur Zusammenarbeit.",
+      "Falsch: Regeln gelten für alle und werden nicht einzeln diktiert.",
+      "Falsch: Fremde Akten bleiben geschützt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mutter Berger will wissen, wie sie als Heimelternteil eingebunden wird, was sie erfragen darf und wo sie mitreden kann. Sie bittet die Heimleitung um eine Übersicht ihrer Rechte.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Beitrag deckt Zimmer, Essen, Betreuung und Lernbegleitung ab, nicht den Gratisunterricht. Zum Nachlesen: TirSOG §122 Abs.1.",
+    "hauptquelle": "TirSOG §122 Abs.1",
+    "id": "C39-L2-007",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Unterbringung im Heimzimmer",
+      "Verpflegung unter der Woche",
+      "Pädagogische Betreuung und Aufsicht",
+      "Lernbegleitung im Heim",
+      "Schulgeld für den reinen Unterricht",
+      "Familienurlaub der Eltern"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wohnen ist Kern der Heimleistung.",
+      "Richtig: Essen gehört zum Beitrag.",
+      "Richtig: Betreuung und Aufsicht sind abgedeckt.",
+      "Richtig: Lernhilfe gehört zum Heimalltag.",
+      "Falsch: Der Unterricht selbst bleibt gratis.",
+      "Falsch: Privaturlaub hat mit dem Beitrag nichts zu tun."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern Hofer prüfen die Heimrechnung für Sohn Felix und fragen, welche Leistungen mit dem monatlichen Heimbeitrag eigentlich abgegolten sind und was nicht dazugehört.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §8"
+    ]
+  },
+  {
+    "aufloesung": "Einkommen, Vermögen, Familiengröße und Lernerfolg können zu Teil- oder Gänzeerlass führen. Zum Nachlesen: TirSOG §122 Abs.2.",
+    "hauptquelle": "TirSOG §122 Abs.2",
+    "id": "C39-L2-008",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Geringes Einkommen der Unterhaltspflichtigen",
+      "Geringes Vermögen und hohe Belastungen",
+      "Mehrere versorgungspflichtige Kinder",
+      "Guter Lernerfolg des Heimkindes",
+      "Besitz eines Haustieres",
+      "Lieblingsfarbe des Kindes"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schwaches Einkommen spricht für Nachlass.",
+      "Richtig: Vermögen und Belastungen zählen mit.",
+      "Richtig: Viele Kinder erhöhen die Last.",
+      "Richtig: Auch der Lernerfolg spielt eine Rolle.",
+      "Falsch: Haustiere sind kein Kriterium.",
+      "Falsch: Farben sind unbeachtlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Eder mit drei Kindern und kleinem Einkommen zahlt für Tochter Lena den vollen Heimbeitrag und fragt, welche Umstände einen Antrag auf Nachlass stützen können.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Sichere Haltestellen, altersgerechte Begleitung, Anschnall- und Warte-Regeln plus klare Abholketten schützen Buskinder. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C39-L2-009",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Sichere, übersichtliche Haltestellen",
+      "Begleitung für kleine Kinder beim Ein- und Ausstieg",
+      "Anschnallen und Sitzenbleiben während der Fahrt",
+      "Klare Abhol- und Übergaberegeln an Schule und Haltestelle",
+      "Warten abseits der Fahrbahn",
+      "Spielen auf der Fahrbahn vor dem Bus"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sichere Haltestellen verhindern Unfälle.",
+      "Richtig: Begleitung hilft den Kleinsten.",
+      "Richtig: Sitzen und Gurt schützen bei Bremsung.",
+      "Richtig: Klare Übergaben vermeiden, dass Kinder allein bleiben.",
+      "Richtig: Abstand zur Fahrbahn ist Grundregel.",
+      "Falsch: Die Fahrbahn ist kein Spielplatz."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach einem Beinahe-Unfall an der Bushaltestelle will eine Volksschule mit Eltern und Gemeinde die Sicherheitsregeln für die Schulbuskinder auffrischen und sammelt die wichtigsten Punkte.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Kranke Kinder bleiben daheim, das Heim wird informiert, Rückkehr erst nach Genesung mit Absprache. Zum Nachlesen: TirSOG §121 Abs.2.",
+    "hauptquelle": "TirSOG §121 Abs.2",
+    "id": "C39-L2-010",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Heimleitung und Schule rasch über die Erkrankung informieren",
+      "Voraussichtliche Dauer und Erreichbarkeit durchgeben",
+      "Kind bei ansteckender Krankheit daheim betreuen",
+      "Rückkehr ins Heim nach Genesung absprechen",
+      "Krankes Kind heimlich trotzdem ins Heim schicken",
+      "Atteste grundsätzlich verweigern"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rasche Info sichert Aufsicht und Planung.",
+      "Richtig: Dauer und Erreichbarkeit helfen der Organisation.",
+      "Richtig: Ansteckungsschutz geht vor.",
+      "Richtig: Abgesprochene Rückkehr schützt alle.",
+      "Falsch: Heimliches Schicken gefährdet andere.",
+      "Falsch: Nachweise gehören zur Mitwirkung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sohn Jonas hat Fieber und Halsschmerzen und soll nach dem Wochenende nicht ins Heim zurück. Die Eltern fragen, wie sie Krankheit und Rückkehr korrekt abwickeln.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Lernbetreuung heißt feste Zeiten, ruhige Plätze, Hausaufgabenkontrolle und Kontakt zu Schule und Eltern. Zum Nachlesen: TirSOG §120 Abs.2.",
+    "hauptquelle": "TirSOG §120 Abs.2",
+    "id": "C39-L2-011",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Feste, beaufsichtigte Lernzeiten",
+      "Ruhige Arbeitsplätze ohne Ablenkung",
+      "Kontrolle, ob Aufgaben erledigt sind",
+      "Austausch mit Schule und Eltern bei Lernproblemen",
+      "Fernsehabend statt Aufgaben",
+      "Abschreiben lassen ohne Kontrolle"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Feste Zeiten geben Struktur.",
+      "Richtig: Ruhe ermöglicht Konzentration.",
+      "Richtig: Kontrolle sichert die Erledigung.",
+      "Richtig: Austausch löst Probleme früh.",
+      "Falsch: Fernsehen ersetzt keine Aufgaben.",
+      "Falsch: Abschreiben ohne Kontrolle hilft niemandem."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Noten von Heimschüler David rutschen ab, seine Eltern fragen die Heimleitung, welche Bausteine eine verlässliche Lernbetreuung im Heimalltag ausmachen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Ausgang und Besuch brauchen Zeitfenster, Anmeldung, Rückmeldung und Aufsicht zum Schutz aller. Zum Nachlesen: TirSOG §121 Abs.1.",
+    "hauptquelle": "TirSOG §121 Abs.1",
+    "id": "C39-L2-012",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Feste Ausgangszeiten je nach Alter",
+      "An- und Abmeldung bei der Betreuung",
+      "Pünktliche Rückkehr ins Heim",
+      "Besuch nur zu Besuchszeiten mit Anmeldung",
+      "Übernachtung auswärts nur mit Zustimmung der Eltern",
+      "Heimliches Verlassen des Heims in der Nacht"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Altersgerechte Zeiten schützen die Kinder.",
+      "Richtig: Anmeldung sichert die Aufsicht.",
+      "Richtig: Pünktlichkeit hält den Betrieb aufrecht.",
+      "Richtig: Besuchsregeln schützen alle Bewohner.",
+      "Richtig: Auswärtsnächte brauchen Elternzustimmung.",
+      "Falsch: Heimliches Entfernen verletzt die Aufsichtspflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Heim häufen sich späte Rückkehrer und unangemeldeter Besuch, die Leitung will die Regeln für Ausgang und Besuch gemeinsam mit den Eltern klarstellen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Gemeinde beantragt Zuschüsse bei der Bildungsdirektion, die Richtlinien erlässt und die Finanzkraft berücksichtigt. Zum Nachlesen: TirSOG §101 Abs.3.",
+    "hauptquelle": "TirSOG §101 Abs.3",
+    "id": "C39-L2-013",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Gemeinde organisiert die Beförderung bei unzumutbarem Weg",
+      "Gemeinde stellt den Zuschussantrag an die Bildungsdirektion",
+      "Bildungsdirektion erlässt die Richtlinien für Zuschüsse",
+      "Finanzkraft der Gemeinde wird berücksichtigt",
+      "Busunternehmen bewilligt sich selbst den Zuschuss",
+      "Zuschuss kommt ohne jeden Antrag automatisch"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Organisation liegt bei der Gemeinde.",
+      "Richtig: Der Antragsweg führt zur Bildungsdirektion.",
+      "Richtig: Richtlinien geben den Rahmen vor.",
+      "Richtig: Finanzschwäche wird berücksichtigt.",
+      "Falsch: Unternehmen entscheiden nicht über Landesgeld.",
+      "Falsch: Ohne Antrag kein Zuschuss."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Berggemeinde fährt für Kinder mit unzumutbarem Schulweg einen Schulbus und will einen Landeszuschuss. Der Amtsleiter fragt, wie das Verfahren Schritt für Schritt abläuft.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §101 Abs.1",
+      "TirSOG §101 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Beihilfefähig sind Pflichtschulwege, die unvernünftig sind und auswärtiges Wohnen erzwingen, halb erstattet mit Deckel und Frist. Zum Nachlesen: TirSOG §102 Abs.2.",
+    "hauptquelle": "TirSOG §102 Abs.2",
+    "id": "C39-L2-014",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Besuch einer Pflichtschule vom Wohnort aus",
+      "Weg auf vernünftige Art nicht zu schaffen",
+      "Auswärtige Unterbringung deshalb notwendig",
+      "Erstattung der Hälfte mit gedeckeltem Höchstbetrag",
+      "Fristgerechter Antrag bei der Bildungsdirektion",
+      "Beliebiger Sprachkurs im Ausland"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Pflichtschulbesuch ist der Anlass.",
+      "Richtig: Unvernünftiger Weg ist Voraussetzung.",
+      "Richtig: Nötiges Auswärtswohnen löst die Hilfe aus.",
+      "Richtig: Hälfte mit Deckel ist die Höhe.",
+      "Richtig: Frist und Stelle sichern den Anspruch.",
+      "Falsch: Freizeitkurse sind nicht erfasst."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Hofer vom Berghof lässt Sohn Lukas unter der Woche nahe der Sprengelschule wohnen und will prüfen, ob alle Voraussetzungen für die Kostenhilfe erfüllt sind und wie viel es gibt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §102 Abs.1",
+      "TirSOG §102 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Gute Zusammenarbeit heißt feste Ansprechpartner, Termine, Infofluss und gemeinsame Regeln bei Bus und Heim. Zum Nachlesen: TirSOG §120 Abs.3.",
+    "hauptquelle": "TirSOG §120 Abs.3",
+    "id": "C39-L2-015",
+    "level": "L2",
+    "modul_id": "C39",
+    "optionen": [
+      "Feste Ansprechpartner in Heim, Schule und Gemeinde",
+      "Regelmäßige Elternabende und Sprechstunden",
+      "Rasche gegenseitige Information bei Problemen",
+      "Gemeinsame Regeln für Bus, Hausaufgaben und Heimkehr",
+      "Kontakt nur über Gerüchte am Parkplatz",
+      "Beschwerden grundsätzlich nie ansprechen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Klare Ansprechpartner verkürzen Wege.",
+      "Richtig: Feste Termine sichern Austausch.",
+      "Richtig: Frühe Info verhindert Eskalation.",
+      "Richtig: Gemeinsame Regeln entlasten Kinder.",
+      "Falsch: Gerüchte ersetzen kein Gespräch.",
+      "Falsch: Anliegen dürfen offen angesprochen werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach Reibereien um Busverspätungen, Hausaufgaben und Wochenendheimfahrten wollen Eltern, Heim und Schule ihre Zusammenarbeit auf eine verlässliche Grundlage stellen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §121 Abs.1"
+    ]
+  }
+]

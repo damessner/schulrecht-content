@@ -1,1 +1,439 @@
-[]
+[
+  {
+    "aufloesung": "Die Aufnahme ins Schülerheim beantragen die Eltern schriftlich beim Heimerhalter, das Heim bestätigt Platz und Beginn. Zum Nachlesen: TirSOG §120 Abs.1.",
+    "hauptquelle": "TirSOG §120 Abs.1",
+    "id": "C39-L1-001",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Die Eltern beantragen die Aufnahme schriftlich beim Heimerhalter und erhalten eine Platzzusage mit Beginntermin.",
+      "Das Kind meldet sich selbst mündlich beim Hausmeister an, mehr braucht es nicht.",
+      "Die Aufnahme erfolgt automatisch mit der Schuleinschreibung, ein Antrag ist nie nötig.",
+      "Nur der Bürgermeister kann Kinder eigenmächtig ins Heim einweisen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schriftlicher Antrag der Eltern und Zusage des Heims sind der normale Weg.",
+      "Falsch: Minderjährige werden durch die Eltern angemeldet, nicht mündlich nebenbei.",
+      "Falsch: Heim und Schule sind getrennte Anmeldungen.",
+      "Falsch: Der Bürgermeister weist niemanden eigenmächtig ein."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Steinacher aus einem Seitental möchte, dass Tochter Anna während der Schulwoche im Schülerheim nahe der Mittelschule wohnt. Die Eltern fragen, wie sie die Aufnahme richtig in die Wege leiten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Vorrang haben Kinder, die auf den Heimplatz angewiesen sind, weil sie sonst keine Schule auf vernünftigem Weg erreichen. Zum Nachlesen: TirSOG §119 Abs.2.",
+    "hauptquelle": "TirSOG §119 Abs.2",
+    "id": "C39-L1-002",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Wer zuerst anruft, bekommt den Platz, egal ob er ihn braucht.",
+      "Vorrang haben Kinder, die den Heimplatz wirklich brauchen, weil ihr Schulweg von daheim nicht vernünftig zu schaffen ist.",
+      "Nur Kinder mit den besten Noten bekommen einen Heimplatz.",
+      "Nur Kinder aus der Standortgemeinde dürfen ins Heim, alle anderen nie."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Dringlichkeit schlägt Windhundprinzip.",
+      "Richtig: Angewiesensein wegen des Schulweges gibt Vorrang.",
+      "Falsch: Noten entscheiden nicht über die Aufnahme.",
+      "Falsch: Gerade auswärtige Kinder brauchen das Heim."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Schülerheim sind weniger Plätze frei als Bewerbungen da. Darunter ist ein Bub von einem abgelegenen Berghof ohne vernünftige tägliche Verbindung zur Schule. Die Eltern fragen, wer bei knappen Plätzen zuerst zum Zug kommt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Für Unterbringung, Essen und Betreuung zahlen die Unterhaltspflichtigen einen monatlichen Heimkostenbeitrag im Nachhinein. Zum Nachlesen: TirSOG §122 Abs.1.",
+    "hauptquelle": "TirSOG §122 Abs.1",
+    "id": "C39-L1-003",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Niemand zahlt je etwas, das Heim ist immer völlig gratis.",
+      "Die Unterhaltspflichtigen zahlen für Wohnen, Essen und Betreuung einen monatlichen Beitrag im Nachhinein.",
+      "Die Mitschüler teilen sich die Kosten des Heimkindes.",
+      "Der Beitrag wird einmalig vor der Geburt für alle Jahre eingehoben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Kostenbeitrag der Unterhaltspflichtigen ist vorgesehen.",
+      "Richtig: Monatlicher Beitrag im Nachhinein trifft die Regel.",
+      "Falsch: Mitschüler zahlen nicht für andere mit.",
+      "Falsch: Abgerechnet wird monatlich im Nachhinein."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sohn Felix zieht unter der Woche ins Schülerheim mit Vollverpflegung und Nachmittagsbetreuung. Seine Eltern fragen, wer diese Heimkosten trägt und wann abgerechnet wird.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Bei schwachem Einkommen, mehreren Kindern oder gutem Lernerfolg kann der Beitrag teilweise oder ganz erlassen werden. Zum Nachlesen: TirSOG §122 Abs.2.",
+    "hauptquelle": "TirSOG §122 Abs.2",
+    "id": "C39-L1-004",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Ein Nachlass ist grundsätzlich ausgeschlossen, jeder zahlt immer voll.",
+      "Je nach Einkommen, Vermögen, Familienlage und Lernerfolg kann der Beitrag ganz oder teilweise erlassen werden.",
+      "Nur der Klassensprecher bekommt einen Nachlass.",
+      "Ein Erlass gilt nur in Schaltjahren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Erlass ist ausdrücklich möglich.",
+      "Richtig: Einkommen, Vermögen, Familie und Lernerfolg zählen für den Nachlass.",
+      "Falsch: Eine Klassenfunktion spielt keine Rolle.",
+      "Falsch: Der Erlass hängt nicht vom Kalender ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Eder hat drei Kinder und wenig Einkommen, Tochter Lena wohnt im Schülerheim. Die Eltern fragen, ob sie wegen ihrer Lage weniger Heimbeitrag zahlen können.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Kann ein Kind seinen Schulweg ohne Verkehrsmittel nicht vernünftig bewältigen, organisiert die Gemeinde die Beförderung, das Land kann sich an den Kosten beteiligen. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C39-L1-005",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Jedes Kind hat Anspruch auf ein Taxi vor die Haustür, egal wie nah die Schule ist.",
+      "Ist der Schulweg ohne Verkehrsmittel nicht vernünftig zu schaffen, sorgt die Gemeinde für die Beförderung, mit möglicher Kostenhilfe des Landes.",
+      "Die Eltern müssen immer selbst einen Bus kaufen.",
+      "Beförderung gibt es nur bei besten Noten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Taxi für alle ist nicht vorgesehen.",
+      "Richtig: Unvernünftig schaffbarer Weg löst Gemeindeorganisation plus Landeshilfe aus.",
+      "Falsch: Die Gemeinde organisiert, niemand muss einen Bus kaufen.",
+      "Falsch: Noten spielen keine Rolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mehrere Kinder einer Streusiedlung können ihren Weg zur Volksschule zu Fuß weder sicher noch in vertretbarer Zeit schaffen. Die Eltern fragen, wer für eine Beförderung sorgt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Ansprechpartner für Fahrplan, Haltestelle und Aufsicht beim Einstieg ist zuerst die Gemeinde als Organisatorin, in der Schule die Klassenlehrkraft. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C39-L1-006",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Zuerst die Gemeinde als Organisatorin der Beförderung und in der Schule die Klassenlehrkraft.",
+      "Ausschließlich das Busunternehmen, Schule und Gemeinde sind nie zuständig.",
+      "Nur die Polizei am Ortseingang.",
+      "Niemand, Beschwerden sind grundsätzlich verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gemeinde für Organisation, Lehrkraft für den Schulalltag sind die ersten Adressen.",
+      "Falsch: Gemeinde und Schule bleiben erste Ansprechpartner.",
+      "Falsch: Die Polizei regelt nicht Fahrpläne.",
+      "Falsch: Anliegen dürfen selbstverständlich vorgebracht werden."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Der Schulbus kommt ständig zu früh, ein Erstklässler verpasst ihn und wartet allein an der Haltestelle. Die Mutter fragt, an wen sie sich mit Fahrplan und Aufsicht beim Einstieg wenden soll.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Eltern haben Anspruch auf Auskunft über Unterbringung, Betreuung, Lernhilfe und Verhalten ihres Kindes im Heim. Zum Nachlesen: TirSOG §120 Abs.3.",
+    "hauptquelle": "TirSOG §120 Abs.3",
+    "id": "C39-L1-007",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Eltern dürfen gar nichts erfahren, das Heim schweigt grundsätzlich.",
+      "Eltern bekommen Auskunft über Unterbringung, Betreuung, Lernhilfe und Verhalten ihres Kindes.",
+      "Nur das Kind selbst bekommt Auskünfte, Eltern nie.",
+      "Auskunft gibt es nur gegen hohe Gebühren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eltern haben ein klares Auskunftsrecht.",
+      "Richtig: Unterbringung, Betreuung, Lernhilfe und Verhalten sind auskünftig.",
+      "Falsch: Gerade die Eltern sind auskunftsberechtigt.",
+      "Falsch: Gebühren sind nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mutter Berger macht sich Sorgen, wie es Sohn Jonas im Schülerheim geht, ob er lernt und wie er sich einlebt. Sie fragt, ob die Heimleitung ihr darüber Auskunft geben muss.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Eltern müssen das Heim über Krankheit, Abwesenheit und Abholung informieren und die Heimordnung einhalten. Zum Nachlesen: TirSOG §121 Abs.2.",
+    "hauptquelle": "TirSOG §121 Abs.2",
+    "id": "C39-L1-008",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Eltern müssen nichts melden, das Heim merkt alles von selbst.",
+      "Eltern melden Krankheit und Abwesenheit, klären Abholungen und halten die Heimordnung ein.",
+      "Nur bei Zeugnissen müssen Eltern vorbeikommen.",
+      "Das Kind meldet alles allein, Eltern sind außen vor."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Meldepflichten der Eltern sichern die Aufsicht.",
+      "Richtig: Krankmeldung, Abwesenheit, Abholung und Heimordnung sind Elternsache.",
+      "Falsch: Auch im Alltag braucht es Mitwirkung.",
+      "Falsch: Minderjährige werden durch die Eltern vertreten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tochter Sarah ist erkältet und soll ein Wochenende nicht ins Heim zurückkehren. Die Eltern fragen, was sie der Heimleitung mitteilen müssen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Heimordnung regelt Alltag, Lernzeiten, Ausgang, Besuch und Sicherheit und gilt für alle Heimkinder gleich. Zum Nachlesen: TirSOG §121 Abs.1.",
+    "hauptquelle": "TirSOG §121 Abs.1",
+    "id": "C39-L1-009",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Jedes Kind erfindet seine eigenen Regeln, eine gemeinsame Ordnung gibt es nicht.",
+      "Die Heimordnung regelt Alltag, Lernen, Ausgang, Besuch und Sicherheit für alle gleich.",
+      "Die Heimordnung gilt nur für neue Kinder.",
+      "Die Heimordnung darf nur auf Zuruf geändert werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine gemeinsame Ordnung gilt für alle.",
+      "Richtig: Alltag, Lernen, Ausgang, Besuch und Sicherheit sind typische Inhalte.",
+      "Falsch: Sie gilt für alle Heimbewohner.",
+      "Falsch: Änderungen folgen festen Wegen, nicht Zuruf."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Neuling Tim kommt ins Schülerheim und wundert sich über feste Lernzeiten, Ausgangsregeln und Besuchszeiten an der Tür. Seine Eltern fragen, was es mit dieser Hausordnung auf sich hat.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Heimleitung führt Aufsicht und Betreuung, sorgt für Verpflegung, Lernbetreuung und die Einhaltung der Heimordnung. Zum Nachlesen: TirSOG §120 Abs.2.",
+    "hauptquelle": "TirSOG §120 Abs.2",
+    "id": "C39-L1-010",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Die Heimleitung ist nur für die Gartenpflege zuständig.",
+      "Die Heimleitung führt Aufsicht und Betreuung und sorgt für Verpflegung, Lernbetreuung und Ordnung im Haus.",
+      "Die Heimleitung darf das Haus nie betreten.",
+      "Die Kinder leiten das Heim allein."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aufsicht und Betreuung sind Kernaufgaben.",
+      "Richtig: Aufsicht, Essen, Lernhilfe und Ordnung gehören zur Leitung.",
+      "Falsch: Leitung heißt Anwesenheit und Verantwortung.",
+      "Falsch: Kinder tragen nicht die Leitungsverantwortung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Heim gibt es abends Streit um die Nachtruhe, Vater Mayer fragt, wer im Haus eigentlich für Aufsicht, Betreuung und einen geordneten Ablauf sorgt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Heimbeitrag deckt Wohnen, Essen und Betreuung ab, der reine Unterricht bleibt gratis. Zum Nachlesen: TirSOG §122 Abs.1.",
+    "hauptquelle": "TirSOG §122 Abs.1",
+    "id": "C39-L1-011",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Der Beitrag deckt nur die Bettwäsche ab, alles andere ist extra.",
+      "Der Beitrag deckt Unterbringung, Verpflegung und Betreuung ab, der Unterricht selbst bleibt unentgeltlich.",
+      "Mit dem Beitrag ist auch Schulgeld für den Unterricht abgegolten.",
+      "Der Beitrag deckt nur die Ferienbetreuung im Sommer ab."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wohnen, Essen und Betreuung sind abgedeckt.",
+      "Richtig: Heimleistung kostet, Unterricht bleibt gratis.",
+      "Falsch: Schulgeld für den Unterricht gibt es nicht.",
+      "Falsch: Es geht um die Schulzeit im Heim."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern Hofer sehen auf der Heimrechnung Posten für Zimmer, Essen und Betreuung und fragen, was mit dem Heimbeitrag eigentlich bezahlt wird und ob jetzt auch der Unterricht etwas kostet.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §8"
+    ]
+  },
+  {
+    "aufloesung": "Muss ein Pflichtschulkind wegen unvernünftigem Schulweg auswärts wohnen, bekommen die Unterhaltspflichtigen eine Beihilfe zu Wohnen und Essen. Zum Nachlesen: TirSOG §102 Abs.1.",
+    "hauptquelle": "TirSOG §102 Abs.1",
+    "id": "C39-L1-012",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Nein, auswärtiges Wohnen ist immer reine Privatsache ohne jede Hilfe.",
+      "Ja, bei unvernünftigem Schulweg und nötigem auswärtigem Wohnen gibt es eine Landesbeihilfe für die Unterhaltspflichtigen.",
+      "Nur für Auslandsaufenthalte gibt es Geld.",
+      "Nur bei besten Noten gibt es Geld."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Genau dafür ist eine Beihilfe vorgesehen.",
+      "Richtig: Unvernünftiger Weg plus nötiges Auswärtswohnen lösen die Hilfe aus.",
+      "Falsch: Es geht um die Pflichtschule im Sprengel.",
+      "Falsch: Noten sind keine Voraussetzung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sohn Lukas vom Einödhof kann keine Pflichtschule auf vernünftigem Weg erreichen und wohnt deshalb unter der Woche bei einer Gastfamilie nahe der Schule. Die Eltern fragen, ob es dafür eine Kostenhilfe gibt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Beihilfeantrag geht nach Ende des Unterrichtsjahres bis spätestens Jahresende an die Bildungsdirektion, danach verfällt der Anspruch. Zum Nachlesen: TirSOG §102 Abs.3.",
+    "hauptquelle": "TirSOG §102 Abs.3",
+    "id": "C39-L1-013",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Der Antrag kann irgendwann in zehn Jahren gestellt werden.",
+      "Der Antrag geht nach Unterrichtsjahresende bis spätestens Jahresende an die Bildungsdirektion, sonst verfällt der Anspruch.",
+      "Der Antrag gehört ans Busunternehmen.",
+      "Fristen gibt es nur in Schaltjahren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Es gibt eine klare Verfallsfrist.",
+      "Richtig: Nach Schuljahresende bis Jahresende an die Bildungsdirektion ist die Frist.",
+      "Falsch: Zuständig ist die Bildungsdirektion.",
+      "Falsch: Die Frist gilt jedes Jahr."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Egger will die Kostenhilfe für das Auswärtswohnen ihres Sohnes erst zwei Jahre nach dem Schuljahr beantragen. Die Nachbarin warnt, dass das zu spät sein könnte.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der Unterricht kostet nichts, für Heim, Essen und Nachmittagsbetreuung dürfen aber Beiträge verlangt werden. Zum Nachlesen: TirSOG §8.",
+    "hauptquelle": "TirSOG §8",
+    "id": "C39-L1-014",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Auch der reine Unterricht kostet Schulgeld.",
+      "Der Unterricht ist gratis, nur Essen, Betreuung und Heimbeiträge dürfen verlangt werden.",
+      "Heime dürfen Kinder nach ihrer Herkunft ablehnen.",
+      "Nur reiche Familien dürfen ins Heim."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der reine Schulbesuch kostet nichts.",
+      "Richtig: Gratis Unterricht, aber Heim und Verpflegung kosten.",
+      "Falsch: Heime stehen grundsätzlich allen offen.",
+      "Falsch: Der Zugang hängt nicht vom Geldbeutel ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vater Gruber meint, weil der Unterricht gratis sei, müsse auch das Schülerheim mit Essen völlig kostenlos sein. Die Heimleitung stellt trotzdem einen Beitrag in Rechnung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Eltern wirken über Elternabende, Sprechstunden und gewählte Vertretungen an Heimalltag und Beförderungsfragen mit. Zum Nachlesen: TirSOG §120 Abs.3.",
+    "hauptquelle": "TirSOG §120 Abs.3",
+    "id": "C39-L1-015",
+    "level": "L1",
+    "modul_id": "C39",
+    "optionen": [
+      "Eltern dürfen nie mitreden und keine Fragen stellen.",
+      "Eltern nützen Abende, Sprechstunden und Vertretungen, um Heimalltag und Beförderung mitzugestalten.",
+      "Nur die Kinder dürfen Wünsche äußern, Eltern nie.",
+      "Mitwirkung gibt es nur am letzten Ferientag."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mitwirkung und Auskunft sind vorgesehen.",
+      "Richtig: Abende, Sprechstunden und Vertretungen sind die üblichen Wege.",
+      "Falsch: Auch Eltern haben Mitwirkungswege.",
+      "Falsch: Mitwirkung läuft das ganze Jahr."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mehrere Heimeltern ärgern sich über späte Busanschlüsse und starre Besuchszeiten und fragen, auf welchen Wegen sie ihre Anliegen ins Heim und in die Beförderungsorganisation einbringen können.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  }
+]
