@@ -1,1 +1,403 @@
-[]
+[
+  {
+    "aufloesung": "Die Abweisung von Jonas ist richtig, weil bei knappen Plätzen die wirklich angewiesenen Kinder Vorrang haben. Jonas schafft seinen kurzen Ortsweg problemlos zu Fuß, Miriam vom Berghof dagegen nicht. Die Dringlichkeit schlägt die Reihenfolge der Anmeldung. Zum Nachlesen: TirSOG §119 Abs.2.",
+    "hauptquelle": "TirSOG §119 Abs.2",
+    "id": "C39-L3-001",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Die Abweisung ist falsch, weil bei der Aufnahme allein die Reihenfolge der Anmeldung entscheidet.",
+      "Die Abweisung ist richtig, weil bei Platzmangel Kinder mit vorrangigem Bedarf wegen unvernünftigem Schulweg zuerst aufgenommen werden.",
+      "Die Abweisung ist falsch, weil nur Kinder aus der Standortgemeinde aufgenommen werden dürfen.",
+      "Die Abweisung ist falsch, weil ohne Rücksicht auf Bedarf jedes Kind einen Rechtsanspruch auf einen Heimplatz hat."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Dringlichkeit schlägt das Windhundprinzip bei knappen Plätzen.",
+      "Richtig: Angewiesensein wegen des Schulweges gibt den Vorrang.",
+      "Falsch: Gerade auswärtige Kinder sind die typischen Heimkinder.",
+      "Falsch: Bei Vollbelegung braucht es eine Auswahl nach Bedarf."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schülerheim hat nur noch einen freien Platz und zwei Bewerbungen: Jonas aus dem Ort mit ebenem zehnminütigem Gehweg zur Mittelschule und Miriam von einem abgelegenen Berghof ohne vernünftige tägliche Verbindung. Die Heimleitung weist Jonas ab und nimmt Miriam auf, seine Eltern protestieren.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §120 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Ablehnung ist richtig, weil das Heim nur für Kinder bestimmt ist, die dort eine erfasste Pflichtschule besuchen. Ein reiner Mittagstisch ohne entsprechenden Schulbesuch löst keine Aufnahme aus. Der Heimerhalter prüft Zuständigkeit und Bedarf vor der Zusage. Zum Nachlesen: TirSOG §120 Abs.1.",
+    "hauptquelle": "TirSOG §120 Abs.1",
+    "id": "C39-L3-002",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Die Ablehnung ist falsch, weil jedes Kind unabhängig vom Schulbesuch aufgenommen werden muss.",
+      "Die Ablehnung ist richtig, weil keine erfasste Pflichtschule besucht wird und damit der Aufnahmezweck fehlt.",
+      "Die Ablehnung ist falsch, weil eine mündliche Anmeldung beim Hausmeister genügt hätte.",
+      "Die Ablehnung ist falsch, weil Heime auch reine Ferienherbergen für alle sind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aufnahme setzt den passenden Schulbesuch voraus.",
+      "Richtig: Ohne erfasste Schule fehlt der Zweck des Heimplatzes.",
+      "Falsch: Es braucht den schriftlichen Antrag der Eltern beim Heimerhalter.",
+      "Falsch: Schülerheime dienen dem Schulbesuch, nicht dem Urlaub."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern Huber wollen ihren Sohn unter der Woche im Schülerheim unterbringen, obwohl er dort keine der Schulen besucht, für die das Heim eingerichtet ist. Es geht ihnen nur um einen betreuten Mittagstisch. Die Heimleitung lehnt die Aufnahme wegen fehlender Zuständigkeit ab.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §119 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Eltern schulden nur die echten Heimtage, weil monatlich im Nachhinein abgerechnet wird. Zwei Wochen Krankheit daheim ohne Heimleistung sind kein Beitrag. Der reine Unterricht bleibt davon unberührt gratis. Zum Nachlesen: TirSOG §122 Abs.1.",
+    "hauptquelle": "TirSOG §122 Abs.1",
+    "id": "C39-L3-003",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Die Eltern müssen den vollen Monat zahlen, weil der Heimplatz freigehalten wurde.",
+      "Die Eltern schulden nur die tatsächlichen Heimtage, weil monatlich im Nachhinein für echte Leistung abgerechnet wird.",
+      "Die Eltern müssen das ganze Jahr im Voraus zahlen, Krankheit zählt immer voll.",
+      "Mit der Krankmeldung entfällt automatisch auch die Schulpflicht des Kindes."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Freihalten ohne Leistung löst keinen vollen Beitrag aus.",
+      "Richtig: Echte Heimtage im Nachhinein sind der Maßstab.",
+      "Falsch: Abgerechnet wird monatlich im Nachhinein.",
+      "Falsch: Die Schulpflicht läuft trotz Krankheit weiter."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tochter Nina liegt zwei Wochen mit Grippe daheim und nutzt weder Zimmer noch Essen noch Betreuung im Schülerheim. Die Eltern wollen den vollen Monatsbeitrag nicht zahlen, die Heimverwaltung besteht auf dem vollen Betrag wegen Platzfreihaltung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §122 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Teilentscheidung ist richtig, weil geringes Einkommen allein keinen automatischen Vollerlass erzwingt. Einkommen, Vermögen, Familienlage und Lernerfolg sind gemeinsam abzuwägen. Gute Mitarbeit stützt den Antrag, dauerndes Schwänzen der Lernzeiten schwächt ihn. Zum Nachlesen: TirSOG §122 Abs.2.",
+    "hauptquelle": "TirSOG §122 Abs.2",
+    "id": "C39-L3-004",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Die Entscheidung ist falsch, weil geringes Einkommen automatisch den Vollerlass erzwingt.",
+      "Die Entscheidung ist richtig, weil alle vier Gesichtspunkte abzuwägen sind und der schwache Lernerfolg den Vollerlass hindert.",
+      "Die Entscheidung ist falsch, weil ein Nachlass grundsätzlich verboten ist.",
+      "Die Entscheidung ist falsch, weil nur die Lieblingsfächer des Kindes zählen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Es gibt Ermessen, keinen Automatik-Vollerlass.",
+      "Richtig: Vier Kriterien gemeinsam tragen die Teilentscheidung.",
+      "Falsch: Teil- oder Gänzeerlass ist ausdrücklich möglich.",
+      "Falsch: Maßstab ist der gesamte Lernerfolg, nicht ein Lieblingsfach."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Eder mit kleinem Einkommen beantragt für Heimschüler Paul den vollen Erlass des Heimbeitrags. Paul schwänzt dauernd die betreuten Lernzeiten, seine Leistungen brechen ein. Der Heimerhalter gewährt nur einen Teilerlass, die Eltern bestehen auf vollem Erlass wegen des Einkommens.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Androhung des sofortigen Ausschlusses ist falsch, weil eine einmalige kurze Verspätung keinen schweren Verstoß darstellt. Erst schwere oder wiederholte Verstöße nach Anhörung der Eltern tragen einen Ausschluss. Mildere Mittel wie Ermahnung und Elterngespräch gehen vor. Zum Nachlesen: TirSOG §121 Abs.1.",
+    "hauptquelle": "TirSOG §121 Abs.1",
+    "id": "C39-L3-005",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Die Androhung ist richtig, weil jeder Regelverstoß sofort zum Ausschluss führt.",
+      "Die Androhung ist falsch, weil eine einmalige kurze Verspätung weder schwer noch wiederholt ist und mildere Mittel vorgehen.",
+      "Die Androhung ist richtig, weil vor einem Ausschluss niemand anzuhören ist.",
+      "Die Androhung ist richtig, weil der Ausschluss eines Kindes das ganze Heim auflöst."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sofortausschluss für jede Kleinigkeit ist unverhältnismäßig.",
+      "Richtig: Schwere, Wiederholung, Anhörung und mildere Mittel sind der Maßstab.",
+      "Falsch: Eltern sind vor dem Ausschluss anzuhören.",
+      "Falsch: Ausschluss und Auflassung des Heimes sind verschiedene Dinge."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der zwölfjährige Tim kommt einmal zehn Minuten zu spät von der erlaubten Ausgangszeit ins Schülerheim zurück. Die Betreuung droht sofort mit dem endgültigen Ausschluss aus dem Heim. Seine Eltern halten das für maßlos überzogen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §120 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Versagung ist richtig, weil die Kostenhilfe nur den nötigen Besuch der zuständigen Pflichtschule sichert. Wer freiwillig eine entfernte Wunschschule wählt und dafür auswärts wohnt, trägt die Mehrkosten selbst. Die Freiwilligkeit der Schulwahl schließt die Notlage aus. Zum Nachlesen: TirSOG §102 Abs.1.",
+    "hauptquelle": "TirSOG §102 Abs.1",
+    "id": "C39-L3-006",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Die Versagung ist falsch, weil jede selbst gewählte Wunschschule dieselbe Kostenhilfe auslöst.",
+      "Die Versagung ist richtig, weil freiwilliges Auswärtswohnen für eine Wunschschule keine notwendige Unterbringung ist.",
+      "Die Versagung ist falsch, weil die Hilfe immer die vollen Kosten ohne Deckel ersetzt.",
+      "Die Versagung ist falsch, weil Anträge an das Busunternehmen zu richten sind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Freiwillige Schulwahl löst die Hilfe nicht aus.",
+      "Richtig: Nur notwendiges Wohnen für die zuständige Schule zählt.",
+      "Falsch: Es gibt nur die Hälfte mit gedeckeltem Höchstbetrag.",
+      "Falsch: Zuständig ist die Bildungsdirektion."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Egger schickt Sohn Lukas trotz gut erreichbarer Mittelschule im Ort auf eine weit entfernte Wunschschule und mietet ihm dort ein Zimmer. Für dieses freiwillig gewählte auswärtige Wohnen verlangt sie eine Kostenhilfe. Die Förderstelle versagt die Hilfe.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §102 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Auswahl trägt die Aufnahme von Miriam und die Abweisung von Jonas. Antrag, Bedarf und Vorrang der Angewiesenen entscheiden bei knappen Plätzen, nicht Reihenfolge, Noten oder Ortsansässigkeit. Zum Nachlesen: TirSOG §119 Abs.2.",
+    "hauptquelle": "TirSOG §119 Abs.2",
+    "id": "C39-L3-007",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Der Aufnahmeantrag der Eltern ist schriftlich an den Heimerhalter zu richten.",
+      "Bei Platzmangel haben Kinder Vorrang, die auf den Platz wegen unvernünftigem Schulweg angewiesen sind.",
+      "Begrenzte Kapazität erlaubt eine Auswahl nach Dringlichkeit des Bedarfs.",
+      "Es entscheidet allein, wer sich zuerst gemeldet hat.",
+      "Es entscheiden allein die Schulnoten der Bewerber.",
+      "Kinder aus der Standortgemeinde verdrängen immer alle auswärtigen Kinder."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schriftlicher Antrag startet das Verfahren.",
+      "Richtig: Angewiesensein gibt den Vorrang.",
+      "Richtig: Knappheit erlaubt Auswahl nach Bedarf.",
+      "Falsch: Reihenfolge allein schlägt Bedarf nicht.",
+      "Falsch: Noten entscheiden nicht über Heimnot.",
+      "Falsch: Gerade Auswärtige brauchen das Heim typischerweise."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Als Sachbearbeiter prüfst du einen Streit um den letzten Heimplatz: ein Ortskind mit kurzem sicherem Gehweg gegen ein Berghofkind ohne vernünftige tägliche Verbindung. Beide Familien berufen sich auf Reihenfolge, Noten und Wohnort. Du ordnest, welche Gesichtspunkte wirklich tragen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §120 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Der Beitrag bleibt für echte Heimtage geschuldet und ist sozial abfederbar. Schuldner, Deckelung, Nachhinein-Abrechnung und Rechtsweg sichern das Verfahren. Zum Nachlesen: TirSOG §122 Abs.2.",
+    "hauptquelle": "TirSOG §122 Abs.2",
+    "id": "C39-L3-008",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Schuldner des Beitrags für Wohnen, Essen und Betreuung sind die Unterhaltspflichtigen, höchstens kostendeckend nach Verordnung.",
+      "Je nach Einkommen, Vermögen, Familienlage und Lernerfolg kann ganz oder teilweise vom Beitrag abgesehen werden.",
+      "Abgerechnet wird monatlich im Nachhinein, für die Einbringung steht der ordentliche Rechtsweg offen.",
+      "Der Schulunterricht selbst bleibt unentgeltlich, der Beitrag deckt nur die Heimleistung ab.",
+      "Wegen der Gratisfreiheit der Schule darf für Heim und Essen nie etwas verlangt werden.",
+      "Über den Beitrag entscheidet das Taschengeld der Mitschüler."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gedeckelter Beitrag der Unterhaltspflichtigen ist die Grundlage.",
+      "Richtig: Vier Gesichtspunkte tragen den Erlass.",
+      "Richtig: Nachhinein plus Gerichtsweg ist das Verfahren.",
+      "Richtig: Gratis Unterricht, aber Heimleistung kostet.",
+      "Falsch: Heim, Essen und Betreuung kosten einen Beitrag.",
+      "Falsch: Mitschüler zahlen nicht für andere mit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Ausschluss streiten Eltern und Heimerhalter über Nachzahlung für vergangene Heimwochen, einen beantragten Erlass wegen schwachen Einkommens und die Behauptung, Heime müssten wegen der Gratisschule völlig kostenlos sein. Du klärst die Kostenregeln als Grenzfall.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §122 Abs.1",
+      "TirSOG §122 Abs.3",
+      "TirSOG §8"
+    ]
+  },
+  {
+    "aufloesung": "Der Ausschluss trägt nur bei Schwere, Wiederholung und fairem Verfahren. Anhörung, Verhältnismäßigkeit und Trennung von der Auflassung des ganzen Hauses sichern die Grenze. Zum Nachlesen: TirSOG §121 Abs.1.",
+    "hauptquelle": "TirSOG §121 Abs.1",
+    "id": "C39-L3-009",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Der Ausschluss braucht schwere oder wiederholte Verstöße gegen die Heimordnung.",
+      "Vor dem Ausschluss sind das Kind und die Eltern anzuhören und mildere Mittel zu prüfen.",
+      "Der Ausschluss muss verhältnismäßig sein, eine Ermahnung oder Elterngespräch geht bei leichten Fällen vor.",
+      "Der Einzelausschluss ist von der Auflassung des ganzen Heimes streng zu trennen.",
+      "Jede einmalige kurze Verspätung erzwingt den sofortigen Ausschluss.",
+      "Ein Ausschluss darf ohne jede Begründung und Anhörung verfügt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schwere oder Wiederholung ist die Schwelle.",
+      "Richtig: Anhörung und mildere Mittel sichern Fairness.",
+      "Richtig: Verhältnismäßigkeit schützt vor Überreaktion.",
+      "Richtig: Auflassung braucht dauernden Wegfall der Errichtungsvoraussetzungen.",
+      "Falsch: Kleinigkeiten tragen keinen Rauswurf.",
+      "Falsch: Begründung und Anhörung gehören zum Verfahren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Heimschüler Leon fällt durch nächtliches heimliches Verlassen des Hauses, Sachbeschädigung und Beschimpfung des Betreuungspersonals auf, trotz Ermahnung und Elterngespräch geht es weiter. Daneben meint ein Gemeinderat, eine einzige kurze Verspätung eines anderen Kindes müsse genauso zum Rauswurf führen. Du ziehst die Grenze.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §120 Abs.3",
+      "TirSOG §120 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Hilfe scheitert hier an Zweck, Deckel und Frist zugleich. Nur nötiges Wohnen für die zuständige Schule zählt, nur zur Hälfte mit Deckel und nur bei fristgerechtem Antrag. Zum Nachlesen: TirSOG §102 Abs.2.",
+    "hauptquelle": "TirSOG §102 Abs.2",
+    "id": "C39-L3-010",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Beihilfe gibt es nur, wenn der Pflichtschulbesuch ohne auswärtiges Wohnen auf vernünftigem Weg nicht möglich und die Unterbringung deshalb nötig ist.",
+      "Ersetzt wird nur die Hälfte der Kosten für Unterbringung und Verpflegung, gedeckelt mit einem Höchstbetrag.",
+      "Der Antrag muss nach Unterrichtsjahresende bis spätestens Jahresende bei der Bildungsdirektion einlangen, sonst verfällt der Anspruch.",
+      "Freiwilliges Wohnen für eine selbst gewählte Wunschschule löst keine Beihilfe aus.",
+      "Es werden immer die vollen Kosten ohne jede Obergrenze ersetzt.",
+      "Der Antrag kann beliebig viele Jahre später ohne Folgen gestellt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Notwendigkeit für die zuständige Schule ist der Anlass.",
+      "Richtig: Hälfte mit Deckel ist die Höhe.",
+      "Richtig: Fristversäumnis vernichtet den Anspruch.",
+      "Falsch: Genau dort fehlt die Notwendigkeit.",
+      "Falsch: Volle Kosten ohne Deckel gibt es nicht.",
+      "Falsch: Nach Jahresende droht der Totalverlust."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Familien streiten mit der Förderstelle: eine wählte freiwillig eine ferne Wunschschule, eine verlangt volle Kosten ohne Deckel, eine will den Antrag erst zwei Jahre nach dem Schuljahr stellen. Alle berufen sich auf angebliche Vollkosten ohne Frist. Du ordnest die Grenzfälle.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §102 Abs.1",
+      "TirSOG §102 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Mitwirkungspflichten sichern Aufsicht und Alltag im Heim. Melden, Absprechen, Ordnung einhalten und pünktlich zahlen gehören dazu, fremde Akten und Einzeldiktate nicht. Zum Nachlesen: TirSOG §121 Abs.2.",
+    "hauptquelle": "TirSOG §121 Abs.2",
+    "id": "C39-L3-011",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Krankheit, Abwesenheit und voraussichtliche Dauer rasch dem Heim melden.",
+      "Abholungen, Wochenendheimfahrten und Rückkehrzeiten vorher klar absprechen.",
+      "Heimordnung, Lernzeiten und Termine einhalten und den Beitrag pünktlich zahlen.",
+      "Einzelne Eltern legen allein alle Heimregeln für alle verbindlich fest.",
+      "Eltern erhalten Einsicht in die Akten fremder Heimkinder.",
+      "Kranke Kinder werden heimlich trotzdem ins Heim geschickt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rasche Meldung sichert Betreuung und Aufsicht.",
+      "Richtig: Klare Absprachen verhindern Suchaktionen.",
+      "Richtig: Ordnung und Zahlung tragen den Alltag.",
+      "Falsch: Regeln gelten für alle und werden nicht einzeln diktiert.",
+      "Falsch: Fremde Akten bleiben geschützt.",
+      "Falsch: Ansteckungsschutz geht vor, daheim betreuen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Heim häufen sich unangekündigte Abholungen, verspätete Rückkehrer und verschwiegene Erkrankungen. Einige Eltern verlangen zugleich, allein die Hausregeln zu bestimmen und fremde Akten einzusehen. Die Leitung klärt, was als Mitwirkung wirklich geschuldet ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §120 Abs.3",
+      "TirSOG §121 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Der Beitrag für tatsächlich erbrachte Heimtage bleibt trotz Ausschlusses geschuldet und wird monatlich im Nachhinein verlangt. Zum Nachlesen: TirSOG §122 Abs.1.",
+    "hauptquelle": "TirSOG §122 Abs.1",
+    "id": "C39-L3-012",
+    "level": "L3",
+    "modul_id": "C39",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Echte Heimtage bleiben zahlbar, Rückwirkung gibt es keine."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Stammtischbehauptung einer Mutter: Fliegt ein Kind aus dem Schülerheim, entfällt der Heimbeitrag automatisch rückwirkend für das ganze Schuljahr, weil das Heim dann ja nichts mehr leistet.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "TirSOG §122 Abs.3"
+    ]
+  }
+]

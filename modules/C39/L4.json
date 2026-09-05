@@ -1,1 +1,273 @@
-[]
+[
+  {
+    "aufloesung": "Die Familie braucht einen schriftlichen begründeten Bescheid mit Zuständigkeit und Rechtsweg. Mündliche Hinweise auf Vollbelegung genügen nicht. Erst mit Begründung kann sie den Rechtsweg prüfen. Zum Nachlesen: TirSOG §120 Abs.1.",
+    "hauptquelle": "TirSOG §120 Abs.1",
+    "id": "C39-L4-001",
+    "level": "L4",
+    "modul_id": "C39",
+    "optionen": [
+      "Die Familie muss die mündliche Auskunft ohne Begründung hinnehmen, ein Rechtsweg besteht nie.",
+      "Die Familie hat Anspruch auf eine schriftliche begründete Entscheidung mit Angabe von Zuständigkeit und Rechtsweg.",
+      "Die Familie muss den Heimplatz beim Busfahrer einklagen.",
+      "Die Familie muss zuerst die Schule wechseln, bevor sie fragen darf."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Begründung gibt es keine überprüfbare Entscheidung.",
+      "Richtig: Schriftlichkeit, Begründung und Rechtsweg sichern das Verfahren.",
+      "Falsch: Das Busunternehmen entscheidet nicht über Heimplätze.",
+      "Falsch: Ein Schulwechsel ist keine Verfahrensvoraussetzung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Steinacher erhält für Tochter Anna nur mündlich die Auskunft, das Heim sei voll, ohne Gründe, ohne Stelle und ohne Hinweis auf weitere Schritte. Sie will wissen, welche Form die Ablehnung haben muss und wohin sie sich wenden kann.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §119 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Der Schulplatz bleibt trotz Heimverlustes bestehen, weil Heim und Schule rechtlich getrennt sind. Die Schulpflicht läuft weiter und Schule samt Aufsicht sichern den Fortbesuch. Das Heimproblem löst kein Schulproblem aus. Zum Nachlesen: TirSOG §121 Abs.1.",
+    "hauptquelle": "TirSOG §121 Abs.1",
+    "id": "C39-L4-002",
+    "level": "L4",
+    "modul_id": "C39",
+    "optionen": [
+      "Der Schulplatz geht mit dem Heimplatz automatisch verloren, die Schulpflicht endet.",
+      "Der Schulbesuch bleibt unberührt, die Schulpflicht läuft weiter und Schule und Aufsicht sichern den Fortbesuch.",
+      "Das Kind darf ohne Heim keine Schule mehr betreten.",
+      "Die Eltern müssen das Bundesland verlassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Heim und Schule sind getrennte Rechtsverhältnisse.",
+      "Richtig: Schulpflicht und Schulplatz überleben den Heimausschluss.",
+      "Falsch: Ein Hausverbot im Heim sperrt keine Schule.",
+      "Falsch: Ein Umzug ist keine Rechtsfolge des Ausschlusses."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der 14-jährige Felix wird nach schweren wiederholten Verstößen aus dem Schülerheim ausgeschlossen. Seine Eltern meinen, damit sei auch der Schulbesuch beendet und er brauche nicht mehr zur Schule. Die Schule verlangt sein weiteres Erscheinen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §8",
+      "TirSOG §120 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Der Einwand beim Klassenlehrer ist der falsche Weg, weil für die Einbringung des Beitrags der ordentliche Rechtsweg offensteht. Wer einen Erlass will, stellt mit Einkommens- und Familiennachweisen einen Antrag an den Heimerhalter. Gründe und Belege entscheiden, nicht der Zuruf im Klassenzimmer. Zum Nachlesen: TirSOG §122 Abs.3.",
+    "hauptquelle": "TirSOG §122 Abs.3",
+    "id": "C39-L4-003",
+    "level": "L4",
+    "modul_id": "C39",
+    "optionen": [
+      "Der mündliche Einspruch beim Klassenlehrer ersetzt Antrag und Klage und stoppt alles.",
+      "Streit über die Einbringung gehört vor das ordentliche Gericht, ein Erlass braucht einen begründeten Antrag mit Nachweisen an den Heimerhalter.",
+      "Die Mitschüler stimmen über Beitrag und Erlass ab.",
+      "Der Beitrag verfällt automatisch, sobald man sich beschwert."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zuständigkeit und Form sind hier entscheidend.",
+      "Richtig: Gerichtsweg plus belegter Erlassantrag ist das Verfahren.",
+      "Falsch: Mitschüler entscheiden nicht über fremde Beiträge.",
+      "Falsch: Beschwerde allein tilgt keine Schuld."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eltern Hofer sind mit der Nachzahlung des Heimbeitrags für Sohn Felix nicht einverstanden und beschweren sich mündlich beim Klassenlehrer. Gleichzeitig wollen sie wegen knappen Einkommens weniger zahlen, legen aber keine Belege vor. Sie fragen nach dem richtigen Weg für Streit und Erlass.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §122 Abs.1",
+      "TirSOG §122 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Gemeinde muss als Organisatorin für einen sicheren Umstieg mit klarer Übergabe sorgen. Schule und Heim ergänzen das mit Abholketten und Aufsicht an Haltestelle und Haus. Das Kleinkind darf nicht allein sich selbst überlassen bleiben. Zum Nachlesen: TirSOG §101 Abs.1.",
+    "hauptquelle": "TirSOG §101 Abs.1",
+    "id": "C39-L4-004",
+    "level": "L4",
+    "modul_id": "C39",
+    "optionen": [
+      "Das siebenjährige Kind ist allein für den gefährlichen Umstieg verantwortlich, niemand muss etwas regeln.",
+      "Die Gemeinde als Organisatorin sorgt für sichere Haltestellen und klare Übergaben, Schule und Heim sichern die Abholkette mit ab.",
+      "Allein der Busfahrer haftet für alles, Gemeinde und Schule gehen das nichts an.",
+      "Die Eltern müssen einen eigenen Bus kaufen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Erstklässler trägt diese Verantwortung nicht allein.",
+      "Richtig: Organisation plus Übergaberegeln sichern den Umstieg.",
+      "Falsch: Fahrer ersetzt nicht Organisation und Aufsichtskette.",
+      "Falsch: Niemand muss einen Bus kaufen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Die siebenjährige Lena muss auf ihrem Schulweg an einer unübersichtlichen Kreuzung ohne Gehsteig allein den Bus wechseln und wartet dort oft unbeaufsichtigt. Nach einem Beinahe-Unfall streiten Gemeinde, Schule und Heimeltern, wer für Sicherheit und Übergabe beim Umstieg zuständig ist.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §100 lit.a",
+      "TirSOG §120 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Der Ausschluss hält nur mit fairem Verfahren und gesichertem Schulbesuch. Anhörung, Schriftlichkeit, Verhältnismäßigkeit und Dokumentation verbinden Heimordnung mit Aufsicht und Verfahrensrecht. Zum Nachlesen: TirSOG §121 Abs.1.",
+    "hauptquelle": "TirSOG §121 Abs.1",
+    "id": "C39-L4-005",
+    "level": "L4",
+    "modul_id": "C39",
+    "optionen": [
+      "Kind und Eltern sind vor dem Ausschluss anzuhören, ihre Sicht ist festzuhalten.",
+      "Die Entscheidung ergeht schriftlich mit Begründung aus der Heimordnung und Hinweis auf den Rechtsweg.",
+      "Mildere Mittel wie Ermahnung und Elterngespräch sind vorher zu prüfen und zu dokumentieren.",
+      "Der weitere Schulbesuch bleibt gesichert, die Schule wird über den Heimwechsel informiert.",
+      "Ein Zuruf auf dem Gang ersetzt Anhörung und Begründung.",
+      "Der Heimausschluss beendet automatisch auch das Schulverhältnis."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anhörung sichert Fairness und Aufsicht.",
+      "Richtig: Schriftlichkeit macht die Entscheidung überprüfbar.",
+      "Richtig: Verhältnismäßigkeit verlangt mildere Mittel zuerst.",
+      "Richtig: Heim und Schule bleiben getrennte Wege.",
+      "Falsch: Ohne Verfahren kein haltbarer Ausschluss.",
+      "Falsch: Schule läuft trotz Heimverlust weiter."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Als Heimleitung bereitest du den drohenden Ausschluss eines 15-Jährigen nach wiederholten schweren Verstößen gegen Ausgangs- und Sicherheitsregeln vor. Die Eltern kündigen eine Aufsichtsbeschwerde an. Du prüfst, welche Verfahrensschritte Heimordnung, Aufsicht und Rechtsweg gemeinsam verlangen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §120 Abs.1",
+      "TirSOG §120 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Alltag trägt die Aufsicht erst im Zusammenspiel von Heim, Schule und Eltern. Feste Strukturen, klare Übergaben und rascher Infofluss verhindern Suchaktionen und Unfälle. Zum Nachlesen: TirSOG §120 Abs.2.",
+    "hauptquelle": "TirSOG §120 Abs.2",
+    "id": "C39-L4-006",
+    "level": "L4",
+    "modul_id": "C39",
+    "optionen": [
+      "Beaufsichtigte Lernzeiten mit ruhigen Plätzen und Austausch mit Schule und Eltern bei Problemen.",
+      "Klare Ausgangs-, Besuchs- und Rückkehrregeln mit An- und Abmeldung bei der Betreuung.",
+      "Sichere Haltestellen, Warte- und Übergaberegeln für den Weg zwischen Heim, Bus und Schule.",
+      "Rasche Krankmeldung mit Dauer und Erreichbarkeit plus abgesprochene Rückkehr.",
+      "Heimliches nächtliches Verlassen des Hauses als Mutprobe dulden.",
+      "Kranke Kinder ohne Info in Bus und Heim schicken."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lernstruktur verbindet Heim und Schule.",
+      "Richtig: Anmeldung sichert die Aufsichtskette.",
+      "Richtig: Übergaben schützen unterwegs.",
+      "Richtig: Infofluss schützt alle.",
+      "Falsch: Heimliches Entfernen bricht die Aufsicht.",
+      "Falsch: Ansteckungsschutz und Info gehen vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach späten Rückkehrern, einem Beinahe-Unfall an der Haltestelle und abgerutschten Noten will ein Heim mit Schule, Gemeinde und Eltern ein gemeinsames Aufsichts- und Betreuungskonzept bauen. Du sammelst, welche Bausteine Heimalltag, Beförderung und Aufsicht wirklich verbinden.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §121 Abs.1",
+      "TirSOG §121 Abs.2",
+      "TirSOG §101 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Kostenstreit und Kostenhilfe laufen auf getrennten Schienen mit eigenen Anträgen und Fristen. Wer Belege und Fristen versäumt, verliert auch bei guter Ausgangslage. Zum Nachlesen: TirSOG §122 Abs.3.",
+    "hauptquelle": "TirSOG §122 Abs.3",
+    "id": "C39-L4-007",
+    "level": "L4",
+    "modul_id": "C39",
+    "optionen": [
+      "Der Heimbeitrag wird monatlich im Nachhinein nur für echte Heimtage vorgeschrieben und notfalls gerichtlich eingebracht.",
+      "Ein Erlass braucht einen Antrag mit Nachweisen zu Einkommen, Vermögen, Familienlage und Lernerfolg.",
+      "Die Beihilfe für nötiges Auswärtswohnen braucht Rechnungen, Belege und fristgerechten Antrag bei der Bildungsdirektion.",
+      "Volle Kosten ohne Deckel und Doppelbezug von Beitragsfreiheit plus Höchstbeihilfe gibt es nicht.",
+      "Ein Erlass gilt automatisch ohne Antrag für alle.",
+      "Beihilfe gibt es auch für freiwillige Wunschschul-Zimmer ohne Notlage."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachhinein plus Gerichtsweg ist das Verfahren.",
+      "Richtig: Vier Kriterien mit Belegen tragen den Erlass.",
+      "Richtig: Belege und Frist sichern die Beihilfe.",
+      "Richtig: Deckel und Trennung der Töpfe bleiben bestehen.",
+      "Falsch: Ohne Antrag und Belege kein Erlass.",
+      "Falsch: Freiwilligkeit löst keine Beihilfe aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Brunner ficht die Heimnachzahlung an, beantragt zugleich einen Erlass wegen vieler Kinder und knappen Einkommens und will zusätzlich die Höchstbeihilfe für ein freiwillig gewähltes Wunschschul-Zimmer, alles ohne Belege und nach Fristablauf. Du entwirrst Kosten-, Erlass- und Beihilfeverfahren.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §122 Abs.1",
+      "TirSOG §122 Abs.2",
+      "TirSOG §102 Abs.1",
+      "TirSOG §102 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Heimverhältnis und Schulverhältnis sind getrennt, der Ausschluss aus dem Heim beendet nicht den Schulplatz. Zum Nachlesen: TirSOG §121 Abs.1.",
+    "hauptquelle": "TirSOG §121 Abs.1",
+    "id": "C39-L4-008",
+    "level": "L4",
+    "modul_id": "C39",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Schule läuft trotz Heimverlust weiter."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Pausenbehauptung eines Vaters: Wer aus dem Schülerheim ausgeschlossen wird, verliert damit automatisch auch seinen Platz in der Schule und muss nicht mehr zum Unterricht.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "TirSOG §8"
+    ]
+  }
+]
