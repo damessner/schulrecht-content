@@ -1,1 +1,397 @@
-[]
+[
+  {
+    "aufloesung": "Grabner irrt, ihr Schweigen gilt als Zustimmung. Wer schriftlich über eine geplante Versetzung mit neuer Verwendung informiert wird, kann binnen zwei Wochen Einwendungen vorbringen, danach darf die Behörde die Versetzung per Bescheid verfügen. Zum Nachlesen: LDG §19 Abs.5.",
+    "hauptquelle": "LDG §19 Abs.5",
+    "id": "B28-L3-001",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Sie muss nichts tun, ohne ihre Unterschrift kann keine Versetzung wirksam werden.",
+      "Schweigt sie zwei Wochen nach Zustellung, gilt das als Zustimmung und die Versetzung kann per Bescheid verfügt werden.",
+      "Ein kurzes Nein im Lehrerzimmer genügt, Fristen gelten nur für die Behörde.",
+      "Eine Versetzung an eine Nachbarschule ist rechtlich grundsätzlich ausgeschlossen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine Unterschrift ist keine Wirksamkeitsvoraussetzung der Versetzung.",
+      "Richtig: Schweigen nach ordnungsgemäßer Verständigung gilt nach zwei Wochen als Zustimmung.",
+      "Falsch: Einwendungen müssen fristgerecht gegenüber der Behörde erhoben werden.",
+      "Falsch: Versetzungen an andere Schulen sind ausdrücklich vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Volksschullehrerin Grabner erhält ein Schreiben, dass sie an eine Nachbarschule versetzt werden soll, mit dem Hinweis, sie könne binnen zwei Wochen Einwendungen vorbringen. Sie legt das Schreiben ungelesen weg und meint, solange sie nichts unterschreibe, könne die Versetzung nicht wirksam werden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Hofer muss vorerst nicht wechseln, seine Beschwerde schützt ihn. Gegen einen Versetzungsbescheid hat die Beschwerde grundsätzlich aufschiebende Wirkung, nur wenn ohne sofortigen Wechsel der Unterricht zusammenbräche und den Schülern ein erheblicher Nachteil drohte, darf die Behörde sie im Bescheid ausschließen. Zum Nachlesen: LDG §19 Abs.6.",
+    "hauptquelle": "LDG §19 Abs.6",
+    "id": "B28-L3-002",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Er muss sofort an die neue Schule wechseln, eine Beschwerde hat keine aufschiebende Wirkung.",
+      "Seine Beschwerde hat grundsätzlich aufschiebende Wirkung, solange der Bescheid nichts anderes anordnet.",
+      "Er darf frei wählen, an welcher Schule er bis zur Entscheidung erscheint.",
+      "Die Beschwerde ist unzulässig, weil Versetzungen nicht anfechtbar sind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der sofortige Wechsel ist nur bei ausgeschlossenem Aufschub im Bescheid nötig.",
+      "Richtig: Die Beschwerde hemmt die Versetzung, solange kein wirksamer Ausschluss vorliegt.",
+      "Falsch: Ein Wahlrecht zwischen alter und neuer Schule gibt es nicht.",
+      "Falsch: Gegen den Versetzungsbescheid steht die Beschwerde offen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Mittelschullehrer Hofer wird per Bescheid an eine andere Schule versetzt und erhebt fristgerecht Beschwerde. Die alte Direktion verlangt den sofortigen Wechsel und die neue Schule meldet ihn bereits zum Dienst, obwohl im Bescheid nichts über die Wirkung der Beschwerde steht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Verlängerung ohne Zustimmung ist unzulässig. Die Verwendung in der Lehrerreserve darf ohne Zustimmung der Lehrperson zwei Jahre nicht überschreiten, danach braucht es ihre Einwilligung oder eine Verwendung an einer Schule. Zum Nachlesen: LDG §19 Abs.9.",
+    "hauptquelle": "LDG §19 Abs.9",
+    "id": "B28-L3-003",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Reserveverwendung kann ohne ihre Zustimmung beliebig verlängert werden.",
+      "Ohne ihre Zustimmung darf die Verwendung in der Lehrerreserve zwei Jahre nicht überschreiten.",
+      "Nach zwei Jahren endet das Dienstverhältnis automatisch.",
+      "Die Zustimmung ist nur nötig, wenn sie an eine weiter entfernte Schule kommt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beliebig verlängern lässt sich die Reservezeit gegen den Willen nicht.",
+      "Richtig: Nach zwei Jahren ohne Zustimmung ist die Grenze erreicht.",
+      "Falsch: Das Dienstverhältnis endet dadurch nicht von selbst.",
+      "Falsch: Die Zustimmungshürde hängt nicht von der Entfernung ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Jovanovic ist seit zwei Jahren der Lehrerreserve zugewiesen und soll ohne ihre Zustimmung ein drittes Jahr weiter in der Reserve gehalten werden, obwohl sie eine Rückkehr an eine Schule verlangt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ebner kann die lange Zuweisung ablehnen. Wer eine schulfeste Stelle innehat, darf innerhalb eines Schuljahres nur mit seiner Zustimmung länger als drei Monate vorübergehend an eine andere Schule zugewiesen werden, kürzere Vertretungen bleiben möglich. Zum Nachlesen: LDG §21 Abs.4.",
+    "hauptquelle": "LDG §21 Abs.4",
+    "id": "B28-L3-004",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Länger als drei Monate innerhalb eines Schuljahres geht die vorübergehende Zuweisung an eine andere Schule nur mit seiner Zustimmung.",
+      "Die Zustimmung ist entbehrlich, sobald die andere Schule Bedarf meldet.",
+      "Eine schulfeste Stelle verbietet jede vorübergehende Zuweisung, auch für einen Tag.",
+      "Die Fünf-Monats-Zuweisung kann auch gegen seinen Willen befohlen werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Drei-Monats-Grenze schützt Inhaber schulfester Stellen vor Langzeitzuweisungen.",
+      "Falsch: Bedarf allein ersetzt die nötige Zustimmung nicht.",
+      "Falsch: Kurze Vertretungen bleiben auch ohne Zustimmung möglich.",
+      "Falsch: Fünf Monate gegen den Willen überschreiten die Grenze deutlich."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Lehrer Ebner hat eine schulfeste Stelle an einer Mittelschule und soll für den Rest des Schuljahres, rund fünf Monate, vorübergehend einer anderen Schule zugewiesen werden. Er lehnt ab, die Direktion meint, seine Zustimmung sei bei Bedarf egal.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §21 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Fellner geht leer aus, ihre Klage hat keine Grundlage. Im Auswahlverfahren für Leitungsfunktionen hat niemand einen Anspruch auf Verleihung der Stelle und niemand Parteistellung, ernannt wird, wer die Auswahlkriterien im höchsten Ausmaß erfüllt. Zum Nachlesen: LDG §26a Abs.12.",
+    "hauptquelle": "LDG §26a Abs.12",
+    "id": "B28-L3-005",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Sie hat als Bewerberin einen einklagbaren Anspruch auf die ausgeschriebene Stelle.",
+      "Das Verfahren ist ein Parteienverfahren mit voller Bescheidpflicht gegenüber allen Bewerbern.",
+      "Sie hat keinen Anspruch auf Verleihung der Stelle und im Auswahlverfahren keine Parteistellung.",
+      "Die Ernennung ist unwirksam, solange nicht alle Bewerber schriftlich zustimmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einen Anspruch auf die Stelle räumt das Verfahren niemandem ein.",
+      "Falsch: Parteistellung kommt den Bewerbern gerade nicht zu.",
+      "Richtig: Auswahl ohne Anspruch und ohne Parteistellung ist der gesetzliche Regelfall.",
+      "Falsch: Eine Zustimmung der Konkurrenz ist kein Wirksamkeitserfordernis."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Auswahlverfahren für eine freie Schulleitung wird ein Mitbewerber ernannt. Die unterlegene Bewerberin Fellner verlangt einen anfechtbaren Bescheid über ihre Nichtberücksichtigung und will die Ernennung des Konkurrenten per Klage zu Fall bringen, weil sie das Verfahren für ein Parteienverfahren mit Anspruch auf die Stelle hält.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §26 Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Die Eders brauchen eine Ausnahmegenehmigung oder eine andere Verwendung. Eheleute sowie nahe Verwandte und Verschwägerte dürfen an derselben Schule nicht in Über- und Unterordnung verwendet werden, außer die Behörde genehmigt die Ausnahme, weil keine Beeinträchtigung zu befürchten ist. Zum Nachlesen: LDG §28 Abs.1.",
+    "hauptquelle": "LDG §28 Abs.1",
+    "id": "B28-L3-006",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Das ist unproblematisch, Familie und Dienst lassen sich immer trennen.",
+      "Die Verwendung in direkter Über- und Unterordnung an derselben Schule ist unzulässig, eine Ausnahme braucht eine Genehmigung.",
+      "Verboten wäre nur die Ehe selbst, die dienstliche Unterstellung ist immer egal.",
+      "Eine Genehmigung ist nie möglich, die Ehefrau muss automatisch kündigen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade in Über- und Unterordnung ist die gemeinsame Verwendung beschränkt.",
+      "Richtig: Verbot mit Genehmigungsvorbehalt trifft genau diesen Fall.",
+      "Falsch: Nicht die Ehe ist verboten, sondern die hierarchische Konstellation.",
+      "Falsch: Ausnahmen sind bei fehlender Beeinträchtigung ausdrücklich möglich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Lehrer Eder wird Leiter der Mittelschule, an der seine Ehefrau als Lehrerin arbeitet und künftig direkt ihm unterstellt wäre. Beide meinen, als Ehepaar dürften sie problemlos in Über- und Unterordnung an derselben Schule arbeiten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §28 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Gruber genießt echten Schutz, Hals über Kopf geht gar nichts. Die Behörde muss auf soziale Verhältnisse und Dienstalter Rücksicht nehmen, darf bei wesentlichem wirtschaftlichem Nachteil nicht versetzen, wenn ein unbelasteter Kollege bereitsteht, und muss bei anderem Dienstort eine angemessene Übersiedlungsfrist einräumen. Zum Nachlesen: LDG §19 Abs.4.",
+    "hauptquelle": "LDG §19 Abs.4",
+    "id": "B28-L3-007",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Auf seine sozialen Verhältnisse und sein Dienstalter ist Rücksicht zu nehmen, soweit dienstliche Interessen nicht gefährdet sind.",
+      "Bedeutet die Versetzung für ihn einen wesentlichen wirtschaftlichen Nachteil und steht ein gleich geeigneter Lehrer ohne diesen Nachteil bereit, ist sie unzulässig.",
+      "Bei einem Wechsel des Dienstortes ist ihm eine angemessene Übersiedlungsfrist zu gewähren.",
+      "Soziale Verhältnisse und Dienstalter sind bei Versetzungen rechtlich unbeachtlich.",
+      "Ein wirtschaftlicher Nachteil ist immer hinzunehmen, auf Alternativen kommt es nie an.",
+      "Die Übersiedlung muss ohne jede Frist noch am Tag der Verständigung erfolgen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Soziale Rücksicht steht gleichrangig neben dem Dienstbedarf.",
+      "Richtig: Der wirtschaftliche Nachteil schlägt bei verfügbarer Alternative durch.",
+      "Richtig: Die Übersiedlungsfrist federt den Ortswechsel ab.",
+      "Falsch: Soziale Verhältnisse sind ausdrücklich zu berücksichtigen.",
+      "Falsch: Bei unbelasteter Alternative ist der Nachteil nicht hinzunehmen.",
+      "Falsch: Angemessene Frist statt Übersiedlung über Nacht ist vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber, Alleinerzieher zweier kleiner Kinder, soll gegen seinen Willen an eine weit entfernte Schule versetzt werden, obwohl ihm dadurch spürbare Mehrkosten für Fahrt und Betreuung entstünden. Ein gleich geeigneter Kollege ohne diese Nachteile stünde für die Stelle zur Verfügung. Gruber fragt, worauf die Behörde achten muss und ob er Hals über Kopf übersiedeln muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §19 Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Nur Steiner und Hussl liegen im grünen Bereich, Wallners Zwangsversetzung nicht. Die vorübergehende Verwaltungsverwendung braucht die Zustimmung, außer ein Amtsarzt stellt Schuldienstuntauglichkeit bei Verwaltungsfähigkeit fest, und eine teilweise Mitverwendung für Hochschul-, Bundes- oder Koordinationsaufgaben ist ausdrücklich vorgesehen. Zum Nachlesen: LDG §22 Abs.1.",
+    "hauptquelle": "LDG §22 Abs.1",
+    "id": "B28-L3-008",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Steiners vorübergehende Verwendung in der Verwaltung braucht grundsätzlich ihre Zustimmung.",
+      "Ohne Zustimmung geht eine Verwaltungsverwendung nur bei amtsärztlich festgestellter Schuldienstuntauglichkeit bei fortbestehender Verwaltungstauglichkeit.",
+      "Eine bloß teilweise Mitverwendung neben dem Schuldienst ist für bestimmte Aufgaben an Pädagogischen Hochschulen, Bundesschulen oder in der Sonderpädagogik-Koordination zulässig.",
+      "Die Behörde kann jede Lehrperson jederzeit auch ohne Zustimmung und ohne Grund in die Verwaltung stecken.",
+      "Teilweise Mitverwendungen neben dem Schuldienst sind generell verboten.",
+      "Wallners dauerhafte Versetzung in die Verwaltung ohne jede Zustimmung ist problemlos möglich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zustimmung ist die Regel bei vorübergehender Verwaltungsverwendung.",
+      "Richtig: Die amtsärztliche Ausnahme ist eng und an beide Eignungsaussagen geknüpft.",
+      "Richtig: Teilmitverwendung für die genannten Aufgaben ist ausdrücklich eröffnet.",
+      "Falsch: Ohne Zustimmung und ohne Ausnahmegrund geht gar nichts.",
+      "Falsch: Gerade die Teilmitverwendung ist gesetzlich vorgesehen.",
+      "Falsch: Dauerhaft und ohne Zustimmung fehlt jede Grundlage."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule häufen sich Sonderverwendungen: Lehrerin Steiner soll mit ihrer Zustimmung halbtags an eine Dienststelle der Verwaltung wechseln, Kollege Wallner soll ohne seine Zustimmung dauerhaft in die Verwaltung versetzt werden, und Kollegin Hussl ist laut Amtsarzt für den Schuldienst ungeeignet, könnte aber noch Verwaltungsarbeit leisten. Wähle alles, was zur Zustimmung und zur Mitverwendung stimmt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §22 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Wunschbesetzung ohne Verfahren und dürftige Texte sind rechtswidrig, an der Kleinschule darf es anders laufen. Größere Leiterstellen müssen rasch mit vollständigem Inhalt ausgeschrieben werden und verlangen mehrjährige Praxis plus Leitungsausbildung, nur kleine Schulen unter zehn Vollzeitstellen und der reine Leitungstausch sind vom Verfahren ausgenommen. Zum Nachlesen: LDG §26 Abs.1.",
+    "hauptquelle": "LDG §26 Abs.1",
+    "id": "B28-L3-009",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Freie Leiterstellen sind ehestens, längstens binnen drei Monaten nach Freiwerden auszuschreiben.",
+      "Die Ausschreibung muss unter anderem Aufgaben, Ernennungserfordernisse, Dienstort, Schule, Frist und Einreichungsstelle nennen.",
+      "In Betracht kommen nur Bewerber mit mindestens fünfjähriger erfolgreicher Lehrpraxis und dem ersten Teil des Leitungslehrgangs oder einer gleichwertigen Ausbildung.",
+      "Leiterstellen können frei nach Sympathie ohne jedes Verfahren vergeben werden.",
+      "An der kleinen Schule mit sechs Vollzeitstellen ist das volle Verfahren zwingend, Ausnahmen gibt es nie.",
+      "Eine Bewerbung ohne jede Darstellung von Eignung und Leitungsvorstellungen reicht für die Auswahl."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rasche Ausschreibung binnen drei Monaten ist vorgeschrieben.",
+      "Richtig: Vollständiger Pflichtinhalt macht Bewerbungen vergleichbar.",
+      "Richtig: Praxisjahre plus Leitungsausbildung sind die Eintrittshürde.",
+      "Falsch: Sympathie ersetzt das Ausschreibungs- und Bewerbungsverfahren nicht.",
+      "Falsch: Unter zehn Vollzeitstellen entfällt das Verfahren gerade.",
+      "Falsch: Eignung und Vorstellungen gehören zwingend in die Bewerbung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schulleiterstelle wird frei: Die Behörde will sie ohne jedes Verfahren einer Wunschkandidatin geben, obwohl die Schule deutlich mehr als zehn Vollzeitstellen hat. Eine andere kleine Schule mit sechs Vollzeitstellen fragt, ob sie zwingend ausschreiben muss, und Bewerber wundern sich über knappe Fristen und dürftige Ausschreibungstexte. Wähle alles Richtige zur Ausschreibung und zu den Auswahlhürden.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §26 Abs.2",
+      "LDG §26 Abs.4",
+      "LDG §26 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Pacher kann den Zwangseinsatz außerhalb ablehnen, frei wählen kann er die Dienststelle aber nicht. Der Cluster wird zur Dienststelle, ohne die Schulen als solche aufzulösen, schulfeste Stellen sind vor clusterfremdem Einsatz ohne Zustimmung geschützt, und für Fahrtkosten zählt der überwiegende Einsatzort, im Zweifel entscheidet die Cluster-Leitung. Zum Nachlesen: LDG §26c Abs.10.",
+    "hauptquelle": "LDG §26c Abs.10",
+    "id": "B28-L3-010",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Dienststelle ist der Schulcluster, die zusammengefassten Schulen bleiben dennoch Schulen im schulrechtlichen Sinn.",
+      "Mit schulfester Stelle im Cluster darf Pacher nur mit seiner Zustimmung an einer Schule außerhalb des Clusters verwendet werden.",
+      "Für Fahrtkosten gilt als Dienststelle die Schule, an der er überwiegend verwendet wird.",
+      "Mit der Clusterbildung verlieren die Einzelschulen jede Eigenständigkeit als Schule.",
+      "Lehrer mit schulfester Stelle können beliebig und ohne Zustimmung außerhalb des Clusters eingesetzt werden.",
+      "Bei gleicher Verwendung an zwei Standorten bestimmt der Lehrer selbst, welche Schule als Dienststelle zählt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Cluster als Dienststelle lässt die Schulen als solche bestehen.",
+      "Richtig: Der Zustimmungsschutz wirkt gerade gegen clusterfremden Einsatz.",
+      "Richtig: Der überwiegende Einsatzort bestimmt die Fahrtkosten-Dienststelle.",
+      "Falsch: Die Schulen bleiben Schulen im schulrechtlichen Sinn.",
+      "Falsch: Ohne Zustimmung ist der Außeneinsatz bei schulfester Stelle verboten.",
+      "Falsch: Im Patt entscheidet die Cluster-Leitung, nicht der Lehrer."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Schulen bilden einen Schulcluster: Lehrer Pacher hat eine schulfeste Stelle an einer Clusterschule und soll ohne seine Zustimmung an eine Schule außerhalb des Clusters versetzt werden. Die Direktion meint, der Cluster habe die Einzelschulen als Schulen beseitigt, und für Fahrtkosten dürfe Pacher seine Dienststelle frei wählen. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §26c Abs.1",
+      "LDG §26c Abs.11"
+    ]
+  },
+  {
+    "aufloesung": "Die Schule darf nicht führungslos bleiben, die Kollegin mit kleinem Stundenausmaß springt aber nicht ein. Nach zwei Monaten mit unsicherem Ende muss betraut werden, bei freier Stelle oder drohend langer Dauer sofort, und an Pflichtschulen vertritt grundsätzlich nur, wer wenigstens 360 Jahresstunden leistet, eine Entbindung bleibt nur aus berücksichtigungswürdigen Gründen auf Antrag möglich. Zum Nachlesen: LDG §27 Abs.2.",
+    "hauptquelle": "LDG §27 Abs.2",
+    "id": "B28-L3-011",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Nach zweimonatiger Verhinderung ist mit der Leitung zu betrauen, wenn das Ende nicht innerhalb eines weiteren Monats sicher zu erwarten ist.",
+      "Ist die Stelle frei oder dauert die Verhinderung voraussichtlich länger als drei Monate, ist unverzüglich zu betrauen.",
+      "An allgemeinbildenden Pflichtschulen setzt die Vertretung grundsätzlich mindestens 360 Jahresstunden Unterrichtsverpflichtung voraus.",
+      "Eine monatelang führungslose Schule kann einfach ohne Leitung weiterlaufen.",
+      "Mit der Leitung kann auch betraut werden, wer die Ernennungserfordernisse für die Schulart gar nicht erfüllt.",
+      "Eine Entbindung von der Vertretungspflicht ist selbst aus berücksichtigungswürdigen Gründen niemals möglich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwei Monate plus unsicheres Ende lösen die Betrauungspflicht aus.",
+      "Richtig: Freie Stelle oder lange Dauer verlangen sofortige Betrauung.",
+      "Richtig: Das Stundenminimum sichert eine tragfähige Vertretung.",
+      "Falsch: Monatelange Vakanzen sind gerade zu verhindern.",
+      "Falsch: Die Ernennungserfordernisse der Schulart bleiben Voraussetzung.",
+      "Falsch: Auf Antrag ist die Entbindung aus guten Gründen möglich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schulleiter Berger fällt schwer erkrankt monatelang aus, das Ende ist offen. Seine Stellvertreterin weigert sich, die Leitung auch nur vertretungsweise zu übernehmen, eine monatelange Vakanz droht. An der Schule unterrichten Voll- und Teilzeitkräfte, darunter eine Kollegin mit kleinem Stundenausmaß, die gerne einspringen würde. Wähle alles Richtige zu Vertretung und Betrauung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §27 Abs.1",
+      "LDG §27 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Zwangsversetzungen gibt es. Das Gesetz sieht die Versetzung ausdrücklich auch von Amts wegen vor, die Lehrperson wird vorher angehört und erhält einen Bescheid, gegen den sie Beschwerde erheben kann. Zum Nachlesen: LDG §19 Abs.2.",
+    "hauptquelle": "LDG §19 Abs.2",
+    "id": "B28-L3-012",
+    "level": "L3",
+    "modul_id": "B28",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Auch Versetzungen von Amts wegen sind ausdrücklich vorgesehen.",
+      "Richtig erkannt: Anhörung und Bescheid schützen, Zustimmung ist nicht immer nötig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, eine Versetzung an eine andere Schule sei gegen den Willen der Lehrperson rechtlich immer ausgeschlossen, ohne freiwillige Zustimmung gehe überhaupt nichts.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "LDG §19 Abs.5",
+      "LDG §19 Abs.6"
+    ]
+  }
+]

@@ -1,1 +1,268 @@
-[]
+[
+  {
+    "aufloesung": "Novak hat den falschen Weg gewählt, Eigenmacht schadet ihm. Wer einen Versetzungsbescheid für falsch hält, muss Beschwerde erheben, die ihn grundsätzlich vor dem Wechsel schützt, statt einfach fernzubleiben, denn schuldhafte Dienstpflichtverletzungen werden disziplinär verfolgt. Zum Nachlesen: LDG §19 Abs.6.",
+    "hauptquelle": "LDG §19 Abs.6",
+    "id": "B28-L4-001",
+    "level": "L4",
+    "modul_id": "B28",
+    "optionen": [
+      "Eigenmächtiges Fernbleiben ist richtig, falsche Bescheide muss man nicht befolgen.",
+      "Er hätte Beschwerde erheben können, die grundsätzlich aufschiebende Wirkung hat, eigenmächtiges Ignorieren ist dagegen pflichtwidrig und disziplinär verfolgbar.",
+      "Disziplinarrecht gilt für Versetzungsfragen grundsätzlich nicht.",
+      "Wer die Versetzung für falsch hält, darf seine Bezüge trotzdem an der alten Schule abholen und alles bleibt folgenlos."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch vermeintlich falsche Bescheide bricht man nicht im Alleingang.",
+      "Richtig: Beschwerde mit Aufschub statt Eigenmacht ist der rechtmäßige Weg.",
+      "Falsch: Pflichtverletzungen bei Verwendungen sind disziplinär relevant.",
+      "Falsch: Fernbleiben und Bezugsfolgen hängen nicht vom Bauchgefühl ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Novak hält seine Versetzung an eine Nachbarschule für falsch, erhebt aber keine Beschwerde, sondern erscheint monatelang weiter an seiner alten Schule und bleibt der neuen Stelle fern. Er meint, eine aus seiner Sicht falsche Versetzung dürfe er einfach ignorieren.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §69"
+    ]
+  },
+  {
+    "aufloesung": "Mair darf das Geld nicht behalten. Wer für die Verwendung an einer Auslandsschule von dritter Seite Zuwendungen erhält, muss sie dem Land abführen, eigenmächtiges Behalten kann disziplinär verfolgt werden. Zum Nachlesen: LDG §23a Abs.5.",
+    "hauptquelle": "LDG §23a Abs.5",
+    "id": "B28-L4-002",
+    "level": "L4",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Vergütung darf er behalten, sie ist sein privater Lohn.",
+      "Zuwendungen Dritter für diese Verwendung muss er an das Land abführen.",
+      "Abführen müsste er nur Beträge über einem Monatsgehalt.",
+      "Melden genügt, behalten darf er alles."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Dienstbezogene Drittgelder sind kein privater Nebenverdienst.",
+      "Richtig: Abführungspflicht schützt vor doppelter Bezahlung und Befangenheit.",
+      "Falsch: Eine Betragsgrenze für die Abführung gibt es nicht.",
+      "Falsch: Bloßes Melden ersetzt die Abführung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Mair unterrichtet einen Teil seiner Stunden an einer grenznahen Schule im Ausland und erhält dafür vom ausländischen Träger eine gesonderte Vergütung. Er behält das Geld, weil er die Arbeit ja selbst geleistet habe, und meldet nichts weiter.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §69"
+    ]
+  },
+  {
+    "aufloesung": "Zangerl muss wieder als Lehrerin arbeiten, Leiterkonditionen gibt es nicht mehr. Wer nach Fristende nicht wiederernannt wird und im Dienststand bleibt, wird auf eine Lehrerstelle seiner Verwendungsgruppe übergeleitet, und die Lehrverpflichtung folgt der tatsächlichen Verwendung. Zum Nachlesen: LDG §26b Abs.4.",
+    "hauptquelle": "LDG §26b Abs.4",
+    "id": "B28-L4-003",
+    "level": "L4",
+    "modul_id": "B28",
+    "optionen": [
+      "Sie behält dauerhaft alle Leiterbezüge und die geringe Lehrverpflichtung.",
+      "Sie wird auf eine Lehrerstelle ihrer Verwendungsgruppe übergeleitet, die Lehrverpflichtung richtet sich nach der tatsächlichen Verwendung.",
+      "Sie scheidet automatisch aus dem Dienstverhältnis aus.",
+      "Ihre weitere Verwendung liegt allein in ihrem eigenen Ermessen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Leiterbezüge und Freistellung enden mit der Funktion.",
+      "Richtig: Überleitung plus Lehrverpflichtung nach Einsatz trifft genau den Fall.",
+      "Falsch: Das Dienstverhältnis besteht als Lehrerin fort.",
+      "Falsch: Die Behörde verfügt die weitere Verwendung, nicht die Betroffene."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schulleiterin Zangerl wird nach fünf Jahren nicht neuerlich ernannt und bleibt im Dienststand. Sie verlangt weiterhin das Leitergehalt und eine geringe Unterrichtsverpflichtung und weigert sich, wieder voll zu unterrichten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §54"
+    ]
+  },
+  {
+    "aufloesung": "Pucher kann abberufen werden, aber nicht im Hau-ruck-Verfahren ins Nichts. Wer sich in der Leitung nicht bewährt, kann nach Befassung der Personalvertretung jederzeit abberufen werden und wird kraft Gesetzes auf die zuletzt unbefristet innegehabte Stelle übergeleitet. Zum Nachlesen: LDG §26b Abs.5.",
+    "hauptquelle": "LDG §26b Abs.5",
+    "id": "B28-L4-004",
+    "level": "L4",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Abberufung ist jederzeit auch ohne jede Befassung der Personalvertretung möglich.",
+      "Nach vorheriger Befassung der Personalvertretung kann er jederzeit abberufen und wird kraft Gesetzes auf seine frühere Stelle übergeleitet.",
+      "Eine Abberufung wegen Nichtbewährung ist rechtlich ausgeschlossen.",
+      "Nach der Abberufung endet sein Dienstverhältnis automatisch."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Befassung der Personalvertretung ist zwingende Voraussetzung.",
+      "Richtig: Befassung plus Überleitung kraft Gesetzes sichern beide Seiten ab.",
+      "Falsch: Nichtbewährung ist ein ausdrücklicher Abberufungsgrund.",
+      "Falsch: Er bleibt im Dienststand und wird übergeleitet."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schulleiter Pucher bewährt sich auf seinem Posten offenkundig nicht, Unterrichtsorganisation und Personalführung liegen im Argen. Die Behörde will ihn sofort von der Funktion abberufen, ohne das Personalvertretungsorgan zu befassen, und meint, er falle danach ins Nichts.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §26b Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Nur die fünfmonatige Fortbildung liegt im Rahmen, sieben Jahre und behaltenes Drittgeld nicht. Entsendungen an zwischenstaatliche Einrichtungen enden spätestens nach sechs Jahren, Inlandsfortbildungen nach sechs Monaten, und Drittgelder gehören dem Land, ein teilweiser oder bedingter Verzicht auf Reisegebühren ist unwirksam. Zum Nachlesen: LDG §23b Abs.3.",
+    "hauptquelle": "LDG §23b Abs.3",
+    "id": "B28-L4-005",
+    "level": "L4",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Entsendung an eine zwischenstaatliche Einrichtung darf insgesamt sechs Jahre im Dienstverhältnis nicht übersteigen.",
+      "Die Entsendung zu Aus- oder Fortbildungszwecken an eine inländische Einrichtung darf höchstens sechs Monate dauern.",
+      "Zuwendungen Dritter für die Entsendungstätigkeit sind grundsätzlich an das Land abzuführen.",
+      "Entsendungen sind zeitlich unbegrenzt verlängerbar.",
+      "Drittgelder aus der Entsendung darf man stets behalten.",
+      "Auf Reisegebühren kann man auch teilweise oder unter Bedingungen wirksam verzichten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sechs Jahre sind die absolute Obergrenze für zwischenstaatliche Einsätze.",
+      "Richtig: Sechs Monate deckeln die Inlandsfortbildung.",
+      "Richtig: Drittgelder fließen ans Land, nicht in die eigene Tasche.",
+      "Falsch: Beide Entsendungsformen sind gedeckelt.",
+      "Falsch: Behalten ist der Ausnahmefall, Abführen die Regel.",
+      "Falsch: Nur der unbedingte Vollverzicht ist wirksam."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Kollegen werden entsendet: einer für eine im Bundesinteresse gelegene Tätigkeit an eine zwischenstaatliche Einrichtung für insgesamt sieben Jahre, eine Kollegin zu Fortbildungszwecken an eine inländische Einrichtung für fünf Monate, und ein Kollege erhält für seine Entsendungstätigkeit Geld von dritter Seite und will es behalten. Wähle alles, was zu Dauer und Geld stimmt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §23b Abs.4",
+      "LDG §23b Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Sandbichler irrt in allen drei Punkten. Privateinsätze brauchen die Zustimmung, außerhalb des Lehramts gelten dort die fremden Dienst-, Urlaubs- und Feiertagsregeln, und für Unterricht an Bundes- oder Praxisschulen greift das Bundeslehrer-Lehrverpflichtungsrecht bei anteiliger Anrechnung des Pflichtschulrests. Zum Nachlesen: LDG §22 Abs.3.",
+    "hauptquelle": "LDG §22 Abs.3",
+    "id": "B28-L4-006",
+    "level": "L4",
+    "modul_id": "B28",
+    "optionen": [
+      "Die Verwendung an der privaten Hochschule braucht ihre Zustimmung.",
+      "Soweit sie dort kein Lehramt ausübt, gelten für Tätigkeit, Pflichten, Feiertagsruhe und Urlaub die Regeln der neuen Dienststelle.",
+      "Soweit sie an einer Bundesschule oder Praxisschule unterrichtet, gilt dafür das Bundeslehrer-Lehrverpflichtungsrecht, der Pflichtschulrest wird anteilig berücksichtigt.",
+      "Das alte Dienstrecht gilt an der neuen Stelle in allen Punkten unverändert weiter.",
+      "Für private Einrichtungen ist keine Zustimmung nötig.",
+      "Urlaub und Feiertagsruhe richten sich immer nach der Stammschule, egal wo gearbeitet wird."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Zustimmung kein Privateinsatz.",
+      "Richtig: Fremde Dienststelle bedeutet fremde Dienst- und Urlaubsregeln.",
+      "Richtig: Bundesrecht für Bundesunterricht plus Anrechnung trifft die Mischnutzung.",
+      "Falsch: Das alte Recht wirkt nicht unverändert fort.",
+      "Falsch: Gerade private Träger verlangen die Zustimmung.",
+      "Falsch: Urlaub folgt der tatsächlichen Dienststelle, nicht der Erinnerung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Sandbichler wird mit ihrer Zustimmung vorübergehend teils an einer privaten Pädagogischen Hochschule und teils weiter an ihrer Pflichtschule eingesetzt. Sie meint, überall gelte weiterhin unverändert ihr altes Dienstrecht, die Zustimmung sei nebensächlich und Urlaub richte sich immer nach der alten Schule. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §22 Abs.4",
+      "LDG §23"
+    ]
+  },
+  {
+    "aufloesung": "Brunner muss die Ausbildung ernst nehmen, automatisch geht gar nichts. Die Leitung beginnt auf fünf Jahre, verlangt den vollständigen Lehrgang binnen viereinhalb Jahren als Tor zur unbefristeten Wiederernennung und endet bei einem einschlägigen Disziplinarerkenntnis. Zum Nachlesen: LDG §26b Abs.2.",
+    "hauptquelle": "LDG §26b Abs.2",
+    "id": "B28-L4-007",
+    "level": "L4",
+    "modul_id": "B28",
+    "optionen": [
+      "Die erste Ernennung auf die Leitungsstelle ist zunächst auf fünf Jahre befristet.",
+      "Der Leitungslehrgang im Gesamtumfang ist binnen viereinhalb Jahren erfolgreich abzuschließen, sonst ist keine neuerliche Ernennung zulässig.",
+      "Die Leitungsfunktion endet auch im Fall eines entsprechenden Disziplinarerkenntnisses.",
+      "Die Ernennung erfolgt sofort auf unbestimmte Zeit.",
+      "Die Ausbildung ist freiwillig und hat keine Folgen für die Wiederernennung.",
+      "Ein Disziplinarerkenntnis lässt die Leitungsfunktion stets unberührt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fünf Jahre Befristung sind der gesetzliche Start.",
+      "Richtig: Viereinhalb Jahre plus Vollumfang entscheiden über die Wiederernennung.",
+      "Richtig: Das Disziplinarerkenntnis beendet die Funktion.",
+      "Falsch: Unbefristet wird es erst bei Wiederernennung.",
+      "Falsch: Ohne Lehrgang gibt es keine zweite Amtszeit.",
+      "Falsch: Gerade das Disziplinarrecht greift auf die Funktion durch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schulleiter Brunner ist seit drei Jahren ernannt, hat den Leitungslehrgang erst zu einem kleinen Teil absolviert und meint, die Ausbildung sei freiwillig. Er geht von automatischer Dauerernennung aus und hält seine Funktion für unkündbar, selbst bei schwersten Verfehlungen. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §26b Abs.1",
+      "LDG §26b Abs.3",
+      "LDG §26b Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Drittgelder gehören dem Land. Wer für die Entsendungstätigkeit selbst oder im Zusammenhang damit Zuwendungen von dritter Seite erhält, muss sie dem Land abführen, nur bei schriftlichem Vollverzicht auf Reisegebühren gelten sie als Zulagen. Zum Nachlesen: LDG §23b Abs.4.",
+    "hauptquelle": "LDG §23b Abs.4",
+    "id": "B28-L4-008",
+    "level": "L4",
+    "modul_id": "B28",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Drittgelder aus der Entsendung behält man nicht automatisch.",
+      "Richtig erkannt: Abführung ans Land ist die Regel, nicht das Behalten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check zum Zusatzverdienst: Ein Kollege behauptet, Gelder, die man von dritter Seite für eine dienstliche Entsendung erhalte, dürfe man jedenfalls behalten, das Land gehe das nichts an.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "LDG §23b Abs.5"
+    ]
+  }
+]
