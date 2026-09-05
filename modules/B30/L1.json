@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "aufloesung": "Gruber muss mit einem Disziplinarverfahren rechnen, denn auch wiederholtes Zuspätkommen zählt. Wer schuldhaft Dienstpflichten verletzt, wird nach den Disziplinarbestimmungen zur Verantwortung gezogen. Zum Nachlesen: LDG §69.",
+    "hauptquelle": "LDG §69",
+    "id": "B30-L1-001",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Das ist reine Privatsache, weil nur ganze Fehltage disziplinarrechtlich zählen.",
+      "Er wird disziplinarrechtlich zur Verantwortung gezogen, weil er schuldhaft Dienstpflichten verletzt.",
+      "Ein Disziplinarverfahren gibt es nur bei strafgerichtlichen Verurteilungen.",
+      "Die Direktion darf höchstens den Stundenplan ändern, mehr ist nicht vorgesehen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch wiederholte Verspätungen verletzen Dienstpflichten.",
+      "Richtig: Schuldhafte Dienstpflichtverletzungen führen zur disziplinaren Verantwortung.",
+      "Falsch: Das Disziplinarrecht greift auch ohne Gerichtsverfahren.",
+      "Falsch: Der Stundenplan ersetzt das Disziplinarverfahren nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mittelschullehrer Gruber kommt seit Wochen regelmäßig zwanzig Minuten zu spät zum Unterricht und lässt die Klasse warten. Auf Nachfrage meint er, das sei doch nur eine Kleinigkeit und kein Fall für das Disziplinarrecht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Verweis ist die mildeste Disziplinarstrafe und rügt das Verhalten förmlich. Die Strafen reichen vom Verweis über Geldbuße und Geldstrafe bis zur Entlassung. Zum Nachlesen: LDG §70 Abs.1.",
+    "hauptquelle": "LDG §70 Abs.1",
+    "id": "B30-L1-002",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Der Verweis, also die förmliche Rüge des Verhaltens.",
+      "Die sofortige Entlassung aus dem Dienstverhältnis.",
+      "Die Versetzung in den Ruhestand ohne weitere Prüfung.",
+      "Der Verlust der Staatsbürgerschaft als Nebenstrafe."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Verweis ist die mildeste der vier Disziplinarstrafen.",
+      "Falsch: Die Entlassung ist die schwerste, nicht die mildeste Strafe.",
+      "Falsch: Der Ruhestand ist keine Disziplinarstrafe.",
+      "Falsch: So eine Strafe gibt es im Disziplinarrecht nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Hofer hat erstmals eine dienstliche Weisung ignoriert und fragt besorgt, welches die mildeste Strafe im Disziplinarverfahren wäre. Sie hofft, dass ein erstmaliger kleinerer Verstoß nicht gleich die Existenz kostet.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Geldbuße reicht höchstens bis zu einem Monatsbezug. Erst darüber beginnt die Geldstrafe, die bis zu fünf Monatsbezüge betragen kann. Zum Nachlesen: LDG §70 Abs.1.",
+    "hauptquelle": "LDG §70 Abs.1",
+    "id": "B30-L1-003",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Bis zur Höhe von drei Monatsbezügen.",
+      "Bis zur Höhe eines Monatsbezugs.",
+      "Bis zur Höhe von zehn Monatsbezügen.",
+      "Geldbußen sind der Höhe nach unbegrenzt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Drei Monatsbezüge liegen schon im Bereich der Geldstrafe.",
+      "Richtig: Die Geldbuße ist auf höchstens einen Monatsbezug begrenzt.",
+      "Falsch: Zehn Monatsbezüge überschreiten jede Geldstrafe deutlich.",
+      "Falsch: Die Geldbuße hat eine klare gesetzliche Obergrenze."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer erwiesenen Dienstpflichtverletzung soll über Volksschullehrer Berger eine Geldbuße verhängt werden. Er fragt, wie hoch so eine Geldbuße höchstens ausfallen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Geldstrafe liegt über einem und höchstens bei fünf Monatsbezügen. Die Geldbuße darunter endet bei einem Monatsbezug. Zum Nachlesen: LDG §70 Abs.1.",
+    "hauptquelle": "LDG §70 Abs.1",
+    "id": "B30-L1-004",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Von einem halben bis zu einem ganzen Monatsbezug.",
+      "Von mehr als einem bis zu fünf Monatsbezügen.",
+      "Von fünf bis zu zehn Monatsbezügen.",
+      "Die Höhe legt die Direktion völlig frei fest."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Dieser Bereich gehört zur Geldbuße, nicht zur Geldstrafe.",
+      "Richtig: Genau dieser Rahmen kennzeichnet die Geldstrafe.",
+      "Falsch: Mehr als fünf Monatsbezüge sind nicht zulässig.",
+      "Falsch: Der Rahmen ist gesetzlich fest vorgegeben."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Professor Steiner wurde wegen einer schwereren Dienstpflichtverletzung verurteilt und soll eine Geldstrafe erhalten. Er will wissen, in welchem Rahmen sich eine Geldstrafe bewegt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Entlassung beendet das Dienstverhältnis und ist die schwerste Disziplinarstrafe. Sie kommt nur bei besonders schweren Pflichtverletzungen in Frage. Zum Nachlesen: LDG §70 Abs.1.",
+    "hauptquelle": "LDG §70 Abs.1",
+    "id": "B30-L1-005",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Eine schriftliche Belehrung durch die Direktion.",
+      "Die Entlassung aus dem Dienstverhältnis.",
+      "Eine Ermahnung, die nach drei Jahren vernichtet wird.",
+      "Die Kürzung des Urlaubs um zwei Tage."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Belehrung ist noch keine Disziplinarstrafe.",
+      "Richtig: Die Entlassung ist die schwerste der vier Disziplinarstrafen.",
+      "Falsch: Die Ermahnung liegt unterhalb der Disziplinarstrafen.",
+      "Falsch: Urlaubskürzung ist keine vorgesehene Disziplinarstrafe."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Berufsschule hat ein Lehrer über längere Zeit gravierend gegen seine Dienstpflichten verstoßen und das Vertrauensverhältnis zerstört. Im Kollegium wird gefragt, welches die schwerste Strafe im Disziplinarverfahren ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Strafe richtet sich nach der Schwere der Verletzung und ihrer Vorbeugungswirkung. Dabei zählen auch persönliche Verhältnisse und wirtschaftliche Leistungsfähigkeit des Lehrers. Zum Nachlesen: LDG §71 Abs.1.",
+    "hauptquelle": "LDG §71 Abs.1",
+    "id": "B30-L1-006",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Allein das Dienstalter des Lehrers entscheidet über die Strafhöhe.",
+      "Maßgebend sind Schwere der Verletzung, Vorbeugungswirkung sowie persönliche und wirtschaftliche Verhältnisse.",
+      "Es gibt einen festen Tarif, der keinen Spielraum lässt.",
+      "Die Strafe richtet sich nach dem Wunsch der Elternvertretung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Dienstalter allein bestimmt die Strafe nicht.",
+      "Richtig: Schwere, Abschreckung sowie persönliche und wirtschaftliche Lage zählen zusammen.",
+      "Falsch: Starre Tarife ohne Abwägung gibt es nicht.",
+      "Falsch: Elternwünsche sind kein Strafbemessungskriterium."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Wieser wurde schuldig gesprochen und fragt, wovon die Höhe ihrer Disziplinarstrafe abhängt. Sie ist alleinerziehend und verdient wenig, die Verletzung selbst war nicht gravierend.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Vorgesetzte muss den begründeten Verdacht unverzüglich melden, wenn Ermahnung nicht reicht. Die Behörde klärt dann vorläufig und erstattet gegebenenfalls Disziplinaranzeige. Zum Nachlesen: LDG §78 Abs.1.",
+    "hauptquelle": "LDG §78 Abs.1",
+    "id": "B30-L1-007",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Er wartet ein Jahr ab und meldet dann erst, wenn sich nichts bessert.",
+      "Er meldet jeden begründeten Verdacht unverzüglich, wenn Belehrung oder Ermahnung nicht ausreichen.",
+      "Er informiert zuerst die Medien und dann die Behörde.",
+      "Er darf nur melden, wenn der Lehrer der Meldung zustimmt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Abwarten verzögert die Klärung und verletzt die Meldepflicht.",
+      "Richtig: Unverzügliche Meldung ist Pflicht, sobald milde Mittel nicht genügen.",
+      "Falsch: Der Weg führt zur Behörde, nicht an die Öffentlichkeit.",
+      "Falsch: Eine Zustimmung des Betroffenen ist nicht erforderlich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Pichler erfährt glaubwürdig, dass ein Lehrer seiner Schule wiederholt Aufsichtspflichten verletzt hat. Ein klärendes Gespräch hat nichts gebracht. Pichler fragt, ob und wann er das weiterleiten muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Jeder Lehrer darf schriftlich die Einleitung eines Disziplinarverfahrens gegen sich selbst beantragen. So kann er einen Verdacht förmlich klären lassen statt Gerüchten ausgesetzt zu bleiben. Zum Nachlesen: LDG §79 Abs.1.",
+    "hauptquelle": "LDG §79 Abs.1",
+    "id": "B30-L1-008",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Nein, nur Vorgesetzte dürfen ein Verfahren anstoßen.",
+      "Ja, jeder Lehrer kann schriftlich die Einleitung eines Verfahrens gegen sich selbst beantragen.",
+      "Nur über einen Rechtsanwalt ist so ein Antrag möglich.",
+      "Eine Selbstanzeige ist nur im Krankenstand zulässig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch der Betroffene selbst hat ein Antragsrecht.",
+      "Richtig: Die schriftliche Selbstanzeige ist ausdrücklich vorgesehen.",
+      "Falsch: Ein Anwalt ist dafür nicht nötig.",
+      "Falsch: Der Krankenstand hat mit der Selbstanzeige nichts zu tun."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Über Lehrer Kaufmann kursieren an der Schule Gerüchte wegen eines angeblichen Fehlverhaltens. Er will die Sache offiziell klären lassen und fragt, ob er selbst ein Disziplinarverfahren gegen sich beantragen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Suspendierung ist zu verfügen, wenn die Belassung im Dienst Ansehen oder Dienstinteressen gefährdet. Sie schützt Amt und Schule, bis das Verfahren geklärt ist. Zum Nachlesen: LDG §80 Abs.1.",
+    "hauptquelle": "LDG §80 Abs.1",
+    "id": "B30-L1-009",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Erst nach rechtskräftiger Verurteilung darf je suspendiert werden.",
+      "Die Suspendierung ist zu verfügen, wenn die Belassung im Dienst Ansehen des Amtes oder wesentliche Dienstinteressen gefährden würde.",
+      "Eine Suspendierung gibt es nur auf eigenen Wunsch des Lehrers.",
+      "Suspendiert werden darf nur in den Sommerferien."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gewartet bis zur Verurteilung wird gerade nicht.",
+      "Richtig: Die Gefährdung von Ansehen oder Dienstinteressen löst die Suspendierung aus.",
+      "Falsch: Der Wunsch des Lehrers ist keine Voraussetzung.",
+      "Falsch: Eine Ferienbeschränkung gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Gegen eine Lehrerin laufen schwere Vorwürfe, Eltern und Medien berichten bereits, das Vertrauen an der Schule ist erschüttert. Die Behörde prüft, ob die Lehrerin bis zur Klärung vom Dienst ferngehalten werden kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Mit der Suspendierung wird der Monatsbezug auf zwei Drittel gekürzt. Vorläufig Suspendierte erhalten vorerst ungekürzt weiter, zu viel Ausbezahltes wird später hereingebracht. Zum Nachlesen: LDG §80 Abs.4.",
+    "hauptquelle": "LDG §80 Abs.4",
+    "id": "B30-L1-010",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Das Gehalt läuft unverändert in voller Höhe weiter.",
+      "Der Monatsbezug wird für die Dauer der Suspendierung auf zwei Drittel gekürzt.",
+      "Der Bezug entfällt während der Suspendierung zur Gänze.",
+      "Der Bezug wird verdoppelt, weil Mehrkosten entstehen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Unverändert weiter läuft der volle Bezug gerade nicht.",
+      "Richtig: Die Kürzung auf zwei Drittel ist die gesetzliche Folge.",
+      "Falsch: Ganz gestrichen wird der Bezug nicht.",
+      "Falsch: Eine Erhöhung ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Egger wurde suspendiert und bangt um sein Einkommen während des laufenden Verfahrens. Er fragt, was mit seinem Monatsbezug für die Dauer der Suspendierung geschieht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Beschuldigte darf sich selbst oder durch Anwalt, Strafverteidiger oder Bediensteten verteidigen lassen. Auf Verlangen ist ihm sogar ein Kollege aus dem Schuldienst als Verteidiger zu bestellen. Zum Nachlesen: LDG §76 Abs.1.",
+    "hauptquelle": "LDG §76 Abs.1",
+    "id": "B30-L1-011",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Er muss sich selbst verteidigen, Beistand ist verboten.",
+      "Er kann sich selbst oder durch Rechtsanwalt, Strafverteidiger oder Bediensteten verteidigen lassen.",
+      "Nur die Schulleitung darf ihn verteidigen.",
+      "Verteidigung ist erst nach rechtskräftigem Erkenntnis erlaubt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beistand ist ausdrücklich erlaubt.",
+      "Richtig: Diese Verteidigerwahl steht dem Beschuldigten offen.",
+      "Falsch: Die Schulleitung ist nicht die vorgesehene Verteidigung.",
+      "Falsch: Verteidigung gibt es während des ganzen Verfahrens."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Moser ist Beschuldigte in einem Disziplinarverfahren und fühlt sich überfordert. Sie fragt, wer sie im Verfahren unterstützen und verteidigen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Disziplinarverfügung geht nur bei Geständnis, eindeutiger Aktenlage oder rechtskräftiger Strafe und nur für Verweis oder Geldbuße. Sie ist das abgekürzte Verfahren ohne Verhandlung. Zum Nachlesen: LDG §100.",
+    "hauptquelle": "LDG §100",
+    "id": "B30-L1-012",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "In der Verfügung darf jede Strafe bis zur Entlassung verhängt werden.",
+      "In der Verfügung dürfen nur der Verweis oder eine Geldbuße bis zu einem Monatsbezug verhängt werden.",
+      "Eine Verfügung ist nur mündlich möglich.",
+      "Die Verfügung braucht keine Begründung und keine Zustellung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Entlassung bleibt der Kommission vorbehalten.",
+      "Richtig: Verweis oder Geldbuße bis ein Bezug sind die Grenze der Verfügung.",
+      "Falsch: Die Verfügung ergeht schriftlich.",
+      "Falsch: Schriftlichkeit und Zustellung sind vorgeschrieben."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner hat vor seinem Vorgesetzten einen kleineren Verstoß offen zugegeben. Die Behörde überlegt, die Sache rasch ohne große Verhandlung mit einer schriftlichen Verfügung zu erledigen. Brunner fragt, was darin überhaupt stehen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der rechtzeitige Einspruch binnen zwei Wochen setzt die Verfügung außer Kraft. Danach entscheidet die Behörde, ob ein ordentliches Verfahren einzuleiten ist. Zum Nachlesen: LDG §101.",
+    "hauptquelle": "LDG §101",
+    "id": "B30-L1-013",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Ein Einspruch ist ausgeschlossen, die Verfügung ist endgültig.",
+      "Beschuldigter und Disziplinaranwalt können binnen zwei Wochen Einspruch erheben, der die Verfügung außer Kraft setzt.",
+      "Einspruch kann nur die Direktion erheben.",
+      "Der Einspruch hemmt nichts und das Verfahren läuft unverändert weiter."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Einspruchsrecht besteht ausdrücklich.",
+      "Richtig: Zwei Wochen Frist und Außerkrafttreten bei rechtzeitigem Einspruch.",
+      "Falsch: Beschuldigter und Disziplinaranwalt sind einspruchsberechtigt.",
+      "Falsch: Der rechtzeitige Einspruch beseitigt die Verfügung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Aigner erhält eine schriftliche Disziplinarverfügung mit einer Geldbuße. Sie hält die Buße für überzogen und will sich wehren. Sie fragt, was sie gegen die Verfügung tun kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Auf die Beschwerde des Beschuldigten hin darf das Erkenntnis nicht zu seinen Ungunsten geändert werden. Wer sich wehrt, riskiert also keine Verschärfung durch die Beschwerde allein. Zum Nachlesen: LDG §98.",
+    "hauptquelle": "LDG §98",
+    "id": "B30-L1-014",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Strafe wird automatisch verdoppelt.",
+      "Das Erkenntnis darf auf seine Beschwerde hin nicht zu seinen Ungunsten abgeändert werden.",
+      "Die Beschwerde führt immer zur Entlassung.",
+      "Beschwerde ist nur mit Zustimmung der Behörde zulässig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine automatische Verdoppelung gibt es nicht.",
+      "Richtig: Das Verschlechterungsverbot schützt den beschwerdeführenden Beschuldigten.",
+      "Falsch: Die Beschwerde erzwingt keine Entlassung.",
+      "Falsch: Die Beschwerde braucht keine behördliche Zustimmung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Professor Steiner wurde zu einer Geldstrafe verurteilt und überlegt, Beschwerde zu erheben. Er fürchtet aber, dass es dadurch nur noch schlimmer für ihn kommen könnte.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Verfahren ist einzustellen, weil die Tat keine Dienstpflichtverletzung darstellt. Auch bei Nichterweisbarkeit oder Strafausschlussgründen wird eingestellt. Zum Nachlesen: LDG §87 Abs.1.",
+    "hauptquelle": "LDG §87 Abs.1",
+    "id": "B30-L1-015",
+    "level": "L1",
+    "modul_id": "B30",
+    "optionen": [
+      "Es muss trotzdem eine Geldstrafe verhängt werden.",
+      "Das Verfahren ist mit Bescheid einzustellen.",
+      "Die Einstellung ist nur mündlich möglich.",
+      "Das Verfahren ruht automatisch zwanzig Jahre weiter."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Dienstpflichtverletzung gibt es keine Strafe.",
+      "Richtig: Die Einstellung erfolgt mit Bescheid bei fehlender Pflichtverletzung.",
+      "Falsch: Die Einstellung ergeht mit Bescheid, nicht nur mündlich.",
+      "Falsch: Ein jahrzehntelanges Ruhen ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Gegen Lehrerin Egger lief ein Disziplinarverfahren wegen angeblich verweigerter Aufsicht. Die Erhebungen zeigen nun klar, dass sie zu dieser Zeit dienstfrei hatte und gar nicht eingeteilt war.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

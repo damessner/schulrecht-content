@@ -1,1 +1,519 @@
-[]
+[
+  {
+    "aufloesung": "Die Meldung war pflichtwidrig verspätet, die Checkliste lautet unverzüglich melden statt abzuwarten. Der Vorgesetzte meldet jeden begründeten Verdacht sofort, wenn Belehrung oder Ermahnung nicht ausreichen. Zum Nachlesen: LDG §78 Abs.1.",
+    "hauptquelle": "LDG §78 Abs.1",
+    "id": "B30-L2-001",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Jeden begründeten Verdacht einer Dienstpflichtverletzung unverzüglich weiterleiten.",
+      "Vorher prüfen, ob Belehrung oder Ermahnung ausreichen würden.",
+      "Bei unzureichenden milden Mitteln die Meldung nicht verzögern.",
+      "Erst ein halbes Jahr abwarten und dann erst melden.",
+      "Nur anonyme Gerüchte ohne jeden Anhaltspunkt weiterleiten.",
+      "Die Meldung von der Zustimmung des betroffenen Lehrers abhängig machen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverzüglichkeit ist der Kern der Meldepflicht des Vorgesetzten.",
+      "Richtig: Milde Mittel haben Vorrang, ersetzen die Meldung aber nur wenn sie genügen.",
+      "Richtig: Reichen sie nicht aus, muss die Meldung sofort raus.",
+      "Falsch: Monatelanges Zuwarten verletzt die Unverzüglichkeit.",
+      "Falsch: Verlangt ist ein begründeter Verdacht, nicht jedes Gerücht.",
+      "Falsch: Eine Zustimmung des Betroffenen ist nicht nötig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Abteilungsvorstand hört glaubwürdig von wiederholten Aufsichtsverletzungen eines Lehrers, wartet aber monatelang ab und sagt nichts. Erst nach einem Vorfall mit verletztem Schüler meldet er den Verdacht. Die Behörde prüft die Meldecheckliste des Vorgesetzten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Hier durfte von Anzeige und Verfügung abgesehen werden, denn Geringfügigkeit plus unbedeutende Folgen genügen. Der Lehrer ist davon nur formlos zu verständigen. Zum Nachlesen: LDG §78 Abs.5.",
+    "hauptquelle": "LDG §78 Abs.5",
+    "id": "B30-L2-002",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Das Verschulden des Lehrers ist nur geringfügig.",
+      "Die Folgen der Pflichtverletzung sind unbedeutend.",
+      "Der Lehrer wird formlos von diesem Absehen verständigt.",
+      "Es liegt ein schwerer Vertrauensbruch mit großem Schaden vor.",
+      "Das Absehen ist nur bei Zustimmung aller Eltern möglich.",
+      "Jede Pflichtverletzung muss immer angezeigt werden, ohne Ausnahme."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Geringfügiges Verschulden ist die erste Voraussetzung.",
+      "Richtig: Unbedeutende Folgen sind die zweite Voraussetzung.",
+      "Richtig: Formlose Verständigung des Lehrers schließt den Vorgang ab.",
+      "Falsch: Schwere Folgen schließen das Absehen gerade aus.",
+      "Falsch: Eine Elternzustimmung ist nirgends verlangt.",
+      "Falsch: Das Gesetz sieht diese Ausnahme ausdrücklich vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer hat einmalig fünf Minuten zu spät zum Bereitschaftsdienst begonnen, ohne dass etwas passiert ist. Die Behörde hält das Verschulden für gering und die Folgen für bedeutungslos. Sie prüft, ob sie von Anzeige und Verfügung absehen kann.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Selbstanzeige ist schriftlich bei der Einleitungsbehörde einzubringen und klärt den Verdacht förmlich. Auf Verlangen geht der Antrag sofort auch an Disziplinaranwalt und Kommissionsvorsitz. Zum Nachlesen: LDG §79.",
+    "hauptquelle": "LDG §79 Abs.1",
+    "id": "B30-L2-003",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Der Antrag ist schriftlich bei der Einleitungsbehörde zu stellen.",
+      "Jeder Lehrer hat das Recht auf dieses Verfahren gegen sich selbst.",
+      "Auf Verlangen ist der Antrag unverzüglich weiterzuleiten.",
+      "Der Antrag kann auch nur mündlich zwischen Tür und Angel gestellt werden.",
+      "Nur Vorgesetzte dürfen so einen Antrag stellen.",
+      "Die Selbstanzeige verpflichtet automatisch zur schwersten Strafe."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schriftlichkeit bei der zuständigen Behörde ist vorgeschrieben.",
+      "Richtig: Das Selbstanzeigerecht steht jedem Lehrer zu.",
+      "Richtig: Auf Verlangen geht es sofort an Anwalt und Vorsitz.",
+      "Falsch: Mündlich nebenbei genügt der Form nicht.",
+      "Falsch: Gerade der Betroffene selbst ist antragsberechtigt.",
+      "Falsch: Die Strafe richtet sich weiter nach der Schwere der Tat."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Über eine Lehrerin kursieren Gerüchte wegen eines angeblichen Fehlverhaltens, sie will den Verdacht offiziell prüfen lassen. Sie stellt einen schriftlichen Antrag auf ein Verfahren gegen sich selbst und verlangt die sofortige Weiterleitung. Die Behörde prüft die Checkliste zur Selbstanzeige.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Suspendierung war hier zu verfügen, weil Ansehen und Dienstinteressen gefährdet waren. Auch Untersuchungshaft oder einschlägige rechtswirksame Anklage lösen sie zwingend aus. Zum Nachlesen: LDG §80 Abs.1.",
+    "hauptquelle": "LDG §80 Abs.1",
+    "id": "B30-L2-004",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Belassung im Dienst würde Ansehen des Amtes gefährden.",
+      "Wesentliche Interessen des Dienstes wären durch die Weiterverwendung gefährdet.",
+      "Es liegt Untersuchungshaft gegen die Lehrperson vor.",
+      "Die Lehrperson hat einen unbedeutenden einmaligen Ordnungsverstoß begangen.",
+      "Die Suspendierung setzt immer einen rechtskräftigen Schuldspruch voraus.",
+      "Eine Suspendierung ist nur in den Ferien zulässig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Gefährdung des Amtsansehens ist ein Suspendierungsgrund.",
+      "Richtig: Gefährdete Dienstinteressen tragen die Suspendierung ebenso.",
+      "Richtig: Verhängte Untersuchungshaft führt zur vorläufigen Suspendierung.",
+      "Falsch: Bagatellen rechtfertigen keine Suspendierung.",
+      "Falsch: Gerade vor der Klärung schützt die Suspendierung den Dienst.",
+      "Falsch: Eine Ferienbeschränkung gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Gegen einen Lehrer laufen schwere Vorwürfe, Presse berichtet, Eltern drohen mit Abmeldungen, das Schulklima ist massiv belastet. Die Behörde prüft anhand einer Checkliste, ob die Voraussetzungen für eine Suspendierung vorliegen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Bezug wird auf zwei Drittel gekürzt, vorläufig Suspendierte erhalten vorerst ungekürzt weiter. Bei Notlage ist die Kürzung zu mildern und Nebenverdienste über einem Drittel erhöhen die Kürzung. Zum Nachlesen: LDG §80 Abs.4.",
+    "hauptquelle": "LDG §80 Abs.4",
+    "id": "B30-L2-005",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Jede Suspendierung kürzt den Monatsbezug auf zwei Drittel.",
+      "Vorläufig Suspendierte erhalten vorerst ohne Kürzung weiter ausbezahlt.",
+      "Die Behörde mindert die Kürzung bei Unterschreiten der Unterhaltsschwelle.",
+      "Verdienste aus Nebenbeschäftigung über einem Drittel erhöhen die Kürzung.",
+      "Der Bezug entfällt bei jeder Suspendierung vollständig.",
+      "Die Kürzung gilt erst nach rechtskräftigem Verfahrensabschluss rückwirkend."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Zwei-Drittel-Kürzung ist die gesetzliche Folge der Suspendierung.",
+      "Richtig: Vorläufig läuft die Auszahlung vorerst ungekürzt weiter.",
+      "Richtig: Bei Notlage schützt die Unterhaltsschwelle vor Härte.",
+      "Richtig: Übersteigende Nebeneinkünfte werden auf die Kürzung angerechnet.",
+      "Falsch: Ganz gestrichen wird der Bezug nicht.",
+      "Falsch: Die Kürzung wirkt für die Dauer der Suspendierung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein suspendierter Lehrer mit zwei kleinen Kindern bangt um Miete und Lebensunterhalt während des Verfahrens. Er übt nebenbei eine kleine bezahlte Tätigkeit aus. Die Behörde prüft die Checkliste zu Bezügen in der Suspendierung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Alle drei Fristen waren hier versäumt, deshalb darf nicht mehr bestraft werden. Sechs Monate, ein Jahr und drei Jahre laufen gestaffelt ab Kenntnis und Tatende. Zum Nachlesen: LDG §72 Abs.1.",
+    "hauptquelle": "LDG §72 Abs.1",
+    "id": "B30-L2-006",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Binnen sechs Monaten ab Kenntnis braucht es Verfügung oder Anzeige an die Behörde.",
+      "Binnen einem Jahr ab Kenntnis muss das Verfahren vor der Behörde eingeleitet sein.",
+      "Binnen drei Jahren ab Beendigung der Verletzung braucht es Verfügung oder Einleitung.",
+      "Die Fristen beginnen erst mit der Pensionierung des Lehrers.",
+      "Verjährung gibt es im Disziplinarrecht grundsätzlich nicht.",
+      "Ein einziges klärendes Gespräch hemmt alle Fristen automatisch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Sechs-Monats-Frist sichert die rasche Reaktion nach Kenntnis.",
+      "Richtig: Die Jahresfrist erzwingt die förmliche Einleitung.",
+      "Richtig: Die Drei-Jahres-Frist zieht die absolute Grenze ab Tatende.",
+      "Falsch: Der Lauf beginnt mit Kenntnis und Tatende, nicht mit der Pension.",
+      "Falsch: Die Verjährung ist ausdrücklich geregelt.",
+      "Falsch: Ein Gespräch allein hemmt die Fristen nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Pflichtverletzung aus dem Frühjahr vor vier Jahren wird erst jetzt bekannt, die Behörde hatte nie Kenntnis. Der Lehrer beruft sich auf Verjährung. Die Behörde prüft die Fristen-Checkliste Schritt für Schritt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Das Verfahren war zu Recht unterbrochen, denn Straf- und Gerichtsverfahren hemmen die Verjährung. Erst nach deren Abschluss läuft die Sechs-Monats-Frist für die Weiterführung. Zum Nachlesen: LDG §72 Abs.2.",
+    "hauptquelle": "LDG §72 Abs.2",
+    "id": "B30-L2-007",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Dauer eines Strafverfahrens nach der Strafprozessordnung hemmt die Fristen.",
+      "Die Dauer eines Verfahrens vor Verfassungs- oder Verwaltungsgerichtshof hemmt.",
+      "Die Zeit zwischen Anzeige und Einlangen der Erledigungsmitteilung hemmt.",
+      "Private Urlaubszeiten des Beschuldigten hemmen die Fristen.",
+      "Jede Krankmeldung hemmt automatisch alle Verjährungsfristen.",
+      "Die Hemmung gilt nur, wenn der Lehrer ihr schriftlich zustimmt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Laufende Strafverfahren stoppen den Fristenlauf.",
+      "Richtig: Höchstgerichtliche Verfahren hemmen ebenso.",
+      "Richtig: Die Wartezeit auf die Erledigungsmitteilung zählt nicht zulasten der Behörde.",
+      "Falsch: Urlaub ist kein Hemmungsgrund.",
+      "Falsch: Krankheit allein hemmt die Verjährung nicht.",
+      "Falsch: Eine Zustimmung ist für die Hemmung nicht nötig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Während eines Disziplinarverfahrens läuft parallel ein Strafverfahren um denselben Sachverhalt, die Disziplinarbehörde unterbricht. Der Lehrer meint, inzwischen sei alles verjährt. Die Behörde prüft, was den Fristenlauf gehemmt hat.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Bemessung war fehlerhaft, weil nur ein Grund statt der vollen Checkliste herangezogen wurde. Schwere, Vorbeugung, Strafzumessungsgründe sowie persönliche und wirtschaftliche Lage zählen gemeinsam. Zum Nachlesen: LDG §71 Abs.1.",
+    "hauptquelle": "LDG §71 Abs.1",
+    "id": "B30-L2-008",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Schwere der Dienstpflichtverletzung als Ausgangspunkt nehmen.",
+      "Prüfen, ob die Strafe den Lehrer und andere künftig abschreckt.",
+      "Die Strafzumessungsgründe des Strafrechts sinngemäß berücksichtigen.",
+      "Persönliche Verhältnisse und wirtschaftliche Leistungsfähigkeit einbeziehen.",
+      "Ausschließlich die Meinung der Schulpartner einholen.",
+      "Immer die Höchststrafe verhängen, um ein Zeichen zu setzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Schwere der Verletzung ist das Maß der Strafe.",
+      "Richtig: Spezial- und Generalprävention gehören zur Abwägung.",
+      "Richtig: Die strafrechtlichen Zumessungsgründe gelten dem Sinne nach.",
+      "Richtig: Persönliche und wirtschaftliche Lage mildern oder schärfen die Strafe.",
+      "Falsch: Stimmungen ersetzen die gesetzliche Abwägung nicht.",
+      "Falsch: Automatik zur Höchststrafe widerspricht der Abwägung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Kommission hat eine Strafe nur nach Bauchgefühl festgesetzt, ohne Gründe abzuwägen. Der Disziplinaranwalt rügt das. Die Kommission wiederholt die Bemessung anhand einer vollständigen Checkliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Strafen bauen stufenweise von Verweis bis Entlassung auf, dazwischen liegen Buße und Strafe. Buße endet bei einem Bezug, Strafe reicht bis fünf Bezüge. Zum Nachlesen: LDG §70 Abs.1.",
+    "hauptquelle": "LDG §70 Abs.1",
+    "id": "B30-L2-009",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Der Verweis als förmliche Rüge.",
+      "Die Geldbuße bis zur Höhe eines Monatsbezugs.",
+      "Die Geldstrafe von mehr als einem bis zu fünf Monatsbezügen.",
+      "Die Entlassung als schwerste Strafe.",
+      "Die lebenslange Unterrichtsuntersagung als eigene Strafart.",
+      "Der ersatzlose Entfall aller Pensionsansprüche als Regelstrafe im Dienststand."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Verweis ist die mildeste Stufe.",
+      "Richtig: Die Buße deckt den unteren Geldbereich ab.",
+      "Richtig: Die Geldstrafe deckt den oberen Geldbereich ab.",
+      "Richtig: Die Entlassung beendet das Dienstverhältnis als Ultima Ratio.",
+      "Falsch: Diese Strafart kennt der Katalog nicht.",
+      "Falsch: Das ist keine eigene Strafstufe im Dienststand."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine junge Lehrerin fragt die Personalvertretung, welche Strafen im Disziplinarverfahren überhaupt möglich sind. Sie hat von vielen Gerüchten gehört und will die echte Stufenfolge kennen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Kommission entscheidet mit Mehrheit, Entlassung nur einstimmig, Enthaltung ist verboten. Ihre Mitglieder sind selbständig und unabhängig. Zum Nachlesen: LDG §91.",
+    "hauptquelle": "LDG §91",
+    "id": "B30-L2-010",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Entscheidungen ergehen mit Stimmenmehrheit.",
+      "Die Entlassung darf nur einstimmig verhängt werden.",
+      "Stimmenthaltung ist unzulässig, der Vorsitz stimmt zuletzt ab.",
+      "Die Mitglieder sind in diesem Amt selbständig und unabhängig.",
+      "Die Direktion darf der Kommission das Ergebnis vorschreiben.",
+      "Entlassungen genügen schon mit einfacher Mehrheit bei Eile."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Mehrheit trägt die Entscheidung.",
+      "Richtig: Einstimmigkeit schützt vor leichtfertiger Entlassung.",
+      "Richtig: Klare Abstimmungsregeln sichern die Verantwortung.",
+      "Richtig: Weisungsfreiheit schützt die Fairness des Verfahrens.",
+      "Falsch: Vorschriften von außen verletzen die Unabhängigkeit.",
+      "Falsch: Für die Entlassung gilt Einstimmigkeit ohne Eilausnahme."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor einer Disziplinarkommission steht eine schwierige Abstimmung über eine mögliche Entlassung an. Ein Mitglied will sich enthalten, der Vorsitz fragt nach den Regeln. Die Kommission klärt ihre Abstimmungs-Checkliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Verhandlung war fehlerhaft vorbereitet, die Checkliste verlangt Ladung, Aussagefreiheit und Schlusswort. Zwei Wochen Ladungsfrist, bis zu drei Vertrauenspersonen und kein Antwortzwang schützen den Beschuldigten. Zum Nachlesen: LDG §93.",
+    "hauptquelle": "LDG §93",
+    "id": "B30-L2-011",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Die Ladung ist den Parteien spätestens zwei Wochen vorher zuzustellen.",
+      "Auf Verlangen dürfen bis zu drei Vertrauenspersonen dabei sein.",
+      "Der Beschuldigte darf zur Beantwortung von Fragen nicht gezwungen werden.",
+      "Nach dem Disziplinaranwalt hat jedenfalls der Beschuldigte das Schlusswort.",
+      "Die Verhandlung darf erst nach Pensionierung stattfinden.",
+      "Bild- und Tonübertragungen der Verhandlung sind allgemein erlaubt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Zwei-Wochen-Frist sichert die Vorbereitung.",
+      "Richtig: Vertrauenspersonen geben Rückhalt in der Verhandlung.",
+      "Richtig: Niemand muss sich selbst belasten.",
+      "Richtig: Das letzte Wort gehört dem Beschuldigten.",
+      "Falsch: Gewartet bis zur Pension wird nicht.",
+      "Falsch: Film- und Tonaufnahmen sind ausdrücklich unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer wurde erst drei Tage vor der Verhandlung geladen, Vertrauenspersonen wurden abgelehnt und er sollte zur Aussage gezwungen werden. Sein Verteidiger rügt mehrere Fehler. Die Kommission prüft die Verhandlungs-Checkliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Verfügung ist das abgekürzte Verfahren bei klarer Lage und nur für milde Strafen. Geständnis, eindeutige Aktenlage oder rechtskräftige Strafe plus Verweis oder Buße sind die Checkliste. Zum Nachlesen: LDG §100.",
+    "hauptquelle": "LDG §100",
+    "id": "B30-L2-012",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Der Lehrer hat die Verletzung vor Vorgesetztem oder Behörde gestanden.",
+      "Die Verletzung ist aufgrund eindeutiger Aktenlage als erwiesen anzunehmen.",
+      "Zum Sachverhalt liegt eine rechtskräftige gerichtliche Bestrafung vor.",
+      "Verhängt werden dürfen nur Verweis oder Geldbuße bis ein Bezug.",
+      "In der Verfügung darf sofort die Entlassung ausgesprochen werden.",
+      "Die Verfügung ergeht nur mündlich ohne Zustellung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Geständnis trägt das abgekürzte Verfahren.",
+      "Richtig: Eindeutige Aktenlage ersetzt die Verhandlung.",
+      "Richtig: Die rechtskräftige Strafe klärt den Sachverhalt.",
+      "Richtig: Verweis oder Buße sind die Obergrenze der Verfügung.",
+      "Falsch: Die Entlassung bleibt der Kommission vorbehalten.",
+      "Falsch: Schriftlichkeit und Zustellung sind vorgeschrieben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer hat einen kleineren Verstoß offen zugegeben, die Aktenlage ist eindeutig. Die Behörde will das Verfahren rasch schriftlich erledigen. Sie prüft die Checkliste für die Disziplinarverfügung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Von Strafe oder Verfahren war hier abzusehen, weil geringe Schuld und keine Folgen zusammentrafen. Schuldspruch ohne Strafe oder Einstellung schützen vor Übermaß bei Bagatellen. Zum Nachlesen: LDG §83.",
+    "hauptquelle": "LDG §83",
+    "id": "B30-L2-013",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Der Schuldspruch allein genügt voraussichtlich zur künftigen Abschreckung.",
+      "Dienstliche Interessen werden durch das Absehen nicht verletzt.",
+      "Die Schuld ist gering und die Persönlichkeit spricht für Einmaligkeit.",
+      "Die Tat hat keine oder nur unbedeutende Folgen gehabt.",
+      "Bei jeder erwiesenen Verletzung muss immer die Höchststrafe folgen.",
+      "Ein Schuldspruch ohne Strafe ist gesetzlich ausgeschlossen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Prognose künftigen Wohlverhaltens trägt das Absehen.",
+      "Richtig: Ohne verletzte Dienstinteressen bleibt Raum für Milde.",
+      "Richtig: Geringe Schuld und Persönlichkeit sprechen für das Absehen.",
+      "Richtig: Fehlende Folgen sind die zweite Säule der Milde.",
+      "Falsch: Automatik zur Höchststrafe gibt es nicht.",
+      "Falsch: Schuldspruch ohne Strafe ist ausdrücklich vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine langjährig tadellose Lehrerin hat einmalig eine Weisung missachtet, Schaden ist keiner entstanden. Die Kommission hält einen Schuldspruch für ausreichend. Sie prüft die Checkliste für das Absehen von der Strafe.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Kosten trägt hier das Amt, weil eingestellt wurde, und der Anwalt bleibt Privatsache. Bei Bestrafung zahlt der Lehrer einen gestaffelten Beitrag, bei Einstellung, Freispruch oder Verfügung das Amt. Zum Nachlesen: LDG §86 Abs.1.",
+    "hauptquelle": "LDG §86 Abs.1",
+    "id": "B30-L2-014",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Bei Einstellung des Verfahrens trägt die Kosten das Amt.",
+      "Bei Freispruch trägt die Kosten das Amt.",
+      "Bei Disziplinarverfügung trägt die Kosten das Amt.",
+      "Die Kosten des eigenen Verteidigers trägt immer der Lehrer selbst.",
+      "Bei Einstellung zahlt der freigesprochene Lehrer alle Verfahrenskosten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einstellung beendet das Verfahren zugunsten des Beschuldigten auf Amtsskosten.",
+      "Richtig: Freispruch belastet den Lehrer nicht mit Verfahrenskosten.",
+      "Richtig: Auch die Verfügung löst keine Kostenpflicht aus.",
+      "Richtig: Der eigene Anwalt bleibt in allen Fällen Privatsache.",
+      "Falsch: Gerade dann trägt das Amt die Kosten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Disziplinarverfahren gegen einen Lehrer wurde eingestellt, nun streiten alle über die Kosten. Der Lehrer hatte einen Anwalt beigezogen, Zeugen und ein Gutachten waren nötig. Die Behörde prüft die Kosten-Checkliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Auch im Ruhestand bleibt die Verantwortung für Dienstzeit-Verfehlungen und grobe Ruhestandsverletzungen bestehen. Der Strafkatalog reicht von Verweis über Geldstrafe bis zum Verlust aller Ansprüche. Zum Nachlesen: LDG §103.",
+    "hauptquelle": "LDG §103",
+    "id": "B30-L2-015",
+    "level": "L2",
+    "modul_id": "B30",
+    "optionen": [
+      "Verantwortung für im Dienststand begangene Pflichtverletzungen bleibt bestehen.",
+      "Gröbliche Verletzung der Ruhestandspflichten ist ebenfalls verfolgbar.",
+      "Mögliche Strafen sind Verweis, Geldstrafe und Verlust aller Ansprüche.",
+      "Rechtskräftige Strafen können im Gnadenweg erlassen oder gemildert werden.",
+      "Mit der Pensionierung endet jede disziplinare Verantwortung automatisch.",
+      "Ruhestandslehrer können nur noch mit Unterrichtsverbot bestraft werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Pension beendet die Verantwortung für alte Taten nicht.",
+      "Richtig: Auch neue grobe Ruhestandsverstöße zählen.",
+      "Richtig: Dieser dreistufige Katalog gilt für den Ruhestand.",
+      "Richtig: Das Gnadenrecht bleibt als Korrektiv erhalten.",
+      "Falsch: Die Verantwortung lebt gerade weiter.",
+      "Falsch: Diese Strafart kennt der Ruhestandskatalog nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein pensionierter Lehrer soll wegen eines Verstoßes aus seiner aktiven Zeit und wegen Verletzung seiner Verschwiegenheit im Ruhestand belangt werden. Er meint, im Ruhestand sei er nicht mehr greifbar. Die Behörde prüft die Ruhestands-Checkliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]
