@@ -1,1 +1,275 @@
-[]
+[
+  {
+    "aufloesung": "Tobias wird gelagert und betreut, Rettung und Direktion werden parallel verständigt und alles wird für Versicherung und Akte dokumentiert. Aufsetzen und Alleinlassen sind falsch, weil Kopfverletzungen sich erst später zeigen. Nur die lückenlose Kette aus Hilfe, Meldung und Bericht trägt verfahrensrechtlich. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L4-001",
+    "level": "L4",
+    "modul_id": "X40",
+    "optionen": [
+      "Kind ruhig lagern, betreuen, Notruf mit Kopfverletzungshinweis, Direktion und Eltern verständigen und Unfallmeldung ausfüllen.",
+      "Kind sofort aufsetzen, zum Weiterlaufen motivieren und allein in die Klasse schicken.",
+      "Nur trösten und auf die nächste Pause vertrauen, ohne Meldung und Bericht.",
+      "Restklasse unbeaufsichtigt lassen und selbst mit der Rettung mitfahren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lagern, Notruf, Meldung und Bericht sichern Hilfe und Verfahren.",
+      "Falsch: Aufsetzen bei Kopfverdacht kann schwer schaden.",
+      "Falsch: Nur Trösten lässt Versicherung und Nachweis leer.",
+      "Falsch: Mitfahren ohne Aufsichtsübergabe reißt neue Lücke."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sportfest in Innsbruck: Tobias, 13 Jahre, prallt mit dem Kopf gegen einen Pfosten, ist kurz bewusstlos, dann benommen mit Übelkeit. Du hast 28 Kinder in Aufsicht, Handy ist da, die Direktion weiß nichts, die Eltern sind nicht erreichbar.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29",
+      "LDG §43"
+    ]
+  },
+  {
+    "aufloesung": "Die Klasse wird geschützt und geräumt, Polizei und Direktion übernehmen, kein Selbstentwaffnen und kein Verharmlosen. Eigene Heldentat eskaliert, Ignorieren lässt die Drohung wirken. Nur Anzeige, Protokoll und Nachbetreuung schließen den Fall verfahrenssicher. Zum Nachlesen: LDG §29",
+    "hauptquelle": "LDG §29",
+    "id": "X40-L4-002",
+    "level": "L4",
+    "modul_id": "X40",
+    "optionen": [
+      "Dem Schüler das Messer selbst entreißen und ihn im Zimmer festhalten.",
+      "Klasse aus dem Gefahrenbereich bringen, Abstand schaffen, Direktion und Polizei rufen und alles protokollieren.",
+      "Lautstark diskutieren bis zur freiwilligen Abgabe und dann nichts melden.",
+      "So tun als wäre nichts und normal weiter unterrichten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Selbst entwaffnen gefährdet dich und die Klasse.",
+      "Richtig: Schutz, Profis und Protokoll lösen Bedrohung und Verfahren.",
+      "Falsch: Diskutieren plus Schweigen lässt Gefahr und Akte offen.",
+      "Falsch: Ignorieren verletzt Aufsicht und Meldepflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Dritte Klasse in Wörgl: Nach einem Streit zeigt ein Schüler ein Taschenmesser und droht laut mit Gebrauch, die Klasse drängt panisch zur Tür. Du stehst beim Pult, die Nachbarklasse hört Schreie, die Direktion ist im Haus.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3",
+      "SchUG §44"
+    ]
+  },
+  {
+    "aufloesung": "Es wird täglich nachgefragt, die Direktion eingebunden und jeder Schritt dokumentiert, keine Abmeldung ohne Verfahren. Warten und Streichen sind falsch, weil Schulpflicht und Kindesschutz zur Meldung drängen. Nur die Kette aus Kontakt, Leitung und Akte trägt Mahnung und Anzeige. Zum Nachlesen: SchUG §15",
+    "hauptquelle": "SchUG §15",
+    "id": "X40-L4-003",
+    "level": "L4",
+    "modul_id": "X40",
+    "optionen": [
+      "Abwarten bis das Kind irgendwann wiederkommt und nichts aufschreiben.",
+      "Täglich nachfragen, Direktion einbinden, Fehlzeiten und Versuche dokumentieren und Mahnverfahren vorbereiten.",
+      "Kind sofort aus der Klassenliste streichen und Akte schließen.",
+      "Mitschüler zum Ausspionieren der Familie losschicken."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zuwarten lässt Gefahr und Pflicht liegen.",
+      "Richtig: Fragen, Leitung und Akte sichern Schutz und Verfahren.",
+      "Falsch: Streichen ohne Verfahren ist rechtswidrig.",
+      "Falsch: Spitzelauftrag missbraucht Kinder und hilft nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Klassenvorstand in Telfs: Alina, 11 Jahre, fehlt seit sechs Tagen ohne Nachricht, Anrufe und Brief bleiben ohne Antwort, Mitschüler wissen nichts. Die Mutter meldete früher vage Bauchweh, die Fehlzeitenliste wächst, die Direktion fragt nach.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §44",
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Der Fehler wird sofort offen der Direktion mit allen Unterlagen gemeldet und die Nachholung geprüft, nichts wird gefälscht. Vertuschen verwandelt einen Fehler in ein Dienstvergehen und vernichtet die letzte Rettung für den Schüler. Ehrlichkeit zu Eltern plus neue Frist schließen den Fall. Zum Nachlesen: SchUG §71",
+    "hauptquelle": "SchUG §71",
+    "id": "X40-L4-004",
+    "level": "L4",
+    "modul_id": "X40",
+    "optionen": [
+      "Datum heimlich ändern und auf Verjährung hoffen.",
+      "Versäumnis sofort der Direktion melden, Nachholung prüfen, Eltern ehrlich informieren und neue Frist sichern.",
+      "Nichts sagen und den Eltern die Schuld geben.",
+      "Am Telefon sofort die bessere Note versprechen, damit Ruhe ist."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fälschen ist ein Dienstvergehen mit Folgen.",
+      "Richtig: Offenheit plus Nachholprüfung rettet Verfahren und Vertrauen.",
+      "Falsch: Schweigen und Schuldschieb lassen Frist verstreichen.",
+      "Falsch: Telefonzusage ersetzt kein Rechtsmittelverfahren."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mittelschule in Reutte am Montag: Du hast einen Förderantrag mit Frist Freitag nicht weitergeleitet, der Schüler verliert ohne Antrag den Kursplatz. Die Eltern erwarten heute Auskunft und drohen mit Beschwerde, die Direktion weiß noch nichts.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29",
+      "SchUG §62"
+    ]
+  },
+  {
+    "aufloesung": "Beim Doppel-Allergiefall retten Notruf, Arbeitsteilung und Dokumentation alle Pflichten zugleich. Abwarten und Essen geben sind falsch, weil Atemnot in Minuten eskaliert. Ein Team ruft und betreut, das andere sichert die Großgruppe und meldet. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L4-005",
+    "level": "L4",
+    "modul_id": "X40",
+    "optionen": [
+      "Sofort Notruf mit Allergie- und Atemnothinweis für beide Kinder.",
+      "Beide Kinder betreuen, nicht allein lassen, zweite Aufsicht für Großgruppe holen.",
+      "Abwarten, ob die Schwellungen von selbst zurückgehen.",
+      "Direktion und Erziehungsberechtigte verständigen, Notfallpläne holen lassen.",
+      "Beruhigend Kekse und Milch zum Nachspülen geben.",
+      "Maßnahmen, Zeiten und Übergaben schriftlich für Akte und Versicherung festhalten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Notruf mit Hinweis steuert die richtige Hilfe.",
+      "Richtig: Betreuung plus zweite Aufsicht löst die Kollision.",
+      "Falsch: Abwarten bei Atemnot ist lebensgefährlich.",
+      "Richtig: Verständigung startet Abholung und Verfahren.",
+      "Falsch: Essen und Trinken verschlimmern den Schock.",
+      "Richtig: Protokoll sichert Nachweis und Versicherung."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Schulfest in Lienz mit 60 Kindern am Sportplatz: Lea, 8 Jahre, mit Nussallergie bekommt nach einem Keks geschwollene Lippen und pfeifende Atmung, gleichzeitig sticht eine Biene Lukas, 9 Jahre, bekannt allergisch, am Hals. Du bist mit zwei Kolleginnen da, Notfallmappe liegt im Haus, viele Eltern schauen zu.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §29",
+      "TirSOG §45"
+    ]
+  },
+  {
+    "aufloesung": "Bei Rauch mit Asthmakind retten Evakuieren ohne Lift, Betreuen und geordnete Übergabe alle. Zurücklaufen, Lift und Mitgabe an Fremde sind falsch, weil Rauch und Übergabefehler tödlich enden. Sammeln, Vollzähligkeit melden und nur an Berechtigte übergeben. Zum Nachlesen: TirSOG §45",
+    "hauptquelle": "TirSOG §45",
+    "id": "X40-L4-006",
+    "level": "L4",
+    "modul_id": "X40",
+    "optionen": [
+      "Klasse sammeln und nach Fluchtplan zum Sammelplatz führen, Fenster und Türen schließen.",
+      "Asthmakind betreut mitführen, nicht allein lassen, Sammelplatzleitung informieren.",
+      "Allein zurücklaufen, um Taschen zu holen, und Lifte benutzen.",
+      "Am Sammelplatz Vollzähligkeit prüfen und der Leitung melden.",
+      "Kinder unterwegs an wartende Bekannte ohne Nachweis mitgeben.",
+      "Übergaben an Erziehungsberechtigte mit Zeit und Namen dokumentieren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sammeln und Führen nach Plan rettet alle.",
+      "Richtig: Betreuung plus Info sichert das Risikokind.",
+      "Falsch: Zurücklaufen und Lift sind lebensgefährlich.",
+      "Richtig: Vollzähligkeit schließt die Rettungskette.",
+      "Falsch: Mitgabe ohne Nachweis verletzt Aufsicht und Übergabe.",
+      "Richtig: Protokoll sichert Verfahren und Haftung."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Volksschule in Imst: Rauch aus dem Werkraum zieht in den Gang, Alarm läuft, deine zweite Klasse hustet. Jonas, 8 Jahre, mit Asthma bekommt schlecht Luft, am Zaun warten aufgeregte Eltern und wollen Kinder sofort mitnehmen, der Sammelplatz ist der Sportplatz.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3",
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Nach Prügelei mit Video helfen Trennen, Beweissicherung, Meldung und saubere Beschwerdeantwort gemeinsam. Löschen, Retourkutsche und Vorhalten beim Kind sind falsch, weil sie Beweise und Verfahren zerstören. Fakten prüfen, Direktion einbinden und Frist wahren. Zum Nachlesen: SchUG §44",
+    "hauptquelle": "SchUG §44",
+    "id": "X40-L4-007",
+    "level": "L4",
+    "modul_id": "X40",
+    "optionen": [
+      "Beteiligte trennen, Verletzten versorgen und Filmen stoppen.",
+      "Beweise durch Screenshots sichern und Hergang mit Zeugen festhalten.",
+      "Alle Videos sofort löschen lassen und alles aussitzen.",
+      "Direktion einbinden, Elternbrief fristgerecht sachlich beantworten und Gespräch anbieten.",
+      "Dem Kind die Elternbeschwerde im Unterricht vorhalten.",
+      "Erziehungsmittel und Verfahren mit Klassenvorstand und Direktion abstimmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sichern und Versorgen stoppt zuerst Schaden.",
+      "Richtig: Festhalten erhält Fakten für alle Folgen.",
+      "Falsch: Löschen vernichtet Beweise und Verfahren.",
+      "Richtig: Dienstweg plus Frist wahrt Rechte und Ruhe.",
+      "Falsch: Vorhalten bestraft das Kind für Elternpost.",
+      "Richtig: Abstimmung sichert rechtmäßige Folgen."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Mittelschule in Schwaz: Nach einer Pausenprügelei mit blutender Lippe kursiert ein Handyvideo in der Klassengruppe, das Opfer fehlt. Die Eltern schreiben eingeschrieben mit zweiwöchiger Frist wegen angeblicher Bloßstellung, die Direktion verlangt Bericht und Vorschlag zum Vorgehen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3",
+      "LDG §29",
+      "SchUG §71"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, weil mündliche Entschuldigung weder Unfallmeldung noch Beschwerdeantwort noch Frist ersetzt. Versicherung, Dienstweg und Rechtsmittel verlangen Schriftlichkeit mit Datum und Nachweis. Nur dokumentierte Schritte tragen im Streitfall. Zum Nachlesen: LDG §29",
+    "hauptquelle": "LDG §29",
+    "id": "X40-L4-008",
+    "level": "L4",
+    "modul_id": "X40",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Mündlich ersetzt weder Akte noch Frist.",
+      "Richtig erkannt: Schriftlich, über Leitung und fristgerecht sichert Verfahren."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer in Landeck nach einem Armbruch am Eislaufplatz: Eine Kollegin behauptet, ein kurzer Anruf mit Entschuldigung bei Eltern und Direktion ersetze Unfallmeldung, Antwortbrief und Fristen, Schriftliches brauche niemand.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3",
+      "SchUG §71"
+    ]
+  }
+]

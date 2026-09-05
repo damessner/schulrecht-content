@@ -1,1 +1,412 @@
-[]
+[
+  {
+    "aufloesung": "Zuerst die eigene Klasse sichern, dann das blutende Kind versorgen und erst danach melden und dokumentieren. Die Klasse darf nicht unbeaufsichtigt bleiben, deshalb Nachbaraufsicht oder Tür sichern bevor du hilfst. Versorgung geht vor Papier, die Meldung an Direktion und Eltern folgt unmittelbar danach. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L3-001",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Eigene Klasse kurz sichern, Nachbar um Aufsicht bitten, dann Wunde versorgen und danach Direktion und Eltern informieren.",
+      "Eigene Klasse allein lassen und nur das verletzte Kind versorgen, Meldung auf morgen verschieben.",
+      "Zuerst den Unfallbericht in Ruhe fertig schreiben, dann nach beiden Gruppen sehen.",
+      "Verletztes Kind liegen lassen und zuerst die Klasse weiter unterrichten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sichern, Versorgen und Melden in dieser Reihenfolge schützt alle.",
+      "Falsch: Alleinlassen der Klasse verletzt die Aufsicht trotz Hilfe.",
+      "Falsch: Papier vor Versorgung verzögert die Hilfe gefährlich.",
+      "Falsch: Liegenlassen und Wegsehen lässt Schaden zu."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Pause in einer Mittelschule in Innsbruck: Deine eigene Klasse wartet laut im Zimmer, am Gang blutet Tim, 11 Jahre, stark an der Stirn nach einem Sturz und weint. Die Direktion erwartet heute noch die Unfallmeldung, niemand sonst ist am Gang.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Sofort per Handy den Notruf mit Allergiehinweis absetzen, das Kind betreuen und das Set durch eine zweite Person holen lassen. Weglaufen zum Holen lässt ein Kind mit Atemnot allein, das lebensgefährlich ist. Aufsicht und Rettung laufen parallel, nicht nacheinander. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L3-002",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Kind allein lassen und selbst das Set aus dem verschlossenen Zimmer holen.",
+      "Per Handy sofort Notruf mit Allergiehinweis, Kind betreuen und zweite Person zum Holen des Sets schicken.",
+      "Nur die Eltern anrufen und abwarten, ob die Schwellung zurückgeht.",
+      "Dem Kind Wasser und Kekse geben, damit es sich beruhigt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleinlassen bei Atemnot gefährdet das Kind akut.",
+      "Richtig: Notruf plus Betreuung plus Botengang sichert parallel.",
+      "Falsch: Nur Elternruf ohne Notruf kostet lebenswichtige Minuten.",
+      "Falsch: Essen und Trinken verschlimmern den Schock."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Jause in einer Volksschule in Lienz: Ben, 8 Jahre, mit bekannter Nussallergie bekommt geschwollene Lippen und pfeifende Atmung, sein Notfallset liegt im versperrten Lehrerzimmer. Du bist allein mit 24 Kindern im Raum, die Sekretärin ist am Telefon erreichbar.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29",
+      "TirSOG §45"
+    ]
+  },
+  {
+    "aufloesung": "Trennen und Versorgen haben Vorrang, gleichzeitig werden Filme gestoppt und der Vorfall gemeldet. Weiterkämpfen für die Schuldfrage oder Wegschicken ohne Aufsicht sind falsch, weil erst Schaden gestoppt wird. Beteiligte trennen, Wunde versorgen, Aufnahmen sichern und Direktion informieren. Zum Nachlesen: SchUG §44",
+    "hauptquelle": "SchUG §44",
+    "id": "X40-L3-003",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Beide ohne Begleitung vom Gelände schicken und den Unterricht fortsetzen.",
+      "Beteiligte trennen, Wunde versorgen, Filmen stoppen und Klassenvorstand sowie Direktion informieren.",
+      "Kampf zur Klärung weiterlaufen lassen und erst nach Schulschluss fragen.",
+      "Nur die Schuldfrage diskutieren und die blutende Wunde ignorieren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wegschicken ohne Aufsicht und Meldung ist unzulässig.",
+      "Richtig: Sichern, Versorgen und Melden löst die Kollision richtig.",
+      "Falsch: Weiterlaufenlassen lässt Verletzungen bewusst zu.",
+      "Falsch: Reden statt Versorgen vergrößert den Schaden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Pausenhof in Schwaz: Nach einer Rauferei blutet Felix, 13 Jahre, an der Nase, der andere droht weiter, drei Mitschüler filmen. Deine nächste Supplierklasse wartet bereits, die Direktion ist im Haus und die Glocke läutet.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Die anwesende Klasse wird evakuiert und das fehlende Kind sofort an Leitung und Einsatzkräfte gemeldet, kein Alleingang zurück in den Rauch. Zurücklaufen gefährdet dich und die anvertraute Gruppe, Profis suchen gezielt. Vollzähligkeit am Sammelplatz mit Fehlmeldung schließt die Kette. Zum Nachlesen: TirSOG §45",
+    "hauptquelle": "TirSOG §45",
+    "id": "X40-L3-004",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Eigene Klasse allein am Sammelplatz lassen und selbst im Rauch suchen.",
+      "Klasse nach Plan evakuieren, am Sammelplatz Fehlbestand melden und Suche den Einsatzkräften übergeben.",
+      "Alarm ignorieren und mit der Klasse im Raum weiterarbeiten.",
+      "Schüler einzeln nach Hause entlassen, damit sie sicher sind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleingang in Rauch plus verlassene Klasse verdoppelt die Gefahr.",
+      "Richtig: Evakuieren und Fehlmeldung an Profis rettet beide.",
+      "Falsch: Ignorieren lässt Rauch und Panik wirken.",
+      "Falsch: Entlassen ohne Übergabe zerstört jede Kontrolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Feueralarm in einer Volksschule in Imst mit starkem Rauch im Gang: Du führst deine zweite Klasse zum Sammelplatz, Lara, 8 Jahre, ist nicht da und soll zuletzt am Klo gesehen worden sein. Die Feuerwehr trifft ein, die Klasse ist aufgeregt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Beobachtung wird sachlich festgehalten und trotz Drohung an die Direktion gemeldet, Verschweigen wird nicht zugesagt. Ein Anwaltsbrief stoppt den Schutzauftrag nicht, weil nur das geregelte Verfahren das Kind schützt. Beschuldigen oder Ausfragen vor der Klasse bleiben verboten. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L3-005",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Der Mutter Verschwiegenheit zusagen und nichts aufschreiben, um Ruhe zu haben.",
+      "Sachlich mit Datum dokumentieren und sofort der Direktion melden, trotz Drohung.",
+      "Die Mutter sofort mit Vorwürfen stellen und ihr drohen.",
+      "Das Kind vor der Klasse ausführlich zur Familie befragen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zusage auf Schweigen verletzt den Schutzauftrag.",
+      "Richtig: Fakten plus Meldung schützen Kind und Verfahren.",
+      "Falsch: Vorwürfe gefährden Kind und Verfahren.",
+      "Falsch: Ausfragen vor allen beschämt und blockiert."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sprechtag in Zirl: Du hast bei Nico, 8 Jahre, wiederholt blaue Flecken notiert, die Mutter verlangt, nichts aufzuschreiben, und droht mit Anwalt und Schulwechsel. Die Direktion weiß bisher nichts, das Kind bittet dich um Hilfe ohne Heiminfo.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Die Aufsicht wird zuerst gesichert übergeben, dann wird die heute ablaufende Frist sofort an die Direktion gemeldet. Fälschen oder Schweigen verwandelt einen Fehler in ein Dienstvergehen, nur Offenheit hält Nachholung offen. Aufsicht und Frist kollidieren, Betrug ist nie die Lösung. Zum Nachlesen: SchUG §71",
+    "hauptquelle": "SchUG §71",
+    "id": "X40-L3-006",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Datum heimlich korrigieren und hoffen, dass es niemand merkt.",
+      "Aufsicht ordentlich übergeben und Fristversäumnis sofort der Direktion mit Unterlagen melden.",
+      "Nichts sagen und beide Pflichten ignorieren, bis es auffliegt.",
+      "Fremde Klasse allein lassen, um selbst zur Direktion zu laufen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fälschen macht aus Fehler ein Vergehen.",
+      "Richtig: Sichern plus offene Meldung hält Rettungswege offen.",
+      "Falsch: Schweigen lässt Frist und Vertrauen verstreichen.",
+      "Falsch: Alleinlassen verletzt die Aufsicht akut."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Freitagmittag in Reutte: Du beaufsichtigst eine fremde Klasse, bemerkst dass ein Antrag mit Frist heute nicht weitergeleitet wurde, die Eltern warten auf Rückruf. Das Sekretariat schließt in einer Stunde, deine Ablöse kommt erst in zwanzig Minuten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29",
+      "LDG §43"
+    ]
+  },
+  {
+    "aufloesung": "Beim Hangunfall sichern Rettungskette, Gruppenschutz und Dokumentation den Fall gemeinsam. Alleinlassen der Gruppe oder Handy für Privates sind falsch, weil Aufsicht und Hilfe parallel laufen müssen. Zählen, Sichern, Melden und Festhalten schließen alle Pflichten. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L3-007",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Verletzte Schülerin betreuen und lagern, Restgruppe sichern und zusammenhalten.",
+      "Rettung rufen und Verdacht auf Beinbruch nennen, Direktion informieren.",
+      "Gruppe allein am Hang lassen, um selbst ins Tal zu laufen.",
+      "Kopfzahl prüfen und Gefahrenstelle absichern, Begleitperson einbinden.",
+      "Ständig private Nachrichten checken statt die Gruppe im Blick zu behalten.",
+      "Hergang, Zeiten und Zeugen kurz schriftlich festhalten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Betreuung plus Gruppenschutz löst die erste Kollision.",
+      "Richtig: Notruf und Direktion starten Hilfe und Verfahren.",
+      "Falsch: Alleinlassen am Hang gefährdet 25 Kinder.",
+      "Richtig: Zählen und Sichern verhindert Verlieren und Folgeschaden.",
+      "Falsch: Handy privat statt Aufsicht reißt Lücken.",
+      "Richtig: Notiz sichert Versicherung und Nachweis."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Wandertag bei St. Johann mit 26 Kindern entlang einer steilen Forststraße: Anna, 12 Jahre, knickt um und kann nicht auftreten, Verdacht auf Bruch, die Gruppe wird unruhig. Eine Begleitperson ist dabei, der Rückbus fährt in vierzig Minuten nur einmal, Handyempfang ist schwach.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "TirSOG §45",
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Bei Fehlen plus Fristbrief gelten Nachfragen, Direktion und saubere Akte gleichzeitig. Aussitzen oder Streichen ohne Verfahren sind falsch, weil Schulpflicht und Antwortfrist parallel drängen. Kontaktieren, Leitung einbinden und alles protokollieren. Zum Nachlesen: SchUG §15",
+    "hauptquelle": "SchUG §15",
+    "id": "X40-L3-008",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Täglich telefonisch und schriftlich bei Erziehungsberechtigten nachfragen.",
+      "Direktion informieren und Mahn- sowie Antwortverfahren abstimmen.",
+      "Einfach abwarten, das Kind kommt schon wieder und der Brief eilt nicht.",
+      "Fehlzeiten, Kontaktversuche und Fristen lückenlos dokumentieren.",
+      "Kind kommentarlos aus der Liste streichen, dann ist der Brief hinfällig.",
+      "Eingang des Beschwerdebriefs kurz bestätigen und sachlich prüfen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachfragen klärt Gefahr und zeigt Pflicht an.",
+      "Richtig: Direktion steuert Mahnung und Fristantwort.",
+      "Falsch: Warten verletzt Schutz und Frist zugleich.",
+      "Richtig: Akte sichert Nachweis aller Schritte.",
+      "Falsch: Streichen ohne Verfahren ist unzulässig.",
+      "Richtig: Bestätigung plus Prüfung stoppt Eskalation."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bist Klassenvorstand in Telfs: Selim, 12 Jahre, fehlt seit fünf Tagen ohne Nachricht, Anrufe scheitern. Gleichzeitig liegt ein eingeschriebener Elternbrief mit zweiwöchiger Frist zur Benotung vor, die Direktion fragt nach beiden Fällen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §44",
+      "LDG §29",
+      "SchUG §71"
+    ]
+  },
+  {
+    "aufloesung": "Bei Cybermobbing sichern Beweise, Opferschutz und Meldung den Fall, Löschen und Retourkutsche zerstören alles. Handyausgabe an Eltern ohne Verfahren und Wegnehmen beim Opfer sind falsch, weil nur die Kette mit Direktion hilft. Sichern, Melden und Betreuen laufen parallel. Zum Nachlesen: SchUG §44",
+    "hauptquelle": "SchUG §44",
+    "id": "X40-L3-009",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Beweise durch Screenshots sichern und nichts löschen lassen.",
+      "Betroffenes Kind betreuen und nicht allein lassen, Mitschüler beruhigen.",
+      "Alle Nachrichten sofort löschen, damit wieder Ruhe ist.",
+      "Klassenvorstand und Direktion mit Belegen informieren.",
+      "In der Gruppe wüst zurückschreiben, damit es aufhört.",
+      "Handy des Opfers wegnehmen und verstecken."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sichern erhält Nachweise für Klärung.",
+      "Richtig: Betreuung schützt das Kind sofort.",
+      "Falsch: Löschen vernichtet die einzigen Beweise.",
+      "Richtig: Meldung mit Belegen startet Verfahren.",
+      "Falsch: Retourkutsche macht dich selbst zum Täter.",
+      "Falsch: Wegnehmen bestraft das Opfer statt zu helfen."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Elternabend in Völs: Eine Mutter zeigt dir beleidigende Nachrichten und ein peinliches Foto ihres Sohnes in der Klassengruppe, ein Mitschüler droht mit Weiterverbreiten. Der Bub will nicht mehr in die Schule, deine Aufsichtsklasse wartet nebenan.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3",
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Krankenbetreuung, Supplieraufsicht und Medikamentenverbot müssen gleichzeitig bedient werden. Private Tabletten und Alleinlassen sind falsch, weil Gesundheit und Aufsicht parallel gelten. Betreuen, zweite Aufsicht über Direktion klären und Eltern kontaktieren. Zum Nachlesen: SchUG §15",
+    "hauptquelle": "SchUG §15",
+    "id": "X40-L3-010",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Krankes Kind betreut abseits lagern und nicht allein lassen.",
+      "Erziehungsberechtigte zur Abholung kontaktieren und Zettel sachlich prüfen.",
+      "Private Tablette aus der Tasche geben, wie im Zettel erbeten.",
+      "Supplierklasse sichern, Direktion um Ablöse oder Zusammenlegung bitten.",
+      "Raum lüften, Hygiene einhalten und Vorfall notieren.",
+      "Krankes Kind allein mit dem Bus nach Hause schicken."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Betreutes Abseits schützt Kind und Gruppe.",
+      "Richtig: Kontakt klärt Abholung und Medikamentenfrage.",
+      "Falsch: Private Medikamente sind untersagt trotz Zettel.",
+      "Richtig: Zweite Aufsicht über Leitung sichert beide Klassen.",
+      "Richtig: Lüften plus Notiz beruhigt und belegt.",
+      "Falsch: Heimschicken allein gefährdet das Kind."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Dritte Stunde in Jenbach: Lea, 7 Jahre, erbricht und glüht, die Mutter hat per Zettel um Fiebersaftgabe gebeten. Deine Supplierklasse im Nachbarraum ist seit zehn Minuten allein und wird laut, die Sekretärin ist besetzt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3",
+      "LDG §43"
+    ]
+  },
+  {
+    "aufloesung": "Bei Waffe plus Verletzung schützt zuerst Abstand zur Bedrohung, die Versorgung übernimmt die zweite Kraft. Selbst entwaffnen oder Vertuschen sind falsch, weil ein Griff Leben kostet. Klasse raus, Notruf, Direktion und Protokoll sichern alle Pflichten. Zum Nachlesen: LDG §29",
+    "hauptquelle": "LDG §29",
+    "id": "X40-L3-011",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Klasse ruhig aus dem Gefahrenbereich bringen und Abstand schaffen.",
+      "Direktion informieren und Notruf wählen, Lage an Profis übergeben.",
+      "Dem bedrohlichen Schüler die Waffe selbst entreißen und festhalten.",
+      "Zweite Person zur Versorgung des Verletzten am Gang einsetzen.",
+      "Vorfall mit Zeiten und Zeugen schriftlich dokumentieren.",
+      "Vorfall vertuschen, damit die Schule gut dasteht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abstand und Räumung schützen die Klasse.",
+      "Richtig: Notruf plus Direktion starten die Profikette.",
+      "Falsch: Selbst entwaffnen gefährdet alle.",
+      "Richtig: Arbeitsteilung löst die Pflichtenkollision.",
+      "Richtig: Protokoll sichert Anzeige und Aufarbeitung.",
+      "Falsch: Vertuschen ist pflichtwidrig und gefährlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vierte Klasse in Wörgl: Ein Schüler droht mit einem waffenähnlichen Gegenstand, die Klasse ist in Panik. Gleichzeitig blutet am Gang ein gestürztes Kind aus einer Nachbarklasse, du bist mit 26 Kindern im Raum, die Tür ist offen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3",
+      "SchUG §44"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, weil bei Kollision zuerst Menschenschutz vor Papier und erst danach Frist und Meldung kommen. Aufsicht und Versorgung dulden keinen Aufschub, Fristen werden über Direktion parallel gesichert. Papier zuerst gefährdet Kinder und verletzt die Dienstpflicht. Zum Nachlesen: LDG §29",
+    "hauptquelle": "LDG §29",
+    "id": "X40-L3-012",
+    "level": "L3",
+    "modul_id": "X40",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Papier vor Mensch kehrt alle Pflichten um.",
+      "Richtig erkannt: Sichern und Versorgen zuerst, Frist parallel über Leitung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer in Kufstein im Juni: Ein Kollege behauptet, bei Kollision von Aufsicht, Verletzung und Frist gelte immer Papier zuerst, also zuerst Berichte und Fristen erledigen und Kinder warten lassen, das sei dienstrechtlich verlangt.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3",
+      "SchUG §71"
+    ]
+  }
+]
