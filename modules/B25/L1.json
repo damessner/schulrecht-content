@@ -1,1 +1,423 @@
-[]
+[
+  {
+    "aufloesung": "Für Berger gelten 1 736 Jahresstunden als Jahresnorm. Wer den 43. Geburtstag vor dem 1. März des Schuljahres schon gefeiert hat, bekommt die niedrigere Norm, jüngere Lehrpersonen haben 1 776 Stunden. Zum Nachlesen: LDG §43 Abs.1.",
+    "hauptquelle": "LDG §43 Abs.1",
+    "id": "B25-L1-001",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "1 736 Jahresstunden, weil ihr 43. Geburtstag schon vor dem 1. März des Schuljahres lag.",
+      "1 776 Jahresstunden, das gilt für alle vollbeschäftigten Lehrpersonen gleich.",
+      "1 500 Jahresstunden, weil sie schon über 40 Jahre alt ist.",
+      "Die Jahresnorm wird jedes Jahr frei zwischen Direktion und Lehrerin vereinbart."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Über 43 mit Stichtag 1. März bedeutet die niedrigere Jahresnorm von 1 736 Stunden.",
+      "Falsch: 1 776 Stunden gelten nur für die jüngeren Lehrpersonen.",
+      "Falsch: Einen Abschlag auf 1 500 Stunden sieht das Gesetz nicht vor.",
+      "Falsch: Die Norm ist gesetzlich festgelegt und nicht frei verhandelbar."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Volksschullehrerin Berger ist 45 Jahre alt und vollbeschäftigt. Bei der Diensteinteilung fragt sie, welche Gesamt-Jahresnorm für sie in diesem Schuljahr gilt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Einteilung mit 700 Stunden ist zu niedrig und muss angehoben werden. An Volks- und Sonderschulen liegt die Unterrichtsverpflichtung zwischen 720 und 792 Jahresstunden. Zum Nachlesen: LDG §43 Abs.1 Z1.",
+    "hauptquelle": "LDG §43 Abs.1 Z1",
+    "id": "B25-L1-002",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "Ja, die Direktion darf die Unterrichtsstunden völlig frei festsetzen.",
+      "Nein, an der Volksschule beginnt die Unterrichtsverpflichtung erst bei 720 Jahresstunden.",
+      "Ja, 700 Stunden sind die goldene Mitte und daher immer zulässig.",
+      "Nein, er muss mindestens 792 Stunden unterrichten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Unterrichtsverpflichtung hat eine gesetzliche Untergrenze.",
+      "Richtig: 720 Stunden sind die Untergrenze für Volks- und Sonderschulen.",
+      "Falsch: Eine frei erfundene Mitte ersetzt die gesetzliche Bandbreite nicht.",
+      "Falsch: 792 Stunden sind die Obergrenze, nicht die Untergrenze."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Junglehrer Ebner an einer Volksschule bekommt eine Diensteinteilung mit 700 Stunden Unterricht im Jahr. Er fragt, ob das so stimmen kann.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Fuchs stehen 600 Stunden für Vorbereitung und Korrekturen zu. Auf jede Unterrichtsstunde entfallen fünf Sechstel einer Stunde für Vor- und Nachbereitung samt Korrekturarbeiten. Zum Nachlesen: LDG §43 Abs.1 Z2.",
+    "hauptquelle": "LDG §43 Abs.1 Z2",
+    "id": "B25-L1-003",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "600 Stunden, weil auf jede Unterrichtsstunde fünf Sechstel Vorbereitung entfallen.",
+      "720 Stunden, also genau gleich viel wie der Unterricht selbst.",
+      "360 Stunden, also die Hälfte der Unterrichtszeit.",
+      "Das ist frei wählbar und wird nicht fest eingeteilt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: 720 mal fünf Sechstel ergibt genau 600 Stunden Vorbereitung.",
+      "Falsch: Vorbereitung und Unterricht stehen im Verhältnis fünf zu sechs, nicht eins zu eins.",
+      "Falsch: Die Hälfte wäre deutlich zu wenig eingeteilt.",
+      "Falsch: Das Vorbereitungskontingent gehört verbindlich in die Diensteinteilung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Mittelschullehrerin Fuchs unterrichtet 720 Stunden im Jahr. Sie will wissen, wie viele Stunden für Vorbereitung und Korrekturen in ihrer Diensteinteilung stehen müssen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Kollegin hat recht und bekommt eine schriftliche Einteilung. Die Aufteilung der Jahresnorm ist zu Schulbeginn schriftlich festzulegen, und auch Änderungen während des Jahres sind schriftlich festzuhalten. Zum Nachlesen: LDG §43 Abs.1.",
+    "hauptquelle": "LDG §43 Abs.1",
+    "id": "B25-L1-004",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "Mündlich genügt, solange sich alle einig sind.",
+      "Die Aufteilung ist zu Schulbeginn schriftlich festzulegen, Änderungen ebenfalls schriftlich.",
+      "Schriftlich ist das nur bei Teilzeitkräften nötig.",
+      "Es reicht, wenn die Einteilung am Jahresende schriftlich zusammengefasst wird."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mündliche Absprachen und Zurufe erfüllen die Form nicht.",
+      "Richtig: Schriftlich zu Beginn plus schriftlich bei jeder Änderung lautet die Vorgabe.",
+      "Falsch: Die Schriftform gilt für alle Lehrpersonen gleich.",
+      "Falsch: Eine Zusammenfassung am Jahresende kommt viel zu spät."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Hofer teilt die Stunden mündlich im Oktober zu und ändert sie später per Zuruf ab. Eine Kollegin verlangt eine schriftliche Festlegung der Diensteinteilung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Graf findet seine Arbeit im 100-Stunden-Kontingent wieder. Für sonstige allgemeine Pflichten wie Konferenzen und Sprechtage sind 100 Jahresstunden vorgesehen. Zum Nachlesen: LDG §43 Abs.3 Z1.",
+    "hauptquelle": "LDG §43 Abs.3 Z1",
+    "id": "B25-L1-005",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "100 Jahresstunden für sonstige allgemeine lehramtliche Pflichten.",
+      "66 Jahresstunden, das ist das Kontingent für Konferenzen.",
+      "20 Jahresstunden, mehr ist für solche Aufgaben nicht vorgesehen.",
+      "Dafür gibt es kein eigenes Kontingent, das läuft nebenbei mit."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau 100 Stunden decken Konferenzen, Sprechtage und ähnliche Pflichten ab.",
+      "Falsch: 66 Stunden gehören dem Klassenvorstand und der Klassenführung.",
+      "Falsch: 20 Stunden sind das Vertretungskontingent, nicht dieses.",
+      "Falsch: Diese Aufgaben haben ein eigenes festes Stundenkontingent."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Graf übernimmt Konferenzen, Sprechtage und Elterngespräche an seiner Mittelschule. Er fragt, welches Stundenkontingent für solche allgemeinen Pflichten vorgesehen ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Hartl stehen 66 Jahresstunden für die Klassenführung zu. Für die Aufgaben des Klassenvorstandes und die Klassenführung sind 66 Jahresstunden in der Norm reserviert. Zum Nachlesen: LDG §43 Abs.3 Z2.",
+    "hauptquelle": "LDG §43 Abs.3 Z2",
+    "id": "B25-L1-006",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "66 Jahresstunden für Klassenvorstand und Klassenführung.",
+      "100 Jahresstunden, das ist das Klassenvorstands-Kontingent.",
+      "20 Jahresstunden, mehr gibt es für eine Klasse nicht.",
+      "Dafür gibt es nur Anerkennung, aber keine Stunden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: 66 Stunden sind fest für Klassenführung und Vorstandstätigkeit reserviert.",
+      "Falsch: 100 Stunden decken die sonstigen allgemeinen Pflichten ab.",
+      "Falsch: 20 Stunden sind das Vertretungskontingent.",
+      "Falsch: Die Vorstandstätigkeit ist mit einem eigenen Stundenkontingent hinterlegt."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Hartl wird Klassenvorständin einer dritten Klasse an einer Mittelschule. Sie fragt, wie viele Jahresstunden für Klassenführung und Vorstandsaufgaben vorgesehen sind.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Imhof muss weiter vertreten, erst 20 Stunden sind Pflicht. Für die Betreuung der Schülerinnen und Schüler bei Verhinderung einer Lehrperson sind 20 Jahresstunden ohne gesonderte Vergütung zu erbringen. Zum Nachlesen: LDG §43 Abs.3 Z3.",
+    "hauptquelle": "LDG §43 Abs.3 Z3",
+    "id": "B25-L1-007",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "Er muss im Jahr bis zu 20 Stunden Vertretungen ohne gesonderte Vergütung übernehmen.",
+      "Jede Vertretung ist freiwillig und kann jederzeit abgelehnt werden.",
+      "Jede einzelne Vertretungsstunde wird gesondert vergütet.",
+      "Vertretungen zählen doppelt, nach 10 Stunden ist er fertig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: 20 Stunden Vertretung im Jahr gehören unvergütet zur Norm.",
+      "Falsch: Vertretungen sind eine einklagbare Pflicht, keine Freiwilligenarbeit.",
+      "Falsch: Innerhalb des Kontingents gibt es keine eigene Vergütung.",
+      "Falsch: Jede Stunde zählt einfach, eine Doppelzählung gibt es nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Imhof hat heuer 15 Vertretungsstunden gehalten und weigert sich, weitere kranke Kolleginnen zu vertreten. Er meint, solche Vertretungen seien freiwillig.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Jäger kann die Fortbildung auf ihr Pflichtkontingent anrechnen. Für die Teilnahme an verpflichtenden Fortbildungen sind 15 Jahresstunden in der Norm vorgesehen. Zum Nachlesen: LDG §43 Abs.3 Z4.",
+    "hauptquelle": "LDG §43 Abs.3 Z4",
+    "id": "B25-L1-008",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "15 Jahresstunden für verpflichtende Fortbildungen.",
+      "66 Jahresstunden, Fortbildung läuft über das Vorstandskontingent.",
+      "20 Jahresstunden, Fortbildung zählt als Vertretung.",
+      "Fortbildung zählt nie zur Arbeitszeit und ist reine Freizeit."
+    ],
+    "pro_option_feedback": [
+      "Richtig: 15 Stunden sind eigens für verpflichtende Fortbildung reserviert.",
+      "Falsch: Das Vorstandskontingent hat mit Fortbildung nichts zu tun.",
+      "Falsch: Fortbildung ist keine Vertretung für verhinderte Kollegen.",
+      "Falsch: Verpflichtende Fortbildung ist Arbeitszeit mit eigenem Kontingent."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Jäger soll an einer zweitägigen Pflichtfortbildung zu neuem Lehrstoff teilnehmen. Sie fragt, welches Kontingent dafür in ihrer Jahresnorm steckt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Kaufmann bekommt jede dauerhafte Mehrstunde über dem Höchstausmaß gesondert vergütet. Für dauernde Überschreitung des höchsten Unterrichtsausmaßes gebührt eine besondere Vergütung anstelle der üblichen Nebengebühren. Zum Nachlesen: LDG §50 Abs.1.",
+    "hauptquelle": "LDG §50 Abs.1",
+    "id": "B25-L1-009",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "Ihm gebührt für jede solche Stunde eine besondere Vergütung statt der üblichen Nebengebühren.",
+      "Dauerhafte Mehrstunden sind mit dem Gehalt abgegolten.",
+      "Er bekommt dafür nur einen Dank der Direktion.",
+      "Dafür gibt es ausschließlich Freizeitausgleich, niemals Geld."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dauernde Überschreitung des Höchstausmaßes löst die besondere Vergütung aus.",
+      "Falsch: Gerade dauerhafte Mehrleistung ist gesondert zu vergüten.",
+      "Falsch: Ein Dank ersetzt den gesetzlichen Vergütungsanspruch nicht.",
+      "Falsch: Das Gesetz sieht hier Geld vor, wahlweise auch Gutschrift aufs Zeitkonto."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Mittelschullehrer Kaufmann unterrichtet laut Diensteinteilung das ganze Jahr über dauerhaft mehr als das höchste vorgesehene Unterrichtsausmaß. Er fragt, ob ihm dafür etwas zusteht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Leitner erhält pro Mehrstunde 1,30 Prozent ihres Gehalts. Ergänzungs-, Teuerungs-, Dienstalters- und Dienstzulagen zählen dabei zum Gehalt dazu. Zum Nachlesen: LDG §50 Abs.5.",
+    "hauptquelle": "LDG §50 Abs.5",
+    "id": "B25-L1-010",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "1,30 Prozent ihres Gehalts samt Zulagen pro gehaltener Mehrstunde.",
+      "Einen vollen Stundensatz wie eine Überstunde in der Privatwirtschaft.",
+      "Einen fixen Betrag von 50 Euro pro Stunde für alle.",
+      "Die Höhe legt die Direktion jedes Mal neu fest."
+    ],
+    "pro_option_feedback": [
+      "Richtig: 1,30 vom Hundert des Gehalts inklusive Zulagen lautet der Satz.",
+      "Falsch: Einen freien Stundensatz nach Privatwirtschaft gibt es nicht.",
+      "Falsch: Ein fixer Eurobetrag für alle steht nirgends.",
+      "Falsch: Der Satz ist gesetzlich fixiert, nicht Direktionsentscheidung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Leitner hat viele vergütete Mehrstunden gesammelt und fragt, wie hoch die Vergütung pro Stunde ausfällt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Mayr bekommt die zusätzlichen Vertretungsstunden vergütet. Wird das 20-Stunden-Kontingent durch Vertretungen überschritten, gebührt dafür die besondere Mehrdienstleistungsvergütung. Zum Nachlesen: LDG §50 Abs.4.",
+    "hauptquelle": "LDG §50 Abs.4",
+    "id": "B25-L1-011",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "Für jede Stunde über dem Kontingent gebührt ihm die besondere Mehrdienstleistungsvergütung.",
+      "Auch alle weiteren Vertretungen bleiben unvergütet.",
+      "Vergütet werden nur Vertretungen in der eigenen Klasse.",
+      "Die Vergütung gibt es erst ab der 50. Vertretungsstunde."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Über dem 20-Stunden-Kontingent wird jede Vertretungsstunde vergütet.",
+      "Falsch: Nur die ersten 20 Stunden sind unvergütet, der Rest nicht.",
+      "Falsch: Auf die Klasse kommt es nicht an, sondern auf die Überschreitung.",
+      "Falsch: Eine 50-Stunden-Schwelle sieht das Gesetz nicht vor."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Volksschullehrer Mayr hat sein 20-Stunden-Kontingent längst erfüllt und springt weiter für eine langfristig kranke Kollegin ein. Er fragt, was für die zusätzlichen Stunden gilt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Novak kann höchstens auf die Hälfte heruntergehen. Aus beliebigem Anlass ist die Herabsetzung bis auf die Hälfte zulässig, wenn keine wichtigen dienstlichen Interessen entgegenstehen. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "B25-L1-012",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "Die Herabsetzung ist nur bis auf die Hälfte der Vollbeschäftigung möglich, 40 Prozent gehen nicht.",
+      "Jedes Wunschausmaß zwischen 10 und 90 Prozent ist möglich.",
+      "Unter 80 Prozent darf niemand herabsetzen.",
+      "Der Antrag wirkt sofort, die Direktion muss immer zustimmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Hälfte ist die Untergrenze, darunter geht es aus beliebigem Anlass nicht.",
+      "Falsch: Beliebig heißt beim Grund, nicht beim Ausmaß.",
+      "Falsch: Eine 80-Prozent-Grenze sieht das Gesetz nicht vor.",
+      "Falsch: Ohne Prüfung wichtiger dienstlicher Interessen geht es nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Novak möchte aus privaten Gründen nur noch 40 Prozent unterrichten. Er stellt einen Antrag auf Herabsetzung aus beliebigem Anlass.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Ortners Antrag kann bewilligt werden. Zur Betreuung eines im Haushalt lebenden Kindes besteht Anspruch auf Herabsetzung bis zur Hälfte, längstens bis zur Vollendung des achten Lebensjahres, bei Antrag zwei Monate vorher. Zum Nachlesen: LDG §46 Abs.2.",
+    "hauptquelle": "LDG §46 Abs.2",
+    "id": "B25-L1-013",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "Die Herabsetzung ist möglich, weil Antrag, Haushalt, Eigenbetreuung und Alter des Kindes passen.",
+      "Das geht nicht, weil das Kind schon älter als drei ist.",
+      "Das geht nur bei Alleinerzieherinnen.",
+      "Der Antrag muss ein volles Jahr vorher gestellt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Alle Voraussetzungen von Antrag bis Kindesalter sind hier erfüllt.",
+      "Falsch: Die Grenze liegt beim achten Lebensjahr, nicht beim dritten.",
+      "Falsch: Auf den Familienstand kommt es nicht an, sondern auf Haushalt und Betreuung.",
+      "Falsch: Zwei Monate vor dem Wunschtermin genügen für den Antrag."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Ortner hat eine fünfjährige Tochter, die bei ihr wohnt und die sie überwiegend selbst betreut. Sie beantragt drei Monate vorher eine Herabsetzung auf die Hälfte.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Pichler kann Pflegeteilzeit bekommen. Für mindestens einen und höchstens drei Monate ist eine Herabsetzung bis auf ein Viertel möglich, wenn keine wichtigen dienstlichen Interessen entgegenstehen. Zum Nachlesen: LDG §46a Abs.1.",
+    "hauptquelle": "LDG §46a Abs.1",
+    "id": "B25-L1-014",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "Pflegeteilzeit für ein bis drei Monate bis auf ein Viertel ist möglich, wenn dienstlich nichts dagegensteht.",
+      "Bei Pflege gibt es nur die volle Karenz, niemals eine Teilzeit.",
+      "Pflegeteilzeit gibt es nur für ein ganzes Jahr am Stück.",
+      "Die Direktion muss jeden Pflegeantrag ablehnen, weil Pflege Privatsache ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein bis drei Monate bis auf ein Viertel lautet der Rahmen für die Pflegeteilzeit.",
+      "Falsch: Gerade die befristete Teilzeit ist für die Pflege vorgesehen.",
+      "Falsch: Länger als drei Monate am Stück dauert die Pflegeteilzeit nicht.",
+      "Falsch: Abgelehnt wird nur bei wichtigen dienstlichen Interessen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Pichler muss seine verunglückte Mutter zwei Monate zu Hause pflegen und beantragt dafür eine Herabsetzung auf ein Viertel seiner Stunden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Quirin ist mit 24,25 Stunden voll ausgelastet. Für den praktischen Unterricht an Berufsschulen beträgt die volle Lehrverpflichtung 24,25 Wochenstunden. Zum Nachlesen: LDG §52 Abs.1.",
+    "hauptquelle": "LDG §52 Abs.1",
+    "id": "B25-L1-015",
+    "level": "L1",
+    "modul_id": "B25",
+    "optionen": [
+      "24,25 Wochenstunden, das ist die volle Lehrverpflichtung für praktischen Unterricht.",
+      "23 Wochenstunden wie in allen anderen Fachgruppen auch.",
+      "22 Wochenstunden, das gilt für alle Berufsschullehrer gleich.",
+      "20 Wochenstunden, der Rest ist freiwillig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Für die Fachgruppe mit praktischem Unterricht gelten 24,25 Stunden.",
+      "Falsch: 23 Stunden gelten nur für die beiden anderen Fachgruppen.",
+      "Falsch: 22 Stunden gelten nur für Religionslehrer an Berufsschulen.",
+      "Falsch: 20 Stunden wären eine deutliche Unterauslastung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Berufsschullehrer Quirin unterrichtet ausschließlich praktische Fächer in der Werkstätte. Er will wissen, wie viele Wochenstunden die volle Lehrverpflichtung in seiner Fachgruppe beträgt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

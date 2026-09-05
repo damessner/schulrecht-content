@@ -1,1 +1,512 @@
-[]
+[
+  {
+    "aufloesung": "Die Anordnung war unzulässig, die Checkliste lautet erst alle voll auslasten, nur dann Mehrleistung. An Volksschulen darf die Überschreitung grundsätzlich nicht angeordnet werden, solange nicht alle Vollbeschäftigten im Höchstausmaß und alle Teilzeitkräfte aliquot eingesetzt sind. Zum Nachlesen: LDG §50 Abs.8.",
+    "hauptquelle": "LDG §50 Abs.8",
+    "id": "B25-L2-001",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Vor der Anordnung müssen alle Vollbeschäftigten im Höchstausmaß der Unterrichtsverpflichtung eingesetzt sein.",
+      "Auch alle Teilzeitkräfte müssen mit ihrem aliquoten Anteil voll eingesetzt sein.",
+      "Angeordnet werden darf nur in zwingenden Ausnahmefällen für den Schulbetrieb.",
+      "Dauerhafte Mehrleistung darf an der Volksschule immer zuerst angeordnet werden.",
+      "Am einfachsten ist es, alles einer einzigen beliebten Kollegin anzuhängen.",
+      "Teilzeitkräfte bleiben bei der Prüfung außen vor."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Volle Auslastung aller Vollbeschäftigten ist die erste Voraussetzung.",
+      "Richtig: Auch Teilzeitkräfte zählen mit ihrem aliquoten Anteil mit.",
+      "Richtig: Nur zwingende Ausnahmen für den Schulbetrieb lassen die Anordnung zu.",
+      "Falsch: Gerade an der Volksschule ist die Anordnung grundsätzlich gesperrt.",
+      "Falsch: Bevorzugung Einzelner ersetzt die vorgeschriebene Reihenfolge nicht.",
+      "Falsch: Teilzeitkräfte sind ausdrücklich in die Prüfung einzubeziehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "An einer Volksschule ordnet die Direktion einer Lehrerin dauerhafte Mehrstunden an, obwohl zwei Kolleginnen noch Luft bis zum Höchstausmaß haben und eine Teilzeitkraft kaum eingesetzt ist. Das Kollegium prüft die Anordnung mit einer Checkliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Rath bekommt die Stunden über dem Kontingent vergütet, die Checkliste lautet erst Pflichtkontingent, dann Geld. Für Vertretungen über die 20 Stunden hinaus gebührt die besondere Vergütung, wobei zuerst Lehrpersonen heranzuziehen sind, die ihr Kontingent noch nicht erfüllt haben. Zum Nachlesen: LDG §50 Abs.4.",
+    "hauptquelle": "LDG §50 Abs.4",
+    "id": "B25-L2-002",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Die ersten 20 Vertretungsstunden im Jahr gehören unvergütet zur Jahresnorm.",
+      "Jede Vertretungsstunde über dem 20-Stunden-Kontingent wird besonders vergütet.",
+      "Zuerst sind Lehrpersonen heranzuziehen, die ihr Kontingent noch nicht erfüllt haben.",
+      "Alle Vertretungen bleiben immer unvergütet, egal wie viele es werden.",
+      "Vergütet wird nur, wer in der eigenen Klasse vertritt.",
+      "Die Vergütung setzt erst ab der 50. Vertretungsstunde ein."
+    ],
+    "pro_option_feedback": [
+      "Richtig: 20 Stunden Vertretung im Jahr sind unvergütete Pflicht.",
+      "Richtig: Über dem Kontingent greift die besondere Mehrdienstleistungsvergütung.",
+      "Richtig: Wer noch Luft im Kontingent hat, kommt zuerst dran.",
+      "Falsch: Über dem Kontingent gibt es sehr wohl Geld.",
+      "Falsch: Auf die Klasse kommt es nicht an, sondern auf das Kontingent.",
+      "Falsch: Eine 50-Stunden-Schwelle sieht das Gesetz nicht vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Rath hat heuer schon 30 Vertretungsstunden gehalten, weil eine Kollegin lange krank ist. Er prüft mit einer Checkliste, was für die Stunden über seinem Pflichtkontingent gilt und wer überhaupt heranzuziehen ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Kürzung der Vorstandstunden war falsch, die Checkliste lautet alles aliquot außer den 66 Stunden. Bei herabgesetzter Jahresnorm gelten die Stundenkontingente zwar aliquot, die 66 Stunden für Klassenvorstand und Klassenführung bleiben aber voll bestehen. Zum Nachlesen: LDG §47 Abs.3a.",
+    "hauptquelle": "LDG §47 Abs.3a",
+    "id": "B25-L2-003",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Unterrichtsverpflichtung und Vorbereitung werden bei Teilzeit anteilig gekürzt.",
+      "Auch die sonstigen Stundenkontingente gelten im herabgesetzten Prozentausmaß.",
+      "Die 66 Stunden für Klassenvorstand und Klassenführung bleiben voll bestehen.",
+      "Die Vorstandstunden werden wie alles andere einfach halbiert.",
+      "Bei Teilzeit entfällt der Klassenvorstand automatisch.",
+      "Die 66 Stunden verdoppeln sich bei Teilzeitkräften."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unterricht und Vorbereitung schrumpfen anteilig mit der Herabsetzung.",
+      "Richtig: Die übrigen Kontingente gelten im Prozentausmaß der Herabsetzung.",
+      "Richtig: Die 66 Vorstandstunden sind von der Aliquotierung ausdrücklich ausgenommen.",
+      "Falsch: Gerade die Vorstandstunden dürfen nicht einfach halbiert werden.",
+      "Falsch: Automatisch entfällt der Klassenvorstand bei Teilzeit nicht.",
+      "Falsch: Eine Verdoppelung der Stunden sieht das Gesetz nicht vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Teilzeitbeschäftigte Lehrerin Sailer mit 60 Prozent und eigener Klasse bekommt alle Stundenkontingente gekürzt, auch ihre Vorstandstunden halbiert die Direktion. Sie prüft, was bei Teilzeit wirklich aliquot wird.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Thaler darf nicht wie eine Vollzeitkraft zu Mehrdiensten eingeteilt werden, die Checkliste lautet Teilzeit schont. Teilzeitkräfte sind nach Möglichkeit seltener zu Mehrleistungen heranzuziehen als Vollzeitkräfte, außer sie wünschen selbst eine häufigere Heranziehung. Zum Nachlesen: LDG §47 Abs.4.",
+    "hauptquelle": "LDG §47 Abs.4",
+    "id": "B25-L2-004",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Teilzeitkräfte sind nach Möglichkeit seltener zu Mehrleistungen heranzuziehen als Vollzeitkräfte.",
+      "Nur wenn die Teilzeitkraft selbst öfter einspringen will, darf sie häufiger herangezogen werden.",
+      "Teilzeitkräfte müssen zuerst und am häufigsten alle Mehrdienste übernehmen.",
+      "Die Schonung gilt nur, wenn die Kollegin ausdrücklich darum bittet.",
+      "Die Pflicht zur Fortbildung bleibt von der Teilzeit unberührt.",
+      "In der Wiedereingliederungsteilzeit sind Mehrdienste fast ganz verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nach Möglichkeit trifft es Teilzeitkräfte seltener als Vollzeitkräfte.",
+      "Richtig: Der eigene Wunsch nach häufigerer Heranziehung ist die Ausnahme.",
+      "Falsch: Genau umgekehrt sind Teilzeitkräfte nach Möglichkeit zu schonen.",
+      "Falsch: Die Schonung gilt von Gesetzes wegen, nicht nur auf Zuruf.",
+      "Richtig: Fortbildungspflichten laufen trotz Teilzeit unverändert weiter.",
+      "Richtig: Dort ist nur eine Supplierstunde plus anteilige Supplierpflicht erlaubt."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Halbtagslehrerin Thaler wird ständig als Erste für Vertretungen und Zusatzstunden eingeteilt, Vollzeitkollegen seltener. Sie prüft, welche Schutzregeln für Teilzeitkräfte bei Mehrleistungen gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Ulmers Wunsch geht zu weit, die Checkliste lautet höchstens die Hälfte in ganzen Stunden. Aus beliebigem Anlass ist die Herabsetzung nur bis auf die Hälfte bei ganzen Unterrichtsstunden zulässig, für ein Jahr oder ein Mehrfaches, wenn keine wichtigen dienstlichen Interessen entgegenstehen. Zum Nachlesen: LDG §45 Abs.1 u. 2.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "B25-L2-005",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Die Herabsetzung ist nur bis auf die Hälfte der Vollbeschäftigung möglich.",
+      "Die verbleibende Unterrichtstätigkeit muss ganze Unterrichtsstunden umfassen.",
+      "Die Herabsetzung wird für ein Jahr oder ein Mehrfaches eines Jahres wirksam.",
+      "Wichtige dienstliche Interessen dürfen der Verwendung nicht entgegenstehen.",
+      "Jedes beliebige Wunschausmaß bis auf 10 Prozent ist möglich.",
+      "Der Antrag kann formlos sein und wirkt immer sofort."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Hälfte ist die Untergrenze aus beliebigem Anlass.",
+      "Richtig: Krumme Bruchteile von Stunden sind nicht zulässig.",
+      "Richtig: Die Dauer läuft in Jahresscheiben, nicht wochenweise.",
+      "Richtig: Entgegenstehende dienstliche Interessen blockieren die Herabsetzung.",
+      "Falsch: 10 Prozent liegen weit unter der zulässigen Hälfte.",
+      "Falsch: Antrag, Prüfung und Wirksamkeit folgen festen Regeln."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Ulmer beantragt aus privaten Gründen eine Herabsetzung auf 30 Prozent für ein halbes Jahr mit krummen Stundenzahlen. Er prüft mit einer Checkliste, welche Grenzen für seinen Antrag gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Veits Antrag hat gute Chancen, die Checkliste lautet Haushalt plus Eigenbetreuung plus Frist. Das Kind muss im Haushalt leben und überwiegend selbst betreut werden, der Antrag ist zwei Monate vorher zu stellen, und die Herabsetzung endet spätestens mit dem achten Geburtstag. Zum Nachlesen: LDG §46 Abs.2 u. 3.",
+    "hauptquelle": "LDG §46 Abs.3",
+    "id": "B25-L2-006",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Das Kind muss dem Haushalt der Lehrperson angehören.",
+      "Die Lehrperson muss das Kind überwiegend selbst betreuen wollen.",
+      "Der Antrag ist spätestens zwei Monate vor dem Wunschtermin zu stellen.",
+      "Spätestens mit der Vollendung des achten Lebensjahres endet die Herabsetzung.",
+      "Es genügt, wenn das Kind irgendwo anders wohnt.",
+      "Der Antrag kann noch am ersten Tag der Herabsetzung gestellt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der gemeinsame Haushalt ist eine Grundvoraussetzung.",
+      "Richtig: Überwiegende Eigenbetreuung muss gewollt und gegeben sein.",
+      "Richtig: Zwei Monate Vorlauf sind für den Antrag einzuhalten.",
+      "Richtig: Der achte Geburtstag ist die späteste Grenze.",
+      "Falsch: Ohne Haushaltszugehörigkeit gibt es diese Herabsetzung nicht.",
+      "Falsch: So kurzfristig ist der Antrag verspätet und unwirksam."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Veit will zur Betreuung seines sechsjährigen Sohnes, der bei ihm wohnt, auf die Hälfte herabsetzen. Er prüft mit einer Checkliste, welche Voraussetzungen er erfüllen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Wallner kann Pflegeteilzeit für zwei Monate bekommen, die Checkliste lautet kurz, befristet, einmalig. Möglich sind ein bis drei Monate bis auf ein Viertel, grundsätzlich einmal pro zu betreuender Person, wenn keine wichtigen dienstlichen Interessen entgegenstehen. Zum Nachlesen: LDG §46a Abs.1 u. 2.",
+    "hauptquelle": "LDG §46a Abs.1",
+    "id": "B25-L2-007",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Die Pflegeteilzeit dauert mindestens einen und höchstens drei Monate.",
+      "Die Herabsetzung kann bis auf ein Viertel der Vollbeschäftigung gehen.",
+      "Pro zu betreuender Person ist sie grundsätzlich nur einmal zulässig.",
+      "Wichtige dienstliche Interessen dürfen nicht entgegenstehen.",
+      "Sie dauert immer ein ganzes Jahr und kann beliebig oft wiederholt werden.",
+      "Bei Pflege gibt es nur die volle Karenz, niemals Teilzeit."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein bis drei Monate lautet der enge Zeitrahmen.",
+      "Richtig: Bis auf ein Viertel darf die Herabsetzung reichen.",
+      "Richtig: Einmal pro Person ist der Grundsatz, außer bei höherer Pflegestufe.",
+      "Richtig: Entgegenstehende dienstliche Interessen blockieren auch hier.",
+      "Falsch: Ein ganzes Jahr mit Wiederholung sieht das Gesetz nicht vor.",
+      "Falsch: Gerade die befristete Teilzeit ist für die Pflege vorgesehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Wallner muss ihren schwer erkrankten Vater zwei Monate zu Hause pflegen und beantragt eine Herabsetzung auf ein Viertel. Sie prüft mit einer Checkliste die Rahmenbedingungen der Pflegeteilzeit.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Xander kann stufenweise zurückkehren, die Checkliste lautet Arzt, halbe Last, fast keine Mehrdienste. Nach mindestens sechs Wochen Krankenstand und ärztlicher Untersuchung sind 45 bis 55 Prozent für ein bis sechs Monate möglich, Mehrdienste sind bis auf eine Supplierstunde unzulässig. Zum Nachlesen: LDG §46b Abs.1 u. 4.",
+    "hauptquelle": "LDG §46b Abs.1",
+    "id": "B25-L2-008",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Voraussetzung sind mindestens sechs Wochen ununterbrochener Krankenstand.",
+      "Vor Beginn braucht es eine ärztliche Untersuchung zur Zweckmäßigkeit.",
+      "Die Herabsetzung liegt zwischen 45 und 55 Prozent für ein bis sechs Monate.",
+      "Mehrdienste sind bis auf eine Supplierstunde plus anteilige Pflicht unzulässig.",
+      "Jeder Schnupfen von drei Tagen genügt für den Einstieg.",
+      "Währenddessen darf die Direktion beliebig viele Mehrstunden anordnen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sechs Wochen am Stück wegen Unfall oder Krankheit sind die Schwelle.",
+      "Richtig: Ohne ärztliche Untersuchung zur Zweckmäßigkeit geht es nicht los.",
+      "Richtig: Halbe Last im Korridor 45 bis 55 Prozent für ein bis sechs Monate lautet die Regel.",
+      "Richtig: Fast alle Mehrdienste sind in dieser Phase verboten.",
+      "Falsch: Drei Tage Schnupfen erfüllen die Sechs-Wochen-Schwelle nicht.",
+      "Falsch: Gerade in dieser Phase sind Mehrdienste fast ganz untersagt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Xander war acht Wochen wegen eines Bandscheibenvorfalls im Krankenstand und traut sich die volle Last noch nicht zu. Er prüft mit einer Checkliste die stufenweise Rückkehr in den Dienst.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Yilmaz kann ansparen und später verbrauchen, die Checkliste lautet rechtzeitig erklären, unwiderruflich, spät verbrauchen. Die Erklärung gilt fürs Unterrichtsjahr, ist bis 30. September abzugeben und unwiderruflich, der Verbrauch braucht Vollendung des 50. Lebensjahres und Antrag bis 1. März des Vorjahres. Zum Nachlesen: LDG §50 Abs.12 u. 15.",
+    "hauptquelle": "LDG §50 Abs.12",
+    "id": "B25-L2-009",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Die Erklärung gilt für ein Unterrichtsjahr und ist bis 30. September abzugeben.",
+      "Die Erklärung ist unwiderruflich und kann als Teilgutschrift aufs Zeitkonto gehen.",
+      "Der Verbrauch setzt die Vollendung des 50. Lebensjahres voraus.",
+      "Der Verbrauchsantrag kann nur bis 1. März des vorangehenden Jahres gestellt werden.",
+      "Die Erklärung kann jederzeit widerrufen und monatlich geändert werden.",
+      "Verbraucht werden kann schon mit 30 ohne jede Frist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Stichtag 30. September für das laufende Unterrichtsjahr lautet die Regel.",
+      "Richtig: Unwiderruflich wandern die Stunden ganz oder teilweise aufs Zeitkonto.",
+      "Richtig: Erst ab 50 darf die angesparte Zeit verbraucht werden.",
+      "Richtig: Der 1. März des Vorjahres ist die Antragsfrist für den Verbrauch.",
+      "Falsch: Unwiderruflich heißt gerade kein Widerruf und keine Monatsänderung.",
+      "Falsch: Mit 30 und ohne Frist gibt es keinen Verbrauch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Yilmaz leistet seit Jahren Mehrdienste und will sie statt einer Auszahlung für eine spätere Freistellung ansparen. Sie prüft mit einer Checkliste die Regeln für Erklärung und Verbrauch des Zeitkontos.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Zauner trägt eine echte Vertretungspflicht ohne Vergütung, die Checkliste lautet Leiterminderung plus Supplierpflicht. Erreicht der Leiter mit seinem Unterricht die Verpflichtung nicht, vertritt er Abwesende bis zum 36. Teil der Jahresverpflichtung wöchentlich, freigestellte Leiter im Ausmaß der fiktiven Verpflichtung. Zum Nachlesen: LDG §51 Abs.7.",
+    "hauptquelle": "LDG §51 Abs.7",
+    "id": "B25-L2-010",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Leiter über sieben Klassen sind von der regelmäßigen Unterrichtserteilung befreit.",
+      "Erreicht der Leiter seine Unterrichtsverpflichtung nicht, vertritt er Abwesende bis zum 36. Teil wöchentlich.",
+      "Diese Vertretungspflicht besteht ohne Anspruch auf Mehrdienstleistungsvergütung.",
+      "Freigestellte Leiter trifft die Pflicht im Ausmaß der fiktiven Verpflichtung.",
+      "Jeder Leiter muss immer die Hälfte aller Stunden selbst unterrichten.",
+      "Jede Leitungsvertretung wird automatisch vergütet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Über sieben Klassen bedeutet Befreiung vom regelmäßigen Unterricht.",
+      "Richtig: Der 36. Teil der Jahresverpflichtung lautet die wöchentliche Grenze.",
+      "Richtig: Diese Vertretungen sind unvergütete Leiterpflicht.",
+      "Richtig: Auch Freigestellte vertreten im Ausmaß der gedachten Verpflichtung.",
+      "Falsch: Eine starre Hälfte für jeden Leiter sieht das Gesetz nicht vor.",
+      "Falsch: Gerade diese Vertretungspflicht ist ausdrücklich unvergütet."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Leiter Zauner einer großen Pflichtschule unterrichtet kaum noch selbst und weigert sich, für erkrankte Kolleginnen einzuspringen. Das Kollegium prüft mit einer Checkliste Unterrichts- und Vertretungspflichten der Leitung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Bergers Einteilung folgt dem Baukasten Unterricht plus Vorbereitung plus Rest, die Checkliste lautet drei Töpfe. Die Jahresnorm verteilt sich auf Unterrichtsstunden, fünf Sechstel davon für Vorbereitung und Korrekturen sowie den Restbetrag für sonstige Tätigkeiten. Zum Nachlesen: LDG §43 Abs.1.",
+    "hauptquelle": "LDG §43 Abs.1",
+    "id": "B25-L2-011",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Ein Topf ist die Unterrichtsverpflichtung im Kontakt mit den Schülern.",
+      "Ein Topf sind fünf Sechstel pro Unterrichtsstunde für Vorbereitung und Korrekturen.",
+      "Der Restbetrag deckt die sonstigen Tätigkeiten nach dem Aufgabenkatalog ab.",
+      "Die Einteilung erfolgt schriftlich zu Schulbeginn unter Beachtung von Klassen und Stundentafel.",
+      "Die Aufteilung würfelt die Direktion jeden Monat neu aus.",
+      "Feiertage werden oben auf die Jahresnorm noch draufgeschlagen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unterricht im Kontakt mit Schülern ist der erste Topf.",
+      "Richtig: Fünf Sechstel pro Stunde bilden den zweiten Topf.",
+      "Richtig: Der Differenzbetrag füllt den dritten Topf für sonstige Aufgaben.",
+      "Richtig: Schriftlich zu Beginn nach Klassen und Stundentafel lautet die Vorgabe.",
+      "Falsch: Monatliches Auswürfeln sieht das Gesetz nicht vor.",
+      "Falsch: Feiertage sind in der Norm schon berücksichtigt, nicht extra obenauf."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Junglehrerin Berger versteht ihre erste Diensteinteilung nicht und will wissen, aus welchen Bausteinen sich ihre Jahresnorm zusammensetzt. Eine Mentorin geht mit ihr die Einteilung als Checkliste durch.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Canders Einteilung ist vollständig, die Checkliste lautet 100, 66, 20, 15 plus Rest. Für allgemeine Pflichten stehen 100, für den Klassenvorstand 66, für Vertretungen 20 und für Pflichtfortbildung 15 Stunden bereit, der Rest deckt besondere Tätigkeiten im Berufsfeld ab. Zum Nachlesen: LDG §43 Abs.3.",
+    "hauptquelle": "LDG §43 Abs.3",
+    "id": "B25-L2-012",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "100 Stunden decken die sonstigen allgemeinen Pflichten wie Konferenzen ab.",
+      "66 Stunden sind für Klassenvorstand und Klassenführung reserviert.",
+      "20 Stunden sind für Vertretungen bei Verhinderung zu erbringen.",
+      "15 Stunden gelten für verpflichtende Fortbildungen.",
+      "Der Rest füllt besondere Tätigkeiten wie Sammlungen und Schulveranstaltungen.",
+      "Für Aufsicht gibt es einen eigenen großen Extratopf von 100 Stunden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: 100 Stunden lautet das Kontingent für allgemeine Pflichten.",
+      "Richtig: 66 Stunden gehören fest dem Klassenvorstand.",
+      "Richtig: 20 Stunden Vertretung sind unvergütete Pflicht.",
+      "Richtig: 15 Stunden sind für Pflichtfortbildung vorgesehen.",
+      "Richtig: Sammlungen, Foren und Veranstaltungen füllen den Rest auf.",
+      "Falsch: Die Aufsicht ist schon im Unterrichtstopf enthalten, nicht extra."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Cander bekommt seine Diensteinteilung und will prüfen, ob alle Töpfe für Aufgaben neben dem Unterricht darin vorkommen. Er geht die sonstigen Stundenkontingente als Checkliste durch.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Dorfer ist mit 23 Stunden voll ausgelastet, die Checkliste lautet 23, 23, 24,25. In den ersten beiden Fachgruppen beträgt die volle Lehrverpflichtung 23 Wochenstunden, im praktischen Unterricht 24,25 Stunden, mit begrenzter Minderung bei Schularbeitenfächern. Zum Nachlesen: LDG §52 Abs.1 u. 3.",
+    "hauptquelle": "LDG §52 Abs.1",
+    "id": "B25-L2-013",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "In der ersten Fachgruppe mit allgemeinem Unterricht gelten 23 Wochenstunden.",
+      "In der zweiten Fachgruppe mit Fachtheorie gelten ebenfalls 23 Wochenstunden.",
+      "Im praktischen Unterricht der dritten Fachgruppe gelten 24,25 Wochenstunden.",
+      "Bei Schularbeitenfächern mindert sich die Verpflichtung begrenzt, höchstens vier Stunden.",
+      "In allen Fachgruppen gelten einheitlich 20 Wochenstunden.",
+      "Religionslehrer haben 30 Wochenstunden zu unterrichten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: 23 Stunden lautet die volle Verpflichtung in der ersten Fachgruppe.",
+      "Richtig: Auch in der zweiten Fachgruppe gelten 23 Stunden.",
+      "Richtig: Praktischer Unterricht bedeutet 24,25 Stunden volle Verpflichtung.",
+      "Richtig: Die Schularbeitenminderung ist auf höchstens vier Stunden gedeckelt.",
+      "Falsch: Einheitliche 20 Stunden gibt es in keiner Fachgruppe.",
+      "Falsch: Religionslehrer haben 22 Stunden, nicht 30."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Berufsschullehrer Dorfer unterrichtet Betriebswirtschaft und fragt, welche volle Lehrverpflichtung für ihn gilt und wie es in den anderen Fachgruppen aussieht. Er vergleicht die Fachgruppen als Checkliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Ebers Mehrvergütung schrumpft für die kranke Woche, die Checkliste lautet pro Fehltag ein Fünftel weniger. Bei Abwesenheit wegen Krankheit oder Pflegefreistellung vermindert sich die Wochenvergütung für dauernde Mehrdienste um ein Fünftel je Fehltag, bei sechs Unterrichtstagen um ein Sechstel. Zum Nachlesen: LDG §50 Abs.9.",
+    "hauptquelle": "LDG §50 Abs.9",
+    "id": "B25-L2-014",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Trotz Krankheit bleibt die Vergütung für dauernde Mehrdienste grundsätzlich bestehen.",
+      "Pro krankem Tag schrumpft die Wochenvergütung um ein Fünftel.",
+      "Bei Lehrpersonen mit bis zu sechs Unterrichtstagen gilt ein Sechstel pro Tag.",
+      "Bei Krankheit verfällt die gesamte Mehrvergütung des Jahres.",
+      "Krankheitstage erhöhen die Mehrvergütung sogar noch.",
+      "Pflegefreistellung ist von der Kürzung ausdrücklich ausgenommen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Krankheit streicht die Mehrvergütung nicht ganz, sie mindert sie nur.",
+      "Richtig: Ein Fünftel Abzug je Fehltag lautet die Wochenregel.",
+      "Richtig: Bei sechs Unterrichtstagen rechnet man mit Sechsteln.",
+      "Falsch: Das ganze Jahr verfällt wegen einer kranken Woche nicht.",
+      "Falsch: Krankheitstage erhöhen die Vergütung ganz sicher nicht.",
+      "Falsch: Pflegefreistellung löst genau dieselbe Kürzung aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Eber bezieht eine Vergütung für dauernde Mehrdienste und war in einer Woche zwei Tage krank. Er prüft mit einer Checkliste, was mit seiner Mehrvergütung in der kranken Woche passiert.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Finks Ansuchen passt in zwei Jahren, die Checkliste lautet Grund plus Maß plus Frist. Aus Gesundheitsgründen ist höchstens die Hälfte bei mindestens 360 Stunden Unterricht möglich, insgesamt höchstens zwei Jahre, aus öffentlichem Praxisinteresse höchstens fünf Jahre. Zum Nachlesen: LDG §44 Abs.3 u. 4.",
+    "hauptquelle": "LDG §44 Abs.3",
+    "id": "B25-L2-015",
+    "level": "L2",
+    "modul_id": "B25",
+    "optionen": [
+      "Aus Gesundheitsgründen ist höchstens die Hälfte der Norm herabsetzbar.",
+      "Dabei müssen mindestens 360 Stunden Unterricht im Jahr übrig bleiben.",
+      "Aus Gesundheitsgründen sind insgesamt höchstens zwei Jahre zulässig.",
+      "Aus öffentlichem Praxisinteresse sind insgesamt höchstens fünf Jahre zulässig.",
+      "Aus Gesundheitsgründen sind unbegrenzt viele Jahre möglich.",
+      "Bei Herabsetzung darf der Unterricht ganz auf null sinken."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mehr als die Hälfte darf aus Gesundheitsgründen nicht wegfallen.",
+      "Richtig: 360 Stunden Unterricht sind die absolute Untergrenze dabei.",
+      "Richtig: Zwei Jahre insgesamt lautet die Frist für Gesundheitsgründe.",
+      "Richtig: Fünf Jahre insgesamt lautet die Frist für das Praxisinteresse.",
+      "Falsch: Unbegrenzt läuft keine dieser Herabsetzungen.",
+      "Falsch: Dauerhafter Unterricht in wenigstens einem Gegenstand muss bleiben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Fink beantragt aus gesundheitlichen Gründen für zwei Jahre eine Herabsetzung um ein Drittel. Sie prüft mit einer Checkliste, welche Grenzen für Ausmaß und Dauer solcher Ansuchen gelten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]
