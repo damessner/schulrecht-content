@@ -1,1 +1,271 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §50 Abs.9",
+    "id": "B25-L4-001",
+    "level": "L4",
+    "modul_id": "B25",
+    "optionen": [
+      "Lenz bekommt die volle Vergütung, weil er die Bescheinigung nachgebracht hat.",
+      "Die Vergütung kürzt sich um zwei Fünftel und die unterbliebene Sofortmeldung verletzt die Meldepflicht.",
+      "Bei Krankheit entfällt die Mehrvergütung für das gesamte Schuljahr.",
+      "Kranke müssen sich erst nach der Genesung melden, vorher gilt Funkstille."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Nachbringung heilt weder die Kürzung noch den Meldeverstoß.",
+      "Richtig: Pro Fehltag entfällt ein Fünftel und die Abwesenheit ist unverzüglich zu melden.",
+      "Falsch: Gekürzt wird nur die betroffene Woche und nur anteilig.",
+      "Falsch: Die Meldung samt Rechtfertigung ist unverzüglich geschuldet."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Mittelschullehrer Lenz bezieht eine Vergütung für dauernde Mehrdienste und fehlt in einer Woche zwei Tage krank, ohne sich zu melden. Nach seiner Rückkehr legt er die Bescheinigung vor und verlangt die volle Wochenvergütung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Lenz verliert zwei Fünftel der Wochenvergütung und hat die Meldepflicht verletzt. Bei Erkrankung bleibt die Mehrvergütung bestehen, schrumpft aber um ein Fünftel je Fehltag, und jede Abwesenheit ist unverzüglich zu melden und zu rechtfertigen. Zum Nachlesen: LDG §50 Abs.9.",
+    "zusatzquellen": [
+      "LDG §35 Abs.1"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §43 Abs.4",
+    "id": "B25-L4-002",
+    "level": "L4",
+    "modul_id": "B25",
+    "optionen": [
+      "Martini durfte ablehnen, weil nur Fächer der eigenen Lehrbefähigung zu halten sind.",
+      "Martini verletzt seine Dienstpflicht, weil er die angeordnete Vertretung verweigert hat.",
+      "Eine Weigerung ist nur ein Höflichkeitsproblem ohne rechtliche Folgen.",
+      "Die Direktion hätte die Stunde ausfallen lassen müssen statt Martini einzuteilen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erforderlichenfalls ist auch in anderen Fächern zu unterrichten und zu vertreten.",
+      "Richtig: Auch fachfremder Unterricht und Vertretungsstunden gehören erforderlichenfalls zu seinen Pflichten.",
+      "Falsch: Die schuldhafte Pflichtverletzung ist gerade der Anknüpfungspunkt für Disziplinarfolgen.",
+      "Falsch: Die Einteilung zur Vertretung war zulässig, die Weigerung war es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Martini weigert sich, eine angeordnete Vertretungsstunde in einem Fach zu halten, für das er nicht ausgebildet ist, und bleibt stattdessen im Konferenzzimmer. Die Klasse bleibt eine Stunde ohne Aufsicht. Die Direktion spricht von einer Dienstpflichtverletzung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Martinis Weigerung ist eine Dienstpflichtverletzung. Erforderlichenfalls gehören auch fachfremder Unterricht und Vertretungsstunden zu seinen Pflichten, und ihre Verweigerung kann disziplinarrechtliche Folgen auslösen. Zum Nachlesen: LDG §43 Abs.4.",
+    "zusatzquellen": [
+      "LDG §69"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §47 Abs.3a",
+    "id": "B25-L4-003",
+    "level": "L4",
+    "modul_id": "B25",
+    "optionen": [
+      "Neuner schuldet gar keine Vertretung, weil Teilzeitkräfte ausgenommen sind.",
+      "Neuner schuldet nur die anteiligen zwölf Stunden, muss aber jede Abwesenheit unverzüglich melden.",
+      "Neuner muss alle 20 Stunden leisten, Teilzeit ändert am Kontingent nichts.",
+      "Kommentarloses Zuhausebleiben ist bei Teilzeitkräften immer gerechtfertigt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Supplierverpflichtung trifft ihn anteilig, also im halben Ausmaß.",
+      "Richtig: Bei halber Jahresnorm gilt das halbe Kontingent und Fernbleiben ohne Meldung ist nicht gerechtfertigt.",
+      "Falsch: Die sonstigen Stundenkontingente gelten im herabgesetzten Prozentausmaß.",
+      "Falsch: Ohne unverzügliche Meldung mit Rechtfertigung fehlt jede Grundlage für gerechtfertigt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Neuner mit halber Jahresnorm wird für 20 Vertretungsstunden im Jahr eingeteilt wie eine Vollzeitkraft. Nach zwölf Stunden verweigert er jede weitere Vertretung und bleibt beim nächsten Einsatz kommentarlos zu Hause. Die Direktion wertet alles als ungerechtfertigtes Fernbleiben.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Neuner schuldet zwölf Vertretungsstunden, sein Fernbleiben war trotzdem pflichtwidrig. Das Vertretungskontingent gilt bei halber Jahresnorm nur anteilig, doch jede Abwesenheit ist unverzüglich zu melden und zu rechtfertigen. Zum Nachlesen: LDG §47 Abs.3a.",
+    "zusatzquellen": [
+      "LDG §35 Abs.1",
+      "LDG §43 Abs.3"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §49a Abs.1",
+    "id": "B25-L4-004",
+    "level": "L4",
+    "modul_id": "B25",
+    "optionen": [
+      "Ortner durfte fernbleiben, weil Leitungsaufgaben freiwillig sind.",
+      "Ortner verletzt Diensteinteilung und Meldepflicht, weil sie unentschuldigt fehlt.",
+      "Die Leiterin hätte ihre Abwesenheitstage streichen müssen statt Ortner zu betrauen.",
+      "Eine Meldung war unnötig, weil die Schule auch ohne Vertretung läuft."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die teilbetraute Lehrerin hat die Leitungsaufgaben während der Abwesenheit wahrzunehmen.",
+      "Richtig: Die Vertretung der Leitung gehört zu ihrer Einteilung und jede Abwesenheit ist unverzüglich zu melden.",
+      "Falsch: Für herabgesetzte Leitungen ist gerade eine teilbetraute Vertretung vorgesehen.",
+      "Falsch: Auf den Betriebsablauf kommt es nicht an, die Meldepflicht gilt immer."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Die Schulleiterin ist wegen einer Herabsetzung tageweise abwesend, die teilbetraute Lehrerin Ortner soll laut Diensteinteilung die anfallenden Leitungsaufgaben übernehmen. Ortner erscheint an zwei Vertretungstagen kommentarlos nicht und erklärt später, Leitung gehe sie nichts an.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Ortners Fernbleiben verletzt Einteilung und Meldepflicht. Die teilbetraute Lehrerin nimmt während der Abwesenheit der Leitung die Leitungsaufgaben wahr, und jede Abwesenheit ist unverzüglich zu melden und zu rechtfertigen. Zum Nachlesen: LDG §49a Abs.1.",
+    "zusatzquellen": [
+      "LDG §35 Abs.1"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §46b Abs.1",
+    "id": "B25-L4-005",
+    "level": "L4",
+    "modul_id": "B25",
+    "optionen": [
+      "Voraussetzung sind mindestens sechs Wochen ununterbrochene Dienstverhinderung durch Unfall oder Krankheit.",
+      "Die Rückkehr muss spätestens einen Monat nach dem Ende der Verhinderung angetreten werden.",
+      "Vor Beginn braucht es eine ärztliche Untersuchung zur Dienstfähigkeit und zur Zweckmäßigkeit.",
+      "Der Antrag kann auch noch ein halbes Jahr nach der Rückkehr gestellt werden.",
+      "Während der Rückkehrphase dürfen beliebig viele Mehrdienstleistungen angeordnet werden.",
+      "Eine Herabsetzung auf ein Viertel der Lehrverpflichtung ist in dieser Phase möglich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst ab sechs Wochen ununterbrochener Verhinderung öffnet sich diese Rückkehrform.",
+      "Richtig: Spätestens einen Monat nach dem Ende muss die Phase angetreten werden.",
+      "Richtig: Ohne vorherige Untersuchung zu Fähigkeit und Zweckmäßigkeit geht es nicht.",
+      "Falsch: Nach einem halben Jahr ist die Antragsfrist längst verstrichen.",
+      "Falsch: Mehrdienste sind fast ganz verboten, nur eine Supplierstunde bleibt.",
+      "Falsch: Zulässig sind nur 45 bis 55 Prozent der Lehrverpflichtung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Pall war neun Wochen ununterbrochen krank und will mit halber Lehrverpflichtung schrittweise wieder einsteigen. Er stellt den Antrag fünf Wochen nach seiner Rückkehr und lehnt die ärztliche Untersuchung als Schikane ab. Das Kollegium prüft die Voraussetzungen der schrittweisen Rückkehr. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Palls Rückkehrplan scheitert an Frist und Untersuchung. Die schrittweise Rückkehr braucht sechs Wochen Verhinderung, einen Antritt binnen eines Monats danach und eine vorherige ärztliche Untersuchung, und sein Antrag kommt zu spät. Zum Nachlesen: LDG §46b Abs.1.",
+    "zusatzquellen": [
+      "LDG §46b Abs.2",
+      "LDG §46b Abs.4"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §51a Abs.1",
+    "id": "B25-L4-006",
+    "level": "L4",
+    "modul_id": "B25",
+    "optionen": [
+      "Die Verwendung setzt eine freiwillige, verbindliche Anmeldung voraus.",
+      "36 geleistete Sommerschulstunden entsprechen einer Wochenstunde Einrechnung im nächsten Jahr.",
+      "Wer angemeldet ist und kommentarlos fehlt, verletzt die Anwesenheits- und Meldepflichten.",
+      "Die Direktion kann Lehrkräfte zwangsweise zur Sommerschule einteilen.",
+      "Der Sommerschulstandort ist dienstrechtlich bedeutungslos.",
+      "Die Stammschulleitung bleibt während der Sommerschule vorgesetzt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur die freiwillige verbindliche Anmeldung trägt die Verwendung.",
+      "Richtig: Genau dieser Schlüssel rechnet Sommerschulstunden in die Unterrichtsverpflichtung ein.",
+      "Richtig: Angemeldeter Dienst verlangt Anwesenheit und bei Verhinderung unverzügliche Meldung.",
+      "Falsch: Zwangseinteilungen gibt es nicht, die Anmeldung ist freiwillig.",
+      "Falsch: Der Sommerschulstandort gilt ausdrücklich als Dienstort.",
+      "Falsch: Vorgesetzt ist die Leitung am Sommerschulstandort."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Rinner meldet sich verbindlich zur Sommerschule an und erscheint in der zweiten Woche kommentarlos nicht. Sie meint, die Anmeldung sei unverbindlich gewesen und dort gälten ohnehin keine Dienstpflichten. Die Sommerschulleitung prüft die Regeln. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Rinners Fernbleiben war pflichtwidrig. Die Sommerschule beruht auf freiwilliger verbindlicher Anmeldung, danach gelten die Unterrichtspflichten am Sommerschulstandort als Dienstort, und Fehlen ohne Meldung verletzt die Dienstpflichten. Zum Nachlesen: LDG §51a Abs.1.",
+    "zusatzquellen": [
+      "LDG §51a Abs.3",
+      "LDG §35 Abs.1"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §52 Abs.1",
+    "id": "B25-L4-007",
+    "level": "L4",
+    "modul_id": "B25",
+    "optionen": [
+      "In der Fachgruppe III des praktischen Unterrichts beträgt die Lehrverpflichtung 24,25 Wochenstunden.",
+      "Die Gesamtminderung der Lehrverpflichtung ist mit vier Wochenstunden gedeckelt.",
+      "Die Suppliervergütung gebührt schon ab der ersten Vertretungsstunde pro Woche.",
+      "Für Betriebswirtschaft gelten 20 Wochenstunden als volle Lehrverpflichtung.",
+      "Religionslehrer an Berufsschulen haben 23 Wochenstunden.",
+      "Das 20-Stunden-Supplierkontingent der Pflichtschulen gilt an Berufsschulen gleich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Für den praktischen Unterricht gilt das höhere Wochenstundenausmaß.",
+      "Richtig: Mehr als vier Wochenstunden Minderung sind insgesamt nicht möglich.",
+      "Richtig: An Berufsschulen zahlt jede Supplierstunde ab der ersten Stunde.",
+      "Falsch: Betriebswirtschaft gehört zur Fachgruppe I mit 23 Wochenstunden.",
+      "Falsch: Religionslehrer an Berufsschulen haben 22 Wochenstunden.",
+      "Falsch: Das Pflichtschul-Kontingent gilt an Berufsschulen gerade nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Berufsschullehrer Sailer unterrichtet Betriebswirtschaft und Werkstätte an zwei Schulen und vertritt oft kranke Kollegen. Er will wissen, welche Lehrverpflichtung für ihn gilt und ab wann Vertretungen bezahlt werden. Das Kollegium vergleicht mit den Pflichtschulregeln. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Sailer steht mit 23 und 24,25 Wochenstunden im Dienst und jede Vertretung zahlt sich aus. Betriebswirtschaft und Werkstätte haben unterschiedliche Ausmaße, die Minderungen sind bei vier Stunden gedeckelt und die Suppliervergütung gebührt ab der ersten Stunde. Zum Nachlesen: LDG §52 Abs.1.",
+    "zusatzquellen": [
+      "LDG §52 Abs.3",
+      "LDG §52 Abs.20"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §69",
+    "id": "B25-L4-008",
+    "level": "L4",
+    "modul_id": "B25",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Ungerechtfertigtes Fernbleiben ist eine Dienstpflichtverletzung mit möglichen Disziplinarfolgen.",
+      "Richtig erkannt: Neben der Vergütungskürzung droht ein Disziplinarverfahren bei schuldhafter Pflichtverletzung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, wer ohne Rechtfertigung vom Dienst fernbleibt, müsse nur mit einem Abzug bei der Mehrdienstvergütung rechnen, disziplinar könne dabei niemals etwas passieren.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, ungerechtfertigtes Fernbleiben kann disziplinar verfolgt werden. Die Vergütungskürzung betrifft nur Erkrankung oder Pflegefreistellung, doch schuldhaftes Fernbleiben ohne Rechtfertigung ist eine Dienstpflichtverletzung. Zum Nachlesen: LDG §69.",
+    "zusatzquellen": [
+      "LDG §35 Abs.1",
+      "LDG §50 Abs.9"
+    ]
+  }
+]

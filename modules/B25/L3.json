@@ -1,1 +1,392 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §43 Abs.2",
+    "id": "B25-L3-001",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Die Direktion hat recht, die Untergrenzen sind ausnahmslos fix und unantastbar.",
+      "Auer kann mit weniger Unterricht eingeteilt werden, weil die Bibliotheksbetreuung ausdrücklich als Grund für eine Unterschreitung genannt ist.",
+      "Eine Unterschreitung ist nur möglich, wenn Auer gleichzeitig auf einen Teil seiner Bezüge verzichtet.",
+      "Statt einer Unterschreitung muss Auer zusätzliche Mehrdienstleistungen übernehmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: In besonders berücksichtigungswürdigen Fällen darf innerhalb der Jahresnorm unterschritten werden.",
+      "Richtig: Genau diese Betreuungsaufgabe ist als Beispiel für eine zulässige Unterschreitung angeführt.",
+      "Falsch: Die Unterschreitung erfolgt innerhalb der Jahresnorm und hängt an keinem Gehaltsverzicht.",
+      "Falsch: Mehrleistungen sind die gegenteilige Maßnahme und lösen diesen Fall nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "An einer Mittelschule betreut Lehrer Auer seit Jahren die Schulbibliothek und beantragt, dafür mit etwas weniger Unterricht eingeteilt zu werden. Die Direktion lehnt jede Unterschreitung der Untergrenze rundweg ab und behauptet, das Stundenausmaß sei absolut fix. Auer hält dagegen, gerade solche Aufgaben seien als Ausnahme vorgesehen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Auer kann für die Bibliothek mit weniger Unterricht eingeteilt werden. In besonders berücksichtigungswürdigen Fällen dürfen die Untergrenzen innerhalb der Jahresnorm unterschritten werden, und die Betreuung einer Schulbibliothek ist dafür ausdrücklich genannt. Zum Nachlesen: LDG §43 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §43 Abs.5",
+    "id": "B25-L3-002",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Brunner muss beide Zuteilungen hinnehmen, eine Zustimmung ist nirgends nötig.",
+      "Beide Zuteilungen brauchen Brunners Zustimmung, ohne sie sind sie unzulässig.",
+      "Nur die Freizeitbetreuung braucht Zustimmung, die individuelle Lernzeit darf angeordnet werden.",
+      "Brunner darf die individuelle Lernzeit ablehnen, den Freizeitbereich muss sie aber übernehmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sowohl individuelle Lernzeit als auch Freizeitbereich setzen die Zustimmung voraus.",
+      "Richtig: Beide Übertragungen sind ohne ihre Zustimmung unzulässig.",
+      "Falsch: Auch die individuelle Lernzeit darf nur mit Zustimmung übertragen werden.",
+      "Falsch: Auch der Freizeitbereich der Tagesbetreuung braucht ihre Zustimmung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Lehrerin Brunner an einer ganztägigen Mittelschule findet in ihrer Diensteinteilung gegen ihren Willen Stunden in der individuellen Lernzeit und zusätzlich einen Nachmittag im Freizeitbereich der Tagesbetreuung. Die Direktion meint, das gehöre heute einfach dazu. Brunner verweigert beide Zuteilungen ohne ihre Zustimmung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Beide Zuteilungen sind ohne Brunners Zustimmung unzulässig. Die individuelle Lernzeit darf einem Lehrer nur mit dessen Zustimmung übertragen werden, und auch die Beschäftigung im Freizeitbereich der Tagesbetreuung ist nur mit Zustimmung zulässig. Zum Nachlesen: LDG §43 Abs.5.",
+    "zusatzquellen": [
+      "LDG §43 Abs.6"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.1",
+    "id": "B25-L3-003",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Ceh bekommt die Vergütung, weil jede Stunde über dem Höchstausmaß automatisch zählt.",
+      "Ceh geht leer aus, weil sich die Überschreitung nur aus schulzeitrechtlichen oder kalendermäßigen Gründen ergibt.",
+      "Ceh bekommt statt Geld jedenfalls Freizeitausgleich in doppeltem Ausmaß.",
+      "Die Vergütung hängt davon ab, ob Ceh die Stunden gerne gehalten hat."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine rein kalendermäßig verursachte Überschreitung löst gerade keinen Anspruch aus.",
+      "Richtig: Genau für diesen Fall schließt das Gesetz den Vergütungsanspruch ausdrücklich aus.",
+      "Falsch: Einen solchen automatischen Freizeitausgleich sieht die Regelung nicht vor.",
+      "Falsch: Auf die Freiwilligkeit kommt es nicht an, sondern auf die Ursache der Überschreitung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Mittelschullehrer Ceh übersteigt laut Diensteinteilung das höchste Unterrichtsausmaß, verlangt dafür die besondere Vergütung und bekommt zu hören, es liege nur am diesjährigen 53-Wochen-Schuljahr. Die Direktion verweigert jede Vergütung mit dem Hinweis auf den Kalender. Ceh besteht auf seinem Geld.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Ceh hat in diesem Fall keinen Vergütungsanspruch. Ergibt sich die Überschreitung des Höchstausmaßes nur aus schulzeitrechtlichen oder kalendermäßigen Gründen, besteht kein Anspruch auf die besondere Vergütung. Zum Nachlesen: LDG §50 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.4",
+    "id": "B25-L3-004",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Dobler bekommt für die Stunden über dem Kontingent die Vergütung, und vorrangig wäre die unausgelastete Kollegin heranzuziehen.",
+      "Vertretungsstunden werden nie vergütet, sie sind immer unentgeltlich zu leisten.",
+      "Die Direktion darf frei wählen, wen sie einteilt, eine Reihenfolge gibt es nicht.",
+      "Dobler schuldet gar keine Vertretung, weil er kein Klassenvorstand ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Stunden über dem Kontingent sind vergütungspflichtig und unausgelastete Kräfte sind vorrangig heranzuziehen.",
+      "Falsch: Stunden über dem Vertretungskontingent sind gerade vergütungspflichtig.",
+      "Falsch: Vorrangig sind die Kräfte heranzuziehen, die ihr Kontingent noch nicht erfüllt haben.",
+      "Falsch: Die Vertretungsverpflichtung trifft jede Lehrkraft, nicht nur Klassenvorstände."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "An einer Volksschule springt Lehrer Dobler ständig für erkrankte Kolleginnen ein und hat sein Vertretungskontingent längst überschritten. Die Direktion zieht trotzdem immer ihn heran, obwohl eine Kollegin ihr Kontingent erst zur Hälfte erfüllt hat, und bestreitet zusätzlich jede Vergütung. Dobler verlangt Geld und eine andere Reihenfolge.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Dobler bekommt die Vergütung und die Einteilung war falsch gereiht. Für jede Vertretungsstunde über dem Kontingent gebührt die besondere Vergütung, und heranzuziehen sind in erster Linie die Kräfte mit noch offenem Kontingent. Zum Nachlesen: LDG §50 Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §47 Abs.2",
+    "id": "B25-L3-005",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Die Direktion darf abrunden, Teilzeitkräfte haben keinen Anspruch auf ganze Stunden.",
+      "Das Ausmaß ist so weit zu überschreiten wie nötig, um eine Unterschreitung zu vermeiden.",
+      "Egger kann zwischen Ab- und Aufrundung frei wählen und nimmt einfach die höhere.",
+      "Bei Teilzeit entscheidet allein der Wunsch der Direktion, Regeln gibt es keine."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die verbleibende Unterrichtstätigkeit muss ganze Unterrichtsstunden umfassen.",
+      "Richtig: Lässt der Dienst keine exakte Einhaltung zu, ist so weit zu überschreiten, dass das Maß nicht unterschritten wird.",
+      "Falsch: Das Wahlrecht liegt nicht bei ihm, maßgeblich ist allein die Vermeidungsregel.",
+      "Falsch: Die Festlegung folgt klaren Regeln zugunsten ganzer Stunden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Teilzeitlehrer Egger mit halber Jahresnorm erhält eine Diensteinteilung, deren rechnerische Unterrichtsstunden keine ganzen Stunden ergeben. Die Direktion rundet ab, sodass Egger unter seinem vereinbarten Ausmaß bleibt, und nennt das exakt. Egger verlangt die Aufrundung auf ganze Stunden.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Egger bekommt die Aufrundung auf ganze Stunden. Lässt der Dienst keine genaue Einhaltung des Stundenausmaßes zu, ist es so weit zu überschreiten, wie es zur Vermeidung einer Unterschreitung nötig ist. Zum Nachlesen: LDG §47 Abs.2.",
+    "zusatzquellen": [
+      "LDG §45 Abs.2"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.9",
+    "id": "B25-L3-006",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Fellner behält die volle Vergütung, weil nur Krankheitstage kürzen.",
+      "Die Vergütung entfällt für die ganze Woche schon bei einem einzigen Fehltag.",
+      "Die Wochenvergütung vermindert sich um ein Sechstel, weil Fellner an sechs Tagen unterrichtet.",
+      "Bei Pflegefreistellung verdoppelt sich die Vergütung als Ausgleich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch die Pflegefreistellung löst die Kürzung der Wochenvergütung aus.",
+      "Falsch: Gekürzt wird nur anteilig pro Fehltag, der Rest der Woche bleibt.",
+      "Richtig: Bei bis zu sechs Unterrichtstagen beträgt die Kürzung pro Fehltag ein Sechstel.",
+      "Falsch: Einen solchen Zuschlag gibt es nicht, die Vergütung vermindert sich vielmehr."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Fellner unterrichtet an sechs Tagen pro Woche und bezieht eine Vergütung für dauernde Mehrdienste. In einer Woche fehlt er einen Tag wegen einer Pflegefreistellung und verlangt die volle Wochenvergütung, weil Pflegefreistellung keine Krankheit sei. Die Direktion kürzt um ein Sechstel.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Kürzung um ein Sechstel ist richtig. Die Vergütung für dauernde Mehrdienste bleibt bei Erkrankung oder Pflegefreistellung bestehen, vermindert sich aber pro Fehltag, bei bis zu sechs Unterrichtstagen um je ein Sechstel. Zum Nachlesen: LDG §50 Abs.9."
+  },
+  {
+    "hauptquelle": "LDG §44 Abs.3",
+    "id": "B25-L3-007",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Aus gesundheitlichen Gründen darf höchstens um die Hälfte herabgesetzt werden, mindestens 360 Unterrichts-Jahresstunden bleiben.",
+      "Für Projekt- und Kulturtätigkeit darf nur so weit herabgesetzt werden, dass dauernder Unterricht in mindestens einem Gegenstand bleibt.",
+      "Gesundheitsbedingte Herabsetzungen sind insgesamt auf höchstens zwei Jahre begrenzt.",
+      "Aus gesundheitlichen Gründen kann bis auf null Stunden herabgesetzt werden.",
+      "Projekt- und Kulturfreistellungen sind zeitlich unbegrenzt möglich.",
+      "Eine Herabsetzung aus gesundheitlichen Gründen braucht keinen Antrag."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese doppelte Grenze sichert einen Mindestunterricht bei Krankheit.",
+      "Richtig: Der dauernde Unterricht in einem Gegenstand ist die Bedingung für diese Freistellungen.",
+      "Richtig: Nach zwei Jahren ist diese Form der Herabsetzung ausgeschöpft.",
+      "Falsch: Die Hälfte ist die Obergrenze und 360 Stunden die Untergrenze.",
+      "Falsch: Auch diese Formen sind auf fünf und zehn Jahre gedeckelt.",
+      "Falsch: Jede Herabsetzung wird nur auf Ansuchen gewährt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Greil beantragt aus gesundheitlichen Gründen eine deutliche Herabsetzung, danach will sie für ein Schulprojekt freigespielt werden und zusätzlich eine kulturelle Tätigkeit übernehmen. Das Kollegium prüft mit einer Checkliste, welche Grenzen für solche Herabsetzungen gelten. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Greils Pläne stoßen an feste Grenzen. Gesundheitlich ist höchstens die Hälfte bei mindestens 360 Unterrichtsstunden und insgesamt zwei Jahren möglich, und für Projekt und Kultur muss dauernder Unterricht in einem Gegenstand übrig bleiben. Zum Nachlesen: LDG §44 Abs.3.",
+    "zusatzquellen": [
+      "LDG §44 Abs.1",
+      "LDG §44 Abs.4"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §45 Abs.3",
+    "id": "B25-L3-008",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Nach insgesamt zehn Jahren bleibt das zuletzt gewährte Ausmaß bis zu einer Änderung dauernd wirksam.",
+      "In den letzten vier Monaten des Schuljahres ist eine Änderung oder vorzeitige Beendigung ausgeschlossen.",
+      "Die Dienstbehörde darf das Ausmaß von Amts wegen für ein Schuljahr um höchstens zwei Wochenstunden absenken.",
+      "Nach zehn Jahren endet jede Herabsetzung automatisch für immer.",
+      "Änderungen sind jederzeit auch in der letzten Schulwoche möglich.",
+      "Von Amts wegen darf beliebig stark gekürzt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Zehnjahresgrenze führt zur dauernden Wirksamkeit des letzten Ausmaßes.",
+      "Richtig: Genau diese Viermonatssperre schützt die Planung zum Schuljahresende.",
+      "Richtig: Die Absenkung von Amts wegen ist auf zwei Wochenstunden begrenzt.",
+      "Falsch: Das Ausmaß bleibt vielmehr dauernd wirksam statt zu enden.",
+      "Falsch: Die letzten vier Monate sind für Änderungen gesperrt.",
+      "Falsch: Die Absenkung darf höchstens zwei Wochenstunden betragen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Hofer arbeitet seit über zehn Jahren in Herabsetzung aus privatem Anlass und will nun kurzfristig mitten im Frühjahr das Ausmaß ändern. Die Direktion prüft Dauerwirkung, Änderungsfristen und eine mögliche Absenkung von Amts wegen. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Hofers Änderungswunsch scheitert an mehreren Grenzen. Nach zehn Jahren wirkt das Ausmaß dauernd fort, Änderungen sind in den letzten vier Monaten ausgeschlossen und eine Absenkung von Amts wegen darf zwei Wochenstunden nicht übersteigen. Zum Nachlesen: LDG §45 Abs.3.",
+    "zusatzquellen": [
+      "LDG §48 Abs.2",
+      "LDG §48 Abs.5"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §48 Abs.1",
+    "id": "B25-L3-009",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Die Herabsetzung zur Kinderbetreuung endet spätestens mit dem Schuleintritt des Kindes.",
+      "Für ein behindertes Kind mit erhöhter Familienbeihilfe gibt es die Herabsetzung auch nach dem achten Geburtstag.",
+      "Der Antrag muss spätestens zwei Monate vor dem gewünschten Beginn gestellt werden.",
+      "Jede Kinderbetreuungs-Teilzeit läuft garantiert bis zum achten Geburtstag, egal ob das Kind schon in die Schule geht.",
+      "Das Kind muss nicht im Haushalt leben, ein Wochenendkontakt genügt.",
+      "Nach dem Schuleintritt kann nahtlos dieselbe Herabsetzung weiterlaufen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Schuleintritt beendet diese Herabsetzung in jedem Fall.",
+      "Richtig: Für behinderte Kinder mit erhöhter Beihilfe gilt die Altersgrenze nicht starr.",
+      "Richtig: Die Zweimonatsfrist vor dem Wirksamkeitsbeginn ist einzuhalten.",
+      "Falsch: Der Schuleintritt beendet die Herabsetzung auch vor dem achten Geburtstag.",
+      "Falsch: Das Kind muss dem Haushalt angehören und überwiegend selbst betreut werden.",
+      "Falsch: Spätestens mit dem Schuleintritt ist diese Herabsetzung beendet."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Inama betreut in Teilzeit ihren siebenjährigen Sohn, der bald eingeschult wird, und fragt, wie lange die Herabsetzung noch läuft. Eine Kollegin mit behindertem Kind will wissen, ob nach dem achten Geburtstag endgültig Schluss ist. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Inamas Herabsetzung endet mit dem Schuleintritt ihres Sohnes. Diese Form endet in allen Fällen spätestens dann, nur für behinderte Kinder mit erhöhter Beihilfe gilt sie auch danach, und der Antrag braucht zwei Monate Vorlauf. Zum Nachlesen: LDG §48 Abs.1.",
+    "zusatzquellen": [
+      "LDG §46 Abs.4",
+      "LDG §46 Abs.6"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.15",
+    "id": "B25-L3-010",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Der Verbrauch setzt ein vollendetes 50. Lebensjahr bei Beginn voraus.",
+      "Der Antrag muss bis spätestens 1. März des vorangehenden Unterrichtsjahres gestellt werden.",
+      "Der Verbrauch erfolgt als Herabsetzung für ein ganzes Schuljahr im Ausmaß von 50 bis 100 Prozent.",
+      "Angespart wird automatisch, eine Erklärung ist nie nötig.",
+      "Während einer gänzlichen Freistellung darf die Lehrerin weiter zum Dienst herangezogen werden.",
+      "Die Erklärung über die Gutschrift kann jederzeit widerrufen werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst ab 50 darf das angesparte Guthaben verbraucht werden.",
+      "Richtig: Der Antrag für den Verbrauch ist bis zum ersten März des Vorjahres zu stellen.",
+      "Richtig: Der Verbrauch läuft als Jahresherabsetzung zwischen 50 und 100 Prozent.",
+      "Falsch: Das Ansparen braucht eine unwiderrufliche Erklärung bis Ende September.",
+      "Falsch: Während einer gänzlichen Freistellung ist keine Dienstleistung zulässig.",
+      "Falsch: Die Erklärung ist unwiderruflich und gilt für das Unterrichtsjahr."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Jovan mit 52 Jahren hat jahrelang Mehrstunden auf ihrem Zeitkonto angespart und will sie nun als Freistellung verbrauchen. Sie stellt den Antrag im Mai für das nächste Schuljahr und plant eine halbe Freistellung für das ganze Jahr. Die Direktion prüft die Voraussetzungen. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Jovans Plan scheitert schon an der Frist. Der Verbrauch braucht das vollendete 50. Lebensjahr, einen Antrag bis 1. März des Vorjahres und eine Jahresherabsetzung von 50 bis 100 Prozent, und ihr Mai-Antrag kommt zu spät. Zum Nachlesen: LDG §50 Abs.15.",
+    "zusatzquellen": [
+      "LDG §50 Abs.12",
+      "LDG §50 Abs.13"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §51 Abs.9",
+    "id": "B25-L3-011",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Leiter mit mehr als sieben Klassen sind von der regelmäßigen Unterrichtserteilung befreit.",
+      "Bei erhöhtem Verwaltungsaufwand kann die Freistellung auch bei mehr als vier Klassen angeordnet werden.",
+      "Zwei Tagesbetreuungsgruppen zählen wie eine Klasse.",
+      "Jeder Leiter ist automatisch ohne jede Voraussetzung freigestellt.",
+      "Sechs Klassen genügen immer von selbst zur Freistellung.",
+      "Betreuungsgruppen zählen nie für die Klassenzahl."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Oberhalb von sieben Klassen greift die Befreiung vom regelmäßigen Unterricht.",
+      "Richtig: Zwischen vier und acht Klassen kann der Verwaltungsaufwand die Freistellung tragen.",
+      "Richtig: Je zwei Betreuungsgruppen gelten als eine Klasse.",
+      "Falsch: Die Befreiung hängt an Klassenzahl oder angeordnetem Verwaltungsaufwand.",
+      "Falsch: Sechs Klassen genügen nur bei zusätzlich erhöhtem Verwaltungsaufwand.",
+      "Falsch: Zwei Gruppen der Tagesbetreuung zählen ausdrücklich als eine Klasse."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Leiter Kaufmann führt eine Volksschule mit sechs Klassen und hohem Verwaltungsaufwand und will von der regelmäßigen Unterrichtserteilung freigestellt werden. Seine Schule führt auch zwei Tagesbetreuungsgruppen, die er als eigene Klassen zählen will. Das Kollegium prüft die Leitungsregeln. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Kaufmanns Freistellung ist möglich, aber nicht automatisch. Über sieben Klassen greift die Befreiung von selbst, darunter braucht es erhöhten Verwaltungsaufwand mit Anordnung, und zwei Betreuungsgruppen zählen als eine Klasse. Zum Nachlesen: LDG §51 Abs.9.",
+    "zusatzquellen": [
+      "LDG §51 Abs.6",
+      "LDG §51 Abs.8"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.6",
+    "id": "B25-L3-012",
+    "level": "L3",
+    "modul_id": "B25",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Die Schwelle gilt für Teilzeitkräfte nur in anteiliger Höhe.",
+      "Richtig erkannt: Bei herabgesetzter Jahresnorm tritt überall das aliquote Ausmaß an die Schwelle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, Teilzeitkräfte hätten dieselbe absolute Mehrdienst-Schwelle wie Vollzeitkräfte und dürften daher erst ab derselben Stundenzahl eine Vergütung verlangen.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, Teilzeitkräfte haben eine anteilige Schwelle. Ist die Jahresnorm herabgesetzt, tritt überall das der Herabsetzung entsprechende aliquote Stundenausmaß an die Stelle der Schwelle. Zum Nachlesen: LDG §50 Abs.6."
+  }
+]
