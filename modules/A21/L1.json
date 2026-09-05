@@ -1,1 +1,445 @@
-[]
+[
+  {
+    "id": "A21-L1-001",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Timo, 3. Klasse, hat im Jahreszeugnis ein Nicht genügend in Deutsch, alle anderen Fächer sind positiv. Am Zeugnistag fragt er dich als Klassenvorstand, ob er im Herbst eine Prüfung machen darf, um doch noch aufzusteigen.",
+    "optionen": [
+      "Nein, mit einem Nicht genügend muss er die Klasse jedenfalls wiederholen.",
+      "Ja, er hat auf Verlangen Anspruch auf eine Wiederholungsprüfung in diesem Fach, wenn er sich fristgerecht anmeldet.",
+      "Ja, er steigt ohne Prüfung automatisch auf, weil es nur ein Fach ist.",
+      "Nur wenn die Klassenkonferenz das Nicht genügend nachträglich streicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein einzelnes Nicht genügend führt nicht automatisch zum Wiederholen.",
+      "Richtig: Genau dafür gibt es die Prüfung auf Verlangen mit Anmeldung.",
+      "Falsch: Ohne bestandene Prüfung ändert sich an der Note nichts.",
+      "Falsch: Eine feststehende Zeugnisnote wird nicht nachträglich gestrichen."
+    ],
+    "aufloesung": "Timo darf auf Verlangen antreten. Nimm die fristgerechte Anmeldung entgegen und gib ihm Stoff und Termin schriftlich. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-002",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Miriam hat im Jahreszeugnis zwei Nicht genügend in Mathematik und Englisch. Sie will im Herbst nur in Mathematik antreten und hofft, dass das für den Aufstieg reicht. Was sagst du ihr?",
+    "optionen": [
+      "Ja, eine bestandene Prüfung in einem Fach reicht immer für den Aufstieg.",
+      "Nein, sie darf gar nicht antreten, weil es zwei Fächer sind.",
+      "Sie darf auch nur in einem Fach antreten, steigt aber nur auf, wenn alle negativen Pflichtgegenstände durch bestandene Prüfungen ausgeräumt sind.",
+      "Die Klassenkonferenz wählt für sie aus, in welchem Fach sie antreten muss."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Fach allein räumt das zweite Nicht genügend nicht weg.",
+      "Falsch: Zwei Fächer schließen den Antritt nicht aus.",
+      "Richtig: Freiwilliger Teilantritt ist möglich, Aufstieg braucht aber beide.",
+      "Falsch: Die Wahl trifft die Schülerin bzw. ihre Erziehungsberechtigten."
+    ],
+    "aufloesung": "Miriam darf in einem oder beiden Fächern antreten. Sage ihr ehrlich, dass der Aufstieg beide bestandenen Prüfungen braucht. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-003",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Paul hat im Zeugnis drei negative Beurteilungen: Deutsch, Mathematik und eine unverbindliche Übung Chor. Seine Eltern fragen, ob er deshalb die Stufe wiederholen muss oder im Herbst antreten kann.",
+    "optionen": [
+      "Er muss jedenfalls wiederholen, weil drei negative Noten immer sperren.",
+      "Er kann in allen drei Gegenständen zu Wiederholungsprüfungen antreten.",
+      "Für die Grenze zählen nur die negativen Pflichtgegenstände, die unverbindliche Übung löst keine Wiederholungsprüfung aus und sperrt sie auch nicht.",
+      "Die Direktion streicht einfach die dritte Note, dann darf er antreten."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nicht jede negative Note zählt für diese Grenze gleich.",
+      "Falsch: In unverbindlichen Übungen gibt es diesen Antritt nicht.",
+      "Richtig: Entscheidend sind die Pflichtgegenstände, der Rest bleibt außer Betracht.",
+      "Falsch: Noten werden nicht nach Belieben gestrichen."
+    ],
+    "aufloesung": "Paul wird nach den negativen Pflichtgegenständen beurteilt. Kläre mit dem Zeugnis, welche Fächer Pflichtgegenstände sind, und plane danach. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-004",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der 12-jährige Nico schickt dir am Zeugnistag per Messenger die Nachricht, dass er sich zur Wiederholungsprüfung in Englisch anmeldet. Seine Eltern wissen davon nichts. Ist das eine wirksame Anmeldung?",
+    "optionen": [
+      "Ja, die Nachricht des Schülers reicht völlig, die Eltern braucht es nicht.",
+      "Nein, bei minderjährigen Schülern melden die Erziehungsberechtigten fristgerecht und nachweislich an.",
+      "Ja, jede Nachricht zählt, solange sie vor Herbst ankommt.",
+      "Nein, Minderjährige dürfen überhaupt nie zu Wiederholungsprüfungen antreten."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine Messenger-Nachricht des Kindes ersetzt keine ordnungsgemäße Anmeldung.",
+      "Richtig: Berechtigte Person, Frist und Nachweis entscheiden über die Gültigkeit.",
+      "Falsch: Irgendwann im Sommer reicht nicht, die Frist läuft früher.",
+      "Falsch: Minderjährige dürfen antreten, nur eben korrekt angemeldet."
+    ],
+    "aufloesung": "Nicos Nachricht reicht nicht. Hole die fristgerechte Anmeldung der Erziehungsberechtigten schriftlich nach und bestätige den Eingang. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-005",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Berger meldet ihre Tochter erst Mitte August schriftlich zur Wiederholungsprüfung an. Die Anmeldefrist laut Aushang am Schulschluss ist da längst abgelaufen. Die Eltern meinen, im Sommer sei das egal.",
+    "optionen": [
+      "Die Anmeldung gilt trotzdem, Fristen im Sommer sind unverbindlich.",
+      "Die verspätete Anmeldung reicht, wenn die Eltern sich entschuldigen.",
+      "Ohne fristgerechte Anmeldung besteht kein Anspruch auf einen Antritt in diesem Durchgang.",
+      "Die Schülerin darf antreten, wenn am Prüfungstag ein Platz frei ist."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Frist sichert die Planung des Herbstdurchgangs.",
+      "Falsch: Eine Entschuldigung heilt eine versäumte Frist nicht.",
+      "Richtig: Fristversäumnis heißt grundsätzlich kein Antritt in diesem Durchgang.",
+      "Falsch: Freie Plätze ersetzen keine fristgerechte Anmeldung."
+    ],
+    "aufloesung": "Die Frist ist versäumt, daher kein Antritt in diesem Durchgang. Weise am Schulschluss immer schriftlich auf Frist und Form hin und hebe den Nachweis auf. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-006",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Mutter ruft Ende Juni im Sekretariat an und will ihren Sohn telefonisch zur Wiederholungsprüfung in Mathematik anmelden. Sie bittet dich, das einfach zu notieren. Was ist richtig?",
+    "optionen": [
+      "Die telefonische Meldung reicht, du notierst sie formlos.",
+      "Es braucht eine schriftliche und nachweisliche Anmeldung bei der Schule innerhalb der Frist, das Telefonat allein genügt nicht.",
+      "Eine Anmeldung ist überhaupt nicht nötig, man kommt einfach im Herbst.",
+      "Es genügt, wenn der Schüler im Herbst sagt, dass die Mutter angerufen hat."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Formlose Telefonnotizen sind im Streitfall nichts wert.",
+      "Richtig: Schriftlich und nachweislich schützt beide Seiten.",
+      "Falsch: Ohne Anmeldung kann kein Durchgang geplant werden.",
+      "Falsch: Behauptungen im Herbst ersetzen keinen fristgerechten Eingang."
+    ],
+    "aufloesung": "Bitte die Mutter um die schriftliche Anmeldung binnen der Frist und bestätige den Eingang. Lege Formulare im Sekretariat auf und dokumentiere alles. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-007",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Dein Schüler hat in der letzten Ferienwoche seine Wiederholungsprüfung. Sein Chef im Ferialjob droht mit Kündigung, wenn er an dem Tag fehlt. Der Schüler fragt, ob der Job als Entschuldigung für einen Extratermin reicht.",
+    "optionen": [
+      "Ja, der Ferialjob geht vor, die Schule muss einen Extratermin geben.",
+      "Nein, der festgesetzte Prüfungstermin geht vor, ein Ferialjob ist kein ausreichender Verhinderungsgrund.",
+      "Ja, mit einer Bestätigung des Chefs bekommt er automatisch einen neuen Termin.",
+      "Nein, dafür muss er die Klasse wiederholen, ohne jede Prüfung."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Private Jobtermine schlagen keinen Prüfungstermin.",
+      "Richtig: Den Herbsttermin freihalten ist Teil der Anmeldung.",
+      "Falsch: Eine Chefbestätigung schafft keinen Anspruch auf Verschiebung.",
+      "Falsch: So streng ist es nicht, aber ein Wunschtermin steht nicht zu."
+    ],
+    "aufloesung": "Der Prüfungstermin geht vor. Sprich schon am Schulschluss mit Job und Familie über das Freihalten der letzten Ferientage. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-008",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ben behauptet nach den Ferien, er habe vom Termin seiner Wiederholungsprüfung nie erfahren, weil er den Aushang in der Schule nicht gesehen hat. Er verlangt jetzt einen eigenen Nachtermin. Was gilt?",
+    "optionen": [
+      "Ein Aushang allein reicht immer, Ben hat Pech gehabt.",
+      "Die Schule muss Termin und Ablauf den Angemeldeten rechtzeitig und nachweislich mitteilen, ein anonymer Aushang allein genügt nicht.",
+      "Ben bekommt automatisch einen Wunschtermin, sobald er sich beschwert.",
+      "Termine müssen gar nicht mitgeteilt werden, man fragt eben nach."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nur aushängen ohne Nachweis ist zu wenig.",
+      "Richtig: Rechtzeitig und nachweislich verständigen sichert den Durchgang.",
+      "Falsch: Wunschtermine auf Zuruf gibt es nicht.",
+      "Falsch: Ohne Mitteilung ist kein geordneter Antritt möglich."
+    ],
+    "aufloesung": "Teile Termine immer direkt und nachweislich mit und hebe die Belege auf. Prüfe in Bens Fall die Nachweise und setze nur bei gerechtfertigter Verhinderung neu fest. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-009",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Kerem hat zwei Nicht genügend in Deutsch und Mathematik und will beide Prüfungen unbedingt am selben Vormittag in einer einzigen Stunde hinter sich bringen. Er bittet dich, das so anzusetzen. Was antwortest du?",
+    "optionen": [
+      "Gerne, beide Fächer werden in einer gemeinsamen Kurzprüfung erledigt.",
+      "Jedes Fach bekommt seine eigene Prüfung mit eigenem Termin, eigener Aufgabenstellung und eigenem Protokoll.",
+      "Er muss sich für eines der beiden Fächer entscheiden, das andere verfällt.",
+      "Beide Fächer werden mündlich in zehn Minuten zusammen geprüft."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zusammenlegen verfälscht beide Prüfungen.",
+      "Richtig: Getrennte Durchgänge sichern faire Aufgaben und Bewertung je Fach.",
+      "Falsch: Entscheiden muss er sich nicht, er darf in beiden antreten.",
+      "Falsch: Schnellverfahren auf Zuruf gibt es nicht."
+    ],
+    "aufloesung": "Plane für Kerem zwei eigene Prüfungstermine mit je eigener Kommission und eigenem Protokoll. Gib ihm beide Termine schriftlich. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-010",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Frau Huber, die Englischlehrerin einer 4. Klasse, geht mit Schulschluss in Pension. Ihr Nachfolger soll im Herbst die Wiederholungsprüfung abnehmen und will seinen eigenen neuen Stoff prüfen. Die Eltern protestieren. Welcher Stoff gilt?",
+    "optionen": [
+      "Der Stoff des Nachfolgers, weil er jetzt prüft.",
+      "Der eingegrenzte Jahresstoff der besuchten Klasse aus dem abgelaufenen Schuljahr, rechtzeitig mitgeteilt.",
+      "Der Stoff der nächsten Klasse, damit der Aufstieg verdient ist.",
+      "Ein frei erfundener Stoff, Hauptsache schwer."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Prüferwechsel ändert die Prüfungsgrundlage nicht.",
+      "Richtig: Geprüft wird der mitgeteilte Stoff des abgelaufenen Jahres.",
+      "Falsch: Vorzugreifen auf die nächste Klasse ist unfair.",
+      "Falsch: Willkürliche Aufgaben sind unzulässig."
+    ],
+    "aufloesung": "Der Nachfolger prüft den eingegrenzten Stoff des abgelaufenen Jahres. Organisiere die Stoffübergabe vor den Ferien und teile den Stoff schriftlich mit. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-011",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Elias bekommt die genaue Eingrenzung des Prüfungsstoffs für seine Wiederholungsprüfung erst am Prüfungstag in die Hand gedrückt. Er fühlt sich überrumpelt und beschwert sich bei dir. Was sagst du?",
+    "optionen": [
+      "Das ist in Ordnung, der Stoff kann auch erst am Prüfungstag kommen.",
+      "Die Eingrenzung muss rechtzeitig vor der Prüfung schriftlich mitgeteilt werden, damit gezieltes Vorbereiten möglich ist.",
+      "Stoff muss überhaupt nicht mitgeteilt werden, man lernt eben alles.",
+      "Elias darf sich den Stoff am Prüfungstag selbst aussuchen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Überraschungsstoff am Prüfungstag ist unfair.",
+      "Richtig: Rechtzeitig und schriftlich ist der Maßstab für Fairness.",
+      "Falsch: Ohne Eingrenzung und Mitteilung fehlt die Grundlage.",
+      "Falsch: Selbstwahl des Stoffs gibt es nicht."
+    ],
+    "aufloesung": "Elias hat recht mit seiner Beschwerde. Gib den eingegrenzten Stoff immer vor den Ferien schriftlich aus und hebe eine Kopie zum Akt. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-012",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am Prüfungstag ist der Prüfer für Mathematik erkrankt. Der Beisitzer will die Wiederholungsprüfung kurzerhand allein abnehmen, damit die Schüler nicht umsonst gekommen sind. Darf er das?",
+    "optionen": [
+      "Ja, in Notfällen darf jeder Lehrer allein prüfen.",
+      "Nein, ohne die vorschriftsmäßige Besetzung darf nicht geprüft werden, es braucht eine Ersatzbestellung und einen neuen Termin.",
+      "Ja, wenn die Schüler damit einverstanden sind.",
+      "Ja, wenn der Direktor telefonisch zustimmt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Allein prüfen bleibt auch in Zeitnot ein Formfehler.",
+      "Richtig: Korrekte Besetzung geht vor Schnelligkeit.",
+      "Falsch: Zustimmung der Schüler heilt den Formfehler nicht.",
+      "Falsch: Ein Anruf ersetzt keine ordnungsgemäße Bestellung."
+    ],
+    "aufloesung": "Stoppe den Alleingang, bestelle Ersatz und lade neu. Dokumentiere die Verschiebung schriftlich. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-013",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Kollege erzählt stolz, er protokolliere Wiederholungsprüfungen nur mit einem Wort auf einem Schmierzettel: Name plus Note. Das spare Zeit. Du bist als Vorsitz eingeteilt. Was gilt?",
+    "optionen": [
+      "Der Schmierzettel reicht, Hauptsache die Note steht.",
+      "Es braucht ein ordentliches Protokoll mit Datum, Anwesenden, Aufgaben, Leistungen, Beurteilung und Unterschriften.",
+      "Ein Protokoll ist nur bei negativen Prüfungen nötig.",
+      "Das Protokoll kann eine Woche später aus dem Gedächtnis ergänzt werden."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Zettel mit Note beweist nichts über Ablauf und Leistung.",
+      "Richtig: Nur ein vollständiges Protokoll macht das Ergebnis nachvollziehbar.",
+      "Falsch: Jede Prüfung braucht ein Protokoll, egal wie sie ausgeht.",
+      "Falsch: Nachträgliche Erinnerungsprotokolle sind fehleranfällig und wertlos."
+    ],
+    "aufloesung": "Bestehe auf vollständigem Protokoll noch am Prüfungstag mit allen Unterschriften. Lege Formulare bereit und archiviere sie zum Akt. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-014",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lara tritt zur Wiederholungsprüfung in Englisch an. Der schriftliche Teil misslingt ihr, der mündliche Teil gelingt sehr gut. Sie fragt, welcher Teil zählt und ob sie bestanden hat.",
+    "optionen": [
+      "Es zählt nur der schriftliche Teil, der mündliche ist Zugabe.",
+      "Es zählt nur der mündliche Teil, schriftlich ist egal.",
+      "Alle vorgesehenen Prüfungsteile fließen in eine Gesamtbeurteilung ein, bestanden ist sie erst bei mindestens Genügend insgesamt.",
+      "Sie hat automatisch bestanden, weil sie in einem Teil stark war."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einen Teil allein herauszugreifen verfälscht das Bild.",
+      "Falsch: Auch umgekehrt gilt kein Teil allein.",
+      "Richtig: Die Kommission bildet aus allen Teilen ein Gesamturteil.",
+      "Falsch: Eine Stärke in einem Teil garantiert kein Genügend insgesamt."
+    ],
+    "aufloesung": "Erkläre Lara vorab alle Prüfungsteile und die Schwelle Genügend insgesamt. Die Kommission begründet das Gesamturteil im Protokoll. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L1-015",
+    "modul_id": "A21",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tobias hat seine Wiederholungsprüfung bestanden und braucht sofort eine Bestätigung für seine neue Lehrstelle, weil der Chef nicht bis zum Schulbeginn warten will. Was stellst du als Schule aus?",
+    "optionen": [
+      "Nichts, er muss bis zum ersten Schultag warten.",
+      "Nur eine mündliche Zusage des Prüfers reicht für den Chef.",
+      "Eine schriftliche Bestätigung über die bestandene Prüfung und danach die Ergänzung des Zeugnisses mit Aufstiegsvermerk.",
+      "Ein komplett neues Jahreszeugnis ohne jeden Vermerk über die Prüfung."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Hinhalten bis Schulbeginn schadet dem Schüler ohne Grund.",
+      "Falsch: Mündliche Zusagen sind für Betriebe nichts wert.",
+      "Richtig: Sofortige Bestätigung plus saubere Zeugnisergänzung helfen weiter.",
+      "Falsch: Ein neues Zeugnis ohne Vermerk verschleiert den Weg zum Aufstieg."
+    ],
+    "aufloesung": "Stelle Tobias sofort eine schriftliche Bestätigung aus und erledige danach die Zeugnisergänzung mit Aufstiegsvermerk. Lege Kopien zum Akt. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]

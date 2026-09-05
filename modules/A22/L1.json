@@ -1,1 +1,441 @@
-[]
+[
+  {
+    "id": "A22-L1-001",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena war im letzten Monat vor Schulschluss lange krank und konnte in Mathematik nicht mehr beurteilt werden. Ihr Zeugnisfeld bleibt offen. Die Mutter fragt, welche Prüfung Lena im Herbst ablegen muss.",
+    "optionen": [
+      "Eine Nachtragsprüfung über den versäumten Lehrstoff, weil keine Beurteilung möglich war.",
+      "Eine Wiederholungsprüfung, weil das wie ein Nicht genügend zählt.",
+      "Keine Prüfung, die Lehrerin schätzt die Note aus dem ersten Halbjahr.",
+      "Eine Aufnahmeprüfung, weil das Zeugnis unvollständig ist."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Beurteilungsgrundlage wegen Fernbleibens führt der Weg über die Nachtragsprüfung.",
+      "Falsch: Wiederholungsprüfungen gibt es nur bei negativer Beurteilung, nicht bei fehlender.",
+      "Falsch: Noten dürfen nicht geschätzt oder erfunden werden.",
+      "Falsch: Aufnahmeprüfungen betreffen neue Schüler, nicht versäumten Stoff."
+    ],
+    "aufloesung": "Lena legt eine Nachtragsprüfung ab. Sie war nicht negativ, sondern konnte nur nicht beurteilt werden. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-002",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Jonas besucht die Oberstufe mit getrennten Halbjahren. Im Wintersemester fehlte er in Englisch so oft, dass keine Note gegeben werden konnte. Er fragt, womit er das Semester abschließen kann.",
+    "optionen": [
+      "Mit einer Semesterprüfung über den Lehrstoff dieses einen Semesters.",
+      "Mit einer Wiederholungsprüfung über den Stoff des ganzen Jahres.",
+      "Mit einer Feststellungsprüfung über seine allgemeinen Englischkenntnisse.",
+      "Gar nicht, das Semester wird automatisch mit Genügend eingetragen."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: In der Semesterorganisation wird jedes Semester für sich über eine Semesterprüfung abgeschlossen.",
+      "Falsch: Die Wiederholungsprüfung setzt eine negative Jahresbeurteilung voraus.",
+      "Falsch: Feststellungsprüfungen klären Kenntnisse bei Übertritt oder Einstufung, nicht ein offenes Semester.",
+      "Falsch: Automatische Noten ohne Prüfung gibt es nicht."
+    ],
+    "aufloesung": "Jonas legt eine Semesterprüfung ab. Jedes Semester wird in der Oberstufe eigenständig beurteilt und abgeschlossen. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-003",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Gruber zieht aus dem Ausland zu und meldet Sohn David an deiner Schule an. Seine Kenntnisse in der zweiten lebenden Fremdsprache sind unklar. Die Direktorin will seinen Stand verlässlich klären.",
+    "optionen": [
+      "Mit einer Feststellungsprüfung, die seine Kenntnisse in dem Fach feststellt.",
+      "Mit einer Nachtragsprüfung, weil er Unterricht versäumt hat.",
+      "Mit einer Wiederholungsprüfung, weil er neu an der Schule ist.",
+      "Mit einer Semesterprüfung, weil das Schuljahr schon läuft."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bei Übertritt oder unklarem Kenntnisstand stellt die Feststellungsprüfung den Stand fest.",
+      "Falsch: Versäumt hat David an dieser Schule nichts, er ist neu.",
+      "Falsch: Wiederholungsprüfungen setzen eine negative Note an dieser Schule voraus.",
+      "Falsch: Semesterprüfungen schließen ein offenes Semester ab, sie stufen niemanden ein."
+    ],
+    "aufloesung": "David legt eine Feststellungsprüfung ab. Sie klärt verlässlich, wo er steht, und sichert die richtige Einstufung. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-004",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Lehrerzimmer streiten zwei Kollegen: Wer darf eine Nachtragsprüfung eigentlich anordnen, die Klassenkonferenz oder die Direktion? Du sollst den Ablauf korrekt einleiten.",
+    "optionen": [
+      "Die Klassenkonferenz stimmt ab und ordnet die Prüfung an.",
+      "Die Schulleitung ordnet die Prüfung an und bestellt die Prüfer.",
+      "Der Fachlehrer entscheidet das allein in seinem Fach.",
+      "Die Eltern beantragen die Prüfung und legen alles fest."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Konferenz berät, aber die Anordnung trifft sie nicht.",
+      "Richtig: Anordnung, Termin und Prüferbestellung liegen bei der Schulleitung.",
+      "Falsch: Allein entscheiden kann der Fachlehrer das nicht.",
+      "Falsch: Eltern können anregen, aber nicht anordnen oder Prüfer bestimmen."
+    ],
+    "aufloesung": "Die Schulleitung ordnet die Prüfung an. Sie legt Termin fest und bestellt die Prüfer, damit das Verfahren gültig ist. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-005",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mia konnte wegen eines langen Krankenhausaufenthalts im zweiten Halbjahr in Biologie nicht beurteilt werden. Die Eltern fragen, wann die fällige Prüfung stattfindet und was bis dahin gilt.",
+    "optionen": [
+      "Die Prüfung findet zu Beginn des nächsten Schuljahres statt, bis dahin bleibt die Beurteilung offen.",
+      "Die Prüfung muss noch in der letzten Ferienwoche im Juli stattfinden.",
+      "Die Prüfung kann irgendwann im Laufe des nächsten Schuljahres abgelegt werden.",
+      "Die Prüfung entfällt, wenn die Eltern eine Entschuldigung nachreichen."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachtragsprüfungen gehören an den Schuljahresanfang, bis dahin bleibt das Feld offen.",
+      "Falsch: Ein Juli-Termin in den Ferien ist nicht der vorgesehene Weg.",
+      "Falsch: Beliebig im Jahr verschieben entwertet Fristen und Planung.",
+      "Falsch: Eine Entschuldigung erklärt das Fehlen, ersetzt aber die fehlende Leistung nicht."
+    ],
+    "aufloesung": "Mia tritt zu Beginn des neuen Schuljahres an. Bis dahin bleibt die Beurteilung offen und wird nach der Prüfung nachgetragen. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-006",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tim hat von März bis Juni den Physikunterricht krankheitsbedingt verpasst und wird zur Nachtragsprüfung zugelassen. Er fragt, was er eigentlich lernen muss.",
+    "optionen": [
+      "Den Lehrstoff, der in der versäumten Zeit im Unterricht behandelt wurde.",
+      "Den gesamten Jahresstoff einschließlich der Zeit, in der er anwesend war.",
+      "Nur ein Lieblingsthema seiner Wahl, das er sich aussucht.",
+      "Den Stoff der nächsthöheren Klasse als Vorschau."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Nachtragsprüfung deckt genau den versäumten Zeitraum ab.",
+      "Falsch: Bereits beurteilte Zeiträume werden nicht nochmals geprüft.",
+      "Falsch: Freie Themenwahl verfälscht die Aussage der Prüfung.",
+      "Falsch: Vorschau auf die nächste Klasse prüft am Ziel vorbei."
+    ],
+    "aufloesung": "Tim lernt den versäumten Stoff. Geprüft wird, was er wegen des Fernbleibens nicht zeigen konnte, nicht mehr und nicht weniger. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-007",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Sara muss in der Oberstufe eine Semesterprüfung in Geschichte ablegen, weil das Sommersemester nicht beurteilt werden konnte. Sie fragt, welcher Stoff zu der Prüfung gehört.",
+    "optionen": [
+      "Der Lehrstoff des nicht beurteilten Semesters.",
+      "Der Lehrstoff des ganzen Schuljahres aus beiden Semestern.",
+      "Der Lehrstoff des bereits positiv abgeschlossenen Wintersemesters.",
+      "Ein frei gewähltes Referatsthema statt einer Prüfung."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Semesterprüfung schließt genau das offene Semester ab.",
+      "Falsch: Abgeschlossene Semester werden nicht neu aufgerollt.",
+      "Falsch: Das bestandene Semester steht fest und wird nicht wiederholt.",
+      "Falsch: Ein Referat ersetzt die vorgeschriebene Prüfung nicht."
+    ],
+    "aufloesung": "Sara wird über den Stoff des offenen Semesters geprüft. So bleibt jedes Semester eine eigenständige, faire Leistung. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-008",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Schulwechsel soll Nina in Französisch eine Feststellungsprüfung ablegen. Ihre Eltern fragen, woher sie wissen sollen, was geprüft wird.",
+    "optionen": [
+      "Die Schule grenzt den Prüfungsstoff ein und teilt ihn rechtzeitig mit.",
+      "Nina muss einfach das ganze Lehrbuch von vorne bis hinten lernen.",
+      "Der Stoff wird erst am Prüfungstag verraten, das ist fairer.",
+      "Die Eltern bestimmen den Stoff gemeinsam mit Nina."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eingegrenzter und mitgeteilter Stoff ist Voraussetzung für eine faire Prüfung.",
+      "Falsch: Das ganze Buch ohne Eingrenzung ist unzumutbar und angreifbar.",
+      "Falsch: Überraschungsstoff am Prüfungstag verletzt die Fairness.",
+      "Falsch: Den Stoff legen die Eltern nicht fest, das ist Aufgabe der Schule."
+    ],
+    "aufloesung": "Die Schule grenzt den Stoff ein und teilt ihn rechtzeitig mit. Nur wer weiß, was kommt, kann sich fair vorbereiten. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-009",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Paul hat seine Nachtragsprüfung in Chemie bestanden. Die Eltern fragen, was das bestandene Ergebnis für Zeugnis und Aufstieg bedeutet.",
+    "optionen": [
+      "Die Beurteilung wird nachgetragen und der Aufstieg wie bei positiver Note behandelt.",
+      "Das Zeugnis bleibt offen, der Aufstieg wird trotzdem verweigert.",
+      "Die Prüfung zählt nur als Übung, die Note bleibt offen.",
+      "Paul muss zusätzlich noch eine Wiederholungsprüfung ablegen."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mit dem Bestehen wird die Beurteilung nachgetragen und wirkt wie jede positive Note.",
+      "Falsch: Offen bleibt nach bestandener Prüfung nichts mehr.",
+      "Falsch: Die Prüfung ist kein Übungslauf, sondern die Entscheidung.",
+      "Falsch: Eine zusätzliche Prüfung nach dem Bestehen gibt es nicht."
+    ],
+    "aufloesung": "Pauls Beurteilung wird nachgetragen. Damit gilt der Aufstieg so, als wäre die Note gleich im Sommer gegeben worden. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-010",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für eine Feststellungsprüfung in Mathematik schlägt der Fachlehrer vor, die Prüfung allein ohne weitere Person abzuhalten, um Zeit zu sparen. Die Direktorin prüft, wer dabei sein muss.",
+    "optionen": [
+      "Der Fachlehrer allein genügt, das spart Zeit und Aufwand.",
+      "Die Prüfer werden von der Schulleitung bestellt und die Prüfung wird protokolliert.",
+      "Ein Elternvertreter muss die Prüfung leiten und bewerten.",
+      "Die Klasse stimmt über Besetzung und Ablauf der Prüfung ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Allein prüfen ohne Bestellung und Protokoll macht das Ergebnis angreifbar.",
+      "Richtig: Bestellte Prüfer plus Protokoll sichern die Gültigkeit der Prüfung.",
+      "Falsch: Eltern leiten oder bewerten keine Prüfungen.",
+      "Falsch: Die Klasse entscheidet nicht über Prüfungsverfahren."
+    ],
+    "aufloesung": "Die Leitung bestellt die Prüfer und sorgt für ein Protokoll. Nur ein ordentlich besetztes und belegtes Verfahren trägt die Entscheidung. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-011",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Emma fehlte ein halbes Jahr und hat in Deutsch fast keine beurteilbaren Leistungen. Eine Kollegin meint, man solle aus den wenigen Eindrücken halt eine Note basteln. Du suchst den korrekten Weg.",
+    "optionen": [
+      "Aus den wenigen Eindrücken eine Note zusammenbasteln, damit das Zeugnis voll ist.",
+      "Die Beurteilung offen lassen und den Weg über die Nachtragsprüfung eröffnen.",
+      "Automatisch ein Nicht genügend eintragen, weil zu wenig da ist.",
+      "Das Fach aus dem Zeugnis streichen und vergessen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erfundene Noten aus zu dünner Grundlage sind unzulässig.",
+      "Richtig: Ohne ausreichende Grundlage bleibt offen und die Prüfung holt die Leistung nach.",
+      "Falsch: Fehlende Grundlage ist kein Beweis für schlechte Leistung.",
+      "Falsch: Fächer lassen sich nicht einfach aus dem Zeugnis streichen."
+    ],
+    "aufloesung": "Emmas Beurteilung bleibt offen und sie bekommt die Nachtragsprüfung. Lieber ehrlich offen lassen als eine Note ohne Grundlage erfinden. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-012",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Ein neuer Kollege in der Oberstufe fragt dich, was die getrennte Semesterorganisation für nicht beurteilte Leistungen bedeutet. Er kennt nur die Jahresnote von früher.",
+    "optionen": [
+      "Jedes Semester wird eigenständig beurteilt, ein offenes Semester wird per Semesterprüfung abgeschlossen.",
+      "Beide Semester werden immer zu einer Jahresnote vermischt.",
+      "Ein offenes Semester wird automatisch mit dem anderen verrechnet.",
+      "Offene Semester verfallen und müssen nie abgeschlossen werden."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eigenständige Semester bedeuten auch eigenständige Abschlüsse pro Semester.",
+      "Falsch: Vermischen widerspricht der getrennten Semesterorganisation.",
+      "Falsch: Automatisches Verrechnen ohne Prüfung gibt es nicht.",
+      "Falsch: Offene Semester bleiben offen, bis sie ordentlich abgeschlossen sind."
+    ],
+    "aufloesung": "Jedes Semester steht für sich. Was in einem Semester nicht beurteilt werden konnte, wird mit der Semesterprüfung genau dort abgeschlossen. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-013",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lukas wechselt von der Mittelschule an eine höhere Schule und soll dort in Latein einsteigen, das er bisher nie hatte. Die aufnehmende Schule will fair über die Einstufung entscheiden.",
+    "optionen": [
+      "Über eine Feststellungsprüfung, die seine Vorkenntnisse für die Einstufung feststellt.",
+      "Über eine Nachtragsprüfung, weil ihm Unterricht fehlt.",
+      "Über eine Wiederholungsprüfung, weil er das Fach noch nie hatte.",
+      "Überhaupt nicht, die Einstufung erfolgt nach dem Alter."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Feststellungsprüfung ist genau für solche Einstufungsfragen beim Übertritt da.",
+      "Falsch: Versäumt an dieser Schule hat Lukas nichts.",
+      "Falsch: Wiederholen kann man nur, was man schon einmal negativ abgeschlossen hat.",
+      "Falsch: Das Alter ersetzt keinen festgestellten Kenntnisstand."
+    ],
+    "aufloesung": "Lukas legt eine Feststellungsprüfung ab. Sie zeigt sachlich, ob und wie er in Latein einsteigen kann. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-014",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Anmeldung zur Nachtragsprüfung deines Schülers trifft erst nach Ablauf der Frist bei der Direktion ein. Die Eltern bitten um Nachsicht und wollen trotzdem antreten.",
+    "optionen": [
+      "Die verspätete Anmeldung wird stillschweigend als fristgerecht behandelt.",
+      "Ohne fristgerechte Anmeldung gibt es keinen Antritt, das Fristversäumnis wird dokumentiert und mitgeteilt.",
+      "Die Frist gilt nur für manche Fächer und kann hier ignoriert werden.",
+      "Der Schüler darf antreten, wenn er sich mündlich entschuldigt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zurückdatieren oder Durchwinken verfälscht das Verfahren.",
+      "Richtig: Fristen sichern gleiche Regeln für alle und gehören dokumentiert.",
+      "Falsch: Fristen gelten einheitlich, nicht nach Belieben je Fach.",
+      "Falsch: Eine mündliche Entschuldigung ersetzt die fristgerechte Anmeldung nicht."
+    ],
+    "aufloesung": "Ohne fristgerechte Anmeldung kein Antritt. Das Versäumnis wird festgestellt, schriftlich mitgeteilt und das nächste Jahr geplant. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L1-015",
+    "modul_id": "A22",
+    "level": "L1",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am Tag seiner Semesterprüfung wacht Felix mit hohem Fieber auf und kann nicht kommen. Seine Eltern melden ihn morgens krank und fragen, ob damit alles verloren ist.",
+    "optionen": [
+      "Ja, wer fehlt, ist automatisch durchgefallen ohne weitere Prüfung.",
+      "Nein, bei belegter Verhinderung wird ein Ersatztermin geprüft und alles dokumentiert.",
+      "Ja, aber nur wenn die Prüfung an einem Montag stattfindet.",
+      "Nein, die Prüfung wird einfach als bestanden eingetragen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Automatisches Durchfallen ohne Blick auf die Gründe ist falsch.",
+      "Richtig: Belegte Krankheit führt zum Ersatzweg statt zur Strafe.",
+      "Falsch: Der Wochentag spielt für die Regelung keine Rolle.",
+      "Falsch: Geschenkte Noten ohne Prüfung gibt es nicht."
+    ],
+    "aufloesung": "Felix ist nicht automatisch durchgefallen. Mit Nachweis wird ein Ersatztermin geprüft und jeder Schritt dokumentiert. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]

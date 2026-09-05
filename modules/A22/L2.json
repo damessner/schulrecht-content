@@ -1,1 +1,538 @@
-[]
+[
+  {
+    "id": "A22-L2-001",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bist Klassenvorstand und sollst prüfen, ob bei deiner lang erkrankten Schülerin die Grundlage für eine Note überhaupt reicht. Was gehört zu einem sauberen Check der Beurteilungsgrundlage? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Feststellen, aus welchem Zeitraum wie viele beurteilbare Leistungen vorliegen.",
+      "Fehlzeiten, Belege und bisherige Fördermaßnahmen in den Akt aufnehmen.",
+      "Mit der Schülerin und den Eltern den versäumten Stoffumfang ehrlich besprechen.",
+      "Einfach eine Note aus dem Bauchgefühl eintragen, damit das Zeugnis vollständig wirkt.",
+      "Die Entscheidung über den Prüfungsweg der Schulleitung vorbereitet vorlegen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur wer Zeitraum und Leistungen kennt, kann über die Grundlage urteilen.",
+      "Richtig: Belege im Akt machen die Entscheidung nachvollziehbar.",
+      "Richtig: Offene Gespräche verhindern falsche Erwartungen an die Prüfung.",
+      "Falsch: Bauchgefühl ersetzt keine ausreichende Leistungsgrundlage.",
+      "Richtig: Die Anordnung trifft die Leitung auf Basis deiner Vorbereitung."
+    ],
+    "aufloesung": "Prüfe Leistungen, lege Belege ab, sprich offen mit allen und bereite die Entscheidung der Leitung vor. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-002",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler fehlt seit Wochen wegen einer schweren Erkrankung, die Beurteilungsgrundlage schmilzt. Welche Schritte setzt du als Schule korrekt? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Fehlzeiten laufend dokumentieren und Entschuldigungen sowie Atteste sammeln.",
+      "Klassenkonferenz und Schulleitung früh über die drohende Lücke informieren.",
+      "Den versäumten Stoff eingrenzen und Lernunterstützung anbieten, soweit möglich.",
+      "Still abwarten und hoffen, dass sich die Lücke von selbst schließt.",
+      "Dem Schüler ohne jede Prüfung ein Zeugnis mit erfundenen Noten ausstellen.",
+      "Den Prüfungsweg für den Schuljahresanfang vorbereiten und den Eltern erklären."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lückenlose Dokumentation trägt jede spätere Entscheidung.",
+      "Richtig: Frühe Information verschafft Zeit für faire Lösungen.",
+      "Richtig: Eingegrenzter Stoff plus Unterstützung halten die Tür offen.",
+      "Falsch: Abwarten ohne Plan verschärft das Problem.",
+      "Falsch: Erfundene Noten sind unzulässig und unfair.",
+      "Richtig: Rechtzeitig vorbereitet startet niemand überrumpelt in den Herbst."
+    ],
+    "aufloesung": "Dokumentiere, informiere früh, grenze den Stoff ein und bereite den Prüfungsweg vor. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-003",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "In deiner Oberstufenklasse mit getrennten Halbjahren sind mehrere Semesterleistungen wackelig. Was musst du über die Semesterorganisation im Alltag beachten? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Jedes Semester wird eigenständig beurteilt und abgeschlossen.",
+      "Ein nicht beurteiltes Semester wird über die Semesterprüfung genau dort abgeschlossen.",
+      "Bereits positiv abgeschlossene Semester werden nicht neu aufgerollt.",
+      "Beide Semester werden immer zu einer einzigen Jahresnote vermischt.",
+      "Offene Semester können ersatzlos unter den Tisch fallen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eigenständige Semester sind der Kern der Organisation.",
+      "Richtig: Der Abschluss gehört dorthin, wo die Lücke entstanden ist.",
+      "Richtig: Abgeschlossenes bleibt abgeschlossen und wird nicht neu geprüft.",
+      "Falsch: Vermischen widerspricht der getrennten Semesterlogik.",
+      "Falsch: Offene Semester bleiben bestehen, bis sie ordentlich abgeschlossen sind."
+    ],
+    "aufloesung": "Beurteile jedes Semester für sich und schließe Lücken genau dort per Semesterprüfung. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-004",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Schulwechsel soll ein Schüler in zwei Fächern je eine Feststellungsprüfung ablegen. Du organisierst den Durchgang. Was sichert ein faires Verfahren? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Prüfungsstoff je Fach eingrenzen und dem Schüler rechtzeitig mitteilen.",
+      "Termine festsetzen und allen Beteiligten nachweislich bekannt geben.",
+      "Prüfer ordnungsgemäß bestellen und die Bestellung dokumentieren.",
+      "Protokollführung für jede Prüfung sicherstellen.",
+      "Beide Fächer zu einer einzigen Mischprüfung ohne getrennte Bewertung zusammenziehen.",
+      "Den Stoff erst am Prüfungstag verraten, damit niemand schummeln kann."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mitgeteilter Stoff ist die Fairnessbasis jeder Prüfung.",
+      "Richtig: Nachweisliche Termine beenden jeden Streit über Ladungen.",
+      "Richtig: Bestellte Prüfer plus Dokumentation sichern die Gültigkeit.",
+      "Richtig: Ohne Protokoll ist kein Ergebnis belastbar.",
+      "Falsch: Jedes Fach ist ein eigenes Verfahren mit eigener Bewertung.",
+      "Falsch: Überraschungsstoff am Prüfungstag ist unfair und angreifbar."
+    ],
+    "aufloesung": "Plane Stoff, Termine, Prüfer und Protokolle je Fach sauber und schriftlich. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-005",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor dem Herbsttermin häufen sich bei dir Anmeldungen zu Nachtrags- und Semesterprüfungen. Welche Fristen- und Organisationspunkte musst du im Griff haben? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Eingangsdatum jeder Anmeldung feststellen und dokumentieren.",
+      "Prüfen, ob die Anmeldefrist eingehalten wurde, und das Ergebnis festhalten.",
+      "Termine und Stoffmitteilungen rechtzeitig und nachweislich zustellen.",
+      "Verspätete Anmeldungen stillschweigend als fristgerecht behandeln.",
+      "Fristen je nach Sympathie großzügig oder streng auslegen.",
+      "Betroffene über Folgen von Antritt und Nichtantritt ehrlich informieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      5
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Eingangsdatum entscheidet über Fristgerechtigkeit.",
+      "Richtig: Die Fristprüfung gehört dokumentiert in den Akt.",
+      "Richtig: Nachweisliche Zustellung beendet Streit über Termine und Stoff.",
+      "Falsch: Durchwinken verfälscht das Verfahren.",
+      "Falsch: Gleiche Fristen für alle, ohne Ansehen der Person.",
+      "Richtig: Wer die Folgen kennt, kann verantwortet entscheiden."
+    ],
+    "aufloesung": "Halte Eingänge, Fristen, Termine und Informationen schriftlich und für alle gleich fest. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-006",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du leitest eine Nachtragsprüfung in Mathematik. Worauf achtest du bei Kommission, Ablauf und Protokoll? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Prüfung nur mit ordnungsgemäß bestellten Prüfern abhalten.",
+      "Ablauf, Zeitrahmen und Hilfsmittel zu Beginn klar ansagen.",
+      "Aufgaben aus dem eingegrenzten versäumten Stoff wählen.",
+      "Verlauf, Leistungen und Beurteilung im Protokoll festhalten und unterschreiben.",
+      "Die Prüfung allein ohne Bestellung durchführen, um Zeit zu sparen.",
+      "Das Ergebnis nur auf dem Gang zuflüstern statt ordentlich zu verkünden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne bestellte Prüfer ist das Ergebnis angreifbar.",
+      "Richtig: Klare Ansagen zu Beginn verhindern Einsprüche.",
+      "Richtig: Nur der eingegrenzte versäumte Stoff darf geprüft werden.",
+      "Richtig: Protokoll mit Unterschriften schließt das Verfahren belastbar ab.",
+      "Falsch: Allein ohne Bestellung prüfen ist ein Formfehler.",
+      "Falsch: Tür-und-Angel-Mitteilungen ersetzen keine Verkündung."
+    ],
+    "aufloesung": "Bestellte Prüfer, klare Ansagen, passender Stoff und ein vollständiges Protokoll tragen die Prüfung. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-007",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Prüfungstag im Herbst: Eine Kandidatin erscheint pünktlich zur Semesterprüfung, ein zweiter Kandidat meldet sich krank. Wie behandelst du beide Fälle korrekt? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Identität und Anmeldung der erschienenen Kandidatin prüfen und vermerken.",
+      "Krankmeldung mit Zeitpunkt und Wortlaut zu den Akten nehmen.",
+      "Vom erkrankten Kandidaten zeitnah einen Nachweis verlangen und Ersatztermin prüfen.",
+      "Den erkrankten Kandidaten automatisch als durchgefallen eintragen.",
+      "Die Prüfung der Anwesenden ohne Protokoll durchführen, um Zeit zu sparen.",
+      "Beide Fälle gleich behandeln, um niemanden zu bevorzugen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wer prüft, wird festgestellt und vermerkt.",
+      "Richtig: Jede Meldung gehört mit Zeitpunkt in den Akt.",
+      "Richtig: Nachweis plus Ersatztermin sind der korrekte Weg bei Krankheit.",
+      "Falsch: Automatisch durchfallen ohne Prüfung der Gründe ist falsch.",
+      "Falsch: Ohne Protokoll ist das Ergebnis wertlos.",
+      "Falsch: Ungleiche Fälle gleich zu behandeln wäre ungerecht."
+    ],
+    "aufloesung": "Anwesende ordentlich prüfen, Abwesenheit sauber dokumentieren und den Ersatzweg bei Nachweis öffnen. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-008",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Elternabend vor den Sommerferien: Mehrere Familien sind verunsichert, weil ihr Kind wegen langer Fehlzeiten eine Prüfung im Herbst ablegen soll. Worüber informierst du vollständig? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Welche Prüfung ansteht und warum genau dieser Weg gilt.",
+      "Anmeldefrist und Form der Anmeldung, schriftlich ausgehändigt.",
+      "Eingegrenzten Stoff und Terminlage für die Vorbereitung im Sommer.",
+      "Folgen von Bestehen, Nichtbestehen und Nichtantritt.",
+      "Das Versprechen, dass die Prüfung jedenfalls leicht ausfallen wird.",
+      "Die Auskunft, dass man sich auch noch mitten im Herbst anmelden kann."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wer den Grund versteht, trägt die Entscheidung mit.",
+      "Richtig: Frist plus Form schriftlich verhindern Versäumnisse.",
+      "Richtig: Stoff- und Termininfo ermöglichen echtes Sommerlernen.",
+      "Richtig: Offene Folgenaufklärung schafft realistische Erwartungen.",
+      "Falsch: Gefälligkeitsversprechen sind unredlich und falsch.",
+      "Falsch: Falsche Fristen stiften an, die echte zu versäumen."
+    ],
+    "aufloesung": "Informiere vollständig und schriftlich: Weg, Frist, Stoff, Termine und Folgen. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-009",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Alle Herbstprüfungen sind gelaufen: Zwei Nachtragsprüfungen bestanden, eine Feststellungsprüfung nicht. Was ist nach dem Durchgang zu erledigen? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Bestandene Beurteilungen korrekt nachtragen und Aufstieg vermerken.",
+      "Prüfungsakten vollständig ablegen: Anmeldung, Stoffmitteilung, Protokolle, Belege.",
+      "Betroffene Familien über Ergebnis und nächste Schritte informieren und Gespräche führen.",
+      "Protokolle wegwerfen, damit niemand mehr darin blättern kann.",
+      "Durchgefallene ohne Gespräch einfach in eine Liste eintragen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachtrag und Aufstiegsvermerk schließen den Fall sauber ab.",
+      "Richtig: Vollständige Akten schützen bei späteren Rückfragen.",
+      "Richtig: Ehrliche Gespräche gehören zu jedem Ergebnis dazu.",
+      "Falsch: Akten vernichten ist unzulässig und verdächtig.",
+      "Falsch: Listen ohne Gespräch sind schlechter Stil und fehleranfällig."
+    ],
+    "aufloesung": "Trage nach, lege vollständig ab und führe die Gespräche mit den Familien. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [
+      "SchUG §22"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-010",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Kollegen werfen Nachtrag, Wiederholung und Feststellung durcheinander. Welche Abgrenzungen stimmen? Wähle alle richtigen Aussagen.",
+    "optionen": [
+      "Nachtrag gibt es, wenn wegen Fernbleibens keine Beurteilung möglich war.",
+      "Wiederholung gibt es bei negativer Beurteilung zum Ausbessern.",
+      "Feststellung klärt Kenntnisse etwa bei Übertritt oder Einstufung.",
+      "Alle drei Prüfungsarten sind austauschbar und bedeuten das Gleiche.",
+      "Wer negativ war, kann statt der Wiederholung einfach den Nachtrag wählen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fehlende Grundlage wegen Fernbleibens gehört zum Nachtrag.",
+      "Richtig: Negative Noten gehören zur Wiederholung.",
+      "Richtig: Übertritt und Einstufung gehören zur Feststellung.",
+      "Falsch: Jede Art hat eigene Voraussetzungen und Folgen.",
+      "Falsch: Die Art lässt sich nicht nach Wunsch aussuchen."
+    ],
+    "aufloesung": "Halte die Wege sauber auseinander: Fernbleiben, negative Note und Einstufung führen zu je eigenen Prüfungen. Zum Nachlesen: SchUG §20.",
+    "hauptquelle": "SchUG §20",
+    "zusatzquellen": [
+      "SchUG §21",
+      "SchUG §22"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-011",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Als Prüfer bereitest du eine Semesterprüfung in Englisch vor. Was gehört zu einer korrekten Vorbereitung? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Den eingegrenzten Semesterstoff mit dem Kandidaten abgleichen und Aufgaben vorbereiten.",
+      "Aufgaben so wählen, dass die Stoffgebiete des Semesters abgedeckt werden können.",
+      "Bewertungsmaßstab vorab festlegen und an der Bestehensschwelle ausrichten.",
+      "Hilfsmittelregelung klären und zu Beginn der Prüfung bekannt geben.",
+      "Dem Kandidaten vorab die genauen Prüfungsfragen aushändigen.",
+      "Die Prüfung ohne Zeitrahmen spontan laufen lassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Stoffabgleich verhindert Missverständnisse am Prüfungstag.",
+      "Richtig: Ausgewogene Aufgaben sichern die Aussagekraft.",
+      "Richtig: Ein vorab festgelegter Maßstab schützt vor Willkür.",
+      "Richtig: Klare Hilfsmittelregeln vermeiden Streit.",
+      "Falsch: Fragen vorab aushändigen entwertet die Prüfung.",
+      "Falsch: Ohne Zeitrahmen wird die Prüfung beliebig und angreifbar."
+    ],
+    "aufloesung": "Bereite Semesterstoff, Aufgaben, Maßstab und Regeln vor und halte alles im Protokoll fest. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-012",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer Feststellungsprüfung berät die Kommission über das Ergebnis. Worauf muss sie bei Bewertung und Verkündung achten? Wähle alle richtigen Punkte.",
+    "optionen": [
+      "Nur die in der Prüfung gezeigte Leistung beurteilen, nicht Sympathie oder alte Zeugnisse.",
+      "Den vorab festgelegten Maßstab anwenden und das Ergebnis begründen.",
+      "Das Ergebnis in angemessener Form bekannt geben.",
+      "Bewertung und Begründung im Protokoll festhalten und unterschreiben.",
+      "Das Ergebnis nachträglich auf Wunsch am Telefon ändern.",
+      "Dem Kandidaten das Ergebnis nur auf dem Gang zuflüstern."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Es zählt die Prüfungsleistung, nichts sonst.",
+      "Richtig: Maßstab plus Begründung sichern Nachvollziehbarkeit.",
+      "Richtig: Das Ergebnis gehört ordentlich verkündet.",
+      "Richtig: Protokoll mit Unterschriften macht es belastbar.",
+      "Falsch: Telefonische Korrekturen auf Zuruf sind unzulässig.",
+      "Falsch: Tür-und-Angel-Mitteilungen ersetzen keine Verkündung."
+    ],
+    "aufloesung": "Maßstab anlegen, begründen, ordentlich verkünden und protokollieren. Zum Nachlesen: SchUG §22.",
+    "hauptquelle": "SchUG §22",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-013",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor dem Herbsttermin häufen sich Fehlerquellen: knappe Besetzung, mündliche Stoffabsprachen, fehlende Formulare. Welche Maßnahmen verhindern Formfehler bei Nachtrags- und Feststellungsprüfungen? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Besetzung vorab prüfen und Vertretungen einteilen.",
+      "Stoffeingrenzung schriftlich übermitteln und Ablage aufbewahren.",
+      "Protokollformulare und Unterschriftenregelung vorbereiten.",
+      "Termine und Ladungen nachweislich zustellen.",
+      "Sich darauf verlassen, dass schon niemand Beschwerde einlegen wird.",
+      "Stoffabsprachen nur mündlich am Telefon treffen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vertretungen retten die Beschlussfähigkeit.",
+      "Richtig: Schriftlicher Stoff ist im Streitfall belegbar.",
+      "Richtig: Vorbereitete Formulare sichern vollständige Protokolle.",
+      "Richtig: Nachweisliche Ladung beendet Termin-Streitigkeiten.",
+      "Falsch: Auf ausbleibende Beschwerden zu hoffen ist keine Strategie.",
+      "Falsch: Mündliches ist im Ernstfall nicht beweisbar."
+    ],
+    "aufloesung": "Formfehler vermeidest du mit Schriftlichkeit: Besetzung, Stoff, Ladung, Protokoll. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [
+      "SchUG §22"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-014",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler tritt im Herbst in zwei Fächern an: In Chemie zur Nachtragsprüfung, in Physik zur Feststellungsprüfung nach Schulwechsel. In Chemie erscheint er gesund, für Physik meldet er sich krank mit Beleg. Was ist korrekt? Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "Beide Fächer sind getrennte Verfahren mit eigenen Protokollen und Bewertungen.",
+      "Das Chemie-Ergebnis steht für sich und wird dokumentiert.",
+      "Für Physik ist nach Nachweis ein Ersatztermin zu prüfen.",
+      "Das Chemie-Ergebnis kann wegen der Physik-Krankheit nachträglich aufgehoben werden.",
+      "Beide Prüfungen zu einer Gesamtnote zusammenziehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jedes Fach läuft als eigenes Verfahren.",
+      "Richtig: Angetreten und beurteilt bleibt beurteilt.",
+      "Richtig: Belegte Krankheit führt zum Ersatzweg im betroffenen Fach.",
+      "Falsch: Andere Fächer werden nicht nachträglich aufgehoben.",
+      "Falsch: Zusammengezogene Gesamtprüfungen gibt es nicht."
+    ],
+    "aufloesung": "Trenne die Verfahren sauber: ein Fach abgeschlossen, eines über den Ersatzweg. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [
+      "SchUG §22"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A22-L2-015",
+    "modul_id": "A22",
+    "level": "L2",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Anmeldung zur Semesterprüfung trifft erst nach Ablauf der Frist ein, die Eltern bitten um Nachsicht. Wie gehst du korrekt vor? Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Eingangsdatum der Anmeldung feststellen und dokumentieren.",
+      "Prüfen, ob die Frist tatsächlich versäumt wurde, und das Ergebnis festhalten.",
+      "Den Eltern die Rechtslage und die Folge des Fristversäumnisses schriftlich mitteilen.",
+      "Den weiteren Weg, etwa das Wiederholen des Semesters, ehrlich besprechen.",
+      "Die verspätete Anmeldung stillschweigend als fristgerecht behandeln.",
+      "Die Frist je nach Sympathie unterschiedlich handhaben."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Eingangsdatum ist die entscheidende Tatsache.",
+      "Richtig: Die Fristprüfung gehört dokumentiert.",
+      "Richtig: Schriftliche Mitteilung schafft Klarheit für alle.",
+      "Richtig: Die Perspektive ehrlich ansprechen statt vertrösten.",
+      "Falsch: Zurückdatieren verfälscht das Verfahren.",
+      "Falsch: Gleiche Fristen für alle, Sympathie spielt keine Rolle."
+    ],
+    "aufloesung": "Fristversäumnis feststellen, dokumentieren, schriftlich mitteilen und den nächsten Schritt planen. Zum Nachlesen: SchUG §21.",
+    "hauptquelle": "SchUG §21",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]
