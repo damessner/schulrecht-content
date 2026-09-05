@@ -1,1 +1,386 @@
-[]
+[
+  {
+    "aufloesung": "Die Einschätzung als harmloser Streit war falsch. Bei Wiederholung über Wochen mit Machtgefälle und Angst vor den Pausen liegt kein Alltagsstreit mehr vor, sondern ein Muster mit Interventionspflicht. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A24-L3-001",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Die Lehrkraft durfte abwarten, weil Streit zum Schulalltag gehört und sich von selbst löst.",
+      "Die Einstufung war falsch, Wiederholung mit Machtgefälle und Meidung verlangt Hinschauen und Intervention.",
+      "Richtig wäre gewesen, die Betroffene vor der Klasse zur Aussprache zu zwingen.",
+      "Zuständig wäre allein die Polizei gewesen, die Schule hätte nichts tun dürfen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wiederholung mit Angst ist kein Bagatellstreit zum Abwarten.",
+      "Richtig: Muster, Gefälle und Folgen markieren die Grenze zum Eingreifen.",
+      "Falsch: Zwangsaussprache vor Publikum beschämt und verschärft.",
+      "Falsch: Die Schule behält ihren eigenen Erziehungs- und Schutzauftrag."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler wird seit Wochen regelmäßig ausgegrenzt und abgewertet und meidet inzwischen die Pausen. Die Lehrkraft stuft das als normalen Streit unter Jugendlichen ein, beobachtet nicht weiter und setzt keine Gespräche an.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Das Abtun als harmlose Rangelei war falsch. Bei aufgeheizter Lage mit Zuschauertraube haben Trennen, Abstand und Sicherung der Aufsicht Vorrang, die Klärung folgt erst nach Beruhigung. Zum Nachlesen: LDG §43 Abs.1.",
+    "hauptquelle": "LDG §43 Abs.1",
+    "id": "A24-L3-002",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Die Lehrkraft durfte weitergehen, weil sich körperliche Auseinandersetzungen unter Schülern selbst regeln.",
+      "Die Lage verlangte sofortiges Trennen, Abstand für Umstehende und Sicherung der Aufsicht vor jeder Schuldfrage.",
+      "Richtig wäre gewesen, sofort vor allen Zuschauern festzulegen, wer schuld ist.",
+      "Zum Eingreifen hätte es erst einer schriftlichen Anweisung der Direktion bedurft."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zuschauen bei Eskalation verletzt die Schutzpflicht.",
+      "Richtig: Deeskalation und Aufsicht sichern geht vor Klärung.",
+      "Falsch: Schnellurteile vor Publikum eskalieren und beschämen.",
+      "Falsch: Schutzhandeln duldet keinen Aufschub für Schriftverkehr."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am Gang geraten zwei Burschen lautstark aneinander, um sie bildet sich eine Traube. Die Aufsicht führende Lehrkraft winkt ab, spricht von einer harmlosen Rangelei und geht weiter, statt einzugreifen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Das Alleinabhandeln war falsch. Gewaltvorfälle meldet die Lehrkraft unverzüglich der Schulleitung, die Schutz, Elterninformation und Hilfen steuert, statt sie aus Kollegialität zurückzuhalten. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "A24-L3-003",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Die Lehrkraft durfte den Vorfall allein regeln und auf die Meldung verzichten, um den Schüler zu schonen.",
+      "Der Vorfall hätte unverzüglich der Direktion gemeldet werden müssen, die weitere Schritte veranlasst.",
+      "Eine Meldung wäre erst am Semesterende in einem Sammelbericht fällig gewesen.",
+      "Gemeldet wird nur, wenn die Eltern des betroffenen Schülers es ausdrücklich verlangen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schonung durch Schweigen bricht die vorgesehene Schutzkette.",
+      "Richtig: Rasche Meldung sichert Schutz, Hilfe und Dokumentation.",
+      "Falsch: Sammelberichte verzögern Schutz unzulässig.",
+      "Falsch: Die Meldepflicht hängt nicht vom Elternwunsch ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer handgreiflichen Auseinandersetzung in der großen Pause verspricht ein Lehrer dem beteiligten Schüler, niemanden zu informieren, und regelt die Sache allein per Handschlag, ohne Direktion oder Eltern einzubinden.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Das Versprechen absoluter Geheimhaltung war falsch. Vertrauliche Gespräche sind wichtig, bei fortgesetzter Gefährdung trägt aber die Schutz- und Meldepflicht, die Lehrkraft muss nächste Schritte ehrlich ankündigen. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "A24-L3-004",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Absolute Geheimhaltung muss in jedem Fall eingehalten werden, auch bei weiterer Gefährdung.",
+      "Die Lehrkraft hört im Schutzrahmen zu, erklärt aber ehrlich Melde- und Schutzschritte und gibt sie weiter.",
+      "Richtig wäre gewesen, die Schilderung sofort vor der Klasse zu besprechen.",
+      "Der Vorfall geht nur die Betroffenen etwas an, Eltern und Direktion bleiben außen vor."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schutzpflicht begrenzt Vertraulichkeit bei Gefährdung.",
+      "Richtig: Zuhören plus ehrliche Transparenz über die Kette stabilisiert.",
+      "Falsch: Bühne vor der Klasse beschämt und blockiert Vertrauen.",
+      "Falsch: Direktion und Eltern gehören zur vorgesehenen Kette."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin berichtet von fortgesetzten Drohungen und bittet um völliges Stillschweigen. Die Lehrerin verspricht, niemandem etwas zu sagen, und unternimmt danach nichts weiter, um das Vertrauen nicht zu gefährden.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §48 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Das späte Wertungsprotokoll ist unbrauchbar. Ein Verwendbares hält zeitnah sachlich Ablauf, Zeit, Ort, Beteiligte, Zeugen sowie Maßnahmen und Meldungen fest, ohne Charakterurteile und Gerüchte. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "A24-L3-005",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Wochen später verfasste Charakterurteile genügen als Dokumentation für Elterngespräche und Behörden.",
+      "Erforderlich ist eine zeitnahe sachliche Darstellung mit Ablauf, Beteiligten, Zeugen, Maßnahmen und Meldungen.",
+      "Aufzeichnungen schaden nur und sollten zur Schonung aller unterbleiben.",
+      "Gerüchte aus Chatgruppen dürfen ungeprüft als Tatsachen ins Protokoll übernommen werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Späte Wertungen sind ungenau und für Verfahren wertlos.",
+      "Richtig: Nüchterne Fakten plus Maßnahmenkette tragen die nächsten Schritte.",
+      "Falsch: Ohne Dokumentation bricht Schutz und Nachweis ab.",
+      "Falsch: Ungeprüftes braucht Abklärung, keine Übernahme."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Wochen nach einer Eskalation am Schulhof verfasst die Aufsicht führende Lehrkraft auf Bitte der Direktion ein kurzes Gedächtnisprotokoll voller Deutungen über Charakter und Familie, ohne Zeit, Ablauf und gesetzte Maßnahmen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Der sofortige Ruf nach der härtesten Maßnahme war falsch. Auch nach Gewalt gilt die Stufung von pädagogischen und organisatorischen Schritten bis zum förmlichen Verfahren, Sprünge brauchen eigene Voraussetzungen und Dokumentation. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A24-L3-006",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Nach jeder Eskalation muss sofort die härteste Maßnahme ohne Vorstufen verhängt werden.",
+      "Auch nach Gewalt wird gestuft vorgegangen und jede Stufe mit Anlass, Zuständigkeit und Kontrolle dokumentiert.",
+      "Zur Abschreckung ist eine Strafe für die ganze Klasse das Mittel der Wahl.",
+      "Eltern und Beratung sind bei Gewalt grundsätzlich außen vor zu lassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Verhältnismäßigkeit verlangt Stufung statt Automatismus.",
+      "Richtig: Aufbau mit Kontrolle trägt mehr als ein Sprung.",
+      "Falsch: Kollektivstrafen sind ausdrücklich verboten.",
+      "Falsch: Eltern und Hilfen gehören früh dazu."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem ernsten Vorfall in einer dritten Klasse fordert ein Lehrer, ohne Gespräche, Vereinbarungen oder Prüfung sofort die schärfste verfügbare Maßnahme zu verhängen, damit endlich Ruhe herrscht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §49 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Lehrkraft hat die Kipppunkte übersehen. Wiederholung, gezielte Entwertung, Machtgefälle und Rückzug mit Angst sind die Signale, die vom Abwarten zum Handeln zwingen. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A24-L3-007",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Wiederholtes Ausgrenzen derselben Person über Wochen",
+      "Systematisches Abwerten vor anderen mit deutlichem Machtgefälle",
+      "Rückzug und Angst vor Pausen und Schulweg",
+      "Einmalige sachliche Meinungsverschiedenheit ohne Fortsetzung",
+      "Zufällige Sitzplatzwahl ohne Personenbezug",
+      "Einvernehmliches Spiel mit klaren Regeln"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wiederholung trennt Muster vom Einzelfall.",
+      "Richtig: Entwertung mit Gefälle ist ein Kernsignal.",
+      "Richtig: Meidung zeigt Belastungsfolgen und Handlungsdruck.",
+      "Falsch: Einzelne Differenzen ohne Fortsetzung sind normal.",
+      "Falsch: Zufälligkeiten ohne Bezug sind kein Signal.",
+      "Falsch: Einvernehmen und Regeln sprechen gegen Gewalt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Lehrerin deutet monatelange Ausgrenzung mit abwertenden Bemerkungen als pubertäre Phase und wartet ab. Erst nach einem offenen Eklat zeigt sich, wie lange das Muster schon lief. Welche Signale hätten früher zum Umsteuern zwingen müssen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die Kette wurde an mehreren Stellen gebrochen. Unverzügliche Meldung, Steuerung durch die Direktion und frühe Elterneinbindung mit Dokumentation hätten Schutz und Hilfe gesichert. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "A24-L3-008",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Lehrkraft meldet den Vorfall unverzüglich der Direktion",
+      "Direktion prüft Schutz, informiert beide Elternhäuser und zieht Hilfen bei",
+      "Ablauf, Maßnahmen und Meldungen werden sachlich dokumentiert",
+      "Bei Erziehungsbedarf wird das Einvernehmen mit den Eltern gesucht",
+      "Vorfall nur im Lehrerzimmer erzählen und nichts festhalten",
+      "Meldung bis zum Schuljahresende aufsparen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rasche Meldung startet Schutz und Verfahren.",
+      "Richtig: Steuerung und beidseitige Information liegen bei der Leitung.",
+      "Richtig: Nur Festgehaltenes trägt Elterngespräche und Folge.",
+      "Richtig: Frühes Einvernehmen unterbricht Muster.",
+      "Falsch: Flurgespräche ersetzen keine Meldung.",
+      "Falsch: Aufschieben verzögert Hilfe unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer Eskalation in der Pause regelt der Lehrer die Sache allein, erzählt nur im Lehrerzimmer davon und informiert weder Direktion noch Eltern. Wochen später eskaliert es erneut. Was wäre beim ersten Vorfall korrekt gewesen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §48 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Das Protokoll scheitert an Form und Inhalt. Zeit und Ort, sachlicher Ablauf und die Kette aus Maßnahmen und Meldungen machen es brauchbar, Wertungen und Gerüchte machen es wertlos. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "A24-L3-009",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Datum, Zeit, Ort und anwesende Personen fehlen und müssen ergänzt werden",
+      "Sachlicher Ablauf ohne Deutungen sowie gesetzte Maßnahmen und Meldungen gehören hinein",
+      "Charakterurteile und Familiengeschichte gehören als Kern ins Protokoll",
+      "Ungesicherte Chatgerüchte dürfen als bewiesene Tatsachen übernommen werden",
+      "Unterschrift, Datum der Niederschrift und Ablage im vorgesehenen Weg sichern die Akte",
+      "Auf jede Aufzeichnung sollte verzichtet werden, um niemanden zu belasten"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verankerung in Zeit und Ort fehlt hier.",
+      "Richtig: Nüchterner Ablauf plus Kette trägt die Folge.",
+      "Falsch: Wertungen haben im Protokoll nichts verloren.",
+      "Falsch: Gerüchte brauchen Prüfung statt Übernahme.",
+      "Richtig: Form und Ablage sichern Auffindbarkeit.",
+      "Falsch: Verzicht bricht Schutz und Nachweis ab."
+    ],
+    "richtig": [
+      0,
+      1,
+      4
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Direktion kann mit der eingereichten Darstellung zu einem Pausenhofvorfall weder das Elterngespräch führen noch eine Behördenmeldung vorbereiten: Zeitangaben fehlen, Ablauf und Maßnahmen sind unklar, dafür steht viel Deutung darin. Was muss korrigiert werden?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Mehrere Fehler kamen zusammen. Bühne vor der Gruppe, Demütigung als Mittel und versprochene Geheimhaltung verletzen Schutz und Recht, gefragt sind Einzelrahmen, Sachlichkeit und ehrliche Information. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A24-L3-010",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Betroffene vor der Gruppe ausfragen und Täter dort vorführen ist ein Fehler",
+      "Demütigende Bemerkungen als Druckmittel sind verboten",
+      "Absolute Geheimhaltung bei weiterer Gefährdung zu versprechen ist ein Fehler",
+      "Ruhiger Einzelrahmen mit Zuhören und ehrlicher Erklärung der Schritte wäre richtig",
+      "Schutz und Beruhigung zuerst zu setzen wäre richtig",
+      "Bloßstellung vor der Klasse schreckt wirksam ab und ist daher geboten"
+    ],
+    "pro_option_feedback": [
+      "Richtig benannt als Fehler: Bühne verletzt und blockiert.",
+      "Richtig benannt als Fehler: Entwürdigung ist ausdrücklich verboten.",
+      "Richtig benannt als Fehler: Schutz begrenzt Vertraulichkeit.",
+      "Falsch als Fehler: Genau das ist geboten.",
+      "Falsch als Fehler: Genau das ist geboten.",
+      "Falsch: Abschreckung heilt das Verbot nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach wiederholten Bedrängungen fragt die Lehrkraft die Betroffene vor der versammelten Klasse aus, stellt den Beschuldigten dort zur Rede und verspricht beiden, alles bleibe unter ihnen. Welche Fehler stecken in diesem Vorgehen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §48 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Nachsorge wurde versäumt. Konkrete Vereinbarungen, kurze Kontrolltermine und fortlaufende Dokumentation mit Elterneinbindung sichern, dass Beruhigung hält. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A24-L3-011",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Konkrete Verhaltensvereinbarungen mit beiden Seiten festhalten",
+      "Kurze Kontrolltermine mit klaren Ansprechpersonen vereinbaren",
+      "Beobachtungen weiter dokumentieren und Eltern einbinden",
+      "Nach einem Handschlag alles laufen lassen und nicht mehr nachfragen",
+      "Erfolg allein an Versprechen ohne Überprüfung messen",
+      "Die Nachsorge allein den Mitschülern überlassen"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Konkretion macht Einhaltung prüfbar.",
+      "Richtig: Termine und Personen geben Halt.",
+      "Richtig: Dranbleiben erkennt Rückfälle früh.",
+      "Falsch: Ohne Kontrolle brechen Muster wieder auf.",
+      "Falsch: Worte ohne Taten genügen nicht.",
+      "Falsch: Verantwortung bleibt bei Schule und Eltern."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Schüler versprechen nach einem heftigen Konflikt Besserung und geben sich die Hand. Der Klassenvorstand hakt nicht mehr nach, drei Wochen später eskaliert es erneut. Was hätte die Nachsorge sichern müssen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §48 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Handschlag und Beruhigung ersetzen weder Meldung noch Dokumentation und Nachsorge, sonst bleibt die Kette unterbrochen und Rückfälle bleiben unerkannt. Zum Nachlesen: LDG §45 Abs.1.",
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "A24-L3-012",
+    "level": "L3",
+    "modul_id": "A24",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Beruhigung heilt weder Melde- noch Dokupflicht.",
+      "Richtig erkannt: Kette und Kontrolle bleiben auch nach Handschlag Pflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Eine Kollegin behauptet, wenn sich nach einem heftigen Streit beide die Hand geben und sich beruhigen, braucht es keine Meldung, kein Protokoll und keine Nachsorge mehr.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]

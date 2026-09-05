@@ -1,1 +1,260 @@
-[]
+[
+  {
+    "aufloesung": "Der Ausschluss per Zuruf war rechtswidrig. Ein Ausschluss setzt schwerwiegende Pflichtverletzungen bei erfolglosen milderen Mitteln oder dauernde Gefährdung voraus, mit Anhörung und Entscheidung der Behörde per Bescheid. Zum Nachlesen: SchUG §49 Abs.1.",
+    "hauptquelle": "SchUG §49 Abs.1",
+    "id": "A24-L4-001",
+    "level": "L4",
+    "modul_id": "A24",
+    "optionen": [
+      "Der Schulleiter darf den Schüler sofort selbst mündlich von der Schule weisen.",
+      "Ein Ausschluss braucht Anlass, erfolglose mildere Mittel oder Gefährdung, Anhörung und Behördenbescheid.",
+      "Nach einem einzigen Vorfall ohne Vorstufen ist der Ausschluss immer zulässig.",
+      "An allgemein bildenden Pflichtschulen ist jeder Ausschluss ohne weitere Voraussetzung möglich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mündlicher Rausschmiss ersetzt kein förmliches Verfahren.",
+      "Richtig: Anlass, Stufung, Anhörung und Bescheid sichern die letzte Stufe.",
+      "Falsch: Ohne Stufung und Prüfung trägt ein Einzelfall das nicht.",
+      "Falsch: Dort gilt nur Gefährdung bei gesicherter Schulpflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach wiederholten schweren Vorfällen mit Drohungen will ein Schulleiter einen Schüler sofort selbst mündlich ausschließen, ohne Anhörung und ohne Befassung der Behörde, weil die Geduld erschöpft ist.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §49 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Versetzung war zulässig und richtig zugeordnet. Aus erzieherischen Gründen oder zur Aufrechterhaltung der Ordnung kann der Schulleiter in eine Parallelklasse versetzen, statt die Eskalation weiterlaufen zu lassen. Zum Nachlesen: SchUG §47 Abs.2.",
+    "hauptquelle": "SchUG §47 Abs.2",
+    "id": "A24-L4-002",
+    "level": "L4",
+    "modul_id": "A24",
+    "optionen": [
+      "Eine Versetzung in die Parallelklasse ist nach Gewalt grundsätzlich nie zulässig.",
+      "Der Schulleiter kann bei erzieherischer Notwendigkeit oder aus Ordnungsgründen in die Parallelklasse versetzen.",
+      "Dafür braucht es einen Gerichtsbeschluss und die Zustimmung der Elternschaft.",
+      "Zuständig ist die Klassensprecherin im Einvernehmen mit der Klasse."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Maßnahme ist für genau solche Lagen vorgesehen.",
+      "Richtig: Grund plus Zuständigkeit der Schulleitung tragen die Beruhigung.",
+      "Falsch: Es ist eine schulische Ordnungsmaßnahme ohne Gericht.",
+      "Falsch: Die Klasse ersetzt die Schulleitung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Schüler sprengen nach einem Gewaltvorfall weiter regelmäßig den Unterricht, alle Gespräche und Vereinbarungen blieben erfolglos. Die Schulleitung will zur Beruhigung einen der beiden in die Parallelklasse versetzen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Das Nachsitzen der ganzen Klasse war rechtswidrig. Kollektivstrafen sind verboten, weil Maßnahmen nur an eigenes Verhalten anknüpfen dürfen, der Vorfall ist individuell zu ermitteln und aufzuarbeiten. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A24-L4-003",
+    "level": "L4",
+    "modul_id": "A24",
+    "optionen": [
+      "Die Kollektivmaßnahme ist zulässig, weil sonst der Täter nie gefunden wird.",
+      "Eine Strafe für die ganze Klasse bei unklarem Täter ist eine verbotene Kollektivstrafe.",
+      "Zulässig wäre sie mit Zustimmung der Klassensprecherin.",
+      "Zulässig wäre sie nur in der Oberstufe, nicht in der Unterstufe."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ermittlungsdruck heilt das ausdrückliche Verbot nicht.",
+      "Richtig: Ohne individuelles Fehlverhalten keine Strafe.",
+      "Falsch: Zustimmung heilt ein Verbot nicht.",
+      "Falsch: Die Stufe spielt für das Verbot keine Rolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer Sachbeschädigung mit unklarem Täter lässt eine Lehrkraft die gesamte Klasse nachsitzen, bis sich jemand meldet. Die unbeteiligten Schüler und ihre Eltern protestieren gegen die Maßnahme.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Die zusätzliche Schulstrafe war unzulässig. Verhalten außerhalb der Schule darf berücksichtigt werden, dabei sind aber nur milde Mittel und Verständigungen erlaubt, bei Behördenbefassung tritt die Schule mit Strafen zurück. Zum Nachlesen: SchUG §47 Abs.4.",
+    "hauptquelle": "SchUG §47 Abs.4",
+    "id": "A24-L4-004",
+    "level": "L4",
+    "modul_id": "A24",
+    "optionen": [
+      "Die Schule darf jede Freizeittat mit allen Schulstrafen zusätzlich belegen.",
+      "Zulässig sind nur milde Mittel und Verständigung, keine zusätzliche Bestrafung bei Behördenverfahren.",
+      "Die Schule muss Vorfälle außerhalb immer vollständig ignorieren.",
+      "Nur die Schule darf strafen, Polizei und Gericht müssen sich zurückhalten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade für Außenverhalten ist das Strafen begrenzt.",
+      "Richtig: Berücksichtigen ja, draufschlagen bei Behördenfall nein.",
+      "Falsch: Wegschauen ist nicht verlangt, Maß halten schon.",
+      "Falsch: Genau umgekehrt tritt die Schule mit Strafen zurück."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer Auseinandersetzung am Wochenende ermittelt bereits die Polizei. Die Schule erfährt davon am Montag, der Abteilungsvorstand will für das private Wochenendverhalten eine empfindliche Schulstrafe verhängen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §48"
+    ]
+  },
+  {
+    "aufloesung": "Der Ausschluss ist die letzte Stufe mit strengem Verfahren. Anlass mit Stufung, Anhörung der Betroffenen und Behördenentscheidung mit Bescheid gehören zusammen, an Pflichtschulen gilt zusätzlich die Gefährdungsgrenze. Zum Nachlesen: SchUG §49 Abs.1.",
+    "hauptquelle": "SchUG §49 Abs.1",
+    "id": "A24-L4-005",
+    "level": "L4",
+    "modul_id": "A24",
+    "optionen": [
+      "Schwerwiegende Pflichtverletzungen bei erfolglosen milderen Mitteln können zum Ausschluss führen",
+      "Dauernde Gefährdung von Sicherheit, Sittlichkeit oder Eigentum kann zum Ausschluss führen",
+      "Vor dem Antrag sind Schüler und Eltern anzuhören und entscheiden tut die Behörde per Bescheid",
+      "Der Schulleiter spricht den Ausschluss allein mündlich am Gang aus",
+      "Ein einziger leichter Zwischenfall ohne Vorstufen genügt immer",
+      "An allgemein bildenden Pflichtschulen ist jeder Ausschluss ohne Grenze zulässig"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erst mildere Mittel, dann letzte Stufe.",
+      "Richtig: Der Gefährdungstatbestand steht daneben.",
+      "Richtig: Anhörung und Bescheid sichern das Verfahren.",
+      "Falsch: Gangentscheidung ersetzt Antrag und Bescheid nicht.",
+      "Falsch: Ohne Schwere und Stufung trägt das nicht.",
+      "Falsch: Dort gilt nur Gefährdung bei gesicherter Schulpflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach monatelanger Gewalt mit erfolglosen Ermahnungen und Elterngesprächen denkt eine Schule über einen Ausschluss nach. Der Schulleiter will sofort selbst mündlich entscheiden. Welche Aussagen zum Verfahren stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §49 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Stufung trägt auch im Transferfall. Pädagogische Einwirkung, verdichtete Hilfe mit Eltern und Beratung sowie organisatorische Beruhigung gehen dem förmlichen Verfahren vor, Sprünge und Kollektivstrafen scheiden aus. Zum Nachlesen: SchUG §47 Abs.1.",
+    "hauptquelle": "SchUG §47 Abs.1",
+    "id": "A24-L4-006",
+    "level": "L4",
+    "modul_id": "A24",
+    "optionen": [
+      "Pädagogisches Gespräch mit klarer Grenze und Wiedergutmachung als erste Stufe",
+      "Verdichtete Begleitung mit Elterngesprächen, Beratung und Kontrollterminen als zweite Stufe",
+      "Organisatorische Beruhigung durch die Schulleitung, etwa Versetzung in die Parallelklasse",
+      "Sofort mit der härtesten Maßnahme ohne jede Vorstufe beginnen",
+      "Kollektivstrafe gegen die ganze Klasse zur Abschreckung verhängen",
+      "Förmliches Verfahren bei schwerer Gefährdung über Schulleitung und Behörde als letzte Stufe"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Grenze plus Verantwortung als Einstieg.",
+      "Richtig: Hilfe verdichten und Einhaltung kontrollieren.",
+      "Richtig: Trennung beruhigt die Lage organisatorisch.",
+      "Falsch: Automatismus verletzt die Verhältnismäßigkeit.",
+      "Falsch: Kollektivstrafen sind ausdrücklich verboten.",
+      "Richtig: Förmlichkeit sichert schwere Eingriffe ab."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du sollst für wiederholte Gewalt in einer Klasse die Brücke von der Krise zur Ordnungsebene schulen: von der pädagogischen Intervention bis zum förmlichen Verfahren, ohne Stufen zu überspringen. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §47 Abs.2",
+      "SchUG §49 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Krise und Verfahren laufen nebeneinander. Schutz und Meldung sichern sofort, Elterngespräche und Hilfen tragen die Mitte, bei Pflichtversagen der Eltern und Behördenbedarf entscheidet die Leitung über externe Wege. Zum Nachlesen: SchUG §48 Abs.1.",
+    "hauptquelle": "SchUG §48 Abs.1",
+    "id": "A24-L4-007",
+    "level": "L4",
+    "modul_id": "A24",
+    "optionen": [
+      "Lehrkraft meldet unverzüglich der Direktion und dokumentiert sachlich",
+      "Beide Elternhäuser werden früh sachlich informiert und Vereinbarungen getroffen",
+      "Beratung wird beigezogen, bei offensichtlicher Pflichtverletzung der Eltern die Jugendhilfe verständigt",
+      "Alles schulintern verschweigen und erst am Jahresende gesammelt berichten",
+      "Nur eine Seite informieren und die andere bewusst aussperren",
+      "Externe Stellen grundsätzlich nie einschalten, auch bei Gefährdung nicht"
+    ],
+    "pro_option_feedback": [
+      "Richtig: Meldung plus Protokoll startet Schutz und Verfahren.",
+      "Richtig: Beidseitige frühe Info verhindert Eskalation.",
+      "Richtig: Fachhilfe und Jugendhilfe sichern die Kette.",
+      "Falsch: Verschweigen bricht Schutz und Verfahren.",
+      "Falsch: Einseitigkeit verzerrt und eskaliert.",
+      "Falsch: Bei Gefährdung laufen externe Wege über die Leitung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem schweren Gewaltvorfall mit parallelem Disziplinarvorwurf musst du Sofortschutz, Elternarbeit und Behördenkette sauber verbinden. Das Kollegium streitet über Meldung, Einseitigkeit und externe Hilfe. Welche Aussagen stimmen?",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §48 Abs.2",
+      "LDG §45 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch. Zur Abschreckung Unbeteiligte zu bestrafen bleibt eine verbotene Kollektivstrafe, auch nach Gewalt wird individuell ermittelt und gestuft vorgegangen. Zum Nachlesen: SchUG §47 Abs.3.",
+    "hauptquelle": "SchUG §47 Abs.3",
+    "id": "A24-L4-008",
+    "level": "L4",
+    "modul_id": "A24",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Abschreckung heilt das Verbot der Kollektivstrafe nicht.",
+      "Richtig erkannt: Individuell ermitteln und stufen statt Kollektiv strafen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, nach einem Gewaltvorfall mit unklarem Täter dürfe zur Abschreckung die ganze Klasse bestraft werden, bis sich jemand meldet.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": []
+  }
+]
