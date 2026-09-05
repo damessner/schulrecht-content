@@ -1,1 +1,517 @@
-[]
+[
+  {
+    "aufloesung": "Die Gemeinde trägt Gebäude, Einrichtung und Sachaufwand, das Land die Unterrichtslehrer. Schulärzte und Verpflegung bei Ganztag teilen sich nach klaren Regeln auf. Zum Nachlesen: TirSOG §2 Abs.2.",
+    "hauptquelle": "TirSOG §2 Abs.2",
+    "id": "C31-L2-001",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Bereitstellung und Instandhaltung von Gebäude, Räumen und Liegenschaften.",
+      "Reinigung, Beleuchtung und Beheizung der Schulanlage.",
+      "Anschaffung und Instandhaltung von Einrichtung und Unterrichtsmitteln.",
+      "Beistellung der Lehrer für den Regelunterricht am Vormittag.",
+      "Bezahlung der Lehrergehälter für den Pflichtunterricht.",
+      "Deckung des sonstigen Sachaufwandes der Schule."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kern der Erhaltung durch den Schulerhalter.",
+      "Richtig: Laufender Gebäudebetrieb ist Erhaltung.",
+      "Richtig: Möbel und Lehrmittel sind Erhaltung.",
+      "Falsch: Unterrichtslehrer stellt das Land bei.",
+      "Falsch: Personalkosten Unterricht trägt das Land.",
+      "Richtig: Sonstiger Sachaufwand zählt dazu."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Gemeinderat liegt eine Checkliste zur neuen Volksschule auf: Welche Posten muss die Gemeinde als Schulerhalterin tragen, welche nicht? Der Amtsleiter bittet um eine saubere Trennung der Zuständigkeiten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Das Land stellt Unterrichts- und Lernzeitlehrer bei, der Schulerhalter den Freizeitbereich. Gegen Kostenersatz kann das Land auch dort einspringen. Zum Nachlesen: TirSOG §6 Abs.1.",
+    "hauptquelle": "TirSOG §6 Abs.1",
+    "id": "C31-L2-002",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Lehrer für den Regelunterricht.",
+      "Lehrer für die gegenstandsbezogene Lernzeit im Betreuungsteil.",
+      "Lehrer und Erzieher für die individuelle Lernzeit im Betreuungsteil.",
+      "Personal für den Freizeitbereich des Betreuungsteiles.",
+      "Schulwart und Reinigungspersonal der Gemeinde.",
+      "Schulärzte für Vorsorgeuntersuchungen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unterricht ist Landessache.",
+      "Richtig: Gegenstandsbezogene Lernzeit stellt das Land bei.",
+      "Richtig: Auch individuelle Lernzeit ist Landessache.",
+      "Falsch: Freizeitbereich ist Schulerhaltersache.",
+      "Falsch: Hauspersonal stellt der Schulerhalter.",
+      "Falsch: Ärzte organisiert der Erhalter, nicht das Land."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die Direktorin einer ganztägigen Mittelschule plant das Personal für nächstes Jahr: Unterricht, Lernzeiten und Freizeitbereich. Sie will wissen, welches Personal das Land beistellt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Freizeitbereich braucht Lehrer, Erzieher, Freizeitpädagogen oder qualifizierte Personen vom Schulerhalter. Externe brauchen einen Vertrauensnachweis per Strafregister. Zum Nachlesen: TirSOG §6 Abs.3.",
+    "hauptquelle": "TirSOG §6 Abs.3",
+    "id": "C31-L2-003",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Lehrer für den Freizeitbereich.",
+      "Erzieher und Erzieher für die Lernhilfe.",
+      "Freizeitpädagogen.",
+      "Sonstige pädagogisch qualifizierte Personen.",
+      "Beliebige Aushilfen ohne jede Qualifikation.",
+      "Verwandte der Kinder als unbeaufsichtigte Betreuer."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lehrer dürfen im Freizeitbereich eingesetzt werden.",
+      "Richtig: Erzieher sind ausdrücklich vorgesehen.",
+      "Richtig: Freizeitpädagogen sind vorgesehen.",
+      "Richtig: Auch sonst Qualifizierte sind zulässig.",
+      "Falsch: Pädagogische Qualifikation ist verlangt.",
+      "Falsch: Ohne Qualifikation und Prüfung unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Bürgermeister Hofer sucht Betreuungspersonal für den Nachmittag an der ganztägigen Volksschule. Am Tisch liegen Bewerbungen von Lehrern, Erziehern, Freizeitpädagogen und ungelernten Aushilfen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Investition sind Grundstücke, Neu-, Zu- und Umbauten samt Anlass-Ausstattung. Strom, Reinigung und Verpflegung sind laufender Betrieb. Zum Nachlesen: TirSOG §77 Abs.2.",
+    "hauptquelle": "TirSOG §77 Abs.2",
+    "id": "C31-L2-004",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Kauf des Baugrunds für den Schulzubau.",
+      "Kosten des Neu- und Umbaus des Schulgebäudes.",
+      "Neue Einrichtung, die aus Anlass des Umbaus angeschafft wird.",
+      "Jährliche Strom- und Heizkosten.",
+      "Laufende Reinigungskosten.",
+      "Lehrergehälter des Regelunterrichts."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Grundstücke sind Investitionsaufwand.",
+      "Richtig: Bau ist klassische Investition.",
+      "Richtig: Anlass-Ausstattung gehört zur Investition.",
+      "Falsch: Energie ist Betriebsaufwand.",
+      "Falsch: Reinigung ist Betriebsaufwand.",
+      "Falsch: Unterrichtspersonal ist kein Erhaltungsaufwand."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Gemeindeverband baut die Mittelschule aus und streitet mit den Mitgliedsgemeinden über die Abrechnung: Was ist Investition, was laufender Betrieb? Der Rechnungsabschluss hängt davon ab.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Beitragspflichtig sind Sprengelgemeinden, Heimgemeinden und Hauptwohnsitzgemeinden bei sprengelfremdem Besuch. Ohne diese Voraussetzungen gibt es nur freiwillige Verträge. Zum Nachlesen: TirSOG §78 Abs.3.",
+    "hauptquelle": "TirSOG §78 Abs.3",
+    "id": "C31-L2-005",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Sprengelzugehörige Gemeinden für ihre dort wohnenden Schüler.",
+      "Heim- oder Anstaltsträger im Sprengel für dort untergebrachte Schüler.",
+      "Hauptwohnsitzgemeinden bei bestimmtem sprengelfremdem Schulbesuch.",
+      "Jede Gemeinde des Bezirks pauschal ohne Schülerbezug.",
+      "Eltern einzelner Schüler direkt per Bescheid.",
+      "Das Land automatisch für jede Gemeindeschule."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sprengelgemeinden sind beitragspflichtig.",
+      "Richtig: Heimträger im Sprengel sind beteiligt.",
+      "Richtig: Hauptwohnsitzgemeinden haften in Sonderfällen.",
+      "Falsch: Ohne Schüler- oder Sprengelbezug keine Pflicht.",
+      "Falsch: Eltern sind keine Beitragsschuldner.",
+      "Falsch: Das Land zahlt nur eigene Schulen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Stadt als Schulerhalterin schickt Beitragsvorschreibungen an Umlandgemeinden, ein Heimträger und Hauptwohnsitzgemeinden sprengelfremder Kinder. Alle drei Gruppen wehren sich gegen die Zahlung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Betriebsbeiträge folgen Kopfquote mal Schüler am ersten Oktober, Investitionsbeiträge im Zweifel ebenso. Sonderschulen und Ganztags-Freizeitbereich haben Sonderregeln. Zum Nachlesen: TirSOG §79 Abs.2.",
+    "hauptquelle": "TirSOG §79 Abs.2",
+    "id": "C31-L2-006",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Kopfquote aus Betriebsaufwand geteilt durch alle Schüler am Stichtag.",
+      "Multiplikation der Kopfquote mit den beitragspflichtigen Schülern.",
+      "Stichtag erster Oktober des Rechnungsjahres.",
+      "Willkürliche Schätzung durch den Bürgermeister.",
+      "Fixbetrag pro Gemeinde unabhängig von Schülerzahlen.",
+      "Abrechnung nur alle fünf Jahre gesammelt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: So wird die Quote gebildet.",
+      "Richtig: So wird der Einzelbeitrag errechnet.",
+      "Richtig: Der Stichtag ist fixiert.",
+      "Falsch: Schätzung ist unzulässig.",
+      "Falsch: Kein Fixbetrag vorgesehen.",
+      "Falsch: Jährliche Abrechnung ist verlangt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Amtsleiter soll die Betriebskosten der Volksschule auf zwei Nachbargemeinden umlegen. Er legt Kopfquote, Schülerzahlen und Stichtag auf den Tisch und prüft die Rechenschritte.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Ohne Vertrag zahlt die Nachbargemeinde Investitionsbeiträge nach Schülern oder Einwohnern. Verträge gehen vor, die Vorschreibung folgt dem Baufortschritt. Zum Nachlesen: TirSOG §80 Abs.1.",
+    "hauptquelle": "TirSOG §80 Abs.1",
+    "id": "C31-L2-007",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Schriftliche Verträge über die Investitionskosten gehen der gesetzlichen Berechnung vor.",
+      "Ohne Vertrag wird sinngemäß wie bei Betriebsbeiträgen abgerechnet.",
+      "Bei Schulneubau ohne Vollbetrieb zählt das Einwohnerverhältnis.",
+      "Vorschreibung erfolgt nach Baufortschritt mit Gesamtabrechnung.",
+      "Vorschul- und bestimmte Gastschüler bleiben unberücksichtigt.",
+      "Die Nachbargemeinde zahlt nie, egal wie viele Kinder sie schickt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vertrag hat Vorrang.",
+      "Richtig: Auffangregel ist die sinngemäße Betriebsformel.",
+      "Richtig: Einwohneraufteilung bei Anlauf oder Sprengeländerung.",
+      "Richtig: Teilbeträge plus Schlussabrechnung.",
+      "Richtig: Bestimmte Schüler zählen nicht mit.",
+      "Falsch: Beitragspflicht besteht grundsätzlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für den Neubau der Mittelschule fordert die Schulerhaltergemeinde Investitionsbeiträge von zwei Sprengelgemeinden. Es gibt keinen Vertrag, die Schule startet erst mit zwei Stufen, die Abrechnung ist umstritten.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Wer innerhalb von zwanzig Jahren ausscheidet, bekommt anteilig erstattet, mit fünf Prozent Abschreibung pro Jahr. Bei kleinen Einwohneränderungen entfällt die Erstattung. Zum Nachlesen: TirSOG §82 Abs.1.",
+    "hauptquelle": "TirSOG §82 Abs.1",
+    "id": "C31-L2-008",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Erstattung eines angemessenen Teils bei Ausscheiden binnen zwanzig Jahren.",
+      "Berechnung mit fünf Prozent Abschreibung pro Besuchsjahr.",
+      "Umlegung des Erstattungsbetrags auf die übrigen Beitragspflichtigen.",
+      "Vertragliche Regelung per zivilrechtlichem Vertrag ist möglich.",
+      "Automatisch voller Kaufpreis plus Zinsen zurück.",
+      "Erstattung auch noch nach vierzig Jahren in voller Höhe."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zwanzigjährige Frist für Erstattung.",
+      "Richtig: Jährliche Abschreibung mindert den Betrag.",
+      "Richtig: Übrige Gemeinden tragen den Rest.",
+      "Richtig: Vertragliche Einigung ist zulässig.",
+      "Falsch: Kein Vollersatz plus Zinsen.",
+      "Falsch: Nach zwanzig Jahren kein Anspruch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Gemeinde scheidet nach zwölf Jahren aus dem Sprengel der Hauptschule aus und verlangt ihre alten Baubeiträge zurück. Der Schulerhalter prüft Frist, Abschreibung und Umlegung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Wer neu oder stärker einbezogen wird, zahlt für zwanzig Jahre zurückliegend nach, mit Abschreibung. Geringe Einwohneränderungen lösen keine Nachzahlung aus. Zum Nachlesen: TirSOG §83 Abs.1.",
+    "hauptquelle": "TirSOG §83 Abs.1",
+    "id": "C31-L2-009",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Angemessene Nachzahlung bei neuer oder stärkerer Einbeziehung.",
+      "Rückblick auf zwanzig Jahre vor der Sprengeländerung.",
+      "Abschreibung von fünf Prozent pro Jahr.",
+      "Anrechnung bereits geleisteter Beiträge.",
+      "Nachzahlung in unbegrenzter Höhe ohne jede Grenze.",
+      "Nachzahlung auch bei völlig unverändertem Sprengel."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Neueinbeziehung löst Nachzahlung aus.",
+      "Richtig: Zwanzigjahresspiegel ist Maßstab.",
+      "Richtig: Abschreibung mindert den Betrag.",
+      "Richtig: Bereits Gezahltes wird angerechnet.",
+      "Falsch: Angemessenheit begrenzt die Höhe.",
+      "Falsch: Ohne Änderung kein Anlass."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine wachsende Gemeinde wird neu in den Sprengel der Volksschule einbezogen, deren Gebäude vor zehn Jahren teuer saniert wurde. Der Schulerhalter verlangt eine Nachzahlung zum Altbau.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Schulerhalter bestimmt die Schule als ganztägig bei fünfzehn Anmeldungen, an Sonderschulen sieben. Räume müssen passen und kein ausreichendes Alternativangebot bestehen. Zum Nachlesen: TirSOG §99a Abs.2.",
+    "hauptquelle": "TirSOG §99a Abs.2",
+    "id": "C31-L2-010",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Mindestens fünfzehn erwartete Betreuungskinder, an Sonderschulen sieben.",
+      "Erfüllte räumliche Voraussetzungen an der Schule.",
+      "Fehlendes ausreichendes sonstiges Betreuungsangebot in erreichbarer Nähe.",
+      "Schulartübergreifende Zusammenlegung an einem Standort ist möglich.",
+      "Bestimmung allein durch Zuruf der Eltern ohne Prüfung.",
+      "Ganztag ohne Räume und Personal sofort per Beschluss."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mindestzahlen lösen die Pflicht aus.",
+      "Richtig: Räume sind zwingende Voraussetzung.",
+      "Richtig: Alternativangebote werden geprüft.",
+      "Richtig: Bündelung mehrerer Schulen ist zulässig.",
+      "Falsch: Voraussetzungen müssen nachgewiesen werden.",
+      "Falsch: Ohne Räume keine Bestimmung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Ein Bürgermeister prüft, ob er seine Volksschule verpflichtend als ganztägige Schule bestimmen muss: Anmeldungen, Räume und der private Hort im Nachbarort liegen auf dem Tisch.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Verpflegung und Freizeitpersonal im Betreuungsteil trägt der Schulerhalter, Beiträge der Eltern mindern den Aufwand. Die Umlage folgt den Betreuungsstunden der Schüler. Zum Nachlesen: TirSOG §79 Abs.5.",
+    "hauptquelle": "TirSOG §79 Abs.5",
+    "id": "C31-L2-011",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Personalaufwand für den Freizeitbereich des Betreuungsteiles.",
+      "Kosten der Schülerverpflegung im Betreuungsteil.",
+      "Abzug der eingehobenen Verpflegungs- und Betreuungsbeiträge.",
+      "Abzug von Zuschüssen und Förderungen Dritter.",
+      "Gehälter der Lehrer im Regelunterricht.",
+      "Baukosten des Schulgebäudes aus den Neunzigerjahren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Freizeitpersonal ist gesondert festzustellen.",
+      "Richtig: Verpflegung gehört zum Sondertopf.",
+      "Richtig: Elternbeiträge mindern den Umlagebetrag.",
+      "Richtig: Drittmittel werden abgezogen.",
+      "Falsch: Regelunterricht ist Landessache.",
+      "Falsch: Altbau ist Investition, nicht Betreuung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der Gemeindeverband rechnet den Freizeitbereich der ganztägigen Schule gesondert ab: Personal, Essen, Elternbeiträge und Landesförderung. Die Mitgliedsgemeinden wollen jede Position verstehen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Beiträge dürfen höchstens kostendeckend sein und sind sozial zu staffeln. Schulforum und Gemeinden sind vorher zu hören, eingehoben wird monatlich nachträglich. Zum Nachlesen: TirSOG §99i Abs.2.",
+    "hauptquelle": "TirSOG §99i Abs.2",
+    "id": "C31-L2-012",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Festsetzung höchstens kostendeckend per Verordnung.",
+      "Soziale Staffelung nach Einkommen, Vermögen und Familie.",
+      "Anhörung von Schulforum und beitragspflichtigen Gemeinden.",
+      "Monatliche Einhebung im Nachhinein.",
+      "Beliebiger Gewinnaufschlag der Gemeinde.",
+      "Einhebung jährlich im Voraus ohne Ausnahme."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kostendeckung ist Obergrenze.",
+      "Richtig: Soziale Abfederung ist Pflicht.",
+      "Richtig: Anhörung ist vorgeschrieben.",
+      "Richtig: Nachträgliche Monatsabrechnung.",
+      "Falsch: Gewinn ist unzulässig.",
+      "Falsch: Vorauszahlung ohne Grundlage ist falsch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der Gemeinderat will die Elternbeiträge für Mittagessen und Nachmittagsbetreuung neu festsetzen. Eine Alleinerzieherin bittet um Ermäßigung, der Direktor pocht auf Anhörung des Schulforums.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Bewilligung der Bildungsdirektion ist für Errichtung, Stillegung und Auflassung nötig. Bei Untätigkeit des Erhalters ordnet die Behörde von Amts wegen an. Zum Nachlesen: TirSOG §24 Abs.1.",
+    "hauptquelle": "TirSOG §24 Abs.1",
+    "id": "C31-L2-013",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Bewilligung der Bildungsdirektion für Errichtung, Stillegung und Auflassung.",
+      "Erteilung der Bewilligung bei Vorliegen der gesetzlichen Voraussetzungen.",
+      "Amtswegige Anordnung bei Untätigkeit des Schulerhalters trotz Pflicht.",
+      "Antragsfrist bis Ende Jänner nach dem letzten Stichtag.",
+      "Schließung per Handschlag ohne Verfahren.",
+      "Zuständigkeit des Finanzamts für die Schulschließung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Jede Statusänderung braucht Bewilligung.",
+      "Richtig: Bei erfüllten Voraussetzungen besteht Anspruch.",
+      "Richtig: Behörde handelt bei Säumigkeit von Amts wegen.",
+      "Richtig: Frist sichert rasches Verfahren.",
+      "Falsch: Formlos geht es nicht.",
+      "Falsch: Steuerbehörde ist unzuständig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Bürgermeister Egger lässt die sinkenden Schülerzahlen prüfen: Wer bewilligt Errichtung oder Schließung, was gilt bei Untätigkeit der Gemeinde, welche Fristen laufen? Die Direktorin erstellt eine Verfahrenscheckliste.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Schulerhalter und Nachbargemeinden sind Parteien in Errichtungs- und Auflassungsverfahren. Auch bei Ganztags-Bestimmung und Kostenfragen wirken sie mit. Zum Nachlesen: TirSOG §5.",
+    "hauptquelle": "TirSOG §5",
+    "id": "C31-L2-014",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Der gesetzliche Schulerhalter selbst.",
+      "Sprengelzugehörige und sonst beteiligte Gebietskörperschaften.",
+      "Gemeinden im Einzugsbereich einer geplanten Schule.",
+      "Einzelne Eltern ohne Gemeindebezug.",
+      "Unbeteiligte Privatfirmen als Baufirmen.",
+      "Zufällige Bürger ohne Betroffenheit."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erhalter ist zentrale Partei.",
+      "Richtig: Beteiligte Gemeinden sind Parteien.",
+      "Richtig: Einzugsgemeinden wirken bei Planung mit.",
+      "Falsch: Einzelne ohne Verfahrensstellung nicht.",
+      "Falsch: Bauauftrag schafft keine Parteistellung.",
+      "Falsch: Ohne Betroffenheit keine Partei."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für die geplante neue Mittelschule des Gemeindeverbands läuft das Behördenverfahren. Mehrere Gemeinden melden sich: Wer darf als Partei mitreden und Einwände erheben?",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Landessonderschulen zahlt das Land, den Schularzt bezuschusst es mit vierzig Prozent. Beides muss fristgerecht beantragt werden. Zum Nachlesen: TirSOG §85.",
+    "hauptquelle": "TirSOG §85",
+    "id": "C31-L2-015",
+    "level": "L2",
+    "modul_id": "C31",
+    "optionen": [
+      "Volle Kostentragung für besondere Sonderschulen des Landes.",
+      "Vierzig Prozent Ersatz der Schularztkosten an den Schulerhalter.",
+      "Deckelung auf Überstundensatz und Kilometergeld.",
+      "Fristgerechter Antrag nach Unterrichtsende bis Jahresende.",
+      "Volle Übernahme aller Gemeindeschulkosten durch das Land.",
+      "Schulgelderstattung direkt an die Eltern."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Landesschulen sind Landessache.",
+      "Richtig: Vierzig Prozent für Schulärzte.",
+      "Richtig: Nur angemessene Sätze sind ersatzfähig.",
+      "Richtig: Verspäteter Antrag verliert Anspruch.",
+      "Falsch: Gemeindeschulen bleiben Gemeindeaufgabe.",
+      "Falsch: Kein Direktersatz an Eltern."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Bürgermeister stellt die Jahresrechnung zusammen: Landessonderschule im Ort, Schularzthonorare und Fahrtkosten. Er prüft, was das Land trägt und was fristgerecht zu beantragen ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]

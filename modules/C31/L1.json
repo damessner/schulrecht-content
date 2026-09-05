@@ -1,1 +1,425 @@
-[]
+[
+  {
+    "aufloesung": "Die Gemeinde bleibt gesetzliche Schulerhalterin der Volksschule im eigenen Ort. Errichtung, Erhaltung, Stillegung und Auflassung sind ihre Aufgabe. Zum Nachlesen: TirSOG §3 Abs.2.",
+    "hauptquelle": "TirSOG §3 Abs.2",
+    "id": "C31-L1-001",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Die Gemeinde, auf deren Gebiet die Schule errichtet ist oder errichtet wird.",
+      "Das Land Tirol für alle Volks- und Mittelschulen.",
+      "Die Bildungsdirektion als Eigentümerin der Schule.",
+      "Der jeweilige Schulleiter kraft seiner Leitungsfunktion."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Gemeinde trägt Errichtung, Erhaltung, Stillegung und Auflassung.",
+      "Falsch: Das Land ist nur für eigene Schulen Schulerhalter.",
+      "Falsch: Die Bildungsdirektion bewilligt und beaufsichtigt, erhält aber nicht.",
+      "Falsch: Die Leitung führt die Schule, nicht die Erhaltung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Bürgermeister Hofer aus Ellmau wird gefragt, wer eigentlich für das Volksschulgebäude im Ort zuständig ist: Bau, Sanierung, Betrieb und eine mögliche Schließung. Der Gemeinderat ist unsicher, ob das Land oder die Bildungsdirektion zuständig sei.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Gemeindeverband wird gesetzlicher Schulerhalter, wenn sich Gemeinden dafür zusammenschließen. Er übernimmt dann Errichtung und Erhaltung der gemeinsamen Schule. Zum Nachlesen: TirSOG §3 Abs.3.",
+    "hauptquelle": "TirSOG §3 Abs.3",
+    "id": "C31-L1-002",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Der Gemeindeverband, den die Gemeinden dafür gegründet haben.",
+      "Automatisch die größte beteiligte Gemeinde allein.",
+      "Das Land Tirol kraft Gesetzes.",
+      "Die Bildungsdirektion als Verbandsträger."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Verband übernimmt die Schulerhalteraufgaben für die gemeinsame Schule.",
+      "Falsch: Keine Gemeinde wird automatisch allein zuständig.",
+      "Falsch: Das Land ist nur für eigene Schulen zuständig.",
+      "Falsch: Die Bildungsdirektion bewilligt, wird aber nicht Erhalter."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Drei kleine Gemeinden im Zillertal betreiben gemeinsam eine Mittelschule und gründen dafür einen Gemeindeverband. Nun streiten sie, wer offiziell als Schulerhalter auftritt und Rechnungen stellen darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Land ist gesetzlicher Schulerhalter seiner eigenen Schulen, etwa besonderer Sonderschulen des Landes. Es trägt dort die gesamte Erhaltung. Zum Nachlesen: TirSOG §3 Abs.5.",
+    "hauptquelle": "TirSOG §3 Abs.5",
+    "id": "C31-L1-003",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Das Land für die von ihm errichteten Schulen.",
+      "Die Standortgemeinde auch bei Landesschulen.",
+      "Der Gemeindeverband des Bezirks.",
+      "Die Eltern der dortigen Schüler."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Für eigene Schulen ist das Land Schulerhalter.",
+      "Falsch: Die Gemeinde ist bei Landesschulen nicht Erhalterin.",
+      "Falsch: Ein Verband ist nur bei eigenem Zusammenschluss zuständig.",
+      "Falsch: Eltern tragen keine Schulerhalteraufgaben."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Direktorin einer Sonderschule, die vom Land errichtet wurde, soll einen Wasserschaden abrechnen. Die Standortgemeinde weigert sich zu zahlen und verweist auf das Land als Erhalter.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Zur Erhaltung gehören Gebäude, Räume und Liegenschaften samt Reinigung, Beleuchtung und Beheizung. Auch Einrichtungen, Unterrichtsmittel und sonstiger Sachaufwand zählen dazu. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C31-L1-004",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Ja, Gebäudebereitstellung, Instandhaltung, Reinigung, Heizung und Einrichtung gehören zur Erhaltung.",
+      "Nein, nur der Neubau zählt, der laufende Betrieb nicht.",
+      "Nein, Reinigung und Heizung müssen die Eltern privat organisieren.",
+      "Ja, aber nur wenn die Gemeinde freiwillig zustimmt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese laufenden Sachkosten sind Erhaltung.",
+      "Falsch: Auch Instandhaltung und Betrieb sind umfasst.",
+      "Falsch: Eltern schulden keinen Schulbetriebsaufwand.",
+      "Falsch: Es ist eine gesetzliche Pflicht, keine Freiwilligkeit."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Direktorin Mair meldet dem Bürgermeister: Heizung defekt, Turnsaalboden beschädigt, Reinigung unterbesetzt. Der Gemeinderat meint, man sei nur für den Bau vor zwanzig Jahren zuständig gewesen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Schulerhalter stellt das nötige Hilfspersonal zur Betreuung der Gebäude und Liegenschaften bei. Das sind etwa Schulwart und Reinigungskräfte. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C31-L1-005",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Der Schulerhalter, also in der Regel die Gemeinde.",
+      "Das Land Tirol über den Stellenplan der Lehrer.",
+      "Die Bildungsdirektion mit eigenem Personal.",
+      "Die Lehrerschaft im Wechsel neben dem Unterricht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Haus- und Betreuungspersonal stellt der Schulerhalter.",
+      "Falsch: Das Land stellt Unterrichtspersonal, nicht Schulwarte.",
+      "Falsch: Die Bildungsdirektion bewilligt, stellt aber nicht an.",
+      "Falsch: Lehrer sind für Unterricht da, nicht für Gebäudebetreuung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An der Volksschule geht der Schulwart in Pension, die Reinigungskraft kündigt. Die Direktorin fragt den Bürgermeister, wer Ersatz einstellen und bezahlen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Unterrichtslehrer stellt das Land bei, ebenso die Lehrkräfte für die Lernzeiten im Betreuungsteil. Der Freizeitbereich dagegen ist Sache des Schulerhalters. Zum Nachlesen: TirSOG §6 Abs.1.",
+    "hauptquelle": "TirSOG §6 Abs.1",
+    "id": "C31-L1-006",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Das Land stellt die Lehrer für Unterricht und Lernzeiten bei.",
+      "Der Schulerhalter stellt alle Lehrer einschließlich Unterricht selbst an.",
+      "Die Gemeinde stellt die Mathematiklehrerin für den Vormittag an.",
+      "Die Eltern finanzieren die Klassenlehrerin über Beiträge."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unterricht und Lernzeiten sind Landessache.",
+      "Falsch: Der Schulerhalter stellt nur den Freizeitbereich bei.",
+      "Falsch: Vormittagsunterricht ist keine Gemeindeaufgabe.",
+      "Falsch: Elternbeiträge finanzieren kein Lehrpersonal."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bürgermeister Gruber will sparen und überlegt, eine halbe Lehrerstelle für den Regelunterricht am Vormittag selbst auszuschreiben. Die Direktorin warnt, dass das so nicht vorgesehen sei.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Für den Freizeitbereich stellt der Schulerhalter das Personal bei, etwa Erzieher oder Freizeitpädagogen. Das Land springt nur gegen vollen Kostenersatz ein. Zum Nachlesen: TirSOG §6 Abs.3.",
+    "hauptquelle": "TirSOG §6 Abs.3",
+    "id": "C31-L1-007",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Der Schulerhalter stellt Personal für den Freizeitbereich bei.",
+      "Das Land stellt den Freizeitbereich automatisch gratis bei.",
+      "Die Bildungsdirektion entsendet Zivildiener als Betreuer.",
+      "Niemand, der Freizeitbereich läuft ohne Personal."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Freizeitpädagogen und Erzieher sind Schulerhaltersache.",
+      "Falsch: Das Land hilft nur gegen Kostenersatz.",
+      "Falsch: Die Behörde entsendet kein Freizeitpersonal.",
+      "Falsch: Betreuung ohne Personal ist unzulässig."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die ganztägige Volksschule braucht Betreuung für den Nachmittag im Spiel- und Freizeitbereich. Der Bürgermeister fragt, wer diese Personen anstellen und bezahlen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Schulerhaltungskosten trägt grundsätzlich der gesetzliche Schulerhalter. Er kann von beteiligten Gemeinden Beiträge verlangen. Zum Nachlesen: TirSOG §78 Abs.1.",
+    "hauptquelle": "TirSOG §78 Abs.1",
+    "id": "C31-L1-008",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Der gesetzliche Schulerhalter trägt die Kosten grundsätzlich.",
+      "Die Kosten teilen sich alle Eltern zu gleichen Teilen.",
+      "Das Land zahlt automatisch alle Kosten jeder Schule.",
+      "Die Bildungsdirektion übernimmt Defizite aus ihrem Budget."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Grundsatz der Kostentragung beim Schulerhalter.",
+      "Falsch: Eltern zahlen kein Schulgeld an Pflichtschulen.",
+      "Falsch: Das Land zahlt nur eigene Schulen und Zuschüsse.",
+      "Falsch: Die Behörde hat kein Defizitbudget dafür."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Gemeinderat diskutiert das Defizit der Mittelschule: Strom, Reparaturen, Schulwart. Ein Mandatar behauptet, diese Kosten müsse ohnehin das Land tragen, nicht die Gemeinde.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Investitionsaufwand sind Grundstücke, Neu-, Zu- und Umbauten sowie die aus diesem Anlass angeschaffte Ausstattung. Davon zu trennen ist der laufende Betriebsaufwand. Zum Nachlesen: TirSOG §77 Abs.2.",
+    "hauptquelle": "TirSOG §77 Abs.2",
+    "id": "C31-L1-009",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Der Zubau samt der aus diesem Anlass neu angeschafften Tische und Tafeln.",
+      "Die jährliche Stromrechnung und das Toilettenpapier.",
+      "Die Gehälter der vom Land beigestellten Lehrer.",
+      "Die Verpflegungskosten der ganztägigen Betreuung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bau plus Anlass-Ausstattung ist Investition.",
+      "Falsch: Laufende Sachkosten sind Betriebsaufwand.",
+      "Falsch: Lehrerpersonal ist kein Investitionsaufwand.",
+      "Falsch: Verpflegung ist laufender Betreuungsaufwand."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde baut zwei Klassen zu und kauft dafür neue Möbel und Tafeln. Der Amtsleiter fragt, ob das als Investition oder als laufender Betrieb zu verbuchen ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Betriebsbeiträge werden pro Schüler mit der Kopfquote abgerechnet, Stichtag ist der erste Oktober. Das gilt für Gemeinden ohne eigene Vereinbarung. Zum Nachlesen: TirSOG §79 Abs.2.",
+    "hauptquelle": "TirSOG §79 Abs.2",
+    "id": "C31-L1-010",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Ja, der Beitrag wird aus Schülerzahl am ersten Oktober mal Kopfquote errechnet.",
+      "Nein, jede Gemeinde zahlt pauschal den gleichen Fixbetrag.",
+      "Nein, es zählen nur die Einwohner, nie die Schülerzahl.",
+      "Ja, aber nur wenn die Nachbargemeinde freiwillig zustimmt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kopfquote mal beitragspflichtige Schüler am Stichtag.",
+      "Falsch: Kein Einheitsfixbetrag vorgesehen.",
+      "Falsch: Maßstab ist die Schülerzahl am Stichtag.",
+      "Falsch: Ohne Vertrag gilt die gesetzliche Berechnung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Nachbargemeinde schickt viele Kinder in die Volksschule der Stadt und erhält eine saftige Rechnung. Der dortige Bürgermeister hält die Abrechnung nach Schülerzahl für willkürlich und will pauschal weniger zahlen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Schulbesuch ist unentgeltlich, für Essen und Betreuung darf der Schulerhalter aber Beiträge einheben. Auch Lern- und Arbeitsmittel im Betreuungsteil können verrechnet werden. Zum Nachlesen: TirSOG §8.",
+    "hauptquelle": "TirSOG §8",
+    "id": "C31-L1-011",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Nein Schulgeld, aber Verpflegungs- und Betreuungsbeiträge sind zulässig.",
+      "Nein, an ganztägigen Schulen ist ausnahmslos alles gratis.",
+      "Ja, die Gemeinde darf zusätzlich ein allgemeines Schulgeld verlangen.",
+      "Nur wenn alle Eltern zustimmen, darf etwas verlangt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unentgeltlich, ausgenommen Beiträge für Betreuung und Material.",
+      "Falsch: Essen und Betreuung sind ausgenommen.",
+      "Falsch: Allgemeines Schulgeld ist unzulässig.",
+      "Falsch: Die Beitragshoheit hängt nicht von Einstimmigkeit ab."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eltern einer ganztägigen Mittelschule beschweren sich beim Direktor über die monatliche Rechnung für Mittagessen und Nachmittagsbetreuung. Sie meinen, der Schulbesuch müsse völlig kostenlos sein.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei ganztägigen Schulen sorgt der Schulerhalter für die Verpflegung der Schüler. Das gehört ausdrücklich zur gesetzlichen Erhaltung. Zum Nachlesen: TirSOG §2 Abs.2 lit.c.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.c",
+    "id": "C31-L1-012",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Der Schulerhalter muss für die Verpflegung vorsorgen.",
+      "Die Eltern müssen täglich selbst Essen in die Schule liefern.",
+      "Das Land kocht zentral für alle ganztägigen Schulen.",
+      "Die Verpflegung entfällt, Kinder gehen mittags heim."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verpflegungsvorsorge ist Erhalterpflicht bei Ganztag.",
+      "Falsch: Keine generelle Selbstversorgungspflicht.",
+      "Falsch: Keine Landes-Zentralküche vorgesehen.",
+      "Falsch: Gerade Ganztag lebt von Mittagsverpflegung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "An der neuen ganztägigen Volksschule gibt es noch keine warme Küche, Kinder warten bis 14 Uhr hungrig. Die Direktorin fordert die Gemeinde zum Handeln auf, der Bürgermeister sieht sich nicht zuständig.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Errichtung, Stillegung und Auflassung brauchen die Bewilligung der Bildungsdirektion. Sie ist zu erteilen, wenn die gesetzlichen Voraussetzungen erfüllt sind. Zum Nachlesen: TirSOG §24 Abs.1.",
+    "hauptquelle": "TirSOG §24 Abs.1",
+    "id": "C31-L1-013",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Ja, er braucht vorher die Bewilligung der Bildungsdirektion.",
+      "Nein, der Gemeinderat kann allein und formlos auflassen.",
+      "Nein, es genügt eine Mitteilung an die Eltern.",
+      "Ja, aber zuständig ist das Finanzamt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Bewilligung keine Auflassung.",
+      "Falsch: Alleinbeschluss der Gemeinde reicht nicht.",
+      "Falsch: Elterninfo ersetzt kein Verfahren.",
+      "Falsch: Steuerbehörde ist hier unzuständig."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Bürgermeister Egger will die kleine Volksschule mit nur noch acht Kindern eilig per Gemeinderatsbeschluss schließen. Die Direktorin bremst und verlangt ein ordentliches Verfahren.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Kosten für besondere Sonderschulen des Landes trägt das Land allein. Standortgemeinden werden dafür nicht herangezogen. Zum Nachlesen: TirSOG §85.",
+    "hauptquelle": "TirSOG §85",
+    "id": "C31-L1-014",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Das Land trägt die Erhaltungskosten allein.",
+      "Die Standortgemeinde zahlt die Hälfte dazu.",
+      "Die Eltern der Sonderschüler teilen sich die Kosten.",
+      "Die Nachbargemeinden zahlen nach Köpfen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Landessonderschulen sind Landessache.",
+      "Falsch: Keine Gemeindebeteiligung vorgesehen.",
+      "Falsch: Eltern zahlen keinen Erhaltungsbeitrag.",
+      "Falsch: Kein Kopfquotensystem bei Landesschulen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Standortgemeinde einer großen Sonderschule des Landes erhält plötzlich eine Rechnung für Sanierung und Betrieb. Der Bürgermeister fragt, ob er das wirklich zahlen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Zum Schulgebäude gehören Turnplatz, Turnsaal oder Gymnastikraum sowie sanitäre Anlagen und Garderoben. Auch Fachräume und Arzträume können erforderlich sein. Zum Nachlesen: TirSOG §70 Abs.3.",
+    "hauptquelle": "TirSOG §70 Abs.3",
+    "id": "C31-L1-015",
+    "level": "L1",
+    "modul_id": "C31",
+    "optionen": [
+      "Ja, Turnsaal oder Gymnastikraum, Turnplatz, Sanitäranlagen und Garderoben gehören dazu.",
+      "Nein, Turnen kann ausfallen, Räume dafür sind freiwillig.",
+      "Nein, WCs und Garderoben müssen Elternheime bereitstellen.",
+      "Ja, aber nur ein Schwimmbecken ist Pflicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Diese Mindestausstattung ist vorgeschrieben.",
+      "Falsch: Bewegungseinrichtungen sind kein Luxus.",
+      "Falsch: Sanitäranlagen sind Gebäudestandard.",
+      "Falsch: Ein Becken ist nur eine Kann-Ausstattung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Der neue Volksschulbau wird ohne Turnsaal und mit zu wenigen Toiletten geplant, um zu sparen. Direktorin Mair protestiert und verlangt eine ordentliche Ausstattung für die Kinder.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
