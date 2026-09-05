@@ -1,1 +1,466 @@
-[]
+[
+  {
+    "aufloesung": "Direktorin Huber darf nur die Daten anlegen, die die Schule für ihre Aufgaben wirklich braucht. Name, Geburtstag, Adresse, Erziehungsberechtigte und Notfallkontakt gehören dazu, Einkommen, Religion oder Hobbys der Familie nicht. Sammeln auf Vorrat ist verboten. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L1-001",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Nur Daten für die Schulverwaltung anlegen, etwa Name, Geburtstag, Adresse, Erziehungsberechtigte und Notfallkontakt.",
+      "Gleich auch Beruf und Einkommen der Eltern mitschreiben, das könnte später nützlich sein.",
+      "Die Religion der Familie immer erfassen, auch ohne Anlass.",
+      "Hobbys und Freizeit der Familie aufnehmen, damit man die Kinder besser kennt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erforderliche Schuldaten ja, Vorratsdatensammlung nein.",
+      "Falsch: Einkommen ist für die Schulverwaltung nicht erforderlich.",
+      "Falsch: Ohne konkreten Anlass darf das nicht erhoben werden.",
+      "Falsch: Neugier ersetzt keinen schulischen Zweck."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Direktorin Huber legt für jeden Erstklässler an ihrer Volksschule ein Schülerstammblatt an. Eine Kollegin schlägt vor, gleich auch Beruf und Einkommen der Eltern, deren Religion und die Hobbys der Familie mitzuschreiben, damit man alles beisammen hat.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Die Schule muss der Mutter vollständig Auskunft geben. Dazu gehören die gespeicherten Daten über ihre Tochter, der Zweck der Verarbeitung und die Empfänger. Beruhigende Worte ohne Inhalt genügen nicht. Zum Nachlesen: DSGVO Art. 15.",
+    "hauptquelle": "DSGVO Art. 15",
+    "id": "C37-L1-002",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Die Schule muss mitteilen, welche Daten gespeichert sind, wozu sie dienen und wer sie bekommt.",
+      "Eine mündliche Beruhigung ohne Details genügt völlig.",
+      "Auskunft gibt es nur mit anwaltlicher Vertretung.",
+      "Wegen des Arbeitsaufwands darf die Schule die Bitte ablehnen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Berechtigte erhalten Auskunft über Daten, Zweck und Empfänger.",
+      "Falsch: Das Recht verlangt konkrete, vollständige Information.",
+      "Falsch: Es braucht keine anwaltliche Vertretung für das Ersuchen.",
+      "Falsch: Arbeitsaufwand hebt das Auskunftsrecht nicht auf."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Mutter Berger bittet die Mittelschule schriftlich um Auskunft, welche Daten über ihre Tochter gespeichert sind, wozu sie dienen und wer sie bekommt. Die Sekretärin meint, eine mündliche Beruhigung reiche aus und Einzelheiten müsse man nicht herausgeben.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Beide Erziehungsberechtigte haben Anspruch auf Auskunft über ihr Kind. Der Wohnort des Kindes ändert daran nichts. Die Schule muss dem Vater dieselbe Information geben wie der Mutter. Zum Nachlesen: DSGVO Art. 15.",
+    "hauptquelle": "DSGVO Art. 15",
+    "id": "C37-L1-003",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Auskünfte bekommt nur der Elternteil, bei dem das Kind wohnt.",
+      "Beide Erziehungsberechtigte haben Anspruch auf dieselbe Auskunft.",
+      "Der Vater braucht dafür die Erlaubnis der Mutter.",
+      "Bei getrennten Eltern entfällt das Auskunftsrecht für beide."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Wohnort entscheidet nicht über das Auskunftsrecht.",
+      "Richtig: Beide Erziehungsberechtigte stehen gleichberechtigt nebeneinander.",
+      "Falsch: Ein Elternteil braucht keine Erlaubnis des anderen.",
+      "Falsch: Trennung hebt das Recht nicht auf."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Vater Gruber lebt getrennt von der Mutter, beide sind erziehungsberechtigt. Als er fragt, welche Fördermaßnahmen für seinen Sohn laufen, heißt es in der Schule, man gebe Auskünfte nur an die Mutter, weil das Kind bei ihr wohnt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Moser muss die Unterlagen geordnet aufbewahren und Fristen einhalten. Lose ins Altpapier gehören sie nie, und das Klassenbuch bleibt Eigentum der Schule. Nach Ablauf der Frist wird sicher vernichtet. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "C37-L1-004",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Alte Listen lose ins Altpapier werfen und das Klassenbuch als Erinnerung mitnehmen.",
+      "Unterlagen geordnet aufbewahren, Fristen beachten und danach sicher vernichten.",
+      "Gesprächsnotizen sofort löschen, sobald das Gespräch vorbei ist.",
+      "Das Klassenbuch gehört der Klassenvorständin persönlich."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Offenes Entsorgen und Mitnehmen verletzen Schutz und Ordnung.",
+      "Richtig: Aufbewahren mit Frist und sichere Vernichtung danach ist der richtige Weg.",
+      "Falsch: Auch Gesprächsnotizen haben ihre Aufbewahrungsregeln.",
+      "Falsch: Dienstliche Aufzeichnungen bleiben in der Schule."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Klassenvorständin Moser räumt am Ende des Schuljahres ihr Zimmer aus. Alte Anwesenheitslisten und Gesprächsnotizen wirft sie lose ins Altpapier, das geführte Klassenbuch will sie als Erinnerung mit nach Hause nehmen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Die alte Schule gibt nur weiter, was die neue Schule für Unterricht und Förderung braucht. Veraltete Verdachtsnotizen und Entwürfe gehören nicht dazu, private Kopien sind verboten. Weniger ist hier mehr. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L1-005",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Den kompletten Akt samt alter Verdachtsnotizen und Entwürfen schicken und private Kopien behalten.",
+      "Nur die erforderlichen Unterlagen weitergeben und keine privaten Kopien behalten.",
+      "Gar nichts weitergeben, die neue Schule soll von vorne anfangen.",
+      "Den Akt dem Schüler im offenen Kuvert zur Übergabe mitgeben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Veraltetes und Entwürfe dürfen nicht mitwandern, Privatkopien schon gar nicht.",
+      "Richtig: Erforderliches weitergeben, Rest löschen oder sicher aufbewahren.",
+      "Falsch: Die neue Schule braucht die nötigen Grundlagen für Förderung.",
+      "Falsch: Offene Übergabe über Dritte ist unsicher und unzulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Familie Egger zieht in eine andere Gemeinde, der Sohn wechselt die Volksschule. Die alte Schule schickt ungefragt den kompletten Akt mit veralteten Verdachtsnotizen und handschriftlichen Entwürfen an die neue Schule und behält zusätzlich Kopien auf einem privaten Stick.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "DSGVO Art. 17",
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Wieser braucht vor der Veröffentlichung die Einwilligung der Erziehungsberechtigten. Bilder mit Namen auf der Homepage sind keine Kleinigkeit. Ohne Zustimmung bleibt das Foto offline. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L1-006",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Das Foto mit Namen sofort auf die Homepage stellen, es ist ja Werbung für die Schule.",
+      "Erst die Einwilligung der Erziehungsberechtigten einholen, ohne sie bleibt das Foto offline.",
+      "Fotos ohne Gesichter brauchen nie eine Zustimmung.",
+      "Wer nicht ausdrücklich Nein sagt, stimmt automatisch zu."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Werbung ersetzt keine Rechtsgrundlage für die Veröffentlichung.",
+      "Richtig: Einwilligung vorab ist der saubere Weg.",
+      "Falsch: Auch andere Veröffentlichungen brauchen eine Grundlage im Einzelfall.",
+      "Falsch: Schweigen gilt nicht als Zustimmung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Wieser fotografiert seine Klasse beim Sportfest und stellt das Bild mit allen Vor- und Nachnamen auf die öffentlich einsehbare Schulhomepage. Gefragt hat er vorher niemanden, es soll schnell gehen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "DSGVO Art. 7",
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Aigner macht es richtig, wenn die Erklärung freiwillig, getrennt und verständlich ist. Die Eltern müssen wissen, wofür die Bilder dienen, und ihr Ja jederzeit zurücknehmen können. Zwang oder Koppelung machen die Erklärung wertlos. Zum Nachlesen: DSGVO Art. 7.",
+    "hauptquelle": "DSGVO Art. 7",
+    "id": "C37-L1-007",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Ein Zettel zu Schulbeginn mit Zweck, Freiwilligkeit und Hinweis auf jederzeitigen Widerruf.",
+      "Die Zustimmung an die Teilnahme am Schikurs koppeln.",
+      "Die Erklärung im Kleingedruckten der Anmeldung verstecken.",
+      "Festlegen, dass die Zustimmung nie zurückgenommen werden kann."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Getrennt, verständlich, freiwillig und widerrufbar ist wirksam.",
+      "Falsch: Koppelung an Vorteile macht die Freiwilligkeit zunichte.",
+      "Falsch: Versteckte Klauseln sind keine informierte Zustimmung.",
+      "Falsch: Ein Widerrufsrecht muss immer bestehen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Aigner will im neuen Schuljahr Klassenfotos für Homepage und Jahresbericht nutzen. Sie bereitet einen eigenen Zettel zur Fotoerlaubnis vor und überlegt, wie sie ihn formuliert und verteilt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Die Übermittlung ist zulässig, soweit die neue Schule die Unterlagen für Unterricht und Förderung braucht. Die Eltern werden darüber informiert. Gesundheitsdetails ohne Bezug zur Förderung bleiben außen vor. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L1-008",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Förderpläne und Lernstandserhebungen übermitteln und die Eltern darüber informieren.",
+      "Den gesamten Akt inklusive aller Gesundheitsdetails ungefragt mitschicken.",
+      "Ohne notarielle Beglaubigung darf gar nichts übermittelt werden.",
+      "Nur die Noten des letzten Zeugnisses weitergeben, sonst nichts."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erforderliches für Förderung weitergeben und transparent informieren.",
+      "Falsch: Gesundheitsdaten brauchen einen eigenen engen Rahmen.",
+      "Falsch: Eine Beglaubigung ist für den Dienstweg nicht nötig.",
+      "Falsch: Die Förderunterlagen gehören zu den nötigen Grundlagen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Ein Schüler wechselt von der Volksschule an die Mittelschule und braucht weiterhin gezielte Förderung. Die Volksschule überlegt, welche Unterlagen sie der neuen Schule für die nahtlose Weiterförderung zur Verfügung stellt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Die Meldung an die Bildungsdirektion ist zulässig, weil sie zur Schulverwaltung gehört. Solche Übermittlungen laufen auf dem Dienstweg und beschränken sich auf das Nötige. Private Empfänger fallen nicht darunter. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L1-009",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Die Direktion meldet Schülerzahlen und Klassendaten auf dem Dienstweg an die Bildungsdirektion.",
+      "Die Schule verkauft Adressen an ein Nachhilfeinstitut.",
+      "Notenlisten werden an die Lokalzeitung geschickt.",
+      "Anwesenheitsdaten hängen öffentlich im Schaukasten aus."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Übermittlung im Rahmen der Schulverwaltung auf dem Dienstweg ist zulässig.",
+      "Falsch: Verkauf von Adressen ist niemals eine Schulaufgabe.",
+      "Falsch: Presse ist kein Empfänger von Schuldaten.",
+      "Falsch: Öffentlicher Aushang verletzt den Schutz der Daten."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Direktion einer Tiroler Pflichtschule meldet zu Schulbeginn Schülerzahlen und Klasseneinteilungen an die Bildungsdirektion. Ein Kollege fragt, ob man solche Daten überhaupt weitergeben darf.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Hofer muss die Diagnose für sich behalten und nur die Entschuldigung als solche vermerken. Gesundheitsdaten gehören zu den am besten geschützten Daten. Erzählen im Kollegium oder offenes Abheften ist tabu. Zum Nachlesen: DSGVO Art. 9.",
+    "hauptquelle": "DSGVO Art. 9",
+    "id": "C37-L1-010",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Die Diagnose ins offene Klassenbuch heften und im Konferenzzimmer davon erzählen.",
+      "Nur die Entschuldigung vermerken und die Diagnose besonders geschützt aufbewahren.",
+      "Die Diagnose allen Fachlehrern per Gruppennachricht schicken.",
+      "Das Attest an der Pinnwand als Muster für richtige Entschuldigungen aushängen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Offenes Abheften und Erzählen verletzen den besonderen Schutz.",
+      "Richtig: Zweck begrenzen und Zugang auf das Nötige beschränken.",
+      "Falsch: Rundschreiben an alle ist weit mehr als nötig.",
+      "Falsch: Ein Aushang stellt die Daten bloß."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schülerin gibt ein ärztliches Attest mit genauer Diagnose ab, um ihr Fehlen zu entschuldigen. Lehrerin Hofer überlegt, wie sie mit dem Zettel umgeht und wen sie darüber informiert.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Steiner muss dem Vater Einsicht in die Aufzeichnungen über dessen Sohn geben. Förderpläne und Beobachtungen betreffen das eigene Kind und sind kein Dienstgeheimnis gegenüber den Erziehungsberechtigten. Daten anderer Kinder bleiben dabei abgedeckt. Zum Nachlesen: DSGVO Art. 15.",
+    "hauptquelle": "DSGVO Art. 15",
+    "id": "C37-L1-011",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Die Einsicht verweigern, interne Aufzeichnungen gehen Eltern nichts an.",
+      "Dem Vater die Aufzeichnungen über seinen Sohn zeigen, Daten anderer Kinder abdecken.",
+      "Nur gegen eine Gebühr Einsicht gewähren.",
+      "Den Akt zuerst umschreiben und glätten, dann zeigen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erziehungsberechtigte haben ein Recht auf die Daten ihres Kindes.",
+      "Richtig: Einsicht gewähren und fremde Daten schützen.",
+      "Falsch: Für die Einsicht darf keine Gebühr verlangt werden.",
+      "Falsch: Aufzeichnungen dürfen nicht nachträglich geschönt werden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Vater Steiner will wissen, was in der Schule über seinen Sohn festgehalten ist, etwa Beobachtungen und der Förderplan. Die Klassenvorständin zögert, weil sie interne Aufzeichnungen für vertraulich hält.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG"
+    ]
+  },
+  {
+    "aufloesung": "Ab der Volljährigkeit entscheidet die Schülerin selbst über ihre Daten. Die Mutter erhält dann keine Notenauskunft mehr ohne Zustimmung der Tochter. Das gilt auch dann, wenn die Eltern alles gut meinen. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L1-012",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Der Mutter weiterhin alle Noten mitteilen, Eltern haben immer ein Recht darauf.",
+      "Ab der Volljährigkeit entscheidet die Schülerin, ohne ihre Zustimmung gibt es keine Auskunft.",
+      "Die Mutter braucht nur lauter zu verlangen, dann muss die Schule antworten.",
+      "Noten Volljähriger am Elternsprechtag öffentlich besprechen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Mit der Volljährigkeit endet das elterliche Auskunftsrecht.",
+      "Richtig: Nur die betroffene Schülerin bestimmt über ihre Daten.",
+      "Falsch: Nachdruck ändert die Rechtslage nicht.",
+      "Falsch: Öffentliches Besprechen stellt die Daten bloß."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "PTS",
+      "BS",
+      "BHS"
+    ],
+    "situation": "Eine achtzehnjährige Schülerin untersagt der Schule ausdrücklich, ihren Eltern Auskünfte zu geben. Ihre Mutter verlangt trotzdem am Telefon die aktuellen Noten und beruft sich auf ihr Elternrecht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Pichler muss sein Passwort für sich behalten und den Bildschirm sperren. Geteilte oder angeheftete Zugangsdaten öffnen Tür und Tor für fremde Einsicht in Noten und Gutachten. Jede Person nutzt ihren eigenen Zugang. Zum Nachlesen: DSGVO Art. 32.",
+    "hauptquelle": "DSGVO Art. 32",
+    "id": "C37-L1-013",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Das Passwort an den Bildschirm kleben, damit Supplierungen leichter laufen.",
+      "Zugangsdaten persönlich behalten, Bildschirm sperren, eigene Zugänge für jede Person.",
+      "Das Login im Konferenzzimmer an die Tafel schreiben.",
+      "Den Laptop mit geöffnetem Klassenbuch im leeren Klassenzimmer stehen lassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Sichtbare Passwörter laden Unbefugte geradezu ein.",
+      "Richtig: Persönliche Zugänge und Sperren schützen die Daten.",
+      "Falsch: Ausgehängte Logins sind das Gegenteil von Sicherheit.",
+      "Falsch: Offene Geräte mit Schuldaten dürfen nie unbeaufsichtigt bleiben."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Pichler arbeitet mit dem digitalen Klassenbuch. Damit es bei Supplierungen schneller geht, klebt er sein Passwort an den Bildschirm und lässt den angemeldeten Laptop auch in der Pause offen stehen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": []
+  },
+  {
+    "aufloesung": "Kaufmann darf niemanden zur privaten Gruppe zwingen und keine sensiblen Inhalte dort teilen. Für schulische Kommunikation gibt es dienstliche Kanäle. Wer mitmacht, braucht vorher eine klare Information und echte Wahlfreiheit. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L1-014",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Alle Kinder müssen der privaten Gruppe beitreten, sonst verpassen sie eben alles.",
+      "Dienstliche Kanäle nutzen, Teilnahme freiwillig lassen und keine sensiblen Inhalte teilen.",
+      "Noten und Förderpläne einfach in die Gruppe stellen, das geht am schnellsten.",
+      "Handynummern der Kinder an alle Gruppenmitglieder weitergeben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zwang zur privaten App ist unzulässig.",
+      "Richtig: Dienstweg, Freiwilligkeit und sparsame Inhalte schützen alle.",
+      "Falsch: Noten gehören nie in eine Chatgruppe.",
+      "Falsch: Kontakte dürfen nicht ungefragt verteilt werden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrerin Kaufmann richtet auf ihrem privaten Handy eine Nachrichtengruppe mit allen Schülerinnen und Schülern ein. Wer nicht beitritt, bekommt Hausaufgaben und Termine eben nicht mit, und auch Noten postet sie dort.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "DSGVO Art. 32"
+    ]
+  },
+  {
+    "aufloesung": "Ohne Einwilligung bleiben Foto und Name draußen. Gedrucktes lässt sich nicht mehr zurückholen, deshalb wird vorher gefragt. Ein pauschales Ja aus der Anmeldung ersetzt keine klare Fotoerlaubnis. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "C37-L1-015",
+    "level": "L1",
+    "modul_id": "C37",
+    "optionen": [
+      "Foto mit Namen einfach drucken, eine Chronik ist ja Tradition.",
+      "Vorher die Einwilligung einholen, ohne sie kein Foto mit Namen.",
+      "Die Anmeldebestätigung gilt automatisch als Fotoerlaubnis.",
+      "Widersprüche erst nach dem Druck sammeln."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Tradition ersetzt keine Rechtsgrundlage.",
+      "Richtig: Vorher fragen, weil Druck nicht rückholbar ist.",
+      "Falsch: Anmeldung und Fotoerlaubnis sind zwei verschiedene Dinge.",
+      "Falsch: Nach dem Druck ist es für Betroffene zu spät."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für den Jahresbericht will die Schule ein Klassenfoto mit allen Vor- und Nachnamen drucken. Einige Eltern haben dazu nie etwas unterschrieben, die Redaktion meint, das werde schon passen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "DSGVO Art. 7",
+      "TirSOG"
+    ]
+  }
+]
