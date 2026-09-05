@@ -1,1 +1,370 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §45 Abs.1",
+    "id": "B26-L3-001",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Die Behörde muss die Herabsetzung bewilligen, weil jeder private Wunsch automatisch vorgeht.",
+      "Die Ablehnung ist rechtmäßig, weil der Verwendung im gewünschten Ausmaß wichtige dienstliche Interessen entgegenstehen.",
+      "Die Lehrerin kann die Reduktion ersatzweise eigenmächtig durch Fernbleiben umsetzen.",
+      "Bei Personalmangel muss die Direktion die fehlenden Stunden durch unbezahlte Mehrarbeit der Kolleginnen abdecken."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der beliebige Anlass trägt nur, wenn keine wichtigen dienstlichen Interessen entgegenstehen.",
+      "Richtig: Fehlender Ersatz und gefährdeter Pflichtunterricht sperren die Herabsetzung.",
+      "Falsch: Eigenmächtiges Fernbleiben ist keine bewilligte Teilzeit.",
+      "Falsch: Personalmangel verpflichtet die Kolleginnen zu keiner unbezahlten Mehrarbeit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Mittelschullehrerin Aigner ist die einzige Physiklehrerin an einer kleinen Schule und beantragt für ein berufsbegleitendes Studium eine Halbierung ihrer Lehrverpflichtung. Eine Ersatzkraft für ihr Fach ist trotz Suche nicht verfügbar und der Pflichtunterricht könnte nicht abgedeckt werden. Die Behörde lehnt mit Verweis auf die Personallage ab, Aigner beharrt auf ihrem Studienwunsch.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Ablehnung ist rechtmäßig, weil der Pflichtunterricht ohne Ersatz nicht gesichert wäre. Ein privater Anlass wie ein Studium genügt nur, solange keine wichtigen dienstlichen Interessen entgegenstehen. Zum Nachlesen: LDG §45 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §44 Abs.2",
+    "id": "B26-L3-002",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Die Herabsetzung ist zu bewilligen, weil jeder Projektwunsch automatisch ein öffentliches Interesse begründet.",
+      "Die Versagung ist rechtmäßig, weil das Theaterprojekt auch abends neben dem Volldienst ausgeübt werden kann.",
+      "Die Direktion muss die Proben in die Unterrichtszeit verlegen und dafür den Stundenplan auflösen.",
+      "Der Lehrer kann für die Projektwochen einfach unbezahlten Urlaub mit Teilzeit mischen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das öffentliche Interesse braucht zusätzlich die Unmöglichkeit der Nebenausübung.",
+      "Richtig: Ist die Tätigkeit neben den lehramtlichen Pflichten möglich, scheitert die Herabsetzung.",
+      "Falsch: Der Pflichtunterricht wird nicht für Abendproben aufgelöst.",
+      "Falsch: Urlaub und Teilzeit lassen sich nicht beliebig vermischen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS"
+    ],
+    "situation": "Lehrer Berger will für zwei Jahre halbtags für ein städtisches Theaterprojekt freigestellt werden, das aus wöchentlichen Abendproben und Wochenendaufführungen besteht. Tagsüber wäre er ohne jede Kollision voll einsetzbar und der Stundenplan ließe sich auch ohne Reduktion einhalten. Die Behörde stellt fest, dass sich Projekt und Volldienst zeitlich problemlos vereinbaren ließen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Versagung ist rechtmäßig, weil die Abendtätigkeit neben dem Volldienst ausgeübt werden kann. Für Projekte im öffentlichen Interesse gilt neben der Unterrichtsverträglichkeit die Unmöglichkeit der Nebenausübung als zweite Schranke. Zum Nachlesen: LDG §44 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §46 Abs.3",
+    "id": "B26-L3-003",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Der Anspruch besteht, weil allein die Vaterschaft für die Elternteilzeit genügt.",
+      "Der Anspruch scheitert, weil das Kind weder im Haushalt lebt noch überwiegend selbst betreut wird.",
+      "Der Anspruch besteht, weil Großelternbetreuung der Selbstbetreuung rechtlich gleichsteht.",
+      "Die Behörde muss die Herabsetzung gewähren und das Kind zwangsweise in den Haushalt umsiedeln."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Elternschaft allein ohne Haushalt und Selbstbetreuung trägt den Anspruch nicht.",
+      "Richtig: Haushalt und überwiegende Selbstbetreuung sind kumulative Voraussetzungen.",
+      "Falsch: Fremdbetreuung bei den Großeltern erfüllt die Selbstbetreuung gerade nicht.",
+      "Falsch: Die Behörde ordnet keine Umsiedlung des Kindes an."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Volksschullehrer Cech beantragt Elternteilzeit für seinen vierjährigen Sohn, der seit der Geburt bei den Großeltern in einer anderen Stadt lebt und dort vollständig betreut wird. Cech besucht das Kind an Wochenenden, will aber unter der Woche halbtags arbeiten. Die Behörde prüft Wohn- und Betreuungssituation.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Cech hat keinen Anspruch, weil Haushalt und überwiegende Selbstbetreuung beide fehlen. Die Elternteilzeit verlangt kumulativ Vollbeschäftigung, Haushaltszugehörigkeit und Selbstbetreuungswillen. Zum Nachlesen: LDG §46 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §46a Abs.2",
+    "id": "B26-L3-004",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Die zweite Pflegeteilzeit ist zu bewilligen, weil Pflegeteilzeit beliebig oft wiederholbar ist.",
+      "Die Ablehnung ist rechtmäßig, weil ohne Erhöhung des Pflegebedarfs keine zweite Gewährung möglich ist.",
+      "Die Lehrerin kann die zweite Pflegeteilzeit durch einen formlosen Anruf rückwirkend auslösen.",
+      "Bei gleichbleibendem Pflegebedarf wandelt sich die Pflegeteilzeit automatisch in eine Dauerteilzeit um."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Pro Angehörigem gilt grundsätzlich die Einmaligkeit der Pflegeteilzeit.",
+      "Richtig: Nur eine deutliche Erhöhung des Pflegebedarfs eröffnet einmalig eine zweite Runde.",
+      "Falsch: Ein Anruf ersetzt den Antrag und die Prüfung nicht.",
+      "Falsch: Eine automatische Umwandlung in Dauerteilzeit gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Dobler hat ihre Mutter bereits drei Monate in Pflegeteilzeit betreut und beantragt ein halbes Jahr später für dieselbe Mutter eine zweite Pflegeteilzeit im gleichen Ausmaß. Der Pflegebedarf ist unverändert, die Pflegestufe ist gleich geblieben und eine andere Betreuungsperson stünde bereit. Dobler meint, bei Bedarf könne man die Pflegeteilzeit einfach wiederholen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Ablehnung ist rechtmäßig, weil der Pflegebedarf nicht gestiegen ist. Die Pflegeteilzeit steht je Angehörigem grundsätzlich nur einmal zu und nur eine Stufenerhöhung eröffnet einmalig eine zweite Gewährung. Zum Nachlesen: LDG §46a Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §46b Abs.1",
+    "id": "B26-L3-005",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Der Antrag ist begründet, weil jeder kurze Krankenstand den stufenweisen Wiedereinstieg eröffnet.",
+      "Der Antrag scheitert, weil keine mindestens sechswöchige ununterbrochene Dienstverhinderung vorausging.",
+      "Die Ärztin kann die fehlende Krankheitsdauer durch eine Gefälligkeitsbestätigung ersetzen.",
+      "Nach drei Wochen Krankenstand steht automatisch eine sechsmonatige Halbzeit zu."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kurze Krankenstände erreichen die Eintrittsschwelle des Modells nicht.",
+      "Richtig: Sechs Wochen ununterbrochene Verhinderung wegen Krankheit oder Unfall sind Mindestvoraussetzung.",
+      "Falsch: Bestätigungen ersetzen die gesetzliche Mindestdauer nicht.",
+      "Falsch: Dauer und Ausmaß folgen festen Grenzen und keinem Automatismus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Berufsschullehrer Ebner war nach einer Grippe drei Wochen dienstverhindert und fühlt sich noch etwas schwach. Er beantragt für vier Monate eine Reduktion auf die Hälfte zum schonenden Wiedereinstieg und verweist auf das Modell für die Rückkehr nach langer Krankheit. Die Amtsärztin bestätigt die kurze Dauer der Verhinderung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Ebners Antrag scheitert an der zu kurzen Verhinderung von nur drei Wochen. Der stufenweise Wiedereinstieg verlangt mindestens sechs Wochen ununterbrochene Verhinderung plus ärztliche Prüfung der Zweckmäßigkeit. Zum Nachlesen: LDG §46b Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §58d Abs.2",
+    "id": "B26-L3-006",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Die Behörde muss das Freijahr bewilligen, weil bei ausreichender Dienstzeit jede Vertretungsfrage entfällt.",
+      "Die Abweisung ist rechtmäßig, weil für das Freijahr keine geeignete Vertretung gesichert werden kann.",
+      "Die Lehrerin kann die fehlende Vertretung durch unbezahlte Schüleraufsicht ersetzen.",
+      "Bei fehlender Vertretung darf die Klasse während des Freijahres ersatzlos entfallen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch bei langer Dienstzeit bleibt die gesicherte Vertretung eine harte Grenze.",
+      "Richtig: Ohne voraussichtlich geeignete Vertretung darf die Vereinbarung nicht geschlossen werden.",
+      "Falsch: Schüleraufsicht ersetzt keine geeignete Lehrvertretung.",
+      "Falsch: Der Pflichtunterricht entfällt nicht wegen eines Freijahrwunsches."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Fellner mit neun Dienstjahren beantragt ein freies Schuljahr innerhalb einer vierjährigen Rahmenzeit für eine Weltreise. Für ihr seltenes Fächerbündel findet sich weder im Kollegium noch über eine befristete Aufnahme eine geeignete Vertretung für das Freijahr. Die Behörde kann die Freistellungsvereinbarung deshalb nicht schließen, Fellner beharrt auf ihrem Wunschtermin.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Abweisung ist rechtmäßig, weil die Vertretung für das Freijahr nicht gesichert ist. Ohne voraussichtlich geeignete Vertretung darf die Behörde die Freistellungsvereinbarung nicht eingehen und muss den Antrag abweisen. Zum Nachlesen: LDG §58d Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §44 Abs.3",
+    "id": "B26-L3-007",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Aus gesundheitlichen Gründen darf höchstens die Hälfte der Lehrverpflichtung entfallen.",
+      "Bei herabgesetzter Jahresnorm müssen mindestens 360 Jahresstunden Unterrichtsverpflichtung bleiben.",
+      "Die Bezüge mindern sich bei der Projektermäßigung grundsätzlich anteilig zum Ausmaß.",
+      "Die Kürzung entfällt, soweit die ausfallenden Bezüge durch Ersatzleistung abgedeckt sind.",
+      "Aus Krankheitsgründen kann bis auf ein Viertel reduziert werden wie bei der Pflegeteilzeit."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Hälfte ist die Obergrenze der Ermäßigung aus gesundheitlichen Gründen.",
+      "Richtig: Die Mindestgrenze von 360 Jahresstunden gilt daneben.",
+      "Richtig: Die anteilige Minderung ist die Grundregel bei Projektermäßigungen.",
+      "Richtig: Abgedeckter Ersatz lässt die Kürzung entfallen.",
+      "Falsch: Das Viertel gehört zur Pflegeteilzeit, nicht zum Krankheitsfall."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Kolleginnen vergleichen ihre Gehaltszettel: Frau Gams mit gesundheitlich begründeter Ermäßigung und Herr Hartl mit Projektermäßigung stellen beide Kürzungen fest, während eine Kulturkollegin dank Zahlung ihres Vereins keine Einbuße hat. Am Tisch liegt eine Liste mit Grenzen und Bezügeregeln, von der Stundenschranke bis zur Ersatzleistung. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §44 Abs.5"
+    ],
+    "aufloesung": "Gams und Hartl werden anteilig gekürzt, wobei für Kranke Hälfte und Mindeststunden gelten. Nur abgedeckter Ersatz durch die Einrichtung lässt die Kürzung entfallen. Zum Nachlesen: LDG §44 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §46c Abs.1",
+    "id": "B26-L3-008",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Die Herabsetzung ist nur auf 25, 50 oder 75 Prozent des Vollausmaßes mit Stundenrundung möglich.",
+      "Nötig sind erfüllte Ruhestandsvoraussetzungen und ein dienstliches Interesse an der Regelung.",
+      "Mit Beginn enden andere Herabsetzungen und das Ausmaß darf danach nicht mehr geändert werden.",
+      "Das Ausmaß kann während der Teilpension monatlich frei nach Wunsch angepasst werden.",
+      "Mehrtätigkeit über das reduzierte Ausmaß ist jederzeit wie bei Vollzeit anordenbar."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die drei Stufen mit Rundung auf ganze Stunden prägen das Modell.",
+      "Richtig: Ruhestandsreife plus dienstliches Interesse sind die Eintrittstore.",
+      "Richtig: Andere Teilzeiten enden und das gewählte Ausmaß bleibt fix.",
+      "Falsch: Eine Änderung des Ausmaßes ist gerade ausgeschlossen.",
+      "Falsch: Mehrdienst gibt es nur zur unmittelbaren Schadensabwehr als Ultima Ratio."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Imhof erfüllt die Voraussetzungen für den altersbedingten Ruhestand und will gleitend über eine reduzierte Lehrverpflichtung mit Pensionsbezug aussteigen. Er wünscht eine Stufe mit etwa halber Lehrverpflichtung, will daneben eine alte Elternteilzeit weiterlaufen lassen und das Ausmaß später flexibel nachjustieren. Die Behörde prüft Stufen, Zusammentreffen und Bindungswirkung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §46c Abs.4"
+    ],
+    "aufloesung": "Imhof kann nur eine der drei fixen Stufen bei dienstlichem Interesse wählen. Mit Beginn enden alle anderen Herabsetzungen und das gewählte Ausmaß bleibt unveränderbar. Zum Nachlesen: LDG §46c Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §58d Abs.3",
+    "id": "B26-L3-009",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Die Freistellung ist ungeteilt in einem Schuljahr zu verbrauchen und nicht zu stückeln.",
+      "Bei zwei- oder dreijähriger Rahmenzeit darf sie erst nach einem Jahr Dienst angetreten werden.",
+      "Bei vier- oder fünfjähriger Rahmenzeit darf sie erst nach zwei Jahren Dienst angetreten werden.",
+      "Ein längerer Karenzurlaub oder eine Suspendierung über einen Monat beendet das Sabbatical.",
+      "Das Freijahr lässt sich in freie Halbtage über zehn Jahre strecken und mit Diensten mischen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der ungeteilte Verbrauch in einem Schuljahr ist Wesensmerkmal des Modells.",
+      "Richtig: Kurze Rahmenzeiten verlangen ein Jahr Vorleistung vor dem Freijahr.",
+      "Richtig: Lange Rahmenzeiten verlangen zwei Jahre Vorleistung vor dem Freijahr.",
+      "Richtig: Längere Karenz und Suspendierung sprengen das Modell.",
+      "Falsch: Stückeln und Vermischen mit Diensten widersprechen dem Freijahr."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Jovanovic in der Arbeitsphase ihres Freijahrmodells überlegt, das freie Jahr in viele Einzelwochen zu zerlegen und früher anzutreten als vereinbart. Gleichzeitig plant sie zwischendurch eine mehrjährige unbezahlte Auszeit und meint, das Modell laufe daneben einfach weiter. Die Behörde prüft Verbrauch, Vorleistung und Störfälle. Wähle alles, was das Freijahr trägt oder beendet.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58d Abs.6"
+    ],
+    "aufloesung": "Jovanovic muss das Freijahr ungeteilt nach der nötigen Vorleistung verbrauchen. Eine längere unbezahlte Auszeit oder Suspendierung beendet das Modell, Stückeln ist ausgeschlossen. Zum Nachlesen: LDG §58d Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §48 Abs.2",
+    "id": "B26-L3-010",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Änderung oder vorzeitige Beendigung gibt es auf Antrag, wenn keine wichtigen dienstlichen Interessen entgegenstehen.",
+      "In den letzten vier Monaten des Schuljahres ist eine Änderung oder Beendigung ausgeschlossen.",
+      "Mit einer Teilzeit nach dem Mutterschutz- oder Väterkarenzgesetz endet die Herabsetzung automatisch.",
+      "Die Rückkehr zur Vollzeit gelingt nur über Kündigung und Neubewerbung.",
+      "Eine Änderung ist auch noch in der letzten Schulwoche vor Ferienbeginn frei möglich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Antrag plus fehlende Gegengründe öffnen den Weg zurück.",
+      "Richtig: Die Vier-Monats-Sperre schützt die Planung vor Schuljahresende.",
+      "Richtig: Die gesetzliche Elternteilzeit löst die LDG-Herabsetzung ab.",
+      "Falsch: Kündigung ist unnötig, der Antrag auf Beendigung genügt.",
+      "Falsch: Gerade die letzten Monate sind für Änderungen gesperrt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Kaufmann in beliebiger Teilzeit will im Mai kurzfristig wieder voll einsteigen, Kollegin Berger nimmt daneben eine Teilzeit nach dem Mutterschutzgesetz in Anspruch und Kollege Dorn glaubt, ohne Behörde könne gar nichts geändert werden. Die Direktion sortiert Anträge, Sperrfristen und automatische Enden. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §48 Abs.3",
+      "LDG §48 Abs.5"
+    ],
+    "aufloesung": "Kaufmanns Mai-Wunsch scheitert an der Sperre der letzten vier Schulmonate. Daneben endet die Herabsetzung automatisch bei gesetzlicher Elternteilzeit und sonst nur auf Antrag ohne Gegengründe. Zum Nachlesen: LDG §48 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §49",
+    "id": "B26-L3-011",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Leitung und Schulaufsicht sind von der Herabsetzung aus beliebigem Anlass ausgenommen.",
+      "Bei reduzierter Leitung wird eine geeignete Person anteilig mit Vertretung und Stunden betraut.",
+      "Auch die Direktion kann aus rein privaten Gründen jederzeit halbtags leiten.",
+      "Die Leitungsfunktion entfällt automatisch bei jedem Teilzeitantrag.",
+      "Reduzierte Leitungen behalten alle Leitungsstunden ungekürzt zusätzlich zum Unterricht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Für Leitung und Aufsicht gilt der Ausschluss von der beliebigen Herabsetzung.",
+      "Richtig: Geeignete Vertretung mit anteiliger Aufgaben- und Stundenaufteilung sichert den Betrieb.",
+      "Falsch: Gerade der beliebige Anlass steht der Leitung nicht offen.",
+      "Falsch: Die Funktion entfällt nicht automatisch, Vertretung sichert sie ab.",
+      "Falsch: Leitungs- und Unterrichtsstunden werden anteilig aufgeteilt, nicht verdoppelt."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Larch will aus privaten Gründen seine Leitungs- und Unterrichtsverpflichtung halbieren, seine Stellvertreterin wäre zur anteiligen Vertretung bereit. Der Stadtschulrat erklärt beiden, dass für Leitungsfunktionen bei rein privaten Reduktionswünschen eine Ausnahme gilt und wie eine Vertretungslösung bei verringerter Leitung aussieht. Beide fragen, welche Regeln hier zutreffen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §49a Abs.1"
+    ],
+    "aufloesung": "Larch kann die beliebige Halbierung als Leiter nicht beanspruchen. Bei zulässiger Reduktion sichert eine geeignete Vertretung mit anteiliger Aufteilung die Leitungsaufgaben. Zum Nachlesen: LDG §49."
+  },
+  {
+    "hauptquelle": "LDG §45 Abs.4 Z1",
+    "id": "B26-L3-012",
+    "level": "L3",
+    "modul_id": "B26",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: An Auslandsdienststellen ist die Herabsetzung gerade ausgeschlossen.",
+      "Richtig erkannt: Der Auslandsfall sperrt die Teilzeit ausnahmslos."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Eine Kollegin behauptet, während einer Verwendung an einer Schule im Ausland könne man seine Lehrverpflichtung genauso problemlos halbtags reduzieren wie an einer Schule im Inland.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, denn an Auslandsdienststellen ist die Herabsetzung ausgeschlossen. Der Ausschluss gilt ausnahmslos und ein Antrag wäre von vornherein abzulehnen. Zum Nachlesen: LDG §45 Abs.4 Z1."
+  }
+]

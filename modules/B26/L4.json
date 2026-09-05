@@ -1,1 +1,244 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §58d Abs.6 Z1",
+    "id": "B26-L4-001",
+    "level": "L4",
+    "modul_id": "B26",
+    "optionen": [
+      "Das Sabbatical läuft neben der mehrjährigen Auszeit unverändert weiter und wird danach fortgesetzt.",
+      "Das Sabbatical endet, weil eine mehr als einmonatige Karenz das Modell sprengt.",
+      "Die Lehrerin kann Freijahr und Karenz einfach zeitgleich verbrauchen und doppelt profitieren.",
+      "Die Karenz wandelt sich automatisch in einen Teil des Freijahres um."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine lange Karenz beendet das Sabbatical statt daneben weiterzulaufen.",
+      "Richtig: Überschreitet der Anlass einen Monat, endet das Sabbatical.",
+      "Falsch: Gleichzeitiger Doppelverbrauch von Freijahr und Karenz ist ausgeschlossen.",
+      "Falsch: Eine automatische Umwandlung der Karenz ins Freijahr gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Madl hat eine vierjährige Rahmenzeit mit einem freien Schuljahr vereinbart und befindet sich in der Arbeitsphase mit gekürzten Bezügen. Nun beantragt sie für die Betreuung ihres Kleinkindes eine zweijährige unbezahlte Auszeit im selben Zeitraum und meint, danach einfach ins Freijahrmodell zurückzukehren. Die Behörde prüft das Zusammentreffen beider Auszeiten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Madls Freijahrmodell endet durch die zweijährige unbezahlte Auszeit. Längere Karenzen über einen Monat sprengen das Sabbatical und lassen keine parallele Fortsetzung zu. Zum Nachlesen: LDG §58d Abs.6 Z1."
+  },
+  {
+    "hauptquelle": "LDG §48 Abs.3",
+    "id": "B26-L4-002",
+    "level": "L4",
+    "modul_id": "B26",
+    "optionen": [
+      "Beide Teilzeiten laufen nebeneinander weiter und die Stunden addieren sich.",
+      "Die LDG-Herabsetzung endet automatisch, weil die gesetzliche Elternteilzeit sie ablöst.",
+      "Die Lehrerin muss zuerst kündigen, um von einem Modell ins andere zu wechseln.",
+      "Die gesetzliche Teilzeit ist nachrangig und wird bis zum Ende der LDG-Teilzeit blockiert."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Nebeneinander beider Teilzeitmodelle ist gerade ausgeschlossen.",
+      "Richtig: Die Inanspruchnahme der gesetzlichen Teilzeit beendet die LDG-Herabsetzung.",
+      "Falsch: Kündigung und Neubewerbung sind für den Wechsel unnötig.",
+      "Falsch: Die gesetzliche Teilzeit löst die LDG-Herabsetzung ab, nicht umgekehrt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Nader arbeitet seit einem Jahr mit halber Lehrverpflichtung aus privatem Anlass und nimmt nun nach der Geburt ihres Kindes eine Teilzeitbeschäftigung nach dem Mutterschutzgesetz in Anspruch. Sie meint, beide Modelle parallel kombinieren und die Stunden jeweils halbieren zu können. Die Personalstelle prüft, was beim Zusammentreffen geschieht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Naders bisherige Herabsetzung endet automatisch mit der gesetzlichen Elternteilzeit. Die Dienstbehörde hat die Beendigung zu verfügen, ein Nebeneinander beider Modelle gibt es nicht. Zum Nachlesen: LDG §48 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §56 Abs.5",
+    "id": "B26-L4-003",
+    "level": "L4",
+    "modul_id": "B26",
+    "optionen": [
+      "Teilzeitkräfte sind in den Ferien grundsätzlich unerreichbar und jede Rückberufung ist unbeachtlich.",
+      "Die kurze Rückberufung ist zulässig, weil die Prüfungsnot ein wichtiger dienstlicher Grund ist.",
+      "Einmal zurückberufen muss die Lehrerin bis zum Schulbeginn durchgehend Dienst versehen.",
+      "Die Ferien wandeln die Teilzeit automatisch in eine Vollzeitverpflichtung um."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ferien schützen nicht absolut, wichtige Gründe erlauben die Rückberufung.",
+      "Richtig: Prüfungsnot mit Totalausfall trägt die kurze Rückberufung auch bei Teilzeit.",
+      "Falsch: Die Rückberufung ist zu beenden, sobald es der Dienst gestattet.",
+      "Falsch: Eine automatische Umwandlung in Vollzeit gibt es in den Ferien nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BHS"
+    ],
+    "situation": "Maturalehrerin Ortner mit halber Lehrverpflichtung verbringt die Hauptferien bei ihrer Familie, als wegen plötzlichen Ausfalls aller Ersatzkräfte unaufschiebbare Abschlussprüfungen ohne Prüferin dazustehen drohen. Die Direktion ruft sie für zwei Tage zur Prüfungsabhaltung zurück. Ortner wendet ein, als Teilzeitkraft sei sie in den Ferien jedenfalls befreit.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Ortner muss der kurzen Rückberufung auch als Teilzeitkraft folgen. Die Prüfungsnot ist ein wichtiger dienstlicher Grund und die Rückberufung ist auf das unbedingt nötige Maß zu beschränken. Zum Nachlesen: LDG §56 Abs.5."
+  },
+  {
+    "hauptquelle": "LDG §59 Abs.6",
+    "id": "B26-L4-004",
+    "level": "L4",
+    "modul_id": "B26",
+    "optionen": [
+      "Teilzeitkräfte behalten das volle Freistellungskontingent von Vollzeitkräften unverändert.",
+      "Sein Kontingent gebührt nur anteilig vermindert entsprechend seiner herabgesetzten Lehrverpflichtung.",
+      "Bei Teilzeit entfällt jeder Anspruch auf bezahlte Pflegefreistellung zur Gänze.",
+      "Das Kontingent verdoppelt sich bei Halbtagsarbeit wegen der geringeren Anwesenheit."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Kontingent schrumpft mit der reduzierten Lehrverpflichtung mit.",
+      "Richtig: Die anteilige Verminderung passt die Freistellung an die Teilzeit an.",
+      "Falsch: Teilzeit streicht den Anspruch nicht, sie verkleinert ihn nur anteilig.",
+      "Falsch: Eine Verdoppelung bei Teilzeit sieht das Gesetz nicht vor."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BS"
+    ],
+    "situation": "Berufsschullehrer Pachler unterrichtet mit halber Lehrverpflichtung und muss seine erkrankte Frau zu Hause pflegen. Er beantragt bezahlte Pflegefreistellung im selben Stundenumfang wie seine vollbeschäftigten Kolleginnen und meint, Teilzeit dürfe beim Pflegekontingent keinen Unterschied machen. Die Direktion prüft den Umfang seines Kontingents.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Pachlers Kontingent ist anteilig kleiner als bei Vollzeit. Bei herabgesetzter Lehrverpflichtung gebührt die Pflegefreistellung nur im entsprechend verminderten Ausmaß. Zum Nachlesen: LDG §59 Abs.6."
+  },
+  {
+    "hauptquelle": "LDG §58d Abs.6",
+    "id": "B26-L4-005",
+    "level": "L4",
+    "modul_id": "B26",
+    "optionen": [
+      "Mehr als einmonatiger Karenzurlaub oder gesetzliche Karenz beendet das Sabbatical.",
+      "Gänzliche Dienstfreistellung oder Außerdienststellung beendet das Sabbatical.",
+      "Präsenz-, Ausbildungs- oder Zivildienst über einen Monat beendet das Sabbatical.",
+      "Suspendierung oder unentschuldigte Abwesenheit über einen Monat beendet das Sabbatical.",
+      "Ein kurzer Frühkarenzurlaub nach der Geburt beendet das Sabbatical ebenfalls."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lange Karenzen über einen Monat sprengen das Freijahrmodell.",
+      "Richtig: Völliges Ausscheiden aus dem Dienst verträgt sich nicht mit dem Modell.",
+      "Richtig: Längerer Wehr- oder Zivildienst beendet das Sabbatical.",
+      "Richtig: Suspendierung und langes unentschuldigtes Fernbleiben beenden es ebenfalls.",
+      "Falsch: Die kurze Frühkarenz ist ausdrücklich von der Beendigung ausgenommen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Konferenzzimmer diskutieren Sabbatical-Rückkehrer, welche Lebenslagen ihr Freijahrmodell zwischendurch gesprengt hätten: von langer Babyauszeit über politische Freistellung und Wehrdienst bis zu Disziplinarfällen und kurzer Väterfreistellung nach der Geburt. Auf einem Zettel stehen fünf Störfälle zur Prüfung. Wähle alles, was das Sabbatical beendet.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Lange Karenz, völlige Freistellung und längerer Wehrdienst beenden das Modell. Auch Suspendierung und langes Fernbleiben sprengen es, nur die kurze Frühkarenz bleibt ausgenommen. Zum Nachlesen: LDG §58d Abs.6."
+  },
+  {
+    "hauptquelle": "LDG §44 Abs.5",
+    "id": "B26-L4-006",
+    "level": "L4",
+    "modul_id": "B26",
+    "optionen": [
+      "Bei Projektermäßigung mindern sich die Bezüge grundsätzlich anteilig zum Reduktionsausmaß.",
+      "Beim Sabbatical verteilen sich gekürzte Bezüge auf die gesamte Rahmenzeit.",
+      "Karenzurlaub bleibt für dienstzeitabhängige Rechte grundsätzlich unberücksichtigt.",
+      "Teilzeit führt automatisch zu vollen Bezügen wie bei Vollbeschäftigung weiter.",
+      "Jede Karenz zählt automatisch voll für Vorrückung und Dienstalter mit."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Weniger Dienst bei Projekten bedeutet grundsätzlich weniger Bezüge.",
+      "Richtig: Die verteilte Kürzung finanziert das Freijahr über die Rahmenzeit.",
+      "Richtig: Karenz blendet die Dienstzeit für altersabhängige Rechte grundsätzlich aus.",
+      "Falsch: Weniger Dienst bedeutet grundsätzlich auch weniger Geld.",
+      "Falsch: Eine automatische Vollanrechnung jeder Karenz gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Kolleginnen vergleichen ihre Bezugsnachweise: Herr Quast mit Projekthalbzeit, Frau Rinner im Freijahrmodell und Frau Sattler nach zweijähriger unbezahlter Auszeit streiten, wie sich Teilzeit und Karenz auf Gehalt und Vorrückung auswirken. Am Tisch liegt eine Liste mit fünf Behauptungen zu Kürzung und Anrechnung. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §58d Abs.1",
+      "LDG §58a Abs.1"
+    ],
+    "aufloesung": "Quast und Rinner werden gekürzt, einmal anteilig und einmal über die Rahmenzeit verteilt. Sattlers Karenz bleibt für dienstzeitabhängige Rechte grundsätzlich unberücksichtigt. Zum Nachlesen: LDG §44 Abs.5."
+  },
+  {
+    "hauptquelle": "LDG §46a Abs.3",
+    "id": "B26-L4-007",
+    "level": "L4",
+    "modul_id": "B26",
+    "optionen": [
+      "Vorzeitige Rückkehr aus der Pflegeteilzeit bei Heimaufnahme, Fremdübernahme oder Tod.",
+      "Vorzeitige Rückkehr aus der Wiedereingliederungsteilzeit bei Wegfall der Zweckmäßigkeit.",
+      "Widerruf oder Beendigung des Sabbaticals auf Antrag ohne wichtige dienstliche Gegengründe.",
+      "Änderung der LDG-Herabsetzung auch noch in den letzten vier Monaten des Schuljahres.",
+      "Automatischer Verbleib in jeder Teilzeit ohne Antrag bis zur Pensionierung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Heimaufnahme, dauerhafte Fremdpflege und Tod öffnen die vorzeitige Rückkehr.",
+      "Richtig: Entfällt der Reha-Sinn, kann die Rückkehr zur vollen Lehrverpflichtung gewährt werden.",
+      "Richtig: Das Freijahrmodell lässt sich auf Antrag ohne Sperrlage widerrufen oder beenden.",
+      "Falsch: Die letzten vier Schulmonate sperren Änderungen der LDG-Herabsetzung.",
+      "Falsch: Rückkehr und Änderung brauchen jeweils einen Antrag und eine Behördenentscheidung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Teilzeitfälle suchen den Rückweg zur Vollzeit: Frau Tanner nach Heimaufnahme ihrer Mutter, Herr Uhl nach überstandener Reha-Phase und Frau Vogl mitten im Freijahrmodell, während Herr Wach seine Stunden in der letzten Schulwoche vor den Ferien ändern will. Die Behörde erklärt, welche Rückwege offenstehen und welche Sperre gilt. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §46b Abs.5",
+      "LDG §58d Abs.5",
+      "LDG §48 Abs.5"
+    ],
+    "aufloesung": "Tanner, Uhl und Vogl haben jeweils einen antragsgebundenen Rückweg in die Vollzeit. Wachs späte Änderung scheitert an der Sperre der letzten vier Schulmonate. Zum Nachlesen: LDG §46a Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §58d Abs.6",
+    "id": "B26-L4-008",
+    "level": "L4",
+    "modul_id": "B26",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Die kurze Frühkarenz ist ausdrücklich von der Beendigung ausgenommen.",
+      "Richtig erkannt: Frühkarenz lässt das Sabbatical unberührt, andere lange Karenzen nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, jede Karenz ohne Ausnahme, also auch ein kurzer Frühkarenzurlaub nach der Geburt, beende automatisch ein vereinbartes Sabbatical.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, denn die kurze Frühkarenz ist von der Beendigung ausdrücklich ausgenommen. Nur die übrigen längeren Karenz- und Störfälle über einen Monat beenden das Modell. Zum Nachlesen: LDG §58d Abs.6."
+  }
+]
