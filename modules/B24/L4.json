@@ -1,1 +1,256 @@
-[]
+[
+  {
+    "aufloesung": "Gasser hätte sich enthalten und vertreten lassen müssen, so war die Prüfung fehlerhaft. Wichtige Gründe, die die Unbefangenheit in Zweifel ziehen, verbieten die Amtsausübung, die Prüfung des eigenen Kindes ist dafür der Schulfall. Die Bestnote aus befangener Hand ist angreifbar und disziplinarrelevant. Zum Nachlesen: LDG §34.",
+    "hauptquelle": "LDG §34",
+    "id": "B24-L4-001",
+    "level": "L4",
+    "modul_id": "B24",
+    "optionen": [
+      "Alles war in Ordnung, weil Eltern ihre Kinder am besten einschätzen können.",
+      "Er hätte sich der Prüfung enthalten und seine Vertretung veranlassen müssen.",
+      "Es hätte genügt, die Bestnote besonders ausführlich zu begründen.",
+      "Anfechtungen sind ausgeschlossen, sobald die Note einmal verkündet ist."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade bei eigenen Kindern ist die Unbefangenheit zweifelhaft.",
+      "Richtig: Enthaltung plus veranlasste Vertretung waren zwingend.",
+      "Falsch: Eine schöne Begründung heilt die Befangenheit nicht.",
+      "Falsch: Fehlerhafte befangene Beurteilungen bleiben überprüfbar."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Gasser prüft bei der mündlichen Reifeprüfung seinen eigenen Sohn, enthält sich nicht und vergibt die Bestnote. Ein Mitschüler, der durchgefallen ist, ficht die Prüfung an und rügt, der Prüfer sei befangen gewesen. Gasser verweist auf seine lange Erfahrung und Objektivität.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Huber durfte so nicht mitstimmen, Nebentätigkeit und Abstimmung kollidieren. Eine Nebentätigkeit, die die Vermutung der Befangenheit hervorruft, ist unzulässig, und wer am Auftrag des eigenen Auftraggebers mitentscheidet, setzt genau diese Vermutung. Er hätte beide Rollen nicht verbinden dürfen. Zum Nachlesen: LDG §40 Abs.2.",
+    "hauptquelle": "LDG §40 Abs.2",
+    "id": "B24-L4-002",
+    "level": "L4",
+    "modul_id": "B24",
+    "optionen": [
+      "Das ist unbedenklich, weil sein Fachwissen der Schule beim Vergabeverfahren nützt.",
+      "Die Kombination ist unzulässig, sie begründet die Vermutung der Befangenheit.",
+      "Er dürfte mitstimmen, wenn er seine Stimme als Enthaltung wertet, aber anwesend bleibt.",
+      "Der Beratervertrag ist privat und hat mit der Abstimmung rechtlich nichts zu tun."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fachwissen rechtfertigt die Doppelrolle beim eigenen Auftraggeber nicht.",
+      "Richtig: Bezahlte Bindung plus Mitentscheidung über den Auftraggeber ist die verpönte Kollision.",
+      "Falsch: Schein-Enthaltungen bei gleichzeitiger Einflussnahme genügen nicht.",
+      "Falsch: Die bezahlte Bindung strahlt direkt auf die Amtsführung aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Huber hat einen gut bezahlten Beratervertrag bei einer Baufirma und stimmt im Vergabegremium der Schule über einen Sanierungsauftrag an genau diese Firma mit ab. Auf Nachfrage erklärt er, Vertrag und Abstimmung seien zwei getrennte Paar Schuhe.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §34"
+    ]
+  },
+  {
+    "aufloesung": "Der Klassenvorstand muss ablehnen, das Smartphone ist ein verbotenes Geschenk. Im Hinblick auf Stellung und Amtsführung darf kein Vorteil angenommen werden, und die Bitte um eine wohlwollende Beurteilung stellt den Konnex zum konkreten Amtsgeschäft her. Weder geringer Wert noch Ortsüblichkeit liegen hier vor. Zum Nachlesen: LDG §41 Abs.1.",
+    "hauptquelle": "LDG §41 Abs.1",
+    "id": "B24-L4-003",
+    "level": "L4",
+    "modul_id": "B24",
+    "optionen": [
+      "Er darf es annehmen, weil es vom Vater des Schülers und nicht vom Schüler selbst kommt.",
+      "Er muss ablehnen, die Annahme wäre im Hinblick auf sein Amt verboten.",
+      "Er darf es annehmen und muss nur die Beurteilung einem Kollegen überlassen.",
+      "Er darf es behalten, wenn er die Beurteilung besonders streng ausfallen lässt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch Vorteile über Angehörige oder für Dritte sind erfasst.",
+      "Richtig: Konnex zur Beurteilung macht die Annahme zum verbotenen Geschenk.",
+      "Falsch: Delegieren der Beurteilung heilt die verbotene Annahme nicht.",
+      "Falsch: Strenge als Ausgleich ändert nichts am Verbot der Annahme."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Kurz vor der Notenkonferenz überreicht ein Vater dem Klassenvorstand ein hochwertiges Smartphone und bittet um eine wohlwollende Beurteilung seines Sohnes, der auf der Kippe steht. Der Lehrer überlegt, das Gerät anzunehmen, weil es ja ein Geschenk unter Erwachsenen sei.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Direktorin hat ihre Meldepflicht verletzt, Schweigen war falsch. Ehrengeschenke dürfen angenommen werden, doch die Dienstbehörde ist unverzüglich zu informieren, und sie kann das Stück als Landeseigentum erfassen. Privates Behalten ohne Meldung ist eine Dienstpflichtverletzung mit Disziplinarrelevanz. Zum Nachlesen: LDG §41 Abs.4.",
+    "hauptquelle": "LDG §41 Abs.4",
+    "id": "B24-L4-004",
+    "level": "L4",
+    "modul_id": "B24",
+    "optionen": [
+      "Ohne Meldung privat behalten war in Ordnung, weil Ehrengeschenke immer privat bleiben.",
+      "Sie hätte die Dienstbehörde unverzüglich informieren müssen, die das Stück erfassen kann.",
+      "Sie hätte die Ehrengabe ablehnen müssen, Ehrengeschenke sind generell verboten.",
+      "Die Meldung wäre nur nötig gewesen, wenn das Porzellan einen hohen Sammlerwert hätte."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ehrengeschenke können Landeseigentum werden, privates Behalten ohne Meldung verletzt die Pflicht.",
+      "Richtig: Unverzügliche Meldung mit möglicher Erfassung ist der vorgeschriebene Weg.",
+      "Falsch: Die Entgegennahme von Ehrengeschenken ist ausdrücklich erlaubt.",
+      "Falsch: Die Meldepflicht gilt unabhängig vom Marktwert des Stücks."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Berger erhält von einer Partnerstadt feierlich wertvolles Porzellan für Verdienste um den Schüleraustausch und stellt es ohne jede Meldung in ihr privates Wohnzimmer. Als die Behörde davon erfährt, beruft sie sich darauf, Ehrengeschenke gehörten ihr persönlich.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §41 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der befangene Beurteiler muss sich enthalten, offenlegen und vertreten lassen. Wichtige Gründe, die die Unbefangenheit in Zweifel ziehen, verbieten die Mitwirkung an der Beurteilung, nur Unaufschiebbares bei fehlender Vertretung darf der Befangene selbst setzen. Verschweigen oder Verweis auf die eigene Objektivität heilen nichts. Zum Nachlesen: LDG §34.",
+    "hauptquelle": "LDG §34",
+    "id": "B24-L4-005",
+    "level": "L4",
+    "modul_id": "B24",
+    "optionen": [
+      "Der befangene Beurteiler enthält sich und veranlasst seine Vertretung.",
+      "Die Mitwirkung an der Beurteilung naher Angehöriger begründet die Enthaltungspflicht.",
+      "Unaufschiebbares darf der Befangene bei fehlender Vertretung ausnahmsweise selbst setzen.",
+      "Wer sich für objektiv hält, darf trotz Naheverhältnisses getrost mitbeurteilen.",
+      "Befangenheit muss nicht offengelegt werden, solange das Ergebnis vertretbar wirkt.",
+      "Die Vertretung darf erst nach Abschluss der Beurteilung verständigt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Enthaltung plus veranlasste Vertretung gelten auch in der Leistungsfeststellung.",
+      "Richtig: Nahe Angehörige in der Beurteilung sind der klassische Zweifelsgrund.",
+      "Richtig: Die Notfallausnahme für Unaufschiebbares gilt auch hier.",
+      "Falsch: Die eigene Objektivitätsüberzeugung ersetzt die Enthaltung nicht.",
+      "Falsch: Verschweigen verletzt die Pflicht und verschärft den Vorwurf.",
+      "Falsch: Die Vertretung ist vorher zu veranlassen, nicht nachträglich zu informieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer Leistungsfeststellung soll ein Kommissionsmitglied über seinen Neffen mitentscheiden, dessen Beurteilung er zuvor schon federführend vorbereitet hat. Er will mitstimmen, weil er sich für objektiv hält und niemand etwas merken werde. Daneben droht eine Frist zu verstreichen, für die keine Vertretung erreichbar ist. Wähle alles, was befangenheitsrechtlich zutrifft.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §62"
+    ]
+  },
+  {
+    "aufloesung": "Janda riskiert ein Disziplinarverfahren, die Kette von der Untersagung bis zur Strafe greift. Die unzulässige Nebentätigkeit wird per Weisung untersagt, ihre Missachtung ist eine Dienstpflichtverletzung und kann disziplinar geahndet werden. Die gesunkenen Leistungen schlagen zusätzlich in der Beurteilung durch. Zum Nachlesen: LDG §40 Abs.7.",
+    "hauptquelle": "LDG §40 Abs.7",
+    "id": "B24-L4-006",
+    "level": "L4",
+    "modul_id": "B24",
+    "optionen": [
+      "Die Missachtung der Untersagung ist eine Dienstpflichtverletzung.",
+      "Das Verhalten kann ein Disziplinarverfahren mit Strafe nach sich ziehen.",
+      "Die Behörde durfte die unzulässige Nebentätigkeit per Weisung untersagen.",
+      "Eine Untersagung ist eine unverbindliche Bitte, die man ignorieren darf.",
+      "Disziplinarrecht greift bei Nebentätigkeiten grundsätzlich nie.",
+      "Die gesunkene Unterrichtsleistung darf in der Leistungsfeststellung nicht berücksichtigt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Trotz Verbot weiterzuarbeiten verletzt die Gehorsamspflicht.",
+      "Richtig: Beharrliche Pflichtverletzungen sind der klassische Disziplinarfall.",
+      "Richtig: Die Untersagung per Weisung ist das vorgesehene Instrument.",
+      "Falsch: Die Weisung ist verbindlich und nicht verhandelbar.",
+      "Falsch: Gerade Nebentätigkeitsverstöße sind disziplinarrechtlich relevant.",
+      "Falsch: Reale Minderleistungen fließen in die Beurteilung ein."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Janda arbeitet trotz schriftlicher Untersagung weiter abends in einer Bar, kommt übermüdet, sein Unterricht wird schlecht und die Leistungsfeststellung droht negativ auszufallen. Er meint, die Untersagung sei nur eine Bitte und Disziplinarrecht gebe es für Nebenjobs nicht. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §69"
+    ]
+  },
+  {
+    "aufloesung": "Reise, Uhr und Honorar sind verboten, Broschüre und neutrale Messe nicht. Vorteile im Hinblick auf Stellung und Amtsführung mit Konnex zu einem konkreten Amtsgeschäft fallen unter das Verbot. Neutrale Informationen ohne persönlichen Vorteil und Kleinigkeiten ohne Konnex bleiben zulässig. Zum Nachlesen: LDG §41 Abs.1.",
+    "hauptquelle": "LDG §41 Abs.1",
+    "id": "B24-L4-007",
+    "level": "L4",
+    "modul_id": "B24",
+    "optionen": [
+      "Das Luxuswochenende des Ausstatters kurz vor der Vergabeentscheidung.",
+      "Die hochwertige Uhr als Dankeschön für die bevorstehende Auftragsvergabe.",
+      "Das angebotene Beratungshonorar für die Erteilung des Auftrags.",
+      "Die neutrale Produktbroschüre ohne jeden persönlichen Vorteil.",
+      "Eine ortsübliche Kleinigkeit ohne Bezug zu einem Amtsgeschäft.",
+      "Die Teilnahme an einer neutralen Fachmesse ohne persönliche Vorteile."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bezugsloser Luxus mit Vergabekonnex ist ein klarer Verstoß.",
+      "Richtig: Die Uhr im Vorfeld der Entscheidung ist das verbotene Geschenk.",
+      "Richtig: Honorar für das Amtsgeschäft ist Vorteil und Konnex in einem.",
+      "Falsch: Reine Sachinfo ohne Vorteil ist kein Geschenk.",
+      "Falsch: Geringwertiges ohne Konnex bleibt eine zulässige Aufmerksamkeit.",
+      "Falsch: Neutrale Fortbildung ohne Vorteil verstößt gegen kein Verbot."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor einer großen Vergabe häuft ein Schulausstatter Vorteile an: ein Luxuswochenende für den entscheidungsbefugten Lehrer, eine hochwertige Uhr als Dankeschön im Vorfeld und ein Beratungshonorar für den Fall der Auftragserteilung. Daneben gibt es neutrale Broschüren, eine ortsübliche Kleinigkeit und eine neutrale Fachmesse. Wähle alles Verbotene.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §41 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, der Notfall bleibt handelbar. Kann die Vertretung nicht sogleich bewirkt werden, nimmt selbst der befangene Lehrer die unaufschiebbaren Amtshandlungen vor. Das gilt auch für Eilmaßnahmen im Beurteilungs- und Disziplinarumfeld, die keinen Aufschub dulden. Zum Nachlesen: LDG §34.",
+    "hauptquelle": "LDG §34",
+    "id": "B24-L4-008",
+    "level": "L4",
+    "modul_id": "B24",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Für Unaufschiebbares bei fehlender Vertretung gibt es die Ausnahme.",
+      "Richtig erkannt: Auch der Befangene darf dann die Eilmaßnahme selbst setzen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Disziplinarkommission: Ein Mitglied behauptet, Befangenheit kenne keinerlei Ausnahme und selbst bei Gefahr in Verzug dürfe der befangene Lehrer keine unaufschiebbare Amtshandlung selbst setzen, sondern müsse tatenlos warten.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

@@ -1,1 +1,381 @@
-[]
+[
+  {
+    "aufloesung": "Gruber braucht für beides eine vorherige Genehmigung, sein Vorgehen war falsch. Privatunterricht an Schüler der eigenen Schule sowie deren Aufnahme in Kost und Quartier sind ausdrücklich genehmigungspflichtig. Auch der Betrieb einer Privatschule fiele darunter. Zum Nachlesen: LDG §40 Abs.6.",
+    "hauptquelle": "LDG §40 Abs.6",
+    "id": "B24-L3-001",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Er hätte vorher eine Genehmigung einholen müssen, Privatunterricht an eigene Schüler sowie Kost und Quartier sind genehmigungspflichtig.",
+      "Was außerhalb der Unterrichtszeit geschieht, ist reine Privatsache und braucht nie eine Genehmigung.",
+      "Bei Bezahlung in bar statt per Überweisung entfällt die Genehmigungspflicht automatisch.",
+      "Nur der Betrieb einer ganzen Privatschule ist genehmigungspflichtig, Einzelunterricht nie."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gerade Unterricht an eigene Schüler plus Kost und Quartier braucht die vorherige Genehmigung.",
+      "Falsch: Der private Rahmen außerhalb der Schulzeit befreit nicht von der Genehmigungspflicht.",
+      "Falsch: Die Art der Bezahlung ändert nichts an der Genehmigungspflicht.",
+      "Falsch: Auch einzelner Privatunterricht an eigene Schüler ist erfasst."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber gibt gegen Bezahlung regelmäßig Nachhilfe an Schüler seiner eigenen Klasse und nimmt zwei von ihnen zusätzlich bei sich in Kost und Quartier auf. Um Erlaubnis hat er nie gefragt, denn was außerhalb der Unterrichtszeit passiere, halte er für reine Privatsache.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Hofers Nebenjob ist trotz der Genehmigung unzulässig geworden, sie muss gegensteuern. Keine Nebentätigkeit darf die dienstlichen Aufgaben behindern, und eine aus diesem Grund unzulässige Tätigkeit untersagt die Behörde per Weisung. Die alte Genehmigung schützt nicht vor der neuen Kollision. Zum Nachlesen: LDG §40 Abs.2.",
+    "hauptquelle": "LDG §40 Abs.2",
+    "id": "B24-L3-002",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Die Genehmigung gilt für immer, spätere Übermüdung und Ausfälle sind reines Privatrisiko der Schule.",
+      "Ihre Nebentätigkeit ist unzulässig geworden, weil sie den Dienst behindert, und kann per Weisung untersagt werden.",
+      "Erst wenn sie fristlos entlassen werden soll, muss sie den Nebenjob überhaupt erwähnen.",
+      "Sie darf den Abendjob behalten, wenn sie dafür im Unterricht Filme zeigt statt zu unterrichten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine Genehmigung schützt nicht davor, dass die Tätigkeit später dienstbehindernd wird.",
+      "Richtig: Behinderung des Dienstes macht die Tätigkeit unzulässig und untersagbar.",
+      "Falsch: Die Kollision muss sofort und nicht erst im äußersten Fall gelöst werden.",
+      "Falsch: Absenken des Unterrichtsniveaus löst die Kollision nicht, es verschärft sie."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BHS",
+      "BS"
+    ],
+    "situation": "Lehrerin Hofer hatte für ihren Abendjob in einem Callcenter eine Genehmigung erhalten. Mittlerweile arbeitet sie dort fast jede Nacht, kommt übermüdet in die Schule, fällt häufig aus und kann ihre Klassen kaum mehr ordentlich unterrichten. Sie beruft sich darauf, der Nebenjob sei ja genehmigt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §40 Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Iber muss die Organfunktion jedenfalls melden, Schweigen war falsch. Jede Tätigkeit im Vorstand, Aufsichtsrat, Verwaltungsrat oder sonstigen Organ einer auf Gewinn gerichteten juristischen Person ist ausdrücklich meldepflichtig. Ob sie zusätzlich unzulässig ist, prüft dann die Behörde. Zum Nachlesen: LDG §40 Abs.5.",
+    "hauptquelle": "LDG §40 Abs.5",
+    "id": "B24-L3-003",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Solange er dort nur zweimal im Jahr tagt, muss er gar nichts melden.",
+      "Er hätte die Aufsichtsratstätigkeit jedenfalls unverzüglich melden müssen.",
+      "Melden muss man nur Vorstandsjobs, Aufsichtsräte sind immer ausgenommen.",
+      "Die Meldung ist erst nötig, wenn die GmbH tatsächlich Gewinne ausschüttet."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der geringe Zeitaufwand befreit nicht von der Meldepflicht.",
+      "Richtig: Organfunktionen gewinnorientierter Firmen sind zwingend zu melden.",
+      "Falsch: Auch der Aufsichtsrat ist ausdrücklich von der Meldepflicht erfasst.",
+      "Falsch: Entscheidend ist die Gewinnorientierung der Firma, nicht die tatsächliche Ausschüttung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Lehrer Iber sitzt seit Monaten im Aufsichtsrat einer gewinnorientierten Nachhilfe-GmbH und kassiert dafür Sitzungsgelder. Seiner Direktion hat er davon nichts erzählt, weil er den Posten für eine reine Formsache hält und die Sitzungen abends stattfinden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Jelinek darf das Tablet nicht annehmen, das Angebot war verboten. Im Hinblick auf die amtliche Stellung oder Amtsführung darf kein Geschenk und kein sonstiger Vorteil gefordert oder angenommen werden. Der bevorstehende Bestellbeschluss macht den Konnex offensichtlich. Zum Nachlesen: LDG §41 Abs.1.",
+    "hauptquelle": "LDG §41 Abs.1",
+    "id": "B24-L3-004",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Er darf das Tablet behalten, weil es als Leihgabe deklariert wurde und kein Bargeld ist.",
+      "Er muss das Angebot ablehnen, die Annahme wäre im Hinblick auf sein Amt verboten.",
+      "Er darf es annehmen, wenn er es nur zu Hause und nie in der Schule benutzt.",
+      "Er darf es annehmen, solange der Verlag keine schriftliche Gegenleistung verlangt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch Sachwerte und Leihgaben sind Vorteile im Sinne des Verbots.",
+      "Richtig: Annahme im Hinblick auf Stellung und Amtsführung ist verboten.",
+      "Falsch: Der private Nutzungsort heilt den Amtsbezug nicht.",
+      "Falsch: Auf eine schriftliche Gegenleistungsabrede kommt es nicht an."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor der Entscheidung über eine teure Neubestellung von Schulbüchern bietet ein Verlagsvertreter Lehrer Jelinek ein hochwertiges Tablet als Dankeschön für die gute Zusammenarbeit an, offiziell als Leihgabe. Jelinek sitzt in dem Gremium, das über die Bestellung abstimmt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Koller durfte die Pralinen behalten, hier lag kein verbotenes Geschenk vor. Eine orts- oder landesübliche Aufmerksamkeit von geringem Wert fällt nicht unter das Verbot. Entscheidend sind der geringe Wert, der fehlende Konnex und die fehlende Einnahmenabsicht. Zum Nachlesen: LDG §41 Abs.2.",
+    "hauptquelle": "LDG §41 Abs.2",
+    "id": "B24-L3-005",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Jede Zuwendung von Eltern ist ausnahmslos verboten, auch die kleinste.",
+      "Die Schachtel war als ortsübliche Aufmerksamkeit von geringem Wert zulässig.",
+      "Zulässig wäre sie nur mit schriftlicher Genehmigung der Bildungsdirektion gewesen.",
+      "Sie hätte die Pralinen annehmen und heimlich an Kollegen verschenken müssen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Geringwertige ortsübliche Aufmerksamkeiten sind ausdrücklich ausgenommen.",
+      "Richtig: Geringer Wert ohne Konnex und ohne Einnahmenabsicht ist kein verbotenes Geschenk.",
+      "Falsch: Für die Bagatellausnahme ist keine eigene Genehmigung nötig.",
+      "Falsch: Weiterverschenken ändert nichts an der rechtlichen Bewertung der Annahme."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zu Weihnachten schenken Eltern der Volksschullehrerin Koller eine Schachtel Pralinen im Wert weniger Euro als Dank für das engagierte vergangene Semester. Weder steht eine Beurteilung an, noch erwartet irgendjemand eine Gegenleistung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Lang muss sich der Prüfung enthalten und ihre Vertretung veranlassen. Liegen wichtige Gründe vor, die die volle Unbefangenheit in Zweifel ziehen können, darf das Amt nicht ausgeübt werden. Die Prüfung des eigenen Kindes ist der Schulfall dafür. Zum Nachlesen: LDG §34.",
+    "hauptquelle": "LDG §34",
+    "id": "B24-L3-006",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Sie darf prüfen, wenn sie sich fest vornimmt, besonders streng zu benoten.",
+      "Sie hat sich der Prüfung zu enthalten und ihre Vertretung zu veranlassen.",
+      "Es genügt, wenn sie der Tochter vorher verrät, besonders fleißig zu lernen.",
+      "Sie darf prüfen, solange kein Elternteil der Klasse widerspricht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gute Vorsätze beseitigen den Zweifel an der Unbefangenheit nicht.",
+      "Richtig: Enthaltung plus veranlasste Vertretung ist der vorgeschriebene Weg.",
+      "Falsch: Private Vorwarnungen verschärfen die Befangenheit eher noch.",
+      "Falsch: Das Schweigen Dritter ersetzt die eigene Enthaltungspflicht nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lehrerin Lang soll bei der mündlichen Prüfung in ihrem eigenen Fach ausgerechnet ihre Tochter prüfen, die in ihrer Klasse sitzt. Lang meint, sie könne Berufliches und Privates schon trennen, und will die Prüfung einfach selbst abhalten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Berger muss die bezahlten Tätigkeiten und deren Ausweitung melden, Ehrenamt und Hobby nicht. Erwerbsmäßig ist jede Nebentätigkeit, die nennenswerte Einkünfte in Geld oder Gütern bezweckt, jede solche und jede Änderung ist unverzüglich zu melden. Reine Freizeit ohne Einnahmen ist nicht erfasst. Zum Nachlesen: LDG §40 Abs.3.",
+    "hauptquelle": "LDG §40 Abs.3",
+    "id": "B24-L3-007",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Die regelmäßige bezahlte Nachhilfe mehrmals pro Woche.",
+      "Gut bezahlte Wochenend-Workshops für eine private Akademie.",
+      "Die deutliche Ausweitung seines bisher gemeldeten Nebenjobs.",
+      "Unentgeltliche ehrenamtliche Mithilfe ohne jegliche Einkünfte.",
+      "Ein einmaliger unbezahlter Fachvortrag im Elternverein.",
+      "Sein reines Hobby, das keinerlei Einnahmen bringt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Regelmäßige bezahlte Arbeit bezweckt nennenswerte Einkünfte.",
+      "Richtig: Auch Honorar-Workshops sind erwerbsmäßig und meldepflichtig.",
+      "Richtig: Jede Änderung einer erwerbsmäßigen Tätigkeit ist erneut zu melden.",
+      "Falsch: Ohne Einkommenszweck liegt keine erwerbsmäßige Tätigkeit vor.",
+      "Falsch: Ein unbezahlter Einzelvortrag bezweckt keine nennenswerten Einkünfte.",
+      "Falsch: Reine Freizeit ohne Einnahmen ist keine meldepflichtige Nebentätigkeit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Berger hat mehrere Eisen im Feuer: regelmäßige bezahlte Nachhilfe, gut honorierte Wochenend-Workshops für eine private Akademie und eine deutliche Ausweitung seines früher gemeldeten Nebenjobs. Daneben hilft er unentgeltlich im Sportverein, hält einmal gratis einen Vortrag und frönt einem Hobby ohne Einnahmen. Wähle alles, was er unverzüglich melden muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Csar, Dorfer und der Privatschulbetrieb brauchen jeweils eine Genehmigung, die anderen Fälle nicht. Wer die Lehrverpflichtung herabgesetzt hat oder Teilzeit in Anspruch nimmt, darf erwerbsmäßig nur mit Genehmigung arbeiten, und Privatschulen brauchen sie immer. Die Genehmigung wird versagt, wenn die Tätigkeit dem Grund der Ermäßigung widerstreitet. Zum Nachlesen: LDG §40 Abs.4.",
+    "hauptquelle": "LDG §40 Abs.4",
+    "id": "B24-L3-008",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Csar braucht für den bezahlten Nebenjob eine Genehmigung, weil ihre Lehrverpflichtung herabgesetzt ist.",
+      "Dorfer als Vater in Teilzeit darf abends nur mit Genehmigung erwerbsmäßig arbeiten.",
+      "Der Betrieb einer Privatschule ohne vorherige Genehmigung ist unzulässig.",
+      "Ein Vollzeit-Lehrer mit gemeldeter, dienstverträglicher Nebentätigkeit braucht keine zusätzliche Genehmigung.",
+      "Schon ein unbezahltes Ehrenamt ohne Einkünfte löst die Genehmigungspflicht aus.",
+      "Wer keine Genehmigung bekommt, darf trotzdem starten, wenn er die Tätigkeit für harmlos hält."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nach Herabsetzung der Lehrverpflichtung gilt der Genehmigungsvorbehalt.",
+      "Richtig: Auch Teilzeit aus familiären Gründen löst den Vorbehalt aus.",
+      "Richtig: Der Privatschulbetrieb braucht stets die vorherige Genehmigung.",
+      "Falsch erkannt als genehmigungspflichtig: Hier genügt die ordnungsgemäße Meldung.",
+      "Falsch: Ohne Erwerbsmäßigkeit und ohne Sonderlage greift kein Vorbehalt.",
+      "Falsch: Die eigene Harmlosigkeitseinschätzung ersetzt die Genehmigung nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Csar hat ihre Stunden aus familiären Gründen deutlich reduziert und jobbt nun ohne Genehmigung in einem Geschäft. Kollege Dorfer nimmt als Vater Teilzeit in Anspruch und kellnert abends ebenfalls ohne Genehmigung. Ein dritter Kollege will ohne jede Erlaubnis eine kleine Privatschule eröffnen. Wähle alles, wo eine Genehmigung erforderlich ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §40 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Egger durfte die Ehrengabe annehmen, muss sie aber unverzüglich melden. Ehrengeschenke von Staaten, öffentlich-rechtlichen Körperschaften oder Traditionsinstitutionen dürfen entgegengenommen werden, die Dienstbehörde ist sofort zu informieren und kann sie als Landeseigentum erfassen. Nur Geringfügiges oder Symbolisches darf er behalten. Zum Nachlesen: LDG §41 Abs.4.",
+    "hauptquelle": "LDG §41 Abs.4",
+    "id": "B24-L3-009",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Er darf die Ehrengabe entgegennehmen.",
+      "Er muss die Dienstbehörde unverzüglich davon in Kenntnis setzen.",
+      "Ist sie nur von geringfügigem oder symbolischem Wert, darf er sie persönlich behalten.",
+      "Er darf sie ohne jede Meldung stillschweigend behalten.",
+      "Er darf sie heimlich verkaufen und den Erlös behalten.",
+      "Als Ehrengabe gilt sie automatisch als sein Privateigentum."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Entgegennahme von Ehrengeschenken ist erlaubt.",
+      "Richtig: Die unverzügliche Meldung an die Dienstbehörde ist Pflicht.",
+      "Richtig: Nur Geringfügiges oder Symbolisches bleibt zur persönlichen Nutzung.",
+      "Falsch: Schweigen verletzt die Meldepflicht und riskiert die Erfassung als Landeseigentum.",
+      "Falsch: Heimlicher Verkauf ist mit der Treuepflicht unvereinbar.",
+      "Falsch: Die Behörde kann das Stück als Landeseigentum erfassen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Egger bekommt von einer ausländischen Partnerstadt für die langjährige Schulpartnerschaft feierlich eine wertvolle Ehrengabe überreicht. Er fragt sich, ob er sie behalten, melden oder zurückgeben muss. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §41 Abs.3",
+      "LDG §41 Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Fuchs darf Verpflegung und Unterlagen behalten, alle Zulässigkeitsmerkmale liegen vor. Ein Veranstaltungsvorteil ist okay, wenn er allen gewährt wird, dem üblichen Standard entspricht, inhaltlichen Bezug hat und ohne Konnex zu einem konkreten Amtsgeschäft bleibt. Sobald Exklusivität, Luxus oder Auftragsnähe dazukommen, kippt die Bewertung. Zum Nachlesen: LDG §41 Abs.6.",
+    "hauptquelle": "LDG §41 Abs.6",
+    "id": "B24-L3-010",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Der Vorteil wird grundsätzlich allen gewährt und entspricht dem üblichen Standard.",
+      "Der Vorteil hat einen inhaltlichen Bezug zur Veranstaltung.",
+      "Der Vorteil steht in keinem Konnex zu einem konkreten Amtsgeschäft.",
+      "Nur Frau Fuchs erhält heimlich ein Extra-Paket, die anderen gehen leer aus.",
+      "Der Verlag lädt sie zusätzlich zu einem Luxuswochenende ohne Fortbildungsbezug ein.",
+      "Die Einladung kommt genau vor ihrer Entscheidung über eine Großbestellung bei diesem Verlag."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Allgemeinheit und üblicher Standard sprechen für die Zulässigkeit.",
+      "Richtig: Der inhaltliche Bezug zur Veranstaltung ist eine eigene Voraussetzung.",
+      "Richtig: Fehlender Konnex zum Amtsgeschäft ist die entscheidende Grenze.",
+      "Falsch: Heimliche Exklusivität widerspricht der Allgemeinheit des Vorteils.",
+      "Falsch: Bezugsloser Luxus sprengt den üblichen Standard.",
+      "Falsch: Die zeitliche Nähe zur Bestellung begründet den verbotenen Konnex."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Fuchs besucht eine Fortbildung eines Schulbuchverlags: Verpflegung und Unterlagen erhalten alle Teilnehmenden in üblichem Umfang, alles hat mit dem Fortbildungsthema zu tun, und über Bestellungen wird dort nicht entschieden. Wähle alles, was für die Zulässigkeit des Vorteils spricht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Enthaltung mit Vertretung in den Angehörigenfällen und eigenes Handeln nur im unaufschiebbaren Notfall. Wichtige Gründe, die die Unbefangenheit in Zweifel ziehen, erzwingen Enthaltung und veranlasste Vertretung. Nur wenn die Vertretung nicht sogleich möglich ist, handelt selbst der Befangene bei Unaufschiebbarem. Zum Nachlesen: LDG §34.",
+    "hauptquelle": "LDG §34",
+    "id": "B24-L3-011",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Die Lehrerin enthält sich der Prüfung ihrer Tochter und veranlasst ihre Vertretung.",
+      "Der Lehrer setzt die unaufschiebbare Maßnahme selbst, weil keine Vertretung sogleich möglich ist.",
+      "Der Direktor enthält sich der Entscheidung über die Bewerbung seines Ehepartners.",
+      "Schon eine flüchtige Bekanntschaft ohne jeden Zweifel erzwingt die Enthaltung.",
+      "Der befangene Lehrer setzt die endgültige Beurteilung selbst fest, obwohl Vertretung verfügbar wäre.",
+      "Die Vertretung zu veranlassen ist bloße Höflichkeit und rechtlich überflüssig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Prüfung des eigenen Kindes erfordert Enthaltung plus Vertretung.",
+      "Richtig: Unaufschiebbares bei fehlender Vertretung darf der Befangene selbst setzen.",
+      "Richtig: Die Entscheidung über den Ehepartner begründet berechtigte Zweifel.",
+      "Falsch: Ohne Eignung zum Zweifel fehlt der wichtige Grund.",
+      "Falsch: Bei verfügbarer Vertretung darf der Befangene nicht selbst entscheiden.",
+      "Falsch: Die Vertretung zu veranlassen ist ausdrückliche Pflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule häufen sich heikle Konstellationen: Eine Lehrerin soll ihre eigene Tochter mündlich prüfen, ein Lehrer muss bei einem plötzlich eskalierenden Streit sofort einschreiten, obwohl niemand zur Vertretung erreichbar ist, und ein Direktor entscheidet über die Bewerbung seines Ehepartners mit. Wähle alles, wo das beschriebene Verhalten den Befangenheitsregeln entspricht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, eine Genehmigung schützt nicht für alle Zeiten. Wird eine Nebentätigkeit später dienstbehindernd, befangenheitsverdächtig oder schädlich für dienstliche Interessen, ist sie unzulässig und wird per Weisung untersagt. Gerade der Grenzfall der erst später kollidierenden Tätigkeit ist geregelt. Zum Nachlesen: LDG §40 Abs.2.",
+    "hauptquelle": "LDG §40 Abs.2",
+    "id": "B24-L3-012",
+    "level": "L3",
+    "modul_id": "B24",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Auch genehmigte Tätigkeiten können später unzulässig werden.",
+      "Richtig erkannt: Bei späterer Kollision droht die Untersagung per Weisung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, ein einmal genehmigter Nebenjob bleibe für immer erlaubt und könne später nie wieder untersagt werden, selbst wenn darunter der Unterricht sichtlich leide und Ausfälle sich häuften.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "zusatzquellen": [
+      "LDG §40 Abs.7"
+    ]
+  }
+]
