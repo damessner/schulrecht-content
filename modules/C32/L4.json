@@ -1,1 +1,265 @@
-[]
+[
+  {
+    "id": "C32-L4-001",
+    "modul_id": "C32",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Mara wird wegen fehlender Deutschkenntnisse außerordentlich aufgenommen. Ihre Heimatschule bietet weder Förderklasse noch Förderkurs an, die Nachbarschule führt eine Förderklasse. Alle eigenen Kinder haben dort Platz, eine neue Klasse entstünde nicht. Die Eltern fragen, ob Mara dort aufgenommen werden muss.",
+    "optionen": [
+      "Ja, als Muss-Aufnahme wegen Sprachförderung bei Platz ohne neue Klasse.",
+      "Nein, außerordentlich aufgenommene Kinder haben nie einen Gastanspruch.",
+      "Nein, die Heimatschule muss Mara behalten, auch ohne jedes Angebot.",
+      "Ja, aber nur wenn dafür eine neue Klasse eröffnet wird."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sprachstatus plus fehlendes Angebot zu Hause plus Gastangebot plus Platz.",
+      "Falsch: Genau dafür ist die Förderpflicht gemacht.",
+      "Falsch: Fehlendes Angebot zu Hause ist Pflichtvoraussetzung.",
+      "Falsch: Neue Klasse stoppt die Pflicht, statt sie zu tragen."
+    ],
+    "aufloesung": "Mara muss aufgenommen werden. Außerordentlicher Status wegen Sprache, fehlendes Angebot zu Hause, eingerichtete Klasse beim Gast sowie Platz ohne neue Klasse greifen ineinander. Zum Nachlesen: TirSOG §28 Abs.2 lit.c.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.c",
+    "zusatzquellen": [
+      "SchUG §4 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L4-002",
+    "modul_id": "C32",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Familie Gruber zieht neu in ein Schulgebiet und meldet ihr schulpflichtiges Kind ordentlich an der Gebietsschule an. Die Schule ist gut gefüllt, aber nicht übervoll, und verweist auf eine weiter entfernte Schule mit freien Plätzen. Die Eltern bestehen auf der Gebietsschule.",
+    "optionen": [
+      "Die Gebietsschule muss das Sprengelkind aufnehmen, Verweis ist unzulässig.",
+      "Die Schule darf Sprengelkinder bei guter Füllung frei abweisen.",
+      "Nur Kinder mit Betreuungswunsch haben Anspruch auf die Gebietsschule.",
+      "Die Eltern müssen die weiter entfernte Schule akzeptieren."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sprengelangehörige sind aufzunehmen.",
+      "Falsch: Gute Füllung ohne Überfüllung genügt nicht.",
+      "Falsch: Der Anspruch gilt für alle Sprengelangehörigen.",
+      "Falsch: Verweis bei aufnahmefähiger Gebietsschule ist unzulässig."
+    ],
+    "aufloesung": "Die Gebietsschule muss das Kind aufnehmen. Sprengelangehörige erfüllen ihre Pflicht grundsätzlich an der Schule ihres Gebiets, Gastgrenzen gelten hier nicht. Zum Nachlesen: TirSOG §28 Abs.1.",
+    "hauptquelle": "TirSOG §28 Abs.1",
+    "zusatzquellen": [
+      "TirSOG §25 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L4-003",
+    "modul_id": "C32",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach einem rechtskräftigen Ausschluss kann Schüler David an keiner Schule seines Gebiets mehr unterrichtet werden. Die Eltern suchen selbst eine Schule im Nachbargebiet, die ihn aus Platzgründen ablehnt. Nun eskaliert der Streit zwischen Eltern und beiden Gemeinden.",
+    "optionen": [
+      "Die Nachbarschule muss David wegen Elternwunschs sofort aufnehmen.",
+      "Die Behörde entscheidet, an welcher Außenschule David die Pflicht zu erfüllen hat.",
+      "David bleibt ohne Schule, bis eine Gemeinde freiwillig nachgibt.",
+      "Die Heimatgemeinde entscheidet allein über die Außenschule."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wunsch allein schlägt Platz- und Klassengrenzen nicht.",
+      "Richtig: Außenbedarf nach Ausschluss führt zur Behördenentscheidung.",
+      "Falsch: Ohne Schule bleiben ist keine Lösung.",
+      "Falsch: Zuständig ist die Behörde, nicht die Heimatgemeinde."
+    ],
+    "aufloesung": "Die Behörde weist David einer Außenschule zu. Ausschluss mit Außenbedarf plus behördliche Festlegung der Pflichterfüllungsschule verbinden Unterrichts- und Gebietsrecht. Zum Nachlesen: TirSOG §28 Abs.4.",
+    "hauptquelle": "TirSOG §28 Abs.4",
+    "zusatzquellen": [
+      "SchUG §49"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L4-004",
+    "modul_id": "C32",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Lara erfüllt alle sportlichen Aufnahmekriterien und will in die Sportklasse im Nachbargebiet, weil ihre Gebietsschule keine Schwerpunktklasse führt. In der Gastklasse haben alle einheimischen Kinder mit Kriterien Platz, eine neue Schwerpunktklasse entstünde nicht. Die Gastschule zögert dennoch.",
+    "optionen": [
+      "Die Gastschule muss Lara aufnehmen, alle Schwerpunktbedingungen sind erfüllt.",
+      "Die Gastschule darf ablehnen, weil Lara nicht im Gebiet wohnt.",
+      "Die Gastschule darf ablehnen, weil Schwerpunkte nur Einheimischen offenstehen.",
+      "Die Gastschule muss erst eine neue Schwerpunktklasse für Lara eröffnen."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kriterien, fehlendes Angebot zu Hause, Platz ohne neue Schwerpunktklasse.",
+      "Falsch: Wohnen außerhalb steht der Schwerpunkt-Pflicht nicht entgegen.",
+      "Falsch: Schwerpunkte sind gerade für Außengebiete geöffnet.",
+      "Falsch: Neugründung ist Grenze, nicht Pflicht."
+    ],
+    "aufloesung": "Lara muss aufgenommen werden. Erfüllte Kriterien, fehlendes Angebot zu Hause sowie Platz ohne neue Schwerpunktklasse verbinden Aufnahme- und Gebietsrecht. Zum Nachlesen: TirSOG §43 Abs.2.",
+    "hauptquelle": "TirSOG §43 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L4-005",
+    "modul_id": "C32",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "An deinem Standort sitzen neun Kinder mit kaum Deutschkenntnissen, die weder dem Regelunterricht folgen können noch für einen Kurs in Frage kommen. Drei davon wohnen in Nachbargebieten ohne eigenes Förderangebot. Du planst Klasse und Gastaufnahmen gemeinsam.",
+    "optionen": [
+      "Ab acht solchen Kindern ist eine Förderklasse auch übergreifend über Klassen oder Stufen einzurichten.",
+      "Die Klasse dauert ein Semester und ist bis zu viermal zu besuchen, bis Kurs oder Regelunterricht möglich ist.",
+      "Nachbarkinder ohne Angebot zu Hause sind bei Platz ohne neue Klasse als Muss-Gäste aufzunehmen.",
+      "Bei zu geringer Kinderzahl entfällt jede Förderung ersatzlos.",
+      "Unter acht Kindern ist jede Förderung verboten.",
+      "Gastkinder dürfen dafür eine neue Klasse erzwingen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Achter-Schwelle auch übergreifend.",
+      "Richtig: Semesterweise bis max. viermal mit Testergebnissen als Weiche.",
+      "Richtig: Förderpflicht verbindet Aufnahme- mit Gebietsrecht.",
+      "Falsch: Bei kleiner Zahl wird integrativ mit Parallelstunden gefördert.",
+      "Falsch: Bei kleiner Zahl integrativ fördern.",
+      "Falsch: Neue Klasse stoppt die Gastpflicht."
+    ],
+    "aufloesung": "Klasse einrichten und Nachbarkinder als Muss-Gäste aufnehmen. Achter-Schwelle, Semesterlogik und Gastpflicht mit Platzvorbehalt greifen zusammen. Zum Nachlesen: TirSOG §96 Abs.2.",
+    "hauptquelle": "TirSOG §96 Abs.2",
+    "zusatzquellen": [
+      "TirSOG §28 Abs.2 lit.c"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L4-006",
+    "modul_id": "C32",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zehn Kinder können nicht ordentlich aufgenommen werden, brauchen aber keine eigene Förderklasse. Zwei kommen aus einem Nachbargebiet ohne Kursangebot. Du organisierst Kurs, Teilnahme und Gastaufnahme als Gesamtpaket.",
+    "optionen": [
+      "Ab acht solchen Kindern ist ein Kurs auch übergreifend mit sechs Parallelstunden einzurichten.",
+      "Der Kurs dauert ein bis höchstens zwei Jahre und kann bei erreichter Sprachkompetenz früher enden.",
+      "Nachbarkinder ohne Angebot zu Hause sind bei Platz ohne neue Klasse als Muss-Gäste aufzunehmen.",
+      "Der Kurs ersetzt alle Pflichtgegenstände dauerhaft.",
+      "Ein Kurs darf nie parallel zum Unterricht laufen.",
+      "Gastkinder sind bei Kursen grundsätzlich ausgeschlossen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Achter-Schwelle mit sechs Parallelstunden.",
+      "Richtig: Ein bis zwei Jahre mit früherem Ende bei Kompetenz.",
+      "Richtig: Förderpflicht trägt auch Kursgäste.",
+      "Falsch: Kurs läuft neben dem Regelbesuch.",
+      "Falsch: Parallelführung ist gerade der Sinn.",
+      "Falsch: Kursgäste sind Muss-Fälle mit Platzvorbehalt."
+    ],
+    "aufloesung": "Kurs einrichten und Nachbarkinder als Muss-Gäste aufnehmen. Kurs-Schwelle, Dauer und Gastpflicht mit Platz- und Klassengrenze gehören zusammen. Zum Nachlesen: TirSOG §96 Abs.3.",
+    "hauptquelle": "TirSOG §96 Abs.3",
+    "zusatzquellen": [
+      "TirSOG §28 Abs.2 lit.c"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L4-007",
+    "modul_id": "C32",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Vater Berger braucht für seine Tochter eine Betreuung mit Essen an allen Schultagen bis 16 Uhr und will die Ganztagsschule im Nachbarort. Zu Hause gibt es weder Betreuung noch Hort, der Gast führt eine Betreuung. Nun prüfst du Pflicht, Platz und Klassenzahl im Zusammenhang.",
+    "optionen": [
+      "Fehlendes Angebot zu Hause ist erste Pflichtbedingung.",
+      "Tatsächliches Betreuungsangebot beim Gast ist zweite Pflichtbedingung.",
+      "Platz für alle eigenen Kinder ohne neue Klasse ist harte Grenze.",
+      "Sympathie für die Nachbarschule ersetzt die fehlenden Bedingungen.",
+      "Eine Teilzeitbetreuung an zwei Tagen genügt für die Pflicht.",
+      "Die Pflicht gilt auch bei nötiger neuer Klasse."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fehlendes Angebot zu Hause ist Ausgangspunkt.",
+      "Richtig: Eigenes Angebot beim Gast ist zweite Bedingung.",
+      "Richtig: Platz für eigene plus keine neue Klasse begrenzt.",
+      "Falsch: Sympathie löst keine Pflicht aus.",
+      "Falsch: Verlangt ist tägliches Angebot bis 16 Uhr mit Essen.",
+      "Falsch: Neue Klasse stoppt die Pflicht."
+    ],
+    "aufloesung": "Die Pflicht besteht hier bei erfüllten Bedingungen mit Platzvorbehalt. Fehlendes Angebot zu Hause, Gastangebot sowie Platz ohne neue Klasse verbinden Betreuungs- und Gebietsrecht. Zum Nachlesen: TirSOG §28 Abs.2 lit.b.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.b",
+    "zusatzquellen": [
+      "TirSOG §99a"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L4-008",
+    "modul_id": "C32",
+    "level": "L4",
+    "typ": "tf",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Transfer-Check in der Konferenz: Wer wegen fehlender Deutschkenntnisse außerordentlich aufgenommen ist, hat damit automatisch Anspruch auf jede beliebige Wunschschule im Nachbargebiet.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Gastpflicht braucht Förderangebot beidseits plus Platz ohne neue Klasse."
+    ],
+    "aufloesung": "Die Behauptung ist falsch. Der Sprachstatus ist nur Ausgangspunkt, dazu braucht es fehlendes Angebot zu Hause, eingerichtetes Angebot beim Gast und Platz ohne neue Klasse. Zum Nachlesen: TirSOG §28 Abs.2 lit.c.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.c",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]

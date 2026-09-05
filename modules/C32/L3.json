@@ -1,1 +1,380 @@
-[]
+[
+  {
+    "id": "C32-L3-001",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Familie Huber will ihre Tochter an der Nachbar-Volksschule mit Nachmittagsbetreuung anmelden, weil beide Eltern bis abends arbeiten. Direkt neben der Heimatschule gibt es einen Hort mit Mittagessen und Betreuung an jedem Schultag bis 17 Uhr. Die Gastgemeinde lehnt die Pflichtaufnahme ab und prüft nur eine freiwillige Aufnahme.",
+    "optionen": [
+      "Die Ablehnung der Pflichtaufnahme ist richtig, weil zu Hause ein passendes Betreuungsangebot besteht.",
+      "Die Pflichtaufnahme besteht trotzdem, weil die Berufstätigkeit der Eltern immer genügt.",
+      "Die Pflichtaufnahme besteht, sobald die Gastschule eine Betreuung anbietet.",
+      "Jeder Elternwunsch löst eine Pflichtaufnahme aus, der Platz spielt dabei keine Rolle."
+    ],
+    "richtig": [
+      0
+    ],
+    "pro_option_feedback": [
+      "Richtig: Passendes Angebot zu Hause stoppt die Betreuungspflicht.",
+      "Falsch: Berufstätigkeit allein löst keine Pflicht aus.",
+      "Falsch: Das Gastangebot ist nur eine von mehreren Bedingungen.",
+      "Falsch: Wunsch allein begründet nur eine Kann-Aufnahme."
+    ],
+    "aufloesung": "Keine Pflichtaufnahme, weil zu Hause ein passendes Angebot besteht. Die Pflicht greift nur bei fehlendem Angebot zu Hause, eigenem Angebot beim Gast sowie Platz ohne neue Klasse. Zum Nachlesen: TirSOG §28 Abs.2 lit.b.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.b",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-002",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Jonas braucht eine Nachmittagsbetreuung mit Essen bis 16 Uhr, zu Hause gibt es weder Betreuung noch Hort, die Nachbarschule bietet sie an. Alle eigenen Kinder hätten dort Platz, doch durch Jonas müsste eine zusätzliche Klasse aufgemacht werden. Die Eltern bestehen trotzdem auf der Pflichtaufnahme.",
+    "optionen": [
+      "Die Schule muss Jonas aufnehmen und dafür eine neue Klasse eröffnen.",
+      "Die Schule darf die Pflichtaufnahme ablehnen, weil durch Jonas eine neue Klasse entstünde.",
+      "Die Schule muss eigene Kinder abweisen, um für Jonas Platz zu schaffen.",
+      "Die Klassenzahl spielt bei der Betreuungspflicht grundsätzlich keine Rolle."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Neue Klassen dürfen durch Gäste nicht erzwungen werden.",
+      "Richtig: Die Klassenzahl-Grenze stoppt die Pflicht.",
+      "Falsch: Eigene Kinder dürfen für Gäste nicht verdrängt werden.",
+      "Falsch: Gerade dort ist die Klassenzahl eine harte Grenze."
+    ],
+    "aufloesung": "Die Pflichtaufnahme scheitert an der Klassenzahl-Grenze. Auch bei erfüllten Betreuungsbedingungen darf kein Gast eine neue Klasse auslösen. Zum Nachlesen: TirSOG §28 Abs.2 letzter Satz.",
+    "hauptquelle": "TirSOG §28 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-003",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach einem Ausschluss braucht Schüler Felix eine Volksschule außerhalb seines bisherigen Gebiets. Die Eltern melden ihn selbst an einer Wunschschule an, ohne die Behörde zu befassen. Die Wunschschule ist unsicher, ob die Anmeldung genügt.",
+    "optionen": [
+      "Die Elternanmeldung genügt, die Wunschschule muss Felix direkt aufnehmen.",
+      "Die Behörde entscheidet, an welcher Schule außerhalb Felix die Pflicht zu erfüllen hat.",
+      "Der Schulerhalter der Wunschschule entscheidet allein über die Zuweisung.",
+      "Felix kann ohne weitere Entscheidung schulfrei bleiben."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleinwahl gilt nach Ausschluss mit Außenbedarf nicht.",
+      "Richtig: Die Zuweisung ist eine Behördenentscheidung.",
+      "Falsch: Der Gastschulerhalter weist nicht von sich aus zu.",
+      "Falsch: Ohne Schule bleiben ist keine Lösung."
+    ],
+    "aufloesung": "Die Elternanmeldung allein genügt hier nicht. Braucht ein Ausgeschlossener eine Schule außerhalb, legt die Behörde die Pflichterfüllungsschule fest. Zum Nachlesen: TirSOG §28 Abs.4.",
+    "hauptquelle": "TirSOG §28 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-004",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Lena hat besonderen Förderbedarf und soll statt der Sonderschule eine Volksschule im Nachbargebiet besuchen. An der Heimatschule kann die nötige Förderung nicht gleich gut erfolgen, die Nachbarschule wäre geeignet. Die Eltern fragen, wer über den Schulbesuch entscheidet.",
+    "optionen": [
+      "Die Eltern bestimmen allein, jede beliebige Schule reicht aus.",
+      "Die Behörde entscheidet über die geeignete Schule außerhalb des Gebiets.",
+      "Die Heimatschule muss Lena behalten, eine Außenschule ist ausgeschlossen.",
+      "Ein schöner Pausenhof der Nachbarschule ersetzt die Eignungsprüfung."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beliebigkeit gilt hier nicht, Eignung ist verlangt.",
+      "Richtig: Förderbedarf mit Außenbedarf führt zur Behördenentscheidung.",
+      "Falsch: Gerade die Alternative zur Sonderschule ist geregelt.",
+      "Falsch: Maßstab ist die Fördermöglichkeit, nicht die Ausstattung."
+    ],
+    "aufloesung": "Die Behörde weist Lena der geeigneten Außenschule zu. Voraussetzung sind Förderbedarf, fehlende gleiche Förderung zu Hause und Eignung der Gastschule. Zum Nachlesen: TirSOG §28 Abs.4.",
+    "hauptquelle": "TirSOG §28 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-005",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eltern wollen ihr Kind aus Komfortgründen an der Nachbar-Volksschule anmelden, ohne Betreuungsnot, Förderbedarf oder Zuweisung. Durch den Weggang würde die kleine Heimatschule ihren Bestand verlieren. Der Gastschulerhalter will ablehnen.",
+    "optionen": [
+      "Die Ablehnung ist unzulässig, Wunschkinder sind immer aufzunehmen.",
+      "Die Ablehnung ist zulässig, weil die Heimatschule in ihrem Bestand gefährdet würde.",
+      "Die Ablehnung ist nur bei schlechten Noten des Kindes zulässig.",
+      "Die Ablehnung ist nur bei weitem Schulweg zulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Reiner Wunsch begründet nur eine Kann-Aufnahme.",
+      "Richtig: Bestandsgefährdung zu Hause ist ein Ablehnungsgrund.",
+      "Falsch: Noten sind kein Hinderungsgrund.",
+      "Falsch: Der Schulweg hindert die Gastaufnahme nicht."
+    ],
+    "aufloesung": "Die Ablehnung ist zulässig. Reine Wunschaufnahmen darf der Gast verweigern, wenn dadurch die Heimatschule in ihrem Bestand gefährdet würde. Zum Nachlesen: TirSOG §28 Abs.3 lit.b.",
+    "hauptquelle": "TirSOG §28 Abs.3 lit.b",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-006",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Schüler Nico will in die Sportklasse der Nachbar-Mittelschule, weil es zu Hause kein Sportangebot gibt. Die sportlichen Aufnahmekriterien erfüllt er nicht, die Eltern meinen, Begeisterung müsse genügen. Die Gastschule lehnt die Pflichtaufnahme ab.",
+    "optionen": [
+      "Die Ablehnung ist falsch, Begeisterung ersetzt die Kriterien.",
+      "Die Ablehnung ist richtig, weil Nico die Aufnahmekriterien für die Sonderform nicht erfüllt.",
+      "Die Ablehnung ist falsch, Kriterien gelten für Gäste nie.",
+      "Die Ablehnung ist falsch, die Gastschule muss dafür eine neue Schwerpunktklasse eröffnen."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Interesse ersetzt keine Aufnahmekriterien.",
+      "Richtig: Erfüllte Kriterien sind erste Pflichtbedingung.",
+      "Falsch: Kriterien gelten gerade auch für Gäste.",
+      "Falsch: Neue Schwerpunktklassen dürfen Gäste nicht erzwingen."
+    ],
+    "aufloesung": "Die Ablehnung ist richtig. Ohne erfüllte Aufnahmekriterien entsteht keine Schwerpunkt-Pflicht, selbst bei fehlendem Angebot zu Hause. Zum Nachlesen: TirSOG §43 Abs.2.",
+    "hauptquelle": "TirSOG §43 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-007",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Mutter Berger arbeitet täglich bis 17 Uhr und will ihren Sohn an der Nachbarschule mit Betreuung samt Essen anmelden. Der Hort zu Hause betreut nur an drei Tagen bis 13 Uhr ohne Mittagessen. Du prüfst als Gastgemeinde den Grenzfall zwischen Ablehnung und Pflicht.",
+    "optionen": [
+      "Eine Betreuung nur an drei Tagen bis 13 Uhr ohne Essen erfüllt das verlangte Zuhause-Angebot nicht.",
+      "Verlangt ist eine Betreuung an allen Schultagen bis mindestens 16 Uhr samt Mittagessen.",
+      "Besteht die Pflicht dem Grunde nach, gelten zusätzlich Platz für alle eigenen und keine neue Klasse.",
+      "Die Berufstätigkeit der Mutter allein begründet schon die Pflichtaufnahme.",
+      "Ein dreitägiges Angebot zu Hause blockiert jede Pflichtaufnahme.",
+      "Die Klassenzahl ist bei Betreuungswünschen unbeachtlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lückenhaftes Angebot ohne Essen genügt nicht.",
+      "Richtig: Täglich bis 16 Uhr mit Essen ist der Maßstab.",
+      "Richtig: Platz für eigene plus keine neue Klasse begrenzen.",
+      "Falsch: Berufstätigkeit allein löst keine Pflicht aus.",
+      "Falsch: Unvollständiges Angebot steht der Pflicht nicht entgegen.",
+      "Falsch: Neue Klasse stoppt die Pflicht."
+    ],
+    "aufloesung": "Hier ist die Pflicht dem Grunde nach möglich, weil das Zuhause-Angebot unvollständig ist. Zusätzlich braucht es Gastangebot, Platz für alle eigenen und keine neue Klasse. Zum Nachlesen: TirSOG §28 Abs.2 lit.b.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.b",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-008",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Schüler Emir wurde wegen fehlender Deutschkenntnisse außerordentlich aufgenommen und will eine Förderklasse an der Nachbarschule besuchen. Zu Hause gibt es kein solches Angebot, doch auch die Gastschule hat bisher weder Klasse noch Kurs eingerichtet. Die Eltern pochen auf eine Pflichtaufnahme.",
+    "optionen": [
+      "Ohne eingerichtetes Angebot beim Gast entsteht keine Förderpflicht.",
+      "Ein allgemeiner Förderwunsch ohne Sprachhintergrund genügt für diese Pflicht nicht.",
+      "Selbst mit Angebot gälte zusätzlich Platz für alle eigenen ohne neue Klasse.",
+      "Der Wunsch allein verpflichtet die Gastschule auch ohne jedes Angebot.",
+      "Die Gastschule muss erst eine Förderklasse für Emir neu gründen.",
+      "Die Platz- und Klassengrenze entfällt bei Sprachförderung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eingerichtetes Angebot beim Gast ist Bedingung.",
+      "Richtig: Außerordentlich wegen Sprache ist Ausgangspunkt.",
+      "Richtig: Platz für eigene plus keine neue Klasse begrenzt.",
+      "Falsch: Wunsch allein begründet keine Pflicht.",
+      "Falsch: Neugründung kann nicht erzwungen werden.",
+      "Falsch: Die Grenze gilt gerade auch dort."
+    ],
+    "aufloesung": "Keine Pflichtaufnahme ohne eingerichtetes Angebot beim Gast. Dazu braucht es Sprachstatus, fehlendes Angebot zu Hause sowie Platz ohne neue Klasse. Zum Nachlesen: TirSOG §28 Abs.2 lit.c.",
+    "hauptquelle": "TirSOG §28 Abs.2 lit.c",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-009",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Drei Gastanträge ohne Pflichtgrund liegen am Tisch, die Gründe für eine Ablehnung sind jeweils anders gelagert. Du sollst als Schulerhalter die zulässigen Ablehnungsgründe der freiwilligen Aufnahme sauber zuordnen.",
+    "optionen": [
+      "Zu Hause müssten Klassen zu einer nicht rein jahrgangsgleichen Klasse zusammengelegt werden.",
+      "Die Heimatschule würde durch den Weggang in ihrem Bestand gefährdet.",
+      "Beim Gast entstünde durch die Gäste eine neue Klasse.",
+      "Das Gastkind hat gute Noten und einen kurzen Schulweg.",
+      "Die Eltern erscheinen pünktlich zum Unterricht.",
+      "Die Gastschule bietet eine Betreuung an."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schutz vor Stufenmischung zu Hause.",
+      "Richtig: Bestandsschutz der Heimatschule.",
+      "Richtig: Keine neue Klasse beim Gast durch Gäste.",
+      "Falsch: Noten und Weg hindern nicht.",
+      "Falsch: Pünktlichkeit ist kein Hinderungsgrund.",
+      "Falsch: Gastangebot begründet eher die Pflichtfälle."
+    ],
+    "aufloesung": "Alle drei Ablehnungen sind zulässig. Freiwillige Aufnahme scheitert an Stufenmischung zu Hause, Bestandsgefährdung oder neuer Klasse beim Gast. Zum Nachlesen: TirSOG §28 Abs.3.",
+    "hauptquelle": "TirSOG §28 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-010",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Drei Kinder wollen in die Musikklasse der Nachbar-Mittelschule, zu Hause gibt es kein Musikangebot. Kind A erfüllt die Kriterien, Kind B nicht, für Kind C müsste eine neue Musikklasse eröffnet werden. Du trennst Pflicht von Ablehnung.",
+    "optionen": [
+      "Kind A mit erfüllten Kriterien ist bei Platz für alle Einheimischen mit Kriterien aufzunehmen.",
+      "Auch bei Kind A stoppt eine nötige neue Schwerpunktklasse die Pflicht.",
+      "Kind B ohne erfüllte Kriterien löst keine Pflichtaufnahme aus.",
+      "Begeisterung für Musik ersetzt bei Kind B die Aufnahmekriterien.",
+      "Kind C kann eine neue Schwerpunktklasse erzwingen.",
+      "Einheimische mit Kriterien dürfen für Gäste verdrängt werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kriterien plus fehlendes Angebot zu Hause plus Platz.",
+      "Richtig: Keine neue Schwerpunktklasse ist Grenze.",
+      "Richtig: Ohne Kriterien keine Schwerpunkt-Pflicht.",
+      "Falsch: Interesse ersetzt keine Kriterien.",
+      "Falsch: Neugründung ist gerade ausgeschlossen.",
+      "Falsch: Einheimische mit Kriterien haben Vorrang."
+    ],
+    "aufloesung": "Nur Kind A ist ein Pflichtfall mit Platzvorbehalt. Fehlende Kriterien und neue Schwerpunktklassen stoppen die Pflicht in den anderen Fällen. Zum Nachlesen: TirSOG §43 Abs.2.",
+    "hauptquelle": "TirSOG §43 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-011",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Gastschüler Paul wurde nach einem Ausschluss behördlich zugewiesen, Gastschülerin Anna will wegen Betreuung kommen, obwohl die Gastklasse bereits übervoll ist. Die Leitung muss Muss von Kann trennen und die Klassenzahl beachten.",
+    "optionen": [
+      "Behördlich zugewiesene Schüler nach Ausschluss sind aufzunehmen.",
+      "Für Betreuungsgäste gelten Platz für alle eigenen und keine neue Klasse als Grenze.",
+      "Die Behörde legt bei nötiger Außenbeschulung die Pflichterfüllungsschule fest.",
+      "Übervolle Klassen und neue Klassen stehen auch Betreuungsgästen entgegen.",
+      "Zugewiesene dürfen wegen Überfüllung abgewiesen werden.",
+      "Eltern bestimmen nach Ausschluss allein die neue Schule."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zugewiesene sind aufzunehmen.",
+      "Richtig: Platz- und Klassenvorbehalt bei Betreuung.",
+      "Richtig: Zuweisung ist Behördenentscheidung.",
+      "Falsch: Genau diese Grenze wurde übersehen.",
+      "Falsch: Zuweisung schlägt die Überfüllung.",
+      "Falsch: Alleinwahl gilt nach Ausschluss nicht."
+    ],
+    "aufloesung": "Paul ist ein Muss-Fall durch Zuweisung, Anna scheitert an Platz und Klassenzahl. Die Behörde bestimmt die Schule des Zugewiesenen. Zum Nachlesen: TirSOG §28 Abs.4.",
+    "hauptquelle": "TirSOG §28 Abs.4",
+    "zusatzquellen": [
+      "TirSOG §28 Abs.2"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "C32-L3-012",
+    "modul_id": "C32",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Stammtischfrage einer Gemeinderätin: Gastkinder dürfen eine neue Klasse auslösen, notfalls müssen eigene Kinder für sie weichen.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Genau das Gegenteil ist richtig.",
+      "Richtig erkannt: Gäste lösen keine neue Klasse aus und verdrängen keine eigenen Kinder."
+    ],
+    "aufloesung": "Die Behauptung ist falsch. Gastaufnahmen sind nur zulässig bei Platz für alle eigenen und ohne neue Klasse. Zum Nachlesen: TirSOG §28 Abs.2.",
+    "hauptquelle": "TirSOG §28 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]
