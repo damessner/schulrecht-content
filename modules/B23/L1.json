@@ -1,1 +1,434 @@
-[]
+[
+  {
+    "aufloesung": "Huber muss sein Ansuchen beim Direktor einbringen. Anbringen zum Dienstverhältnis oder zu dienstlichen Aufgaben sind beim unmittelbaren Vorgesetzten einzubringen, der sie unverzüglich weiterleitet. Zum Nachlesen: LDG §38 Abs.1.",
+    "hauptquelle": "LDG §38 Abs.1",
+    "id": "B23-L1-001",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Er bringt das Ansuchen bei seinem unmittelbaren Vorgesetzten ein, der es unverzüglich weiterleitet.",
+      "Er schickt das Ansuchen direkt an die Bildungsdirektion, weil das schneller geht.",
+      "Er bespricht seinen Wunsch nur mündlich im Kollegium, das ersetzt das Ansuchen.",
+      "Er wartet ab, bis ihn die Bildungsdirektion von sich aus versetzt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Anbringen zum Dienstverhältnis gehören im Dienstweg zum direkten Vorgesetzten.",
+      "Falsch: Der Dienstweg über den unmittelbaren Vorgesetzten ist einzuhalten.",
+      "Falsch: Ein Gespräch im Kollegium ersetzt kein formelles Anbringen.",
+      "Falsch: Abwarten stellt kein Anbringen dar und löst kein Verfahren aus."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Mittelschullehrer Huber möchte im nächsten Schuljahr an eine Schule in seinem Wohnbezirk wechseln. Er verfasst ein Versetzungsansuchen und überlegt, es direkt an die Bildungsdirektion zu schicken, ohne seine Direktion einzuschalten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Wieser muss den Dienstweg einhalten. Anbringen, die sich auf das Dienstverhältnis beziehen, sind beim unmittelbaren Vorgesetzten einzubringen. Zum Nachlesen: LDG §38 Abs.1.",
+    "hauptquelle": "LDG §38 Abs.1",
+    "id": "B23-L1-002",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Sie bringt das Anliegen im Dienstweg bei ihrem unmittelbaren Vorgesetzten ein.",
+      "Der direkte Weg an die Bildungsdirektion ist immer richtig, weil er Zeit spart.",
+      "Sie wendet sich statt an den Vorgesetzten an die Elternvertretung der Klasse.",
+      "Anliegen zum Dienstverhältnis muss man nicht einbringen, sie werden automatisch geprüft."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Dienstweg über den direkten Vorgesetzten gilt auch hier.",
+      "Falsch: Schnelligkeit rechtfertigt keine Umgehung des Dienstweges.",
+      "Falsch: Die Elternvertretung ist für dienstrechtliche Anliegen nicht zuständig.",
+      "Falsch: Ohne Anbringen gibt es kein Verfahren und keine Entscheidung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Wieser ist mit ihrem Stundenplan unzufrieden und will eine Änderung beantragen. Sie schreibt direkt an die Bildungsdirektion und umgeht bewusst ihren Direktor, weil sie glaubt, auf direktem Weg gehe es schneller.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Direktor muss das Ansuchen sofort weiterleiten. Der unmittelbare Vorgesetzte hat jedes Anbringen unverzüglich an die zuständige Stelle weiterzuleiten. Zum Nachlesen: LDG §38 Abs.1.",
+    "hauptquelle": "LDG §38 Abs.1",
+    "id": "B23-L1-003",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Der Vorgesetzte hat das Anbringen unverzüglich an die zuständige Stelle weiterzuleiten.",
+      "Der Direktor darf Anbringen erst am Ende des Schuljahres gesammelt weiterleiten.",
+      "Der Direktor darf selbst entscheiden, welche Anbringen er gar nicht weiterleitet.",
+      "Berger muss das Ansuchen zusätzlich direkt einbringen, sonst gilt es als nicht gestellt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Weiterleitung hat unverzüglich zu erfolgen, Zurückhalten ist pflichtwidrig.",
+      "Falsch: Sammeln bis Schuljahresende verletzt die Unverzüglichkeit.",
+      "Falsch: Ein Zurückbehaltungsrecht des Vorgesetzten gibt es nicht.",
+      "Falsch: Das ordnungsgemäß eingebrachte Anbringen gilt, eine Zweiteinbringung ist nicht nötig."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Berger reicht bei ihrem Direktor ein Ansuchen um Abgeltung geleisteter Mehrstunden ein. Der Direktor hält das Ansuchen für übertrieben und lässt es drei Wochen unbearbeitet in seiner Schublade liegen, statt es weiterzugeben.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Steiners direktes Alarmieren war richtig. Bei Gefahr in Verzug darf von der Einbringung im Dienstweg abgesehen werden. Zum Nachlesen: LDG §38 Abs.2.",
+    "hauptquelle": "LDG §38 Abs.2",
+    "id": "B23-L1-004",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Steiner handelt richtig, weil bei Gefahr in Verzug vom Dienstweg abgesehen werden darf.",
+      "Auch bei akuter Gefahr muss zuerst der Direktor schriftlich verständigt werden.",
+      "Direkt zu alarmieren ist nur dem Schulleiter selbst erlaubt.",
+      "Bei Gefahr muss man zuwarten, bis der Dienstweg eingehalten werden kann."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gefahr in Verzug befreit von der Einhaltung des Dienstweges.",
+      "Falsch: Schriftform beim Vorgesetzten darf die Rettung nicht verzögern.",
+      "Falsch: Die Ausnahme gilt für jeden, nicht nur für Leiter.",
+      "Falsch: Zuwarten bei akuter Gefahr wäre falsch und gefährlich."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Während des Chemieunterrichts tritt aus einem Behälter ein stechend riechendes Gas aus, mehreren Kindern wird übel. Lehrer Steiner alarmiert sofort Rettung und Feuerwehr und meldet den Vorfall parallel der Direktion, statt zuerst den Dienstweg einzuhalten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Hofers direkte Beschwerde ist zulässig. Von der Einbringung im Dienstweg darf abgesehen werden, wenn sie dem Lehrer billigerweise nicht zumutbar ist. Zum Nachlesen: LDG §38 Abs.2.",
+    "hauptquelle": "LDG §38 Abs.2",
+    "id": "B23-L1-005",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Hofer handelt richtig, wenn ihr die Einhaltung des Dienstweges billigerweise nicht zumutbar ist.",
+      "Auch Beschwerden gegen den eigenen Vorgesetzten müssen zuerst bei ihm selbst eingebracht werden.",
+      "Beschwerden gegen Vorgesetzte sind grundsätzlich unzulässig.",
+      "In so einem Fall bleibt nur die Kündigung statt einer Beschwerde."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unzumutbarkeit des Dienstweges erlaubt die direkte Einbringung.",
+      "Falsch: Bei Unzumutbarkeit darf vom Dienstweg abgesehen werden.",
+      "Falsch: Beschwerden gegen Vorgesetzte sind nicht verboten.",
+      "Falsch: Kündigung ist kein Ersatz für den Rechtsweg der Beschwerde."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "AHS"
+    ],
+    "situation": "Lehrerin Hofer will sich über ihren eigenen Direktor beschweren, weil er sie wiederholt vor der Klasse bloßstellt. Sie scheut sich, die Beschwerde zuerst bei ihm selbst einzureichen, und sendet sie direkt an die nächsthöhere Stelle.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Gruber kann das Rechtsmittel direkt einbringen. In Dienstrechtsangelegenheiten können Rechtsmittel ohne Einhaltung des Dienstweges eingebracht werden. Zum Nachlesen: LDG §38 Abs.3.",
+    "hauptquelle": "LDG §38 Abs.3",
+    "id": "B23-L1-006",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Nein, Rechtsmittel in Dienstrechtsangelegenheiten können ohne Dienstweg eingebracht werden.",
+      "Ja, auch Rechtsmittel müssen immer über den Direktor laufen.",
+      "Gegen dienstrechtliche Bescheide gibt es grundsätzlich keine Rechtsmittel.",
+      "Rechtsmittel sind nur mit vorheriger Erlaubnis des Direktors zulässig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rechtsmittel sind ausdrücklich vom Dienstweg ausgenommen.",
+      "Falsch: Für Rechtsmittel gilt die Dienstwegpflicht gerade nicht.",
+      "Falsch: Der Rechtsschutz gegen Bescheide besteht auch im Dienstrecht.",
+      "Falsch: Eine Erlaubnis des Vorgesetzten ist nicht vorgesehen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Gruber erhält einen Bescheid, mit dem sein Ansuchen um Versetzung abgewiesen wird. Er will dagegen ein Rechtsmittel erheben und fragt, ob er es über seinen Direktor einbringen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Aigner kann beide Eingaben direkt einbringen. Säumnisbeschwerden und Fristsetzungsanträge können ohne Einhaltung des Dienstweges eingebracht werden. Zum Nachlesen: LDG §38 Abs.3.",
+    "hauptquelle": "LDG §38 Abs.3",
+    "id": "B23-L1-007",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Beides kann sie ohne Einhaltung des Dienstweges einbringen.",
+      "Auch bei Untätigkeit der Behörde muss sie weiter über den Vorgesetzten gehen.",
+      "Bei Säumnis darf sie nur nochmals dasselbe Ansuchen stellen.",
+      "Fristsetzungsanträge gibt es im Dienstrecht überhaupt nicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Säumnisbeschwerde und Fristsetzungsantrag sind vom Dienstweg befreit.",
+      "Falsch: Gerade bei Säumnis muss der Dienstweg nicht eingehalten werden.",
+      "Falsch: Ein wiederholtes Ansuchen ersetzt den Säumnisschutz nicht.",
+      "Falsch: Der Fristsetzungsantrag ist ausdrücklich vorgesehen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "BHS"
+    ],
+    "situation": "Lehrerin Aigner wartet seit über sechs Monaten auf die Entscheidung über ihr Ansuchen, die Behörde rührt sich trotz Nachfragen nicht. Sie will nun eine Säumnisbeschwerde stellen und einen Fristsetzungsantrag einbringen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Pichler ist geschützt, wenn er den Hinweis direkt gibt. Solche Meldungen können ohne Dienstweg eingebracht werden und dürfen keine Benachteiligung auslösen. Zum Nachlesen: LDG §38 Abs.4.",
+    "hauptquelle": "LDG §38 Abs.4",
+    "id": "B23-L1-008",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Er kann die Meldung ohne Dienstweg einbringen und darf dafür nicht benachteiligt werden.",
+      "Er muss den Hinweis zuerst dem Beschuldigten selbst zur Stellungnahme vorlegen.",
+      "Wer einen Hinweis gibt, muss mit dienstlichen Nachteilen rechnen.",
+      "Hinweise von Lehrpersonen werden grundsätzlich nicht behandelt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hinweisgebung geht ohne Dienstweg und Benachteiligung ist verboten.",
+      "Falsch: Eine Vorabinformation des Beschuldigten ist nicht verlangt.",
+      "Falsch: Benachteiligung als Reaktion auf den Hinweis ist untersagt.",
+      "Falsch: Hinweise an die zuständige Stelle sind zu behandeln."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Pichler hat Hinweise darauf, dass bei der Vergabe von Reparaturaufträgen an seiner Schule Geld an einen Verwandten des Verantwortlichen geflossen ist. Er fürchtet Nachteile, wenn er den Hinweis über den Dienstweg gibt, und will sich an die zuständige Hinweisgeberstelle wenden.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §37a"
+    ]
+  },
+  {
+    "aufloesung": "Die Beratungslehrerin darf schweigen. Keine Meldepflicht besteht, wenn die Meldung eine amtliche Tätigkeit beeinträchtigen würde, deren Wirksamkeit ein persönliches Vertrauensverhältnis braucht. Zum Nachlesen: LDG §37 Abs.1a.",
+    "hauptquelle": "LDG §37 Abs.1a",
+    "id": "B23-L1-009",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Sie muss nicht melden, wenn die Meldung eine auf persönlichem Vertrauen beruhende Tätigkeit beeinträchtigen würde.",
+      "Sie muss trotzdem immer melden, Vertrauen spielt dabei keine Rolle.",
+      "Sie muss zuerst die Medien über den Verdacht informieren.",
+      "Sie darf nur melden, wenn die Schulleitung vorher zustimmt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Vertrauensverhältnis-Ausnahme befreit von der Meldepflicht.",
+      "Falsch: Das Gesetz sieht genau für solche Tätigkeiten eine Ausnahme vor.",
+      "Falsch: Der Weg zu den Medien ist nicht vorgesehen.",
+      "Falsch: Eine Zustimmung der Leitung ist keine Voraussetzung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Beratungslehrerin erfährt in einem streng vertraulichen Gespräch mit einer Schülerin von einer strafbaren Handlung im schulischen Umfeld. Sie ist überzeugt, dass eine Meldung das Vertrauensverhältnis zerstören würde, auf dem ihre gesamte Beratungstätigkeit aufbaut.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Verfügung des Schulleiters ist wirksam. Er kann aus Gründen in der Person oder in der Tätigkeit abweichend von der Ausnahme eine Meldepflicht verfügen. Zum Nachlesen: LDG §37 Abs.1b.",
+    "hauptquelle": "LDG §37 Abs.1b",
+    "id": "B23-L1-010",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Der Leiter kann aus solchen Gründen abweichend eine Meldepflicht verfügen.",
+      "Die Verfügung des Leiters ist wirkungslos, die Ausnahme gilt absolut.",
+      "So etwas darf nur die Bildungsdirektion verfügen, niemals der Schulleiter.",
+      "Der Leiter kann die Meldepflicht nur für sich selbst anordnen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Schulleiter darf die Ausnahme im Einzelfall aufheben.",
+      "Falsch: Die Ausnahme ist nicht absolut, sie kann durch Verfügung durchbrochen werden.",
+      "Falsch: Das Verfügungsrecht liegt ausdrücklich beim Leiter der Schule.",
+      "Falsch: Die Verfügung richtet sich an die Tätigkeit, nicht an die eigene Person des Leiters."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule arbeitet ein Lehrer in der Schülerberatung auf Vertrauensbasis. Nach einem schwerwiegenden Vorfall verfügt der Schulleiter, dass ein konkreter Verdacht aus diesem Bereich dennoch zu melden ist, und beruft sich auf Gründe in der betroffenen Person.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Berger muss beides melden. Zu melden sind jede Veränderung der Staatsbürgerschaft und jede Veränderung der Berechtigung zum unbeschränkten Arbeitsmarktzugang. Zum Nachlesen: LDG §37 Abs.2.",
+    "hauptquelle": "LDG §37 Abs.2",
+    "id": "B23-L1-011",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Er muss jede Veränderung seiner Staatsbürgerschaft und seiner Arbeitsmarktberechtigung melden.",
+      "Staatsbürgerschaften sind reine Privatsache ohne jede Meldepflicht.",
+      "Nur die Staatsbürgerschaft bei Dienstantritt zählt, spätere Änderungen sind egal.",
+      "Es genügt, die Änderung bei der nächsten Dienstbesprechung beiläufig zu erwähnen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau diese Veränderungen sind ausdrücklich meldepflichtig.",
+      "Falsch: Das Gesetz zählt sie zu den zwingenden Meldepflichten.",
+      "Falsch: Auch spätere Veränderungen sind zu melden.",
+      "Falsch: Verlangt ist eine Meldung, kein beiläufiges Erwähnen."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "BHS"
+    ],
+    "situation": "Lehrer Berger nimmt neben seiner bisherigen eine zweite Staatsbürgerschaft an und verliert dadurch eine Berechtigung, die ihm bisher den unbeschränkten Zugang zum österreichischen Arbeitsmarkt gesichert hat. Er meint, das gehe den Dienstgeber nichts an.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Egger muss alle drei Änderungen melden. Zu melden sind unter anderem Namensänderung, Standesveränderung und Änderung des Wohnsitzes. Zum Nachlesen: LDG §37 Abs.2.",
+    "hauptquelle": "LDG §37 Abs.2",
+    "id": "B23-L1-012",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Sie muss die Namensänderung, die Standesveränderung und die Wohnsitzänderung melden.",
+      "Das alles ist privat und muss niemandem gemeldet werden.",
+      "Nur der Umzug muss gemeldet werden, Name und Stand gehen niemanden an.",
+      "Es reicht, wenn sie ihre neue Adresse den Schülerinnen und Schülern sagt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Name, Standesveränderung und Wohnsitz gehören zu den Meldepflichten.",
+      "Falsch: Diese Änderungen sind ausdrücklich meldepflichtig.",
+      "Falsch: Auch Namens- und Standesveränderung sind zu melden.",
+      "Falsch: Die Klasse zu informieren ersetzt die dienstliche Meldung nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger lässt sich scheiden, nimmt wieder ihren früheren Familiennamen an und zieht in eine eigene Wohnung in einen Nachbarort. Sie fragt, ob sie das von sich aus jemandem sagen muss oder ob das alles privat ist.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Kaufmann muss gegensteuern und seinen Wohnsitz anpassen. Der Wohnsitz ist so zu wählen, dass die Erfüllung der dienstlichen Aufgaben nicht beeinträchtigt wird. Zum Nachlesen: LDG §39 Abs.1.",
+    "hauptquelle": "LDG §39 Abs.1",
+    "id": "B23-L1-013",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Er hat seinen Wohnsitz so zu wählen, dass er seine Aufgaben unbeeinträchtigt erfüllen kann.",
+      "Der Wohnort ist völlig frei wählbar, Verspätungen muss die Schule hinnehmen.",
+      "Bei weitem Wohnsitz entfällt die Aufsichtspflicht in der ersten Stunde automatisch.",
+      "Die Schule muss ihm wegen des weiten Weges ein Dienstauto zur Verfügung stellen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Wohnsitzwahl darf die Aufgabenerfüllung nicht beeinträchtigen.",
+      "Falsch: Die Freiheit der Wohnsitzwahl endet bei Beeinträchtigung des Dienstes.",
+      "Falsch: Aufsichtspflichten entfallen nicht wegen der Wohnlage.",
+      "Falsch: Ein Anspruch auf ein Dienstauto folgt daraus nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrer Kaufmann zieht in ein Haus, das über eine Autostunde von seiner Schule entfernt liegt. Seither kommt er mehrmals im Monat zu spät, die Frühaufsicht fällt regelmäßig aus. Er findet, sein Wohnort sei seine freie Entscheidung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Moser hat keinen Anspruch auf Sonderbehandlung. Aus der Lage der Wohnung kann, soweit gesetzlich nichts anderes bestimmt ist, kein Anspruch auf dienstliche Begünstigungen abgeleitet werden. Zum Nachlesen: LDG §39 Abs.1.",
+    "hauptquelle": "LDG §39 Abs.1",
+    "id": "B23-L1-014",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Aus der Lage der Wohnung kann sie grundsätzlich keinen Anspruch auf Begünstigungen ableiten.",
+      "Weit Anreisende haben Anspruch auf einen Wunschstundenplan.",
+      "Die Direktion muss den Stundenplan an ihren Wohnort anpassen.",
+      "Nur Lehrpersonen mit kurzem Anfahrtsweg müssen Randstunden übernehmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Wohnlage begründet keine Ansprüche auf dienstliche Begünstigungen.",
+      "Falsch: Ein Wunschstundenplan folgt aus der Anreise nicht.",
+      "Falsch: Die Schule muss Stundenpläne nicht nach Wohnorten ausrichten.",
+      "Falsch: Eine solche Sonderregel für Nahwohnende gibt es nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Lehrerin Moser pendelt täglich weit zu ihrer Schule und verlangt deshalb einen Wunschstundenplan ohne Randstunden sowie Befreiung von der Frühaufsicht. Sie beruft sich darauf, dass ihr weiter Anfahrtsweg berücksichtigt werden müsse.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Brunner muss eine Zustelladresse bekanntgeben. Beurlaubte Lehrer melden für die Hauptferien die Adresse, unter der ihnen amtliche Verständigungen im kürzesten Weg zukommen können. Zum Nachlesen: LDG §37 Abs.3.",
+    "hauptquelle": "LDG §37 Abs.3",
+    "id": "B23-L1-015",
+    "level": "L1",
+    "modul_id": "B23",
+    "optionen": [
+      "Sie hat für die Hauptferien die Adresse zu melden, unter der ihr Verständigungen auf kürzestem Weg zukommen.",
+      "In den Ferien muss niemand für die Schule erreichbar sein.",
+      "Es reicht, wenn sie gelegentlich Nachrichten in sozialen Medien liest.",
+      "Nur Schulleiter müssen jemals eine Ferienadresse melden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beurlaubte melden für die Hauptferien eine Zustelladresse.",
+      "Falsch: Gerade für dringende Fälle braucht es eine Zustelladresse.",
+      "Falsch: Verlangt ist eine Adresse für amtliche Zustellung auf kürzestem Weg.",
+      "Falsch: Die Pflicht trifft auch alle beurlaubten Lehrer in den Hauptferien."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Brunner ist während der Sommerferien beurlaubt und verreist für sechs Wochen ins Ausland. Die Direktion weiß nicht, unter welcher Adresse sie für eine dringende amtliche Verständigung erreichbar wäre.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]
