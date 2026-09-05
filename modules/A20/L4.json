@@ -1,1 +1,261 @@
-[]
+[
+  {
+    "aufloesung": "Die einseitig gebildete Note ist rechtswidrig und unter Einbeziehung der Mitarbeit neu zu fassen. Erst Mitarbeit plus alle Feststellungen gemeinsam ergeben das tragfähige Gesamtbild für Zeugnis und Aufstieg. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L4-001",
+    "level": "L4",
+    "modul_id": "A20",
+    "optionen": [
+      "Der Lehrer hat recht, die Schularbeiten allein entscheiden die Zeugnisnote.",
+      "Die Zeugnisnote entsteht aus Mitarbeit und besonderen Feststellungen gemeinsam, die Mitarbeit darf nicht ausgeblendet werden.",
+      "Es zählt nur die letzte Hausübung vor dem Zeugnis, alles andere ist egal.",
+      "Bei auseinandergehenden Leistungen wird die Note ausgewürfelt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schularbeiten allein ergeben noch kein Gesamtbild der Leistung.",
+      "Richtig: Mitarbeit und Feststellungen bilden gemeinsam die tragfähige Grundlage.",
+      "Falsch: Eine einzelne Hausübung ersetzt das Jahresbild nicht.",
+      "Falsch: Die Note folgt aus den Leistungen, nicht aus dem Zufall."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tobias schreibt in Mathematik zwei schwache Schularbeiten, arbeitet aber das ganze Semester stark mit, erledigt alle Hausübungen verlässlich und zeigt bei kurzen Tests sichere Leistungen. Der Lehrer will die Zeugnisnote allein aus den beiden Schularbeiten bilden und die Mitarbeit vollständig ignorieren. Die Eltern fechten die Note an, weil sie auch über das Aufsteigen entscheidet. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §20 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Der Ablauf ist in beiden Punkten fehlerhaft und zu sanieren, erst ehrliche Ersatzfeststellung, dann warnen, beraten und fördern. Kommentarlos negativ ohne ehrliche Grundlage und ohne Warnung hält keiner Prüfung stand. Zum Nachlesen: SchUG §18 Abs.4.",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "id": "A20-L4-002",
+    "level": "L4",
+    "modul_id": "A20",
+    "optionen": [
+      "Das kommentarlose Negativ ist korrekt, Warnung und Ersatzfeststellung sind freiwillige Kür.",
+      "Es braucht eine ehrliche Ersatzfeststellung als neue Grundlage und bei drohendem Nicht genügend die sofortige Verständigung mit Beratung und Förderung.",
+      "Ein Punktabzug heilt die Täuschung, die ursprüngliche Arbeit kann normal benotet werden.",
+      "Die Schule darf als Ersatzgrundlage einfach die Note der Banknachbarin übernehmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Weder Ersatzfeststellung noch Warnung sind verzichtbar, beide sind Pflicht.",
+      "Richtig: Ehrliche Grundlage plus rechtzeitige Warnung mit Förderweg sichern Fairness.",
+      "Falsch: Abzug heilt den Täuschungscharakter der Arbeit nicht.",
+      "Falsch: Fremde Noten zu übernehmen verfälscht die eigene Leistung des Kindes."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Mira erschleicht bei der entscheidenden Englischschularbeit große Teile aus dem Netz, die Täuschung wird festgestellt und der erschlichene Teil nicht beurteilt. Ohne diese Leistung droht ihr im Semester ein Nicht genügend. Die Schule trägt kommentarlos ein Negativ ein, ohne die Eltern zu warnen und ohne jede ehrliche Ersatzfeststellung. Die Eltern fechten an. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §19 Abs.3a"
+    ]
+  },
+  {
+    "aufloesung": "Der Fehler pflanzt sich in alle darauf aufbauenden Noten fort und ist durch Nachholen der Wiederholung mit neuer Aufgabenstellung und Neubildung der Noten zu heilen. Ohne Sanierung bleibt jede Folgeentscheidung bis zum Aufstieg anfechtbar. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "id": "A20-L4-003",
+    "level": "L4",
+    "modul_id": "A20",
+    "optionen": [
+      "Alles bleibt wie es ist, die unterlassene Wiederholung hat auf Zeugnisse und Aufstieg keine Auswirkung.",
+      "Die unterlassene Wiederholung ist ein Verfahrensfehler, der die darauf aufbauenden Semester- und Jahresnoten angreifbar macht und durch Nachholen mit Neubildung der Noten zu sanieren ist.",
+      "Es genügt, die negativen Noten handschriftlich im Zeugnis zu verbessern und alles andere zu belassen.",
+      "Die betroffenen Kinder verlieren automatisch das Recht auf jede Wiederholungsprüfung im Herbst."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Pflichtverstoß zu Beginn verfärbt alle darauf gebauten Noten.",
+      "Richtig: Nachholen plus Neubildung heilt den Fehler von der Wurzel her.",
+      "Falsch: Handschriftliche Korrekturen im Zeugnis verfälschen die Urkunde.",
+      "Falsch: Die zweite Chance im Herbst entfällt nicht wegen eines Schulfehlers."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In Physik sind bei der einzigen Schularbeit des Semesters 17 von 30 Leistungen negativ zu beurteilen, die Pflichtwiederholung unterbleibt trotz schriftlichen Protests der Eltern. Die negativen Schularbeitsnoten ziehen mehrere Semester- und Jahresnoten ins Negative, zwei Kinder müssen deshalb zur Wiederholungsprüfung antreten. Die Eltern fechten die Zeugnisse an. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §22 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Ein Negativ ohne Grundlage ist rechtswidrig, die Note braucht eine eigene Feststellung mit Frist und Protokoll. Nur so entsteht eine sichere Basis für Zeugnis und Aufstieg statt Willkür. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "id": "A20-L4-004",
+    "level": "L4",
+    "modul_id": "A20",
+    "optionen": [
+      "Das Negativ ohne jede Feststellung ist korrekt, wer fehlt, fällt automatisch durch.",
+      "Die Note darf geraten oder vom Vorjahr übernommen werden, eine eigene Prüfung ist überflüssig.",
+      "Ohne sichere Grundlage ist eine Feststellungsprüfung mit zweiwöchiger Vorverständigung und schriftlicher Aufzeichnung durchzuführen statt zu raten.",
+      "Deniz muss die Schule wechseln, weil er die Schularbeitstermine versäumt hat."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Fehlen allein ist keine negative Leistung und trägt kein Negativ.",
+      "Falsch: Weder Raten noch alte Noten sind sichere Grundlagen für ein Zeugnis.",
+      "Richtig: Frist schützt die Vorbereitung, Protokoll sichert die Nachvollziehbarkeit.",
+      "Falsch: Ein Schulwechsel wegen versäumter Termine ist abwegig."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Deniz fehlt im zweiten Semester wochenlang mit Attest und versäumt alle Englischschularbeiten, ein Nachholen im laufenden Unterricht ist nicht mehr möglich. Der Lehrer will ohne jede weitere Feststellung ein Nicht genügend ins Zeugnis schreiben, das über das Aufsteigen entscheidet. Die Eltern verlangen eine faire Grundlage für die Note. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Rafaels Mathenote ist neu zu fassen, Sofias Formanteil bleibt und Matteos Mitarbeit zählt mit. Fachleistung und Verhalten laufen strikt getrennt, Form nur wo sie wesentlich ist, Mitarbeit immer. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L4-005",
+    "level": "L4",
+    "modul_id": "A20",
+    "optionen": [
+      "Rafaels Stören gehört in die Verhaltensnote, nicht als Abzug in die Mathematiknote.",
+      "In Deutsch darf die äußere Form als wesentlicher Leistungsteil in die Aufsatznote einfließen.",
+      "Matteos Zeugnisnote entsteht aus Mitarbeit und Feststellungen gemeinsam, nicht aus der Schularbeit allein.",
+      "Gutes Rechnen darf wegen Störens um zwei Grade gesenkt werden.",
+      "Rechtschreibung darf in keinem Fach jemals eine Rolle spielen.",
+      "Die Schularbeit allein entscheidet die Zeugnisnote, die Mitarbeit ist reine Dekoration."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Benehmen steht auf eigener Skala, Rechnen bleibt Rechnen.",
+      "Richtig: In Deutsch gehören Inhalt und Form gemeinsam zur Leistung.",
+      "Richtig: Erst Mitarbeit plus Feststellungen ergeben das Gesamtbild.",
+      "Falsch: Fachnote misst Stoffbeherrschung, nicht das Betragen.",
+      "Falsch: Wo Form wesentlich ist, darf sie die Note mitbestimmen.",
+      "Falsch: Ausblenden der Mitarbeit verfälscht die Jahresleistung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vor der Notenkonferenz diskutiert das Team drei Fälle mit Blick auf Zeugnis und Aufstieg: Rafael stört oft, rechnet aber fehlerfrei. Sofia schreibt inhaltlich starke Deutschaufsätze mit vielen Rechtschreibfehlern. Matteo glänzt in der Schularbeit, verweigert aber das ganze Semester jede Mitarbeit. Wähle alle richtigen Feststellungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §18 Abs.5",
+      "SchUG §18 Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Schweigen bis zum Zeugnis war rechtswidrig, Warnung mit Beratung und Förderung sind künftig mit Nachweis zu führen. Die zweite Chance im Herbst braucht Vermerk und nach Bestehen ein neues Zeugnis. Zum Nachlesen: SchUG §19 Abs.3a.",
+    "hauptquelle": "SchUG §19 Abs.3a",
+    "id": "A20-L4-006",
+    "level": "L4",
+    "modul_id": "A20",
+    "optionen": [
+      "Bei drohendem Nicht genügend ist sofort zu verständigen und mit Kind und Eltern ein beratendes Gespräch mit Fördermaßnahmen zu führen.",
+      "Die versäumte Warnung mit Gespräch und Förderung ist als Verfahrensfehler zu beanstanden und künftig mit Nachweis zu führen.",
+      "Nach Nicht genügend im Jahreszeugnis braucht es den Vermerk über die Wiederholungsprüfung und nach Bestehen Einzug mit Neuausstellung des Zeugnisses.",
+      "Das Zeugnis als solche Nachricht ersetzt die rechtzeitige Warnung vollständig.",
+      "Fördermaßnahmen dürfen im Warngespräch kein Thema sein.",
+      "Die Wiederholungsprüfung gibt es nur aus Wohlwollen der Schule ohne jeden Anspruch."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sofort warnen, beraten und Förderung vereinbaren statt bis zum Zeugnis zu schweigen.",
+      "Richtig: Versäumtes Warnen bleibt ein Mangel, der festzuhalten und abzustellen ist.",
+      "Richtig: Vermerk plus Einzug und Neuausstellung halten das Zeugnis wahr und aktuell.",
+      "Falsch: Abwarten bis zum Zeugnis verletzt die rechtzeitige Warnpflicht.",
+      "Falsch: Förderwege zu erarbeiten ist gerade der Kern des Gesprächs.",
+      "Falsch: Die zweite Chance ist vorgesehen und keine Gnadenentscheidung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lea steht nach zwei misslungenen Deutschschularbeiten auf drohendem Nicht genügend zum Jahresende, das auch ihr Aufsteigen gefährdet. Die Schule schweigt bis zum Zeugnis, bietet kein Gespräch und keine Förderung an. Im Herbst scheitert Lea an der Wiederholungsprüfung. Die Eltern fechten das Vorgehen an. Wähle alle richtigen Feststellungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §22 Abs.6"
+    ]
+  },
+  {
+    "aufloesung": "Das gesamte Verfahren ist formfehlerhaft und mit Frist, Protokoll und Stundungschance zu wiederholen. Nur so entsteht eine sichere Grundlage für Zeugnis und Aufstieg statt Willkür. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "id": "A20-L4-007",
+    "level": "L4",
+    "modul_id": "A20",
+    "optionen": [
+      "Die Feststellungsprüfung verlangt eine zweiwöchige Vorverständigung und eine schriftliche Aufzeichnung über den Verlauf.",
+      "Bei unverschuldetem Versäumnis kann die Prüfung auf mindestens acht bis höchstens zwölf Wochen gestundet werden.",
+      "Nach Scheitern der gestundeten Prüfung steht auf fristgerechten Antrag eine einmalige Wiederholung offen.",
+      "Mündliche Verständigung am Vortag ohne Protokoll ist ein ordnungsgemäßes Verfahren.",
+      "Statt jeder Prüfung darf die Note geraten oder vom Vorjahr übernommen werden.",
+      "Stundung und Wiederholung sind grundsätzlich ausgeschlossen und liegen im Belieben der Schule."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Frist schützt die Vorbereitung, Protokoll sichert die Nachvollziehbarkeit.",
+      "Richtig: Die Zeitspanne gibt echte Erholungs- und Lernchance nach Krankheit.",
+      "Richtig: Eine zweite Chance auf fristgerechten Antrag ist ausdrücklich vorgesehen.",
+      "Falsch: Frist und Doku sind Gültigkeitsvoraussetzung, keine freiwillige Kür.",
+      "Falsch: Weder Raten noch alte Noten sind sichere Grundlagen.",
+      "Falsch: Genau für unverschuldetes Fehlen gibt es Stundung und Wiederholung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Tom fehlt nach einer schweren Operation monatelang, Mitarbeit und alle Schularbeiten des Semesters fehlen. Die Schule setzt eine Feststellungsprüfung an, verständigt ihn aber erst am Vortag mündlich am Gang und führt keinerlei Aufzeichnung. Nach dem Scheitern verweigert sie jede Stundung und jede Wiederholung. Die Familie ficht das Verfahren an. Wähle alle richtigen Feststellungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §20 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Keine Automatik durch eine einzelne Arbeit, Maßstab bleibt das Gesamtbild aller Leistungen. Erst Mitarbeit plus alle Feststellungen tragen Zeugnisnote und Aufstieg. Zum Nachlesen: SchUG §18 Abs.1.",
+    "hauptquelle": "SchUG §18 Abs.1",
+    "id": "A20-L4-008",
+    "level": "L4",
+    "modul_id": "A20",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Eine einzelne Arbeit trägt keine Automatik für Zeugnis oder Aufstieg in sich.",
+      "Richtig erkannt: Erst das Gesamtbild aus Mitarbeit und allen Feststellungen entscheidet."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check vor der Aufstiegskonferenz: Eine Kollegin behauptet, eine einzige misslungene Schularbeit entscheide automatisch über das Aufsteigen, die Gesamtleistung aus Mitarbeit und allen Feststellungen spiele dann keine Rolle mehr.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

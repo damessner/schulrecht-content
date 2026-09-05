@@ -1,1 +1,371 @@
-[]
+[
+  {
+    "aufloesung": "Die Wertung als Schularbeit ist rechtswidrig und zu beheben, die Feststellung ist ordnungsgemäß angekündigt nachzuholen. Nur eine rechtzeitig angesagte Arbeit gibt allen Kindern eine faire Vorbereitung. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L3-001",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Das Vorgehen ist korrekt, weil kurze Tests ohnehin unangekündigt sein dürfen und das auch für Schularbeiten gilt.",
+      "Die Arbeit zählt als Schularbeit, sobald der Lehrer das Wort Schularbeit darüber schreibt, die Ankündigung ist reine Höflichkeit.",
+      "Die Überraschungsarbeit darf nicht als Schularbeit gewertet werden, Schularbeiten sind den Kindern rechtzeitig vorher anzukündigen.",
+      "Es genügt, wenn der Lehrer den Termin nachträglich ins Klassenbuch einträgt und die Eltern später informiert."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Kleine Tests und volle Schularbeiten sind verschiedene Formate mit verschiedenen Regeln.",
+      "Falsch: Ein Aufdruck ersetzt nicht die rechtzeitige Ankündigung an die Kinder.",
+      "Richtig: Rechtzeitige Ansage gibt allen eine faire Vorbereitung und ist Gültigkeitsvoraussetzung.",
+      "Falsch: Nachträgliches Eintragen heilt die fehlende Ankündigung nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer 6. Schulstufe kündigt der Mathematiklehrer für Dienstag nur eine kurze Wiederholung des laufenden Stoffes an. Ohne jede weitere Ankündigung teilt er dann eine volle Schularbeit mit neuen Aufgaben über den Stoff des ganzen Semesters aus und will sie als zweite Schularbeit werten. Mehrere Eltern protestieren gegen die Überraschungsarbeit. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die eingetragene Note ist zu beheben und durch eine ehrliche Ersatzfeststellung zu ersetzen. Auch nachträglich aufgedeckte Täuschungen machen die Leistung unbeurteilbar, die Eintragung schützt davor nicht. Zum Nachlesen: SchUG §18 Abs.4.",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "id": "A20-L3-002",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Die Note bleibt, weil eine einmal eingetragene Beurteilung nicht mehr angerührt werden darf.",
+      "Ein kleiner Punktabzug nachträglich genügt, dann ist die Note wieder haltbar.",
+      "Die Arbeit gilt als nachträglich aufgedeckte vorgetäuschte Leistung, sie darf nicht beurteilt werden und die Note ist durch eine ehrliche Ersatzfeststellung zu ersetzen.",
+      "Ben bekommt ohne jede neue Feststellung automatisch ein Genügend als Kompromissnote."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch eingetragene Noten sind zu beheben, wenn die Grundlage vorgetäuscht war.",
+      "Falsch: Abzug heilt den Täuschungscharakter auch nachträglich nicht.",
+      "Richtig: Getäuschtes fällt aus der Wertung, nur eine ehrliche Feststellung trägt eine neue Note.",
+      "Falsch: Kompromissnoten ohne ehrliche Leistung gibt es nicht."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "In einer 7. Schulstufe gibt Ben eine eigenständig wirkende Erörterung als Deutschschularbeit ab und erhält ein Gut. Wochen nach der Rückgabe tauchen Handyfotos auf, die belegen, dass er den Text fast vollständig aus dem Netz übernommen hat. Die Lehrerin will die Note stehen lassen, weil alles längst eingetragen ist. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Verweigerung ist ein Formfehler, die einmalige Wiederholung mit neuen Aufgaben ist für alle nachzuholen. Mehr als die Hälfte negativer Beurteilungen löst genau diese Pflicht mit Günstigkeitsvergleich aus. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "id": "A20-L3-003",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Die Noten bleiben, die Wiederholung ist reine Ermessenssache des Lehrers und kann bei Zeitmangel entfallen.",
+      "Die Feststellung ist einmal mit neuer Aufgabenstellung für alle zu wiederholen, je Kind zählt die bessere Leistung.",
+      "Nur die durchgefallenen Kinder schreiben noch einmal, die positiven Noten bleiben unangetastet stehen.",
+      "Es zählt automatisch die zweite Arbeit, auch wenn einzelne Kinder dabei schlechter abschneiden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei echtem Überhang negativer Noten ist die Wiederholung Pflicht, kein Ermessen.",
+      "Richtig: Neue Aufgaben für alle plus Bestwertvergleich pro Kind, genau einmal.",
+      "Falsch: Die ganze Feststellung wird wiederholt, keine Teilgruppe allein.",
+      "Falsch: Schlechterstellen durch die Wiederholung ist ausgeschlossen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer Klasse mit 30 Kindern sind bei der Englischschularbeit 19 Arbeiten negativ zu beurteilen. Der Lehrer trägt alle Noten ins Klassenbuch ein, erklärt die Wiederholung für Zeitverschwendung und geht einfach zum nächsten Kapitel über. Die Eltern verlangen die Wiederholung für alle Kinder. Was muss geschehen?",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die gehäufte Ansetzung war fehlerhaft, die Termine sind zu entzerren und betroffene Feststellungen geordnet nachzuholen. Gleichmäßige Verteilung schützt die Kinder vor Überforderung und sichert wahre Leistungen. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L3-004",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Häufungen an einem Tag sind unproblematisch, die Kinder müssen eine solche Belastung aushalten.",
+      "Schularbeiten und große Feststellungen sind gleichmäßig über das Semester zu verteilen und zeitlich zu entzerren, die gehäuften Termine waren zu verlegen.",
+      "Die Lösung ist, alle drei Feststellungen ersatzlos zu streichen und das Semester unbenotet zu lassen.",
+      "Wer unter Belastung schwächer schreibt, bekommt zur Strafe eine schlechtere Note als eigentlich verdient."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Geballte Feststellungen an einem Vormittag überfordern und verzerren die Ergebnisse.",
+      "Richtig: Verteilte Termine geben jedem Kind eine echte Chance auf seine wahre Leistung.",
+      "Falsch: Streichen ohne jede Grundlage löst keinen Beurteilungsbedarf.",
+      "Falsch: Bestrafungsnoten für Überforderte verfälschen jede Beurteilung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer 4. Klasse stehen am Dienstagvormittag eine Deutschschularbeit und eine Mathematikschularbeit direkt hintereinander an, ein dritter Lehrer kündigt für denselben Vormittag noch einen großen Test über den gesamten Semesterstoff an. Mehrere Kinder brechen unter der Belastung ein und bleiben weit unter ihrem Können. Die Eltern fechten die Wertungen an. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Benotung ist rechtswidrig und neu zu fassen, Maßstab ist die fachliche Rechenleistung. Die äußere Form spielt nur mit, wo sie wesentlich zum Fach gehört, in Mathematik trägt sie die Note nicht allein. Zum Nachlesen: SchUG §18 Abs.7.",
+    "hauptquelle": "SchUG §18 Abs.7",
+    "id": "A20-L3-005",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Die Senkung ist korrekt, die äußere Form entscheidet in jedem Fach allein über die Note.",
+      "Die Note folgt der fachlichen Leistung, die äußere Form darf in Mathematik nur dort einfließen, wo sie wesentlich zur Leistung gehört, zwei Grade Abzug dafür sind rechtswidrig.",
+      "Rechtschreibfehler führen in jedem Fach automatisch zum Nicht genügend, egal wie richtig gerechnet wurde.",
+      "Die Lehrerin darf die Arbeit ungelesen wegwerfen, sobald ihr die äußere Form nicht gefällt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Form allein trägt keine Mathenote, Inhalt bleibt der Maßstab.",
+      "Richtig: Fachleistung zuerst, Form nur als Nebenanteil wo sie wesentlich ist.",
+      "Falsch: Automatische Negativnoten für die Form gibt es nicht.",
+      "Falsch: Wegwerfen verweigert jede Beurteilung der erbrachten Leistung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lukas löst in der Mathematikschularbeit alle Rechenwege richtig und kommt auf die korrekten Ergebnisse, die Darstellung ist aber flüchtig und der Antwortsatz enthält Rechtschreibfehler. Die Lehrerin senkt die Note allein wegen der äußeren Form um zwei Grade. Die Eltern fechten die Benotung an. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die verweigerte Rücksicht ist ein Formfehler, die Feststellung ist mit geeignetem Ausgleich zu wiederholen. Gemessen wird der erreichbare Erfolg, kein Kind darf durch die Prüfungsform gefährdet oder ausgeschlossen werden. Zum Nachlesen: SchUG §18 Abs.6.",
+    "hauptquelle": "SchUG §18 Abs.6",
+    "id": "A20-L3-006",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Die Note ist korrekt, Atteste ändern an den Anforderungen und am Ablauf nichts.",
+      "Elias ist ohne jede Feststellung automatisch positiv zu beurteilen, sobald ein Attest vorliegt.",
+      "Die Behinderung ist zu berücksichtigen und durch geeigneten Ausgleich wie Zeitverlängerung auszugleichen, gemessen wird der erreichbare Unterrichtserfolg ohne gesundheitliche Gefährdung.",
+      "Es genügt, Elias einfach die Note seiner Banknachbarin zu übertragen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nachgewiesene Beeinträchtigungen verlangen einen passenden Ausgleich bei der Feststellung.",
+      "Falsch: Auch mit Attest braucht die Note eine eigene ehrliche Grundlage.",
+      "Richtig: Erreichbarer Stand plus Ausgleich statt starrer Gleichmacherei.",
+      "Falsch: Fremde Noten zu übertragen verfälscht seine wahre Leistung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Elias hat ein fachärztliches Attest über eine deutliche Beeinträchtigung der Schreibhand und arbeitet nachweislich viel langsamer. Bei der einstündigen Englischschularbeit verweigert ihm der Lehrer jede Zeitverlängerung und benotet die unvollendete Arbeit negativ. Die Eltern beschweren sich über die fehlende Rücksicht. Was gilt?",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Nur Auers Vorgehen hält stand, die anderen drei Ansetzungen sind formfehlerhaft und zu sanieren. Ordnungsgemäß heißt rechtzeitig, an alle und mit klarem Stoff, alles andere nimmt den Kindern die faire Vorbereitung. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L3-007",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Auers Vorgehen mit rechtzeitiger Ansage und klarem Stoffumfang ist ordnungsgemäß.",
+      "Den Termin nur einzelnen Lieblingsschülern zu verraten verletzt die ordnungsgemäße Ankündigung für die ganze Klasse.",
+      "Eine vage Vielleicht-Andeutung ohne festen Termin ersetzt die rechtzeitige Ankündigung nicht.",
+      "Kommentarloses Verschieben mit anderem Stoff ist unproblematisch und bleibt ohne Folgen.",
+      "Schularbeiten dürfen grundsätzlich völlig unangekündigt geschrieben und gewertet werden.",
+      "Es genügt, den Termin geheim zu notieren, den Kindern muss vorher nichts gesagt werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rechtzeitige Ansage plus klarer Stoff geben allen eine faire Chance.",
+      "Richtig: Alle Kinder haben Anspruch auf dieselbe Information zur Vorbereitung.",
+      "Richtig: Vielleicht ist kein Termin und keine verlässliche Grundlage zum Lernen.",
+      "Falsch: Verschieben mit neuem Stoff braucht eine neue ordnungsgemäße Ansage.",
+      "Falsch: Überraschungs-Schularbeiten ohne jede Ansage sind nicht vorgesehen.",
+      "Falsch: Geheime Notizen helfen den Kindern bei der Vorbereitung nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Vier Varianten aus dem Schulalltag: Herr Auer sagt die Schularbeit zwei Wochen vorher mit klarem Stoffumfang an. Frau Berger verrät den Termin nur zwei Lieblingsschülern im Vertrauen. Herr Cermak sagt am Freitag vage nächste Woche vielleicht einmal und schreibt am Montag die volle Arbeit. Frau Dallinger verschiebt den angekündigten Termin kommentarlos um drei Wochen und prüft dann anderen Stoff. Das Team prüft alle vier Fälle. Wähle alle richtigen Feststellungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Noras abgeschriebener Teil fällt aus der Wertung und Yanis Hilfe ist sachlich zu dokumentieren, für beide braucht es eine ehrliche Ersatzfeststellung. Punktabzug oder Wegschauen heilen die Täuschung nicht. Zum Nachlesen: SchUG §18 Abs.4.",
+    "hauptquelle": "SchUG §18 Abs.4",
+    "id": "A20-L3-008",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Der vollständig abgeschriebene Teil bei Nora ist vorgetäuscht und darf nicht als ihre Leistung beurteilt werden.",
+      "Auch das aktive Zuschieben von Lösungen durch Yanis ist als Täuschungshandlung zu werten und sachlich zu dokumentieren.",
+      "Nach der Täuschung braucht es für beide eine eigene ehrliche Leistungsfeststellung als neue Grundlage statt einer Pauschalnote.",
+      "Ein kleiner Punktabzug heilt die Täuschung und macht Noras Arbeit voll benotbar.",
+      "Wer nur hilft und selbst nichts abschreibt, bleibt von jeder Feststellung ausgenommen.",
+      "Die Täuschung darf kommentarlos unter den Tisch fallen, wenn die Eltern als schwierig gelten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgeschriebenes ist vorgetäuscht und damit unbeurteilbar.",
+      "Richtig: Helfen beim Täuschen ist selbst eine Täuschungshandlung mit Folgen.",
+      "Richtig: Erst eine ehrliche Feststellung liefert eine tragfähige Grundlage.",
+      "Falsch: Abzug ändert nichts daran, dass die Leistung erschlichen ist.",
+      "Falsch: Auch der Helfer braucht eine saubere Feststellung seiner eigenen Leistung.",
+      "Falsch: Vertuschen schützt niemanden und ist unfair gegenüber Ehrlichen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Nach der Mathematikschularbeit stellt sich heraus: Nora hat ein Beispiel vollständig vom Sitznachbarn abgeschrieben, der Rest ist eigenständig gerechnet. Yanis hat seinem Nachbarn während der Arbeit aktiv die Lösungen zugeschoben. Die Lehrerin will Noras ganze Arbeit trotzdem normal benoten und Yanis gar nicht prüfen, weil er nur geholfen habe. Wähle alle richtigen Feststellungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die durchgeführte Teilwiederholung mit alten Aufgaben und Schlechterstellung ist rechtswidrig und ordnungsgemäß zu wiederholen. Verlangt sind alle Kinder, neue Aufgaben, ein Termin und der Bestwert je Kind. Zum Nachlesen: SchUG §18 Abs.11.",
+    "hauptquelle": "SchUG §18 Abs.11",
+    "id": "A20-L3-009",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Bei mehr als der Hälfte negativer Beurteilungen ist genau einmal mit neuer Aufgabenstellung zu wiederholen.",
+      "Die Wiederholung gilt für die ganze Klasse, nicht nur für die durchgefallenen Kinder.",
+      "Je Kind zählt die bessere der beiden Leistungen, ein Schlechterstellen ist ausgeschlossen.",
+      "Dieselben Aufgaben noch einmal zu stellen ist die vorgesehene Form der Wiederholung.",
+      "Die zweite Note zählt automatisch, auch wenn sie schlechter ausfällt als die erste.",
+      "Bei Zeitmangel darf die Pflichtwiederholung ersatzlos entfallen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Überhang über die Hälfte löst genau eine Wiederholung mit neuen Aufgaben aus.",
+      "Richtig: Die ganze Feststellung wird wiederholt, keine Teilgruppe allein.",
+      "Richtig: Der Günstigkeitsvergleich schützt jedes einzelne Kind.",
+      "Falsch: Neue Aufgabenstellung ist ausdrücklich verlangt, keine Kopie.",
+      "Falsch: Automatisch zählt die bessere Leistung und nicht die zweite.",
+      "Falsch: Zeitmangel entbindet nicht von der Wiederholungspflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einer Französischschularbeit mit 32 Kindern sind 19 Arbeiten negativ zu beurteilen. Der Lehrer lässt nur die 19 durchgefallenen Kinder mit denselben Aufgaben noch einmal schreiben und erklärt, diesmal zähle ausschließlich die zweite Note, auch wenn sie schlechter ausfällt. Die Eltern der ganzen Klasse protestieren gegen dieses Vorgehen. Wähle alle richtigen Feststellungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Nur Sofia erhält einen echten Nachtermin, für die beiden anderen gibt es keinen Anspruch auf dieselbe Behandlung. Wie Fehlendes ersetzt oder gewertet wird, entscheidet die Lehrerin nach der Lage des Einzelfalls. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L3-010",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Wer aus gerechtfertigtem Grund wie Krankheit fehlt, bekommt einen Nachtermin statt einer Strafnote.",
+      "Unentschuldigtes Fehlen gibt keinen Anspruch auf denselben bequemen Nachtermin wie bei Krankheit.",
+      "Wie die versäumte Feststellung ersetzt oder gewertet wird, entscheidet die Lehrerin nach der Lage des Einzelfalls.",
+      "Jede versäumte Schularbeit zählt automatisch als Nicht genügend, auch mit Attest.",
+      "Wer schwänzt, darf sich den Wunschnachtermin frei aussuchen.",
+      "Die ganze Klasse muss wegen einzelner Fehlender die Arbeit noch einmal schreiben."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachtermin statt Strafnote schützt entschuldigt Fehlende.",
+      "Richtig: Schwänzen und Kranksein werden zu Recht unterschiedlich behandelt.",
+      "Richtig: Die Entscheidung über Ersatz oder Wertung liegt bei der Lehrerin.",
+      "Falsch: Entschuldigtes Fehlen ist keine negative Leistung.",
+      "Falsch: Einen Wunschtermin als Belohnung fürs Schwänzen gibt es nicht.",
+      "Falsch: Die Klasse wiederholt nicht wegen einzelner Fehlender."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am Tag der Deutschschularbeit fehlen drei Kinder: Sofia liegt mit Fieber und Attest im Bett, Matteo schwänzt ohne jede Entschuldigung, Klara fehlt wegen einer Urlaubsverlängerung der Familie ohne schulischen Grund. Die Lehrerin will allen dreien ohne Unterschied denselben Nachtermin geben. Wähle alle richtigen Feststellungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die gesamte Handhabung ist formfehlerhaft und abzustellen, Rückgabe, Einsicht und Aufbewahrung sind nachzuholen. Nur so bleiben Benotung nachvollziehbar und Nachweise für alle erhalten. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L3-011",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Korrigierte Arbeiten sind den Kindern zurückzugeben und mit ihnen zu besprechen.",
+      "Kind und Eltern erhalten auf Wunsch Einsicht in die korrigierte Arbeit und eine Erklärung der Note.",
+      "Die Arbeiten sind gesammelt und geschützt bis zum Ablauf der vorgesehenen Frist aufzubewahren.",
+      "Einbehalten ohne Rückgabe ist ordnungsgemäß, die Note im Klassenbuch genügt völlig.",
+      "Vorzeitiges Vernichten bei Nachfragen ist zulässig, um im Archiv Platz zu schaffen.",
+      "Einsicht darf grundsätzlich und ohne jede Begründung verweigert werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rückgabe plus Besprechung verwandeln Fehler in Lernchancen.",
+      "Richtig: Einsicht und Erklärung machen jede Note überprüfbar.",
+      "Richtig: Sammeln, schützen und fristgerecht aufheben sichert alle Nachweise.",
+      "Falsch: Einbehalten ohne Erklärung nimmt den Kindern jede Lernchance.",
+      "Falsch: Vernichten bei laufenden Fragen beseitigt wichtige Beweise.",
+      "Falsch: Grundsätzliche Verweigerung blockiert berechtigte Nachfragen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Mathematikschularbeit trägt der Lehrer die Noten ins Klassenbuch ein, behält die Hefte monatelang ohne jede Rückgabe, verweigert den Eltern die Einsicht und vernichtet die Arbeiten vor Ablauf der Frist, sobald Nachfragen kommen. Die Direktion prüft den Vorgang. Wähle alle richtigen Feststellungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §18 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Kein Freibrief für Überraschungsarbeiten, eine solche Wertung wäre formfehlerhaft. Die Schularbeit verlangt eine rechtzeitige Ankündigung, der Vergleich mit kurzen Tests trägt nicht. Zum Nachlesen: SchUG §18 Abs.10.",
+    "hauptquelle": "SchUG §18 Abs.10",
+    "id": "A20-L3-012",
+    "level": "L3",
+    "modul_id": "A20",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Tests und Schularbeiten sind verschiedene Formate mit verschiedenen Regeln.",
+      "Richtig erkannt: Nur die rechtzeitig angesagte Arbeit darf als Schularbeit gewertet werden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, eine Schularbeit dürfe völlig unangekündigt geschrieben und sofort als Schularbeit gewertet werden, weil kurze Tests ja auch ohne lange Ankündigung zulässig seien.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]
