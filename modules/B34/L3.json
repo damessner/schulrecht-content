@@ -1,1 +1,369 @@
-[]
+[
+  {
+    "aufloesung": "Aigner wählt den falschen Weg und muss den dienstlichen Beschwerdeweg nutzen. Wer Belästigung nur über Gerüchte und den Elternverein streut, umgeht Direktion, Vertrauensperson und die zuständige Kommission. Klärung braucht Meldung an die richtige Stelle, nicht Umwege. Zum Nachlesen: B-GlBG §9.",
+    "hauptquelle": "B-GlBG §9",
+    "id": "B34-L3-001",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Der Weg über Gerüchte und Elternverein ersetzt die ordnungsgemäße Beschwerde.",
+      "Aigner muss den Vorfall festhalten und sich an Direktion, Vertrauensperson oder Gleichbehandlungsstelle wenden.",
+      "Solange der Elternverein informiert ist, gilt die Meldepflicht als erfüllt.",
+      "Eine Beschwerde lohnt erst, wenn sich mehrere Betroffene gemeinsam melden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Umwege über Unzuständige ersetzen keine ordnungsgemäße Beschwerde.",
+      "Richtig: Festhalten und Meldung an Zuständige sichert das Verfahren.",
+      "Falsch: Der Verein steht außerhalb des dienstlichen Beschwerdewegs.",
+      "Falsch: Auch eine einzelne Meldung löst die Prüfungspflicht aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Aigner wird von einem Vorgesetzten wiederholt herabgewürdigt, erzählt es aber nur im Kollegium weiter und bittet den Elternverein um Druck auf die Direktion. Eine schriftliche Meldung an die Direktion oder eine Vertrauensstelle unterbleibt, weil sie den Dienstweg für übertrieben hält.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Pichlers Weitergabe ist unzulässig und muss sofort aufhören. Noten, Gutachten und Förderbedarfe sind vertraulich und gehören nicht an Nachhilfeinstitute oder künftige Arbeitgeber. Gefälligkeit oder gute Förderung rechtfertigen den Bruch der Verschwiegenheit nicht. Zum Nachlesen: LDG §31.",
+    "hauptquelle": "LDG §31",
+    "id": "B34-L3-002",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Die Weitergabe ist erlaubt, weil sie der Förderung des Schülers dienen soll.",
+      "Pichler verletzt die Verschwiegenheitspflicht und darf solche Daten nur an Berechtigte geben.",
+      "Solange das Institut diskret mit den Unterlagen umgeht, ist alles in Ordnung.",
+      "Mündliche Auskünfte am Telefon wären zulässig, nur Kopien sind verboten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gute Absicht macht Unbefugte nicht zu berechtigten Empfängern.",
+      "Richtig: Noten und Gutachten stehen nur Berechtigten zu.",
+      "Falsch: Diskretion des Empfängers heilt die unbefugte Weitergabe nicht.",
+      "Falsch: Auch mündliche Auskunft an Unbefugte verletzt die Pflicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lehrer Pichler schickt die Notenliste samt Fördergutachten eines Schülers an ein privates Nachhilfeinstitut und legt Kopien einer Bewerbung für einen Ferialjob bei, damit der Bub dort optimal betreut und vermittelt wird. Die Eltern erfahren davon erst durch eine Werbenachricht des Instituts.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Direktorin darf den Vorwurf nicht per Handschlag beilegen. Ein Belästigungsvorwurf verlangt Anhörung beider Seiten, schriftliche Festhaltung und Schutz vor Vergeltung. Informelles Wegwischen lässt die Fürsorgepflicht unerfüllt und gefährdet Betroffene. Zum Nachlesen: LDG §29a.",
+    "hauptquelle": "LDG §29a",
+    "id": "B34-L3-003",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Der Handschlag im Büro ist das richtige Verfahren, weil er das Team schont.",
+      "Die Direktion muss den Sachverhalt förmlich klären, beide Seiten anhören und dokumentieren.",
+      "Ohne schriftliche Beschwerde der Betroffenen darf die Leitung nichts unternehmen.",
+      "Es genügt, den Beschuldigten mündlich zu ermahnen und den Fall zu vergessen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Informelles Beilegen ersetzt kein ordnungsgemäßes Verfahren.",
+      "Richtig: Anhörung, Dokumentation und Schutz gehören zum Verfahren.",
+      "Falsch: Hinweise lösen die Klärungspflicht auch ohne Formular aus.",
+      "Falsch: Vergessen ohne Festhaltung ist pflichtwidriges Wegsehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Meldung einer jungen Kollegin über anzügliche Sprüche und unerwünschte Berührungen durch einen älteren Kollegen will die Direktorin die Sache mit einem Handschlag zwischen den beiden im Büro erledigen, ohne etwas aufzuschreiben oder weitere Personen zu befragen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die scheinbar neutrale Regel benachteiligt mittelbar und muss geändert werden. Wenn eine Vollzeitvorgabe faktisch vor allem Frauen in Teilzeit von Funktionen ausschließt, braucht es einen sachlichen Grund im Einzelfall. Pauschale Hürden ohne Sachbezug sind unzulässig. Zum Nachlesen: B-GlBG §3.",
+    "hauptquelle": "B-GlBG §3",
+    "id": "B34-L3-004",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Die Regel ist neutral formuliert und daher automatisch zulässig.",
+      "Die Vorgabe ist mittelbare Benachteiligung und braucht einen sachlichen Grund.",
+      "Teilzeitkräfte haben grundsätzlich keinen Anspruch auf Funktionen.",
+      "Erst ab einer schriftlichen Beschwerde wird die Regel zum Problem."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch neutral klingende Regeln können faktisch diskriminieren.",
+      "Richtig: Faktischer Ausschluss braucht sachliche Rechtfertigung im Einzelfall.",
+      "Falsch: Teilzeit schließt Funktionen nicht pauschal aus.",
+      "Falsch: Das Verbot gilt unabhängig von einer Beschwerde."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Koordinator Moser vergibt die Leitung des neuen Schwerpunktprojekts nur an Vollzeitkräfte, obwohl die Aufgabe gut teilbar wäre. Faktisch schließt er damit fast alle Kolleginnen in Teilzeit aus und erklärt, Halbtägige seien für Führung einfach ungeeignet.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Grubers Praxis verletzt die Pflicht zur Datensicherheit. Wer Schularbeiten am Handy ablichtet, in eine private Cloud lädt und im Kaffeehaus offen korrigiert, lässt Unbefugte mitlesen. Bequemlichkeit ersetzt weder Sperren noch sichere Ablage. Zum Nachlesen: DSGVO Art. 32.",
+    "hauptquelle": "DSGVO Art. 32",
+    "id": "B34-L3-005",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Das ist moderne Arbeitserleichterung und datenschutzrechtlich unbedenklich.",
+      "Gruber muss Handyfotos, private Cloud und offenes Korrigieren unterlassen und sichern.",
+      "Solange niemand die Daten am Nebentisch bemerkt, liegt kein Verstoß vor.",
+      "Private Geräte sind erlaubt, sobald ein Passwort am Sperrbildschirm steht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bequemlichkeit hebt die Sicherungspflicht nicht auf.",
+      "Richtig: Sperren, dienstliche Ablage und abgeschirmtes Arbeiten sind geboten.",
+      "Falsch: Es zählt die fehlende Vorsorge, nicht erst der bemerkte Schaden.",
+      "Falsch: Ein Sperrbildschirm allein macht Cloud und Mitlesen nicht sicher."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrer Gruber fotografiert seitenweise Schularbeiten mit seinem privaten Handy, lässt die Bilder automatisch in seine private Cloud laden und korrigiert die Dateien abends im vollbesetzten Kaffeehaus mit Blick auf den Bildschirm für alle Nachbartische.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Kaufmann darf sich nicht auf die alte Einwilligung stützen. Eine Zustimmung zu Schulbeginn deckt nicht jede spätere Veröffentlichung auf privaten Profilen oder in der Presse. Für neue Zwecke braucht es eine neue, informierte Einwilligung. Zum Nachlesen: DSGVO Art. 6.",
+    "hauptquelle": "DSGVO Art. 6",
+    "id": "B34-L3-006",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Die Einwilligung vom September deckt alle Veröffentlichungen des Jahres ab.",
+      "Kaufmann braucht für den neuen Zweck eine eigene Einwilligung oder Grundlage.",
+      "Wer einmal zugestimmt hat, kann nicht mehr widersprechen.",
+      "Bei guten Schnappschüssen entfällt die Einwilligungspflicht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zweckbindung begrenzt jede Einwilligung auf den genannten Zweck.",
+      "Richtig: Neue Veröffentlichung heißt neue Grundlage.",
+      "Falsch: Einwilligungen bleiben widerrufbar.",
+      "Falsch: Gelungene Bilder sind kein Freibrief."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Kaufmann lässt sich zu Schulbeginn für ein Klassenplakat in der Aula unterschreiben und stellt Monate später Einzelporträts derselben Kinder auf sein öffentliches Profil und in der Lokalzeitung dar. Auf Kritik verweist er auf die Unterschrift vom September.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Direktion verfehlt den richtigen Beschwerdeweg gleich mehrfach. Richtig wären: Vorfall sichern, Zuständige befassen und Betroffene schützen. Druck, Schweigegeld und Umwege über Unzuständige sind verboten. Zum Nachlesen: B-GlBG §9.",
+    "hauptquelle": "B-GlBG §9",
+    "id": "B34-L3-007",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Die Meldung als Gerücht abtun und auf Selbstklärung unter Kollegen verweisen.",
+      "Der Betroffenen mit schlechterer Einteilung drohen, falls sie sich beschwert.",
+      "Den Fall nur dem Elternverein zur Beratung übergeben statt den Zuständigen.",
+      "Vorfall mit Datum, Beteiligten und Belegen schriftlich festhalten.",
+      "Betroffene an Direktion, Vertrauensperson oder Gleichbehandlungsstelle verweisen.",
+      "Betroffene vor Nachteilen wegen ihrer Meldung schützen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Abtun als Gerücht verletzt die Klärungspflicht.",
+      "Falsch: Drohung mit Nachteilen ist verbotene Vergeltung.",
+      "Falsch: Der Verein ersetzt nicht die zuständige Stelle.",
+      "Richtig: Schriftliche Festhaltung sichert das Verfahren.",
+      "Richtig: Zuständige Stellen prüfen den Vorwurf.",
+      "Richtig: Schutz vor Rache gehört zum Beschwerdeweg."
+    ],
+    "richtig": [
+      3,
+      4,
+      5
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach herabwürdigenden Sprüchen eines Abteilungsvorstands gegenüber einer Kollegin kursieren in der Schule sechs Ratschläge, wie die Direktion vorgehen soll. Manche klingen bequem, andere führen in die falsche Richtung. Wähle alles Zutreffende. Zum Nachlesen steht das Beschwerderecht im Fokus.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Steiner gibt Daten unzulässig weiter und muss damit aufhören. Erlaubt ist nur die Weitergabe an Berechtigte über den Dienstweg. Wirtshaus, Elternchat und private Verteiler sind keine Empfänger für dienstliche Geheimnisse. Zum Nachlesen: LDG §31.",
+    "hauptquelle": "LDG §31",
+    "id": "B34-L3-008",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Lernschwierigkeiten eines Schülers abends im Wirtshaus ausführlich schildern.",
+      "Konferenzergebnisse über einzelne Schüler im Elternchat ausbreiten.",
+      "Kopierte Gutachten an befreundete Eltern zur Warnung verteilen.",
+      "Einzelfall nur mit den Erziehungsberechtigten im Einzelgespräch besprechen.",
+      "Austausch über einen Fall nur mit den zuständigen Kolleginnen führen.",
+      "Anfragen Unbefugter ablehnen und auf den Dienstweg verweisen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Wirtshausgespräche brechen die Verschwiegenheit.",
+      "Falsch: Chats machen Unbefugte nicht zu Berechtigten.",
+      "Falsch: Gutachten gehören nicht in private Hände.",
+      "Richtig: Einzelgespräche mit Berechtigten wahren die Pflicht.",
+      "Richtig: Begrenzter Empfängerkreis schützt Vertrauliches.",
+      "Richtig: Ablehnung mit Dienstweg ist korrekt."
+    ],
+    "richtig": [
+      3,
+      4,
+      5
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Steiner wird gefragt, welche seiner gesprächigen Gewohnheiten über Schüler und Konferenzen zulässig sind und welche die Verschwiegenheit verletzen. Sechs Praktiken aus seinem Alltag stehen zur Prüfung. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Belästigungsvorwurf verlangt ein sauberes Verfahren statt Wegschauen. Richtig sind: ernst nehmen, beide Seiten anhören, dokumentieren und vor Vergeltung schützen. Mitlachen oder Schweigedruck machen die Sache schlimmer. Zum Nachlesen: B-GlBG §8.",
+    "hauptquelle": "B-GlBG §8",
+    "id": "B34-L3-009",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Betroffene ernst nehmen und Unterstützung anbieten.",
+      "Beide Seiten anhören und Feststellungen schriftlich festhalten.",
+      "Meldende Person vor Nachteilen wegen der Meldung schützen.",
+      "Bei anzüglichen Sprüchen mitlachen, um die Stimmung zu retten.",
+      "Betroffene zum Schweigen drängen, damit das Team ruhig bleibt.",
+      "Den Vorfall als Humor abtun und nichts dokumentieren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ernstnehmen durchbricht Ausgrenzung und Einschüchterung.",
+      "Richtig: Anhörung und Festhaltung sichern faire Klärung.",
+      "Richtig: Vergeltungsschutz gehört zum Verfahren.",
+      "Falsch: Mitlachen verstärkt die Würdeverletzung.",
+      "Falsch: Schweigedruck schützt die falsche Seite.",
+      "Falsch: Verharmlosung ohne Akte ist Wegsehen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Praktikantin meldet anzügliche Witze und unerwünschte Berührungen eines Kollegen trotz deutlicher Ablehnung. Im Team gehen die Meinungen auseinander, was nun zu tun ist und was keinesfalls geschehen darf. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Bergers Alltag verstößt gleich mehrfach gegen die Grundsätze für Schülerdaten. Erlaubt ist nur, was zweckgebunden, sparsam und vertraulich bleibt. Private Nutzung, Sammelwut und offene Listen scheiden aus. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "B34-L3-010",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Klassenkontakte für das private Nachhilfeangebot per Nachricht nutzen.",
+      "Gesundheitsdetails aller Kinder auf Vorrat in einer Tabelle sammeln.",
+      "Noten aller Schüler laut verlesen und am Brett aushängen.",
+      "Daten nur für den schulischen Zweck verwenden, für den sie erhoben wurden.",
+      "Nur die Daten erheben, die für die Aufgabe wirklich nötig sind.",
+      "Listen und Aushänge ohne sensible Details gestalten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Private Werbung mit Schuldaten ist zweckwidrig.",
+      "Falsch: Vorratssammlung ohne Zweck verletzt die Sparsamkeit.",
+      "Falsch: Öffentliche Notenlisten brechen die Vertraulichkeit.",
+      "Richtig: Zweckbindung begrenzt jede Verwendung.",
+      "Richtig: Sparsamkeit verbietet überschießende Erhebung.",
+      "Richtig: Diskrete Aushänge schützen Daten."
+    ],
+    "richtig": [
+      3,
+      4,
+      5
+    ],
+    "schulart": [
+      "VS",
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrer Berger nutzt Klassenkontakte für private Werbung, sammelt Gesundheitsdetails aller Kinder auf Vorrat und hängt Notenlisten ans Brett. Drei seiner Gewohnheiten sind korrekt, drei verstoßen klar gegen die Grundsätze. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Hinter neutralen Regeln steckt hier verbotene Benachteiligung. Eignung und sachliche Gründe entscheiden, nicht Geschlecht, Alter oder Glaube. Pauschale Ausschlüsse, Abstimmungen und Bequemlichkeit tragen keine Ungleichbehandlung. Zum Nachlesen: B-GlBG §4.",
+    "hauptquelle": "B-GlBG §4",
+    "id": "B34-L3-011",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Führungsaufgaben nur an Vollzeitkräfte vergeben, obwohl Teilung möglich wäre.",
+      "Bewerbungen über vierzig ungeprüft aussortieren, weil man Junge wolle.",
+      "Fastenden Schülern aus Prinzip die schlechteren Rollen bei der Aufführung geben.",
+      "Funktionen nach Eignung und sachlichen Kriterien vergeben und begründen.",
+      "Belastungen und Dienste gerecht auf alle verteilen.",
+      "Absagen sachlich im Einzelfall begründen statt mit Gruppenmerkmalen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Faktischer Ausschluss von Teilzeit ohne Sachgrund diskriminiert.",
+      "Falsch: Pauschale Altersgrenzen sind verbotene Benachteiligung.",
+      "Falsch: Religion darf bei Zuteilungen keine Rolle spielen.",
+      "Richtig: Eignung und Begründung sichern Gleichbehandlung.",
+      "Richtig: Faire Verteilung verhindert einseitige Lasten.",
+      "Richtig: Einzelfallgründe ersetzen verbotene Merkmale."
+    ],
+    "richtig": [
+      3,
+      4,
+      5
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Schule prüft sechs umstrittene Vergaberegeln für Funktionen, Begleitungen und Rollen bei der Aufführung. Manche klingen neutral oder bequem, wirken aber als Benachteiligung wegen Geschlecht, Alter oder Religion. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Mitlachen schließt Belästigung nicht aus. Entscheidend ist, ob anzügliche Sprüche unerwünscht sind und die Würde verletzen, nicht ob jemand verlegen mitlacht. Gerade Machtgefälle verlangt genaues Hinsehen. Zum Nachlesen: B-GlBG §8.",
+    "hauptquelle": "B-GlBG §8",
+    "id": "B34-L3-012",
+    "level": "L3",
+    "modul_id": "B34",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Verlegenes Lachen ist keine Zustimmung.",
+      "Richtig erkannt: Unerwünschtheit und Würdeverletzung entscheiden, nicht die Fassade."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet, anzügliche Witze gegenüber einer jungen Kollegin seien keine Belästigung, solange sie verlegen mitlache und nicht laut protestiere.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

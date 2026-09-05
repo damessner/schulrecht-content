@@ -1,1 +1,240 @@
-[]
+[
+  {
+    "aufloesung": "Die Direktorin darf private Netzfunde nicht in die Beurteilung einbauen. Nur dienstlich Erforderliches, Zweckgebundenes und Belegbares gehört in eine Personalbeurteilung. Private Bilder aus sozialen Netzen sind keine Grundlage für dienstliche Wertungen. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "B34-L4-001",
+    "level": "L4",
+    "modul_id": "B34",
+    "optionen": [
+      "Die privaten Bilder dürfen die Beurteilung tragen, weil sie öffentlich waren.",
+      "Die Beurteilung muss sich auf dienstliche, zweckgebundene und belegbare Fakten stützen.",
+      "Soziale Netze sind eine zulässige Quelle für dienstliche Beurteilungen.",
+      "Je mehr Privates einfließt, desto aussagekräftiger ist die Beurteilung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Öffentlich heißt nicht zweckgebunden und dienstlich erforderlich.",
+      "Richtig: Zweckbindung und Erforderlichkeit begrenzen die Beurteilung.",
+      "Falsch: Stöbern im Privaten verletzt die Grundsätze.",
+      "Falsch: Mehr Privates macht die Beurteilung rechtswidrig, nicht besser."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Direktorin will in die dienstliche Beurteilung eines Kollegen dessen private Urlaubsbilder und Freizeitkommentare aus sozialen Netzen einbauen, weil sie dort seinen Lebensstil für unpassend hält. Dienstliche Leistungen sind unstrittig gut dokumentiert.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Abteilungsvorstand muss den Belästigungsvorwurf melden statt ihn zu decken. Anzügliche Übergriffe trotz Ablehnung sind dienstrechtlich zu klären und nötigenfalls disziplinar anzuzeigen. Kollegialität schützt nicht vor dem Verfahren. Zum Nachlesen: B-GlBG §8.",
+    "hauptquelle": "B-GlBG §8",
+    "id": "B34-L4-002",
+    "level": "L4",
+    "modul_id": "B34",
+    "optionen": [
+      "Aus Kollegialität schweigen und den Fall intern unter Kollegen regeln.",
+      "Den Vorwurf ernst nehmen, dokumentieren und an die zuständige Stelle melden.",
+      "Der Betroffenen raten, die Abteilung zu wechseln statt den Fall zu klären.",
+      "Erst auf ein Urteil warten und bis dahin alles beim Alten lassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Decken verlängert die Würdeverletzung und macht mitschuldig.",
+      "Richtig: Meldung und Dokumentation lösen die Klärung aus.",
+      "Falsch: Wegversetzen der Betroffenen ist verbotene Vergeltung.",
+      "Falsch: Zuwarten lässt Schutz- und Meldepflichten unerfüllt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Abteilungsvorstand erfährt glaubhaft von wiederholten anzüglichen Sprüchen und unerwünschten Berührungen eines Kollegen gegenüber einer jungen Kollegin. Er zögert, weil der Beschuldigte ein langjähriger Freund ist, und überlegt, die Sache kollegial unter den Teppich zu kehren.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die schlechtere Beurteilung wegen Teilzeit und Karenz ist verbotene Benachteiligung. Beurteilungen folgen Eignung und Leistung nach gleichen Maßstäben, nicht dem Beschäftigungsausmaß oder Auszeiten. Pauschale Abwertungen gehören berichtigt. Zum Nachlesen: B-GlBG §3.",
+    "hauptquelle": "B-GlBG §3",
+    "id": "B34-L4-003",
+    "level": "L4",
+    "modul_id": "B34",
+    "optionen": [
+      "Teilzeit und Karenz rechtfertigen pauschal eine schlechtere Beurteilung.",
+      "Die Beurteilung muss auf Leistung nach gleichen Maßstäben beruhen, unabhängig von Ausmaß und Auszeit.",
+      "Wer weniger anwesend ist, ist automatisch weniger engagiert.",
+      "Gegen die Abwertung hilft nur ein Wechsel an eine andere Schule."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ausmaß und Auszeit sind keine Leistungsmängel.",
+      "Richtig: Gleiche Maßstäbe und sachliche Begründung sind geboten.",
+      "Falsch: Anwesenheit pauschal mit Engagement gleichzusetzen diskriminiert.",
+      "Falsch: Berichtigung und Beschwerdeweg bestehen an der Schule."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine hoch engagierte Kollegin in Teilzeit nach der Karenz erhält trotz sehr guter Unterrichtsleistungen eine deutlich schlechtere dienstliche Beurteilung als Vollzeitkollegen. Als Grund nennt die Leitung pauschal ihre geringe Anwesenheit und die Babypause.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Hofer verletzt die Verschwiegenheit und schadet dem Verfahren. Laufende dienstrechtliche Ermittlungen gegen Kollegen gehören nicht in Elternchats oder ans Buffet. Wer plaudert, verletzt Vertraulichkeit und riskiert disziplinare Folgen. Zum Nachlesen: LDG §31.",
+    "hauptquelle": "LDG §31",
+    "id": "B34-L4-004",
+    "level": "L4",
+    "modul_id": "B34",
+    "optionen": [
+      "Das Ausplaudern ist zulässig, weil Eltern ein berechtigtes Interesse haben.",
+      "Hofer muss schweigen und Ermittlungsdetails nur über den Dienstweg teilen.",
+      "Solange keine Namen genannt werden, dürfen Andeutungen gestreut werden.",
+      "Was ohnehin Gerücht ist, darf auch bestätigt werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Neugier Außenstehender hebt die Schweigepflicht nicht auf.",
+      "Richtig: Vertrauliches bleibt im Dienstweg bei Zuständigen.",
+      "Falsch: Auch erkennbare Andeutungen brechen die Verschwiegenheit.",
+      "Falsch: Gerüchte zu bestätigen ist ebenfalls pflichtwidrig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Während gegen einen Kollegen dienstrechtliche Ermittlungen wegen Datenweitergabe laufen, plaudert Lehrer Hofer Details aus Einvernahmen und Akten im Elternchat und am Schulbuffet aus, weil die Eltern angeblich ohnehin alles wüssten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Datenschutzkonforme Beurteilung heißt: dienstlich, sparsam und belegbar. Private Netzfunde, Sammelmappen und offene Weitergabe an Unbefugte scheiden aus. Sachliche Leistungen mit gleichen Maßstäben gehören in die Akte. Zum Nachlesen: DSGVO Art. 5.",
+    "hauptquelle": "DSGVO Art. 5",
+    "id": "B34-L4-005",
+    "level": "L4",
+    "modul_id": "B34",
+    "optionen": [
+      "Private Freizeitbilder aus Netzen als Beleg für die dienstliche Eignung verwerten.",
+      "Über Jahre hinweg alles Mögliche über Kollegen in einer Schublade sammeln.",
+      "Beurteilungsentwürfe vorab im Kollegium zur allgemeinen Ansicht auflegen.",
+      "Nur dienstlich erforderliche und belegbare Leistungen in die Beurteilung aufnehmen.",
+      "Gleiche Maßstäbe für alle anlegen und Abweichungen sachlich begründen.",
+      "Entwürfe nur über den Dienstweg an Zuständige weitergeben."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Privates aus Netzen ist keine dienstliche Grundlage.",
+      "Falsch: Sammeln auf Vorrat verletzt Sparsamkeit und Zweckbindung.",
+      "Falsch: Offene Zirkulation bricht die Vertraulichkeit.",
+      "Richtig: Erforderlichkeit und Belegbarkeit begrenzen den Inhalt.",
+      "Richtig: Einheitliche Maßstäbe sichern Diskriminierungsfreiheit.",
+      "Richtig: Dienstweg schützt Daten und Verfahren."
+    ],
+    "richtig": [
+      3,
+      4,
+      5
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Direktion erstellt Richtlinien, welche Informationen in dienstliche Beurteilungen einfließen dürfen und wie Entwürfe zu behandeln sind. Sechs Praktiken aus dem Alltag stehen zur Wahl, drei sind korrekt, drei verletzen Datenschutz und Gleichbehandlung. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Massive Datenbrüche sind nicht nur peinlich, sondern dienstrechtlich relevant. Wer vertrauliche Daten weitergibt, Sicherungspflichten missachtet oder Pannen vertuscht, verletzt Dienstpflichten mit möglichen disziplinaren Folgen. Melden und Aufarbeiten ist der einzige Ausweg. Zum Nachlesen: LDG §31.",
+    "hauptquelle": "LDG §31",
+    "id": "B34-L4-006",
+    "level": "L4",
+    "modul_id": "B34",
+    "optionen": [
+      "Noten und Gutachten an unbefugte private Stellen weitergeben.",
+      "Entsperrte Geräte und Gutachten offen für Mitschüler und Besucher liegen lassen.",
+      "Eine Datenpanne mit falschem Verteiler vertuschen statt sie zu melden.",
+      "Daten nur an Berechtigte über den Dienstweg weitergeben.",
+      "Geräte sperren und Papierunterlagen sicher verwahren.",
+      "Pannen eindämmen, der Direktion melden und dokumentieren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Unbefugte Weitergabe verletzt die Verschwiegenheitspflicht.",
+      "Falsch: Offen liegen gelassene Daten missachten die Sicherungspflicht.",
+      "Falsch: Vertuschen verschlimmert die Pflichtverletzung.",
+      "Richtig: Berechtigte Empfänger und Dienstweg wahren die Pflicht.",
+      "Richtig: Sperren und Verwahren sind gebotene Vorsorge.",
+      "Richtig: Meldung und Aufarbeitung begrenzen Folgen."
+    ],
+    "richtig": [
+      3,
+      4,
+      5
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach mehreren Datenpannen prüft eine Schule, welche Verhaltensweisen rund um Schülerdaten dienstrechtliche Folgen nach sich ziehen können und welche Praktiken vorbildlich sind. Sechs Fälle aus dem Schulalltag stehen zur Einordnung. Wähle alles Richtige.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Belästigungsfall mit disziplinarem Einschlag verlangt ein geschütztes Verfahren. Ernst nehmen, beweissicher dokumentieren und an Zuständige melden sind richtig. Vergeltung, Schweigedruck und Vorverurteilung sind verboten. Zum Nachlesen: B-GlBG §9.",
+    "hauptquelle": "B-GlBG §9",
+    "id": "B34-L4-007",
+    "level": "L4",
+    "modul_id": "B34",
+    "optionen": [
+      "Meldung ernst nehmen und Betroffene vor Nachteilen schützen.",
+      "Feststellungen mit Datum und Fakten beweissicher dokumentieren.",
+      "Fall an Direktion und zuständige Stelle zur disziplinaren Prüfung melden.",
+      "Betroffene zur Strafe schlechter einteilen, damit Ruhe einkehrt.",
+      "Zeugen zum Schweigen drängen, um den Ruf der Abteilung zu retten.",
+      "Den Beschuldigten vor jeder Klärung öffentlich als schuldig benennen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Schutz und Ernstnehmen sichern das Verfahren.",
+      "Richtig: Dokumentation trägt jede weitere Prüfung.",
+      "Richtig: Zuständige Stellen entscheiden über disziplinare Schritte.",
+      "Falsch: Strafe nach Meldung ist verbotene Vergeltung.",
+      "Falsch: Schweigedruck behindert die Wahrheitsfindung.",
+      "Falsch: Vorverurteilung verletzt Fairness und Persönlichkeitsrechte."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein schwerer Belästigungsvorwurf gegen einen Kollegen steht im Raum, disziplinare Schritte sind denkbar. Die Direktion legt fest, welche Schritte das Verfahren sichern und welche es unzulässig belasten. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, Datenschutzverstöße sind Dienstpflichtverletzungen. Wer Schülerdaten zweckwidrig nutzt oder ungesichert liegen lässt, verletzt Verschwiegenheit und Sicherungspflichten mit möglichen disziplinaren Folgen. Technikfrage und Dienstrecht hängen zusammen. Zum Nachlesen: LDG §31.",
+    "hauptquelle": "LDG §31",
+    "id": "B34-L4-008",
+    "level": "L4",
+    "modul_id": "B34",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Datenpflichten sind Dienstpflichten mit Folgen.",
+      "Richtig erkannt: Zweckbindung und Verschwiegenheit binden jede Lehrperson."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check in der Fortbildung zu Beurteilung und Disziplinarrecht: Ein Teilnehmer behauptet, Datenschutzverstöße seien reine Technikprobleme der Schulverwaltung und hätten für Lehrpersonen keine dienstrechtlichen Folgen.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]
