@@ -1,1 +1,470 @@
-[]
+[
+  {
+    "aufloesung": "Zuerst wird die Blutung versorgt und das Kind beruhigt betreut, erst danach folgen Meldung und Bericht. Die Versorgung steht vor jedem Telefonat, weil Warten den Schaden vergrößert. Die Unfallmeldung an Direktion und Erziehungsberechtigte kommt unmittelbar danach. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L1-001",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Zuerst die blutende Wunde versorgen, das Kind beruhigen und nicht allein lassen.",
+      "Zuerst in Ruhe den Unfallbericht schreiben und dann nach dem Kind sehen.",
+      "Zuerst die Eltern anrufen und auf ihr Eintreffen warten, ohne etwas zu tun.",
+      "Zuerst die Klasse allein lassen und persönlich die Direktion suchen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Versorgen und Betreuen duldet keinen Aufschub.",
+      "Falsch: Papier kommt nach der Versorgung, nicht davor.",
+      "Falsch: Warten statt Helfen vergrößert den Schaden.",
+      "Falsch: Die Klasse darf nicht unbeaufsichtigt zurückbleiben."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Pause in einer Volksschule in Innsbruck: Lena, 8 Jahre, stürzt am Gang und blutet stark am Knie, sie weint und hat Angst. Du bist als Lehrerin gerade in der Nähe, die Klasse wartet im Zimmer nebenan.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Jonas bleibt liegen und wird von dir betreut, während eine zweite Person Hilfe und Rettung holt. Bewegen kann eine Wirbel- oder Bruchverletzung verschlimmern, deshalb gilt Liegenlassen bis zur Abklärung. Erst danach folgen Verständigung und Dokumentation. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L1-002",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Jonas sofort aufstellen und zum Weiterturnen motivieren, damit nichts steif wird.",
+      "Jonas liegen lassen, betreuen und über eine zweite Person Rettung und Direktion holen lassen.",
+      "Jonas allein in der Halle lassen und selbst zum Telefon laufen.",
+      "Jonas von Mitschülern in die Klasse tragen lassen und weiter unterrichten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aufstellen bei Bruchverdacht kann schwer schaden.",
+      "Richtig: Liegenlassen, betreuen und Hilfe holen ist die sichere Kette.",
+      "Falsch: Alleinlassen verletzt die Aufsichtspflicht.",
+      "Falsch: Transport durch Kinder ist gefährlich und unzulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Turnunterricht in einer Mittelschule in Hall: Jonas, 12 Jahre, fällt vom Kasten auf den Arm, der schnell anschwillt, er klagt über starke Schmerzen und kann die Hand kaum bewegen. Die restliche Klasse steht um ihn herum.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Der erste Schritt ist das sofortige Trennen und Sichern, damit niemand weiter verletzt wird. Erst wenn die Lage ruhig ist, folgen Befragung der Beteiligten und Meldung an Klassenvorstand und Direktion. Reden kommt nach dem Sichern. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L1-003",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "In Ruhe zusehen und abwarten, bis die beiden von selbst aufhören.",
+      "Sofort dazwischengehen, die beiden trennen und die Lage sichern.",
+      "Zuerst lange nach dem Grund fragen, während weiter geschlagen wird.",
+      "Beide sofort nach Hause schicken, ohne die Aufsicht zu klären."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zuschauen lässt Verletzungen zu und verletzt die Aufsicht.",
+      "Richtig: Trennen und Sichern stoppt zuerst weiteren Schaden.",
+      "Falsch: Fragen hilft erst, wenn niemand mehr schlägt.",
+      "Falsch: Wegschicken ohne Aufsicht und Meldung ist unzulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Pausenaufsicht am Hof einer Mittelschule in Schwaz: Zwei Burschen der zweiten Klasse raufen sich, einer schlägt weiter auf den am Boden liegenden Mitschüler ein, andere Kinder schauen zu und schreien. Du bist die aufsichtführende Lehrperson.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §44"
+    ]
+  },
+  {
+    "aufloesung": "Zuerst bringst du dich und die Klasse in Sicherheit und schaffst Abstand zum bedrohlichen Schüler. Eigene Heldentaten mit Festhalten oder Wegnehmen sind falsch, weil sie alles eskalieren. Danach folgen sofort Direktion und Polizei über Notruf. Zum Nachlesen: LDG §29",
+    "hauptquelle": "LDG §29",
+    "id": "X40-L1-004",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Dem Schüler das Messer selbst entreißen und ihn festhalten.",
+      "Klasse ruhig aus dem Gefahrenbereich bringen, Abstand schaffen und Hilfe holen.",
+      "Lautstark mit dem Schüler diskutieren, bis er das Messer freiwillig zeigt.",
+      "So tun, als wäre nichts, und den Unterricht normal fortsetzen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Selbst entwaffnen gefährdet dich und die Klasse.",
+      "Richtig: Abstand, Schutz der Klasse und Hilfe holen geht vor.",
+      "Falsch: Lautstarke Konfrontation eskaliert die Bedrohung.",
+      "Falsch: Ignorieren lässt die Gefahr weiter bestehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einer dritten Klasse in Wörgl zeigt ein Schüler nach einem Streit ein Taschenmesser und droht laut, es zu benutzen. Die Mitschüler haben Angst und drängen sich an der Tür, du stehst als Klassenlehrerin beim Pult.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der erste Schritt ist, Mia zu betreuen und nicht allein zu lassen, bis Hilfe oder Abholung da ist. Ein krankes Kind allein in den Gang zu setzen ist falsch, weil es stürzen oder sich verschlechtern kann. Danach folgen Verständigung der Erziehungsberechtigten und Eintrag. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L1-005",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Mia allein in den Gang setzen, damit sie die anderen nicht ansteckt.",
+      "Mia bei dir behalten und betreuen, bis Abholung oder Hilfe geklärt ist.",
+      "Mia allein zu Fuß nach Hause schicken.",
+      "Mia eine Tablette aus deiner Tasche geben und weiter unterrichten."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleinlassen im Gang ist Aufsichtspflichtverletzung.",
+      "Richtig: Betreuen bis zur Übergabe schützt das kranke Kind.",
+      "Falsch: Allein nach Hause schicken gefährdet das Kind.",
+      "Falsch: Private Medikamente geben ist untersagt."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Zweite Stunde in einer Volksschule in Kufstein: Mia, 7 Jahre, erbricht sich in der Klasse, sie glüht, zittert und weint. Die anderen Kinder rücken angeekelt weg, die Schulglocke hat gerade geläutet.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §15"
+    ]
+  },
+  {
+    "aufloesung": "Bei Atemnot und Schwellung nach dem Essen ist der erste Schritt der Notruf 144 mit Hinweis auf Allergie. Abwarten und nur Eltern rufen kostet lebenswichtige Minuten, weil ein Schock schnell eskaliert. Parallel wird das Kind betreut und die Rettungskette gestartet. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L1-006",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Abwarten, ob es von selbst besser wird, und nur die Eltern anrufen.",
+      "Sofort Notruf 144 mit Hinweis auf allergischen Schock, Kind betreuen.",
+      "Dem Kind Milch zum Nachspülen geben und weitermachen.",
+      "Das Kind zum Austoben auf den Hof schicken."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Abwarten bei Atemnot kann lebensgefährlich sein.",
+      "Richtig: Notruf mit Allergiehinweis rettet entscheidende Minuten.",
+      "Falsch: Essen oder Trinken geben verschlimmert die Lage.",
+      "Falsch: Wegschicken statt Betreuen ist grob falsch."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach der Jause in einer Volksschule in Lienz bekommt Elias, 9 Jahre, bekannt allergisch, rote Quaddeln, seine Lippen schwellen an und er bekommt schlecht Luft. Sein Notfallset liegt laut Klassenliste im Lehrerzimmer, du bist mit der Klasse im Raum.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Beim Alarm ist der erste Schritt das geordnete Sammeln und Evakuieren der eigenen Klasse nach Fluchtplan. Löschen oder Zurücklaufen ist falsch, weil Rauch und Panik die größte Gefahr sind. Vollzähligkeit wird am Sammelplatz gemeldet. Zum Nachlesen: TirSOG §45",
+    "hauptquelle": "TirSOG §45",
+    "id": "X40-L1-007",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Die Klasse sammeln und geordnet nach Fluchtplan zum Sammelplatz führen.",
+      "Allein zurücklaufen, um Schultaschen und Jacken zu holen.",
+      "Selbst den Brand suchen und löschen, Klasse allein lassen.",
+      "Die Schüler einzeln nach Hause entlassen, ohne zu melden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zurücklaufen in Rauch gefährdet Leben.",
+      "Richtig: Sammeln und Evakuieren nach Plan rettet alle.",
+      "Falsch: Löschen allein statt Klasse führen verletzt die Aufsicht.",
+      "Falsch: Entlassen ohne Meldung zerstört jede Vollzähligkeit."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Dienstagvormittag in einer Mittelschule in Imst: Der Feueralarm heult, aus dem Gang riecht es nach Rauch, deine Klasse der ersten Stufe sitzt noch auf den Plätzen und schaut dich an. Der Fluchtplan hängt an der Tür.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der erste Schritt ist das sofortige Nachfragen bei den Erziehungsberechtigten, wo das Kind ist. Unentschuldigtes Fehlen kann eine Gefahr für das Kind bedeuten, deshalb darf man nicht tagelang warten. Erst nach Klärung folgen Mahnung und Dokumentation. Zum Nachlesen: SchUG §15",
+    "hauptquelle": "SchUG §15",
+    "id": "X40-L1-008",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Gleich bei den Erziehungsberechtigten nachfragen, wo das Kind ist.",
+      "Abwarten, bis das Kind irgendwann wieder auftaucht.",
+      "Das Kind sofort von der Schule abmelden.",
+      "Den Eltern eine Strafanzeige ankündigen, ohne zu fragen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nachfragen klärt sofort, ob das Kind in Gefahr ist.",
+      "Falsch: Zuwarten lässt eine mögliche Notlage unentdeckt.",
+      "Falsch: Abmelden ohne Klärung ist unzulässig.",
+      "Falsch: Drohen vor Fragen zerstört jede Zusammenarbeit."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du bist Klassenvorstand einer zweiten Klasse in Telfs: Selina, 11 Jahre, fehlt seit Montag unentschuldigd, keine Krankmeldung liegt vor, Mitschüler wissen nichts. Es ist Mittwochfrüh und die Mutter hebt bisher nicht ab.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §44"
+    ]
+  },
+  {
+    "aufloesung": "Nach einer versäumten Frist ist der erste Schritt die sofortige ehrliche Meldung an die Direktion mit allen Unterlagen. Vertuschen oder Fälschen macht alles schlimmer, weil nur die offene Meldung noch Rettungswege offenhält. Gemeinsam wird geprüft, ob eine Nachholung möglich ist. Zum Nachlesen: LDG §29",
+    "hauptquelle": "LDG §29",
+    "id": "X40-L1-009",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Die versäumte Frist sofort der Direktion melden und alle Unterlagen vorlegen.",
+      "Das Datum auf dem Formular heimlich ändern und hoffen.",
+      "Nichts sagen und darauf vertrauen, dass es niemand merkt.",
+      "Den Eltern die Schuld geben und den Fall verdrängen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Offene Meldung hält Rettungswege und Vertrauen offen.",
+      "Falsch: Fälschen ist ein Dienstvergehen mit Folgen.",
+      "Falsch: Schweigen lässt die Frist endgültig verstreichen.",
+      "Falsch: Schuld zuschieben löst die Frist nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du hast als Lehrer in Reutte vergessen, den Antrag eines Schülers auf eine Prüfung fristgerecht weiterzuleiten, die Frist ist gestern abgelaufen. Die Eltern fragen heute nach dem Stand, der Schüler wartet auf seinen Termin.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §71"
+    ]
+  },
+  {
+    "aufloesung": "Der erste Schritt ist das laute Gespräch in einen ruhigen Raum mit Termin zu verlegen und zuzuhören. Mitten im Gang vor Kindern zu diskutieren eskaliert alles und verletzt alle Beteiligten. Erst im geschützten Rahmen folgen Klärung und Antwort. Zum Nachlesen: LDG §29",
+    "hauptquelle": "LDG §29",
+    "id": "X40-L1-010",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Vor allen Kindern im Gang laut zurückschimpfen und Recht behalten.",
+      "Vater ruhig in einen Nebenraum bitten, zuhören und Gesprächstermin anbieten.",
+      "Dem Vater sofort jede gewünschte Zusage geben, damit er geht.",
+      "Den Vater stehen lassen und weggehen, ohne ein Wort."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Retourkutsche vor Kindern eskaliert und schadet allen.",
+      "Richtig: Ruhiger Rahmen und Zuhören deeskalieren sofort.",
+      "Falsch: Leere Zusagen brechen später doppelt.",
+      "Falsch: Weggehen ohne Wort gießt Öl ins Feuer."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach Unterrichtsschluss in einer Volksschule in Jenbach beschimpft ein Vater dich lautstark im Gang, weil sein Sohn schlecht benotet wurde. Mehrere Kinder bleiben stehen und schauen zu, der Vater redet sich immer mehr in Rage.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §62"
+    ]
+  },
+  {
+    "aufloesung": "Der erste Schritt ist das sachliche Festhalten deiner Beobachtung und die Meldung an die Direktion. Wegschauen oder die Eltern sofort beschuldigen ist falsch, weil nur das geregelte Verfahren das Kind schützt. Die weitere Abklärung übernimmt die Leitung mit den zuständigen Stellen. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L1-011",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Beobachtung sachlich festhalten und sofort der Direktion melden.",
+      "So tun, als hättest du nichts gesehen, um Ärger zu vermeiden.",
+      "Die Eltern sofort zur Rede stellen und beschuldigen.",
+      "Das Kind vor der Klasse zu den Flecken befragen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Festhalten und Melden startet den Schutz des Kindes.",
+      "Falsch: Wegschauen lässt ein gefährdetes Kind allein.",
+      "Falsch: Beschuldigen gefährdet das Kind und das Verfahren.",
+      "Falsch: Befragen vor der Klasse beschämt und blockiert."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Beim Umziehen vor dem Turnen in einer Volksschule in Zirl fallen dir bei Nico, 8 Jahre, mehrere blaue Flecken an Armen und Rücken auf, er weicht deiner Frage aus und wirkt ängstlich. Es ist nicht das erste Mal in diesem Monat.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Der erste Schritt ist bei David zu bleiben und parallel die Erziehungsberechtigten zu kontaktieren. Das Kind allein zurückzulassen oder mit Fremden mitzugeben ist falsch, weil die Aufsicht bis zur Übergabe gilt. Erst nach der Übergabe wird der Vorfall dokumentiert. Zum Nachlesen: SchUG §51 Abs.3",
+    "hauptquelle": "SchUG §51 Abs.3",
+    "id": "X40-L1-012",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "David allein vor dem Tor warten lassen und gehen.",
+      "Bei David bleiben und die Erziehungsberechtigten kontaktieren.",
+      "David einer fremden Person zur Mitnahme übergeben.",
+      "David allein mit dem Bus nach Hause schicken, ohne Bescheid."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Alleinlassen verletzt die Aufsicht bis zur Übergabe.",
+      "Richtig: Bleiben und Kontaktieren sichert das Kind.",
+      "Falsch: Übergabe an Fremde gefährdet das Kind.",
+      "Falsch: Wegschicken ohne Verständigung ist unzulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Nach der sechsten Stunde in einer Volksschule in Landeck wurde David, 7 Jahre, noch immer nicht abgeholt, es regnet stark, das Schulhaus wird zugesperrt. David weint leise, das Handy der Mutter ist ausgeschaltet.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "TirSOG §45"
+    ]
+  },
+  {
+    "aufloesung": "Der erste Schritt ist das Sichern der Beweise durch Screenshots, bevor etwas gelöscht wird. Löschen oder Zurückbeleidigen vernichtet die Nachweise und heizt alles an. Danach folgen Meldung an Klassenvorstand und Direktion mit den Belegen. Zum Nachlesen: SchUG §44",
+    "hauptquelle": "SchUG §44",
+    "id": "X40-L1-013",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Alle Nachrichten sofort löschen, damit Ruhe ist.",
+      "Beweise sichern durch Screenshots und nichts löschen.",
+      "In der Gruppe wüst zurückbeleidigen und drohen.",
+      "Das Handy dem Opfer wegnehmen und verstecken."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Löschen vernichtet die einzigen Beweise.",
+      "Richtig: Sichern erhält Beweise für Klärung und Schutz.",
+      "Falsch: Zurückbeleidigen macht dich selbst zum Täter.",
+      "Falsch: Wegnehmen bestraft das Opfer statt zu helfen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Eine Mutter zeigt dir am Elternabend in Völs beleidigende Nachrichten und ein peinliches Foto ihres Sohnes, die seit Tagen in der Klassengruppe kursieren. Der Bub will nicht mehr in die Schule, ein Mitschüler droht mit weiterem Veröffentlichen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der erste Schritt ist die fremde Klasse zu beaufsichtigen, weil Aufsicht immer Vorrang hat. Die Supplierstunde vorzubereiten oder wegzugehen lässt Kinder ungeschützt, egal wie wichtig der Stoff ist. Organisatorisches folgt nach der Sicherung. Zum Nachlesen: LDG §43",
+    "hauptquelle": "LDG §43",
+    "id": "X40-L1-014",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Die Klasse allein lassen und in Ruhe die Supplierstunde vorbereiten.",
+      "Die Klasse sofort beaufsichtigen, Aufsicht geht vor Vorbereitung.",
+      "Ins Lehrerzimmer gehen und auf die Vertretung warten.",
+      "Den Klassensprecher mit der Aufsicht beauftragen und gehen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vorbereitung ersetzt niemals die Aufsicht.",
+      "Richtig: Aufsicht zuerst, alles andere danach.",
+      "Falsch: Warten im Lehrerzimmer lässt Kinder allein.",
+      "Falsch: Aufsicht an Schüler delegieren ist unzulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Du wirst kurzfristig zum Supplieren in eine dir fremde zweite Klasse in St. Johann geschickt, die seit zehn Minuten allein im Zimmer ist und bereits laut wird. Dein eigenes Material für die nächste Stunde liegt noch unkopiert im Lehrerzimmer.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der erste Schritt ist der ruhige Verweis auf den schriftlichen Weg, ohne am Telefon etwas zu versprechen. Telefonische Zusagen zu Noten sind falsch, weil sie anfechtbar sind und kein Verfahren ersetzen. Danach wird das Anliegen an Klassenvorstand und Direktion weitergeleitet. Zum Nachlesen: SchUG §71",
+    "hauptquelle": "SchUG §71",
+    "id": "X40-L1-015",
+    "level": "L1",
+    "modul_id": "X40",
+    "optionen": [
+      "Am Telefon sofort die bessere Note zusagen, damit Ruhe ist.",
+      "Ruhig auf den schriftlichen Weg verweisen und nichts versprechen.",
+      "Das Gespräch lautstark abbrechen und auflegen.",
+      "Der Mutter versprechen, die Arbeit verschwinden zu lassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Telefonische Notenzusage ist wirkungslos und pflichtwidrig.",
+      "Richtig: Schriftlicher Weg schützt alle und hält das Verfahren ein.",
+      "Falsch: Auflegen eskaliert statt zu klären.",
+      "Falsch: Arbeit verschwinden lassen ist Rechtsbruch."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am Freitagnachmittag ruft eine aufgebrachte Mutter in der Schule in Kitzbühel an und verlangt von dir, die Mathematikarbeit ihrer Tochter sofort um eine Note besser zu bewerten. Sie droht mit Beschwerde beim Landesschulrat, wenn du nicht gleich zusagst.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  }
+]
