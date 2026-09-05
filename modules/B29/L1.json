@@ -1,1 +1,422 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §61",
+    "id": "B29-L1-001",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Sie berichtet im Dienstweg der zuständigen Behörde über die dienstlichen Leistungen der Lehrerin.",
+      "Sie informiert nur die Eltern der Klasse über ihre Einschätzung der Lehrerin.",
+      "Ein kurzes Gespräch im Kollegium ersetzt den schriftlichen Bericht.",
+      "Sie muss gar nichts tun, Berichte sind immer freiwillig."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Bericht über die dienstlichen Leistungen geht im Dienstweg an die Behörde.",
+      "Falsch: Eltern sind nicht die Adresse für dienstliche Leistungsberichte.",
+      "Falsch: Ein Gespräch im Kollegium ersetzt den Dienstweg zur Behörde nicht.",
+      "Falsch: Die Berichtspflicht besteht, sie ist nicht beliebig."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Berger soll sich zur Arbeit einer Lehrerin an ihrer Volksschule äußern. Die Behörde braucht eine Grundlage für die Leistungsfeststellung. Berger fragt sich, an wen sie sich wenden muss und in welcher Form.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Berger berichtet schriftlich im Dienstweg an die zuständige Behörde. Der Leiter berichtet der Behörde über die dienstlichen Leistungen der Lehrkräfte, damit dort über die Leistung entschieden werden kann. Zum Nachlesen: LDG §61."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.1",
+    "id": "B29-L1-002",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Wie beliebt die Lehrkraft im Kollegium ist und wie lange sie schon dabei ist.",
+      "Umfang und Wertigkeit der Leistungen der Lehrkraft.",
+      "Ausschließlich die Anzahl der gehaltenen Unterrichtsstunden.",
+      "Nur die Noten, die die Klasse im Zeugnis erreicht hat."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beliebtheit und Dienstalter sind keine Beurteilungsmaßstäbe.",
+      "Richtig: Umfang und Wertigkeit der Leistungen entscheiden über die Feststellung.",
+      "Falsch: Die reine Stundenzahl sagt nichts über Umfang und Wertigkeit aus.",
+      "Falsch: Klassenergebnisse allein ersetzen die Beurteilung der Leistung nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Mittelschule steht eine Leistungsfeststellung für Lehrer Steiner an. Im Kollegium wird diskutiert, worauf es dabei eigentlich ankommt. Steiner meint, Sympathie und Dienstalter müssten den Ausschlag geben.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Es zählen Umfang und Wertigkeit von Steiners Leistungen. Für die Feststellung ist maßgebend, was und wie gut die Lehrkraft leistet, nicht wie beliebt oder lange dabei sie ist. Zum Nachlesen: LDG §62 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.2 Z1",
+    "id": "B29-L1-003",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Dass der vorgeschriebene Lehrstoff nach dem Stand der Wissenschaft und mit passenden Unterrichtsmethoden vermittelt wird.",
+      "Dass möglichst viele Arbeitsblätter ausgeteilt werden, egal mit welcher Methode.",
+      "Dass der Lehrstoff frei erfunden wird, um den Unterricht spannender zu machen.",
+      "Dass nur still abgeschrieben wird, damit es ruhig in der Klasse ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Lehrstoff nach Wissenschaftsstand mit passender Didaktik und Methodik ist verlangt.",
+      "Falsch: Die Menge an Zetteln sagt nichts über fachgerechte Vermittlung aus.",
+      "Falsch: Erfundenes statt vorgeschriebenem Lehrstoff verletzt die Vermittlungspflicht.",
+      "Falsch: Stilles Abschreiben erfüllt weder Wissenschafts- noch Methodenanspruch."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Professor Hofer unterrichtet seit Jahren nach veralteten Unterlagen und ohne erkennbare Unterrichtsmethode. Die Direktion prüft, welcher Maßstab für die fachliche Vermittlung des Lehrstoffs gilt. Hofer findet seine Routine völlig ausreichend.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Hofer muss den vorgeschriebenen Lehrstoff fachlich aktuell und methodisch passend vermitteln. Verlangt sind der Stand der Wissenschaft und die zum Fach passenden didaktischen und methodischen Grundsätze. Zum Nachlesen: LDG §62 Abs.2 Z1."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.2 Z2",
+    "id": "B29-L1-004",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Nur das Fachwissen zählt, Erziehung ist allein Sache der Eltern.",
+      "Das erzieherische Wirken gehört zu den Beurteilungsmerkmalen.",
+      "Erziehung darf im Unterricht keine Rolle spielen.",
+      "Wichtig ist nur, dass die Klasse leise ist, egal wie das erreicht wird."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erziehung gehört ausdrücklich zum Auftrag der Lehrkraft dazu.",
+      "Richtig: Das erzieherische Wirken wird bei der Leistung mitbeurteilt.",
+      "Falsch: Weglassen der Erziehung widerspricht dem Beurteilungsmerkmal.",
+      "Falsch: Ruhe um jeden Preis ist kein erzieherisches Wirken."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Moser liefert fachlich solide Stunden, um Erziehung kümmert sie sich aber grundsätzlich nicht. Bei Konflikten in der Klasse schaut sie weg und verweist auf das Elternhaus. Die Direktion fragt, ob das für die Beurteilung eine Rolle spielt.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Mosers fehlendes erzieherisches Wirken fließt in die Beurteilung ein. Neben der Stoffvermittlung zählt ausdrücklich, wie die Lehrkraft erzieherisch auf die Schülerinnen und Schüler wirkt. Zum Nachlesen: LDG §62 Abs.2 Z2."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.2 Z3",
+    "id": "B29-L1-005",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Sie kann allein arbeiten und muss mit niemandem sprechen.",
+      "Die Zusammenarbeit mit Kollegium und Erziehungsberechtigten gehört zur Beurteilung.",
+      "Elterngespräche sind freiwilliges Hobby ohne dienstliche Bedeutung.",
+      "An Berufsschulen zählen zusätzlich die Lehrberechtigten nicht mit."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einzelgängertum verletzt die geforderte Zusammenarbeit.",
+      "Richtig: Zusammenarbeit mit Lehrerkollegium und Erziehungsberechtigten wird beurteilt.",
+      "Falsch: Gespräche mit Eltern gehören zur erforderlichen Zusammenarbeit dazu.",
+      "Falsch: An Berufsschulen kommen die Lehrberechtigten ausdrücklich dazu."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Wieser verweigert jede Absprache mit dem Klassenteam und sagt alle Elterngespräche ab. Er meint, guter Unterricht brauche keine Zusammenarbeit. Die Direktion prüft, ob dieses Verhalten beurteilt werden darf.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Wiesers Verweigerung zählt bei der Beurteilung mit. Beurteilt wird auch die für Unterricht und Erziehung nötige Zusammenarbeit mit den anderen Lehrkräften und den Erziehungsberechtigten, an Berufsschulen zusätzlich mit den Lehrberechtigten. Zum Nachlesen: LDG §62 Abs.2 Z3."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.2 Z4",
+    "id": "B29-L1-006",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Übertragene Aufgaben wie Klassenvorstand oder Kustodiat und administrative Arbeiten zählen bei der Beurteilung mit.",
+      "Klassenvorstand und Kustodiat sind reine Ehrensache ohne jede Beurteilung.",
+      "Administrative Aufgaben darf die Direktion nie in die Beurteilung einbeziehen.",
+      "Wer Klassenvorstand ist, wird automatisch immer positiv beurteilt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Übertragene Funktionen und administrative Aufgaben sind Beurteilungsmerkmale.",
+      "Falsch: Diese Funktionen sind ausdrücklich Teil der Beurteilung.",
+      "Falsch: Gerade die administrativen Aufgaben gehören ausdrücklich dazu.",
+      "Falsch: Automatisch positiv gibt es nicht, es kommt auf die Erfüllung an."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger ist Klassenvorständin und Kustodin der Lehrmittelsammlung. Beides lässt sie schleifen, Akten und Listen bleiben unerledigt. Sie meint, für die Leistungsbeurteilung zähle ohnehin nur der reine Unterricht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Eggers Versäumnisse bei Funktion und Verwaltung zählen mit. Beurteilt wird auch, wie übertragene Aufgaben wie Klassenvorstand oder Kustodiat und die administrativen Arbeiten erfüllt werden. Zum Nachlesen: LDG §62 Abs.2 Z4."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.1 Z1",
+    "id": "B29-L1-007",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Leiter berichtet über die Lehrkraft, weil sie den erwarteten Arbeitserfolg durch besondere Leistungen erheblich übertroffen hat.",
+      "Der Leiter darf nur berichten, wenn die Lehrkraft einmal zu spät gekommen ist.",
+      "Besondere Leistungen dürfen nie zu einem Bericht führen.",
+      "Ein Bericht ist nur bei Beschwerden von Eltern erlaubt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erheblich übertroffene Erwartungen durch besondere Leistungen lösen einen Bericht aus.",
+      "Falsch: Einmaliges Zuspätkommen ist kein Fall für einen besonderen Bericht.",
+      "Falsch: Gerade besondere Leistungen sind ein ausdrücklich genannter Berichtsanlass.",
+      "Falsch: Elternbeschwerden allein sind kein solcher Berichtsanlass."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Professor Aigner leistet über ein ganzes Schuljahr hinweg Herausragendes in Unterricht, Betreuung und Schulentwicklung. Die Direktorin überlegt, ob sie darüber an die Behörde berichten soll. Aigner selbst hofft auf eine Feststellung seiner besonderen Leistungen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Die Direktorin berichtet über Aigners besondere Leistungen an die Behörde. Wer den zu erwartenden Arbeitserfolg durch besondere Leistungen erheblich überschreitet, ist ein Fall für den Bericht aus besonderem Anlass. Zum Nachlesen: LDG §63 Abs.1 Z1."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.1 Z2",
+    "id": "B29-L1-008",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Eine einzige mündliche Erinnerung genügt für einen Bericht wegen schwacher Leistung.",
+      "Der Leiter berichtet, weil die Lehrkraft trotz zweimaliger nachweislicher Ermahnung den erwarteten Arbeitserfolg nicht zeigt.",
+      "Nach einer Ermahnung darf nie wieder ermahnt werden.",
+      "Schwache Leistung ist niemals ein Grund für einen Bericht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine einzige Erinnerung reicht für diesen Bericht nicht aus.",
+      "Richtig: Zweimalige nachweisliche Ermahnung ohne Besserung löst den Bericht aus.",
+      "Falsch: Genau eine zweite Ermahnung ist hier sogar vorgesehen.",
+      "Falsch: Anhaltend fehlender Arbeitserfolg ist ein ausdrücklicher Berichtsanlass."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Kaufmann zeigt über Monate schwache Leistungen und wurde bereits zweimal nachweislich ermahnt, ohne dass sich etwas gebessert hat. Der Direktor fragt sich, ob er jetzt an die Behörde berichten muss. Kaufmann meint, Ermahnungen seien folgenlos.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Der Direktor berichtet über Kaufmann an die Behörde. Wer trotz zweimaliger nachweislicher Ermahnung den zu erwartenden Arbeitserfolg nicht aufweist, ist ein Fall für den Bericht aus besonderem Anlass. Zum Nachlesen: LDG §63 Abs.1 Z2."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.1 Z2",
+    "id": "B29-L1-009",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Die zweite Ermahnung muss frühestens drei und spätestens fünf Monate nach der ersten erfolgen.",
+      "Beide Ermahnungen können am selben Tag ausgesprochen werden.",
+      "Zwischen den Ermahnungen muss mindestens ein Jahr liegen.",
+      "Der Abstand ist völlig egal und frei wählbar."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Genau dieses Zeitfenster von drei bis fünf Monaten ist einzuhalten.",
+      "Falsch: Am selben Tag fehlt die Bewährungszeit zwischen den Ermahnungen.",
+      "Falsch: Ein Jahr Abstand sprengt das vorgesehene Zeitfenster.",
+      "Falsch: Der Abstand ist gesetzlich festgelegt und nicht beliebig."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Pichler hat eine Lehrerin wegen schwacher Leistung ermahnt und plant die zweite Ermahnung. Er überlegt, ob er gleich morgen nachlegen oder ein halbes Jahr warten soll. Die Personalvertretung fragt nach dem richtigen Abstand.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Pichler setzt die zweite Ermahnung drei bis fünf Monate nach der ersten an. Die zweite Ermahnung darf frühestens drei und muss spätestens fünf Monate nach der ersten erfolgen, sonst trägt sie den weiteren Bericht nicht. Zum Nachlesen: LDG §63 Abs.1 Z2."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.3",
+    "id": "B29-L1-010",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Ein Bericht ist schon nach zwei Wochen Dienst im Schuljahr möglich.",
+      "Berichtet werden darf nur, wer im Schuljahr vor dem Bericht mindestens dreizehn Wochen Dienst versehen hat.",
+      "Die Dienstzeit im Schuljahr spielt für einen Bericht keine Rolle.",
+      "Es genügt ein einziger Arbeitstag, um berichtet zu werden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zwei Wochen Dienst reichen für einen solchen Bericht nicht.",
+      "Richtig: Mindestens dreizehn Wochen Dienst im Schuljahr davor sind nötig.",
+      "Falsch: Ohne ausreichende Dienstzeit fehlt die Beurteilungsgrundlage.",
+      "Falsch: Ein Tag gibt keine ausreichende Grundlage für einen Bericht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Brunner war im laufenden Schuljahr fast durchgehend abwesend und hat nur wenige Wochen unterrichtet. Der Direktor überlegt dennoch einen Bericht wegen schwacher Leistung. Brunner war kaum im Dienst zu sehen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Ohne mindestens dreizehn Wochen Dienst im Schuljahr davor gibt es keinen solchen Bericht. Erst ab dieser Mindestdienstzeit liegt genug Anschauung für einen Bericht aus besonderem Anlass vor. Zum Nachlesen: LDG §63 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.3",
+    "id": "B29-L1-011",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Auch bei unverschuldeter, nur vorübergehender Schwäche muss berichtet werden.",
+      "Ein Bericht ist nicht zu erstatten, wenn der Arbeitserfolg ohne Verschulden nur vorübergehend fehlt.",
+      "Jede kurze Krankheit führt automatisch zu einem Bericht.",
+      "Verschulden spielt für den Bericht grundsätzlich keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Unverschuldete vorübergehende Schwäche löst gerade keinen Bericht aus.",
+      "Richtig: Ohne Verschulden und nur vorübergehend bleibt der Bericht aus.",
+      "Falsch: Krankheit allein ist kein automatischer Berichtsanlass.",
+      "Falsch: Das fehlende Verschulden schützt hier ausdrücklich vor dem Bericht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber fällt nach einem Unfall einige Wochen aus und erreicht vorübergehend nicht seine üblichen Ergebnisse. Ansonsten arbeitet er verlässlich und einwandfrei. Die Direktion überlegt, ob sie wegen dieser Phase berichten soll.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Über Gruber wird wegen dieser Phase nicht berichtet. Bleibt der Arbeitserfolg ohne sein Verschulden nur vorübergehend aus, ist kein Bericht zu erstatten. Zum Nachlesen: LDG §63 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §63a Abs.1",
+    "id": "B29-L1-012",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Das laufende Kalenderjahr ab Jänner zählt als Beurteilungszeitraum.",
+      "Der Beurteilungszeitraum für besondere Leistungen ist das vorangegangene Schuljahr.",
+      "Es zählt nur der letzte Monat vor dem Bericht.",
+      "Der Zeitraum wird jedes Mal frei erfunden."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Kalenderjahr ist nicht der Maßstab für diesen Zeitraum.",
+      "Richtig: Das vorangegangene Schuljahr ist der Beurteilungszeitraum.",
+      "Falsch: Ein Monat ist deutlich zu kurz für diese Beurteilung.",
+      "Falsch: Der Zeitraum ist festgelegt und nicht frei wählbar."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Professor Steiner soll wegen besonderer Leistungen festgestellt werden. Die Direktion streitet, welcher Zeitraum dafür zu betrachten ist. Steiner verweist auf seine starken Leistungen im vergangenen Schuljahr.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Betrachtet wird Steiners vorangegangenes Schuljahr. Für die Feststellung besonderer Leistungen gilt das vorige Schuljahr als Beurteilungszeitraum. Zum Nachlesen: LDG §63a Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §64 Abs.1",
+    "id": "B29-L1-013",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Leiter berichtet heimlich, ohne die Lehrkraft vorher zu informieren.",
+      "Der Leiter teilt der Lehrkraft seine Berichtsabsicht mit, bespricht die Gründe und gibt vor Weiterleitung zwei Wochen Zeit für eine Stellungnahme.",
+      "Eine Stellungnahme der Lehrkraft ist grundsätzlich verboten.",
+      "Zwei Wochen Bedenkzeit sind viel zu lang und entfallen immer."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Heimliche Berichte ohne vorherige Befassung sind nicht vorgesehen.",
+      "Richtig: Absicht mitteilen, Gründe besprechen und zwei Wochen Stellungnahme gewähren.",
+      "Falsch: Die Stellungnahme ist ausdrücklich vorgesehen und weiterzuleiten.",
+      "Falsch: Die zwei Wochen stehen der Lehrkraft ausdrücklich zu."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Hofer will über eine Lehrerin an die Behörde berichten. Die Lehrerin erfährt davon nur gerüchteweise und bekommt keine Gelegenheit, sich zu äußern. Sie verlangt ein faires Verfahren vor der Weiterleitung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Hofer muss die Lehrerin vorher anhören und ihr zwei Wochen für eine Stellungnahme geben. Die Berichtsabsicht ist mitzuteilen, die Gründe sind zu besprechen, und vor der Weiterleitung steht die Äußerungsfrist zu. Zum Nachlesen: LDG §64 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §65 Abs.1",
+    "id": "B29-L1-014",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Antrag ist jederzeit im Jahr ohne jede Frist möglich.",
+      "Der Antrag kann ab Beginn der zweiten Hälfte des Unterrichtsjahres bis zum folgenden 31. Oktober gestellt werden.",
+      "Ein Antrag ist nur in der ersten Schulwoche im September zulässig.",
+      "Nach dem 31. Oktober verlängert sich die Frist automatisch um ein Jahr."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ohne Frist läuft der Antrag ins Leere.",
+      "Richtig: Zweite Unterrichtshälfte bis 31. Oktober danach ist das Antragsfenster.",
+      "Falsch: Die erste Septemberwoche ist nicht das vorgesehene Fenster.",
+      "Falsch: Eine automatische Verlängerung gibt es nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Huber ist überzeugt, dass sie in diesem Schuljahr Herausragendes leistet, und will selbst eine Feststellung beantragen. Es ist Ende November, das Unterrichtsjahr läuft bereits. Sie fragt, bis wann so ein Antrag möglich ist.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Huber kann den Antrag ab der zweiten Unterrichtshälfte bis zum 31. Oktober danach stellen. Wer meint, durch besondere Leistungen erheblich übertroffen zu haben, beantragt die Feststellung in genau diesem Fenster. Zum Nachlesen: LDG §65 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §68",
+    "id": "B29-L1-015",
+    "level": "L1",
+    "modul_id": "B29",
+    "optionen": [
+      "Sie sind an Weisungen der Direktion gebunden und stimmen sich vorher ab.",
+      "Sie sind in Ausübung dieses Amtes selbständig und unabhängig.",
+      "Sie entscheiden nach Sympathie und Zuruf aus dem Kollegium.",
+      "Sie brauchen für jede Feststellung die Zustimmung der betroffenen Lehrkraft."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Weisungsbindung widerspricht ihrer vorgesehenen Stellung.",
+      "Richtig: Selbständigkeit und Unabhängigkeit prägen ihre Arbeit.",
+      "Falsch: Sympathie und Zuruf sind keine Entscheidungsgrundlage.",
+      "Falsch: Eine Zustimmung der Lehrkraft ist nicht erforderlich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule soll eine Kommission bei einer Leistungsfeststellung mitwirken, wie es die Landesregelung vorsieht. Die Direktion will den Mitgliedern vorgeben, wie sie zu entscheiden haben. Ein Mitglied fragt nach seiner Stellung.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Das Mitglied entscheidet selbständig und unabhängig. Soweit Kommissionen für die Leistungsfeststellung vorgesehen sind, arbeiten ihre Mitglieder in diesem Amt weisungsfrei. Zum Nachlesen: LDG §68."
+  }
+]

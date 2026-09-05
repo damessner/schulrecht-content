@@ -1,1 +1,524 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §64 Abs.1",
+    "id": "B29-L2-001",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Die Absicht, einen Bericht zu erstatten, der Lehrkraft mitteilen.",
+      "Die Gründe des Vorhabens mit der Lehrkraft besprechen.",
+      "Vor der Weiterleitung zwei Wochen Gelegenheit zur Stellungnahme geben.",
+      "Die Stellungnahme der Lehrkraft dem Bericht anschließen und im Dienstweg übermitteln.",
+      "Heimlich berichten, ohne die Lehrkraft vorher zu informieren.",
+      "Die Lehrkraft zur Unterschrift unter den Bericht zwingen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Berichtsabsicht ist der Lehrkraft vorher mitzuteilen.",
+      "Richtig: Die Gründe gehören in ein Gespräch mit der Lehrkraft.",
+      "Richtig: Zwei Wochen Äußerungsfrist stehen vor der Weiterleitung zu.",
+      "Richtig: Stellungnahme anschließen und alles im Dienstweg weiterleiten.",
+      "Falsch: Heimliche Berichte ohne Befassung sind nicht vorgesehen.",
+      "Falsch: Eine Unterschriftspflicht unter den Bericht gibt es nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Hofer will über eine Lehrerin berichten und schickt den Bericht sofort los, ohne mit ihr zu sprechen. Die Lehrerin erfährt erst hinterher davon und bekommt keine Chance zur Stellungnahme. Die Personalvertretung prüft mit einer Checkliste, was vor der Weiterleitung alles versäumt wurde.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Hofer muss die Lehrerin vorher anhören und den Bericht mit ihrer Stellungnahme im Dienstweg weiterleiten. Die Absicht ist mitzuteilen, die Gründe sind zu besprechen, und vor der Weiterleitung stehen zwei Wochen für die Stellungnahme zu. Zum Nachlesen: LDG §64 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §65",
+    "id": "B29-L2-002",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Antrag setzt die Meinung voraus, durch besondere Leistungen erheblich übertroffen zu haben.",
+      "Das Antragsfenster läuft ab der zweiten Hälfte des Unterrichtsjahres bis zum 31. Oktober danach.",
+      "Der Leiter nimmt unverzüglich Stellung und gibt zwei Wochen Gelegenheit zur Äußerung.",
+      "Der Antrag geht mit Stellungnahme unverzüglich im Dienstweg an die Behörde.",
+      "Jeder Antrag ist ohne Begründung jederzeit im Jahr möglich.",
+      "Der Leiter darf den Antrag einfach in der Schublade verschwinden lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur die erhebliche Überschreitung durch besondere Leistungen trägt den Antrag.",
+      "Richtig: Genau dieses Fenster von der zweiten Hälfte bis Ende Oktober gilt.",
+      "Richtig: Unverzügliche Stellungnahme des Leiters plus zwei Wochen Äußerungsfrist.",
+      "Richtig: Weiterleitung im Dienstweg mit allen Stellungnahmen ist Pflicht.",
+      "Falsch: Ohne Anlass und außerhalb des Fensters läuft der Antrag ins Leere.",
+      "Falsch: Liegenlassen verletzt die Pflicht zur unverzüglichen Weiterleitung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Huber will selbst eine Feststellung ihrer besonderen Leistungen beantragen. Der Direktor will den Antrag erst gar nicht weiterleiten und meint, Fristen gälten hier keine. Huber prüft mit einer Checkliste, worauf es bei ihrem Antrag ankommt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Hubers Antrag braucht Anlass, Frist und den Weg über den Dienstweg. Er setzt erheblich übertroffene Erwartungen voraus, läuft ab der zweiten Unterrichtshälfte bis zum 31. Oktober danach und geht mit Stellungnahme des Leiters unverzüglich an die Behörde. Zum Nachlesen: LDG §65."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.1 Z2",
+    "id": "B29-L2-003",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Es braucht zwei Ermahnungen wegen des fehlenden Arbeitserfolgs.",
+      "Beide Ermahnungen müssen nachweislich erfolgt sein.",
+      "Die zweite Ermahnung liegt drei bis fünf Monate nach der ersten.",
+      "Der Beurteilungszeitraum reicht bis drei Monate nach der zweiten Ermahnung.",
+      "Eine einzige formlose Erinnerung genügt für den Bericht.",
+      "Beide Ermahnungen dürfen am selben Tag ausgesprochen werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zweimaligkeit ist Voraussetzung für diesen Berichtsweg.",
+      "Richtig: Nachweislichkeit schützt vor Streit über mündliche Hinweise.",
+      "Richtig: Das Drei-bis-fünf-Monate-Fenster ist zwingend einzuhalten.",
+      "Richtig: Drei Monate nach der zweiten Ermahnung endet der Beurteilungszeitraum.",
+      "Falsch: Eine formlose Erinnerung trägt den Bericht nicht.",
+      "Falsch: Am selben Tag fehlt jede Bewährungszeit dazwischen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktor Pichler will über Lehrer Kaufmann wegen dauerhaft schwacher Leistung berichten. Bisher gab es nur ein formloses Gespräch unter vier Augen vor zwei Wochen. Pichler prüft mit einer Checkliste, ob die Ermahnungskette für einen Bericht bereits trägt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Pichlers formloses Gespräch trägt einen Bericht noch nicht, die Ermahnungs-Checkliste ist nicht erfüllt. Es braucht zwei nachweisliche Ermahnungen im Abstand von drei bis fünf Monaten, der Zeitraum reicht bis drei Monate nach der zweiten. Zum Nachlesen: LDG §63 Abs.1 Z2."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.2",
+    "id": "B29-L2-004",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Vermittlung des vorgeschriebenen Lehrstoffs nach Wissenschaftsstand mit passender Didaktik und Methodik.",
+      "Das erzieherische Wirken auf die Schülerinnen und Schüler.",
+      "Die erforderliche Zusammenarbeit mit Kollegium und Erziehungsberechtigten.",
+      "Die Erfüllung übertragener Funktionen und administrativer Aufgaben.",
+      "Die private Beliebtheit im Kollegium und die Länge der Dienstzeit.",
+      "Die Automarke und die Hobbys der Lehrkraft in der Freizeit."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Fachgerechte Stoffvermittlung ist das erste Beurteilungsmerkmal.",
+      "Richtig: Erzieherisches Wirken gehört ausdrücklich zur Beurteilung dazu.",
+      "Richtig: Zusammenarbeit mit Kollegium und Eltern wird mitbeurteilt.",
+      "Richtig: Funktionen und Verwaltung zählen ebenfalls zur Leistung.",
+      "Falsch: Beliebtheit und Dienstalter sind keine Beurteilungsmerkmale.",
+      "Falsch: Private Lebensführung gehört nicht in die dienstliche Beurteilung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Mittelschule steht die Beurteilung von Lehrer Steiner an. Die Direktion legt eine Checkliste mit allen Merkmalen an, die für Lehrkräfte gelten. Steiner meint, nur seine Unterrichtsstunden dürften zählen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Steiner wird nach allen vier Merkmalen beurteilt, nicht nur nach Stunden. Stoffvermittlung nach Wissenschaftsstand mit passender Methode, erzieherisches Wirken, Zusammenarbeit und Funktionen mit Verwaltung bilden gemeinsam die Grundlage. Zum Nachlesen: LDG §62 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.4",
+    "id": "B29-L2-005",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Das erzieherische Wirken gegenüber den anvertrauten Kindern und Jugendlichen.",
+      "Die Kenntnis der Schüler und ihrer individuellen Lage.",
+      "Die erforderliche Zusammenarbeit mit anderen Erziehern, Lehrern und Erziehungsberechtigten.",
+      "Die Erfüllung übertragener Erziehungsaufgaben und administrativer Arbeiten.",
+      "Die reine Anzahl der Nachtdienste ohne Blick auf die Qualität.",
+      "Die private Meinung des Erziehers über das Schulessen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erzieherisches Wirken ist das erste Merkmal bei Erziehern.",
+      "Richtig: Kenntnis der Kinder und ihrer Lage gehört dazu.",
+      "Richtig: Zusammenarbeit mit Erziehern, Lehrern und Eltern wird beurteilt.",
+      "Richtig: Erziehungsaufgaben und Verwaltung zählen zur Leistung.",
+      "Falsch: Die reine Dienstanzahl ersetzt die Beurteilung der Qualität nicht.",
+      "Falsch: Private Meinungen über das Essen sind kein Beurteilungsmerkmal."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Erzieher Berger arbeitet im Internat einer Sonderschule. Die Leitung prüft mit einer Checkliste, nach welchen Merkmalen seine Leistung zu beurteilen ist. Berger meint, für Erzieher gebe es gar keine festen Maßstäbe.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Berger wird nach den eigenen Erziehermerkmalen beurteilt, feste Maßstäbe gibt es auch hier. Erzieherisches Wirken, Kenntnis der Kinder und ihrer Lage, Zusammenarbeit und die Erfüllung der Erziehungs- und Verwaltungsaufgaben zählen gemeinsam. Zum Nachlesen: LDG §62 Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §62 Abs.3",
+    "id": "B29-L2-006",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Bei Religionslehrern sind für die Stoffvermittlung die Beauftragten der Kirchen und Religionsgemeinschaften zuständig.",
+      "Bei Religionslehrern beurteilt der Leiter das erzieherische Wirken, die Zusammenarbeit und die Funktionen.",
+      "Bei Schulleitern ist besonders auf die gesetzlichen Leitungsaufgaben Bedacht zu nehmen.",
+      "Erteilt der Leiter selbst Unterricht, gilt auch der Maßstab für Lehrkräfte.",
+      "Religionslehrer werden überhaupt nie beurteilt.",
+      "Schulleiter sind von jeder Beurteilung ausgenommen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Für den Glaubensstoff sind die kirchlichen Beauftragten zuständig.",
+      "Richtig: Die übrigen Merkmale beurteilt der Leiter wie sonst auch.",
+      "Richtig: Die Erfüllung der Leitungsaufgaben steht bei Leitern im Vordergrund.",
+      "Richtig: Eigener Unterricht des Leiters wird nach dem Lehrermaßstab beurteilt.",
+      "Falsch: Auch Religionslehrer werden beurteilt, nur arbeitsteilig.",
+      "Falsch: Auch Leiter werden beurteilt, mit eigenem Schwerpunkt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Volksschule arbeiten eine Religionslehrerin und ein Schulleiter, der selbst einige Stunden unterrichtet. Die Behörde fragt, wer hier was zu beurteilen hat. Beide meinen, für sie gälten die normalen Maßstäbe gar nicht.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Für Religionslehrerin und Schulleiter gelten eigene Zuständigkeiten, beurteilt werden beide. Den Glaubensstoff verantworten die kirchlichen Beauftragten, alles Übrige der Leiter, bei Leitern stehen die Leitungsaufgaben im Vordergrund und eigener Unterricht nach dem Lehrermaßstab. Zum Nachlesen: LDG §62 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.1",
+    "id": "B29-L2-007",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Die Lehrkraft hat den erwarteten Arbeitserfolg durch besondere Leistungen erheblich überschritten.",
+      "Die Lehrkraft weist trotz zweimaliger nachweislicher Ermahnung den Arbeitserfolg nicht auf.",
+      "Dienst- oder Schulbehörde verlangen einen Bericht, weil die Feststellung für eine dienstrechtliche Maßnahme wichtig ist.",
+      "Jede kleine Unpünktlichkeit löst automatisch einen Bericht aus.",
+      "Ein Bericht ist auf bloßen Wunsch einzelner Eltern zu erstatten.",
+      "Über herausragende Kolleginnen darf grundsätzlich nie berichtet werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erhebliche Überschreitung durch besondere Leistungen ist ein Berichtsfall.",
+      "Richtig: Zweimalige Ermahnung ohne Besserung ist der zweite Berichtsfall.",
+      "Richtig: Auch das behördliche Verlangen bei dienstrechtlicher Bedeutung löst einen Bericht aus.",
+      "Falsch: Kleine Einzelpannen sind kein Fall für den besonderen Bericht.",
+      "Falsch: Elternwünsche allein begründen keinen solchen Bericht.",
+      "Falsch: Gerade besondere Leistungen sind ein ausdrücklicher Berichtsanlass."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Berger prüft zu Schulschluss, über wen sie an die Behörde berichten muss. Im Kollegium gibt es eine herausragende Lehrerin, einen dauerhaft schwachen Lehrer nach zwei Ermahnungen und ein behördliches Ersuchen wegen einer geplanten Maßnahme. Sie legt eine Checkliste der Berichtsanlässe an.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Alle drei Fälle auf Bergers Checkliste lösen einen Bericht aus, Kleinigkeiten nicht. Erheblich übertroffene Erwartungen, zweimalige Ermahnung ohne Besserung und das behördliche Verlangen bei dienstrechtlicher Bedeutung sind die Berichtsanlässe. Zum Nachlesen: LDG §63 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §63 Abs.3",
+    "id": "B29-L2-008",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Im Schuljahr vor dem Bericht sind mindestens dreizehn Wochen Dienst nötig.",
+      "Bleibt der Erfolg ohne Verschulden nur vorübergehend aus, ist kein Bericht zu erstatten.",
+      "Für die neuerliche Feststellung nach einer negativen Beurteilung gilt die Wochenmindestzeit nicht.",
+      "Schon zwei Wochen Anwesenheit genügen für jeden Bericht.",
+      "Jede Krankheitsphase führt automatisch zu einem Bericht an die Behörde.",
+      "Verschulden spielt für den Bericht überhaupt keine Rolle."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dreizehn Wochen Dienst sichern die Beurteilungsgrundlage vor dem Bericht.",
+      "Richtig: Unverschuldete vorübergehende Schwäche bleibt ohne Bericht.",
+      "Richtig: Bei der neuerlichen Feststellung nach negativer Beurteilung entfällt diese Hürde.",
+      "Falsch: Zwei Wochen geben keine ausreichende Grundlage für einen Bericht.",
+      "Falsch: Krankheit allein löst keinen automatischen Bericht aus.",
+      "Falsch: Fehlendes Verschulden schützt hier ausdrücklich vor dem Bericht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber war im Schuljahr lange krank, zeitweise unverschuldet und nur vorübergehend geschwächt. Der Direktor überlegt dennoch einen Bericht wegen schwacher Leistung und prüft die Schutzgrenzen. Gruber war insgesamt nur wenige Wochen im Dienst.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Über Gruber wird wegen dieser Phase nicht berichtet, die Schutzgrenzen greifen. Dreizehn Wochen Dienst sichern die Grundlage, unverschuldete vorübergehende Schwäche bleibt ohne Bericht, nur bei der neuerlichen Prüfung nach negativer Beurteilung entfällt die Wochenhürde. Zum Nachlesen: LDG §63 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §63a",
+    "id": "B29-L2-009",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Für besondere Leistungen gilt das vorangegangene Schuljahr als Beurteilungszeitraum.",
+      "Für fehlenden Arbeitserfolg läuft der Zeitraum von der ersten Ermahnung bis drei Monate nach der zweiten.",
+      "Das Kalenderjahr ab Jänner ist der allgemeine Beurteilungszeitraum.",
+      "Es genügt, nur die letzte Woche vor dem Bericht zu betrachten.",
+      "Der Zeitraum wird in jedem Fall frei nach Gefühl gewählt.",
+      "Beide Zeiträume lassen sich beliebig gegeneinander austauschen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das vorige Schuljahr ist der Zeitraum für besondere Leistungen.",
+      "Richtig: Von erster Ermahnung bis drei Monate nach der zweiten reicht der zweite Zeitraum.",
+      "Falsch: Das Kalenderjahr ist nicht der vorgesehene Maßstab.",
+      "Falsch: Eine einzige Woche trägt keine Leistungsfeststellung.",
+      "Falsch: Beide Zeiträume sind festgelegt und nicht frei wählbar.",
+      "Falsch: Jeder Zeitraum gehört zu seinem eigenen Feststellungsfall."
+    ],
+    "richtig": [
+      0,
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Direktion hat zwei Verfahren laufen: eines wegen besonderer Leistungen von Professor Aigner und eines wegen schwacher Leistung nach Ermahnungen. Das Sekretariat fragt, welcher Zeitraum jeweils zu betrachten ist, und legt eine Checkliste an.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Jedes Verfahren hat seinen eigenen Zeitraum, austauschbar sind sie nicht. Für besondere Leistungen gilt das vorangegangene Schuljahr, für fehlenden Arbeitserfolg die Zeit von der ersten Ermahnung bis drei Monate nach der zweiten. Zum Nachlesen: LDG §63a."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.1",
+    "id": "B29-L2-010",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Feststellung, dass der Arbeitserfolg durch besondere Leistungen erheblich überschritten wurde.",
+      "Feststellung, dass der Arbeitserfolg trotz zweimaliger Ermahnung nicht aufgewiesen wurde.",
+      "Auf behördliches Verlangen auch die Feststellung, dass der Arbeitserfolg schlicht aufgewiesen wurde.",
+      "Feststellung über die private Beliebtheit der Lehrkraft im Ort.",
+      "Feststellung über das Aussehen des Klassenzimmers.",
+      "Feststellung ohne jede Grundlage aus dem Bericht und den Stellungnahmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erheblich überschritten ist das erste mögliche Ergebnis.",
+      "Richtig: Nicht aufgewiesen trotz Ermahnungen ist das zweite mögliche Ergebnis.",
+      "Richtig: Auf Verlangen der Behörde kann auch schlicht aufgewiesen festgestellt werden.",
+      "Falsch: Private Beliebtheit ist kein Gegenstand der Feststellung.",
+      "Falsch: Die Raumgestaltung ist kein Feststellungsergebnis.",
+      "Falsch: Bericht, Stellungnahmen und Erhebungen sind die Entscheidungsgrundlage."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Behörde hat Bericht, Stellungnahmen und Erhebungen zu Lehrer Steiner auf dem Tisch und muss nun per Bescheid entscheiden. Die Sachbearbeiterin prüft mit einer Checkliste, welche Ergebnisse überhaupt in Frage kommen. Steiner hofft auf eine faire Entscheidung nach Aktenlage.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Die Behörde entscheidet nach Aktenlage zwischen drei Ergebnissen per Bescheid. Möglich sind erheblich überschritten, trotz Ermahnungen nicht aufgewiesen oder auf behördliches Verlangen schlicht aufgewiesen, Grundlage sind Bericht, Stellungnahmen und Erhebungen. Zum Nachlesen: LDG §66 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.5",
+    "id": "B29-L2-011",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Bescheid ist binnen sechs Wochen nach Einlangen von Bericht oder Antrag zu erlassen.",
+      "Wird ohne Feststellung eingestellt, ist die Lehrkraft davon zu verständigen.",
+      "Nach einer Einstellung kann die Lehrkraft binnen zwei Wochen eine Feststellung beantragen.",
+      "Der Bescheid darf beliebig lange auf sich warten lassen.",
+      "Bei Einstellung erfährt die Lehrkraft grundsätzlich nichts davon.",
+      "Nach einer Einstellung ist jeder weitere Antrag für immer ausgeschlossen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sechs Wochen ab Einlangen ist die Frist für den Bescheid.",
+      "Richtig: Über die Einstellung ohne Feststellung ist zu verständigen.",
+      "Richtig: Zwei Wochen lang kann dann noch eine Feststellung verlangt werden.",
+      "Falsch: Beliebiges Zuwarten verletzt die Sechs-Wochen-Frist.",
+      "Falsch: Gerade die Verständigung ist ausdrücklich vorgeschrieben.",
+      "Falsch: Der Zwei-Wochen-Antrag hält den Weg zur Feststellung offen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Das Verfahren zu Lehrerin Moser zieht sich bereits über Monate hin, ein Bescheid liegt immer noch nicht vor. Dann stellt die Behörde das Verfahren ohne Feststellung ein, ohne Moser zu informieren. Moser prüft mit einer Checkliste ihre Rechte im weiteren Verfahrensgang.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Moser hat Anspruch auf Frist, Information und einen zweiten Anlauf. Der Bescheid kommt binnen sechs Wochen nach Einlangen, über eine Einstellung ohne Feststellung ist zu verständigen, danach kann binnen zwei Wochen eine Feststellung verlangt werden. Zum Nachlesen: LDG §66 Abs.5."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.2",
+    "id": "B29-L2-012",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Meint der Leiter, die positive Feststellung treffe nicht mehr zu, ist neuerlich zu berichten.",
+      "Trifft die neue Einschätzung zu, ist eine entsprechende neue Feststellung zu treffen.",
+      "Eine positive Feststellung gilt bis zu einer neuerlichen Feststellung weiter.",
+      "Eine positive Feststellung erlischt automatisch nach einem Monat.",
+      "Ein neuer Bericht über dieselbe Lehrkraft ist danach für immer verboten.",
+      "Die Behörde darf einen neuen Bericht nicht mehr prüfen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Entfällt die Grundlage, löst das einen neuerlichen Bericht aus.",
+      "Richtig: Bestätigt sich die neue Lage, folgt eine neue Feststellung.",
+      "Richtig: Bis dahin bleibt die positive Feststellung wirksam.",
+      "Falsch: Ein automatisches Erlöschen nach einem Monat gibt es nicht.",
+      "Falsch: Neuerliche Berichte sind genau für diesen Fall vorgesehen.",
+      "Falsch: Die Behörde prüft den neuen Bericht wie jeden anderen auch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Professor Aigner wurde positiv festgestellt, lässt aber im Folgejahr deutlich nach. Die Direktorin fragt, ob die alte Feststellung nun ewig gilt oder was zu tun ist. Aigner beruft sich auf die frühere positive Entscheidung.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §66 Abs.7"
+    ],
+    "aufloesung": "Aigners alte Feststellung gilt weiter, bis eine neue sie ablöst. Entfällt ihre Grundlage, berichtet der Leiter neuerlich, bestätigt sich die neue Lage, folgt eine neue Feststellung, bis dahin bleibt die positive wirksam. Zum Nachlesen: LDG §66 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §66 Abs.3",
+    "id": "B29-L2-013",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "An den Beurteilungszeitraum schließt eine neuerliche Feststellung für sechs Monate an.",
+      "Der Vorgesetzte erstattet den Bericht dafür innerhalb des ersten Monats nach diesem Halbjahr.",
+      "Wird die Lehrkraft aus diesem Grund versetzt, gilt sie danach als den Arbeitserfolg aufweisend.",
+      "Eine negative Feststellung gilt ohne jede weitere Prüfung für immer.",
+      "Nach einer Versetzung bleibt die negative Feststellung unverändert bestehen.",
+      "Ein neuer Bericht ist in diesem Fall grundsätzlich verboten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sechs Monate neuerliche Prüfung schließen sich an den Zeitraum an.",
+      "Richtig: Innerhalb des ersten Monats danach ist der Bericht zu erstatten.",
+      "Richtig: Mit der Versetzung oder Verwendungsänderung gilt wieder aufgewiesen.",
+      "Falsch: Gerade die neuerliche Prüfung ist ausdrücklich vorgeschrieben.",
+      "Falsch: Die Versetzung lässt die negative Feststellung entfallen.",
+      "Falsch: Der neue Bericht ist hier Pflicht und nicht verboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Über Lehrer Kaufmann wurde negativ festgestellt, er bleibt aber an der Schule. Die Direktion fragt, wie es nun weitergeht und welche Fristen und Folgen gelten. Kaufmann hofft, dass sich mit der Zeit alles von selbst erledigt.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §63 Abs.2",
+      "LDG §66 Abs.4"
+    ],
+    "aufloesung": "Kaufmanns Fall erledigt sich nicht von selbst, das Gesetz schreibt den weiteren Weg vor. An den Zeitraum schließt ein halbes Jahr neuerlicher Prüfung mit Bericht im ersten Monat danach an, bei Versetzung aus diesem Grund gilt wieder aufgewiesen. Zum Nachlesen: LDG §66 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §64 Abs.2",
+    "id": "B29-L2-014",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Der Bericht geht mit der Stellungnahme der Lehrkraft im Dienstweg an die Behörde.",
+      "Weicht die Meinung befasster Vorgesetzter ab, haben sie sich zum Bericht zu äußern.",
+      "Zu diesen Äußerungen bekommt die Lehrkraft zwei Wochen Gelegenheit zur Stellungnahme.",
+      "Der Bericht darf an der Lehrkraft vorbei direkt an die Behörde geschickt werden.",
+      "Abweichende Vorgesetztenmeinungen bleiben grundsätzlich geheim.",
+      "Die Lehrkraft darf zu den Äußerungen niemals Stellung nehmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bericht plus Stellungnahme wandern im Dienstweg zur Behörde.",
+      "Richtig: Abweichende Vorgesetzte müssen ihre Sicht schriftlich darlegen.",
+      "Richtig: Zwei Wochen Äußerungsfrist stehen der Lehrkraft auch dazu zu.",
+      "Falsch: Vorbeileiten ohne Stellungnahme verletzt das Verfahren.",
+      "Falsch: Abweichungen sind offenzulegen und nicht geheim zu halten.",
+      "Falsch: Gerade dazu steht die Stellungnahmefrist ausdrücklich zu."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Bericht über Lehrerin Wieser wandert durch den Dienstweg, ein Zwischenvorgesetzter sieht den Fall anders. Wieser erfährt von dessen Äußerung nichts und darf sich nicht dazu äußern. Sie verlangt ein ordnungsgemäßes Verfahren im weiteren Dienstweg.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Wieser bekommt auch im weiteren Dienstweg rechtliches Gehör zu allem. Bericht und Stellungnahme wandern im Dienstweg zur Behörde, abweichende Vorgesetzte äußern sich schriftlich, dazu stehen der Lehrkraft zwei Wochen Stellungnahme zu. Zum Nachlesen: LDG §64 Abs.2."
+  },
+  {
+    "hauptquelle": "LDG §68",
+    "id": "B29-L2-015",
+    "level": "L2",
+    "modul_id": "B29",
+    "optionen": [
+      "Kommissionen gibt es, soweit die Landesgesetzgebung sie zur Durchführung vorsieht.",
+      "Ihre Mitglieder sind in diesem Amt selbständig und unabhängig.",
+      "Weisungen der Direktion an die Mitglieder sind mit dieser Stellung unvereinbar.",
+      "Kommissionen entscheiden immer nach Zuruf aus dem Kollegium.",
+      "Die Mitglieder brauchen für jede Feststellung die Zustimmung der Lehrkraft.",
+      "Kommissionen sind in jedem Verfahren zwingend zu beteiligen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Landesgesetzgebung entscheidet über das Ob der Kommissionen.",
+      "Richtig: Selbständigkeit und Unabhängigkeit prägen ihre Arbeit.",
+      "Richtig: Weisungsbindung widerspricht dieser garantierten Stellung.",
+      "Falsch: Zuruf ersetzt keine selbständige Entscheidung.",
+      "Falsch: Eine Zustimmung der Lehrkraft ist nicht erforderlich.",
+      "Falsch: Zwingend sind sie nur, soweit sie vorgesehen sind."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei der Feststellung zu Professor Steiner soll eine Kommission mitwirken, wie es die Landesregelung vorsieht. Die Direktion will den Mitgliedern das Ergebnis vorgeben und besteht auf Beteiligung in jedem Fall. Ein Mitglied prüft mit einer Checkliste seine Stellung und die Voraussetzungen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Das Mitglied entscheidet frei, die Direktion darf nichts vorgeben. Kommissionen gibt es, soweit die Landesregelung sie vorsieht, ihre Mitglieder arbeiten selbständig und unabhängig, Weisungen sind damit unvereinbar. Zum Nachlesen: LDG §68."
+  }
+]
