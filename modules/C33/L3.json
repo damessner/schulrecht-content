@@ -1,1 +1,364 @@
-[]
+[
+  {
+    "aufloesung": "Es besteht keine Pflicht zur Errichtung, weil der Dreijahresschnitt mit 78 knapp unter der Mindestzahl liegt. Die Pflicht greift erst ab einem Schnitt von 80, dazu braucht es zusätzlich eine stabile Prognose und keine Gefährdung einer anderen Schule. Zum Nachlesen: TirSOG §21 Abs.1.",
+    "hauptquelle": "TirSOG §21 Abs.1",
+    "id": "C33-L3-001",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Keine Pflichterrichtung, weil der Schnitt von 80 nicht erreicht ist, eine Kann-Errichtung bleibt zu prüfen.",
+      "Die Schule muss errichtet werden, weil 78 nahe genug an 80 dran ist.",
+      "Die Schule muss errichtet werden, sobald ein einziger Stichtag über 80 liegt.",
+      "Die Mindestzahl entfällt, wenn der Bürgermeister den Bedarf schriftlich bestätigt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Knapp darunter bleibt darunter, Pflicht scheidet aus.",
+      "Falsch: Nahe genug genügt nicht, der Schnitt muss 80 erreichen.",
+      "Falsch: Es zählt der Dreijahresschnitt, kein einzelner Stichtag.",
+      "Falsch: Ein Bestätigungsschreiben ersetzt die Mindestzahl nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "In einem Neubaugebiet pendeln viele Kinder täglich in Nachbarorte. An den letzten drei Zählterminen im Herbst wurden 76, 78 und 80 schulpflichtige Kinder ohne erreichbare Schule gezählt. Der Bürgermeister verlangt die sofortige Pflichtgründung einer Volksschule.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Schule ist nicht zwingend aufzulassen, weil trotz des Tiefstands ein Wiederanstieg über die Mindestzahl zu erwarten ist. Die Pflicht zur Auflassung verlangt neben dem Dreijahresschnitt unter zehn auch eine dauerhaft schlechte Prognose bis zum drittfolgenden Zähltermin. Zum Nachlesen: TirSOG §23 Abs.1.",
+    "hauptquelle": "TirSOG §23 Abs.1",
+    "id": "C33-L3-002",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Die Schule bleibt vorerst bestehen, weil die Prognose einen Wiederanstieg über zehn erwarten lässt.",
+      "Die Schule ist sofort aufzulassen, weil der Schnitt unter zehn liegt und die Prognose egal ist.",
+      "Die Schule ist aufzulassen, sobald ein einziger Zähltermin unter zehn liegt.",
+      "Die Prognose zählt nur, wenn sie vom Bürgermeister beglaubigt wird."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Negative Bestandsprognose fehlt, daher keine Muss-Auflassung.",
+      "Falsch: Ohne die schlechte Prognose gibt es keine Auflassungspflicht.",
+      "Falsch: Ein einzelner Termin löst die Pflicht nicht aus.",
+      "Falsch: Beglaubigung ist kein Tatbestandsmerkmal der Prognose."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Dorfschule zählt an drei Herbstterminen 8, 9 und 10 Kinder. Durch einen fast bezugsfertigen Wohnbau mit vielen jungen Familien rechnet die Gemeinde fest mit deutlich über zehn Kindern in drei Jahren. Die Nachbargemeinde fordert trotzdem die sofortige Schließung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Von der Auflassung darf abgesehen werden, weil der Schnitt über sechs liegt und alle drei Ausnahmegründe zutreffen. Weite Entfernung, einzige Schule der Gemeinde und Betreuungseinrichtung am Ort rechtfertigen gemeinsam den Weiterbestand. Zum Nachlesen: TirSOG §23 Abs.2.",
+    "hauptquelle": "TirSOG §23 Abs.2",
+    "id": "C33-L3-003",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Die Schule darf weitergeführt werden, weil Schnitt über sechs plus Entfernung, Einzellage und Betreuungseinrichtung vorliegen.",
+      "Die Schule ist zwingend aufzulassen, Ausnahmen gibt es bei kleinen Schulen nie.",
+      "Ein einziges Kriterium wie die Entfernung allein genügt immer zum Weiterbetrieb.",
+      "Die Ausnahme gilt nur, wenn der Schnitt wieder über zehn steigt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mindestmaß plus mindestens zwei Gründe erlauben das Absehen.",
+      "Falsch: Das Gesetz sieht eine ausdrückliche Ausnahme vor.",
+      "Falsch: Es braucht mindestens zwei der drei Gründe zugleich.",
+      "Falsch: Die Ausnahme setzt nur mindestens sechs im Schnitt voraus."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Bergdorfschule kommt im Dreijahresschnitt auf acht Kinder, die nächste in Frage kommende Schule liegt zwölf Straßenkilometer entfernt über einen Pass. Es ist die einzige Schule der Gemeinde, im selben Haus gibt es eine ganztägige Kinderbetreuung. Die Behörde prüft die Schließung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Schule ist stillzulegen statt aufzulassen, weil der Einbruch nur vorübergehend ist und die Rückkehr der Kinder feststeht. Die vorübergehende Einstellung erhält den Standort, die endgültige Aufhebung wäre bei absehbarer Erholung falsch. Zum Nachlesen: TirSOG §22 Abs.1.",
+    "hauptquelle": "TirSOG §22 Abs.1",
+    "id": "C33-L3-004",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Der Betrieb wird vorübergehend eingestellt, weil die Auflassungsgründe nur zeitweise vorliegen.",
+      "Die Schule wird endgültig aufgehoben, weil jeder Tiefstand automatisch zur Auflassung führt.",
+      "Der Betrieb läuft unverändert weiter, als wäre der Einbruch nie gemessen worden.",
+      "Die Gemeinde darf frei wählen, ob sie auflässt oder alles beim Alten lässt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorübergehende Gründe führen zur Stilllegung, nicht zur Auflassung.",
+      "Falsch: Dauerhaftigkeit fehlt hier, endgültige Aufhebung ist falsch.",
+      "Falsch: Untätigkeit trotz erfüllter Stilllegungsgründe ist unzulässig.",
+      "Falsch: Belieben ersetzt die gesetzliche Abgrenzung nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach einem Hangrutsch werden zwei Jahrgänge für etwa zwei Jahre in einer Containersiedlung außerhalb unterrichtet, die Anmeldezahlen brechen kurz ein. Die Baufirma garantiert die Rückkehr aller Familien nach der Sanierung. Im Gemeinderat streiten Befürworter einer endgültigen Schließung mit den Eltern.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Mittelschule wird nicht stillgelegt, weil geeignete Ersatzräume vorhanden sind und der Unterricht dorthin verlegt werden kann. Die Stilllegung wegen eines unbenützbaren Hauses setzt voraus, dass kein Ersatz zur Verfügung steht. Zum Nachlesen: TirSOG §38 Abs.1.",
+    "hauptquelle": "TirSOG §38 Abs.1",
+    "id": "C33-L3-005",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Der Betrieb wandert in die Ersatzräume, eine Stilllegung scheidet aus.",
+      "Die Schule ist stillzulegen, obwohl nutzbare Ersatzräume bereitstehen.",
+      "Der Direktor darf die Schule per Aushang dauerhaft schließen.",
+      "Die Stilllegung tritt automatisch ein, sobald ein Handwerker Mängel feststellt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vorhandener Ersatz schließt die Stilllegung aus.",
+      "Falsch: Mit Ersatzräumen fehlt der Stilllegungsgrund.",
+      "Falsch: Ein Aushang ersetzt das Behördenverfahren nicht.",
+      "Falsch: Automatismus durch Handwerkerbefund gibt es nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "In der Mittelschule fällt nach einem Heizungsgebrechen ein Trakt für ein halbes Jahr aus. Die Gemeinde bietet leerstehende, geprüfte Räume im Gemeindezentrum direkt nebenan an. Manche Eltern verlangen trotzdem die förmliche Schließung der Schule.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das Verfahren ist mangelhaft, weil die Nachbargemeinden im Einzugsbereich übergangen wurden. Neben dem Schulerhalter sind auch die übrigen sprengelzugehörigen oder beteiligten Gebietskörperschaften sowie die Gemeinden im Einzugsbereich einer geplanten Schule anzuhören und zu beteiligen. Zum Nachlesen: TirSOG §5.",
+    "hauptquelle": "TirSOG §5",
+    "id": "C33-L3-006",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Das Verfahren ist fehlerhaft, weil die Gemeinden im Einzugsbereich als Parteien übergangen wurden.",
+      "Das Verfahren ist in Ordnung, weil nur der Schulerhalter allein Partei ist.",
+      "Eltern einzelner Kinder ersetzen als Parteien die beteiligten Gemeinden.",
+      "Die Parteistellung entfällt, wenn das Vorhaben besonders eilig ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Einzugs- und Sprengelgemeinden sind Parteien und wurden übergangen.",
+      "Falsch: Auch weitere beteiligte Gebietskörperschaften sind Parteien.",
+      "Falsch: Einzelne Eltern ersetzen die Gemeindeparteien nicht.",
+      "Falsch: Eiligkeit hebt die Parteistellung nicht auf."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Stadt plant eine neue Mittelschule an der Gemeindegrenze und verhandelt nur mit sich selbst. Zwei Umlandgemeinden, deren Kinder den Standort künftig besuchen sollen und die sich an den Kosten beteiligen müssten, erfahren davon erst aus der Zeitung und legen Beschwerde ein.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Schule ist zu errichten, weil alle Pflichtvoraussetzungen gleichzeitig erfüllt sind. Entscheidend sind die Mindestzahl ohne erreichbare Alternative, die stabile Prognose und die fehlende Gefährdung einer anderen Schule. Zum Nachlesen: TirSOG §65 Abs.1.",
+    "hauptquelle": "TirSOG §65 Abs.1",
+    "id": "C33-L3-007",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Der Dreijahresschnitt der nur dort versorgbaren Jugendlichen erreicht 50.",
+      "Diesen Jugendlichen ist der Besuch einer anderen Schule nicht auf zumutbarem Weg möglich.",
+      "Ein erheblicher Rückgang der Zahlen ist auf Jahre nicht zu erwarten.",
+      "Der Bestand einer anderen Schule wird durch die Gründung nicht gefährdet.",
+      "Baulärm in der Nachbarschaft ersetzt die Mindestzahl.",
+      "Der Wunsch einzelner Betriebe nach Lehrlingen genügt statt aller Voraussetzungen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Mindestzahl ist die erste Pflichtvoraussetzung.",
+      "Richtig: Fehlende erreichbare Alternative gehört zum Pflichtprogramm.",
+      "Richtig: Stabile Prognose ist zwingend erforderlich.",
+      "Richtig: Ohne Bestandsgefährdung bleibt die Pflicht bestehen.",
+      "Falsch: Baulärm ist keine Errichtungsvoraussetzung.",
+      "Falsch: Einzelwünsche ersetzen die gesetzlichen Voraussetzungen nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "PTS"
+    ],
+    "situation": "Ein Tal ohne eigene Schule für die neunte Stufe schickt seine Jugendlichen seit Jahren mit langen Fahrten in entfernte Orte. Die Zählungen der letzten drei Herbste liegen stabil bei etwa fünfzig Betroffenen, Betriebe und Eltern drängen auf einen eigenen Standort. Die Behörde prüft die Pflichtgründung.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Schule ist zwingend aufzulassen, weil der Schnitt unter sieben liegt und eine erreichbare Alternative besteht. Zwischen sieben und unter dreißig wäre die Auflassung nur Ermessen, der Schulweg muss immer zumutbar sein. Zum Nachlesen: TirSOG §54 Abs.1.",
+    "hauptquelle": "TirSOG §54 Abs.1",
+    "id": "C33-L3-008",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Bei einem Schnitt unter sieben ist die Auflassung Pflicht, wenn eine erreichbare Schule besteht.",
+      "Bei einem Schnitt von sieben bis unter dreißig kann aufgelassen werden, wenn eine erreichbare Schule besteht.",
+      "Die Kinder müssen eine andere geeignete Schule auf zumutbarem Weg besuchen können.",
+      "Ein einziger schwacher Jahrgang genügt schon für die Muss-Auflassung.",
+      "Die Pflicht entfällt automatisch, wenn die Lehrer gegen die Schließung sind.",
+      "Der Schulweg ist egal, solange das Gebäude renovierungsbedürftig ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Tiefstand plus erreichbare Alternative erzwingt die Auflassung.",
+      "Richtig: Im mittleren Bereich besteht nur eine Kann-Befugnis.",
+      "Richtig: Zumutbarer Weg zur Ersatzschule ist immer Voraussetzung.",
+      "Falsch: Es zählt der Dreijahresschnitt, kein einzelner Jahrgang.",
+      "Falsch: Ein Votum des Kollegiums hebt die Pflicht nicht auf.",
+      "Falsch: Ohne zumutbaren Weg scheidet die Auflassung aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine kleine Schule für Kinder mit besonderem Förderbedarf zählt an drei Herbstterminen 5, 6 und 5 Kinder. Eine geeignete Nachbarschule ist mit kurzen Fahrten gut erreichbar, die Eltern streiten dennoch über Verbleib oder Wechsel. Die Behörde prüft Pflicht oder Ermessen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Jeder Schritt braucht die Bewilligung der Bildungsdirektion, die bei erfüllten Voraussetzungen zu erteilen ist. Säumt der Erhalter bis Ende Jänner nach dem letzten Zähltermin, ordnet die Behörde die Stilllegung oder Auflassung von Amts wegen an. Zum Nachlesen: TirSOG §24 Abs.2.",
+    "hauptquelle": "TirSOG §24 Abs.2",
+    "id": "C33-L3-009",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Errichtung, Stilllegung, Aufhebung der Stilllegung und Auflassung brauchen eine Bewilligung.",
+      "Die Bewilligung ist zu erteilen, wenn die jeweiligen Voraussetzungen erfüllt sind.",
+      "Bei Säumnis des Erhalters bis Ende Jänner ordnet die Behörde von Amts wegen an.",
+      "Die Anordnung von Amts wegen gilt auch, wenn die Ausnahmeklausel für Kleinschulen greift.",
+      "Jeder Gemeinderatsbeschluss ersetzt die Bewilligung der Behörde.",
+      "Die Säumnisfrist läuft bis Ende Dezember des übernächsten Jahres."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Alle vier Schritte sind bewilligungspflichtig.",
+      "Richtig: Bei erfüllten Voraussetzungen besteht Erteilungsanspruch.",
+      "Richtig: Säumnis löst die amtswegige Anordnung aus.",
+      "Falsch: Greift die Ausnahme, scheidet die Anordnung aus.",
+      "Falsch: Ein Beschluss ersetzt das Behördenverfahren nicht.",
+      "Falsch: Maßgeblich ist Ende Jänner nach dem letzten Zähltermin."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Trotz dauerhaftem Tiefstand stellt die Gemeinde bis weit ins Frühjahr keinen Antrag auf Schließung ihrer Zwergschule. Die Aufsichtsbehörde kündigt an, nun selbst tätig zu werden. Der Bürgermeister behauptet, sein Gemeinderatsbeschluss zum Weiterbetrieb genüge und niemand könne ihn überstimmen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Mittelschule kann aufgelassen werden, weil beide Kann-Voraussetzungen vorliegen. Die Auflassung wirkt nur zum Schuljahresende und braucht die Bewilligung der Behörde. Zum Nachlesen: TirSOG §39 Abs.1.",
+    "hauptquelle": "TirSOG §39 Abs.1",
+    "id": "C33-L3-010",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Der Dreijahresschnitt liegt unter 160.",
+      "Die Jugendlichen können eine andere geeignete Schule auf zumutbarem Weg besuchen.",
+      "Die Auflassung darf nur mit Ablauf eines Sommertermins zum Schuljahresende wirken.",
+      "Schon ein Schnitt unter 320 erzwingt automatisch die Auflassung.",
+      "Die Auflassung wirkt sofort mitten im Winterhalbjahr.",
+      "Eine Bewilligung ist bei Mittelschulen nie erforderlich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unterschreiten der Zahl ist erste Kann-Voraussetzung.",
+      "Richtig: Erreichbare Ersatzschule ist zweite Kann-Voraussetzung.",
+      "Richtig: Wirksamkeit nur zum Schuljahresende.",
+      "Falsch: 320 betrifft die Pflichtgründung, nicht die Auflassung.",
+      "Falsch: Unterjährige Wirksamkeit ist ausgeschlossen.",
+      "Falsch: Auch hier ist die Behördenbewilligung nötig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Eine Mittelschule in schrumpfender Region zählt im Dreijahresschnitt 140 Jugendliche, die Nachbarstadt nimmt alle mit kurzen Busfahrten problemlos auf. Der Gemeinderat will den Standort noch mitten im laufenden Halbjahr schließen, um Heizkosten zu sparen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Standort ist so zu wählen, dass die Kinder sicher und ohne Störungen lernen können. Können sich mehrere Gemeinden nicht einigen, bestimmt die Behörde den Standort. Zum Nachlesen: TirSOG §21 Abs.4.",
+    "hauptquelle": "TirSOG §21 Abs.4",
+    "id": "C33-L3-011",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Der Weg zur Schule soll möglichst verkehrsgünstig und regelmäßig benützbar sein.",
+      "Die Kinder dürfen keiner Gefährdung von Leben, Gesundheit oder Entwicklung ausgesetzt sein.",
+      "Der Betrieb darf nicht durch Lärm oder andere störende Einwirkungen beeinträchtigt werden.",
+      "Bei Nichteinigung der Gemeinden entscheidet die Behörde über den Standort.",
+      "Der billigste Bauplatz ist immer zu nehmen, egal wie laut oder gefährlich er ist.",
+      "Die Standortfrage entscheidet allein der Bürgermeister der größten Gemeinde."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verkehrsgünstige Erreichbarkeit ist vorgegeben.",
+      "Richtig: Schutz der Kinder geht jeder Kostenfrage vor.",
+      "Richtig: Ungestörter Betrieb gehört zur Standortqualität.",
+      "Richtig: Die Behörde entscheidet bei fehlendem Einvernehmen.",
+      "Falsch: Billigkeit schlägt Schutz und Ruhe nicht.",
+      "Falsch: Kein Bürgermeister ersetzt die Behördenentscheidung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Gemeinden planen gemeinsam eine neue Volksschule und streiten über den Bauplatz. Ein Angebot liegt direkt an einer lauten Durchzugsstraße neben einem Sägewerk mit Schwerverkehr, das andere ruhig im Wohngebiet. Eine Einigung scheitert, beide rufen nach einer Entscheidung von außen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Aussage ist falsch, weil die Stilllegung nur die vorübergehende Einstellung ohne Aufhebung bedeutet. Erst die Auflassung hebt die Gründung rechtlich auf. Zum Nachlesen: TirSOG §2 Abs.3.",
+    "hauptquelle": "TirSOG §2 Abs.3",
+    "id": "C33-L3-012",
+    "level": "L3",
+    "modul_id": "C33",
+    "optionen": [
+      "Richtig.",
+      "Falsch."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Vorübergehend ist nicht endgültig aufgehoben.",
+      "Richtig: Stilllegung erhält die Schule rechtlich, Auflassung beendet sie."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Streit um eine leerstehende Dorfschule behauptet ein Gemeinderat, mit der Stilllegung sei die Schule rechtlich endgültig aufgehoben und könne nie wieder öffnen. Die Elterninitiative widerspricht und verlangt die Wiedereröffnung nach der Sanierung.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

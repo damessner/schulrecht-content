@@ -1,1 +1,240 @@
-[]
+[
+  {
+    "aufloesung": "Der Bauplatz an der Durchzugsstraße scheidet aus, weil Lärm, Schwerverkehr und Gefahr den Standort ungeeignet machen. Die Gründung verlangt einen sicheren, verkehrsgünstigen und störungsfreien Platz, hier also das Grundstück im Wohngebiet. Zum Nachlesen: TirSOG §21 Abs.4.",
+    "hauptquelle": "TirSOG §21 Abs.4",
+    "id": "C33-L4-001",
+    "level": "L4",
+    "modul_id": "C33",
+    "optionen": [
+      "Der Standort im Wohngebiet ist zu nehmen, der Platz an der Straße scheidet wegen Lärm und Gefahr aus.",
+      "Der billigste Platz an der Durchzugsstraße ist zu nehmen, Schutz und Ruhe sind zweitrangig.",
+      "Beide Plätze sind gleichwertig, das Los entscheidet zwischen den Gemeinden.",
+      "Der Standort entfällt ganz, weil eine Einigung der Gemeinden scheiterte."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sicherheit und Störungsfreiheit schlagen den Preis.",
+      "Falsch: Billigkeit rechtfertigt keine Gefährdung der Kinder.",
+      "Falsch: Gleichwertigkeit liegt bei Lärm und Gefahr nicht vor.",
+      "Falsch: Bei Nichteinigung entscheidet die Behörde, das Vorhaben entfällt nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine wachsende Umlandgemeinde muss dringend eine neue Volksschule bauen. Ein geschenktes Grundstück liegt direkt an einer stark befahrenen Durchzugsstraße neben einem Sägewerk, ein teureres liegt ruhig und sicher im Wohngebiet mit Gehweganbindung. Der Gemeinderat schwankt zwischen Sparpreis und Kinderschutz.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Auflassung scheidet aus, weil die Kinder keine andere Schule auf zumutbarem Weg erreichen können. Trotz des Tiefstands unter zehn bleibt die Schule bestehen, solange jede Ersatzschule für kleine Kinder mehr als eine Stunde Weg bedeuten würde. Zum Nachlesen: TirSOG §23 Abs.1.",
+    "hauptquelle": "TirSOG §23 Abs.1",
+    "id": "C33-L4-002",
+    "level": "L4",
+    "modul_id": "C33",
+    "optionen": [
+      "Die Schule bleibt bestehen, weil kein zumutbarer Weg zu einer Ersatzschule führt.",
+      "Die Schule ist aufzulassen, der Tiefstand allein genügt ohne Rücksicht auf den Weg.",
+      "Die Kinder werden aufgeteilt, jedes pendelt über eine Stunde in eine andere Richtung.",
+      "Die Gemeinde darf die Kinder ohne Prüfung zu Hause unterrichten lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne zumutbaren Ersatzweg gibt es keine Muss-Auflassung.",
+      "Falsch: Der Weg als zweite Voraussetzung darf nicht ignoriert werden.",
+      "Falsch: Unzumutbare Wege werden durch Aufteilen nicht zumutbar.",
+      "Falsch: Häuslicher Unterricht ersetzt das Auflassungsverfahren nicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Kleinschule mit acht Kindern im Schnitt soll geschlossen werden, die nächste Schule wäre für Erstklässler nur über eine unbeleuchtete Landesstraße in siebzig Minuten Fußmarsch erreichbar. Die Eltern wehren sich gegen Busversprechen ohne Fahrplan, die Behörde muss über Bestand oder Schließung samt neuem Sprengelzuschnitt entscheiden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Auflassung ist zulässig, weil der Tiefstand vorliegt und die Busfahrt von 75 Minuten innerhalb der Sondergrenze bleibt. Für Jugendliche in der neunten Stufe gilt der Weg bis zu achtzig Minuten als zumutbar. Zum Nachlesen: TirSOG §67 Abs.1.",
+    "hauptquelle": "TirSOG §67 Abs.1",
+    "id": "C33-L4-003",
+    "level": "L4",
+    "modul_id": "C33",
+    "optionen": [
+      "Die Schule kann aufgelassen werden, weil Tiefstand plus zumutbare 75-Minuten-Fahrt vorliegen.",
+      "Die Schule muss bleiben, weil jede Fahrt über einer Stunde automatisch unzumutbar ist.",
+      "Die Schule kann nur aufgelassen werden, wenn alle Jugendlichen ein eigenes Auto haben.",
+      "Die Minuten spielen keine Rolle, allein der Wunsch der Gemeinde entscheidet."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sondergrenze für die neunte Stufe ist eingehalten.",
+      "Falsch: Für diese Stufe gilt die erweiterte Grenze.",
+      "Falsch: Eigene Autos sind kein gesetzliches Kriterium.",
+      "Falsch: Zahlen und Weg entscheiden, nicht der bloße Wunsch."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "PTS"
+    ],
+    "situation": "Eine Schule für die neunte Stufe zählt im Schnitt nur noch zwölf Jugendliche. Die Partnereinrichtung mit passenden Fachbereichen ist mit dem Linienbus in 75 Minuten erreichbar, der Fahrplan passt zum Stundenplan. Die Standortgemeinde kämpft um den Erhalt, der Erhalter prüft die Schließung.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Neugründung mit Zusammenlegung ist zulässig, weil beide Kleinschulen gemeinsam an einem zumutbaren Standort weitergeführt werden. Die beiden alten Standorte können in diesem Zuge aufgelassen und die Sprengel neu zugeschnitten werden. Zum Nachlesen: TirSOG §21 Abs.3.",
+    "hauptquelle": "TirSOG §21 Abs.3",
+    "id": "C33-L4-004",
+    "level": "L4",
+    "modul_id": "C33",
+    "optionen": [
+      "Neugründung am gemeinsamen Standort mit Auflassung beider Altstandorte und neuem Sprengel.",
+      "Beide Kleinschulen bleiben nebeneinander bestehen, zusätzlich wird eine dritte gebaut.",
+      "Eine Altstandortschule wird geschlossen, die Kinder der anderen Gemeinde bleiben unversorgt.",
+      "Die Zusammenlegung gelingt per Handschlag ohne Verfahren und Sprengeländerung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zusammenlegung, Auflassung und Sprengelneuordnung greifen ineinander.",
+      "Falsch: Dritter Standort neben zwei Zwergschulen löst nichts.",
+      "Falsch: Unversorgte Kinder sind keine zulässige Lösung.",
+      "Falsch: Bewilligung und Sprengeländerung sind unverzichtbar."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Zwei Nachbardörfer betreiben je eine Zwergschule mit sieben Kindern, beide Häuser sind sanierungsbedürftig. Ein barrierefreier Neubau in der Mitte wäre für alle Kinder in zwanzig Minuten erreichbar und pädagogisch deutlich besser. Die Räte streiten über Schließung, Neubau und künftige Sprengelgrenzen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Gründung kann bewilligt werden, weil die abgesenkte Mindestzahl erreicht ist und die übrigen Pflichtpunkte stimmen. Bei Streit über den Standort erhält die Behörde das letzte Wort, der Sprengel ist anschließend anzupassen. Zum Nachlesen: TirSOG §37 Abs.2.",
+    "hauptquelle": "TirSOG §37 Abs.2",
+    "id": "C33-L4-005",
+    "level": "L4",
+    "modul_id": "C33",
+    "optionen": [
+      "Der Schnitt von 170 ohne erreichbare Alternative eröffnet die Kann-Gründung.",
+      "Ein erheblicher Rückgang der Zahlen ist nicht zu erwarten.",
+      "Der Bestand einer Nachbarschule wird durch die Gründung nicht gefährdet.",
+      "Über den strittigen Standort entscheidet bei Nichteinigung die Behörde.",
+      "Schon 100 Kinder im Schnitt erzwingen zwingend eine neue Schule.",
+      "Der Sprengel bleibt nach der Gründung unverändert wie bisher bestehen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgesenkte Zahl plus fehlende Alternative genügt für Ermessen.",
+      "Richtig: Stabile Prognose stützt die Gründung.",
+      "Richtig: Ohne Bestandsgefährdung steht nichts entgegen.",
+      "Richtig: Nichteinigung führt zur Behördenentscheidung.",
+      "Falsch: Unter der abgesenkten Zahl gibt es keine Gründung.",
+      "Falsch: Neue Schule verlangt neuen Sprengelzuschnitt."
+    ],
+    "richtig": [
+      0,
+      1,
+      3
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Eine wachsende Seegemeinde zählt stabil 165 bis 175 Jugendliche ohne erreichbare Schule, die Nachbarstadt wehrt sich gegen Abwanderung. Zwei Standortangebote konkurrieren, die Räte blockieren einander seit Monaten. Gleichzeitig ist unklar, woher die Kinder künftig zugewiesen werden.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Nach der Sanierung ist die Stilllegung aufzuheben und der Normalbetrieb wieder aufzunehmen. Wäre stattdessen aufgelassen worden, müssten die Sprengelgrenzen an die neue Lage angepasst werden. Zum Nachlesen: TirSOG §22 Abs.3.",
+    "hauptquelle": "TirSOG §22 Abs.3",
+    "id": "C33-L4-006",
+    "level": "L4",
+    "modul_id": "C33",
+    "optionen": [
+      "Die Stilllegung ist aufzuheben, weil das Haus wieder benützbar ist.",
+      "Der Normalbetrieb wird ohne neues Gründungsverfahren fortgesetzt.",
+      "Bei einer Auflassung wären die Sprengelgrenzen der Nachbarschulen anzupassen.",
+      "Eine aufgelassene stillgelegte Schule dürfte nur zum Schuljahresende enden.",
+      "Die übergangenen Nachbargemeinden hätten im Verfahren keine Rolle gespielt.",
+      "Nach Wiedereröffnung braucht es eine völlig neue Schule mit neuem Namen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wegfall der Gründe beendet die Stilllegung.",
+      "Richtig: Aufhebung führt zurück in den Betrieb, keine Neugründung.",
+      "Richtig: Sprengel folgen der geänderten Schullandschaft.",
+      "Falsch: Für stillgelegte Schulen ist auch ein anderer Zeitpunkt möglich.",
+      "Falsch: Beteiligte Gemeinden sind Parteien im Verfahren.",
+      "Falsch: Namensneugründung ist kein Wirksamkeitserfordernis."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine wegen Einsturzgefahr stillgelegte Dorfschule ist saniert und voll ausgestattet, die Kinderzahlen sind zurück. Die Nachbargemeinde, die die Kinder übergangsweise aufgenommen hatte, will sie behalten und bestreitet jede Rückverlegung. Behörde und Gemeinden ringen um Wiedereröffnung oder endgültige Schließung samt Sprengelgrenzen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Gründung ist zu bewilligen, weil Mindestzahl, fehlende Alternative, stabile Prognose und fehlende Bestandsgefährdung zusammentreffen. Für den Einzugsbereich sind Sprengel festzusetzen, die allen einen zumutbaren Weg sichern. Zum Nachlesen: TirSOG §52 Abs.1.",
+    "hauptquelle": "TirSOG §52 Abs.1",
+    "id": "C33-L4-007",
+    "level": "L4",
+    "modul_id": "C33",
+    "optionen": [
+      "Der Schnitt der nur dort versorgbaren Kinder erreicht 30.",
+      "Diesen Kindern ist keine andere gleichartige Schule auf zumutbarem Weg erreichbar.",
+      "Ein erheblicher Rückgang der Zahlen ist nicht zu erwarten.",
+      "Der Bestand einer anderen gleichartigen Schule wird nicht gefährdet.",
+      "Die Schulwegzeit ist bei dieser Schulart ohne jede Bedeutung.",
+      "Die Gründung gelingt auch bei sicherem Nachweis eines baldigen Totalrückgangs."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mindestzahl für diese Schulart ist erreicht.",
+      "Richtig: Fehlende erreichbare Alternative gehört dazu.",
+      "Richtig: Stabile Prognose ist Voraussetzung.",
+      "Richtig: Ohne Gefährdung fremden Bestands steht nichts entgegen.",
+      "Falsch: Zumutbarer Weg bleibt zentrales Kriterium.",
+      "Falsch: Absehbarer Einbruch schließt die Pflichtgründung aus."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "In einem weiten Einzugsgebiet leben über dreißig Kinder mit gleichem Förderbedarf, die nächste geeignete Einrichtung ist erst nach über einer Stunde Fahrt erreichbar. Die Zahlen sind seit Jahren stabil, keine bestehende Einrichtung verliert dadurch ihren Bestand. Eltern und Erhalter drängen auf einen eigenen Standort samt klaren Einzugsgrenzen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Aussage ist falsch, weil bei fehlender Einigung die Behörde über den Standort entscheidet. Kein Bürgermeister kann den Nachbarn seinen Willen aufzwingen. Zum Nachlesen: TirSOG §21 Abs.5.",
+    "hauptquelle": "TirSOG §21 Abs.5",
+    "id": "C33-L4-008",
+    "level": "L4",
+    "modul_id": "C33",
+    "optionen": [
+      "Richtig.",
+      "Falsch."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Entscheidung liegt bei der Behörde, nicht beim Nachbarn.",
+      "Richtig: Nichteinigung führt zur Behördenentscheidung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Gemeinden streiten über den Bauplatz einer gemeinsamen Schule. Der Bürgermeister der größeren Gemeinde behauptet, er allein dürfe den Standort bestimmen und die kleinere Gemeinde müsse sich fügen. Die kleinere Gemeinde ruft die Aufsichtsbehörde an.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]
