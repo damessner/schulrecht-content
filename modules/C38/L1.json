@@ -1,1 +1,423 @@
-[]
+[
+  {
+    "aufloesung": "Der Neubau darf erst nach Bewilligung der Bildungsdirektion errichtet werden. Die Gemeinde plant und baut, die Behörde prüft Eignung und Bedarf. Zum Nachlesen: TirSOG §24 Abs.1.",
+    "hauptquelle": "TirSOG §24 Abs.1",
+    "id": "C38-L1-001",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Ja, vorher braucht die Gemeinde die Bewilligung der Bildungsdirektion.",
+      "Nein, der Gemeinderat kann ohne jedes Verfahren bauen.",
+      "Nein, es genügt ein Beschluss des Elternvereins.",
+      "Ja, aber zuständig ist das Finanzamt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Bewilligung darf nicht errichtet werden.",
+      "Falsch: Ein Alleingang der Gemeinde reicht nicht.",
+      "Falsch: Eltern beschließen keine Schulbauten.",
+      "Falsch: Die Steuerbehörde ist hier unzuständig."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Bürgermeister Wallner will für die wachsende Volksschule rasch einen Zubau mit zwei Klassen hochziehen. Die Bagger stehen schon bereit, ein Antrag bei der Behörde liegt aber noch nicht vor.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die laufende Instandhaltung des Schulgebäudes ist Aufgabe des Schulerhalters. Dach, Fenster, Heizung und Fassade müssen funktionstüchtig bleiben. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C38-L1-002",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Das Land Tirol über den Stellenplan der Lehrer.",
+      "Die Bildungsdirektion mit eigenem Bauhof.",
+      "Die Lehrerschaft im Wechsel nach Unterrichtsende.",
+      "Der Schulerhalter, also in der Regel die Gemeinde."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Land stellt Unterrichtspersonal bei, keine Bauhöfe.",
+      "Falsch: Die Behörde bewilligt und beaufsichtigt, sie saniert nicht.",
+      "Falsch: Lehrer unterrichten, sie reparieren keine Dächer.",
+      "Richtig: Gebäude und Liegenschaften erhält der Schulerhalter."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An der Mittelschule tropft es durch das undichte Flachdach in zwei Klassen, der Putz bröckelt von der Fassade. Die Direktorin fragt den Bürgermeister, wer die Sanierung zahlen und beauftragen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Schulleitung muss Mängel am Gebäude unverzüglich dem Schulerhalter melden. Abwarten bis zu den Ferien ist bei Gefahr keine Option. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C38-L1-003",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Sie wartet bis zu den Sommerferien und sagt nichts.",
+      "Sie bittet die Eltern um eine private Spendenaktion.",
+      "Sie meldet den Mangel unverzüglich dem Schulerhalter.",
+      "Sie lässt die Schüler den Schaden selbst reparieren."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schweigen bei Gebäudemängeln ist pflichtwidrig.",
+      "Falsch: Spenden ersetzen keine Erhaltermeldung.",
+      "Richtig: Rasche Meldung löst die Erhaltungspflicht aus.",
+      "Falsch: Kinder reparieren keine Elektroanlagen."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Direktorin Berger entdeckt in der Garderobe eine locker hängende Deckenlampe und freiliegende Kabel. Der Schulwart ist auf Urlaub, die Lampe wackelt bedrohlich über den Köpfen der Erstklässler.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Fluchtwege und Notausgänge müssen immer frei und benützbar sein. Zugestellte Türen gefährden im Ernstfall Leben. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L1-004",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Ja, sie ordnet sofort an, dass alle Fluchtwege freigeräumt werden.",
+      "Nein, als Lagerplatz ist der Flur nebenbei nutzbar.",
+      "Ja, aber erst wenn die Feuerwehr das nächste Mal kommt.",
+      "Nein, die Türen bleiben versperrt, damit nichts verloren geht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Freie Fluchtwege sind unverzichtbare Sicherheit.",
+      "Falsch: Lagern im Fluchtweg ist unzulässig.",
+      "Falsch: Sicherheit duldet keinen Aufschub.",
+      "Falsch: Versperrte Notausgänge sind lebensgefährlich."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Bei einem Rundgang findet Direktor Hofer den hinteren Notausgang mit alten Kästen und Turmmatten zugestellt, die Tür lässt sich kaum öffnen. Die Reinigungskraft meint, sonst sei kein Platz für das Zeug.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Feuerlöscher und Brandmelder müssen regelmäßig gewartet und geprüft werden. Verlass auf alte Geräte ohne Prüfung ist fahrlässig. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L1-005",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Der Hausmeister prüft das Aussehen einmal im Jahrzehnt.",
+      "Eine Fachfirma wartet und prüft die Geräte in festen Abständen.",
+      "Die Schüler testen die Löscher im Werkunterricht.",
+      "Niemand, Löscher halten ohne Wartung ewig."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bloßes Anschauen ersetzt keine fachliche Wartung.",
+      "Richtig: Nur gewartete Geräte funktionieren im Ernstfall.",
+      "Falsch: Kinder spielen nicht mit Brandschutzgeräten.",
+      "Falsch: Ohne Wartung versagen Geräte im Ernstfall."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An der Volksschule hängt seit Jahren ein Feuerlöscher mit abgelaufener Prüfplakette im Gang, der Brandmelder im Keller piepst wegen leerer Batterie. Die Direktorin fragt, wer sich darum kümmern muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der beschädigte Turnsaalboden muss gesperrt und dem Schulerhalter gemeldet werden. Weiteturnen auf aufgerissenem Boden riskiert schwere Verletzungen. Zum Nachlesen: TirSOG §70 Abs.3.",
+    "hauptquelle": "TirSOG §70 Abs.3",
+    "id": "C38-L1-006",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Weiterturnen wie bisher, die Kinder sollen aufpassen.",
+      "Den Schaden mit Teppichresten abdecken und schweigen.",
+      "Den Bereich sperren und den Schaden dem Schulerhalter melden.",
+      "Den Boden von den Schülern abschleifen lassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aufpassen ersetzt keine sichere Anlage.",
+      "Falsch: Zudecken beseitigt die Stolpergefahr nicht.",
+      "Richtig: Sperren plus Meldung schützt und löst Reparatur aus.",
+      "Falsch: Kinder sanieren keinen Sportboden."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Sportlehrer Koller stolpert im Turnsaal über eine aufgewölbte Parkettleiste, zwei Schüler sind dort schon hingefallen. Der Belag steht an mehreren Stellen hoch, Splitter ragen heraus.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Schulhof und die Außenanlagen müssen verkehrssicher gehalten werden. Lose Platten und defekte Geräte sind Sache des Schulerhalters. Zum Nachlesen: TirSOG §70 Abs.3.",
+    "hauptquelle": "TirSOG §70 Abs.3",
+    "id": "C38-L1-007",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Die Kinder müssen eben besser auf die Füße schauen.",
+      "Die Gemeinde als Schulerhalterin muss Hof und Geräte instand setzen.",
+      "Der Elternverein pflastert den Hof ehrenamtlich neu.",
+      "Der Hof wird ersatzlos gesperrt, bis er von selbst heilt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Aufmerksamkeit ersetzt keine sicheren Anlagen.",
+      "Richtig: Verkehrssichere Außenanlagen sind Erhalterpflicht.",
+      "Falsch: Eltern haften nicht für den Schulhof.",
+      "Falsch: Dauerhafte Sperre ohne Reparatur ist keine Lösung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Auf dem Pausenhof wackeln Gehwegplatten, das Klettergerüst hat ein gerissenes Seil und scharfe Kanten. Ein Bub ist schon gestürzt und hat sich das Knie aufgeschlagen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Treppen, Geländer und Handläufe müssen standsicher sein und Stürze verhindern. Ein wackelndes Geländer ist sofort zu melden und abzusichern. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L1-008",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Das Geländer mit Absperrband sichern und sofort melden.",
+      "Die Schüler anweisen, sich nicht anzulehnen.",
+      "Das Geländer abschrauben, dann wackelt nichts mehr.",
+      "Abwarten, Eisen hält schon noch eine Weile."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Absichern und melden verhindert Abstürze.",
+      "Falsch: Eine Anweisung schützt Erstklässler nicht.",
+      "Falsch: Entfernen macht die Treppe erst recht gefährlich.",
+      "Falsch: Zuwarten bei Absturzgefahr ist fahrlässig."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger bemerkt im Stiegenhaus, dass das Geländer im zweiten Stock stark wackelt und eine Schraube fehlt. Hunderte Kinder drängen sich dort täglich in der Pause vorbei.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Klassenräume brauchen ausreichend Licht, Luft und angemessene Temperatur. Dauerhaft dunkle, stickige Räume sind kein zumutbarer Unterrichtsort. Zum Nachlesen: TirSOG §70 Abs.2.",
+    "hauptquelle": "TirSOG §70 Abs.2",
+    "id": "C38-L1-009",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Ja, aber nur wenn gerade Budget übrig ist.",
+      "Nein, Kerzenlicht und Stoßlüften durchs Kellerfenster reichen.",
+      "Nein, die Kinder sollen sich an Dunkelheit gewöhnen.",
+      "Ja, der Raum braucht ordentliche Beleuchtung und Lüftung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gesundheit hängt nicht vom Restbudget ab.",
+      "Falsch: Provisorien ersetzen keine ordentliche Ausstattung.",
+      "Falsch: Gewöhnung ist kein pädagogisches Konzept.",
+      "Richtig: Licht und Luft gehören zur Raumtauglichkeit."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Die dritte Klasse sitzt seit dem Umbau in einem fensterlosen Kellerraum mit flackernder Neonröhre und muffiger Luft. Mehrere Kinder klagen über Kopfweh, eine Lehrerin über brennende Augen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Sanitäre Anlagen und Garderoben gehören zur vorgeschriebenen Mindestausstattung der Schule. Zu wenige oder verdreckte Toiletten muss der Schulerhalter beheben. Zum Nachlesen: TirSOG §70 Abs.3.",
+    "hauptquelle": "TirSOG §70 Abs.3",
+    "id": "C38-L1-010",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Nein, die Kinder können in der Nachbarschaft aufs Klo gehen.",
+      "Ja, aber erst beim nächsten Neubau in zehn Jahren.",
+      "Nein, Toiletten sind Privatsache der Familien.",
+      "Ja, der Schulerhalter muss ausreichend saubere WCs bereitstellen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ausweichen in fremde Häuser ist unzumutbar.",
+      "Falsch: Hygiene duldet keinen jahrelangen Aufschub.",
+      "Falsch: Schultoiletten sind Gebäudestandard.",
+      "Richtig: Sanitäranlagen gehören zur Mindestausstattung."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Für zweihundert Kinder gibt es nur zwei funktionierende Toiletten, die Türen lassen sich nicht schließen und es stinkt bestialisch. Eltern beschweren sich bei Direktorin Feistmantl.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Schulmöbel und Einrichtung müssen sicher und dem Alter der Kinder angemessen sein. Wackelige Stühle und splitternde Bänke sind auszutauschen. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C38-L1-011",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Die alten Möbel weiterverwenden, Splitter härten ab.",
+      "Die Gemeinde muss sichere, passende Möbel bereitstellen.",
+      "Jedes Kind bringt seinen eigenen Sessel von zu Hause mit.",
+      "Die Klasse steht künftig im Stehen, dann braucht es nichts."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Verletzungsgefahr ist kein Abhärtungsprogramm.",
+      "Richtig: Einrichtung und Unterrichtsmittel sind Erhaltung.",
+      "Falsch: Private Möbel ersetzen keine Schulausstattung.",
+      "Falsch: Stehunterricht löst keine Möbelgefahr."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "In der ersten Klasse wackeln die Stühle, zwei Bänke haben Splitter und hervorstehende Schrauben. Ein Mädchen hat sich schon einen Schiefer eingezogen, ein Bub kippte um.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Sichere Zugangswege im Winter sind Teil der Erhaltung durch den Schulerhalter. Glatte ungestreute Wege vor Schulbeginn sind ein vermeidbares Risiko. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C38-L1-012",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Die Gemeinde sorgt für Räumung und Streuung der Zugänge.",
+      "Die Kinder streuen vor Unterrichtsbeginn selbst.",
+      "Der Winterdienst entfällt aus Spargründen ersatzlos.",
+      "Die Schule bleibt bei jedem Frost automatisch geschlossen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sichere Wege gehören zur Gebäudebetreuung.",
+      "Falsch: Kinder leisten keinen Winterdienst.",
+      "Falsch: Sparen rechtfertigt keine Sturzgefahr.",
+      "Falsch: Generelle Schließung ist keine Winterstrategie."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach Eisregen gleicht der steile Zugang zur Volksschule einer Rutschbahn, niemand hat gestreut. Zwei Kinder stürzen vor Schulbeginn, eines muss zum Arzt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Eine Baustelle im laufenden Schulbetrieb muss abgesichert und von den Kindern getrennt sein. Offene Gruben neben dem Pausenhof sind unzulässig. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L1-013",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Offene Grube mit Flatterband reicht völlig aus.",
+      "Die Kinder dürfen beim Bagger zuschauen und helfen.",
+      "Die Baustelle muss fest abgesperrt und getrennt sein.",
+      "Warnung in der Morgenansprache ersetzt jede Absperrung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Flatterband hält keine Kinder ab.",
+      "Falsch: Kinder haben auf Baustellen nichts verloren.",
+      "Richtig: Feste Trennung schützt vor Unfällen.",
+      "Falsch: Worte ersetzen keinen Bauzaun."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Während des Zubaus verläuft der Weg zur Turnhalle direkt an einer offenen Baugrube vorbei, nur ein dünnes Band trennt die drängelnden Schüler vom Abgrund. Eltern schlagen Alarm.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Bei akuter Gefahr muss die Aufsicht sofort sichern und warnen, zusätzlich läuft die Mängelmeldung an den Erhalter. Aufsicht entbindet nicht von der Meldung. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L1-014",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Sie sperrt den Bereich, beaufsichtigt ersatzweise und meldet den Mangel.",
+      "Sie ignoriert den Schaden, weil der Hausmeister zuständig ist.",
+      "Sie schickt die Kinder allein über die nasse Stelle.",
+      "Sie wartet auf den Bürgermeister und unterrichtet normal weiter."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sichern, umleiten und melden gehören zusammen.",
+      "Falsch: Zuständigkeit anderer entbindet nicht von Aufsicht.",
+      "Falsch: Kinder allein durch die Gefahr zu schicken ist pflichtwidrig.",
+      "Falsch: Normalbetrieb trotz Gefahr verletzt die Aufsichtspflicht."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Gang steht nach einem Rohrbruch knöcheltief Wasser, daneben liegt ein loses Stromkabel. Die Pausenaufsicht muss zweihundert Kinder durch genau diesen Gang lotsen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Alarm- und Räumungsübungen müssen regelmäßig stattfinden, damit alle wissen wohin. Ein Plan in der Schublade reicht ohne Übung nicht. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L1-015",
+    "level": "L1",
+    "modul_id": "C38",
+    "optionen": [
+      "Übungen sind übertrieben und versetzen Kinder in Panik.",
+      "Ein Plan im Ordner genügt völlig ohne Übung.",
+      "Nur die Lehrer üben heimlich nach Unterrichtsende.",
+      "Die Schule übt regelmäßig die Räumung mit allen Klassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Geübte Abläufe beruhigen statt zu ängstigen.",
+      "Falsch: Ungeübte Pläne scheitern im Ernstfall.",
+      "Falsch: Ohne Kinder übt man am Ernstfall vorbei.",
+      "Richtig: Regelmäßiges Üben macht den Ernstfall beherrschbar."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Beim Probealarm herrscht Chaos: Niemand kennt den Sammelplatz, zwei Klassen rennen in die falsche Richtung, die Fluchttüren klemmen. So etwas wurde an der Schule noch nie geübt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

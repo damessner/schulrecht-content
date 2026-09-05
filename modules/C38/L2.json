@@ -1,1 +1,520 @@
-[]
+[
+  {
+    "aufloesung": "Eine Gebäudebegehung prüft Dach, Fassade, Fenster, Stiegen, Elektro und Sanitäranlagen. Inventur der Schulbücher gehört nicht zur Bausicherheit. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L2-001",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Zustand von Dach, Fassade und Fenstern prüfen.",
+      "Treppen, Geländer und Handläufe auf Standfestigkeit kontrollieren.",
+      "Elektroanlagen und Beleuchtung auf sichtbare Mängel sichten.",
+      "Sanitäranlagen und Wasserversorgung auf Funktion prüfen.",
+      "Den Buchbestand der Schulbibliothek neu inventarisieren.",
+      "Die Notenkonferenzen des Semesters terminlich planen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Dach und Fassade sind klassische Begehungs­punkte.",
+      "Richtig: Stiegen und Geländer entscheiden über Absturzsicherheit.",
+      "Richtig: Sichtbare Elektromängel gehören in jedes Protokoll.",
+      "Richtig: Auch Sanitär und Wasser gehören zur Begehung.",
+      "Falsch: Bibliothek hat mit Bausicherheit nichts zu tun.",
+      "Falsch: Konferenzen sind Organisation, keine Begehung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Steiner plant mit dem Schulwart die jährliche Begehung des alten Schulhauses. Sie will eine Checkliste mit den wichtigsten baulichen Punkten, damit nichts vergessen wird.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Im Klassenzimmer drohen Gefahren durch Möbel, Kabel, Fenster und Schränke. Die Wandfarbe ist Geschmackssache, kein Sicherheitsrisiko. Zum Nachlesen: TirSOG §70 Abs.2.",
+    "hauptquelle": "TirSOG §70 Abs.2",
+    "id": "C38-L2-002",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Wackelige Stühle und Tische mit Splittern oder Schrauben.",
+      "Lose Kabel und überlastete Mehrfachstecker am Boden.",
+      "Ungesicherte Fenster und klemmende Oberlichten.",
+      "Nicht kippsicher aufgestellte Regale und Kästen.",
+      "Die Farbe der Vorhänge passt nicht zum Bodenbelag."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Defekte Möbel verletzen Kinder täglich.",
+      "Richtig: Kabelsalat bedeutet Stolpern und Stromgefahr.",
+      "Richtig: Fenster ohne Sicherung sind Absturzfallen.",
+      "Richtig: Lose Kästen müssen verankert werden.",
+      "Falsch: Ästhetik ist keine Gefahrenstelle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Klassenlehrerin Gruber soll ihre Klasse auf Gefahrenstellen durchsehen, bevor die Erstklässler einziehen. Sie sucht die typischen Risiken, die im Alltag wirklich zu Unfällen führen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Turnsaal-Check umfasst Boden, Geräte, Matten und Erste-Hilfe-Ausstattung. Der Speiseplan der Schulküche gehört nicht dazu. Zum Nachlesen: TirSOG §70 Abs.3.",
+    "hauptquelle": "TirSOG §70 Abs.3",
+    "id": "C38-L2-003",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Sportboden auf Schäden, Splitter und Rutschstellen prüfen.",
+      "Sprossenwand, Tore und Ringe auf feste Verankerung kontrollieren.",
+      "Matten auf Risse prüfen und Schutzabdeckungen anbringen.",
+      "Notausgang des Saals auf freie Benützbarkeit kontrollieren.",
+      "Die Geräteprüfung als Klassendienst an Schüler delegieren.",
+      "Die Menüfolge der Schuljause für die Woche festlegen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Boden ist Unfallursache Nummer eins.",
+      "Richtig: Lose Geräte werden zu gefährlichen Geschossen.",
+      "Richtig: Defekte Matten dämpfen keine Stürze mehr.",
+      "Richtig: Freier Notausgang gehört zum Saal-Check.",
+      "Falsch: Sicherheit prüfen nur Erwachsene und Fachleute.",
+      "Falsch: Jausenplanung ist kein Sicherheitscheck."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Sportlehrer Brunner erstellt einen Sicherheitscheck für den Turnsaal, weil sich dort die meisten Unfälle ereignen. Er will die Punkte sammeln, die vor jeder Benützung wirklich zählen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Außenanlagen brauchen sichere Beläge, intakte Spielgeräte, Zäune und Beleuchtung. Die Auswahl der Pausenmusik ist kein Sicherheitsthema. Zum Nachlesen: TirSOG §70 Abs.3.",
+    "hauptquelle": "TirSOG §70 Abs.3",
+    "id": "C38-L2-004",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Gehwege und Beläge auf Stolperstellen und Löcher prüfen.",
+      "Spiel- und Klettergeräte auf Seile, Schrauben und Kanten kontrollieren.",
+      "Zäune und Tore auf Lücken und Verletzungsgefahr sichten.",
+      "Beleuchtung der Zugangswege im Dunkeln prüfen.",
+      "Die Pausenaufsicht einsparen, der Hof regelt sich selbst.",
+      "Die Playlist für die Pausenbeschallung zusammenstellen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Stolperstellen im Hof verletzen jede Woche Kinder.",
+      "Richtig: Defekte Spielgeräte sind meldepflichtige Gefahren.",
+      "Richtig: Offene Zäune lassen Kinder auf die Straße laufen.",
+      "Richtig: Dunkle Wege brauchen funktionierendes Licht.",
+      "Falsch: Ohne Aufsicht erkennt niemand neue Gefahren.",
+      "Falsch: Musikwünsche haben mit Sicherheit nichts zu tun."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Nach zwei Stürzen am Pausenhof verlangt der Elternverein einen Sicherheitscheck der Außenanlagen. Direktorin Wallner sammelt die Punkte, die Schulwart und Gemeinde abarbeiten müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Zum Brandschutz gehören freie Fluchtwege, gewartete Löscher, Melder und geübte Abläufe. Abgeschlossene Notausgänge sind genau das Gegenteil von Sicherheit. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L2-005",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Fluchtwege und Notausgänge ständig freihalten.",
+      "Feuerlöscher und Brandmelder regelmäßig warten lassen.",
+      "Räumungsübungen mit allen Klassen durchführen.",
+      "Brennbares Material nicht in Fluchtwegen lagern.",
+      "Alle Notausgänge dauerhaft versperren und verriegeln.",
+      "Feuerzeuge und Wunderkerzen im Bastelraum bevorraten."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Freie Wege retten im Ernstfall Leben.",
+      "Richtig: Nur gewartete Geräte funktionieren.",
+      "Richtig: Geübte Abläufe verhindern Panik.",
+      "Richtig: Keine Brandlast in Fluchtwegen lagern.",
+      "Falsch: Versperrte Ausgänge sind lebensgefährlich.",
+      "Falsch: Zündquellen horten ist brandgefährlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Feuerwehr hat eine Brandschau an der Mittelschule angekündigt. Direktor Hofer will vorher selbst prüfen, welche Punkte einen sicheren Brandschutz wirklich ausmachen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Ein Umbau braucht Bedarf, Bewilligung, sichere Bauabwicklung und Abnahme. Heimliches Bauen ohne Verfahren ist unzulässig. Zum Nachlesen: TirSOG §24 Abs.1.",
+    "hauptquelle": "TirSOG §24 Abs.1",
+    "id": "C38-L2-006",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Bedarf und Planung mit Schulleitung und Erhalter klären.",
+      "Bewilligung der Bildungsdirektion vor Baubeginn einholen.",
+      "Baustelle vom Schulbetrieb fest trennen und absichern.",
+      "Fertigstellung abnehmen und Räume freigeben lassen.",
+      "Einfach losbauen und niemanden informieren.",
+      "Schüler als Hilfskräfte auf der Baustelle einsetzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne geklärten Bedarf wird am Ziel vorbeigebaut.",
+      "Richtig: Ohne Bewilligung darf nicht umgebaut werden.",
+      "Richtig: Trennung schützt Kinder vor Bauunfällen.",
+      "Richtig: Erst Abnahme, dann Freigabe der Räume.",
+      "Falsch: Bauen ohne Verfahren ist rechtswidrig.",
+      "Falsch: Kinderarbeit auf Baustellen ist verboten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Gemeinde plant den Umbau der alten Werkstätte zu zwei Klassen. Der Bürgermeister will wissen, welche Verfahrensschritte einzuhalten sind, damit alles ordentlich abläuft.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Eine gute Mängelmeldung nennt Ort, Beschreibung, Gefahr und Beweisfotos. Allgemeine Schuldzuweisungen helfen niemandem weiter. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C38-L2-007",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Genaue Ortsangabe von Raum und Stelle im Gebäude.",
+      "Sachliche Beschreibung des Mangels und seiner Ausmaße.",
+      "Einschätzung der Gefahr und getroffene Sofortmaßnahmen.",
+      "Fotos als Beleg und Datum der Feststellung.",
+      "Allgemeine Beschwerde über die Gemeinde ohne Details."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Ort findet niemand den Schaden.",
+      "Richtig: Nur Konkretes löst Reparaturen aus.",
+      "Richtig: Die Gefahreneinschätzung steuert die Dringlichkeit.",
+      "Richtig: Fotos und Datum machen die Meldung wirksam.",
+      "Falsch: Pauschales Schimpfen repariert nichts."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Mair will dem Bürgermeister einen Wasserschaden so melden, dass sofort gehandelt wird. Sie überlegt, welche Angaben eine Mängelmeldung wirklich wirksam machen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Bei akuter Gefahr heißt es sperren, umleiten, beaufsichtigen und melden. Normalbetrieb trotz Gefahr verletzt die Aufsichtspflicht. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L2-008",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Gefahrenbereich sofort sperren und kennzeichnen.",
+      "Kinder umleiten und verstärkt beaufsichtigen.",
+      "Mangel unverzüglich dem Schulerhalter melden.",
+      "Unterricht normal weiterlaufen lassen und abwarten.",
+      "Kinder zur Mutprobe über die Gefahrenstelle schicken."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Sperren verhindert den nächsten Unfall.",
+      "Richtig: Umleitung plus Aufsicht schützt alle.",
+      "Richtig: Nur die Meldung löst die Reparatur aus.",
+      "Falsch: Weiterbetrieb trotz Gefahr ist pflichtwidrig.",
+      "Falsch: Mutproben im Gefahrenbereich sind inakzeptabel."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Gang hängt eine Deckenverkleidung herunter und pendelt über den Köpfen, darunter drängen sich die Klassen zur Pause. Die Aufsicht muss in Sekunden richtig reagieren.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Sturm und Schnee verlangen Räumung, Streuung, Baumkontrolle und notfalls Sperren. Wegschauen bei Eis und Ästen gefährdet alle. Zum Nachlesen: TirSOG §2 Abs.2 lit.a.",
+    "hauptquelle": "TirSOG §2 Abs.2 lit.a",
+    "id": "C38-L2-009",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Zugangswege vor Schulbeginn räumen und streuen.",
+      "Lose Äste und Bäume nach Sturm kontrollieren lassen.",
+      "Gefährdete Hofbereiche bei Eis oder Sturm sperren.",
+      "Dachlawinen-Warnbereiche absperren und kennzeichnen.",
+      "Bei Glatteis die Kinder zum Abkürzen über den Hang schicken.",
+      "Streugut aus Kostengründen den ganzen Winter wegsperren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Geräumte Wege verhindern Sturzverletzungen.",
+      "Richtig: Sturmholz über dem Hof ist lebensgefährlich.",
+      "Richtig: Sperren schützt bis zur Beseitigung.",
+      "Richtig: Dachlawinenbereiche absperren und kennzeichnen.",
+      "Falsch: Abkürzungen über Eis sind unverantwortlich.",
+      "Falsch: Sparen beim Streugut produziert Unfälle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach starkem Schneefall mit Sturm drohen Dachlawinen über dem Eingang, der Hof ist vereist und ein morscher Ast hängt über der Pausenfläche. Die Direktion plant den Morgen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Sanitär- und Hygieneräume brauchen Funktion, Sauberkeit, Seife und sichere Böden. Kaputte Türen und stinkende Anlagen sind Erhaltermängel. Zum Nachlesen: TirSOG §70 Abs.3.",
+    "hauptquelle": "TirSOG §70 Abs.3",
+    "id": "C38-L2-010",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Ausreichend funktionierende Toiletten und Waschbecken.",
+      "Tägliche Reinigung und funktionierende Spülungen.",
+      "Seife, Papier und intakte Türen mit Verschluss.",
+      "Rutschfeste Böden und ausreichende Beleuchtung.",
+      "Dauerhaft verstopfte WCs kommentarlos hinnehmen.",
+      "Putzmittel offen und kindgerecht im Gang lagern."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zu wenige WCs sind ein Hygienemangel.",
+      "Richtig: Reinigung gehört zur laufenden Erhaltung.",
+      "Richtig: Ausstattung und Privatsphäre sind Standard.",
+      "Richtig: Sichere Böden und Licht verhindern Stürze.",
+      "Falsch: Hinnehmen statt melden löst nichts.",
+      "Falsch: Offene Chemie gehört weggesperrt."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eltern beschweren sich über die Schultoiletten: Dreck, Gestank, fehlende Türen und keine Seife. Direktorin Feistmantl erstellt eine Checkliste für den Schulwart und die Gemeinde.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Baustellen und Fremdpersonen brauchen Bauzaun, getrennte Wege und Anmeldung. Freier Zutritt für alle gefährdet die Kinder. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L2-011",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Baustelle mit festem Zaun vom Schulhof trennen.",
+      "Getrennte Wege für Baufahrzeuge und Schüler festlegen.",
+      "Fremdpersonen anmelden und im Haus begleiten lassen.",
+      "Lärm- und staubintensive Arbeiten in unterrichtsfreie Zeit legen.",
+      "Baufahrzeuge quer über den Pausenhof rangieren lassen.",
+      "Neugierige Schüler zur Besichtigung in die Baugrube lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ein Zaun hält Kinder zuverlässig fern.",
+      "Richtig: Getrennte Wege verhindern Fahrunfälle.",
+      "Richtig: Anmeldung schützt vor unbefugtem Zutritt.",
+      "Richtig: Staub und Lärm gehören in unterrichtsfreie Zeit.",
+      "Falsch: Rangieren unter Kindern ist lebensgefährlich.",
+      "Falsch: Baugruben sind für Kinder tabu."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Während der Sanierung fahren Handwerker und Lieferwagen täglich über das Schulgelände, fremde Personen laufen frei herum. Die Direktion will den Betrieb trotzdem sicher führen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Veranstaltungen im Turnsaal brauchen Fluchtwege, Bestuhlungspläne und Aufsicht. Überfüllung und versperrte Türen sind tabu. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L2-012",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Fluchtwege freihalten und Notausgänge kennzeichnen.",
+      "Bestuhlung mit Rettungsgassen nach Plan aufstellen.",
+      "Ausreichend Aufsicht und Ordner für die Veranstaltung einteilen.",
+      "Doppelt so viele Gäste einlassen wie Plätze vorhanden sind.",
+      "Dekoration aus Papier direkt an die Scheinwerfer hängen.",
+      "Notausgänge wegen Schwarzsehern absperren."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Freie Wege entscheiden über sichere Räumung.",
+      "Richtig: Geplante Gassen halten Rettungswege offen.",
+      "Richtig: Ohne Ordner steuert niemand den Ernstfall.",
+      "Falsch: Überfüllung blockiert jede Flucht.",
+      "Falsch: Deko an Lampen ist brandgefährlich.",
+      "Falsch: Versperrte Ausgänge sperren den Fluchtweg."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Schule plant ein großes Adventkonzert im Turnsaal mit dreihundert Gästen. Direktor Gruber will vorher klären, welche Sicherheits­punkte bei der Veranstaltung wirklich zählen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Barrierefreiheit bedeutet stufenlose Zugänge, Handläufe, Aufzug und geeignete WCs. Reine Treppenhäuser schließen Kinder aus. Zum Nachlesen: TirSOG §70 Abs.2.",
+    "hauptquelle": "TirSOG §70 Abs.2",
+    "id": "C38-L2-013",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Stufenlose Zugänge und Rampen zum Gebäude schaffen.",
+      "Handläufe beidseitig und gut greifbar anbringen.",
+      "Aufzug oder Treppenlift für obere Stockwerke vorsehen.",
+      "Behindertengerechte Toilette einrichten und freihalten.",
+      "Alle Zugänge ausschließlich über steile Treppen führen.",
+      "Rampen dauerhaft mit Mülltonnen und Geräten verstellen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Stufenlosigkeit öffnet die Schule für alle.",
+      "Richtig: Sichere Handläufe helfen allen Kindern.",
+      "Richtig: Obere Klassen müssen erreichbar bleiben.",
+      "Richtig: Eine eigene barrierefreie Toilette gehört dazu.",
+      "Falsch: Nur Treppen schließen Rollstühle aus.",
+      "Falsch: Verstellte Rampen sind nutzlose Rampen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler sitzt nach einem Unfall im Rollstuhl, seine Klasse ist im zweiten Stock ohne Lift. Die Eltern fragen, welche baulichen Anpassungen die Schule nun braucht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Zum Notfall gehören Verbandskasten, Defibrillator, Notrufnummern und geschultes Personal. Abgelaufenes Material schützt niemanden. Zum Nachlesen: TirSOG §70 Abs.1.",
+    "hauptquelle": "TirSOG §70 Abs.1",
+    "id": "C38-L2-014",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Verbandskästen voll bestückt und griffbereit halten.",
+      "Notrufnummern und Alarmplan gut sichtbar aushängen.",
+      "Ersthelfer im Kollegium ausbilden und benennen.",
+      "Abgelaufenes Verbandszeug jahrelang weiterverwenden.",
+      "Den Verbandskasten im versperrten Keller archivieren.",
+      "Verletzungen grundsätzlich verheimlichen und aussitzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Vollständige Kästen retten die ersten Minuten.",
+      "Richtig: Sichtbare Nummern beschleunigen den Notruf.",
+      "Richtig: Geschulte Ersthelfer handeln statt zu zögern.",
+      "Falsch: Abgelaufenes Material ist unbrauchbar.",
+      "Falsch: Weggesperrte Hilfe hilft niemandem.",
+      "Falsch: Verheimlichen verletzt Hilfe- und Meldepflichten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Beim Sportfest blutet ein Schüler stark an der Stirn, niemand findet einen Verbandskasten und die Notrufnummer sucht das Kollegium erst im Internet. Die Direktion will das künftig anders organisieren.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Nach dem Umbau braucht es Abnahme, Freigabe, Einweisung und Mängelbeseitigung. Einzug auf eigene Faust ist unzulässig. Zum Nachlesen: TirSOG §24 Abs.1.",
+    "hauptquelle": "TirSOG §24 Abs.1",
+    "id": "C38-L2-015",
+    "level": "L2",
+    "modul_id": "C38",
+    "optionen": [
+      "Bauabnahme und behördliche Freigabe der Räume abwarten.",
+      "Sicherheitseinrichtungen wie Melder und Beleuchtung prüfen.",
+      "Personal in neue Technik und Fluchtwege einweisen.",
+      "Restmängel schriftlich festhalten und beseitigen lassen.",
+      "Klassen ohne Freigabe heimlich vorzeitig beziehen.",
+      "Fehlende Geländer durch gut gemeinte Zuraufe ersetzen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne Abnahme keine Inbetriebnahme.",
+      "Richtig: Technik muss vor Einzug funktionieren.",
+      "Richtig: Nur Eingeübte finden im Ernstfall hinaus.",
+      "Richtig: Restmängel protokollieren und beseitigen lassen.",
+      "Falsch: Vorbezug ohne Freigabe ist unzulässig.",
+      "Falsch: Zurufe ersetzen keine Absturzsicherung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Zubau ist fast fertig, die Baufirma drängt auf Übergabe vor den Herbstferien. Die Direktion will die neuen Klassen erst beziehen, wenn wirklich alles sicher ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  }
+]
