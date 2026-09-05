@@ -1,1 +1,254 @@
-[]
+[
+  {
+    "id": "A21-L4-001",
+    "modul_id": "A21",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Emre besteht im Herbst die Wiederholungsprüfung in Mathematik und steigt damit auf. Noch vor Schulbeginn meldet er sich an einer anderen Schule an, die den Aufstieg anzweifelt, weil nur das alte Zeugnis ohne Ergänzung vorgelegt wurde. Was gilt?",
+    "optionen": [
+      "Der Aufstieg gilt erst, wenn die neue Schule ihn bestätigt.",
+      "Emre muss die Prüfung an der neuen Schule wiederholen.",
+      "Die bestandene Prüfung samt Zeugnisergänzung und Aufstiegsvermerk weisen den Aufstieg nach, die neue Schule übernimmt ihn.",
+      "Das alte Zeugnis ohne Ergänzung reicht als Nachweis."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Der Aufstieg hängt nicht von einer zweiten Bestätigung ab.",
+      "Falsch: Zweimal prüfen für denselben Stoff gibt es nicht.",
+      "Richtig: Ergänzung und Vermerk machen den Aufstieg amtlich und übertragbar.",
+      "Falsch: Ohne Ergänzung bleibt der Aufstieg unsichtbar."
+    ],
+    "aufloesung": "Emre steigt auf und die Ergänzung beweist es der neuen Schule. Stelle Bestätigung und Zeugnisergänzung zügig aus und lege Kopien zum Akt. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L4-002",
+    "modul_id": "A21",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "MS",
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Sofia tritt im Herbst in Deutsch und Mathematik an. Deutsch besteht sie, Mathematik bleibt negativ. Sie bittet, wegen des bestandenen Fachs trotzdem aufzusteigen und Mathematik im Winter nachzuholen. Was gilt?",
+    "optionen": [
+      "Sie steigt auf, weil eine bestandene Prüfung reicht.",
+      "Sie bekommt im Winter einen Extratermin für Mathematik.",
+      "Sie steigt nicht auf und wiederholt die Stufe, weil weiterhin ein Hindernis besteht.",
+      "Die Konferenz streicht die negative Note wegen der guten Deutschleistung."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Halb bestanden räumt das zweite Hindernis nicht weg.",
+      "Falsch: Einen Wintertermin auf Wunsch gibt es nicht.",
+      "Richtig: Jedes Hindernis muss fallen, sonst folgt das Wiederholen.",
+      "Falsch: Verrechnen oder Streichen ist nicht vorgesehen."
+    ],
+    "aufloesung": "Sofia wiederholt die Stufe trotz der bestandenen Deutschprüfung. Erkläre die Folge ehrlich, plane das Wiederholungsjahr und sichere die Förderung. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L4-003",
+    "modul_id": "A21",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer negativen Wiederholungsprüfung kündigen die Eltern schriftlich an, gegen die Entscheidung vorzugehen, und verlangen sofortige Akteneinsicht sowie eine Nachverhandlung der Note im Direktionszimmer. Wie reagiert die Schule korrekt?",
+    "optionen": [
+      "Die Note wird im Direktionszimmer neu verhandelt, bis alle zufrieden sind.",
+      "Die Schule verweigert jede Auskunft und jede Einsicht.",
+      "Die Schule hält das Verfahren ein, legt den vollständigen Akt bereit, erklärt den zulässigen Weg mit Form und Frist und verhandelt die Note nicht unter Druck.",
+      "Die Prüfung wird ohne Prüfung des Akts sofort als bestanden gewertet."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Noten werden nicht verhandelt wie auf einem Markt.",
+      "Falsch: Abschotten statt Aufklären verschärft den Konflikt.",
+      "Richtig: Verfahren einhalten, Akt bereithalten, Weg und Frist erklären.",
+      "Falsch: Umetikettieren ohne Grundlage ist unzulässig."
+    ],
+    "aufloesung": "Die Schule bleibt beim Verfahren und begleitet den Rechtsbehelf korrekt. Bereite den Akt vollständig auf, erkläre Form und Frist ruhig und dokumentiere alles. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L4-004",
+    "modul_id": "A21",
+    "level": "L4",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach bestandener Wiederholungsprüfung stellt das Sekretariat das ergänzte Zeugnis aus, trägt aber versehentlich das falsche Fach ein. Der Schüler bemerkt den Fehler bei der Bewerbung um eine Lehrstelle und braucht rasch ein korrektes Papier. Was ist zu tun?",
+    "optionen": [
+      "Der Fehler bleibt stehen, Zeugnisse dürfen nie berichtigt werden.",
+      "Es wird ein völlig neues Zeugnis ohne jeden Vermerk über die Prüfung ausgestellt.",
+      "Die Schule berichtigt den Vermerk offen, stellt eine korrekte Ergänzung mit Aufstiegsvermerk aus und dokumentiert die Berichtigung zum Akt.",
+      "Der Schüler muss die Prüfung wegen des Schreibfehlers wiederholen."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Offene Fehler offen zu berichtigen ist Pflicht.",
+      "Falsch: Verschleiern des Prüfungswegs ist unzulässig.",
+      "Richtig: Korrigieren, neu ausstellen und Berichtigung dokumentieren.",
+      "Falsch: Ein Kanzleifehler löst keine neue Prüfung aus."
+    ],
+    "aufloesung": "Der Schreibfehler wird offen berichtigt und das korrekte Papier rasch ausgestellt. Vermerke die Berichtigung mit Datum und Handzeichen und lege alles zum Akt. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L4-005",
+    "modul_id": "A21",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lukas ist bei der Wiederholungsprüfung endgültig negativ und wiederholt die Schulstufe. Als Klassenvorstand planst du mit ihm und seinen Eltern den Neustart ins neue Schuljahr. Wähle alle richtigen Maßnahmen.",
+    "optionen": [
+      "Das Wiederholen als normalen Lernweg ohne Beschämung erklären und Ziele für das Jahr vereinbaren.",
+      "Klassenzuweisung klären und den neuen Klassenvorstand mit Lernstand und Förderbedarf vertraut machen.",
+      "Förderunterricht und Lernbegleitung anbieten und einen Lernplan vereinbaren.",
+      "Einen zweiten Antritt im selben Herbst versprechen, wenn er fleißig ist.",
+      "Die negative Prüfung aus dem Akt entfernen, damit das neue Jahr unbelastet wirkt.",
+      "Den Eltern verbieten, Fragen zum weiteren Weg zu stellen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Perspektive ohne Beschämung trägt den Neustart.",
+      "Richtig: Saubere Übergabe verhindert Fehlstarts im September.",
+      "Richtig: Konkrete Förderung hilft mehr als Appelle.",
+      "Falsch: Gefälligkeitsantritte gibt es nicht.",
+      "Falsch: Akten schönen zerstört die Nachvollziehbarkeit.",
+      "Falsch: Fragen abzuwehren verletzt das Vertrauen."
+    ],
+    "aufloesung": "Lukas startet geordnet und gefördert ins Wiederholungsjahr. Plane Klasse, Förderung und Übergabe gemeinsam mit Familie und Lehrerkollegium und dokumentiere alles. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L4-006",
+    "modul_id": "A21",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Eltern eines negativ beurteilten Kandidaten bringen eine schriftliche Beschwerde mit Frist ein und behaupten Befangenheit und Protokollmängel. Du bist mit der Prüfung des Falls beauftragt und musst den Vorgang mit dem Aufstiegsweg verbinden. Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Den Prüfungsakt vollständig beiziehen: Anmeldung, Verständigungsnachweise, Bestellungen, Aufgaben, Protokoll und Beurteilung.",
+      "Die Kommission anhören, die Vorwürfe sachlich prüfen und jede Feststellung schriftlich festhalten.",
+      "Bestätigte Formfehler offen einräumen und die Prüfung korrekt wiederholen lassen.",
+      "Die Beschwerde ungelesen ablegen, weil Noten nie überprüfbar seien.",
+      "Die Note unter dem Druck der Beschwerde sofort verbessern.",
+      "Beweismittel wie Atteste und Protokolle vernichten, um das Verfahren zu verkürzen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Nur der vollständige Akt trägt die Entscheidung.",
+      "Richtig: Anhörung und Dokumentation sichern Fairness.",
+      "Richtig: Fehler einräumen und wiederholen statt vertuschen.",
+      "Falsch: Weglegen löst keinen Fristlauf.",
+      "Falsch: Druckkorrekturen sind unzulässig.",
+      "Falsch: Vernichten zerstört jede Überprüfbarkeit."
+    ],
+    "aufloesung": "Der Fall wird anhand des vollständigen Akts sachlich geprüft und sauber entschieden. Lege alles vor, höre die Kommission an und ziehe bei Fehlern die korrekte Wiederholung durch. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [
+      "SchUG §20 Abs.5"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L4-007",
+    "modul_id": "A21",
+    "level": "L4",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nina besteht die Wiederholungsprüfung in Englisch knapp und steigt auf. In den ersten Wochen des neuen Schuljahres zeigen sich deutliche Lücken aus dem Vorjahr. Die Eltern fürchten, sie falle wieder zurück. Wähle alle richtigen Maßnahmen.",
+    "optionen": [
+      "Den Aufstieg anerkennen und Nina regulär in der neuen Klasse mitarbeiten lassen.",
+      "Den Lernstand erheben und gezielte Förderung mit Förderunterricht und Lernplan vereinbaren.",
+      "Den Austausch zwischen Fachlehrern und Klassenvorstand sichern und Fortschritte dokumentieren.",
+      "Nina trotz Aufstieg wieder zurückstufen, weil sie Lücken hat.",
+      "Jede Förderung verweigern, wer aufsteigt, brauche keine Hilfe.",
+      "Das bestandene Ergebnis nachträglich aberkennen, um sie zu motivieren."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bestanden bleibt bestanden, der Platz ist ihrer.",
+      "Richtig: Frühe Förderung schließt Lücken statt sie wachsen zu lassen.",
+      "Richtig: Abgestimmtes Vorgehen macht Fortschritte sichtbar.",
+      "Falsch: Zurückstufen nach Aufstieg ist nicht vorgesehen.",
+      "Falsch: Knapp bestanden heißt erst recht fördern.",
+      "Falsch: Aberkennen als Motivation ist unzulässig."
+    ],
+    "aufloesung": "Ninas Aufstieg steht und die Lücken werden gezielt geschlossen. Vereinbare Förderung und Lernplan, halte den Austausch eng und dokumentiere die Schritte. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L4-008",
+    "modul_id": "A21",
+    "level": "L4",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check am Elternabend: Eine Mutter behauptet: Wer die Wiederholungsprüfung besteht, bekommt ein komplett neues Jahreszeugnis, in dem von der Prüfung nichts mehr zu sehen ist.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Der Weg zum Aufstieg bleibt sichtbar.",
+      "Richtig erkannt: Die bestandene Prüfung wird ergänzt und der Aufstieg vermerkt, nicht verschwiegen."
+    ],
+    "aufloesung": "Der Aufstieg über die Prüfung wird sauber ergänzt und vermerkt. Stelle die Ergänzung korrekt aus und erkläre den Vermerk den Eltern. Zum Nachlesen: SchUG §20 Abs.5.",
+    "hauptquelle": "SchUG §20 Abs.5",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]

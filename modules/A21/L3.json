@@ -1,1 +1,378 @@
-[]
+[
+  {
+    "id": "A21-L3-001",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Freitag, 12 Uhr mittags endet laut Aushang vom Schulschluss die Anmeldefrist für die Herbstprüfungen. Vater Novak wirft die unterschriebene Anmeldung für seinen Sohn erst um 18 Uhr in den Schulbriefkasten, das Sekretariat findet sie am Montag. Er besteht auf einem Antritt, weil der Brief ja vom Freitag sei.",
+    "optionen": [
+      "Der Antritt wird zugelassen, weil der Brief am Freitag eingeworfen wurde.",
+      "Es gibt keinen Anspruch auf einen Antritt in diesem Durchgang, weil die Anmeldung erst nach Fristende eingelangt ist.",
+      "Die Direktion muss aus Kulanz immer einen Extratermin geben.",
+      "Ein Antritt ist möglich, wenn am Prüfungstag ein Stuhl frei bleibt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Einwurf nach Fristende wahrt die Frist nicht.",
+      "Richtig: Entscheidend ist der rechtzeitige Eingang bei der Schule.",
+      "Falsch: Kulanz erzeugt keinen Anspruch auf einen Extratermin.",
+      "Falsch: Freie Plätze ersetzen keine fristgerechte Anmeldung."
+    ],
+    "aufloesung": "Der verspätete Einwurf wahrt die Frist nicht, daher kein Antritt in diesem Durchgang. Entscheidend ist der rechtzeitige Eingang bei der Schule, nicht das Schreiben oder Einwerfen. Weise Fristen mit Datum und Uhrzeit aus und protokolliere jeden Eingang. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-002",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Matteo hat das ganze Jahr bezahlten Nachhilfeunterricht bei Herrn Gruber, der nun als Prüfer für Matteos Wiederholungsprüfung in Mathematik eingeteilt ist. Die Direktorin meint, gerade er kenne den Schüler am besten und solle prüfen. Matteo fühlt sich unwohl und die Eltern sprechen von Befangenheit.",
+    "optionen": [
+      "Herr Gruber prüft wie eingeteilt, weil er den Schüler am besten kennt.",
+      "Die Einteilung bleibt, solange Matteo nicht laut widerspricht.",
+      "Es wird ein anderer Prüfer bestellt, weil der Anschein der Befangenheit das Ergebnis angreifbar macht.",
+      "Matteo bekommt ohne Prüfung ein Genügend, damit sich niemand beschwert."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Nähe zum Schüler ist kein Ersatz für Unbefangenheit.",
+      "Falsch: Schweigen heilt den Anschein der Befangenheit nicht.",
+      "Richtig: Ein unverdächtiger Prüfer schützt Ergebnis und Vertrauen.",
+      "Falsch: Eine Note ohne Prüfung ist unzulässig."
+    ],
+    "aufloesung": "Der befangene Prüfer wird ausgetauscht und Ersatz bestellt. Private Nähe zum Kandidaten macht jede Beurteilung angreifbar, auch bei bestem Willen. Dokumentiere die Umbestellung schriftlich zum Akt. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-003",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lena schreibt seit zwanzig Minuten an der schriftlichen Wiederholungsprüfung, als ihr schwarz vor Augen wird und sie zusammenbricht. Die Aufsicht bricht ihren Antritt ab, leistet Hilfe und dokumentiert den Vorfall genau. Am Nachmittag bringt die Mutter eine ärztliche Bestätigung über den akuten Infekt, Lena bittet um einen Ersatztermin.",
+    "optionen": [
+      "Die angefangene Arbeit wird normal benotet, ein Abbruch zählt immer als Nicht genügend.",
+      "Der abgebrochene Antritt wird nicht als Prüfungsantritt gewertet, Lena bekommt einen Ersatztermin mit gleichem Stoff.",
+      "Lena muss die Stufe wiederholen, ein Abbruch ist endgültig.",
+      "Die Note wird aus Mitleid auf Genügend gesetzt, damit sie aufsteigt."
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch: Eine belegte akute Erkrankung ist kein Scheitern.",
+      "Richtig: Belegter Abbruch führt zum Ersatztermin bei gleichem Maßstab.",
+      "Falsch: Endgültig ist hier gar nichts, der Weg bleibt offen.",
+      "Falsch: Mitleidsnoten verfälschen das Verfahren."
+    ],
+    "aufloesung": "Der belegte Abbruch wird nicht gewertet und Lena erhält einen Ersatztermin. Halte Abbruch, Hilfeleistung und Nachweis im Protokoll fest und organisiere den Neutermin mit gleicher Stoffgrundlage. Zum Nachlesen: SchUG §20 Abs.3.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [
+      "SchUG §20 Abs.4"
+    ],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-004",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer negativ beurteilten Wiederholungsprüfung verlangen die Eltern eine Begründung. Das Protokoll enthält nur Name, Datum und die Note samt Unterschriften, aber keine Aufgaben und keine Beschreibung der Leistungen. Der Prüfer sagt, an alles könne er sich noch genau erinnern.",
+    "optionen": [
+      "Das Kurzprotokoll reicht, die Erinnerung des Prüfers ersetzt die Dokumentation.",
+      "Die Eltern haben kein Recht auf irgendeine Begründung.",
+      "Das Protokoll ist mangelhaft, weil Aufgaben und Leistungen fehlen, das Ergebnis ist nicht nachvollziehbar und muss sauber neu aufgesetzt werden.",
+      "Die Note wird ohne neues Verfahren auf Genügend geändert, um den Streit zu beenden."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erinnerungen sind im Streitfall nichts wert.",
+      "Falsch: Nachvollziehbarkeit gehört zu jedem Verfahren.",
+      "Richtig: Ohne Aufgaben und Leistung trägt keine Note.",
+      "Falsch: Streit beenden durch Umetikettieren ist unzulässig."
+    ],
+    "aufloesung": "Der Mangel wird offen eingestanden und die Prüfung korrekt wiederholt. Nur Aufgaben, Leistungen und Begründung im Protokoll machen eine Note überprüfbar. Sichere künftig Formulare und Kontrolle vor der Unterschrift. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-005",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Aydin schickt fristgerecht eine E-Mail ohne Unterschrift ins Schulpostfach und kündigt die unterschriebene Anmeldung für später an. Das unterschriebene Blatt langt erst eine Woche nach Fristende im Sekretariat ein. Die Eltern meinen, die E-Mail habe die Frist gewahrt.",
+    "optionen": [
+      "Die Frist ist gewahrt, weil irgendeine Nachricht rechtzeitig ankam.",
+      "Die Nachreichung heilt den Mangel rückwirkend, weil der Wille erkennbar war.",
+      "Die Anmeldung ist verspätet, weil erst die wirksame Anmeldung der berechtigten Person innerhalb der Frist zählt.",
+      "Eine mündliche Zusage ersetzt die fehlende Unterschrift automatisch."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Irgendeine Nachricht ersetzt keine wirksame Anmeldung.",
+      "Falsch: Nach Fristende lässt sich die Frist nicht rückwirkend retten.",
+      "Richtig: Person, Form und Frist müssen gemeinsam stimmen.",
+      "Falsch: Mündliches ersetzt die schriftliche Form nicht."
+    ],
+    "aufloesung": "Die verspätete wirksame Anmeldung begründet keinen Anspruch auf den Antritt. Achte auf berechtigte Person, Unterschrift und Eingangsdatum und bestätige Eingänge schriftlich. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-006",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "single",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Während der mündlichen Wiederholungsprüfung verlässt der Beisitzer für etwa fünfzehn Minuten den Raum, um einen dringenden Anruf zu erledigen. Prüfer und Vorsitz setzen die Prüfung in dieser Zeit fort und beurteilen danach positiv. Im Protokoll steht vom Fehlen nichts.",
+    "optionen": [
+      "Das ist in Ordnung, weil am Ende alle unterschrieben haben.",
+      "Die kurze Abwesenheit ist egal, solange das Ergebnis positiv ist.",
+      "Die Prüfung ist formell fehlerhaft, weil sie zeitweise ohne vollständige Kommission lief und der Ablauf verschwiegen wurde.",
+      "Der Beisitzer darf fehlen, wenn der Prüfer erfahren genug ist."
+    ],
+    "richtig": [
+      2
+    ],
+    "pro_option_feedback": [
+      "Falsch: Unterschriften heilen die zeitweise Fehlbesetzung nicht.",
+      "Falsch: Auch ein gutes Ergebnis braucht ein sauberes Verfahren.",
+      "Richtig: Vollständigkeit gilt für die ganze Prüfung, nicht für den Schluss.",
+      "Falsch: Erfahrung ersetzt keine Besetzung."
+    ],
+    "aufloesung": "Der Fehler wird offengelegt und die Prüfung mit vollständiger Kommission wiederholt. Halte Anwesenheit und Unterbrechungen wahrheitsgemäß im Protokoll fest und unterbrich lieber offiziell als heimlich weiterzumachen. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-007",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Selin ist fristgerecht zur Wiederholungsprüfung in Englisch angemeldet. Mitte Juli zieht ihre Mutter die Anmeldung schriftlich zurück, weil die Familie den Sommer verplant hat. Ende August will Selin nach schlechten Nachhilfetests doch antreten und beruft sich auf die ursprüngliche Anmeldung. Wähle alle rechtsrichtigen Feststellungen.",
+    "optionen": [
+      "Die schriftliche Rücknahme hat die ursprüngliche Anmeldung beseitigt, sie lebt nicht automatisch wieder auf.",
+      "Nach Fristende entsteht durch die Reue kein neuer Anspruch auf einen Antritt in diesem Durchgang.",
+      "Die Schule dokumentiert Rücknahme und verspäteten Wiederwunsch mit Datum zum Akt.",
+      "Die ursprüngliche Anmeldung gilt trotz Rücknahme weiter, einmal angemeldet heißt immer angemeldet.",
+      "Aus Entgegenkommen wird ein Sondertermin außerhalb des Durchgangs erfunden.",
+      "Ein mündlicher Wiederwunsch am Prüfungstag reicht als neue Anmeldung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Zurückgenommen bleibt zurückgenommen.",
+      "Richtig: Reue nach Fristende schafft keinen Anspruch.",
+      "Richtig: Beide Schreiben mit Datum ablegen sichert die Entscheidung.",
+      "Falsch: Eine beseitigte Anmeldung wirkt nicht fort.",
+      "Falsch: Extradurchgänge auf Zuruf gibt es nicht.",
+      "Falsch: Mündliches am Prüfungstag ersetzt keine fristgerechte Anmeldung."
+    ],
+    "aufloesung": "Die Rücknahme beendet das Verfahren und der späte Wiederwunsch begründet keinen Antritt. Dokumentiere beide Schritte mit Datum und erkläre den Weg ins nächste Schuljahr. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-008",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Herbst stellt sich heraus, dass für drei Wiederholungsprüfungen nie ein Vorsitz bestellt wurde. Die Prüfungen liefen nur mit Prüfer und Beisitz, die Protokolle tragen nur Kürzel statt Unterschriften und listen keine Aufgaben auf. Die Ergebnisse waren zweimal positiv und einmal negativ. Wähle alle richtigen Feststellungen.",
+    "optionen": [
+      "Ohne bestellten Vorsitz war keine der drei Prüfungen vorschriftsmäßig besetzt.",
+      "Kürzel ohne Namen und fehlende Aufgaben machen die Protokolle nicht nachvollziehbar.",
+      "Alle drei Durchgänge müssen offen eingestanden und korrekt wiederholt werden.",
+      "Positive Ergebnisse bleiben gültig, nur das negative wird wiederholt.",
+      "Ein fehlender Vorsitz ist ein Schönheitsfehler ohne Folgen.",
+      "Kürzel und Erinnerungen ersetzen Aufgaben und Unterschriften."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Besetzung ist Gültigkeitsvoraussetzung für jeden Durchgang.",
+      "Richtig: Ohne Aufgaben und Namen trägt kein Protokoll.",
+      "Richtig: Gleiche Fehler brauchen gleiche Korrektur, unabhängig vom Ergebnis.",
+      "Falsch: Gute Ergebnisse heilen Formfehler nicht.",
+      "Falsch: Verharmlosen gefährdet alle drei Ergebnisse.",
+      "Falsch: Erinnerung ersetzt keine Dokumentation."
+    ],
+    "aufloesung": "Alle drei Prüfungen sind formell fehlerhaft und werden korrekt wiederholt. Lege Fehler offen, bestelle Vorsitz schriftlich nach und verwende vollständige Protokolle. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-009",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am Prüfungstag erscheinen zwei Kandidaten nicht wie geplant. Jonas meldet sich vor Beginn krank, bleibt erreichbar und bringt am nächsten Tag eine ärztliche Bestätigung. David fehlt kommentarlos, sein Cousin ruft mittags an und behauptet, David sei sicher auch krank, ein Nachweis kommt nie. Wähle alle rechtsrichtigen Maßnahmen.",
+    "optionen": [
+      "Jonas Meldung mit Uhrzeit festhalten und die ärztliche Bestätigung zum Akt nehmen.",
+      "Jonas einen Ersatztermin mit gleichem Stoff und voller Kommission geben.",
+      "Davids Fehlen samt unbelegter Cousin-Behauptung dokumentieren und keinen Ersatztermin auf Zuruf geben.",
+      "Beide Fälle gleich behandeln und beiden automatisch einen Neutermin geben.",
+      "Den Cousin-Anruf als ausreichenden Nachweis für David werten.",
+      "Jonas trotz Nachweis als unentschuldigt werten, weil er gefehlt hat."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Rechtzeitige Meldung plus Nachweis öffnen den Ersatzweg.",
+      "Richtig: Gleicher Stoff und volle Form sichern Fairness.",
+      "Richtig: Behauptungen Dritter ersetzen Meldung und Nachweis nicht.",
+      "Falsch: Gleichmacherei verwischt belegte und unbelegte Fälle.",
+      "Falsch: Hörensagen ist kein Nachweis.",
+      "Falsch: Belegtes Fehlen ist kein unentschuldigtes Fehlen."
+    ],
+    "aufloesung": "Jonas erhält einen Ersatztermin, Davids Fehlen bleibt folgenbehaftet. Trenne die Verfahren sauber, dokumentiere jeden Schritt und teile Entscheidungen schriftlich mit. Zum Nachlesen: SchUG §20 Abs.3.",
+    "hauptquelle": "SchUG §20 Abs.3",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-010",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einer negativ protokollierten und unterschriebenen Wiederholungsprüfung radiert der Prüfer allein die Note aus, trägt handschriftlich ein Genügend ein und informiert niemanden. Die Direktorin entdeckt die Änderung ohne Datum und Handzeichen bei der Aktkontrolle. Wähle alle richtigen Schritte.",
+    "optionen": [
+      "Die ungültige Änderung nicht anerkennen und den ursprünglichen protokollierten Stand sichern.",
+      "Den Sachverhalt mit Prüfer und Kommission klären und jede Korrektur nur ordnungsgemäß mit Datum, Handzeichen und Begründung vornehmen.",
+      "Den Vorgang lückenlos dokumentieren und die Eltern sachlich über Stand und weiteres Vorgehen informieren.",
+      "Die handschriftliche Änderung stillschweigend übernehmen, damit Ruhe herrscht.",
+      "Das Protokoll vernichten und die Prüfung vergessen lassen.",
+      "Dem Prüfer erlauben, Noten künftig allein nach Gefühl zu ändern."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Alleingänge am Protokoll haben keine Wirkung.",
+      "Richtig: Korrekturen brauchen Verfahren, Datum und Begründung.",
+      "Richtig: Transparenz und Dokumentation tragen die Entscheidung.",
+      "Falsch: Stillschweigen macht aus dem Mangel kein Recht.",
+      "Falsch: Vernichten löscht den einzigen Nachweis.",
+      "Falsch: Noten setzt die Kommission, nie eine Person allein."
+    ],
+    "aufloesung": "Die eigenmächtige Änderung gilt nicht, der Fall wird ordnungsgemäß aufgearbeitet. Sichere das Original, kläre den Sachverhalt im Gremium und dokumentiere jeden Schritt. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-011",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "multiple",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Familie Demir verbringt nach dem Zeugnistag zwei Monate im Ausland und liest weder Aushang noch Mitteilungen. Die Anmeldefrist verstreicht ungenutzt. Nach der Rückkehr verlangt sie einen Sonderantritt aus sozialen Gründen und verweist auf Unkenntnis und einen leeren Platz im Prüfungsplan. Wähle alle rechtsrichtigen Feststellungen.",
+    "optionen": [
+      "Unkenntnis der bekannt gegebenen Frist entschuldigt die Versäumnis grundsätzlich nicht.",
+      "Ohne fristgerechte Anmeldung besteht kein Anspruch auf einen Antritt oder Sondertermin in diesem Durchgang.",
+      "Die Schule belegt Aushang, Mitteilung und Fristablauf aus dem Akt und führt das Gespräch sachlich und schriftlich.",
+      "Leere Plätze im Plan erzeugen einen Anspruch auf Nachanmeldung.",
+      "Soziale Gründe ersetzen die versäumte Anmeldung automatisch.",
+      "Die Direktion erfindet einen Extradurchgang nur für diese Familie."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bekannt gegebene Fristen gelten auch im Urlaub.",
+      "Richtig: Ohne Anmeldung kein Antritt, auch nicht aus Mitleid.",
+      "Richtig: Belege und sachliche Gesprächsführung schützen beide Seiten.",
+      "Falsch: Freie Kapazität schafft kein Recht.",
+      "Falsch: Härte ersetzt das Verfahren nicht.",
+      "Falsch: Sonderdurchgänge für Einzelne brechen die Ordnung."
+    ],
+    "aufloesung": "Die versäumte Frist bleibt versäumt, auch bei verständlicher Enttäuschung. Weise Bekanntgabe und Ablauf nach, führe das Gespräch wertschätzend und plane den regulären Weg im Wiederholungsjahr. Zum Nachlesen: SchUG §20 Abs.2.",
+    "hauptquelle": "SchUG §20 Abs.2",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  },
+  {
+    "id": "A21-L3-012",
+    "modul_id": "A21",
+    "level": "L3",
+    "typ": "tf",
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Ein Kollege behauptet: Wenn bei einer Wiederholungsprüfung das Protokoll fehlt oder lückenhaft ist, genügt es völlig, dass sich die Kommission noch gut an das Ergebnis erinnert.",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "richtig": [
+      1
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Erinnerungen ersetzen kein Protokoll.",
+      "Richtig erkannt: Ohne Aufgaben, Leistungen und Unterschriften ist das Ergebnis nicht überprüfbar."
+    ],
+    "aufloesung": "Die Erinnerung trägt kein Verfahren, nur das vollständige Protokoll zählt. Führe Aufgaben, Leistungen, Beurteilung und Unterschriften noch am Prüfungstag. Zum Nachlesen: SchUG §20 Abs.4.",
+    "hauptquelle": "SchUG §20 Abs.4",
+    "zusatzquellen": [],
+    "stand": "04.09.2026"
+  }
+]
