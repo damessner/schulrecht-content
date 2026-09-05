@@ -1,1 +1,429 @@
-[]
+[
+  {
+    "aufloesung": "Gruber muss die Tätigkeit unverzüglich melden. Wer regelmäßig gegen Bezahlung arbeitet, übt eine erwerbsmäßige Nebenbeschäftigung aus, und genau diese ist meldepflichtig. Zum Nachlesen: LDG §40 Abs.3.",
+    "hauptquelle": "LDG §40 Abs.3",
+    "id": "B24-L1-001",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Nein, was er in seiner Freizeit tut, geht den Dienstgeber grundsätzlich nichts an.",
+      "Er muss es erst melden, wenn das Zusatzeinkommen sein Lehrergehalt übersteigt.",
+      "Ja, jede erwerbsmäßige Nebenbeschäftigung ist unverzüglich zu melden.",
+      "Eine Meldung ist nur nötig, wenn die Direktion ausdrücklich danach fragt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erwerbsmäßige Nebenbeschäftigungen sind ausdrücklich meldepflichtig.",
+      "Falsch: Auf die Höhe des Einkommens kommt es für die Meldepflicht nicht an.",
+      "Richtig: Regelmäßige bezahlte Arbeit ist unverzüglich zu melden.",
+      "Falsch: Die Meldepflicht besteht von sich aus, nicht erst auf Nachfrage."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Gruber gibt zweimal pro Woche abends bezahlten Nachhilfeunterricht in einem privaten Lerninstitut und verdient damit regelmäßig dazu. Er fragt sich, ob er das seiner Dienstbehörde von sich aus sagen muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Falks Onlineshop ist erwerbsmäßig und damit meldepflichtig. Entscheidend ist, ob die Schaffung nennenswerter Einkünfte bezweckt wird, nicht ob ein Gewerbe angemeldet ist. Zum Nachlesen: LDG §40 Abs.3.",
+    "hauptquelle": "LDG §40 Abs.3",
+    "id": "B24-L1-002",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Falk übt eine erwerbsmäßige Nebenbeschäftigung aus, weil er nennenswerte Einkünfte bezweckt.",
+      "Ohne Gewerbeanmeldung liegt keine erwerbsmäßige Beschäftigung vor.",
+      "Nur Tätigkeiten mit Kundenkontakt gelten als erwerbsmäßige Nebenbeschäftigung.",
+      "Onlineverkäufe zählen grundsätzlich nie als Nebenbeschäftigung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Gewinnerzielungsabsicht macht die Tätigkeit erwerbsmäßig.",
+      "Falsch: Die Gewerbeanmeldung ist kein Kriterium des Gesetzes.",
+      "Falsch: Auch ein Onlineshop ohne Kundenkontakt kann erwerbsmäßig sein.",
+      "Falsch: Entscheidend ist die Einkunftsabsicht, nicht der Vertriebsweg."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Falk verkauft regelmäßig über einen Onlineshop zugekaufte Waren mit deutlichem Gewinn weiter. Er behauptet, das sei keine erwerbsmäßige Nebenbeschäftigung, weil er kein Gewerbe angemeldet habe.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Wieser muss die Vortragstätigkeit einschränken oder aufgeben. Eine Nebenbeschäftigung ist unzulässig, wenn sie den Lehrer an der Erfüllung seiner dienstlichen Aufgaben behindert. Zum Nachlesen: LDG §40 Abs.2.",
+    "hauptquelle": "LDG §40 Abs.2",
+    "id": "B24-L1-003",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Das ist allein seine Privatsache, solange er körperlich anwesend ist.",
+      "Er darf die Vorträge uneingeschränkt fortsetzen, weil sie seinem Ansehen als Lehrer nützen.",
+      "Die Schule muss ihm montags einen leichteren Stundenplan geben, damit er sich erholen kann.",
+      "Die Vortragstätigkeit ist unzulässig, weil sie ihn an der Erfüllung seiner Dienstpflichten behindert."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Auswirkungen auf den Dienst machen sie zur Dienstsache.",
+      "Falsch: Ansehen rechtfertigt keine Beeinträchtigung des Unterrichts.",
+      "Falsch: Die Schule muss ihren Betrieb nicht an die Nebenbeschäftigung anpassen.",
+      "Richtig: Behinderung der Aufgabenerfüllung macht die Nebenbeschäftigung unzulässig."
+    ],
+    "richtig": [
+      3
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Professor Wieser hält jedes Wochenende bezahlte Vorträge im ganzen Land und erscheint montags regelmäßig übermüdet und unvorbereitet zum Unterricht. Seine Klassen leiden spürbar unter den ausfallenden Vorbereitungen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Hofer darf an dieser Entscheidung nicht mitwirken. Eine Nebenbeschäftigung ist unzulässig, wenn sie die Vermutung der Befangenheit hervorruft, etwa bei bezahlter Verlagstätigkeit und Bücherentscheidung. Zum Nachlesen: LDG §40 Abs.2.",
+    "hauptquelle": "LDG §40 Abs.2",
+    "id": "B24-L1-004",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Das ist unbedenklich, solange sie sich bei der Abstimmung ihrer guten Gründe sicher ist.",
+      "Die Verlagstätigkeit ruft die Vermutung der Befangenheit hervor, daher darf sie nicht mitentscheiden.",
+      "Sie darf mitentscheiden, muss aber vorher den Verlag über ihr Abstimmungsverhalten informieren.",
+      "Nur unbezahlte Nebentätigkeiten können eine Befangenheitsvermutung auslösen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Schon die Vermutung der Befangenheit genügt, das subjektive Gefühl zählt nicht.",
+      "Richtig: Bezahlte Verlagsarbeit plus Bücherentscheidung begründet die Vermutung.",
+      "Falsch: Den Verlag zu informieren löst das Problem nicht, sondern verschärft es.",
+      "Falsch: Gerade bezahlte Tätigkeiten rufen typischerweise die Vermutung hervor."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Hofer arbeitet nebenbei bezahlt für einen Schulbuchverlag und soll in der Schule über die Anschaffung genau der Bücher dieses Verlags für ihre Klassen mitentscheiden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Egger braucht vorher die Genehmigung der Dienstbehörde. Wer die Unterrichtsverpflichtung zur Betreuung eines Kindes herabgesetzt hat, darf eine erwerbsmäßige Nebenbeschäftigung nur mit Genehmigung ausüben. Zum Nachlesen: LDG §40 Abs.4.",
+    "hauptquelle": "LDG §40 Abs.4",
+    "id": "B24-L1-005",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Sie darf sofort beginnen, eine Meldung nach einigen Monaten genügt.",
+      "Sie darf die Nebenbeschäftigung nur mit vorheriger Genehmigung der Dienstbehörde ausüben.",
+      "Bei herabgesetzter Verpflichtung sind Nebenbeschäftigungen generell verboten.",
+      "Die Zustimmung der Schulleitung allein reicht jedenfalls aus."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Erforderlich ist eine vorherige Genehmigung, keine nachträgliche Meldung.",
+      "Richtig: Herabgesetzte Verpflichtung plus erwerbsmäßige Tätigkeit braucht die Genehmigung.",
+      "Falsch: Verboten ist sie nicht, sie ist nur genehmigungspflichtig.",
+      "Falsch: Zuständig ist die Dienstbehörde, nicht die Schulleitung allein."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger hat ihre Unterrichtsverpflichtung zur Betreuung ihres kleinen Kindes herabsetzen lassen und will nun zusätzlich an drei Nachmittagen pro Woche bezahlt in einer Lernbetreuung arbeiten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Berger muss die Aufsichtsratstätigkeit jedenfalls melden. Eine Tätigkeit im Organ einer auf Gewinn gerichteten juristischen Person des Privatrechts ist immer meldepflichtig. Zum Nachlesen: LDG §40 Abs.5.",
+    "hauptquelle": "LDG §40 Abs.5",
+    "id": "B24-L1-006",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Nur ehrenamtliche Funktionen in Vereinen sind zu melden, bezahlte Mandate nicht.",
+      "Er muss gar nichts melden, weil die Firma nichts mit Schule zu tun hat.",
+      "Er muss die Tätigkeit jedenfalls melden, weil die Firma auf Gewinn ausgerichtet ist.",
+      "Eine Meldung ist erst nötig, wenn er dort mehr verdient als im Schuldienst."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade Organfunktionen in Gewinnunternehmen sind ausdrücklich meldepflichtig.",
+      "Falsch: Der Schulbezug ist keine Voraussetzung für diese Meldepflicht.",
+      "Richtig: Organ einer gewinnorientierten Firma zu sein ist immer zu melden.",
+      "Falsch: Auf die Einkommenshöhe kommt es hier nicht an."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lehrer Berger lässt sich in den Aufsichtsrat einer privaten Nachhilfefirma wählen, die auf Gewinn ausgerichtet ist. Er meint, das gehe den Dienstgeber nichts an, weil die Firma mit seiner Schule nichts zu tun habe.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Steiner braucht dafür vorher eine Genehmigung. Privatunterricht an Schüler der eigenen Schule darf nur mit vorheriger Genehmigung erteilt werden. Zum Nachlesen: LDG §40 Abs.6.",
+    "hauptquelle": "LDG §40 Abs.6",
+    "id": "B24-L1-007",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Das ist erlaubt, weil die Eltern freiwillig zahlen und ihn darum gebeten haben.",
+      "Er braucht dafür die vorherige Genehmigung, weil es Schüler seiner eigenen Schule sind.",
+      "Es genügt, wenn er die Nachhilfe günstiger anbietet als andere Institute.",
+      "Verboten wäre es nur, wenn er die Schüler im Unterricht schlechter benoten würde."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Freiwilligkeit der Zahlung ersetzt die erforderliche Genehmigung nicht.",
+      "Richtig: Privatunterricht für eigene Schüler braucht die vorherige Genehmigung.",
+      "Falsch: Der Preis spielt für die Genehmigungspflicht keine Rolle.",
+      "Falsch: Die Genehmigungspflicht gilt schon vorher, nicht erst bei schlechteren Noten."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Steiner gibt gegen Bezahlung regelmäßig Nachhilfestunden an Schülerinnen und Schüler seiner eigenen Klasse. Die Eltern haben ihn darum gebeten und zahlen gern, weil er die Kinder so gut kennt.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Aigner braucht vorher eine Genehmigung. Der Betrieb einer Privatschule neben dem Schuldienst bedarf der vorhergehenden Genehmigung. Zum Nachlesen: LDG §40 Abs.6.",
+    "hauptquelle": "LDG §40 Abs.6",
+    "id": "B24-L1-008",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Er darf die Abendschule gründen, solange sie nur Erwachsene unterrichtet.",
+      "Der Betrieb einer Privatschule braucht vorher die Genehmigung.",
+      "Es reicht, wenn er die Direktion formlos darüber informiert.",
+      "Genehmigungspflichtig wäre nur der Unterricht an Kindern, nicht an Erwachsenen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch eine Erwachsenen-Abendschule ist eine genehmigungspflichtige Privatschule.",
+      "Richtig: Der Privatschulbetrieb braucht die vorhergehende Genehmigung.",
+      "Falsch: Eine formlose Information ersetzt die Genehmigung nicht.",
+      "Falsch: Das Gesetz unterscheidet hier nicht nach dem Alter der Lernenden."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "BHS",
+      "BS"
+    ],
+    "situation": "Professor Aigner will neben seinem Schuldienst eine private Abendschule für Erwachsene gründen und selbst leiten. Er meint, das sei unproblematisch, weil dort keine Kinder unterrichtet werden.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Pichler braucht vorher eine Genehmigung. Die Aufnahme von Schülern der eigenen Schule in Kost und Quartier bedarf der vorhergehenden Genehmigung. Zum Nachlesen: LDG §40 Abs.6.",
+    "hauptquelle": "LDG §40 Abs.6",
+    "id": "B24-L1-009",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Das ist reine Privatsache zwischen ihr und den Eltern.",
+      "Die Aufnahme eigener Schüler in Kost und Quartier braucht vorher die Genehmigung.",
+      "Es genügt, wenn die Schüler woanders zur Schule gehen als sie unterrichtet.",
+      "Verboten wäre es nur bei unentgeltlicher Aufnahme aus Mitleid."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei eigenen Schülern ist es gerade keine reine Privatsache.",
+      "Richtig: Kost und Quartier für eigene Schüler braucht die vorherige Genehmigung.",
+      "Falsch: Die Schüler besuchen ihre eigene Schule, das löst die Pflicht aus.",
+      "Falsch: Umgekehrt gilt die Pflicht gerade für die bezahlte Aufnahme."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Pichler nimmt gegen Bezahlung zwei Schüler ihrer eigenen Schule bei sich zu Hause in Kost und Quartier auf, weil deren Eltern beruflich viel unterwegs sind.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Behörde muss die Tätigkeit unverzüglich mit schriftlicher Weisung untersagen. Die Ausübung einer unzulässigen Nebenbeschäftigung ist von der zuständigen Behörde sofort zu untersagen. Zum Nachlesen: LDG §40 Abs.7.",
+    "hauptquelle": "LDG §40 Abs.7",
+    "id": "B24-L1-010",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Die Behörde hat die unzulässige Nebenbeschäftigung unverzüglich mit schriftlicher Weisung zu untersagen.",
+      "Die Behörde kann nur unverbindlich empfehlen, die Tätigkeit zu beenden.",
+      "Zuständig für die Untersagung ist allein die Schulleitung vor Ort.",
+      "Eine Untersagung ist erst nach einem Jahr erfolgloser Ermahnung möglich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unzulässige Nebenbeschäftigungen sind sofort per Weisung zu untersagen.",
+      "Falsch: Es handelt sich um eine verbindliche Weisung, keine Empfehlung.",
+      "Falsch: Zuständig ist die landesgesetzlich berufene Behörde.",
+      "Falsch: Die Untersagung hat unverzüglich zu erfolgen, nicht erst nach einem Jahr."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Die Dienstbehörde erfährt, dass ein Lehrer seit Monaten einer bezahlten Nebentätigkeit nachgeht, die seine dienstlichen Aufgaben nachweislich beeinträchtigt und wichtige dienstliche Interessen gefährdet.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Lehrerin darf das Geld weder fordern noch annehmen. Im Hinblick auf die amtliche Stellung oder Amtsführung Geschenke oder Vorteile anzunehmen ist verboten. Zum Nachlesen: LDG §41 Abs.1.",
+    "hauptquelle": "LDG §41 Abs.1",
+    "id": "B24-L1-011",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Sie darf das Geld annehmen, wenn sie die Note trotzdem objektiv gibt.",
+      "Sie darf das Geld weder fordern noch annehmen, das ist verboten.",
+      "Sie darf es annehmen, muss es aber mit den Kolleginnen teilen.",
+      "Verboten wäre nur das aktive Fordern, nicht das stille Annehmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch bei objektiver Benotung bleibt die Annahme verboten.",
+      "Richtig: Fordern und Annehmen solcher Zuwendungen sind untersagt.",
+      "Falsch: Teilen mit Kolleginnen macht die verbotene Annahme nicht erlaubt.",
+      "Falsch: Verboten sind Fordern, Annehmen und Sich-versprechen-Lassen gleichermaßen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Kurz vor der Notenkonferenz bieten Eltern der Klassenlehrerin ein Kuvert mit 200 Euro an, damit ihr Sohn eine bessere Note im Zeugnis bekommt. Die Lehrerin überlegt, das Geld zu nehmen und trotzdem gerecht zu benoten.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Lehrerin darf die Pralinen annehmen. Eine ortsübliche Aufmerksamkeit von geringem Wert gilt nicht als verbotenes Geschenk. Zum Nachlesen: LDG §41 Abs.2.",
+    "hauptquelle": "LDG §41 Abs.2",
+    "id": "B24-L1-012",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Sie muss die Pralinen ablehnen, weil jede Zuwendung verboten ist.",
+      "Sie darf die kleine Aufmerksamkeit annehmen, sie gilt nicht als verbotenes Geschenk.",
+      "Sie darf sie nur annehmen, wenn sie sie der Direktion vorher meldet.",
+      "Sie muss den Wert der Pralinen an die Schule überweisen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Geringfügige ortsübliche Aufmerksamkeiten sind ausdrücklich ausgenommen.",
+      "Richtig: Eine kleine Aufmerksamkeit geringen Werts darf angenommen werden.",
+      "Falsch: Für solche Kleinigkeiten ist keine Meldung vorgesehen.",
+      "Falsch: Eine Ablösezahlung an die Schule ist nicht vorgesehen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Eine Schülerin schenkt ihrer Lehrerin zu Weihnachten aus Dankbarkeit eine kleine Schachtel Pralinen. Die Lehrerin freut sich, ist aber unsicher, ob sie das Päckchen überhaupt behalten darf.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Klassenvorstand muss die Gutscheine ablehnen. Wiederkehrende Zuwendungen, mit denen eine fortlaufende Einnahme verschafft wird, bleiben auch bei kleinem Einzelwert verboten. Zum Nachlesen: LDG §41 Abs.2.",
+    "hauptquelle": "LDG §41 Abs.2",
+    "id": "B24-L1-013",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Er muss die monatlichen Gutscheine ablehnen, weil sie eine fortlaufende Einnahme darstellen.",
+      "Einzelne 50-Euro-Gutscheine sind immer geringfügig und daher erlaubt.",
+      "Er darf sie annehmen, wenn er sich dafür jedes Mal herzlich bedankt.",
+      "Erlaubt wäre es, wenn die Gutscheine vom Elternverein statt vom Vater kämen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wiederkehrende Zuwendungen als Einnahmequelle bleiben verboten.",
+      "Falsch: Die Wiederholung macht sie zur verbotenen fortlaufenden Einnahme.",
+      "Falsch: Bedanken ändert nichts am Verbot wiederkehrender Vorteile.",
+      "Falsch: Auch über den Elternverein bliebe es eine wiederkehrende Zuwendung."
+    ],
+    "richtig": [
+      0
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Ein Vater steckt dem Klassenvorstand seines Sohnes jeden Monat einen 50-Euro-Gutschein zu, als Zeichen der Wertschätzung für die gute Betreuung. Der Lehrer fragt sich, ob die kleinen Beträge ein Problem sind.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Lehrer darf die Medaille entgegennehmen, muss sie aber unverzüglich melden. Ehrengeschenke von öffentlich-rechtlichen Körperschaften dürfen angenommen werden, die Dienstbehörde ist sofort in Kenntnis zu setzen. Zum Nachlesen: LDG §41 Abs.4.",
+    "hauptquelle": "LDG §41 Abs.4",
+    "id": "B24-L1-014",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Er muss die Medaille ablehnen, weil jede Annahme verboten ist.",
+      "Er darf sie entgegennehmen, muss die Dienstbehörde aber unverzüglich informieren.",
+      "Er darf sie behalten und verkaufen, ohne jemandem etwas zu sagen.",
+      "Es genügt, wenn er die Ehrung am Jahresende im Tätigkeitsbericht erwähnt."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ehrengeschenke von öffentlich-rechtlichen Körperschaften dürfen angenommen werden.",
+      "Richtig: Annehmen ja, aber die Dienstbehörde ist unverzüglich zu informieren.",
+      "Falsch: Verschweigen und Verwerten ist nicht zulässig.",
+      "Falsch: Verlangt ist eine unverzügliche Meldung, kein Jahresbericht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Bürgermeister überreicht einem Lehrer bei einer öffentlichen Feier eine Gedenkmedaille der Stadt für seine Verdienste um das Schulorchester. Der Lehrer ist stolz und fragt sich, was er nun tun muss.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Moser muss sich der Prüfung enthalten und seine Vertretung veranlassen. Wichtige Gründe, die die volle Unbefangenheit in Zweifel ziehen, verpflichten zum Rückzug aus der Amtshandlung. Zum Nachlesen: LDG §34.",
+    "hauptquelle": "LDG §34",
+    "id": "B24-L1-015",
+    "level": "L1",
+    "modul_id": "B24",
+    "optionen": [
+      "Er darf mitprüfen, wenn er verspricht, besonders streng zu benoten.",
+      "Er muss sich der Prüfung enthalten und seine Vertretung veranlassen.",
+      "Es genügt, wenn er den Vorsitzenden vorab über das Verwandtschaftsverhältnis informiert.",
+      "Er soll die Tochter zuerst prüfen, damit kein Verdacht entsteht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Strenge gleicht die Befangenheit nicht aus und schadet dem Kind.",
+      "Richtig: Enthaltung plus Vertretung ist der vorgeschriebene Weg.",
+      "Falsch: Information allein ersetzt die Enthaltung nicht.",
+      "Falsch: Die Reihenfolge der Prüfung ändert nichts an der Befangenheit."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lehrer Moser ist als Prüfer für die mündliche Abschlussprüfung eingeteilt, bei der auch seine eigene Tochter antreten wird. Er meint, er könne Berufliches und Privates gut trennen.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  }
+]

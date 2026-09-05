@@ -1,1 +1,542 @@
-[]
+[
+  {
+    "aufloesung": "Brunner braucht für Privatschule, Privatunterricht eigener Schüler sowie Kost und Quartier vorher eine Genehmigung. Genau diese drei Tätigkeiten nennt das Gesetz als genehmigungspflichtig. Zum Nachlesen: LDG §40 Abs.6.",
+    "hauptquelle": "LDG §40 Abs.6",
+    "id": "B24-L2-001",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Betrieb einer privaten Abendschule neben dem Schuldienst.",
+      "Bezahlter Privatunterricht für Schüler der eigenen Schule.",
+      "Aufnahme von Schülern der eigenen Schule in Kost und Quartier.",
+      "Bezahlte Nachhilfe für Schüler einer fremden Schule.",
+      "Leitung eines ehrenamtlichen Chors ohne jede Bezahlung.",
+      "Gelegentliche unbezahlte Aushilfe im Familienbetrieb."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Der Privatschulbetrieb braucht die vorherige Genehmigung.",
+      "Richtig: Privatunterricht für eigene Schüler ist genehmigungspflichtig.",
+      "Richtig: Kost und Quartier für eigene Schüler braucht die Genehmigung.",
+      "Falsch: Fremde Schüler lösen nur die Meldepflicht aus, keine Genehmigung.",
+      "Falsch: Unbezahlte ehrenamtliche Tätigkeit ist weder melde- noch genehmigungspflichtig.",
+      "Falsch: Unbezahlte gelegentliche Hilfe ist keine erwerbsmäßige Beschäftigung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner überlegt, welche bezahlten Tätigkeiten er neben dem Schuldienst ausüben könnte, von der Abendschule über Nachhilfe bis zur Aufnahme von Schülern bei sich zu Hause. Er will wissen, wofür er vorher eine Genehmigung braucht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Melden muss Brunner die erwerbsmäßige Nachhilfe, jede Änderung davon und die Aufsichtsratstätigkeit. Unbezahlte Hobbys und einmalige Gefälligkeiten sind nicht meldepflichtig. Zum Nachlesen: LDG §40 Abs.3 und Abs.5.",
+    "hauptquelle": "LDG §40 Abs.3",
+    "id": "B24-L2-002",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Regelmäßige bezahlte Nachhilfe an einem Lerninstitut.",
+      "Erhöhung seiner bezahlten Institutstunden von vier auf zehn pro Woche.",
+      "Sitz im Aufsichtsrat einer auf Gewinn ausgerichteten Bildungsfirma.",
+      "Unbezahltes Gärtnern im eigenen Garten als Hobby.",
+      "Einmalige unbezahlte Hilfe beim Umzug eines Freundes."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Erwerbsmäßige Nebenbeschäftigungen sind unverzüglich zu melden.",
+      "Richtig: Auch jede Änderung einer gemeldeten Tätigkeit ist zu melden.",
+      "Richtig: Organfunktionen in Gewinnunternehmen sind jedenfalls zu melden.",
+      "Falsch: Ein unbezahltes Hobby ist keine erwerbsmäßige Beschäftigung.",
+      "Falsch: Eine einmalige unbezahlte Gefälligkeit ist nicht meldepflichtig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Brunner geht mehreren Tätigkeiten nach: bezahlter Nachhilfe, einem Aufsichtsratsposten in einer Bildungsfirma, Gärtnern als Hobby und gelegentlichen Gefälligkeiten. Er will wissen, was er alles melden muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §40 Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Verboten ist eine Nebenbeschäftigung bei Behinderung der Dienstpflichten, Befangenheitsvermutung oder Gefährdung wesentlicher dienstlicher Interessen. Freizeitlage oder Einkommenshöhe sind keine Kriterien. Zum Nachlesen: LDG §40 Abs.2.",
+    "hauptquelle": "LDG §40 Abs.2",
+    "id": "B24-L2-003",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Sie behindert den Lehrer an der Erfüllung seiner dienstlichen Aufgaben.",
+      "Sie ruft die Vermutung seiner Befangenheit hervor.",
+      "Sie gefährdet sonstige wesentliche dienstliche Interessen.",
+      "Sie findet ausschließlich in der unterrichtsfreien Zeit statt.",
+      "Sie bringt mehr Geld ein als der Lehrerberuf selbst.",
+      "Sie macht dem Lehrer mehr Freude als der Schuldienst."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Behinderung der Aufgabenerfüllung macht sie unzulässig.",
+      "Richtig: Die Befangenheitsvermutung ist ein eigener Verbotsgrund.",
+      "Richtig: Die Gefährdung dienstlicher Interessen verbietet sie ebenfalls.",
+      "Falsch: Die Freizeitlage allein macht eine problematische Tätigkeit nicht zulässig.",
+      "Falsch: Auf die Einkommenshöhe kommt es nicht an.",
+      "Falsch: Persönliche Freude ist kein rechtliches Kriterium."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Im Konferenzzimmer diskutieren Lehrpersonen, wann eine Nebenbeschäftigung neben dem Schuldienst eigentlich unzulässig ist. Mehrere Meinungen über Zeitlage, Verdienst und Freude an der Tätigkeit stehen im Raum.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Genehmigungspflicht trifft Lehrpersonen mit herabgesetzter Verpflichtung, in Teilzeit nach Mutterschutz- oder Väterkarenzgesetz sowie in Karenz zur Pflege eines behinderten Kindes. Vollzeitkräfte ohne solche Maßnahmen brauchen nur zu melden. Zum Nachlesen: LDG §40 Abs.4.",
+    "hauptquelle": "LDG §40 Abs.4",
+    "id": "B24-L2-004",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Lehrerin mit herabgesetzter Unterrichtsverpflichtung zur Kinderbetreuung.",
+      "Lehrer in Teilzeitbeschäftigung nach dem Väterkarenzgesetz.",
+      "Lehrerin im Karenzurlaub zur Pflege ihres behinderten Kindes.",
+      "Lehrer mit voller Lehrverpflichtung ohne jede Herabsetzung.",
+      "Lehrer im Ruhestand über 65 ohne jede Verpflichtung.",
+      "Lehrerin mit unbezahltem Hobby ohne Einkünfte."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Herabgesetzte Verpflichtung löst die Genehmigungspflicht aus.",
+      "Richtig: Teilzeit nach dem Väterkarenzgesetz gehört zu den genannten Fällen.",
+      "Richtig: Auch dieser Karenzurlaub führt zur Genehmigungspflicht.",
+      "Falsch: Volle Verpflichtung ohne Maßnahme bedeutet nur Meldepflicht.",
+      "Falsch: Der Ruhestand ist kein Fall dieser Bestimmung.",
+      "Falsch: Ohne Einkünfte liegt keine erwerbsmäßige Tätigkeit vor."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Drei Kolleginnen mit reduzierter Dienstzeit und zwei weitere Lehrpersonen überlegen jeweils, bezahlte Nebentätigkeiten aufzunehmen. Sie fragen, wer von ihnen dafür vorher eine Genehmigung der Dienstbehörde braucht.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Steiner braucht für die eigenen Schüler eine Genehmigung, muss die fremden als erwerbsmäßige Tätigkeit melden und darf eigene Nachhilfeschüler nicht selbst prüfen. Die Freiwilligkeit der Zahlung ändert daran nichts. Zum Nachlesen: LDG §40 Abs.6, Abs.3 und §34.",
+    "hauptquelle": "LDG §40 Abs.6",
+    "id": "B24-L2-005",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Für den bezahlten Unterricht an Schülern der eigenen Schule braucht er vorher eine Genehmigung.",
+      "Die bezahlte Nachhilfe für Schüler fremder Schulen muss er unverzüglich melden.",
+      "Seine eigenen Nachhilfeschüler darf er nicht selbst prüfen, er muss sich enthalten.",
+      "Die Bitte der Eltern und deren freiwillige Zahlung ersetzen Genehmigung und Meldung.",
+      "Ein niedrigerer Preis als bei Instituten macht Genehmigung und Meldung entbehrlich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eigene Schüler bedeuten vorherige Genehmigungspflicht.",
+      "Richtig: Fremde Schüler gegen Bezahlung sind erwerbsmäßig und meldepflichtig.",
+      "Richtig: Bezahlte Nachhilfeschüler zu prüfen begründet Befangenheit.",
+      "Falsch: Freiwilligkeit der Zahlung ersetzt keine Pflicht.",
+      "Falsch: Der Preis spielt für beide Pflichten keine Rolle."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Lehrer Steiner gibt gegen Bezahlung Nachhilfe, teils an Schüler seiner eigenen Klasse auf Bitte der Eltern, teils an Schüler fremder Schulen. Am Semesterende soll er alle diese Kinder auch selbst benoten und prüfen.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §40 Abs.3",
+      "LDG §34"
+    ]
+  },
+  {
+    "aufloesung": "Ablehnen muss die Lehrerin Geld, das teure Tablet und den hohen Gutschein vor der Notenkonferenz. Die kleine Schokolade und der einfache Blumenstrauß sind geringfügige Aufmerksamkeiten. Zum Nachlesen: LDG §41 Abs.1 und Abs.2.",
+    "hauptquelle": "LDG §41 Abs.1",
+    "id": "B24-L2-006",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Kuvert mit 200 Euro vor der Notenkonferenz für eine bessere Note.",
+      "Hochwertiges Tablet als Dank für die gute Betreuung im Semester.",
+      "Tankgutschein über 100 Euro kurz vor der Entscheidung über eine Berechtigung.",
+      "Kleine Schachtel Pralinen zu Weihnachten als Dankeschön.",
+      "Einfacher Blumenstrauß zum Schulschluss von der ganzen Klasse.",
+      "Einladung aller Eltern zum Schulfest ohne persönliche Zuwendung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Geld im Zusammenhang mit der Amtsführung ist verboten.",
+      "Richtig: Ein hochwertiges Gerät ist kein geringfügiger Wert.",
+      "Richtig: Hohe Gutscheine vor Entscheidungen sind klar abzulehnen.",
+      "Falsch: Kleine Pralinen sind eine erlaubte geringfügige Aufmerksamkeit.",
+      "Falsch: Ein einfacher Blumenstrauß der Klasse bleibt im erlaubten Rahmen.",
+      "Falsch: Eine allgemeine Einladung ohne Zuwendung ist unproblematisch."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Eine Klassenlehrerin erhält im Laufe des Schuljahres verschiedene Zuwendungen von Eltern: Geld vor der Notenkonferenz, ein Tablet, einen hohen Gutschein, aber auch Pralinen und einen Blumenstrauß. Sie prüft, was sie ablehnen muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §41 Abs.2"
+    ]
+  },
+  {
+    "aufloesung": "Die Bücherkisten darf die Schule nur behalten, wenn die Zuwendung der Schule zukommt, kein Konnex zu einem Amtsgeschäft besteht, jeder Anschein der Beeinflussung ausgeschlossen ist und alles dokumentiert wird. Eine mündliche Absprache und eine Gegenleistung an einzelne Kinder genügen nicht. Zum Nachlesen: LDG §41 Abs.7.",
+    "hauptquelle": "LDG §41 Abs.7",
+    "id": "B24-L2-007",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Die Zuwendung kommt ausschließlich der Schule als Rechtsträger zugute.",
+      "Sie steht in keinem Zusammenhang mit einer konkreten Entscheidung der Schule.",
+      "Schon der Anschein einer Beeinflussung der Amtsführung ist ausgeschlossen.",
+      "Der gesamte Vorgang wird ordnungsgemäß aktenmäßig dokumentiert.",
+      "Eine mündliche Absprache mit dem Verlag genügt statt einer Dokumentation.",
+      "Als Gegenleistung bevorzuget der Lehrer Verlagskinder bei der Notengebung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Zuwendung muss der Schule zukommen, nicht der Person.",
+      "Richtig: Jeder Konnex zu einem konkreten Amtsgeschäft muss fehlen.",
+      "Richtig: Bereits der Anschein einer Beeinflussung muss ausgeschlossen sein.",
+      "Richtig: Ohne ordnungsgemäße Dokumentation ist die Ausnahme nicht erfüllt.",
+      "Falsch: Mündliche Absprachen ersetzen die aktenmäßige Dokumentation nicht.",
+      "Falsch: Bevorzugung einzelner Kinder widerspricht jeder Ausnahme."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Ein Schulbuchverlag bietet einer Volksschule kostenlos mehrere Bücherkisten für die Klassenbücherei an. Die Direktion will das Angebot prüfen und fragt, unter welchen Voraussetzungen die Schule die Spende überhaupt behalten darf.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Den Fortbildungsvorteil darf Berger annehmen, weil allen dasselbe gewährt wird, der Standard üblich ist, der Bezug zur Veranstaltung besteht und kein Konnex zu einem Amtsgeschäft vorliegt. Exklusive Extras und Entscheider-Einladungen fallen nicht darunter. Zum Nachlesen: LDG §41 Abs.6.",
+    "hauptquelle": "LDG §41 Abs.6",
+    "id": "B24-L2-008",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Der Vorteil wird grundsätzlich allen Teilnehmenden der Veranstaltung gewährt.",
+      "Er entspricht dem üblichen Standard vergleichbarer Veranstaltungen.",
+      "Er hat einen inhaltlichen Bezug zur Veranstaltung selbst.",
+      "Er steht abgesehen davon in keinem Konnex zu einem konkreten Amtsgeschäft.",
+      "Ein luxuriöses Begleitprogramm nur für einzelne Ehrengäste ist ebenfalls gedeckt.",
+      "Eine Einladung nur an jene, die gerade über einen Auftrag entscheiden, ist unbedenklich."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Gleichbehandlung aller Teilnehmenden ist Voraussetzung.",
+      "Richtig: Der Vorteil muss dem üblichen Standard entsprechen.",
+      "Richtig: Ein inhaltlicher Bezug zur Veranstaltung ist nötig.",
+      "Richtig: Jeder Konnex zu einem konkreten Amtsgeschäft schadet.",
+      "Falsch: Exklusive Luxus-Extras sprengen den üblichen Standard.",
+      "Falsch: Gezielte Entscheider-Einladungen stehen im Konnex zum Amtsgeschäft."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Lehrer Berger nimmt an einer mehrtägigen Fortbildung eines Bildungsverlags teil, bei der alle Teilnehmenden dieselben Unterlagen, Pausenverpflegung und Fachvorträge erhalten. Er fragt, ob er diese Vorteile annehmen darf.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Medaille darf er entgegennehmen, muss sie aber unverzüglich melden, und die Behörde kann sie als Landesvermögen erfassen. Verschweigen, Verkaufen und Sammelmeldungen am Jahresende genügen nicht. Zum Nachlesen: LDG §41 Abs.4 und Abs.5.",
+    "hauptquelle": "LDG §41 Abs.4",
+    "id": "B24-L2-009",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Ehrengeschenke von öffentlich-rechtlichen Körperschaften dürfen entgegengenommen werden.",
+      "Die Dienstbehörde ist unverzüglich über das Ehrengeschenk in Kenntnis zu setzen.",
+      "Die Dienstbehörde kann das Ehrengeschenk als Landesvermögen erfassen.",
+      "Ehrengeschenke von lediglich symbolischem Wert dürfen persönlich behalten werden.",
+      "Das Geschenk darf stillschweigend behalten und verkauft werden.",
+      "Es genügt, alle Ehrungen gesammelt am Jahresende zu melden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ehrengeschenke solcher Stellen dürfen angenommen werden.",
+      "Richtig: Die Meldung hat unverzüglich zu erfolgen.",
+      "Richtig: Die Erfassung als Landesvermögen ist möglich.",
+      "Falsch: Nur geringfügige oder symbolische Stücke bleiben zur Nutzung überlassen.",
+      "Falsch: Verschweigen und Verkaufen sind nicht zulässig.",
+      "Falsch: Verlangt ist Unverzüglichkeit, keine Sammelmeldung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer erhält von der Stadt eine Ehrenmedaille für seine Verdienste um das Schulorchester, dazu eine wertvolle Uhr vom Veranstalter. Er überlegt, was er behalten, melden oder abliefern muss.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §41 Abs.5"
+    ]
+  },
+  {
+    "aufloesung": "Befangenheit liegt bei Prüfung des eigenen Kindes, Entscheidung über Angehörige, Benotung bezahlter Nachhilfeschüler und Aufträgen an die Firma des Partners vor. Reine Vertretungsstunden und Aufsicht im Alltag begründen sie nicht. Zum Nachlesen: LDG §34.",
+    "hauptquelle": "LDG §34",
+    "id": "B24-L2-010",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Prüfung und Benotung des eigenen Kindes bei der Abschlussprüfung.",
+      "Mitentscheidung über ein Ansuchen naher Angehöriger an der Schule.",
+      "Notengebung für Schüler, die beim Lehrer bezahlte Nachhilfe nehmen.",
+      "Vergabe eines Schulauftrags an die Firma des eigenen Ehepartners.",
+      "Vertretungsstunde in einer fremden Klasse nach Stundenplan.",
+      "Pausenaufsicht am Gang gemeinsam mit einer Kollegin."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das eigene Kind zu prüfen zieht die Unbefangenheit in Zweifel.",
+      "Richtig: Angehörigen-Ansuchen sind ein klassischer Befangenheitsgrund.",
+      "Richtig: Bezahlte Nachhilfeschüler zu benoten begründet Befangenheit.",
+      "Richtig: Aufträge an die Firma des Partners ziehen die Unbefangenheit in Zweifel.",
+      "Falsch: Vertretungsstunden ohne Eigeninteresse sind unbedenklich.",
+      "Falsch: Reine Pausenaufsicht begründet keine Befangenheit."
+    ],
+    "richtig": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "An einer Schule häufen sich heikle Konstellationen: ein Lehrer soll sein eigenes Kind prüfen, eine Kollegin über das Ansuchen ihrer Schwester entscheiden und ein Lehrer seine bezahlten Nachhilfeschüler benoten. Das Kollegium fragt, wo Befangenheit vorliegt.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Richtig sind Enthaltung, Veranlassung der Vertretung und notfalls die unaufschiebbare Handlung selbst. Mitentscheiden trotz Zweifeln oder informelle Kollegenabsprachen genügen nicht. Zum Nachlesen: LDG §34.",
+    "hauptquelle": "LDG §34",
+    "id": "B24-L2-011",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Sich der Ausübung des Amtes in dieser Sache enthalten.",
+      "Die eigene Vertretung für diese Angelegenheit veranlassen.",
+      "Unaufschiebbare Amtshandlungen selbst vornehmen, wenn keine Vertretung möglich ist.",
+      "Trotzdem mitentscheiden, solange man sich innerlich unbefangen fühlt.",
+      "Statt der Vertretung nur informell eine Kollegin um Rat fragen.",
+      "Die Sache liegen lassen, bis sich das Problem von selbst erledigt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Enthaltung ist die erste Pflicht bei Befangenheit.",
+      "Richtig: Die Vertretung muss aktiv veranlasst werden.",
+      "Richtig: Unaufschiebbares darf der Befangene selbst erledigen.",
+      "Falsch: Das subjektive Gefühl ersetzt die Enthaltungspflicht nicht.",
+      "Falsch: Informeller Rat ersetzt keine ordnungsgemäße Vertretung.",
+      "Falsch: Liegenlassen verletzt die Dienstpflichten zusätzlich."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Wieser erkennt, dass sie in einer Prüfungssache befangen ist, weil ihr Neffe antritt. Eine Vertretung ist grundsätzlich verfügbar, nur eine eilige Sicherungsmaßnahme müsste sofort gesetzt werden.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Zulässig sind der Geburtstagskuchen für alle und die dokumentierte Sachspende an die Schule. Geld, teure Geräte und Einladungen im Entscheidungszusammenhang sind abzulehnen. Zum Nachlesen: LDG §41 Abs.1, Abs.2 und Abs.7.",
+    "hauptquelle": "LDG §41 Abs.1",
+    "id": "B24-L2-012",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Selbstgebackener Kuchen einer Mutter für die ganze Klasse zum Geburtstag ihres Kindes.",
+      "Dokumentierte Bücherspende eines Verlags direkt an die Schulbibliothek.",
+      "Geldkuvert eines Vaters an den Klassenvorstand vor der Notenkonferenz.",
+      "Hochwertiges Notebook als persönliches Geschenk an den Lehrer.",
+      "Teure Restaurant-Einladung des Verlags während laufender Bücherentscheidung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Kuchen für alle Kinder ist eine unbedenkliche geringfügige Aufmerksamkeit.",
+      "Richtig: Die dokumentierte Spende an die Schule fällt unter die Ausnahme.",
+      "Richtig: Geld im Entscheidungszusammenhang ist klar verboten.",
+      "Richtig: Ein hochwertiges Gerät übersteigt jeden geringfügigen Wert.",
+      "Richtig: Die Einladung im Entscheidungskontext ist abzulehnen."
+    ],
+    "richtig": [
+      2,
+      3,
+      4
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Rund um eine Klasse gibt es mehrere Zuwendungen: Kuchen für alle Kinder, eine Bücherspende an die Bibliothek, ein Geldkuvert vor der Notenkonferenz und ein Notebook für den Lehrer. Die Schule fragt, was abzulehnen ist.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §41 Abs.2",
+      "LDG §41 Abs.7"
+    ]
+  },
+  {
+    "aufloesung": "Die Referententätigkeit muss Hofer als erwerbsmäßige Beschäftigung melden und auf Dienstbehinderung sowie Befangenheit prüfen. Eine Genehmigung braucht sie nur in den Sonderfällen mit reduzierter Dienstzeit. Zum Nachlesen: LDG §40 Abs.2, Abs.3 und Abs.4.",
+    "hauptquelle": "LDG §40 Abs.3",
+    "id": "B24-L2-013",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Die bezahlte Referententätigkeit unverzüglich der Dienstbehörde melden.",
+      "Prüfen, ob die Reisetätigkeit den Unterricht und die Vorbereitung behindert.",
+      "Prüfen, ob durch Auftraggeber eine Befangenheitsvermutung entsteht.",
+      "Für jede Referententätigkeit immer eine Genehmigung einholen.",
+      "Gar nichts unternehmen, weil Wochenendtermine nie zählen.",
+      "Nur die Schulleitung mündlich informieren statt zu melden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Bezahlte Referententätigkeit ist erwerbsmäßig und meldepflichtig.",
+      "Richtig: Die Behinderung der Dienstpflichten ist zu prüfen.",
+      "Richtig: Auch die Befangenheitsvermutung ist zu prüfen.",
+      "Falsch: Genehmigungspflichtig sind nur die Sonderfälle mit reduzierter Zeit.",
+      "Falsch: Auch Wochenendtätigkeiten zählen als Nebenbeschäftigung.",
+      "Falsch: Mündliche Information ersetzt die unverzügliche Meldung nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "BHS",
+      "AHS"
+    ],
+    "situation": "Lehrerin Hofer mit voller Lehrverpflichtung wird gut bezahlte Referentin bei einer privaten Akademie mit Wochenendterminen im ganzen Land. Sie will alles richtig machen und erstellt eine Prüfliste vor dem Start.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §40 Abs.2",
+      "LDG §40 Abs.4"
+    ]
+  },
+  {
+    "aufloesung": "Egger braucht für die Lernbetreuung als herabgesetzte Kraft eine Genehmigung, muss jede Änderung melden und darf die Maßnahme nicht durch die Nebentätigkeit unterlaufen. Dass die Arbeit nachmittags stattfindet, ändert daran nichts. Zum Nachlesen: LDG §40 Abs.4 und Abs.3.",
+    "hauptquelle": "LDG §40 Abs.4",
+    "id": "B24-L2-014",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Vor Beginn der Lernbetreuung die Genehmigung der Dienstbehörde einholen.",
+      "Jede spätere Änderung der Nebentätigkeit erneut melden.",
+      "Darauf achten, dass die Nebentätigkeit dem Grund der Herabsetzung nicht widerstreitet.",
+      "Beginnen ohne Genehmigung, weil die Arbeit nur nachmittags stattfindet.",
+      "Die Genehmigung durch eine mündliche Zusage der Direktion ersetzen.",
+      "Die Nebentätigkeit verschweigen, solange niemand danach fragt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Mit herabgesetzter Verpflichtung braucht sie die Genehmigung vorab.",
+      "Richtig: Änderungen einer Nebentätigkeit sind erneut zu melden.",
+      "Richtig: Widerstreit mit dem Herabsetzungsgrund führt zur Versagung.",
+      "Falsch: Die Tageszeit ändert nichts an der Genehmigungspflicht.",
+      "Falsch: Zuständig ist die Dienstbehörde mit förmlicher Genehmigung.",
+      "Falsch: Verschweigen verletzt Melde- und Genehmigungspflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Egger mit herabgesetzter Unterrichtsverpflichtung zur Kinderbetreuung will an Nachmittagen bezahlt in einer Lernbetreuung arbeiten und später ihre Stunden dort aufstocken. Sie fragt, welche Schritte nötig sind.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §40 Abs.3"
+    ]
+  },
+  {
+    "aufloesung": "Der Klassenvorstand muss den Korb ablehnen, bei seiner Entscheidung über den Sohn Enthaltung üben und die Vertretung veranlassen. Annahme plus Mitentscheidung wären Geschenkverstoß und Befangenheit zugleich. Zum Nachlesen: LDG §41 Abs.1 und §34.",
+    "hauptquelle": "LDG §41 Abs.1",
+    "id": "B24-L2-015",
+    "level": "L2",
+    "modul_id": "B24",
+    "optionen": [
+      "Den hochwertigen Geschenkkorb im Wert von 200 Euro ablehnen.",
+      "Sich bei der Entscheidung über den Sohn der Obfrau enthalten.",
+      "Für diese Entscheidung die eigene Vertretung veranlassen.",
+      "Den Korb annehmen und bei der Entscheidung besonders Milde walten lassen.",
+      "Den Korb annehmen, aber bei der Abstimmung einfach schweigen.",
+      "Die Befangenheit ignorieren, weil der Korb vom Verein und nicht vom Vater kommt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Hochwertige Zuwendungen im Entscheidungskontext sind verboten.",
+      "Richtig: Die Nahebeziehung verlangt die Enthaltung.",
+      "Richtig: Zur Enthaltung gehört die veranlasste Vertretung.",
+      "Falsch: Milde als Gegenleistung ist genau die verbotene Beeinflussung.",
+      "Falsch: Schweigen bei der Abstimmung beseitigt weder Geschenk noch Befangenheit.",
+      "Falsch: Auch Zuwendungen über den Verein zählen im Entscheidungskontext."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Kurz vor einer Berechtigungsentscheidung über den Sohn der Elternvereinsobfrau überreicht der Elternverein dem Klassenvorstand einen hochwertigen Geschenkkorb im Wert von 200 Euro. Der Lehrer soll über den Sohn mitentscheiden.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "LDG §34"
+    ]
+  }
+]
