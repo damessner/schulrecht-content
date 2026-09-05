@@ -1,1 +1,370 @@
-[]
+[
+  {
+    "aufloesung": "Die Aufsicht des Westbereichs hätte ihren Bereich nicht leer zurücklassen dürfen. Helfen ist richtig, doch der eigene Bereich muss gesichert bleiben, etwa durch Herbeirufen weiterer Hilfe statt vollständigem Verlassen. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L3-001",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Das Eingreifen war richtig, der eigene Bereich darf dafür auch länger leer bleiben.",
+      "Der eigene Bereich hätte nicht unbesetzt bleiben dürfen, Hilfe wäre anders zu organisieren gewesen.",
+      "Bei Raufereien endet die Aufsichtspflicht für alle anderen Bereiche automatisch.",
+      "Zuständig für den Sturz ist allein die Aufsicht des Ostbereichs, weil dort die Rauferei war."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Helfen rechtfertigt keine unbeaufsichtigte Lücke im eigenen Bereich.",
+      "Richtig: Eigener Bereich sichern und Hilfe über Ruf oder zweite Person holen.",
+      "Falsch: Die Pflicht für die übrigen Bereiche läuft unverändert weiter.",
+      "Falsch: Jede Aufsicht verantwortet ihren eigenen Bereich, der Westbereich war leer."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Auf dem weitläufigen Pausenhof sind zwei Lehrer für getrennte Bereiche eingeteilt. Als im Ostbereich eine Rauferei losbricht, eilt auch die Aufsicht des Westbereichs dorthin und lässt ihren Bereich vollständig leer. Dort klettert in der Zwischenzeit ein Bub unbeaufsichtigt auf das Klettergerüst und stürzt ab.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Sommer hätte seine Verhinderung rechtzeitig der Leitung oder Kanzlei melden müssen statt sich auf Zuruf an den Schulwart zu verlassen. Nur die entscheidungsbefugte Stelle kann verlässlich Ersatz einteilen und die gefährliche Lücke schließen. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "A23-L3-002",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Die Meldung an den Schulwart genügt, damit ist die Verantwortung abgegeben.",
+      "Bei Krankheit fällt die Aufsicht ohne weitere Pflichten einfach aus.",
+      "Die Verhinderung hätte rechtzeitig der Leitung oder Kanzlei gemeldet werden müssen.",
+      "Für Ersatz ist ausschließlich der Schulwart zuständig, nicht die erkrankte Lehrperson."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zuruf an Unzuständige sichert keinen Ersatz.",
+      "Falsch: Auch bei Krankheit bleibt die Meldepflicht für die Aufsicht bestehen.",
+      "Richtig: Rechtzeitige Meldung an die entscheidungsbefugte Stelle ermöglicht Ersatz.",
+      "Falsch: Für die Meldung bleibt die verhinderte Lehrperson verantwortlich."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Sommer wacht krank auf und ruft zehn Minuten vor seiner Stiegenhausaufsicht den Schulwart an, damit der es irgendwem ausrichten möge. Die Nachricht kommt nie an, das Stiegenhaus bleibt unbesetzt und es kommt zu einem gefährlichen Gedränge mit einer verletzten Schülerin.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Zusammenprall hätte unverzüglich der Leitung gemeldet werden müssen statt als Bagatelle abgetan zu werden. Ob eine Kopfverletzung harmlos ist, kann die Lehrperson nicht verlässlich beurteilen, die Meldung sichert Versorgung und Aufklärung. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L3-003",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Ohne sichtbare Wunde braucht es keine Meldung, das war eine zulässige Bagatelleinschätzung.",
+      "Jeder Unfall mit möglicher Verletzungsfolge ist unverzüglich der Leitung zu melden.",
+      "Gemeldet wird erst, wenn die Eltern ausdrücklich danach fragen.",
+      "Kopfverletzungen heilen von selbst, Abwarten war die richtige Entscheidung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Bagatelleinschätzung steht der Lehrperson bei Kopfverletzungen nicht zu.",
+      "Richtig: Unverzügliche Meldung sichert Versorgung und weitere Schritte.",
+      "Falsch: Auf Nachfragen zu warten verzögert Hilfe und wirkt wie Vertuschung.",
+      "Falsch: Kopfverletzungen können gefährlich sein, Abwarten ist pflichtwidrig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Nach einem Zusammenprall am Gang klagt Volksschüler Ben über Kopfweh, wirkt aber bald wieder munter. Der Lehrer stuft den Vorfall als Bagatelle ein und meldet nichts. Am Abend wird Ben in der Klinik mit einer Gehirnerschütterung aufgenommen, die Eltern werfen der Schule Vertuschung vor.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Lehrer hätte das ungeregelte Verlassen des Geländes nicht einfach dulden dürfen. Bei minderjährigen Schülern braucht es klare Regelungen und Aufsicht statt Gewährenlassen nach Bauchgefühl über ihre Reife. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L3-004",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Sechzehnjährige dürfen das Gelände jederzeit verlassen, die Schule trägt keine Verantwortung.",
+      "Reife entbindet von Aufsicht, der Lehrer durfte sie kommentarlos gehen lassen.",
+      "Minderjährige dürfen nicht einfach geduldet abwandern, es braucht Regelung und Aufsicht.",
+      "Für Wege außerhalb des Tores haftet grundsätzlich nie die Schule."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Minderjährige unterliegen weiter der Aufsicht der Schule.",
+      "Falsch: Gefuhlte Reife ersetzt keine Regelung und keine Aufsicht.",
+      "Richtig: Ungeregeltes Abwandern dulden verletzt die Aufsichtspflicht.",
+      "Falsch: Wer das Verlassen duldet, bleibt in der Verantwortung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "AHS",
+      "BHS"
+    ],
+    "situation": "Vier sechzehnjährige Schüler nutzen eine Freistunde, um ohne jede Absprache das Schulgelände zu verlassen und an einer stark befahrenen Straße einen Imbiss zu besuchen. Der Lehrer hat sie gehen sehen und nichts gesagt, weil sie ihm reif genug erschienen. Auf dem Rückweg wird eine Schülerin angefahren.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Der Lehrer hätte die Klasse nicht unbeaufsichtigt zurücklassen dürfen, so dringend die Hilfe war. Richtig wäre gewesen, die Aufsicht zu sichern und Hilfe per Handy oder Boten anzufordern statt alle zu verlassen. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L3-005",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Der Verletzte geht vor, die Klasse darf dafür auch länger allein bleiben.",
+      "Die Aufsicht der Klasse muss gesichert bleiben, Hilfe ist anzufordern statt alle zu verlassen.",
+      "In Notlagen endet die Aufsichtspflicht für die restliche Klasse automatisch.",
+      "Der Verletzte ist immer persönlich zum Auto zu bringen, egal was mit der Klasse geschieht."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Sorge um den Verletzten rechtfertigt keine unbeaufsichtigte Klasse.",
+      "Richtig: Aufsicht sichern und Hilfe herbeiholen löst den Konflikt richtig.",
+      "Falsch: Die Pflicht für die restliche Klasse läuft in der Notlage weiter.",
+      "Falsch: Persönliches Wegbringen unter Zurücklassen aller ist pflichtwidrig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Am abgelegenen Sportplatz bricht sich ein Schüler das Bein und kann nicht gehen. Der Lehrer eilt mit dem Verletzten zum weit entfernten Auto und lässt die restliche Klasse allein am Platz zurück. Dort beginnen die Schüler aus Übermut mit Speerwerfen ohne jede Aufsicht.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Das freie Ausschwärmen war in diesem Alter und in fremder Umgebung unzulässig. Zwölfjährige brauchen enge Führung mit kurzen Wegen, ständiger Erreichbarkeit und engmaschigen Treffpunkten statt stundenlangem Streunen. Zum Nachlesen: SchUG §43 Abs.1.",
+    "hauptquelle": "SchUG §43 Abs.1",
+    "id": "A23-L3-006",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Mit einem Handy pro Gruppe ist freies Erkunden in diesem Alter zulässig.",
+      "Dreiergruppen ersetzen die Aufsicht, engmaschige Treffpunkte braucht es dann keine.",
+      "Zwölfjährige in fremder Stadt brauchen enge Führung, freies Streunenlassen ist unzulässig.",
+      "Verlaufen gehört zum pädagogischen Konzept und ist hinzunehmen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Ein Handy ersetzt keine enge Führung bei Zwölfjährigen.",
+      "Falsch: Kleingruppen mindern die Pflicht nicht, Treffpunkte müssen eng sein.",
+      "Richtig: Fremde Umgebung plus junges Alter verlangen enge Beaufsichtigung.",
+      "Falsch: Verlorengehen im Stadtverkehr ist kein Konzept, sondern Pflichtverletzung."
+    ],
+    "richtig": [
+      2
+    ],
+    "schulart": [
+      "MS",
+      "AHS"
+    ],
+    "situation": "Auf einem Projekttag in einer fremden Großstadt schickt die Lehrerin ihre zwölfjährigen Schüler in Dreiergruppen mit je einem Handy zum selbstständigen Erkunden los, Treffpunkt erst nach drei Stunden. Eine Gruppe verläuft sich und irrt weinend durch den Verkehr.",
+    "stand": "04.09.2026",
+    "typ": "single"
+  },
+  {
+    "aufloesung": "Die Hofaufsicht muss neu aufgestellt werden statt alles beim Alten zu lassen. Abdeckung aller Bereiche, klare eingeforderte Regeln und lückenlose Einteilung verhindern die Zusammenstöße. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L3-007",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Die Aufsicht positioniert sich so, dass auch uneinsehbare Ecken regelmäßig im Blick sind.",
+      "Für die Kletterwand und Ballspielzonen gelten klare, eingeforderte Regeln.",
+      "Aufsichtsbereiche werden so geteilt, dass kein Bereich unbemerkt leer bleibt.",
+      "Uneinsehbare Ecken bleiben Privatsache der Kinder und werden bewusst nie kontrolliert.",
+      "Regeln am Hof gelten nur für die Kleinen, die Großen spielen ohne jede Begrenzung.",
+      "Eine Aufsicht reicht für den ganzen Hof, egal wie groß und unübersichtlich er ist."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Regelmäßiger Blick in alle Ecken verhindert unbemerkte Gefahren.",
+      "Richtig: Klare eingeforderte Regeln sichern Geräte- und Spielzonen.",
+      "Richtig: Geteilte Bereiche ohne Lücken decken den ganzen Hof ab.",
+      "Falsch: Bewusstes Wegschauen bei toten Winkeln ist pflichtwidrig.",
+      "Falsch: Regeln gelten für alle Altersgruppen am Hof.",
+      "Falsch: Ein unübersichtlicher Hof braucht mehrere positionierte Aufsichten."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Der Pausenhof einer großen Volksschule hat uneinsehbare Ecken hinter Containern, eine stark genutzte Kletterwand und gemischte Altersgruppen von sechs bis vierzehn. Nach mehreren Zusammenstößen will die Schule die Hofaufsicht neu regeln. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Handschlagtausch ohne jede Information war unzulässig und muss künftig abgesprochen werden. Nur abgesprochene und im Plan festgehaltene Änderungen halten die Zuständigkeit im Ernstfall klar. Zum Nachlesen: LDG §31 Abs.1.",
+    "hauptquelle": "LDG §31 Abs.1",
+    "id": "A23-L3-008",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Jeder Tausch wird vorher mit der Leitung oder Kanzlei abgesprochen.",
+      "Der Aufsichtsplan wird bei Änderungen aktualisiert, damit Zuständigkeiten klar bleiben.",
+      "Wer verhindert ist, sorgt verlässlich für abgesprochenen Ersatz statt stillschweigendem Tausch.",
+      "Handschlagtausche ohne jede Information sind ausreichend und verbindlich.",
+      "Nach einem Unfall lässt sich die Zuständigkeit schon irgendwie rekonstruieren, Festhalten erübrigt sich.",
+      "Der Plan ist reine Dekoration, eingehalten werden muss er nicht."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Abgesprochene Änderungen halten die Einteilung verlässlich.",
+      "Richtig: Ein aktueller Plan klärt, wer wo zuständig war.",
+      "Richtig: Verlässlicher Ersatz statt Schweigen sichert die Abdeckung.",
+      "Falsch: Stille Tausche erzeugen genau diese unklaren Lücken.",
+      "Falsch: Ohne Festhaltung bleibt die Zuständigkeit im Streitfall unklar.",
+      "Falsch: Der Plan ist verbindlicher Dienst, keine Dekoration."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Zwei Lehrer tauschen ihre Pausenaufsichten regelmäßig untereinander per Handschlag, ohne die Leitung zu informieren und ohne den Aufsichtsplan anzupassen. Als es in einem Tauschzeitraum zu einem Unfall kommt, weiß niemand, wer eigentlich zuständig war. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Der Lehrer hätte melden, informieren und festhalten müssen statt zu schweigen. Unverzügliche Leitungsmeldung, rasche sachliche Elterninformation und zeitnahe Aufzeichnung gehören zu jedem Unfall mit Verletzung. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L3-009",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Den Unfall unverzüglich der Schulleitung melden.",
+      "Die Eltern rasch und sachlich über Hergang und Verletzung informieren.",
+      "Den Hergang zeitnah sachlich schriftlich festhalten.",
+      "Abwarten, bis die Eltern von selbst nachfragen, und bis dahin schweigen.",
+      "Den Bericht mit Vermutungen über Schuld und Charakter der Kinder ausschmücken.",
+      "Die Meldung entfallen lassen, weil gerade viel los war."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Unverzügliche Meldung sichert Versorgung und weitere Schritte.",
+      "Richtig: Rasche sachliche Information schafft Vertrauen und Handlungsfähigkeit.",
+      "Richtig: Zeitnahe Aufzeichnung sichert Erinnerung und Abwicklung.",
+      "Falsch: Schweigen bis zur Nachfrage wirkt wie Vertuschung.",
+      "Falsch: Vermutungen und Wertungen haben im Bericht nichts verloren.",
+      "Falsch: Arbeitsbelastung entbindet nicht von der Meldepflicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Beim Zusammenstoß zweier Schüler bricht sich ein Bub einen Zahn ab und blutet stark. Der Lehrer kühlt kurz, schickt das Kind zurück in den Unterricht und meldet nichts, weil gerade viel los ist. Erst die Zahnärztin stellt das Ausmaß fest. Wähle alles, was der Lehrer hätte tun müssen.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Das Treiben hätte untersagt und unterbunden werden müssen statt es als Winterspaß zu dulden. Harte Eisklumpen sind gefährliche Wurfgeschosse, bei Eisglätte sind Aufsicht zu verstärken und Regeln durchzusetzen. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L3-010",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Gefährliches Werfen mit harten Gegenständen ist zu untersagen und zu unterbinden.",
+      "Bei erkennbarer Gefahr wie Eisglätte ist die Aufsicht zu verstärken und Gefährliches zu sperren.",
+      "Nach der Verletzung sind Versorgung, Meldung und Festhaltung wie bei jedem Unfall nötig.",
+      "Eisklumpen gelten als harmloser Winterspaß, Dulden war richtig.",
+      "Verbote am Hof sind übertrieben, Kinder regeln das unter sich.",
+      "Nach der Versorgung erübrigen sich Meldung und Aufzeichnung."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Untersagen plus Durchsetzen stoppt das gefährliche Werfen.",
+      "Richtig: Erkennbare Glätte verlangt mehr Aufsicht und Absperrung.",
+      "Richtig: Auch dieser Unfall braucht Versorgung, Meldung und Aufzeichnung.",
+      "Falsch: Harte Eisklumpen verletzen, Dulden war pflichtwidrig.",
+      "Falsch: Regeln und Durchsetzung sind gerade Aufsichtspflicht.",
+      "Falsch: Meldung und Aufzeichnung entfallen auch hier nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Nach Eisregen bewerfen sich Schüler am Hof mit harten Eisklumpen, ein Mädchen erleidet eine blutende Platzwunde am Kopf. Der Aufsichtslehrer hatte das Treiben als harmlosen Winterspaß geduldet und kein Verbot ausgesprochen. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Entlassung muss geordnet mit Verständigung, Betreuung und Vermerk laufen statt die Kinder einfach wegzuschicken. Gerade bei Sturmwarnung sind Jüngere zu beaufsichtigen, bis Abholung oder sicherer Heimweg feststehen. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L3-011",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Die Eltern werden über die Entlassung und Abholregelung verständigt.",
+      "Jüngere Schüler werden beaufsichtigt, bis Abholung oder sicherer Heimweg gesichert sind.",
+      "Entlassung, Verständigung und Übergabe werden kurz dokumentiert.",
+      "Alle Kinder werden sofort kommentarlos aus dem Haus geschickt.",
+      "Sechsjährige laufen allein durch den Sturm, das härtet ab.",
+      "Dokumentation ist überflüssig, man merkt sich alles auch so."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Verständigung der Eltern klärt Abholung und Heimweg.",
+      "Richtig: Betreuung bis zur gesicherten Übergabe schützt die Jüngsten.",
+      "Richtig: Kurzer Vermerk belegt die geordnete Entlassung.",
+      "Falsch: Kommentarloses Wegschicken bei Sturmwarnung gefährdet die Kinder.",
+      "Falsch: Kleine Kinder dem Sturm auszusetzen ist grob pflichtwidrig.",
+      "Falsch: Ohne Vermerk ist später nichts mehr nachweisbar."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Wegen eines schweren Sturms mit umstürzenden Bäumen und behördlicher Wetterwarnung soll der Nachmittagsunterricht entfallen. Die Direktion prüft, wie die Schüler geordnet entlassen werden können. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple"
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, auch brave Klassen brauchen verlässliche Pausenaufsicht. Eingeteilte Aufsichten sind pünktlich und vollständig wahrzunehmen statt durch gelegentliche Rundgänge zu ersetzen. Zum Nachlesen: SchUG §51 Abs.1.",
+    "hauptquelle": "SchUG §51 Abs.1",
+    "id": "A23-L3-012",
+    "level": "L3",
+    "modul_id": "A23",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Braves Verhalten hebt die Aufsichtspflicht nicht auf.",
+      "Richtig erkannt: Pausenaufsicht bleibt verlässlich wahrzunehmen, Lücken sind unzulässig."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Eine Kollegin behauptet, brave und erfahrene Klassen bräuchten in der Pause keine Aufsicht mehr, ein kurzer Rundgang alle zwanzig Minuten genüge völlig.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]

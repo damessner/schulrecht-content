@@ -1,1 +1,261 @@
-[]
+[
+  {
+    "aufloesung": "Kurz muss mit mehr als einer Ermahnung rechnen, sein Verhalten wiegt schwer. Beharrliches Verletzen der Aufsichtspflicht ist eine Dienstpflichtverletzung, die der Dienstbehörde zu melden ist und ein Disziplinarverfahren nach sich ziehen kann. Zum Nachlesen: LDG §29.",
+    "hauptquelle": "LDG §29",
+    "id": "A23-L4-001",
+    "level": "L4",
+    "modul_id": "A23",
+    "optionen": [
+      "Mehr als eine Ermahnung ist bei Aufsichtsmängeln niemals möglich.",
+      "Wiederholtes unbesetztes Lassen der Aufsicht ist eine Dienstpflichtverletzung mit möglichen Disziplinarfolgen.",
+      "Aufsichtsversäumnisse sind reine Privatsache ohne dienstrechtliche Bedeutung.",
+      "Die Dienstbehörde darf sich mit Aufsichtsfragen grundsätzlich nicht befassen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Beharrliche Pflichtverletzung kann ein Disziplinarverfahren auslösen.",
+      "Richtig: Wiederholtes Leerlassen trotz Einteilung wiegt disziplinar schwer.",
+      "Falsch: Aufsicht ist Dienstpflicht, kein Privatvergnügen.",
+      "Falsch: Gerade schwere Pflichtverletzungen gehören vor die Dienstbehörde."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Kurz verbringt seine Hofaufsichten regelmäßig im Kaffeehaus gegenüber und lässt den Hof über Monate unbesetzt. Nach einer schweren Rauferei mit bleibender Verletzung eines Schülers prüft die Dienstbehörde Folgen für Kurz. Er meint, höchstens eine Ermahnung sei drin.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Klage gegen die Lehrerin persönlich geht ins Leere, Ansprüche richten sich gegen den Rechtsträger. Wer als Organ in Vollziehung der Gesetze handelt, löst die Haftung des Rechtsträgers aus statt persönlich zu haften. Zum Nachlesen: AHG §1 Abs.1.",
+    "hauptquelle": "AHG §1 Abs.1",
+    "id": "A23-L4-002",
+    "level": "L4",
+    "modul_id": "A23",
+    "optionen": [
+      "Die Lehrerin haftet persönlich direkt gegenüber den Eltern mit ihrem Privatvermögen.",
+      "Ansprüche aus pflichtwidriger Aufsicht richten sich gegen den Rechtsträger, nicht persönlich gegen die Lehrerin.",
+      "Bei Schulunfällen haftet grundsätzlich niemand, die Eltern bleiben auf allen Kosten sitzen.",
+      "Persönlich haftet immer die Direktion, egal wer die Aufsicht versäumt hat."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Direkt gegen das Organ gibt es diesen Anspruch nicht.",
+      "Richtig: Der Rechtsträger haftet für seine Organe in Vollziehung der Gesetze.",
+      "Falsch: Pflichtwidrige Aufsicht löst sehr wohl Ersatzansprüche aus.",
+      "Falsch: Es haftet der Rechtsträger, nicht automatisch die Direktion persönlich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem Pausenunfall auf unbeaufsichtigtem Hof verlangen die Eltern 8000 Euro Behandlungskosten. Sie klagen die junge Aufsichtslehrerin persönlich und wollen ihr Gehalt pfänden lassen. Die Lehrerin ist verzweifelt und prüft, wer eigentlich haftet.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Der Direktor hätte die bekannten Lücken längst schließen müssen statt auf Beschwerden zu warten. Für geordnete Aufsicht und verlässlichen Dienstbetrieb zu sorgen gehört zu seinen Leiterpflichten, dauerhaftes Wegschauen wiegt mit. Zum Nachlesen: LDG §32.",
+    "hauptquelle": "LDG §32",
+    "id": "A23-L4-003",
+    "level": "L4",
+    "modul_id": "A23",
+    "optionen": [
+      "Der Leiter haftet nie, verantwortlich ist immer nur die einzelne Aufsichtsperson.",
+      "Der Leiter muss für geordnete Aufsicht sorgen, bekannte Lücken darf er nicht laufen lassen.",
+      "Ohne schriftliche Beschwerde muss die Leitung von nichts wissen und nichts tun.",
+      "Aufsichtspläne sind freiwillige Empfehlungen ohne jede Verbindlichkeit."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Auch die Leitung trägt Verantwortung für die Organisation der Aufsicht.",
+      "Richtig: Bekannte Lücken schließen gehört zu den Leiterpflichten.",
+      "Falsch: Offenkundige Mängel muss die Leitung von sich aus beheben.",
+      "Falsch: Der Aufsichtsplan ist verbindlicher Dienst, keine Empfehlung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Der Direktor weiß seit Monaten, dass der Aufsichtsplan große Lücken hat und Vertretungen nie eingeteilt werden. Er unternimmt nichts, weil sich noch niemand beschwert hat. Nach einem schweren Sturz im unbesetzten Stiegenhaus wird auch seine Verantwortung geprüft.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "SchUG §51 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Der Lehrer muss mit Rückersatzforderungen rechnen, sein Verhalten war grob pflichtwidrig. Wer trotz Warnung die Aufsicht verlässt, handelt grob fahrlässig, dann kann der Rechtsträger beim Organ Rückersatz suchen. Zum Nachlesen: AHG §3 Abs.1.",
+    "hauptquelle": "AHG §3 Abs.1",
+    "id": "A23-L4-004",
+    "level": "L4",
+    "modul_id": "A23",
+    "optionen": [
+      "Rückgriff auf die Lehrperson ist in jedem Fall ausgeschlossen, egal wie grob das Verschulden war.",
+      "Bei Vorsatz oder grober Fahrlässigkeit kann der Rechtsträger beim Organ Rückersatz suchen.",
+      "Privates Telefonieren während der Aufsicht gilt immer als bloß leichte Fahrlässigkeit.",
+      "Warnungen der Direktion sind unverbindlich und ändern an der Bewertung nichts."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Bei Vorsatz und grober Fahrlässigkeit gibt es den Rückersatz.",
+      "Richtig: Grobes Verschulden öffnet den Rückgriff des Rechtsträgers.",
+      "Falsch: Trotz Warnung wegzugehen wiegt grob, nicht leicht.",
+      "Falsch: Missachtete Warnungen verschärfen den Vorwurf."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Lehrer verlässt trotz ausdrücklicher Warnung der Direktion vor Raufereien seine Klasse, um privat telefonieren zu gehen. Ein Schüler verliert dabei ein Auge. Der Rechtsträger leistet Schadenersatz an die Familie und prüft nun den Rückgriff beim Lehrer.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "zusatzquellen": [
+      "LDG §29"
+    ]
+  },
+  {
+    "aufloesung": "Beharrliche und schwere Aufsichtsmängel sind Dienstpflichtverletzungen mit möglichen Disziplinarfolgen. Einmalige geringfügige Verspätungen ohne Folgen und schicksalhafte Unfälle trotz Ordnung gehören nicht dorthin. Zum Nachlesen: LDG §29.",
+    "hauptquelle": "LDG §29",
+    "id": "A23-L4-005",
+    "level": "L4",
+    "modul_id": "A23",
+    "optionen": [
+      "Wiederholtes unentschuldigtes Fernbleiben von eingeteilten Aufsichten trotz Ermahnung.",
+      "Vertuschen eines schweren Unfalls durch unterlassene Meldung und frisierten Bericht.",
+      "Beharrliches Ignorieren ausdrücklicher Weisungen der Direktion zur Aufsicht.",
+      "Einmaliges geringfügiges Zuspätkommen zur Aufsicht trotz Entschuldigung und ohne Folgen.",
+      "Jede noch so kleine Verspätung führt automatisch zum Disziplinarverfahren.",
+      "Ordnungsgemäß wahrgenommene Aufsicht mit unglücklichem Zufallsunfall."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Beharrliches Fernbleiben trotz Ermahnung wiegt disziplinar schwer.",
+      "Richtig: Vertuschung und Frisieren verletzen Melde- und Wahrheitspflicht.",
+      "Richtig: Weisungen beharrlich zu missachten ist Dienstpflichtverletzung.",
+      "Falsch: Geringfügiges Einmaliges ohne Folgen trägt kein Verfahren.",
+      "Falsch: Automatismus gibt es keinen, es kommt auf Schwere und Beharrlichkeit an.",
+      "Falsch: Ordentliche Aufsicht mit Zufallsunfall ist keine Pflichtverletzung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach mehreren Aufsichtsvorfällen an einer Schule prüft die Dienstbehörde, welche Verhaltensweisen als Dienstpflichtverletzung mit möglichen Disziplinarfolgen zu werten sind. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §51 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Ersatzansprüche richten sich gegen den Rechtsträger, und die Meldungen entlasten den Lehrer. Wer Gefahren schriftlich meldet, hat seine Pflicht getan, wer sie danach nicht behebt, trägt die Mitverantwortung. Zum Nachlesen: AHG §1 Abs.1.",
+    "hauptquelle": "AHG §1 Abs.1",
+    "id": "A23-L4-006",
+    "level": "L4",
+    "modul_id": "A23",
+    "optionen": [
+      "Ersatzansprüche richten sich gegen den Rechtsträger und nicht gegen das Privatvermögen des Lehrers.",
+      "Die schriftlichen Meldungen des Lehrers belegen, dass er seine Pflicht getan hat.",
+      "Wer gemeldete Gefahrenstellen nicht behebt, trägt Mitverantwortung auf Leitungs- und Erhalterseite.",
+      "Der Lehrer haftet persönlich voll, weil der Unfall in seiner Aufsicht passierte.",
+      "Schriftliche Meldungen sind wertlos, nur mündliche Hinweise zählen.",
+      "Nach zwei Meldungen darf der Lehrer die Stelle ignorieren und weiter klettern lassen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Für Organe haftet der Rechtsträger, nicht das Privatvermögen.",
+      "Richtig: Schriftliche Meldungen belegen die Pflichterfüllung und entlasten.",
+      "Richtig: Nichtbehebung trotz Meldung verlagert die Verantwortung nach oben.",
+      "Falsch: Persönliche Vollhaftung gibt es in dieser Konstellation nicht.",
+      "Falsch: Schriftliches ist gerade beweiskräftig, Mündliches verfliegt.",
+      "Falsch: Zusätzlich muss die Stelle bis zur Behebung abgesichert werden."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Ein Schüler verletzt sich schwer an einem Klettergerüst, dessen wackelige Verankerung der Lehrer zweimal schriftlich der Leitung gemeldet hatte. Repariert wurde nie etwas. Die Eltern fordern Schadenersatz. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "SchUG §51 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Der Lehrer muss wahrheitsgemäß festhalten, Zeugen in Ruhe lassen und sich beraten lassen. Frisieren, Absprechen und Aussitzen verschlimmern seine Lage in Verfahren und Haftungsfragen erheblich. Zum Nachlesen: LDG §29.",
+    "hauptquelle": "LDG §29",
+    "id": "A23-L4-007",
+    "level": "L4",
+    "modul_id": "A23",
+    "optionen": [
+      "Den Hergang wahrheitsgemäß und sachlich festhalten, nichts beschönigen.",
+      "Keine Absprachen mit Zeugen über eine einheitliche Version treffen.",
+      "Sich rechtlich beraten lassen und mit Dienstbehörde und Versicherung sachlich zusammenarbeiten.",
+      "Den Bericht nachträglich frisieren, damit alles harmloser aussieht.",
+      "Zeugen auf eine entlastende Version einschwören, bevor sie aussagen.",
+      "Alle Schreiben ignorieren und aussitzen, das verläuft sich schon."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Wahrheitsgemäße Festhaltung ist Grundlage jeder Verteidigung.",
+      "Richtig: Absprachen verfälschen Aussagen und sind unzulässig.",
+      "Richtig: Beratung plus sachliche Mitwirkung wahren die eigenen Rechte.",
+      "Falsch: Frisieren zerstört Glaubwürdigkeit und schafft neue Vorwürfe.",
+      "Falsch: Einschwören von Zeugen ist unzulässige Beeinflussung.",
+      "Falsch: Ignorieren und Aussitzen verspielt Fristen und Vertrauen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Nach einem schweren Aufsichtsversagen mit bleibender Verletzung eines Kindes drohen dem Lehrer Schadenersatzforderungen und ein Disziplinarverfahren. Er überlegt, wie er sich nun korrekt verhält. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "zusatzquellen": [
+      "AHG §1 Abs.1"
+    ]
+  },
+  {
+    "aufloesung": "Die Behauptung ist falsch, der Rechtsträger springt für seine Organe ein. Ansprüche aus amtlicher Aufsichtstätigkeit richten sich gegen den Rechtsträger, nicht gegen das Privatvermögen der Lehrperson. Zum Nachlesen: AHG §1 Abs.1.",
+    "hauptquelle": "AHG §1 Abs.1",
+    "id": "A23-L4-008",
+    "level": "L4",
+    "modul_id": "A23",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Direkt gegen das Privatvermögen geht dieser Anspruch nicht.",
+      "Richtig erkannt: Für Organe in Vollziehung der Gesetze haftet der Rechtsträger."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Lehrerzimmer: Ein Kollege behauptet, bei einem Schulunfall könnten die Eltern direkt das Privatvermögen der Aufsichtsperson pfänden lassen, der Staat habe damit nichts zu tun.",
+    "stand": "04.09.2026",
+    "typ": "tf"
+  }
+]
