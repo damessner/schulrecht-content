@@ -1,1 +1,384 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §50 Abs.4",
+    "id": "B33-L3-001",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Prohaska darf ablehnen, denn das erfüllte Kontingent beendet jede weitere Supplierpflicht.",
+      "Prohaska muss die Stunde halten, die Stunden über dem Kontingent werden besonders vergütet.",
+      "Prohaska muss nur vertreten, wenn er sich freiwillig dazu bereit erklärt.",
+      "Die Direktion darf nach erfülltem Kontingent keine Vertretungen mehr anordnen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Das Kontingent begrenzt nur die unvergütete Pflicht, weitere Stunden sind trotzdem zu halten.",
+      "Richtig: Die Pflicht bleibt bestehen und die Überschreitung löst die besondere Vergütung aus.",
+      "Falsch: Angeordnete Supplierstunden sind Dienstpflicht und keine Freiwilligenarbeit.",
+      "Falsch: Die Anordnungsbefugnis endet mit dem Kontingent gerade nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Lehrer Prohaska hat sein jährliches Kontingent an Vertretungsstunden längst erfüllt und verweigert die nächste Supplierstunde. Sein Pflichtpensum sei damit abgegolten, erklärt er, und die Direktion ordnet die Vertretung dennoch an, weil die Klasse versorgt sein muss.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Prohaska muss die angeordnete Supplierstunde halten. Das Kontingent begrenzt nur, wie viele Vertretungsstunden unvergütet bleiben, jede weitere Stunde wird besonders vergütet. Die Versorgung der Klasse geht dem Verweigerungswunsch daher vor. Zum Nachlesen: LDG §50 Abs.4.",
+    "zusatzquellen": [
+      "LDG §43 Abs.4"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §43 Abs.5",
+    "id": "B33-L3-002",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Sandner muss die Einteilung hinnehmen, weil die Direktion alles anordnen darf.",
+      "Sandner darf die Einteilung ablehnen, weil diese Verwendung ihre Zustimmung braucht.",
+      "Sandner muss nur zustimmen, wenn sie dafür eine eigene Zulage erhält.",
+      "Die Zustimmung ist nur bei Vollzeitkräften nötig, Teilzeitkräfte sind ausgenommen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Genau diese Verwendung ist dem freien Anordnungsrecht entzogen.",
+      "Richtig: Ohne ihre Zustimmung ist die Einteilung in den Freizeitbereich unzulässig.",
+      "Falsch: Auf eine Zulage kommt es nicht an, sondern allein auf die Zustimmung.",
+      "Falsch: Das Zustimmungserfordernis hängt nicht vom Beschäftigungsausmaß ab."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Lehrerin Sandner arbeitet an einer Volksschule mit Tagesbetreuung und wird gegen ihren Willen für den Freizeitbereich am Nachmittag eingeteilt. Sie hat einer solchen Verwendung nie zugestimmt und lehnt die Einteilung ab, die Direktion beharrt auf ihrem Anordnungsrecht.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Sandner darf die Einteilung in den Freizeitbereich ablehnen. Die Beschäftigung im Freizeitbereich der Tagesbetreuung ist nur mit Zustimmung der Lehrperson zulässig. Ohne ihr Einverständnis geht die Anordnung daher ins Leere. Zum Nachlesen: LDG §43 Abs.5.",
+    "zusatzquellen": [
+      "LDG §43 Abs.6"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.6",
+    "id": "B33-L3-003",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Wallner schuldet zwanzig Stunden wie jede Vollzeitkraft.",
+      "Wallner schuldet nur zehn Stunden, die Stunden elf und zwölf sind bereits zu vergüten.",
+      "Wallner schuldet gar keine Vertretungen, weil sie nur halbtags arbeitet.",
+      "Wallner schuldet fünf Stunden, weil Teilzeit doppelt aliquotiert wird."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Volle Stundenwerte gelten bei herabgesetzter Norm nur im aliquoten Ausmaß.",
+      "Richtig: Die Hälfte der Norm bedeutet die Hälfte des Kontingents, der Rest wird vergütet.",
+      "Falsch: Von der Supplierpflicht befreit die Teilzeit niemanden.",
+      "Falsch: Eine doppelte Kürzung kennt das Gesetz nicht, es gilt die einfache Aliquotierung."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrerin Wallner unterrichtet mit halber Lehrverpflichtung an einer Volksschule und hat bereits zwölf Supplierstunden gehalten. Die Direktion verlangt acht weitere unvergütete Stunden, weil für alle einheitlich zwanzig Stunden gälten.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Wallner schuldet nur zehn unvergütete Supplierstunden. Bei herabgesetzter Jahresnorm gelten alle Stundenwerte nur im entsprechenden aliquoten Ausmaß. Die elfte und zwölfte Stunde sind daher bereits besonders zu vergüten. Zum Nachlesen: LDG §50 Abs.6.",
+    "zusatzquellen": [
+      "LDG §50 Abs.4"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.3",
+    "id": "B33-L3-004",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Pichler geht leer aus, weil Vertretungen grundsätzlich unvergütet sind.",
+      "Pichler bekommt die Mehrstunden besonders vergütet, weil er dauernd über seinem Ausmaß unterrichtet.",
+      "Vergütet wird nur, wenn Pichler die Vertretung freiwillig übernommen hat.",
+      "Statt Geld bekommt Pichler jedenfalls Freizeitausgleich im doppelten Ausmaß."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Dauernde Vertretungen über dem eigenen Ausmaß sind gerade vergütungspflichtig.",
+      "Richtig: Geänderte Einteilung plus dauernde Überschreitung lösen die besondere Vergütung aus.",
+      "Falsch: Auf Freiwilligkeit kommt es nicht an, sondern auf Dauer und Einteilungsänderung.",
+      "Falsch: Das Gesetz sieht hier eine Geldvergütung vor, keinen doppelten Zeitausgleich."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "PTS"
+    ],
+    "situation": "An einer Polytechnischen Schule fällt ein Kollege seit Februar für den Rest des Jahres aus. Lehrer Pichler übernimmt dessen Klasse dauerhaft mit geändertem Stundenplan und unterrichtet ständig sechs Stunden über seinem eigenen Ausmaß, eine Vergütung lehnt die Direktion ab.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Pichler bekommt die dauernden Mehrstunden besonders vergütet. Wird die Einteilung unbedingt erforderlich geändert und dauernd über das zugewiesene Ausmaß hinaus unterrichtet, löst das die besondere Vergütung aus. Gelegentliche Einzelvertretungen lägen hier gerade nicht vor. Zum Nachlesen: LDG §50 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §46b Abs.4",
+    "id": "B33-L3-005",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Alle drei Stunden sind zulässig, die Wiedereingliederung ändert daran nichts.",
+      "Nur eine Supplierstunde pro Woche darf zusätzlich angeordnet werden, die anderen beiden entfallen.",
+      "In der Wiedereingliederung sind überhaupt keine Supplierstunden erlaubt.",
+      "Die Direktion darf frei festlegen, wie viele Stunden dem Rückkehrer zumutbar sind."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Gerade die Rückkehrphase begrenzt Mehrdienstleistungen streng.",
+      "Richtig: Eine Supplierstunde pro Woche ist die einzige zulässige zusätzliche Mehrleistung.",
+      "Falsch: Die anteilige Supplierverpflichtung aus dem Kontingent bleibt nämlich bestehen.",
+      "Falsch: Die Grenze ist gesetzlich fixiert und kein freies Ermessen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Reiter kehrt nach langer Krankheit in Wiedereingliederungsteilzeit zurück und findet drei Supplierstunden pro Woche in seinem Plan. Er bittet um Streichung, die Direktion verweist auf die Grippewelle und beharrt auf allen drei Stunden.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Reiter muss nur eine der drei Supplierstunden übernehmen. Während der Wiedereingliederungsteilzeit ist außer einer einzigen Supplierstunde pro Woche keine Mehrdienstleistung anordenbar. Die beiden weiteren Stunden sind daher zu streichen. Zum Nachlesen: LDG §46b Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.7",
+    "id": "B33-L3-006",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Seidl bekommt zwölf Stunden pro Tag, weil der volle Einsatz zählt.",
+      "Seidl bekommt acht Stunden pro Tag, weil höchstens zehn zählen und entfallene Stunden abzuziehen sind.",
+      "Seidl bekommt gar nichts, weil Begleitungen auf Schulveranstaltungen Ehrensache sind.",
+      "Seidl bekommt zehn Stunden plus die zwei entfallenen Stunden extra dazu."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Zehn Stunden pro Tag bilden die Obergrenze, mehr wird nicht vergütet.",
+      "Richtig: Deckelung auf zehn minus zwei ersatzlos entfallene Stunden ergibt acht.",
+      "Falsch: Die Vertretung auf Schulveranstaltungen ist ausdrücklich vergütungspflichtig.",
+      "Falsch: Entfallene eigene Stunden werden abgezogen, nicht zusätzlich draufgeschlagen."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Lehrer Seidl springt als Begleitperson auf der dreitägigen Sportwoche für einen erkrankten Kollegen ein und ist dort täglich zwölf Stunden im Einsatz. Zwei seiner eigenen Unterrichtsstunden entfallen in dieser Zeit ersatzlos, vergütet verlangt er dennoch alle zwölf Stunden pro Tag.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Seidl bekommt acht Stunden pro Tag vergütet. Die Vertretung auf Schulveranstaltungen wird mit höchstens zehn Stunden pro Tag abgegolten, ersatzlos entfallene eigene Stunden werden abgezogen. Zwölf minus zwei ergibt daher acht vergütete Stunden. Zum Nachlesen: LDG §50 Abs.7."
+  },
+  {
+    "hauptquelle": "LDG §47 Abs.4",
+    "id": "B33-L3-007",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Teilzeitkräfte sind nach Möglichkeit weniger zu Mehrdiensten heranzuziehen als Vollzeitkräfte.",
+      "Schwellen und Stundenwerte für Mehrdienste gelten bei Teilzeit nur im aliquoten Ausmaß.",
+      "Bei der Stundenplaneinteilung ist auf persönliche Verhältnisse Rücksicht zu nehmen, soweit keine wichtigen dienstlichen Interessen entgegenstehen.",
+      "Teilzeitkräfte sind die erste Reserve und daher vorrangig für alle Mehrdienste einzuplanen.",
+      "Für Teilzeitkräfte gelten dieselben vollen Schwellen wie für Vollzeitkräfte.",
+      "Wer freiwillig Teilzeit wählt, muss dafür doppelt so viele Vertretungen übernehmen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Schonregel schützt Teilzeitkräfte ausdrücklich vor Überlastung.",
+      "Richtig: Volle Schwellen würden Teilzeitkräfte benachteiligen, daher gilt die Aliquotierung.",
+      "Richtig: Rücksicht soweit dienstlich möglich gehört zur rechtssicheren Einteilung.",
+      "Falsch: Vorrangig verplant werden Teilzeitkräfte gerade nicht.",
+      "Falsch: Volle Schwellen gelten nur bei voller Jahresnorm.",
+      "Falsch: Teilzeit gegen Mehrvertretungen aufzurechnen ist unzulässig."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Teilzeitlehrerin Thaler mit deutlich reduzierter Lehrverpflichtung wird laufend als Springerin für Supplierstunden und Mehrdienste eingeteilt, während ihre vollbeschäftigten Kolleginnen kaum herangezogen werden. Sie wehrt sich gegen die ständige Überlastung. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Thalers ständige Verplanung als Springerin verstößt gegen die Schonregeln. Teilzeitkräfte werden nach Möglichkeit weniger zu Mehrdiensten herangezogen, Schwellen gelten für sie nur aliquot und der Stundenplan nimmt auf persönliche Verhältnisse Rücksicht. Die Direktion muss die Vertretungen daher anders verteilen. Zum Nachlesen: LDG §47 Abs.4.",
+    "zusatzquellen": [
+      "LDG §50 Abs.6",
+      "LDG §47 Abs.1"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.4",
+    "id": "B33-L3-008",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Die ersten zwanzig Vertretungsstunden sind unvergütete Pflicht.",
+      "Die Stunden einundzwanzig bis vierundzwanzig werden besonders vergütet.",
+      "Heranzuziehen sind vorrangig jene, die ihr Pflichtkontingent noch nicht erfüllt haben.",
+      "Alle 24 Stunden bleiben unvergütet, Vertretungen sind immer Ehrensache.",
+      "Eine Vergütung gibt es erst ab der fünfzigsten Vertretungsstunde.",
+      "Die Direktion darf frei wählen, wen sie für Vertretungen einteilt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Das Pflichtkontingent ist die Basis jeder Abrechnung.",
+      "Richtig: Jede Stunde über dem Kontingent löst den Vergütungsanspruch aus.",
+      "Richtig: Der Vorrang der offenen Kontingente steht ausdrücklich im Gesetz.",
+      "Falsch: Stunden über dem Kontingent sind gerade vergütungspflichtig.",
+      "Falsch: Eine Fünfzig-Stunden-Schwelle existiert nicht.",
+      "Falsch: Beliebigkeit bei der Auswahl widerspricht der Vorrangregel."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "Lehrer Uhl hat im Schuljahr 24 Supplierstunden gehalten und streitet mit der Direktion über die Abrechnung. Diese will nur zwei Stunden vergüten und behauptet zusätzlich, die Auswahl der Vertreter stehe ihr völlig frei. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Uhl bekommt vier Stunden besonders vergütet. Zwanzig Stunden sind unvergütete Pflicht, jede weitere wird bezahlt, und einzuteilen sind zuerst jene mit noch offenem Kontingent. Die Abrechnung der Direktion mit nur zwei vergüteten Stunden ist daher falsch. Zum Nachlesen: LDG §50 Abs.4."
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.8",
+    "id": "B33-L3-009",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Alle Vollzeitkräfte müssen bereits im höchsten Unterrichtsausmaß verwendet sein.",
+      "Alle Teilzeitkräfte müssen mit ihrem aliquoten Anteil bereits verwendet sein.",
+      "Ohne diese Auslastung ist die Überschreitung nur bei zwingender Notwendigkeit für den Schulbetrieb zulässig.",
+      "Die Obergrenze darf jederzeit überschritten werden, wenn es organisatorisch praktisch ist.",
+      "Teilzeitkräfte bleiben bei dieser Prüfung außer Betracht.",
+      "Die Direktion darf die Obergrenze ohne jede Voraussetzung sprengen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Volle Auslastung der Vollzeitkräfte ist die erste Hürde.",
+      "Richtig: Auch Teilzeitkräfte zählen mit ihrem aliquoten Anteil mit.",
+      "Richtig: Nur Zwingendes und Unvermeidbares rechtfertigt die Ausnahme.",
+      "Falsch: Praktische Gründe allein genügen gerade nicht.",
+      "Falsch: Teilzeitkräfte sind in die Prüfung einzubeziehen.",
+      "Falsch: Voraussetzungslos geht hier gar nichts."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS"
+    ],
+    "situation": "Eine Volksschuldirektorin will Lehrer Urban dauernde Stunden über der Obergrenze zuteilen, obwohl mehrere Kolleginnen in ihrer Einteilung noch deutlich Luft haben. Das Kollegium prüft die Voraussetzungen für eine solche Anordnung. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Urbans Stunden über der Obergrenze sind derzeit unzulässig. Erst müssen alle Vollzeitkräfte im Höchstausmaß und alle Teilzeitkräfte aliquot eingesetzt sein, sonst trägt nur zwingende Notwendigkeit die Ausnahme. Solange Kolleginnen noch Luft haben, scheidet die Anordnung daher aus. Zum Nachlesen: LDG §50 Abs.8."
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.9",
+    "id": "B33-L3-010",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Vergütung für dauernde Mehrstunden läuft trotz der Abwesenheiten grundsätzlich weiter.",
+      "Bei Unterricht an höchstens fünf Tagen kürzt jeder Fehltag die Wochenvergütung um ein Fünftel.",
+      "Bei Unterricht an sechs Tagen beträgt die Kürzung pro Fehltag ein Sechstel.",
+      "Bei Krankheit entfällt die Vergütung für das ganze Monat.",
+      "Kranke erhalten die doppelte Vergütung als Ausgleich für den Ausfall.",
+      "Die Höhe der Kürzung legt die Direktion nach eigenem Ermessen fest."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Weiterzahlung trotz Abwesenheit ist der Grundsatz.",
+      "Richtig: Die Fünftelregel gilt pro versäumtem Tag in der Fünf-Tage-Woche.",
+      "Richtig: Sechs-Tage-Lehrer werden mit Sechsteln abgerechnet.",
+      "Falsch: Eine Monatssperre sieht das Gesetz nicht vor.",
+      "Falsch: Einen Krankheitszuschlag gibt es nicht.",
+      "Falsch: Die Kürzungssätze sind fix und kein Ermessen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Vogl mit dauernden Mehrstunden fehlt in einer Woche zwei Tage wegen Krankheit, Kollege Wolf unterrichtet an sechs Tagen pro Woche und fehlt einen Tag. Beide streiten mit der Direktion über die Kürzung ihrer Mehrdienstleistungsvergütung. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Vogl verliert zwei Fünftel, Wolf ein Sechstel der Wochenvergütung. Dauernde Mehrstunden werden bei Krankheit weiterbezahlt und nur tageweise gekürzt, je nach Zahl der wöchentlichen Unterrichtstage mit Fünfteln oder Sechsteln. Eine Monatssperre gibt es daher nicht. Zum Nachlesen: LDG §50 Abs.9."
+  },
+  {
+    "hauptquelle": "LDG §43 Abs.4",
+    "id": "B33-L3-011",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Fachfremdheit allein berechtigt nicht zur Verweigerung, auch fachfremder Unterricht ist im Bedarf zu halten.",
+      "Ein bereits erfülltes Vertretungskontingent beendet die Supplierpflicht nicht.",
+      "Der Einsatz im Freizeitbereich der Tagesbetreuung darf ohne eigene Zustimmung abgelehnt werden.",
+      "Fachfremde Supplierstunden dürfen immer straflos abgelehnt werden.",
+      "Nach zwanzig Vertretungsstunden ist jede weitere Verweigerung automatisch berechtigt.",
+      "Vertretungen dürfen von der Direktion nur an Freiwillige vergeben werden."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die Fachfremd-Pflicht sichert im Bedarfsfall die Betreuung der Klassen.",
+      "Richtig: Das volle Kontingent löst nur die Vergütung aus, nicht das Verweigerungsrecht.",
+      "Richtig: Ohne Zustimmung ist genau diese Verwendung unzulässig.",
+      "Falsch: Das Studium begrenzt die Supplierpflicht im Bedarf gerade nicht.",
+      "Falsch: Die Pflicht bleibt bestehen, nur die Bezahlung beginnt.",
+      "Falsch: Angeordnete Vertretungen sind Dienstpflicht, keine Freiwilligenaktion."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Im Konferenzzimmer entwirft das Kollegium eine Checkliste, wann eine angeordnete Supplierstunde verweigert werden darf und wann nicht. Drei häufige Irrtümer aus dem Alltag stehen zur Abstimmung. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Nur die Ablehnung ohne Zustimmung ist berechtigt. Fachfremdheit und ein volles Kontingent beenden die Supplierpflicht nicht, erstere löst gar nichts und letzteres nur die Vergütung aus. Die Checkliste muss daher genau diese Abgrenzung festhalten. Zum Nachlesen: LDG §43 Abs.4.",
+    "zusatzquellen": [
+      "LDG §50 Abs.4",
+      "LDG §43 Abs.5"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.4",
+    "id": "B33-L3-012",
+    "level": "L3",
+    "modul_id": "B33",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Das Kontingent begrenzt nur die unvergütete Pflicht, weitere Stunden sind zu halten und werden vergütet.",
+      "Richtig erkannt: Die Pflicht bleibt bestehen, die Überschreitung löst die besondere Vergütung aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check im Konferenzzimmer: Eine Kollegin behauptet, wer sein jährliches Vertretungskontingent erfüllt habe, dürfe jede weitere Supplierstunde ablehnen.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, das Kontingent beendet die Pflicht nicht. Erfüllt ist damit nur die unvergütete Pflicht, jede weitere angeordnete Supplierstunde ist zu halten und wird besonders vergütet. Zum Nachlesen: LDG §50 Abs.4."
+  }
+]

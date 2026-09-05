@@ -1,1 +1,254 @@
-[]
+[
+  {
+    "hauptquelle": "LDG §56 Abs.1",
+    "id": "B33-L4-001",
+    "level": "L4",
+    "modul_id": "B33",
+    "optionen": [
+      "Veit muss Bereitschaft halten, weil die Direktion das jederzeit anordnen darf.",
+      "Veit darf verweigern, in den Ferien bestehen nur besondere Verpflichtungen wie Prüfungen.",
+      "Veit muss nur kommen, wenn er dafür eine eigene Zulage erhält.",
+      "Bereitschaft in den Ferien trifft nur dienstjunge Lehrer, Veit ist ausgenommen."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Beurlaubung in den Ferien gilt nicht schrankenlos, aber Bereitschaft ohne Anlass deckt sie nicht.",
+      "Richtig: Ohne besondere Verpflichtung bleibt die Ferienbeurlaubung bestehen.",
+      "Falsch: Auf eine Zulage kommt es nicht an, sondern auf das Vorliegen einer besonderen Verpflichtung.",
+      "Falsch: Das Dienstalter verteilt Feriendienste gerade nicht."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Direktorin Traun ordnet für die erste Sommerferienwoche eine tägliche Supplierbereitschaft des halben Kollegiums an, um für alle Fälle gerüstet zu sein. Lehrer Veit verweigert mit dem Hinweis, er sei in den Ferien beurlaubt, konkrete Prüfungen oder Aufträge liegen nicht vor.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Veit darf die pauschale Bereitschaft verweigern. In den Ferien ist man grundsätzlich beurlaubt, Dienstpflicht besteht nur bei besonderen Verpflichtungen wie der Abhaltung von Prüfungen. Eine anlasslose Supplierbereitschaft gehört nicht dazu. Zum Nachlesen: LDG §56 Abs.1."
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.9",
+    "id": "B33-L4-002",
+    "level": "L4",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Streichung ist richtig, weil nur echte Krankheit die Vergütung schützt.",
+      "Die Vergütung läuft weiter und kürzt sich nur um ein Fünftel für den einen Fehltag.",
+      "Die Vergütung entfällt für das ganze Monat, sobald ein einziger Tag fehlt.",
+      "Bei Pflegefreistellung verdoppelt sich die Vergütung als Ausgleich für die Belastung."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Die Pflegefreistellung wirkt auf die Vergütung genau wie eine Erkrankung.",
+      "Richtig: Weiterzahlung mit tageweiser Fünftelkürzung lautet die Regel.",
+      "Falsch: Eine Monatssperre sieht das Gesetz nicht vor.",
+      "Falsch: Einen solchen Zuschlag gibt es nicht, die Vergütung vermindert sich vielmehr."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrerin Winkler leistet das ganze Jahr dauernde Mehrstunden und fehlt in einer Woche einen Tag wegen einer Pflegefreistellung für ihr krankes Kind. Die Direktion streicht daraufhin die gesamte Wochenvergütung, weil Pflegefreistellung keine echte Krankheit sei.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Winkler verliert nur ein Fünftel der Wochenvergütung. Dauernde Mehrstunden werden bei Pflegefreistellung genau wie bei Erkrankung weiterbezahlt und nur tageweise gekürzt. Die Totalstreichung der Woche ist daher rechtswidrig. Zum Nachlesen: LDG §50 Abs.9."
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.6",
+    "id": "B33-L4-003",
+    "level": "L4",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Direktion hat recht, das Kontingent von zwanzig Stunden gilt für alle gleich.",
+      "Xander bekommt die Stunden elf bis vierzehn vergütet, weil sein Kontingent nur zehn beträgt.",
+      "Xander geht leer aus, weil Teilzeitkräfte keine Vergütung erhalten.",
+      "Vergütet wird erst ab der einundzwanzigsten Stunde, dafür aber im doppelten Satz."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Volle Stundenwerte gelten bei Teilzeit nur im aliquoten Ausmaß.",
+      "Richtig: Die halbe Norm halbiert das Kontingent, alles darüber wird vergütet.",
+      "Falsch: Auch Teilzeitkräfte haben Anspruch auf die besondere Vergütung.",
+      "Falsch: Weder die Schwelle noch einen doppelten Satz gibt es hier."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "VS",
+      "MS"
+    ],
+    "situation": "Lehrer Xander unterrichtet mit halber Lehrverpflichtung und hat im Jahr vierzehn Supplierstunden gehalten. Die Direktion will erst ab der einundzwanzigsten Stunde vergüten, weil das Kontingent für alle gleich sei.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Xander bekommt vier Stunden besonders vergütet. Bei halber Jahresnorm gilt auch das Vertretungskontingent nur zur Hälfte, also zehn statt zwanzig Stunden. Die Stunden elf bis vierzehn liegen daher bereits in der vergütungspflichtigen Zone. Zum Nachlesen: LDG §50 Abs.6.",
+    "zusatzquellen": [
+      "LDG §50 Abs.4"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.3",
+    "id": "B33-L4-004",
+    "level": "L4",
+    "modul_id": "B33",
+    "optionen": [
+      "Aigner geht leer aus, weil jede Vertretung unvergütet bleibt.",
+      "Aigner bekommt die dauernden Mehrstunden besonders vergütet, weil seine Einteilung unbedingt erforderlich geändert wurde.",
+      "Vergütet wird nur, wenn Aigner die Klasse freiwillig übernommen hat.",
+      "Aigner erhält statt Geld einen Freizeitausgleich in doppelter Höhe."
+    ],
+    "pro_option_feedback": [
+      "Falsch: Dauervertretungen über dem eigenen Ausmaß sind gerade vergütungspflichtig.",
+      "Richtig: Geänderte Einteilung plus dauernde Überschreitung lösen die besondere Vergütung aus.",
+      "Falsch: Auf Freiwilligkeit kommt es nicht an, sondern auf Dauer und Einteilungsänderung.",
+      "Falsch: Das Gesetz sieht hier eine Geldvergütung vor."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "MS"
+    ],
+    "situation": "Kollegin Yilmaz fällt ab November für den Rest des Schuljahres aus. Lehrer Aigner übernimmt ihre Klasse dauerhaft mit geänderter Lehrfächerverteilung und unterrichtet dadurch ständig mehr als sein zugewiesenes Ausmaß, die Direktion spricht von unvergüteten Einzelvertretungen.",
+    "stand": "04.09.2026",
+    "typ": "single",
+    "aufloesung": "Aigner bekommt die besondere Vergütung für die Dauervertretung. Wurde die Einteilung unbedingt erforderlich geändert und wird dauernd über das eigene Ausmaß hinaus unterrichtet, liegt keine unvergütete Einzelvertretung mehr vor. Die Direktion muss die Mehrstunden daher vergüten. Zum Nachlesen: LDG §50 Abs.3."
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.3",
+    "id": "B33-L4-005",
+    "level": "L4",
+    "modul_id": "B33",
+    "optionen": [
+      "Die unbedingt erforderliche Änderung der Einteilung begründet eine vergütungspflichtige Dauervertretung.",
+      "Der dauernde Unterricht über dem zugewiesenen Ausmaß löst die besondere Vergütung aus.",
+      "Die eigene zweitägige Erkrankung kürzt nur tageweise, sie streicht nicht den ganzen Monat.",
+      "Schon einzelne gelegentliche Supplierstunden lösen diese besondere Vergütung aus.",
+      "Bei eigener Krankheit entfällt die Vergütung für das gesamte Monat.",
+      "Die Vergütung gibt es nur, wenn die Vertretung freiwillig übernommen wurde."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Die unbedingt erforderliche Änderung ist der Auslöser der Dauervertretung.",
+      "Richtig: Dauer plus Überschreitung des eigenen Ausmaßes sind entscheidend.",
+      "Richtig: Gekürzt wird nur anteilig pro Fehltag, der Rest bleibt bestehen.",
+      "Falsch: Gelegentliche Stunden laufen über das normale Vertretungskontingent.",
+      "Falsch: Eine Monatssperre sieht das Gesetz nicht vor.",
+      "Falsch: Freiwilligkeit ist keine Voraussetzung der Vergütung."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "MS",
+      "PTS"
+    ],
+    "situation": "Lehrerin Bacher vertritt seit Jänner dauerhaft eine langzeitkranke Kollegin mit geändertem Stundenplan und fehlt im März selbst zwei Tage wegen Krankheit. Die Direktion will ihr die Vergütung für den ganzen März streichen und bestreitet die Dauervertretung überhaupt. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Bacher behält ihre Vergütung bis auf zwei Fünftel einer Woche. Die Dauervertretung mit geänderter Einteilung ist besonders zu vergüten, und die eigene Krankheit kürzt nur tageweise statt den Monat zu streichen. Die Direktion schuldet daher fast die volle Vergütung. Zum Nachlesen: LDG §50 Abs.3.",
+    "zusatzquellen": [
+      "LDG §50 Abs.9"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §56 Abs.5",
+    "id": "B33-L4-006",
+    "level": "L4",
+    "modul_id": "B33",
+    "optionen": [
+      "Die Rückberufung aus den Ferien braucht wichtige dienstliche Gründe.",
+      "Sie ist so rasch wie möglich zu beenden, sobald es der Dienst gestattet.",
+      "Die unvermeidlichen Mehrauslagen werden ersetzt, bei Unzumutbarkeit der getrennten Urlaubsfortsetzung auch für die Angehörigen.",
+      "Zurückberufen darf man jederzeit auch ohne jeden Grund.",
+      "Stornokosten trägt immer der Lehrer selbst, Ferien sind Privatsache.",
+      "Die mitgereiste Familie wird beim Kostenersatz grundsätzlich nie berücksichtigt."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Ohne wichtigen Grund gibt es keine Rückberufung aus den Ferien.",
+      "Richtig: Die Belastung ist so kurz wie möglich zu halten.",
+      "Richtig: Mehrauslagen plus Familie bei Unzumutbarkeit werden ersetzt.",
+      "Falsch: Grundlose Rückberufungen sind unzulässig.",
+      "Falsch: Unvermeidliche Kosten trägt gerade der Dienstgeber.",
+      "Falsch: Angehörige sind bei Unzumutbarkeit ausdrücklich einbezogen."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Kogler wird überraschend aus dem Familienurlaub zurückberufen, weil sonst eine Prüfungskommission platzen würde und niemand sonst einspringen kann. Er muss Flüge umbuchen, die Familie reist mit ihm zurück, die Direktion will die Stornokosten nicht ersetzen. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Koglers Rückberufung ist zulässig, aber nicht auf seine Kosten. Wichtige Gründe tragen die Anordnung, sie ist schnellstmöglich zu beenden und die unvermeidlichen Mehrauslagen werden ersetzt, bei Unzumutbarkeit auch für die Familie. Die Direktion muss daher die Stornokosten übernehmen. Zum Nachlesen: LDG §56 Abs.5.",
+    "zusatzquellen": [
+      "LDG §56 Abs.6"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §46b Abs.4",
+    "id": "B33-L4-007",
+    "level": "L4",
+    "modul_id": "B33",
+    "optionen": [
+      "In der Wiedereingliederung darf außer einer Supplierstunde pro Woche keine Mehrdienstleistung angeordnet werden.",
+      "Die anteilige Supplierverpflichtung aus dem Pflichtkontingent bleibt daneben bestehen.",
+      "Teilzeitkräfte sind nach Möglichkeit weniger zu Mehrdiensten heranzuziehen als Vollzeitkräfte.",
+      "In der Wiedereingliederung sind unbegrenzt viele Mehrstunden anordenbar.",
+      "Die anteilige Supplierpflicht entfällt in der Wiedereingliederung vollständig.",
+      "Teilzeitkräfte sind vorrangig für sämtliche Mehrdienste einzuplanen."
+    ],
+    "pro_option_feedback": [
+      "Richtig: Eine Stunde pro Woche ist die einzige zulässige zusätzliche Mehrleistung.",
+      "Richtig: Das anteilige Pflichtkontingent läuft trotzdem weiter.",
+      "Richtig: Die Schonregel schützt Teilzeitkräfte ausdrücklich vor Überlastung.",
+      "Falsch: Unbegrenzt geht in der Rückkehrphase gerade nicht.",
+      "Falsch: Unberührt heißt, dass die anteilige Pflicht bestehen bleibt.",
+      "Falsch: Vorrangig verplant werden Teilzeitkräfte gerade nicht."
+    ],
+    "richtig": [
+      0,
+      1,
+      2
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Lehrer Leitner kehrt in Wiedereingliederungsteilzeit zurück, Kollegin Marek arbeitet dauerhaft halbtags. Der Vertretungsplan bürdet beiden wöchentlich mehrere Supplierstunden auf, beide wehren sich gegen die Überlastung. Wähle alles Zutreffende.",
+    "stand": "04.09.2026",
+    "typ": "multiple",
+    "aufloesung": "Beide Pläne sind zu kürzen, aber aus verschiedenen Gründen. Leitner schützt die Ein-Stunden-Grenze der Wiedereingliederung bei fortbestehender anteiliger Pflicht, Marek die Schonregel für Teilzeitkräfte. Der Vertretungsplan muss daher beide entlasten. Zum Nachlesen: LDG §46b Abs.4.",
+    "zusatzquellen": [
+      "LDG §47 Abs.4"
+    ]
+  },
+  {
+    "hauptquelle": "LDG §50 Abs.3",
+    "id": "B33-L4-008",
+    "level": "L4",
+    "modul_id": "B33",
+    "optionen": [
+      "Richtig",
+      "Falsch"
+    ],
+    "pro_option_feedback": [
+      "Falsch gedacht: Gelegentliche Stunden laufen über das normale Kontingent, die besondere Vergütung braucht Dauer und Einteilungsänderung.",
+      "Richtig erkannt: Erst dauernder Unterricht über dem Ausmaß nach geänderter Einteilung löst diese Vergütung aus."
+    ],
+    "richtig": [
+      1
+    ],
+    "schulart": [
+      "alle"
+    ],
+    "situation": "Mythen-Check zum Schulschluss: Ein Kollege behauptet, auch einzelne gelegentliche Supplierstunden lösten bereits die besondere Vergütung für dauernde Mehrleistungen aus.",
+    "stand": "04.09.2026",
+    "typ": "tf",
+    "aufloesung": "Die Behauptung ist falsch, gelegentliche Stunden genügen nicht. Die besondere Vergütung braucht eine unbedingt erforderliche Änderung der Einteilung plus dauernden Unterricht über dem zugewiesenen Ausmaß. Einzelne Supplierstunden fallen unter das normale Kontingent. Zum Nachlesen: LDG §50 Abs.3."
+  }
+]
